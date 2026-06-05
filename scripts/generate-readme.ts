@@ -17,6 +17,7 @@ import {
   type MaterialDiff,
 } from "./utils/api-client.js";
 import { generateOriginalPrompts, generateReadme } from "./utils/markdown.js";
+import { orderItemsForDisplay } from "./utils/sort.js";
 import {
   DEFAULT_README_LOCALE,
   MATERIALS_API_BASE,
@@ -52,7 +53,7 @@ async function main() {
   fs.mkdirSync(path.join(ROOT, "docs"), { recursive: true });
 
   const originalPath = path.join(ROOT, PROMPTS_ORIGINAL_FILE);
-  const originalMd = generateOriginalPrompts(source);
+  const originalMd = generateOriginalPrompts(orderItemsForDisplay(source));
   fs.writeFileSync(originalPath, originalMd, "utf-8");
   console.log(`   📝 Wrote ${PROMPTS_ORIGINAL_FILE} (${source.length} source-layer prompts)`);
 

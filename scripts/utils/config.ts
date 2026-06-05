@@ -81,7 +81,7 @@ export const OFFLINE = process.env.OFFLINE === "1" || process.env.OFFLINE === "t
 // ---------------------------------------------------------------------------
 
 /** Top-N prompts (by hot score) rendered as full "Featured" cards. */
-export const FEATURED_COUNT = 8;
+export const FEATURED_COUNT = 5;
 
 /** Max prompts rendered in the "All Prompts" section before linking to the site. */
 export const MAX_ALL_PROMPTS = 100;

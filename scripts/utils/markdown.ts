@@ -22,6 +22,7 @@ import {
   t,
   tList,
 } from "./i18n.js";
+import { partitionFeaturedAndRest } from "./sort.js";
 
 const REPO_URL = `https://github.com/${GITHUB_REPO}`;
 const ISSUE_NEW = `${REPO_URL}/issues/new?template=submit-prompt.yml`;
@@ -49,8 +50,7 @@ export function generateReadme(
   locale: Locale,
   libraryTotal?: number,
 ): string {
-  const featured = items.slice(0, FEATURED_COUNT);
-  const rest = items.slice(FEATURED_COUNT);
+  const { featured, rest } = partitionFeaturedAndRest(items);
   const shown = rest.slice(0, MAX_ALL_PROMPTS - FEATURED_COUNT);
   const hidden = items.length - (featured.length + shown.length);
   const total = libraryTotal ?? items.length;

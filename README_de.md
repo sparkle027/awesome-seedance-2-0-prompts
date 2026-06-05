@@ -269,98 +269,425 @@ Aufgenommen, um einer authentischen Sony Cyber-shot Point-and-Shoot-Kamera aus d
 
 ---
 
-### 6. Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…
+<a id="all-prompts"></a>
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
+## 📋 Alle Prompts
+
+### 6. Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="640" alt="Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hartes, direktes Sonnenlicht erzeugt kontrastreiche Schatten. Handgeführte Kamerafahrt (3rd-Person-Perspektive/über die Schulter). Atmosphäre: staubig, Küstenwind, realistische Physik.
+Klassischer Disney-Animationsstil der 90er Jahre.
 
-Audio: Schweres, rhythmisches Atmen, Kies knirscht unter den Füßen, intensives Windheulen, plötzliche Stille während des Sprungs, gefolgt von einem schweren Aufprallgeräusch auf Plastik.
+Szene 1: In einem ägyptischen Palast wechselt die Kamera in den Thronsaal. Wir sehen: Der majestätische Schakalgott Anubis sitzt auf seinem Thron, während eine Gruppe von Untergebenen (Soldaten, Berater und einige einfache Diener, alle Menschen) vor ihm kniet. Er winkt lässig ab und sagt verächtlich: „Geht jetzt.“ Dann lehnt er sich gelangweilt zurück.
 
-[ZEITPLAN SEKUNDE FÜR SEKUNDE]
+Szene 2: Die Untergebenen gehorchen ohne Zögern und gehen langsam weg, während Anubis sie beobachtet. Doch den letzten, einen einfachen menschlichen Diener, hält er auf: „Du, Diener, warte.“ Der Diener dreht sich verwirrt und überrascht um, ohne zu verstehen, was der mächtige Anubis von ihm will.
 
-0-4s: [Kamerafahrt] Die Handkamera folgt dicht hinter einem leicht übergewichtigen Mann in einem grauen, zerknitterten Trainingsanzug, der auf eine Klippe zuläuft. Detaillierte Stoffphysik: Der Trainingsanzug wellt sich bei jedem Schritt. Staub wirbelt vom Boden auf.
+Szene 3: Nachdem die anderen gegangen sind, sagt Anubis: „Komm her.“ Der Diener ist nervös und immer noch ratlos, während er auf Anubis zugeht.
 
-4-7s: [Der Sprung] Der Mann erreicht den Abgrund und springt mit voller Kraft. Die Kamera senkt sich leicht mit ihm, als er den Boden verlässt. Echtzeit-Übergang zu einer schnellen Abwärts-Kamerafahrt.
+Szene 4: Anubis holt einen Blumenstrauß hinter dem Thron hervor und reicht ihn dem überraschten Diener mit lässiger Miene. Er dreht den Kopf leicht zur Seite, wirkt etwas verlegen und vermeidet Augenkontakt, während er sagt: „Nimm ihn.“
 
-7-12s: [Freier Fall] Das Subjekt fällt mit hoher Geschwindigkeit. Die Kamera bleibt auf seinen Rücken/seine Seite fixiert. Physik: Der Wind verzerrt den Stoff des Trainingsanzugs und seine Haut. Der Boden nähert sich schnell mit realistischer Bewegungsunschärfe.
+Szene 5: Der Diener nimmt den Strauß entgegen, immer noch verwirrt. Anubis schaut ihn weiterhin nicht an, winkt ab und sagt: „Du kannst gehen.“ Der Diener nickt, nimmt den Strauß und geht ratlos davon.
 
-12-15s: [Die Landung] Das Subjekt prallt unten auf ein massives, buntes aufblasbares Luftkissen. Physik: Das Luftkissen verformt sich beim Aufprall stark und federt zurück. Die Kamera wackelt durch die Wucht der Landung. Geräusch von entweichender Luft.
+Szene 6: Anubis sieht dem Diener nach. Sein Gesichtsausdruck ist immer noch lässig, doch ein leichtes Lächeln spielt um seine Mundwinkel. Er stützt das Kinn auf die Hand und beobachtet den Diener, da er offensichtlich Gefallen an ihm gefunden hat.
 
-[STIL & QUALITÄTSVERBESSERER]
+Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er hat einen nackten Oberkörper. Seine Stimme ist tief und magnetisch. Die Sprache ist Englisch.
+```
 
-Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte Bewegungsunschärfe, hoher Dynamikumfang, keine Artefakte, kohärente multimodale Physik, Stabilität auf Filmniveau.
+**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
+
+❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+
+<sub>📅 May 31, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 7. Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s)
+Kontrastreiche, filmische Beleuchtung mit kühlem cyan-blauem Laptop-Schein im Kontrast zu warmem, bernsteinfarbenem Licht und glänzenden Schokoladenreflexionen. Hochwertige Luxus-Werbeästhetik. Schnelle Schnitte, Whip-Pans, Dutch Tilts, Handkamera-Energie, dynamische Tracking-Shots, filmischer Realismus, geringe Schärfentiefe, ausdrucksstarke Nahaufnahmen, stimmungsvolle Wohnungsatmosphäre, sinnliche Food-Cinematography, glänzende Texturen, dezente Filmkörnung, anamorphotische Highlights, realistische Hauttextur, emotionaler Realismus, moderner Werbekampagnen-Look. Keine Untertitel. Minimales Voice-Over nur in ausgewählten emotionalen Momenten. Natürliches Sounddesign mit Tastaturklicken, knisternder Folie, leisem Atmen, Mausklicks, Schrankknarren und tiefen filmischen Bassimpulsen.
+Shot-für-Shot-Aufschlüsselung (0:15)
+Shot 1 — 0:01 — Extreme Nahaufnahme
+Die Augen einer jungen blonden Frau spiegeln scrollende Dokumente und das blaue Laptop-Licht wider, während sie schnell dichte Daten scannt. Ein kühler cyanfarbener Schein flackert über ihre porzellanartige Haut. Extrem geringe Schärfentiefe, intensive Augenreflexionen, filmisches Makro-Objektiv.
+Voice Over:
+„Manche Nächte verlangen mehr.“
+Shot 2 — 0:02 — Halbtotale
+Sie sitzt mit gekreuzten Beinen auf einem zerknitterten Sofa in einer dunklen Wohnung und tippt hektisch. Ein rostorangefarbenes Seiden-Camisole fängt das kühle blaue Laptop-Licht ein, während warme Schatten den Raum umgeben. Handkamera-Bewegungen sorgen für Dringlichkeit.
+Shot 3 — 0:03 — Whip Pan
+Schneller Whip-Pan in Richtung Vorratsschrank. Schranktüren schwingen dramatisch auf und lassen warmes bernsteinfarbenes Licht über ihr Gesicht fallen, wie eine Versuchung, die den Stress unterbricht.
+Shot 4 — 0:04 — Schokoladen-Nahaufnahme
+Sie beißt mit einem knackigen Geräusch in eine dunkle Schokoladentafel. Ihre Augen schließen sich kurz vor Erleichterung. Goldfolie knistert leise in ihrer Hand. Reichhaltige, glänzende Schokoladentextur, filmische Food-Fotografie.
+Shot 5 — 0:05 — Halbtotale, Dutch Tilt
+Zurück am Arbeitsplatz. Sie tippt aggressiv mit einer Hand, während sie eine Schokoladentrüffel zwischen den Lippen balanciert. Ein leichter Dutch-Angle verstärkt das wachsende Chaos.
+Shot 6 — 0:06 — Over-the-Shoulder-Shot
+Der Laptop-Bildschirm zeigt komplexe Diagramme und Datenvisualisierungen. Mit Kakaopulver bestäubte Finger schlagen auf die Enter-Taste und hinterlassen schwache Schokoladenflecken auf dem Trackpad. Kühler Bildschirmglanz dominiert den Rahmen.
+Shot 7 — 0:07 — Emotionale Nahaufnahme
+Die Frustration erreicht ihren Höhepunkt. Sie fährt sich mit beiden Händen durch das unordentliche blonde Haar und atmet schwer aus. Feines Kakaopulver haftet an ihren Fingerspitzen. Warmes und kühles Licht prallen dramatisch auf ihrem Gesicht aufeinander.
+Voice Over:
+„Wenn der Druck zunimmt…“
+Shot 8 — 0:08 — Schneller Schnitt
+Wieder am Vorratsschrank stehend, greift sie mit der rechten Hand in eine Keramikschale, die mit luxuriösen handwerklichen Pralinen überquillt. Warmes goldenes Licht erblüht um sie herum.
+Shot 9 — 0:09 — Mittlere Nahaufnahme
+Am Schreibtisch sitzend isst sie direkt aus der Schokoladenschale, während sie ausdruckslos auf den leuchtenden Monitor starrt. Erschöpfung durch Termindruck gemischt mit Komfort und Genuss.
+Shot 10 — 0:10 — Untersicht
+Kamera auf Tastaturebene, während ihre Finger mit maschinenartiger Präzision tippen. Ihr Gesicht leuchtet in einer Mischung aus Cyan- und Bernsteintönen, hochkonzentriert.
+Shot 11 — 0:11 — Makro-Nahaufnahme
+Sie wickelt mit zitternden Fingern ein weiteres Stück dunkle Schokolade aus, während sie intensiv auf den leuchtenden Bildschirm starrt. Die Goldfolie fängt warmes bernsteinfarbenes Licht ein und wirft schimmernde Reflexionen auf ihr Gesicht. Das Geräusch der knisternden Folie schneidet scharf durch die Stille, bevor sie einen weiteren Bissen nimmt.
+Shot 12 — 0:12 — Dynamischer Orbit-Shot
+Die Kamera kreist um sie herum, während sie in eine mit Schokolade überzogene Brezel beißt, ohne die Konzentration auf den Monitor zu verlieren. Filmische Tracking-Bewegung, glänzende Highlights, dramatische Schärfentiefe.
+Shot 13 — 0:13 — Sieges-Nahaufnahme
+Ein dezenter Schokoladenfleck ruht auf ihrer Unterlippe. Sie lächelt leicht und klickt mit der Maus. Das blaue Monitorlicht spiegelt den Triumph in ihren Augen wider.
+Shot 14 — 0:14 — Halbtotale
+Sie schließt den Laptop mit einem festen, entschlossenen Klappgeräusch und lässt sich rückwärts auf das Sofa fallen, wobei sie einen massiven, erschöpften Seufzer ausstößt.
+Shot 15 — 0:15 — Letzte Totale
+Sie sinkt tief in das Sofa, ausgelaugt, aber zufrieden. Um sie herum: verstreute Goldverpackungen, leere Keramikschale, geschlossener Laptop, warme Umgebungsbeleuchtung der Wohnung, friedliche Stille nach dem Sturm.
+Voice Over:
+„…übernimmt der Genuss.“
+Filmische Keywords
+Luxus-Werbung, filmischer Realismus, stimmungsvolle Wohnung, Food-Cinematography, geringe Schärfentiefe, Handkamera-Energie, Premium-Lifestyle-Ästhetik, warme praktische Beleuchtung, kühler Bildschirmglanz, glänzende Schokoladentexturen, ausdrucksstarke Gesichts-Nahaufnahmen, schnelles Editing, emotionaler Realismus, moderne Werbung, filmische Spannung, genussvolle Atmosphäre, elegante Unordnung, dramatische Beleuchtung, High-End-Werbefilmproduktion.
+```
+
+**Von** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K Follower
+
+❤️ 565 · 🔁 90 · 🔖 83 · 👁 33.3K
+
+<sub>📅 May 30, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 8. POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert
+
+Gugugaga hatte nur ein Knödel… aber sie teilte es trotzdem mit einem hungrigen kleinen Hasen im Regen
+Was danach passierte, ließ mein Herz schmelzen
+
+Erstellt diesen gemütlichen 3D-Animationskurzfilm im Pixar-Stil mit GPT Image 2 + Seedance
+
+Ein großes Dankeschön an @renoiseai canvas, dass ihr geholfen habt, diese herzerwärmende Welt zum Leben zu erwecken
+
+Würdest du deinen letzten Knödel teilen?
+
+Der Prompt ist im Video
+Schreib mir eine DM für den vollständigen Prompt
+```
+
+**Von** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K Follower
+
+❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+
+<sub>📅 May 29, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 9. Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…
+
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**🖼️ Bild-Prompt**
+
+```
+Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout, das in zwei Abschnitte unterteilt ist.
+LINKER ABSCHNITT
+→ Große, fette Typografie "THOMAS REID" in schwerer, schwarzer Großbuchstabenschrift
+→ Untertitel: "THE OCEAN NEVER WINS"
+→ Ganzkörper-fotorealistisches Bild eines echten 27-jährigen, extrem gutaussehenden, athletischen Mannes, der wie ein professioneller Hochseefischer aussieht
+→ Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut
+→ Trägt schwere, saubere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt
+→ Völlig ruhige, kraftvolle, selbstbewusste Haltung auf sauberem weißem Hintergrund
+→ Beleuchtung: Weiches, kaltes natürliches Licht wie bei einem echten Dokumentar-Fotoshooting
+→ Kleiner Text darunter: "BUILT BY WAVES. BORN TO ENDURE."
+
+RECHTER ABSCHNITT
+→ PERSÖNLICHKEIT: Unerschütterlich in jedem Sturm / Keine verschwendete Bewegung / Jede Reise hat ihren Preis / Das Meer respektiert niemanden
+→ DETAILS: Alter 27 / Nationalität Norwegen / Haltung Vorwärtsgriff / Stil Hochsee-Ausdauer / Status Aufsteigende Legende
+→ HAUPTMERKMALE: Eiserne Geduld / Rohe Kraft / Explosiver Überlebensinstinkt / Zeitlose Seemannschaft
+→ DETAILS IM FOKUS — 4 kleine fotorealistische Nahaufnahme-Boxen:
+Box 1: Starke, vom Seil gezeichnete Hände
+Box 2: Detail eines alten, verrosteten Kompasses
+Box 3: Textur der sauberen gelben wasserdichten Jacke
+Box 4: Detail eines schweren Gummistiefels
+Gesamtstil: Sauberes, minimalistisches Magazin-Editorial-Design / Echte Fotografie-Ästhetik / Kalte Ozeantöne Grau-Türkis-Off-White / Schwere schwarze Typografie / Erstklassige Dokumentar-Publikationsqualität
+```
+
+**🎬 Video-Prompt**
+
+```
+Filmischer Ozean-Dokumentarfilm. Subjekt: Ein 27-jähriger, extrem gutaussehender, athletischer Hochseefischer. Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut. Trägt schwere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt. Altes, verrostetes Fischerboot.
+→ EINSTELLUNG 1 — Extrem niedrige Tracking-Aufnahme auf Deckhöhe. Er bewegt sich bereits mit voller Geschwindigkeit über das Schiffsdeck in Richtung eines verhedderten Netzes. Nachdem er das Netz gewaltsam über die Seite gezogen hat, fängt er kaum seinen Stand auf dem nassen Deck, bevor er sofort wieder nach vorne drängt.
+→ EINSTELLUNG 2 — Whip-Pan-Übergang in eine ausgedehnte Seilziehsequenz. Kontinuierliche Seilreibung und Gischt explodieren über den Rahmen, während die Kamera Schwierigkeiten hat, mit seiner überwältigenden Kraft und Geschwindigkeit Schritt zu halten.
+→ EINSTELLUNG 3 — Weite Kamerafahrt über das gesamte Schiffsdeck. Mehrere schnelle Aufgaben finden direkt hintereinander statt, fast ohne Vorbereitungszeit. Der Kameramann verliert auf dem schaukelnden Boot fast das Gleichgewicht, um der Action zu folgen.
+→ EINSTELLUNG 4 — Komprimierte Langobjektiv-Aufnahme, die eine massive Welle einfängt, die in Zeitlupe über den Bug bricht. Extreme Körperbeherrschung, um die Position gegen die Kraft zu halten, fast weggespült, bevor er sich in letzter Sekunde auf wundersame Weise erholt.
+→ EINSTELLUNG 5 — Ultra-niedrige kreisförmige Tracking-Aufnahme um eine ausgedehnte Balance-Sequenz auf dem rutschigen Deck. Ständige Anpassung gegen den schaukelnden Ozean bringt die Stabilität an die Grenze, doch er passt seinen Griff am Seil mitten in der Bewegung ruhig an, ohne langsamer zu werden.
+→ EINSTELLUNG 6 — Letzte Aufnahme. Eine massive Welle bricht über den Rumpf und umhüllt ihn vollständig. Gischt, Schaum und Bewegungsspuren explodieren über das Deck. Er gleitet in einen festen, breiten Stand, richtet sich langsam auf und erstarrt in einer völlig ruhigen Endpose unter hartem Ozeanlicht. Der Ton bricht sofort ab. Die Kamera friert auf seinem völlig ruhigen und furchtlosen Gesicht ein. Überblende.
+Stil: Ultra-realistischer National Geographic Ozean-Dokumentarfilm kombiniert mit erstklassiger Sportwerbe-Energie. Kalte, entsättigte Töne. Schwere Ozeanatmosphäre. Echte menschliche Kraft und Präsenz.
+```
+
+**Von** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K Follower
+
+❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+
+<sub>📅 May 26, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 10. Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägyptischen Bibliothek sehen wir den majestätischen Schakalgott Anubis, wie er mit den Händen auf dem Rücken lässig die Bücherregale mustert, seine Haltung ist würdevoll. In diesem Moment bemerkt er einen jungen Mann, der nach einem Buch über Rituale auf einem nahegelegenen Tisch greift. Anubis schnappt sich schnell das Buch, hebt einen Arm hoch über den Kopf, entblößt seine Achselhöhle und sagt mit sanfter, aber fester Stimme: Dieses Buch ist nichts für jemanden wie ihn. Szene 2: Der junge Mann sieht enttäuscht aus, lächelt dann aber verschmitzt und fragt Anubis, ob er kitzelig sei, während er gleichzeitig nach der Achselhöhle von Anubis' erhobenem Arm greift, was Anubis etwas verwirrt. Szene 3: Nahaufnahme, die Hand eines Menschen bewegt sich unter Anubis' Achselhöhle auf und ab, wobei diese Bewegung wiederholt wird. Im Hintergrund ist Anubis' unterdrücktes Kichern zu hören, was zeigt, dass er tatsächlich sehr kitzelig ist. Szene 4: Nahaufnahme, Anubis' Oberkörper, die Hand des Menschen bewegt sich weiterhin unter Anubis' Achselhöhle auf und ab. Anubis schließt die Augen, grinst breit und stößt unterdrücktes Kichern aus. Szene 5: Der Mensch kitzelt weiterhin Anubis' Achselhöhle, Anubis kichert mit geschlossenen Augen. Anubis' Lachen bestätigt, dass er wirklich kitzelig ist, dann fängt er wieder an zu kichern, während der Mensch seine Achselhöhle weiter kitzelt. Szene 6: Anubis kichert weiter, wirft schließlich das Buch auf den Boden, umarmt sich selbst und bedeckt seine Achselhöhlen. Der Mensch hört mit dem Kitzeln auf und nimmt das Buch. Anubis kichert, scheint noch in das Lachen vertieft zu sein und sagt lachend, dass er es hasst, gekitzelt zu werden. Der Mensch nimmt lächelnd das Buch entgegen. Anubis ist muskulös und trägt Ringe an Armen und Hals. Seine Stimme ist tief, magnetisch und charismatisch. Anubis' Achselhöhle wird gekitzelt.
+```
+
+**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
+
+❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+
+<sub>📅 May 25, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 11. Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Hauptfigur:
+Ein schönes koreanisches Highschool-Mädchen in einer realistischen koreanischen Sommer-Schuluniform (하복). Natürliche Hauttextur ohne Beauty-Retusche. Das Haar wird im Kampf zerzaust, mit ausdrucksstarkem emotionalem Schauspiel. Die Gesichtsproportionen bleiben in allen Aufnahmen vollkommen konsistent. Sie beginnt schüchtern und schockiert und wird allmählich entschlossen und trotzig.
+
+0–1,5 Sekunden:
+Die Protagonistin lernt ruhig an ihrem Schreibtisch. Vier delinquente Schülerinnen umzingeln sie und beginnen, sie zu schikanieren. Sie verspotten sie fürs Lernen, fegen aggressiv ihre Bücher vom Tisch und stoßen sie an den Schultern. Weitwinkel-Handkamera-Bewegung. Bücher fliegen in Zeitlupe. Angespannte Klassenzimmer-Atmosphäre. Realistische Schul-Mobbing-Energie, wackelige Kamerabewegung, filmischer Realismus.
+
+1,5–3 Sekunden:
+Nahaufnahme des Gesichts der Protagonistin. Sie steht langsam auf. Ihr Ausdruck wandelt sich von Angst zu kalter Entschlossenheit. Die Mobber bleiben in der geringen Schärfentiefe hinter ihr verschwommen. Ein 0,5-sekündiger Moment der Stille. Langsame filmische Push-in-Aufnahme. Stille, abgesehen von Umgebungsgeräuschen im Klassenzimmer und angespanntem Atmen.
+
+3–5 Sekunden:
+Erste Konfrontation. Eine Mobberin schlägt zu; die Protagonistin blockt ab und kontert mit einem Schlag in den Magen. Eine weitere Angreiferin stürmt von der Seite; sie weicht aus und revanchiert sich mit einem drehenden Ellbogenschlag. Handgeführte Tracking-Aufnahmen folgen der Bewegung genau. Dynamische Bewegungsunschärfe, Aufprall-Kamerawackeln, realistische Kampfchoreografie. Keine übernatürlichen Effekte.
+
+5–8 Sekunden:
+Die verbleibenden zwei Mobberinnen greifen gleichzeitig mit Schlägen und Tritten an. Die Protagonistin nutzt schnelle Beinarbeit und Ausweichbewegungen, um Treffern zu entgehen. Dynamische 360-Grad-rotierende Kamerabewegung. Schnelle verkettete Tritte und Ellbogenangriffe werfen die Angreiferinnen zu Boden. Schreibtische und Gegenstände im Klassenzimmer verschieben sich durch die Aufpralle. Intensives filmisches Action-Tempo.
+
+8–10 Sekunden:
+Die letzte Angreiferin stürmt auf die Protagonistin zu. Die Protagonistin springt hoch in die Luft. Untersicht-Aufnahme vom Boden. 30% Zeitlupe. Haar und Rock fließen natürlich. Dramatische filmische Beleuchtung. Schwebender Staub und Partikel in der Luft driften langsam durch die Luft.
+
+10–12 Sekunden:
+360-Grad-Drehkick in der Luft. Zeitlupen-Aufprall trifft direkt die Brust der letzten Mobberin. Extreme Nahaufnahme der Kollision. Die Mobberin wird rückwärts gegen die Klassenzimmerwand geschleudert. Trümmer und Staub explodieren nach außen. Alle Mobberinnen brechen auf dem Boden zusammen. Unmittelbar nach der Landung schnellt die Kamerageschwindigkeit für dramatische Wirkung auf normal zurück.
+
+12–14 Sekunden:
+Sieg-Moment. Die Protagonistin steht allein in der Mitte des Klassenzimmers und atmet schwer. Die vier Mobberinnen liegen besiegt im Raum verteilt. Die Kamera fährt langsam und dramatisch auf ihr Gesicht zu. Weicher filmischer Bokeh-Hintergrund. Ihr Ausdruck ist entschlossen, aber emotional.
+
+14–15 Sekunden:
+Standbild-Nahaufnahme. Die Protagonistin starrt direkt in die Kamera und sagt ruhig auf Koreanisch:
+(„Ich muss aufs College kommen.“)
+Die Darbietung ist realistisch und emotional zurückhaltend. Nachdem der Satz endet, sieht sie wieder wie eine gewöhnliche Schülerin aus. Ruhiges, emotionales Ende. Der Film betont den intensiven akademischen Druck, dem koreanische Schüler ausgesetzt sind.
+
+Stil-Referenzen:
+Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera-Action, emotionaler Realismus, bodenständige Kampfchoreografie, realistische koreanische Klassenzimmer-Atmosphäre, High-Budget Netflix K-Drama-Ästhetik, filmische Beleuchtung, dramatische Stille-Momente, starke weibliche Protagonistin, bodenständiger emotionaler Ton.
+```
+
+**Von** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K Follower
+
+❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
+
+<sub>📅 May 23, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 12. Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…"></a>
+</div>
+
+**📝 Prompt**
+
+```
+Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines Live-Baseballspiels. Sie wirkt ruhig und konzentriert auf das Spiel. Fans um sie herum schwenken Anfeuerungsstäbe und reagieren lebhaft auf das Spiel in einer authentischen Stadionatmosphäre. Echter KBO-Teleobjektiv-Übertragungsstil, geringe Schärfentiefe, subtiles Handkamera-Mikrowackeln, natürliche Live-TV-Bildgestaltung und authentische koreanische Stadionbeleuchtung mit echten Übertragungseinblendungen (Anzeigetafel, Teamlogos, Sponsorengrafiken, Kompressionsartefakte).
+Nach ein paar Sekunden bemerkt sie, dass die Fan-Kamera auf sie gerichtet ist. Sie dreht sich langsam mit einem schüchternen, leicht überraschten Lächeln zur Kamera, streicht sich sanft das Haar hinter das Ohr und schaut dann kurz verlegen nach unten. Fans in der Nähe bemerken es und reagieren natürlich, lächeln und lachen leise.
+Authentisches Stadionambiente mit lautem Fankurvenlärm, Anfeuerungsstäben, Hall des Stadionsprechers und Präsenz des Kommentators. Der koreanische Kommentator sagt leise:
+“와… 정말 아름다우시네요…”
+Kein cineastischer Look, kein Posing, keine Schönheitsfilter, keine dramatische Beleuchtung, keine Zeitlupe, keine Schnitte, reiner, unverfälschter Live-Sportübertragungs-Realismus.
+```
+
+**Von** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K Follower
+
+❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+
+<sub>📅 May 12, 2026</sub>
+
+**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 13. Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-Side-View-Kamera für Kampfspiele, 35mm-Objektiv für Tiefenschärfe.
+Farbkorrektur: Hoher Kontrast, lebendige "Next-Gen"-Gaming-Palette, dramatische Stadionbeleuchtung durch den zentralen Tunnel.
+Atmosphäre: Geladen, kompetitiv, mit schwebenden Staubpartikeln und Lens Flares von den Stadion-Deckenleuchten.
+
+Audio-Stil: Immersives räumliches Sounddesign. Schwere dumpfe Aufprallgeräusche, knochenbrechende SFX, zischende Luft bei Spezialbewegungen und ein finaler schwerer Aufprall auf Holz.
+
+BILDREFERENZEN / LEGENDE
+
+[escene] : Die Umgebungsreferenz (Umkleideraum der Kampfarena und Stadioneingang).
+
+[player1] : Der Kämpfer auf der linken Seite (weißer Trainingsanzug). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
+
+[player2] : Der Kämpfer auf der rechten Seite (blau-grünes Set). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
+
+ZEITPLAN SEKUNDE FÜR SEKUNDE
+0-3s: [Weitwinkelaufnahme] Kämpfer in Weiß [player1] und Kämpfer in Blau [player2] stehen sich in Kampfhaltung in der Mitte der Arena [escene] gegenüber. Gesundheitsbalken und "ROUND 1"-UI erscheinen oben. Der Kämpfer in Weiß führt einen Low-Kick aus; der Kämpfer in Blau blockt mit einem blauen Partikeleffekt-Aufprall.
+
+3-8s: [Action-Sequenz] Schneller Kampf im Mortal Kombat-Stil. Der Kämpfer in Weiß führt einen Spinning Backfist aus; der Kämpfer in Blau duckt sich und kontert mit einem Uppercut.
+
+8-12s: [Spezialbewegung] Der Kämpfer in Blau [player2] greift schnell nach einem nahegelegenen hölzernen Trainingstisch. Er schwingt ihn in einem weiten Bogen. Physik-Interaktion: Der Tisch reflektiert die Deckenbeleuchtung während der Bewegung.
+
+12-15s: [Schlussaufnahme] Der Tisch trifft den Kopf des Kämpfers in Weiß [player1] mit einem schweren Aufprall. Der Kämpfer in Weiß bricht mit einer Ragdoll-Physik-Bewegung auf dem Boden zusammen. Der Kämpfer in Blau steht über ihm, während "K.O." auf dem Bildschirm aufleuchtet. Sound blendet zu einem schweren Bass-Aufprall aus.
+
+STIL- & QUALITÄTSVERBESSERER
+Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmische Beleuchtung, perfekte Bewegungsunschärfe für die Kampfaktionen, hoher Dynamikumfang, keine Artefakte. Exakt gleiche Gesichter und Outfits wie [player1] und [player2] durchgehend, filmreife stabile Gesichtszüge.
 ```
 
 **Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
 
-❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
+❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
 
-<sub>📅 Mar 30, 2026</sub>
+<sub>📅 May 8, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 7. SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…
+### 14. { "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="640" alt="SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-SUBJEKTE:
-Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschnittenem Haar und markanter Kieferpartie. Trägt ein modernisiertes chinesisches Koch-Outfit, kombiniert mit Kampfkunst-Kleidung: eng anliegendes ärmelloses Oberteil mit Stehkragen, dunkler matter Stoff mit subtilem Glanz; Unterarme mit Stoffbändern für besseren Halt umwickelt; lockere, zulaufende Hose, die weite Stellungen ermöglicht; Schuhe mit weicher Sohle für lautlose Beinarbeit. Gliedmaßen leicht übertrieben in der Länge; Handgelenke hochflexibel, Ellbogen explosiv. Die Bewegungen folgen einem klaren Kampfkunst-Rhythmus (Pause → Ausbruch → Block), mit geerdeter Beinarbeit und schnellen Drehungen.
-
-UMGEBUNG:
-Traditionelles chinesisches offenes Feuer-Herd-Setup; Eisen-Wok fest auf dem Herd; reflektierende Metalltheke; blau-weiße Porzellanschüssel im Vordergrund mittig platziert. Warmes Deckenlicht kombiniert mit intensivem, dynamischem Feuerlicht; leichter Ölrauch und sichtbare Hitzeverzerrung.
-
-STIMMUNG:
-Hohe Spannung, aggressiv, aber kontrolliert und präzise; die Darbietung wirkt eher absichtsvoll und elegant als chaotisch.
-
-ZEITPLAN:
-0:00-0:02: Extreme Nahaufnahme, Weitwinkel-POV. Der Koch steht auf dem Boden hinter der Theke (Theke immer zwischen Kamera und Koch), tritt vor, komprimiert seine Haltung und schnellt dann mit dem Kopf hoch, um Blickkontakt mit der Kamera aufzunehmen. Beide Hände greifen den Teig – er dehnt ihn in einem sauberen Zug, faltet ihn einmal und zieht dann erneut. Der Teig verwandelt sich von einer einzelnen Masse in eine kleine Anzahl gleichmäßiger Stränge.
-
-0:02-0:05: Schnitt. Leichte Handkamera-Bewegung. Der Koch behält die volle Kontrolle über das Nudelbündel in beiden Händen, dehnt und richtet die Stränge durch Falt → Ausricht → Dehn-Zyklen in saubere, parallele Linien aus. Etwa 8–12 dünne Stränge erstrecken sich in sanften Bögen und passieren die Linse in einer sauberen, lesbaren Bewegung. Er beendet das Ziehen und legt das ausgerichtete Nudelbündel ordentlich auf die Theke vor sich.
-
-0:05-0:07: Bewegung (leichter Rückstoß, dann Stabilisierung). Der Koch geht in einen gleitenden Schritt hinter die Theke. Eine Handfläche streicht über die Oberfläche – Garnelen und Gemüse heben ab und bewegen sich in einem kontrollierten Bogen in den Wok. Der Wok bleibt auf dem Herd; der Koch greift nur den Griff. Jede verirrte Zutat wird klar aufgefangen und in den Wok umgeleitet.
-
-0:07-0:10: Kontinuierliche Aufnahme. Der Koch steuert den Wok nur durch Griffbewegung und Qi-Kraft – keine Hände gelangen in den Wok. Er hebt, neigt und schnellt den Wok mit Handgelenkskraft; Zutaten steigen auf, rotieren und fallen zurück in den Wok. Sein Ellbogen schlägt gegen die Herdplatte – Funken sprühen. Er drückt den Wok in die Flamme und kehrt dann um, um die Flamme in einem zweiten kontrollierten Aufflackern nach oben zu ziehen.
-
-0:10-0:12: Match-Move-Tracking. Der Koch dreht sich, während er den Wok-Griff hält. Mit der anderen Hand nimmt er dasselbe Nudelbündel von der Theke und führt es in einer kontrollierten Bewegung direkt in den Wok. Er nimmt sofort das Schwenken mit dem Wok wieder auf – drei saubere Schwenkzyklen (schnell → schneller → Stopp). Garnelen, Gemüse und Nudeln integrieren sich sichtbar; die Sauce überzieht alles gleichmäßig.
-
-0:12-0:15: Schnitt auf stabilisiertes POV. Plötzlicher vollständiger Stopp. Der Koch neigt den Wok und lässt das fertige Gericht in die Porzellanschüssel gleiten – sichtbar: gleichmäßig überzogene Nudeln, pralle Garnelen, glänzendes Gemüse. Er hebt die Schüssel an und präsentiert sie direkt vor die Kamera, bis sie den Rahmen ausfüllt. Ein Finger tippt auf den Rand – subtile Vibration. Dampf steigt schnell auf und dehnt sich aus, bis er die Linse für ein sauberes Ausblenden vollständig bedeckt.
+{
+  "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Stretch",
+  "mood": "schneller Slapstick-Unfug mit vorgetäuschten Gewinnen und Auflösung",
+  "characters": {
+    "child": "rundes Gesicht, riesige Augen, goldblonder Pferdeschwanz, rosa gestreiftes Kleid",
+    "vendor": "großer Mann, gezwirbelter Schnurrbart, purpurrote Weste, schiefe Mütze, Eispaddel aus Messing"
+  },
+  "environment": {
+    "location": "sonnenbeschienener Steinhof in einer Stadt am Hang",
+    "details": "Blumenbögen, Mosaikbrunnen, Messingwagen, Kopfsteinpflaster, warmes Licht am späten Nachmittag"
+  },
+  "timeline": [
+    {
+      "time": "0:00-0:04",
+      "action": "Eis-Trick enthüllt Täuschungen; Waffel erscheint und verschwindet, schneller Fehlgriff-Gag",
+      "sfx": "Keuchen, Sausen, Kichern, Glocke"
+    },
+    {
+      "time": "0:04-0:09",
+      "action": "Wechsel-Trick, hektische Verfolgungsjagd, vorgetäuschter Sieg, dann wird die Waffel entfernt",
+      "sfx": "Sausen, Rutschen, Lachen, Glockenspiel-Abbruch"
+    },
+    {
+      "time": "0:09-0:15",
+      "action": "Öffentliche Neckerei, dann wird die echte Waffel übergeben; ruhige Auflösung und Genussmoment",
+      "sfx": "Publikumslachen, Glocke, sanftes Läuten, Applaus"
+    }
+  ]
+}
 ```
 
-**Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K Follower
+**Von** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K Follower
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
 
-<sub>📅 Mar 24, 2026</sub>
+<sub>📅 Apr 12, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 8. FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine
+### 15. FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.7K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="640" alt="FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -426,40 +753,40 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rü
 
 ---
 
-<a id="all-prompts"></a>
-
-## 📋 Alle Prompts
-
-### 9. [Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…
+### 16. Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Beamten in voller taktischer Ausrüstung, mit Gasmaske und Helm. Er richtet sein Sturmgewehr direkt auf das Kameraobjektiv (Durchbrechen der vierten Wand). Er schreit mit sichtbarer Intensität: "LASS DIE GEISEL FREI! LASS DIE WAFFE SOFORT FALLEN!"
+Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige, ununterbrochene Kamerafahrt. Keine Schnitte. Alles in Echtzeit. Audio: Durchgehendes, konstantes Dröhnen eines Düsentriebwerks, Windböen, keine anderen Geräusche. 
 
-[Szene 2: Die Bedrohung] Schnitt auf eine Halbtotale des Killers in einem schmutzigen Unterhemd, der eine Frau im Schwitzkasten hält. Er hält ihr eine Pistole an den Kopf. Er schwitzt und wirkt manisch, während er den Beamten außerhalb des Bildes anschreit: "BLEIB ZURÜCK! ICH TÖTE SIE! ICH SCHWÖRE, ICH TUE ES!"
+Zeitplan: 
+- 0-3s: Ein normaler Typ in weiten Cargo-Shorts und Flip-Flops steht völlig entspannt auf dem Flügel einer F16, die mit 350 mph in 10.000 Fuß Höhe fliegt. 
+- 3-7s: Der Pilot lehnt sich aus dem Cockpit und zeigt dem Typen auf dem Flügel einen Daumen hoch. Der Typ lehnt sich leicht vor, lächelt und erwidert den Daumen hoch. 
+- 7-12s: Er macht einen völlig lässigen, perfekt sauberen Rückwärtssalto. Ohne Hände. Er hält sich nirgendwo fest. Er landet exakt wieder an derselben Stelle auf dem Flügel. Er wankt nicht einmal. 
+- 12-15s: Er wischt ein wenig Staub von seinen Shorts. Zeigt gelangweilt einen kleinen Daumen hoch direkt in die Kamera. Harter Schnitt. 
 
-[Szene 3: Auflösung über die Schulter] Die Kamera befindet sich direkt hinter der rechten Schulter des SWAT-Beamten. Wir sehen die Rückseite seines Helms und sein Gewehr im Vordergrund. In der Ferne (Mittelgrund) ist der Killer immer noch zu sehen, wie er das Mädchen festhält. Der Killer schreit ein letztes Mal: "ICH TUE ES!", woraufhin das Gewehr des Beamten mit einem Einzelschuss zurückstößt und den Kopf des Feindes trifft. Der Killer fällt sofort zu Boden. Das Mädchen bleibt stehen, schockiert, aber unverletzt. Technischer Stil: Action mit hoher Verschlusszeit, realistische Mündungsfeuer, Handkamera-Wackeln, 24fps, englischer Dialog.
+Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürliche Physik, kein Uncanny-Valley-Effekt, keine Artefakte.
 ```
 
-**Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K Follower
+**Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
 
-<sub>📅 Feb 11, 2026</sub>
+<sub>📅 Apr 2, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 10. FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUN…
+### 17. FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUN…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -494,161 +821,127 @@ ZEITSTRAHL:
 
 ---
 
-### 11. POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…
+### 18. ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert
+ROCKET SURF. 
+STIL: Gritty Cine Verité, 35mm Handkamera, natürliches Wackeln. Durchgehende Kamerafahrt. Keine Schnitte. Alles in Echtzeit. 
 
-Gugugaga hatte nur ein Knödel… aber sie teilte es trotzdem mit einem hungrigen kleinen Hasen im Regen
-Was danach passierte, ließ mein Herz schmelzen
+BELEUCHTUNG: Helle Sonne in großer Höhe, strahlend blauer Himmel. 
 
-Erstellt diesen gemütlichen 3D-Animationskurzfilm im Pixar-Stil mit GPT Image 2 + Seedance
+AUDIO: Dröhnen des Raketentriebwerks, Wind, Knarren von Fiberglas. 
 
-Ein großes Dankeschön an @renoiseai canvas, dass ihr geholfen habt, diese herzerwärmende Welt zum Leben zu erwecken
+ZEITPLAN: 0-3s: Ein Typ in Jeans und schwarzem T-Shirt hält sich mit Mühe an der Seite einer aktiven SpaceX-Rakete in 12.000 Fuß Höhe fest. Die Rakete steigt auf. 3-7s: Harter Zoom auf sein Gesicht. Sein Haar ist nach hinten gestrafft. Der Boden unter ihm fällt weg. 7-12s: Die Rakete erreicht Max Q. Der gesamte Booster bebt heftig. Er hält sich fest, seine Knie federn es perfekt ab. 12-15s: Er zieht eine Bierdose aus seiner Kapuzenpullover-Tasche und öffnet sie. Er nimmt einen Schluck, prostet zu und ruft: "Worth it!". Harter Schnitt. 
 
-Würdest du deinen letzten Knödel teilen?
-
-Der Prompt ist im Video
-Schreib mir eine DM für den vollständigen Prompt
+QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen, keine Artefakte.
 ```
 
-**Von** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K Follower
+**Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
 
-❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
 
-<sub>📅 May 29, 2026</sub>
+<sub>📅 Apr 1, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 12. Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…
+### 19. Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mädchen mit weißen Haaren folgt, das mit unglaublich hoher Geschwindigkeit eine steile, kurvenreiche Bergstraße hinunterfährt. Extreme Vorwärtsbewegung, Weitwinkelperspektive, Windrauscheffekt. Das Video beginnt in einer lebendigen Sommerumgebung mit üppigen grünen Bergen, einem hellen, sonnigen Himmel, einem fernen Ozean und braunen Blättern, die an der Kamera vorbeifliegen. Bei der 3-Sekunden-Marke fegt eine magische Frostwelle vom Skateboard aus nach vorne: Die Umgebung verwandelt sich nahtlos in eine eisige Winterlandschaft. Das grüne Gras verwandelt sich sofort in tiefen weißen Schnee, dicke Schneeflocken beginnen zu fallen und die fernen Berge werden zu schneebedeckten Gipfeln. Die Kamera unterbricht niemals die intensive, flüssige, kontinuierliche Abwärts-Verfolgung. Actiongeladen, Meisterwerk der 3D-Animation, fotorealistische Beleuchtung.
+Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hartes, direktes Sonnenlicht erzeugt kontrastreiche Schatten. Handgeführte Kamerafahrt (3rd-Person-Perspektive/über die Schulter). Atmosphäre: staubig, Küstenwind, realistische Physik.
+
+Audio: Schweres, rhythmisches Atmen, Kies knirscht unter den Füßen, intensives Windheulen, plötzliche Stille während des Sprungs, gefolgt von einem schweren Aufprallgeräusch auf Plastik.
+
+[ZEITPLAN SEKUNDE FÜR SEKUNDE]
+
+0-4s: [Kamerafahrt] Die Handkamera folgt dicht hinter einem leicht übergewichtigen Mann in einem grauen, zerknitterten Trainingsanzug, der auf eine Klippe zuläuft. Detaillierte Stoffphysik: Der Trainingsanzug wellt sich bei jedem Schritt. Staub wirbelt vom Boden auf.
+
+4-7s: [Der Sprung] Der Mann erreicht den Abgrund und springt mit voller Kraft. Die Kamera senkt sich leicht mit ihm, als er den Boden verlässt. Echtzeit-Übergang zu einer schnellen Abwärts-Kamerafahrt.
+
+7-12s: [Freier Fall] Das Subjekt fällt mit hoher Geschwindigkeit. Die Kamera bleibt auf seinen Rücken/seine Seite fixiert. Physik: Der Wind verzerrt den Stoff des Trainingsanzugs und seine Haut. Der Boden nähert sich schnell mit realistischer Bewegungsunschärfe.
+
+12-15s: [Die Landung] Das Subjekt prallt unten auf ein massives, buntes aufblasbares Luftkissen. Physik: Das Luftkissen verformt sich beim Aufprall stark und federt zurück. Die Kamera wackelt durch die Wucht der Landung. Geräusch von entweichender Luft.
+
+[STIL & QUALITÄTSVERBESSERER]
+
+Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte Bewegungsunschärfe, hoher Dynamikumfang, keine Artefakte, kohärente multimodale Physik, Stabilität auf Filmniveau.
 ```
 
-**Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K Follower
+**Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
 
-<sub>📅 Mar 1, 2026</sub>
+<sub>📅 Mar 30, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 13. Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…
+### 20. SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Klassischer Disney-Animationsstil der 90er Jahre.
+SUBJEKTE:
+Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschnittenem Haar und markanter Kieferpartie. Trägt ein modernisiertes chinesisches Koch-Outfit, kombiniert mit Kampfkunst-Kleidung: eng anliegendes ärmelloses Oberteil mit Stehkragen, dunkler matter Stoff mit subtilem Glanz; Unterarme mit Stoffbändern für besseren Halt umwickelt; lockere, zulaufende Hose, die weite Stellungen ermöglicht; Schuhe mit weicher Sohle für lautlose Beinarbeit. Gliedmaßen leicht übertrieben in der Länge; Handgelenke hochflexibel, Ellbogen explosiv. Die Bewegungen folgen einem klaren Kampfkunst-Rhythmus (Pause → Ausbruch → Block), mit geerdeter Beinarbeit und schnellen Drehungen.
 
-Szene 1: In einem ägyptischen Palast wechselt die Kamera in den Thronsaal. Wir sehen: Der majestätische Schakalgott Anubis sitzt auf seinem Thron, während eine Gruppe von Untergebenen (Soldaten, Berater und einige einfache Diener, alle Menschen) vor ihm kniet. Er winkt lässig ab und sagt verächtlich: „Geht jetzt.“ Dann lehnt er sich gelangweilt zurück.
+UMGEBUNG:
+Traditionelles chinesisches offenes Feuer-Herd-Setup; Eisen-Wok fest auf dem Herd; reflektierende Metalltheke; blau-weiße Porzellanschüssel im Vordergrund mittig platziert. Warmes Deckenlicht kombiniert mit intensivem, dynamischem Feuerlicht; leichter Ölrauch und sichtbare Hitzeverzerrung.
 
-Szene 2: Die Untergebenen gehorchen ohne Zögern und gehen langsam weg, während Anubis sie beobachtet. Doch den letzten, einen einfachen menschlichen Diener, hält er auf: „Du, Diener, warte.“ Der Diener dreht sich verwirrt und überrascht um, ohne zu verstehen, was der mächtige Anubis von ihm will.
+STIMMUNG:
+Hohe Spannung, aggressiv, aber kontrolliert und präzise; die Darbietung wirkt eher absichtsvoll und elegant als chaotisch.
 
-Szene 3: Nachdem die anderen gegangen sind, sagt Anubis: „Komm her.“ Der Diener ist nervös und immer noch ratlos, während er auf Anubis zugeht.
+ZEITPLAN:
+0:00-0:02: Extreme Nahaufnahme, Weitwinkel-POV. Der Koch steht auf dem Boden hinter der Theke (Theke immer zwischen Kamera und Koch), tritt vor, komprimiert seine Haltung und schnellt dann mit dem Kopf hoch, um Blickkontakt mit der Kamera aufzunehmen. Beide Hände greifen den Teig – er dehnt ihn in einem sauberen Zug, faltet ihn einmal und zieht dann erneut. Der Teig verwandelt sich von einer einzelnen Masse in eine kleine Anzahl gleichmäßiger Stränge.
 
-Szene 4: Anubis holt einen Blumenstrauß hinter dem Thron hervor und reicht ihn dem überraschten Diener mit lässiger Miene. Er dreht den Kopf leicht zur Seite, wirkt etwas verlegen und vermeidet Augenkontakt, während er sagt: „Nimm ihn.“
+0:02-0:05: Schnitt. Leichte Handkamera-Bewegung. Der Koch behält die volle Kontrolle über das Nudelbündel in beiden Händen, dehnt und richtet die Stränge durch Falt → Ausricht → Dehn-Zyklen in saubere, parallele Linien aus. Etwa 8–12 dünne Stränge erstrecken sich in sanften Bögen und passieren die Linse in einer sauberen, lesbaren Bewegung. Er beendet das Ziehen und legt das ausgerichtete Nudelbündel ordentlich auf die Theke vor sich.
 
-Szene 5: Der Diener nimmt den Strauß entgegen, immer noch verwirrt. Anubis schaut ihn weiterhin nicht an, winkt ab und sagt: „Du kannst gehen.“ Der Diener nickt, nimmt den Strauß und geht ratlos davon.
+0:05-0:07: Bewegung (leichter Rückstoß, dann Stabilisierung). Der Koch geht in einen gleitenden Schritt hinter die Theke. Eine Handfläche streicht über die Oberfläche – Garnelen und Gemüse heben ab und bewegen sich in einem kontrollierten Bogen in den Wok. Der Wok bleibt auf dem Herd; der Koch greift nur den Griff. Jede verirrte Zutat wird klar aufgefangen und in den Wok umgeleitet.
 
-Szene 6: Anubis sieht dem Diener nach. Sein Gesichtsausdruck ist immer noch lässig, doch ein leichtes Lächeln spielt um seine Mundwinkel. Er stützt das Kinn auf die Hand und beobachtet den Diener, da er offensichtlich Gefallen an ihm gefunden hat.
+0:07-0:10: Kontinuierliche Aufnahme. Der Koch steuert den Wok nur durch Griffbewegung und Qi-Kraft – keine Hände gelangen in den Wok. Er hebt, neigt und schnellt den Wok mit Handgelenkskraft; Zutaten steigen auf, rotieren und fallen zurück in den Wok. Sein Ellbogen schlägt gegen die Herdplatte – Funken sprühen. Er drückt den Wok in die Flamme und kehrt dann um, um die Flamme in einem zweiten kontrollierten Aufflackern nach oben zu ziehen.
 
-Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er hat einen nackten Oberkörper. Seine Stimme ist tief und magnetisch. Die Sprache ist Englisch.
+0:10-0:12: Match-Move-Tracking. Der Koch dreht sich, während er den Wok-Griff hält. Mit der anderen Hand nimmt er dasselbe Nudelbündel von der Theke und führt es in einer kontrollierten Bewegung direkt in den Wok. Er nimmt sofort das Schwenken mit dem Wok wieder auf – drei saubere Schwenkzyklen (schnell → schneller → Stopp). Garnelen, Gemüse und Nudeln integrieren sich sichtbar; die Sauce überzieht alles gleichmäßig.
+
+0:12-0:15: Schnitt auf stabilisiertes POV. Plötzlicher vollständiger Stopp. Der Koch neigt den Wok und lässt das fertige Gericht in die Porzellanschüssel gleiten – sichtbar: gleichmäßig überzogene Nudeln, pralle Garnelen, glänzendes Gemüse. Er hebt die Schüssel an und präsentiert sie direkt vor die Kamera, bis sie den Rahmen ausfüllt. Ein Finger tippt auf den Rand – subtile Vibration. Dampf steigt schnell auf und dehnt sich aus, bis er die Linse für ein sauberes Ausblenden vollständig bedeckt.
 ```
 
-**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
+**Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K Follower
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
 
-<sub>📅 May 31, 2026</sub>
+<sub>📅 Mar 24, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 14. { "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-{
-  "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Stretch",
-  "mood": "schneller Slapstick-Unfug mit vorgetäuschten Gewinnen und Auflösung",
-  "characters": {
-    "child": "rundes Gesicht, riesige Augen, goldblonder Pferdeschwanz, rosa gestreiftes Kleid",
-    "vendor": "großer Mann, gezwirbelter Schnurrbart, purpurrote Weste, schiefe Mütze, Eispaddel aus Messing"
-  },
-  "environment": {
-    "location": "sonnenbeschienener Steinhof in einer Stadt am Hang",
-    "details": "Blumenbögen, Mosaikbrunnen, Messingwagen, Kopfsteinpflaster, warmes Licht am späten Nachmittag"
-  },
-  "timeline": [
-    {
-      "time": "0:00-0:04",
-      "action": "Eis-Trick enthüllt Täuschungen; Waffel erscheint und verschwindet, schneller Fehlgriff-Gag",
-      "sfx": "Keuchen, Sausen, Kichern, Glocke"
-    },
-    {
-      "time": "0:04-0:09",
-      "action": "Wechsel-Trick, hektische Verfolgungsjagd, vorgetäuschter Sieg, dann wird die Waffel entfernt",
-      "sfx": "Sausen, Rutschen, Lachen, Glockenspiel-Abbruch"
-    },
-    {
-      "time": "0:09-0:15",
-      "action": "Öffentliche Neckerei, dann wird die echte Waffel übergeben; ruhige Auflösung und Genussmoment",
-      "sfx": "Publikumslachen, Glocke, sanftes Läuten, Applaus"
-    }
-  ]
-}
-```
-
-**Von** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K Follower
-
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
-
-<sub>📅 Apr 12, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 15. FORMAT: filmische kontinuierliche Aufnahme / motivierte Kamerabewegun…
+### 21. FORMAT: filmische kontinuierliche Aufnahme / motivierte Kamerabewegun…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -714,91 +1007,7 @@ fotorealistisch, filmische Beleuchtung, bodenständige Kamerabewegung, reiche mi
 
 ---
 
-### 16. ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-ROCKET SURF. 
-STIL: Gritty Cine Verité, 35mm Handkamera, natürliches Wackeln. Durchgehende Kamerafahrt. Keine Schnitte. Alles in Echtzeit. 
-
-BELEUCHTUNG: Helle Sonne in großer Höhe, strahlend blauer Himmel. 
-
-AUDIO: Dröhnen des Raketentriebwerks, Wind, Knarren von Fiberglas. 
-
-ZEITPLAN: 0-3s: Ein Typ in Jeans und schwarzem T-Shirt hält sich mit Mühe an der Seite einer aktiven SpaceX-Rakete in 12.000 Fuß Höhe fest. Die Rakete steigt auf. 3-7s: Harter Zoom auf sein Gesicht. Sein Haar ist nach hinten gestrafft. Der Boden unter ihm fällt weg. 7-12s: Die Rakete erreicht Max Q. Der gesamte Booster bebt heftig. Er hält sich fest, seine Knie federn es perfekt ab. 12-15s: Er zieht eine Bierdose aus seiner Kapuzenpullover-Tasche und öffnet sie. Er nimmt einen Schluck, prostet zu und ruft: "Worth it!". Harter Schnitt. 
-
-QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen, keine Artefakte.
-```
-
-**Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
-
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
-
-<sub>📅 Apr 1, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 17. Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wackeln zeigt eine Entdeckerin, die ein altes Skarabäus-Artefakt hält. Sie rennt vor einer riesigen, sie verfolgenden Mumie davon. Trümmer und Staubwolken sind zu sehen. Die Mumie lässt Teile der alten Mauer einstürzen. Die Entdeckerin rennt panisch davon und schaut gelegentlich zurück, man kann ihren schweren Atem hören. Sie rennt weiter, bis sie knapp entkommt, als die Mumie sie fast erwischt, aber gegen eine Säule prallt, die auf sie selbst stürzt; die Entdeckerin rennt dann weiter in den Eingang eines Grabes hinein.“,
-```
-
-**Von** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K Follower
-
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
-
-<sub>📅 Feb 17, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 18. Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. Sorge dafür, dass mein Cortisolspiegel in die Höhe schießt.
-```
-
-**Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K Follower
-
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
-
-<sub>📅 Feb 22, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 19. Ultra-Weitwinkel-Makro-FPV-Tracking-Shot, der einer Katze hautnah fol…
+### 22. Ultra-Weitwinkel-Makro-FPV-Tracking-Shot, der einer Katze hautnah fol…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -841,314 +1050,105 @@ Das Sounddesign suggeriert scharfen, rauschenden Wind, hallende Reifen-Wasser-Sp
 
 ---
 
-### 20. Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…
+### 23. Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-Side-View-Kamera für Kampfspiele, 35mm-Objektiv für Tiefenschärfe.
-Farbkorrektur: Hoher Kontrast, lebendige "Next-Gen"-Gaming-Palette, dramatische Stadionbeleuchtung durch den zentralen Tunnel.
-Atmosphäre: Geladen, kompetitiv, mit schwebenden Staubpartikeln und Lens Flares von den Stadion-Deckenleuchten.
-
-Audio-Stil: Immersives räumliches Sounddesign. Schwere dumpfe Aufprallgeräusche, knochenbrechende SFX, zischende Luft bei Spezialbewegungen und ein finaler schwerer Aufprall auf Holz.
-
-BILDREFERENZEN / LEGENDE
-
-[escene] : Die Umgebungsreferenz (Umkleideraum der Kampfarena und Stadioneingang).
-
-[player1] : Der Kämpfer auf der linken Seite (weißer Trainingsanzug). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
-
-[player2] : Der Kämpfer auf der rechten Seite (blau-grünes Set). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
-
-ZEITPLAN SEKUNDE FÜR SEKUNDE
-0-3s: [Weitwinkelaufnahme] Kämpfer in Weiß [player1] und Kämpfer in Blau [player2] stehen sich in Kampfhaltung in der Mitte der Arena [escene] gegenüber. Gesundheitsbalken und "ROUND 1"-UI erscheinen oben. Der Kämpfer in Weiß führt einen Low-Kick aus; der Kämpfer in Blau blockt mit einem blauen Partikeleffekt-Aufprall.
-
-3-8s: [Action-Sequenz] Schneller Kampf im Mortal Kombat-Stil. Der Kämpfer in Weiß führt einen Spinning Backfist aus; der Kämpfer in Blau duckt sich und kontert mit einem Uppercut.
-
-8-12s: [Spezialbewegung] Der Kämpfer in Blau [player2] greift schnell nach einem nahegelegenen hölzernen Trainingstisch. Er schwingt ihn in einem weiten Bogen. Physik-Interaktion: Der Tisch reflektiert die Deckenbeleuchtung während der Bewegung.
-
-12-15s: [Schlussaufnahme] Der Tisch trifft den Kopf des Kämpfers in Weiß [player1] mit einem schweren Aufprall. Der Kämpfer in Weiß bricht mit einer Ragdoll-Physik-Bewegung auf dem Boden zusammen. Der Kämpfer in Blau steht über ihm, während "K.O." auf dem Bildschirm aufleuchtet. Sound blendet zu einem schweren Bass-Aufprall aus.
-
-STIL- & QUALITÄTSVERBESSERER
-Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmische Beleuchtung, perfekte Bewegungsunschärfe für die Kampfaktionen, hoher Dynamikumfang, keine Artefakte. Exakt gleiche Gesichter und Outfits wie [player1] und [player2] durchgehend, filmreife stabile Gesichtszüge.
+Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mädchen mit weißen Haaren folgt, das mit unglaublich hoher Geschwindigkeit eine steile, kurvenreiche Bergstraße hinunterfährt. Extreme Vorwärtsbewegung, Weitwinkelperspektive, Windrauscheffekt. Das Video beginnt in einer lebendigen Sommerumgebung mit üppigen grünen Bergen, einem hellen, sonnigen Himmel, einem fernen Ozean und braunen Blättern, die an der Kamera vorbeifliegen. Bei der 3-Sekunden-Marke fegt eine magische Frostwelle vom Skateboard aus nach vorne: Die Umgebung verwandelt sich nahtlos in eine eisige Winterlandschaft. Das grüne Gras verwandelt sich sofort in tiefen weißen Schnee, dicke Schneeflocken beginnen zu fallen und die fernen Berge werden zu schneebedeckten Gipfeln. Die Kamera unterbricht niemals die intensive, flüssige, kontinuierliche Abwärts-Verfolgung. Actiongeladen, Meisterwerk der 3D-Animation, fotorealistische Beleuchtung.
 ```
 
-**Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
+**Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K Follower
 
-❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
+❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
 
-<sub>📅 May 8, 2026</sub>
+<sub>📅 Mar 1, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 21. Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…
+### 24. Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige, ununterbrochene Kamerafahrt. Keine Schnitte. Alles in Echtzeit. Audio: Durchgehendes, konstantes Dröhnen eines Düsentriebwerks, Windböen, keine anderen Geräusche. 
-
-Zeitplan: 
-- 0-3s: Ein normaler Typ in weiten Cargo-Shorts und Flip-Flops steht völlig entspannt auf dem Flügel einer F16, die mit 350 mph in 10.000 Fuß Höhe fliegt. 
-- 3-7s: Der Pilot lehnt sich aus dem Cockpit und zeigt dem Typen auf dem Flügel einen Daumen hoch. Der Typ lehnt sich leicht vor, lächelt und erwidert den Daumen hoch. 
-- 7-12s: Er macht einen völlig lässigen, perfekt sauberen Rückwärtssalto. Ohne Hände. Er hält sich nirgendwo fest. Er landet exakt wieder an derselben Stelle auf dem Flügel. Er wankt nicht einmal. 
-- 12-15s: Er wischt ein wenig Staub von seinen Shorts. Zeigt gelangweilt einen kleinen Daumen hoch direkt in die Kamera. Harter Schnitt. 
-
-Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürliche Physik, kein Uncanny-Valley-Effekt, keine Artefakte.
+Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. Sorge dafür, dass mein Cortisolspiegel in die Höhe schießt.
 ```
 
-**Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
+**Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K Follower
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
 
-<sub>📅 Apr 2, 2026</sub>
+<sub>📅 Feb 22, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 22. Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…
+### 25. Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Hauptfigur:
-Ein schönes koreanisches Highschool-Mädchen in einer realistischen koreanischen Sommer-Schuluniform (하복). Natürliche Hauttextur ohne Beauty-Retusche. Das Haar wird im Kampf zerzaust, mit ausdrucksstarkem emotionalem Schauspiel. Die Gesichtsproportionen bleiben in allen Aufnahmen vollkommen konsistent. Sie beginnt schüchtern und schockiert und wird allmählich entschlossen und trotzig.
-
-0–1,5 Sekunden:
-Die Protagonistin lernt ruhig an ihrem Schreibtisch. Vier delinquente Schülerinnen umzingeln sie und beginnen, sie zu schikanieren. Sie verspotten sie fürs Lernen, fegen aggressiv ihre Bücher vom Tisch und stoßen sie an den Schultern. Weitwinkel-Handkamera-Bewegung. Bücher fliegen in Zeitlupe. Angespannte Klassenzimmer-Atmosphäre. Realistische Schul-Mobbing-Energie, wackelige Kamerabewegung, filmischer Realismus.
-
-1,5–3 Sekunden:
-Nahaufnahme des Gesichts der Protagonistin. Sie steht langsam auf. Ihr Ausdruck wandelt sich von Angst zu kalter Entschlossenheit. Die Mobber bleiben in der geringen Schärfentiefe hinter ihr verschwommen. Ein 0,5-sekündiger Moment der Stille. Langsame filmische Push-in-Aufnahme. Stille, abgesehen von Umgebungsgeräuschen im Klassenzimmer und angespanntem Atmen.
-
-3–5 Sekunden:
-Erste Konfrontation. Eine Mobberin schlägt zu; die Protagonistin blockt ab und kontert mit einem Schlag in den Magen. Eine weitere Angreiferin stürmt von der Seite; sie weicht aus und revanchiert sich mit einem drehenden Ellbogenschlag. Handgeführte Tracking-Aufnahmen folgen der Bewegung genau. Dynamische Bewegungsunschärfe, Aufprall-Kamerawackeln, realistische Kampfchoreografie. Keine übernatürlichen Effekte.
-
-5–8 Sekunden:
-Die verbleibenden zwei Mobberinnen greifen gleichzeitig mit Schlägen und Tritten an. Die Protagonistin nutzt schnelle Beinarbeit und Ausweichbewegungen, um Treffern zu entgehen. Dynamische 360-Grad-rotierende Kamerabewegung. Schnelle verkettete Tritte und Ellbogenangriffe werfen die Angreiferinnen zu Boden. Schreibtische und Gegenstände im Klassenzimmer verschieben sich durch die Aufpralle. Intensives filmisches Action-Tempo.
-
-8–10 Sekunden:
-Die letzte Angreiferin stürmt auf die Protagonistin zu. Die Protagonistin springt hoch in die Luft. Untersicht-Aufnahme vom Boden. 30% Zeitlupe. Haar und Rock fließen natürlich. Dramatische filmische Beleuchtung. Schwebender Staub und Partikel in der Luft driften langsam durch die Luft.
-
-10–12 Sekunden:
-360-Grad-Drehkick in der Luft. Zeitlupen-Aufprall trifft direkt die Brust der letzten Mobberin. Extreme Nahaufnahme der Kollision. Die Mobberin wird rückwärts gegen die Klassenzimmerwand geschleudert. Trümmer und Staub explodieren nach außen. Alle Mobberinnen brechen auf dem Boden zusammen. Unmittelbar nach der Landung schnellt die Kamerageschwindigkeit für dramatische Wirkung auf normal zurück.
-
-12–14 Sekunden:
-Sieg-Moment. Die Protagonistin steht allein in der Mitte des Klassenzimmers und atmet schwer. Die vier Mobberinnen liegen besiegt im Raum verteilt. Die Kamera fährt langsam und dramatisch auf ihr Gesicht zu. Weicher filmischer Bokeh-Hintergrund. Ihr Ausdruck ist entschlossen, aber emotional.
-
-14–15 Sekunden:
-Standbild-Nahaufnahme. Die Protagonistin starrt direkt in die Kamera und sagt ruhig auf Koreanisch:
-(„Ich muss aufs College kommen.“)
-Die Darbietung ist realistisch und emotional zurückhaltend. Nachdem der Satz endet, sieht sie wieder wie eine gewöhnliche Schülerin aus. Ruhiges, emotionales Ende. Der Film betont den intensiven akademischen Druck, dem koreanische Schüler ausgesetzt sind.
-
-Stil-Referenzen:
-Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera-Action, emotionaler Realismus, bodenständige Kampfchoreografie, realistische koreanische Klassenzimmer-Atmosphäre, High-Budget Netflix K-Drama-Ästhetik, filmische Beleuchtung, dramatische Stille-Momente, starke weibliche Protagonistin, bodenständiger emotionaler Ton.
+Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wackeln zeigt eine Entdeckerin, die ein altes Skarabäus-Artefakt hält. Sie rennt vor einer riesigen, sie verfolgenden Mumie davon. Trümmer und Staubwolken sind zu sehen. Die Mumie lässt Teile der alten Mauer einstürzen. Die Entdeckerin rennt panisch davon und schaut gelegentlich zurück, man kann ihren schweren Atem hören. Sie rennt weiter, bis sie knapp entkommt, als die Mumie sie fast erwischt, aber gegen eine Säule prallt, die auf sie selbst stürzt; die Entdeckerin rennt dann weiter in den Eingang eines Grabes hinein.“,
 ```
 
-**Von** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K Follower
+**Von** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K Follower
 
-❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
+❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
 
-<sub>📅 May 23, 2026</sub>
+<sub>📅 Feb 17, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 23. Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…
+### 26. [Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägyptischen Bibliothek sehen wir den majestätischen Schakalgott Anubis, wie er mit den Händen auf dem Rücken lässig die Bücherregale mustert, seine Haltung ist würdevoll. In diesem Moment bemerkt er einen jungen Mann, der nach einem Buch über Rituale auf einem nahegelegenen Tisch greift. Anubis schnappt sich schnell das Buch, hebt einen Arm hoch über den Kopf, entblößt seine Achselhöhle und sagt mit sanfter, aber fester Stimme: Dieses Buch ist nichts für jemanden wie ihn. Szene 2: Der junge Mann sieht enttäuscht aus, lächelt dann aber verschmitzt und fragt Anubis, ob er kitzelig sei, während er gleichzeitig nach der Achselhöhle von Anubis' erhobenem Arm greift, was Anubis etwas verwirrt. Szene 3: Nahaufnahme, die Hand eines Menschen bewegt sich unter Anubis' Achselhöhle auf und ab, wobei diese Bewegung wiederholt wird. Im Hintergrund ist Anubis' unterdrücktes Kichern zu hören, was zeigt, dass er tatsächlich sehr kitzelig ist. Szene 4: Nahaufnahme, Anubis' Oberkörper, die Hand des Menschen bewegt sich weiterhin unter Anubis' Achselhöhle auf und ab. Anubis schließt die Augen, grinst breit und stößt unterdrücktes Kichern aus. Szene 5: Der Mensch kitzelt weiterhin Anubis' Achselhöhle, Anubis kichert mit geschlossenen Augen. Anubis' Lachen bestätigt, dass er wirklich kitzelig ist, dann fängt er wieder an zu kichern, während der Mensch seine Achselhöhle weiter kitzelt. Szene 6: Anubis kichert weiter, wirft schließlich das Buch auf den Boden, umarmt sich selbst und bedeckt seine Achselhöhlen. Der Mensch hört mit dem Kitzeln auf und nimmt das Buch. Anubis kichert, scheint noch in das Lachen vertieft zu sein und sagt lachend, dass er es hasst, gekitzelt zu werden. Der Mensch nimmt lächelnd das Buch entgegen. Anubis ist muskulös und trägt Ringe an Armen und Hals. Seine Stimme ist tief, magnetisch und charismatisch. Anubis' Achselhöhle wird gekitzelt.
+[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Beamten in voller taktischer Ausrüstung, mit Gasmaske und Helm. Er richtet sein Sturmgewehr direkt auf das Kameraobjektiv (Durchbrechen der vierten Wand). Er schreit mit sichtbarer Intensität: "LASS DIE GEISEL FREI! LASS DIE WAFFE SOFORT FALLEN!"
+
+[Szene 2: Die Bedrohung] Schnitt auf eine Halbtotale des Killers in einem schmutzigen Unterhemd, der eine Frau im Schwitzkasten hält. Er hält ihr eine Pistole an den Kopf. Er schwitzt und wirkt manisch, während er den Beamten außerhalb des Bildes anschreit: "BLEIB ZURÜCK! ICH TÖTE SIE! ICH SCHWÖRE, ICH TUE ES!"
+
+[Szene 3: Auflösung über die Schulter] Die Kamera befindet sich direkt hinter der rechten Schulter des SWAT-Beamten. Wir sehen die Rückseite seines Helms und sein Gewehr im Vordergrund. In der Ferne (Mittelgrund) ist der Killer immer noch zu sehen, wie er das Mädchen festhält. Der Killer schreit ein letztes Mal: "ICH TUE ES!", woraufhin das Gewehr des Beamten mit einem Einzelschuss zurückstößt und den Kopf des Feindes trifft. Der Killer fällt sofort zu Boden. Das Mädchen bleibt stehen, schockiert, aber unverletzt. Technischer Stil: Action mit hoher Verschlusszeit, realistische Mündungsfeuer, Handkamera-Wackeln, 24fps, englischer Dialog.
 ```
 
-**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
+**Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K Follower
 
-❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
 
-<sub>📅 May 25, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 24. Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…"></a>
-</div>
-
-**📝 Prompt**
-
-```
-Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines Live-Baseballspiels. Sie wirkt ruhig und konzentriert auf das Spiel. Fans um sie herum schwenken Anfeuerungsstäbe und reagieren lebhaft auf das Spiel in einer authentischen Stadionatmosphäre. Echter KBO-Teleobjektiv-Übertragungsstil, geringe Schärfentiefe, subtiles Handkamera-Mikrowackeln, natürliche Live-TV-Bildgestaltung und authentische koreanische Stadionbeleuchtung mit echten Übertragungseinblendungen (Anzeigetafel, Teamlogos, Sponsorengrafiken, Kompressionsartefakte).
-Nach ein paar Sekunden bemerkt sie, dass die Fan-Kamera auf sie gerichtet ist. Sie dreht sich langsam mit einem schüchternen, leicht überraschten Lächeln zur Kamera, streicht sich sanft das Haar hinter das Ohr und schaut dann kurz verlegen nach unten. Fans in der Nähe bemerken es und reagieren natürlich, lächeln und lachen leise.
-Authentisches Stadionambiente mit lautem Fankurvenlärm, Anfeuerungsstäben, Hall des Stadionsprechers und Präsenz des Kommentators. Der koreanische Kommentator sagt leise:
-“와… 정말 아름다우시네요…”
-Kein cineastischer Look, kein Posing, keine Schönheitsfilter, keine dramatische Beleuchtung, keine Zeitlupe, keine Schnitte, reiner, unverfälschter Live-Sportübertragungs-Realismus.
-```
-
-**Von** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K Follower
-
-❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
-
-<sub>📅 May 12, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 25. Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s)
-Kontrastreiche, filmische Beleuchtung mit kühlem cyan-blauem Laptop-Schein im Kontrast zu warmem, bernsteinfarbenem Licht und glänzenden Schokoladenreflexionen. Hochwertige Luxus-Werbeästhetik. Schnelle Schnitte, Whip-Pans, Dutch Tilts, Handkamera-Energie, dynamische Tracking-Shots, filmischer Realismus, geringe Schärfentiefe, ausdrucksstarke Nahaufnahmen, stimmungsvolle Wohnungsatmosphäre, sinnliche Food-Cinematography, glänzende Texturen, dezente Filmkörnung, anamorphotische Highlights, realistische Hauttextur, emotionaler Realismus, moderner Werbekampagnen-Look. Keine Untertitel. Minimales Voice-Over nur in ausgewählten emotionalen Momenten. Natürliches Sounddesign mit Tastaturklicken, knisternder Folie, leisem Atmen, Mausklicks, Schrankknarren und tiefen filmischen Bassimpulsen.
-Shot-für-Shot-Aufschlüsselung (0:15)
-Shot 1 — 0:01 — Extreme Nahaufnahme
-Die Augen einer jungen blonden Frau spiegeln scrollende Dokumente und das blaue Laptop-Licht wider, während sie schnell dichte Daten scannt. Ein kühler cyanfarbener Schein flackert über ihre porzellanartige Haut. Extrem geringe Schärfentiefe, intensive Augenreflexionen, filmisches Makro-Objektiv.
-Voice Over:
-„Manche Nächte verlangen mehr.“
-Shot 2 — 0:02 — Halbtotale
-Sie sitzt mit gekreuzten Beinen auf einem zerknitterten Sofa in einer dunklen Wohnung und tippt hektisch. Ein rostorangefarbenes Seiden-Camisole fängt das kühle blaue Laptop-Licht ein, während warme Schatten den Raum umgeben. Handkamera-Bewegungen sorgen für Dringlichkeit.
-Shot 3 — 0:03 — Whip Pan
-Schneller Whip-Pan in Richtung Vorratsschrank. Schranktüren schwingen dramatisch auf und lassen warmes bernsteinfarbenes Licht über ihr Gesicht fallen, wie eine Versuchung, die den Stress unterbricht.
-Shot 4 — 0:04 — Schokoladen-Nahaufnahme
-Sie beißt mit einem knackigen Geräusch in eine dunkle Schokoladentafel. Ihre Augen schließen sich kurz vor Erleichterung. Goldfolie knistert leise in ihrer Hand. Reichhaltige, glänzende Schokoladentextur, filmische Food-Fotografie.
-Shot 5 — 0:05 — Halbtotale, Dutch Tilt
-Zurück am Arbeitsplatz. Sie tippt aggressiv mit einer Hand, während sie eine Schokoladentrüffel zwischen den Lippen balanciert. Ein leichter Dutch-Angle verstärkt das wachsende Chaos.
-Shot 6 — 0:06 — Over-the-Shoulder-Shot
-Der Laptop-Bildschirm zeigt komplexe Diagramme und Datenvisualisierungen. Mit Kakaopulver bestäubte Finger schlagen auf die Enter-Taste und hinterlassen schwache Schokoladenflecken auf dem Trackpad. Kühler Bildschirmglanz dominiert den Rahmen.
-Shot 7 — 0:07 — Emotionale Nahaufnahme
-Die Frustration erreicht ihren Höhepunkt. Sie fährt sich mit beiden Händen durch das unordentliche blonde Haar und atmet schwer aus. Feines Kakaopulver haftet an ihren Fingerspitzen. Warmes und kühles Licht prallen dramatisch auf ihrem Gesicht aufeinander.
-Voice Over:
-„Wenn der Druck zunimmt…“
-Shot 8 — 0:08 — Schneller Schnitt
-Wieder am Vorratsschrank stehend, greift sie mit der rechten Hand in eine Keramikschale, die mit luxuriösen handwerklichen Pralinen überquillt. Warmes goldenes Licht erblüht um sie herum.
-Shot 9 — 0:09 — Mittlere Nahaufnahme
-Am Schreibtisch sitzend isst sie direkt aus der Schokoladenschale, während sie ausdruckslos auf den leuchtenden Monitor starrt. Erschöpfung durch Termindruck gemischt mit Komfort und Genuss.
-Shot 10 — 0:10 — Untersicht
-Kamera auf Tastaturebene, während ihre Finger mit maschinenartiger Präzision tippen. Ihr Gesicht leuchtet in einer Mischung aus Cyan- und Bernsteintönen, hochkonzentriert.
-Shot 11 — 0:11 — Makro-Nahaufnahme
-Sie wickelt mit zitternden Fingern ein weiteres Stück dunkle Schokolade aus, während sie intensiv auf den leuchtenden Bildschirm starrt. Die Goldfolie fängt warmes bernsteinfarbenes Licht ein und wirft schimmernde Reflexionen auf ihr Gesicht. Das Geräusch der knisternden Folie schneidet scharf durch die Stille, bevor sie einen weiteren Bissen nimmt.
-Shot 12 — 0:12 — Dynamischer Orbit-Shot
-Die Kamera kreist um sie herum, während sie in eine mit Schokolade überzogene Brezel beißt, ohne die Konzentration auf den Monitor zu verlieren. Filmische Tracking-Bewegung, glänzende Highlights, dramatische Schärfentiefe.
-Shot 13 — 0:13 — Sieges-Nahaufnahme
-Ein dezenter Schokoladenfleck ruht auf ihrer Unterlippe. Sie lächelt leicht und klickt mit der Maus. Das blaue Monitorlicht spiegelt den Triumph in ihren Augen wider.
-Shot 14 — 0:14 — Halbtotale
-Sie schließt den Laptop mit einem festen, entschlossenen Klappgeräusch und lässt sich rückwärts auf das Sofa fallen, wobei sie einen massiven, erschöpften Seufzer ausstößt.
-Shot 15 — 0:15 — Letzte Totale
-Sie sinkt tief in das Sofa, ausgelaugt, aber zufrieden. Um sie herum: verstreute Goldverpackungen, leere Keramikschale, geschlossener Laptop, warme Umgebungsbeleuchtung der Wohnung, friedliche Stille nach dem Sturm.
-Voice Over:
-„…übernimmt der Genuss.“
-Filmische Keywords
-Luxus-Werbung, filmischer Realismus, stimmungsvolle Wohnung, Food-Cinematography, geringe Schärfentiefe, Handkamera-Energie, Premium-Lifestyle-Ästhetik, warme praktische Beleuchtung, kühler Bildschirmglanz, glänzende Schokoladentexturen, ausdrucksstarke Gesichts-Nahaufnahmen, schnelles Editing, emotionaler Realismus, moderne Werbung, filmische Spannung, genussvolle Atmosphäre, elegante Unordnung, dramatische Beleuchtung, High-End-Werbefilmproduktion.
-```
-
-**Von** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K Follower
-
-❤️ 565 · 🔁 90 · 🔖 83 · 👁 33.3K
-
-<sub>📅 May 30, 2026</sub>
-
-**[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 26. Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…
-
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
-</div>
-
-**🖼️ Bild-Prompt**
-
-```
-Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout, das in zwei Abschnitte unterteilt ist.
-LINKER ABSCHNITT
-→ Große, fette Typografie "THOMAS REID" in schwerer, schwarzer Großbuchstabenschrift
-→ Untertitel: "THE OCEAN NEVER WINS"
-→ Ganzkörper-fotorealistisches Bild eines echten 27-jährigen, extrem gutaussehenden, athletischen Mannes, der wie ein professioneller Hochseefischer aussieht
-→ Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut
-→ Trägt schwere, saubere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt
-→ Völlig ruhige, kraftvolle, selbstbewusste Haltung auf sauberem weißem Hintergrund
-→ Beleuchtung: Weiches, kaltes natürliches Licht wie bei einem echten Dokumentar-Fotoshooting
-→ Kleiner Text darunter: "BUILT BY WAVES. BORN TO ENDURE."
-
-RECHTER ABSCHNITT
-→ PERSÖNLICHKEIT: Unerschütterlich in jedem Sturm / Keine verschwendete Bewegung / Jede Reise hat ihren Preis / Das Meer respektiert niemanden
-→ DETAILS: Alter 27 / Nationalität Norwegen / Haltung Vorwärtsgriff / Stil Hochsee-Ausdauer / Status Aufsteigende Legende
-→ HAUPTMERKMALE: Eiserne Geduld / Rohe Kraft / Explosiver Überlebensinstinkt / Zeitlose Seemannschaft
-→ DETAILS IM FOKUS — 4 kleine fotorealistische Nahaufnahme-Boxen:
-Box 1: Starke, vom Seil gezeichnete Hände
-Box 2: Detail eines alten, verrosteten Kompasses
-Box 3: Textur der sauberen gelben wasserdichten Jacke
-Box 4: Detail eines schweren Gummistiefels
-Gesamtstil: Sauberes, minimalistisches Magazin-Editorial-Design / Echte Fotografie-Ästhetik / Kalte Ozeantöne Grau-Türkis-Off-White / Schwere schwarze Typografie / Erstklassige Dokumentar-Publikationsqualität
-```
-
-**🎬 Video-Prompt**
-
-```
-Filmischer Ozean-Dokumentarfilm. Subjekt: Ein 27-jähriger, extrem gutaussehender, athletischer Hochseefischer. Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut. Trägt schwere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt. Altes, verrostetes Fischerboot.
-→ EINSTELLUNG 1 — Extrem niedrige Tracking-Aufnahme auf Deckhöhe. Er bewegt sich bereits mit voller Geschwindigkeit über das Schiffsdeck in Richtung eines verhedderten Netzes. Nachdem er das Netz gewaltsam über die Seite gezogen hat, fängt er kaum seinen Stand auf dem nassen Deck, bevor er sofort wieder nach vorne drängt.
-→ EINSTELLUNG 2 — Whip-Pan-Übergang in eine ausgedehnte Seilziehsequenz. Kontinuierliche Seilreibung und Gischt explodieren über den Rahmen, während die Kamera Schwierigkeiten hat, mit seiner überwältigenden Kraft und Geschwindigkeit Schritt zu halten.
-→ EINSTELLUNG 3 — Weite Kamerafahrt über das gesamte Schiffsdeck. Mehrere schnelle Aufgaben finden direkt hintereinander statt, fast ohne Vorbereitungszeit. Der Kameramann verliert auf dem schaukelnden Boot fast das Gleichgewicht, um der Action zu folgen.
-→ EINSTELLUNG 4 — Komprimierte Langobjektiv-Aufnahme, die eine massive Welle einfängt, die in Zeitlupe über den Bug bricht. Extreme Körperbeherrschung, um die Position gegen die Kraft zu halten, fast weggespült, bevor er sich in letzter Sekunde auf wundersame Weise erholt.
-→ EINSTELLUNG 5 — Ultra-niedrige kreisförmige Tracking-Aufnahme um eine ausgedehnte Balance-Sequenz auf dem rutschigen Deck. Ständige Anpassung gegen den schaukelnden Ozean bringt die Stabilität an die Grenze, doch er passt seinen Griff am Seil mitten in der Bewegung ruhig an, ohne langsamer zu werden.
-→ EINSTELLUNG 6 — Letzte Aufnahme. Eine massive Welle bricht über den Rumpf und umhüllt ihn vollständig. Gischt, Schaum und Bewegungsspuren explodieren über das Deck. Er gleitet in einen festen, breiten Stand, richtet sich langsam auf und erstarrt in einer völlig ruhigen Endpose unter hartem Ozeanlicht. Der Ton bricht sofort ab. Die Kamera friert auf seinem völlig ruhigen und furchtlosen Gesicht ein. Überblende.
-Stil: Ultra-realistischer National Geographic Ozean-Dokumentarfilm kombiniert mit erstklassiger Sportwerbe-Energie. Kalte, entsättigte Töne. Schwere Ozeanatmosphäre. Echte menschliche Kraft und Präsenz.
-```
-
-**Von** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K Follower
-
-❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
-
-<sub>📅 May 26, 2026</sub>
+<sub>📅 Feb 11, 2026</sub>
 
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
