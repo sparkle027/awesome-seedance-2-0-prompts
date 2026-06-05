@@ -52,6 +52,8 @@ async function main() {
 
   fs.mkdirSync(path.join(ROOT, "docs"), { recursive: true });
 
+  const generatedAt = new Date().toISOString();
+
   const originalPath = path.join(ROOT, PROMPTS_ORIGINAL_FILE);
   const originalMd = generateOriginalPrompts(orderItemsForDisplay(source));
   fs.writeFileSync(originalPath, originalMd, "utf-8");
@@ -63,7 +65,7 @@ async function main() {
       console.error(`   ❌ No items for lang=${locale}`);
       process.exit(1);
     }
-    const md = generateReadme(items, locale, libraryTotal);
+    const md = generateReadme(items, locale, libraryTotal, generatedAt);
     const out = readmePathForLocale(locale, ROOT);
     fs.writeFileSync(out, md, "utf-8");
     const fallbacks = countFallback(items);

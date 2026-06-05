@@ -38,14 +38,13 @@
 
 ## 🌐 전체 갤러리 둘러보기
 
-Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **sorts by hot/likes/views**, and lets you **browse more use cases**.
 
 | | 📄 현재 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 영상 미리보기 재생 | 썸네일만 제공 | ✅ 인라인 재생 |
 | 🎁 Free trial generation | — | ✅ Free trial |
-| 🔍 검색 및 필터 | Ctrl/⌘-F | ✅ 전체 텍스트 + 필터 |
-| 📋 클릭 한 번으로 복사 | 수동 선택 | ✅ 복사 버튼 |
+| 🔥 Sort by engagement | Fixed order | ✅ Hot · Likes · Views — spot viral hits |
 | 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 API를 통한 생성 | — | ✅ Seedance 2.0 API |
 
@@ -58,7 +57,6 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 - [🌐 전체 갤러리 둘러보기](#browse-gallery)
 - [🎬 Seedance 2.0이란?](#what-is-seedance-20)
 - [🔌 Seedance 2.0 API 사용하기](#use-the-seedance-20-api)
-- [📰 뉴스](#news)
 - [📊 통계](#statistics)
 - [⭐ 추천 프롬프트](#featured-prompts)
 - [📋 모든 프롬프트](#all-prompts)
@@ -106,14 +104,6 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-<a id="news"></a>
-
-## 📰 뉴스
-
-- **2026-06-05** — 엄선된 Seedance 2.0 프롬프트 목록을 공개했습니다. ⭐ 별을 눌러 업데이트를 받아보세요.
-
----
-
 <a id="statistics"></a>
 
 ## 📊 통계
@@ -122,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-05 08:35:08.855 UTC** |
 
 </div>
 
@@ -140,7 +130,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개는 받을 수 있는 걸로."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -155,7 +145,7 @@ AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개�
 
 <sub>📅 Feb 14, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -165,7 +155,7 @@ AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋아요를 받아보자."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -180,7 +170,7 @@ Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋
 
 <sub>📅 Feb 12, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -190,7 +180,7 @@ Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -205,7 +195,7 @@ Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 
 <sub>📅 Feb 21, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -215,7 +205,7 @@ Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공격적으로 만들어 보세요."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -230,7 +220,7 @@ AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공
 
 <sub>📅 Feb 19, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -240,7 +230,7 @@ AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="프롬프트: 어두운 실내 환경에서 밝게 빛나는 작은 디지털 카메라 화면의 사실적인 클로즈업 샷. LCD에는 긴 어두운 웨이브…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -265,7 +255,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -279,7 +269,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="클래식한 90년대 디즈니 애니메이션 스타일. 장면 1: 이집트의 한 궁전, 카메라가 왕좌의 방 내부로 전환됩니다. 위엄 있는…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -308,7 +298,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <sub>📅 May 31, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -318,7 +308,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="완벽하게 준비된 시네마틱 AI 비디오 프롬프트 (15초) 차가운 청록색 노트북 빛과 따뜻한 호박색 실내 조명, 그리고 광택이…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -373,7 +363,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <sub>📅 May 30, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -383,7 +373,7 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: 작은 친절 하나가 모든 것을 바꿨습니다 Gugugaga에게는 만두가 딱 하나뿐이었지만… 빗속에서 배고픈 작은 토끼와…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -410,7 +400,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 29, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -420,7 +410,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="두 개의 섹션으로 나뉜 하이엔드 편집 캐릭터 프로필 스프레드 레이아웃 생성. 왼쪽 섹션 → 굵고 큰 타이포그래피 &quot;THOMA…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **🖼️ 이미지 프롬프트**
@@ -468,7 +458,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 26, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -478,7 +468,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="현대 중국 3D 애니메이션 스타일. 장면 1: 거대한 이집트 도서관에서, 위엄 있는 자칼의 신 아누비스가 뒷짐을 진 채 무심…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -493,7 +483,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -503,7 +493,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="주인공: 현실적인 한국 여름 교복(하복)을 입은 아름다운 한국 여고생. 보정 없는 자연스러운 피부 질감. 전투 중 머리카락이…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -548,7 +538,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 23, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -576,7 +566,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 12, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -586,7 +576,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="필름 스톡 / 렌즈: 디지털 4K 게임 엔진 렌더링, 고정 와이드 사이드 뷰 격투 게임 카메라, 깊은 피사계 심도를 위한 3…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -625,7 +615,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 May 8, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -635,7 +625,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;스타일화된 3D 애니메이션, 하이퍼리얼 팝, 스쿼시 앤 스트레치&quot;, &quot;mood&quot;: &quot;빠른 슬랩스틱 장난…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -678,7 +668,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 Apr 12, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -688,7 +678,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="형식: 15초 / 145 BPM / 15 샷 / 비트 동기화 루틴 주제: @[image1] < 이미지를 첨부하세요. 의상:…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -749,7 +739,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 Apr 11, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -759,7 +749,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="미학: 가공되지 않은 35mm 핸드헬드, 고고도의 태양 안개. 끊김 없는 연속 트래킹 샷. 컷 없음. 실시간 촬영. 오디오:…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -782,7 +772,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 Apr 2, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -792,7 +782,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="형식: 15초 / 자유 리듬 / 1 매치 컷 / 매치 컷까지 연속적인 움직임 + 첫 프레임부터 즉각적인 동작 피사체: 낡은…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -817,7 +807,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -827,7 +817,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="ROCKET SURF. 스타일: 거친 시네 베리테(Cine Verité), 35mm 핸드헬드, 자연스러운 흔들림. 연속 트래…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -851,7 +841,7 @@ ROCKET SURF.
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -861,7 +851,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="거칠고 날것의 핸드헬드 35mm 필름 미학, 자연스러운 필름 그레인. 강렬한 직사광선이 만드는 고대비 그림자. 핸드헬드 트래…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -892,7 +882,7 @@ ROCKET SURF.
 
 <sub>📅 Mar 30, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -902,7 +892,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="피사체: 피사체 1: 짧고 날카롭게 자른 머리와 뚜렷한 턱선을 가진 날씬한 쿵푸 셰프. 현대적으로 재해석한 중국식 셰프 복장…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -937,7 +927,7 @@ ROCKET SURF.
 
 <sub>📅 Mar 24, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -947,7 +937,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="형식: 영화 같은 연속 촬영 / 의도적인 카메라 움직임 / 15초 장면 해 질 녘 석조 도시 내부의 붐비는 중세 시장 거리.…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1003,7 +993,7 @@ ROCKET SURF.
 
 <sub>📅 Mar 13, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1013,7 +1003,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="초광각 매크로 FPV로 촬영한 고양이 추격 밀착 트래킹 샷. 피사체는 전체 모습이 보이지 않고, 귀 끝, 수염, 발끝, 등털…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1046,7 +1036,7 @@ ROCKET SURF.
 
 <sub>📅 Mar 6, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1056,7 +1046,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="빠른 속도의 FPV 드론 추적 샷으로, 흰 머리를 가진 3D 애니메이션 스타일의 소녀가 가파르고 굽이진 산길을 엄청난 속도로…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1071,7 +1061,7 @@ ROCKET SURF.
 
 <sub>📅 Mar 1, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1081,7 +1071,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="가발을 빼앗긴 후 복수를 계획하는 Androgenic. 내 코르티솔 수치를 치솟게 만들어줘."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1096,7 +1086,7 @@ ROCKET SURF.
 
 <sub>📅 Feb 22, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1106,7 +1096,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="핸드헬드 카메라 움직임과 카메라 흔들림이 포함된 영화적이고 혼란스러운 트래킹 샷으로, 고대 스카라베 유물을 들고 있는 탐험가…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1121,7 +1111,7 @@ ROCKET SURF.
 
 <sub>📅 Feb 17, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1131,7 +1121,7 @@ ROCKET SURF.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[장면 1: 정면 위협 샷] 완전한 전술 장비, 방독면, 헬멧을 착용한 SWAT 대원의 미디엄 샷. 그는 돌격 소총을 카메라…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
@@ -1146,7 +1136,7 @@ ROCKET SURF.
 
 <sub>📅 Feb 11, 2026</sub>
 
-**[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

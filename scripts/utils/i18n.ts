@@ -69,6 +69,7 @@ export interface Messages {
   statsTotal: string;
   statsModel: string;
   statsUpdated: string;
+  statsUpdatedKind: string;
   featuredTitle: string;
   featuredSubtitle: string;
   allPromptsTitle: string;

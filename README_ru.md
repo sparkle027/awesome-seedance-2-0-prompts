@@ -38,14 +38,13 @@
 
 ## 🌐 Просмотр полной галереи
 
-Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **sorts by hot/likes/views**, and lets you **browse more use cases**.
 
 | | 📄 Этот README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Воспроизведение видео | Только миниатюры | ✅ Встроенный плеер |
 | 🎁 Free trial generation | — | ✅ Free trial |
-| 🔍 Поиск и фильтры | Ctrl/⌘-F | ✅ Полнотекстовый + фильтры |
-| 📋 Копирование в один клик | Ручное выделение | ✅ Кнопка копирования |
+| 🔥 Sort by engagement | Fixed order | ✅ Hot · Likes · Views — spot viral hits |
 | 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 Генерация через API | — | ✅ Seedance 2.0 API |
 
@@ -58,7 +57,6 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 - [🌐 Просмотр полной галереи](#browse-gallery)
 - [🎬 Что такое Seedance 2.0?](#what-is-seedance-20)
 - [🔌 Использование Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 Новости](#news)
 - [📊 Статистика](#statistics)
 - [⭐ Избранные промпты](#featured-prompts)
 - [📋 Все промпты](#all-prompts)
@@ -106,14 +104,6 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-<a id="news"></a>
-
-## 📰 Новости
-
-- **2026-06-05** — Запустили список с курируемыми промптами Seedance 2.0. ⭐ Поставьте звезду, чтобы следить за обновлениями.
-
----
-
 <a id="statistics"></a>
 
 ## 📊 Статистика
@@ -122,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Курируемых промптов | 📚 Total prompts | 🎬 Модель | 🔄 Последнее обновление |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-05 08:35:08.855 UTC** |
 
 </div>
 
@@ -140,7 +130,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Опиши дискуссию об ИИ в виде мема — сделай его максимально нелепым, ч…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -155,7 +145,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <sub>📅 Feb 14, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -165,7 +155,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Обычная смена в Waffle House — сделай так, чтобы это выглядело безумн…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -180,7 +170,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <sub>📅 Feb 12, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -190,7 +180,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey наносит ответный удар. Заставь девушек гордиться."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -205,7 +195,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <sub>📅 Feb 21, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -215,7 +205,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="ИИ становится чрезмерно политкорректным. Сделайте его очень оскорбите…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -230,7 +220,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <sub>📅 Feb 19, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -240,7 +230,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="Промпт: Реалистичный крупный план экрана маленькой цифровой камеры, я…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -265,7 +255,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -279,7 +269,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Классический стиль анимации Disney 90-х годов. Сцена 1: В египетском…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -308,7 +298,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <sub>📅 May 31, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -318,7 +308,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Полностью подготовленный кинематографичный AI-видеопромпт (15 с) Высо…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -373,7 +363,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <sub>📅 May 30, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -383,7 +373,7 @@ Punch the Monkey наносит ответный удар. Заставь дев
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Один маленький добрый поступок изменил ВСЁ У Гугугаги был всего…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -410,7 +400,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 29, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -420,7 +410,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Создайте макет разворота профиля персонажа в высококлассном редакцион…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **🖼️ Промпт для изображения**
@@ -468,7 +458,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 26, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -478,7 +468,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Современный китайский стиль 3D-анимации. Сцена 1: В большой египетско…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -493,7 +483,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -503,7 +493,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Главный герой: Красивая корейская старшеклассница в реалистичной коре…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -548,7 +538,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 23, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -576,7 +566,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 12, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -586,7 +576,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Кинопленка / Объектив: Рендер игрового движка в формате 4K, фиксирова…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -625,7 +615,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 May 8, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -635,7 +625,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;стилизованная 3D-анимация, гиперреалистичный поп-арт, скв…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -678,7 +668,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Apr 12, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -688,7 +678,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="ФОРМАТ: 15с / 145 BPM / 15 КАДРОВ / рутина, синхронизированная с бито…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -749,7 +739,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Apr 11, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -759,7 +749,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="эстетика: Необработанная 35-мм ручная съемка, дымка от солнца на боль…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -782,7 +772,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Apr 2, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -792,7 +782,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="ФОРМАТ: 15с / свободный ритм / 1 СКЛЕЙКА ПО ДВИЖЕНИЮ / НЕПРЕРЫВНОЕ ДВ…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -817,7 +807,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -827,7 +817,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="СЕРФИНГ НА РАКЕТЕ. СТИЛЬ: Суровый «Синема верите», 35-мм камера с рук…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -851,7 +841,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -861,7 +851,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Грубая, необработанная эстетика 35-мм кинопленки при ручной съемке с…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -892,7 +882,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Mar 30, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -902,7 +892,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="СУБЪЕКТЫ: Субъект 1: Худощавый шеф-повар кунг-фу с короткой стрижкой…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -937,7 +927,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Mar 24, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -947,7 +937,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="ФОРМАТ: кинематографичный непрерывный кадр / мотивированное движение…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1003,7 +993,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Mar 13, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1013,7 +1003,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="Сверхширокоугольный макро-FPV-кадр с преследованием кота вплотную. Об…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1046,7 +1036,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Mar 6, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1056,7 +1046,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Динамичная FPV-съемка с дрона сзади, плотно следующая за 3D-девушкой…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1071,7 +1061,7 @@ POV: Один маленький добрый поступок изменил В
 
 <sub>📅 Mar 1, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1081,7 +1071,7 @@ POV: Один маленький добрый поступок изменил В
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic замышляет месть после того, как с него сорвали парик. Заст…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1096,7 +1086,7 @@ Androgenic замышляет месть после того, как с него
 
 <sub>📅 Feb 22, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1106,7 +1096,7 @@ Androgenic замышляет месть после того, как с него
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="Кинематографичный и хаотичный трекинг-шот с эффектом ручной камеры и…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1121,7 +1111,7 @@ Androgenic замышляет месть после того, как с него
 
 <sub>📅 Feb 17, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1131,7 +1121,7 @@ Androgenic замышляет месть после того, как с него
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Кадр 1: Фронтальный угрожающий план] Средний план офицера SWAT в пол…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
@@ -1146,7 +1136,7 @@ Androgenic замышляет месть после того, как с него
 
 <sub>📅 Feb 11, 2026</sub>
 
-**[▶️ Смотреть и ремикшировать на gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

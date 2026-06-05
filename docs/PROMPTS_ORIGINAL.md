@@ -54,7 +54,7 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 <sub>📅 Feb 14, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -77,7 +77,7 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 <sub>📅 Feb 12, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -100,7 +100,7 @@ Punch the Monkey punches back. Make the girls proud.
 <sub>📅 Feb 21, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -123,7 +123,7 @@ AI goes woke. Make it really offensive - like really offensive.
 <sub>📅 Feb 19, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -156,7 +156,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 <sub>📅 May 25, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -193,7 +193,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 <sub>📅 May 31, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -256,7 +256,7 @@ Luxury commercial, cinematic realism, moody apartment, food cinematography, shal
 <sub>📅 May 30, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -291,7 +291,7 @@ DM for full Prompt
 <sub>📅 May 29, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -347,7 +347,7 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 <sub>📅 May 26, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -370,7 +370,7 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 <sub>📅 May 25, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -426,7 +426,7 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 <sub>📅 May 23, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -453,7 +453,7 @@ No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow m
 <sub>📅 May 12, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -500,7 +500,7 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 <sub>📅 May 8, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -551,7 +551,7 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 <sub>📅 Apr 12, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -620,7 +620,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 <sub>📅 Apr 11, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -651,7 +651,7 @@ quality: 8K photorealistic, correct fabric motion blur, natural physics, no unca
 <sub>📅 Apr 2, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -684,7 +684,7 @@ TIMELINE:
 <sub>📅 Apr 1, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -716,7 +716,7 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 <sub>📅 Apr 1, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -755,7 +755,7 @@ Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion b
 <sub>📅 Mar 30, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -798,7 +798,7 @@ TIMELINE:
 <sub>📅 Mar 24, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -862,7 +862,7 @@ photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosp
 <sub>📅 Mar 13, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -917,7 +917,7 @@ as the cat leaps into a safe shadowy corner, while the camera's residual vibrati
 <sub>📅 Mar 6, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -940,7 +940,7 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 <sub>📅 Mar 1, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -963,7 +963,7 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 <sub>📅 Feb 22, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -986,7 +986,7 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 <sub>📅 Feb 17, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1009,7 +1009,7 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 <sub>📅 Feb 11, 2026</sub>
 
 
-**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

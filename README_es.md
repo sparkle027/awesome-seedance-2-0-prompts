@@ -38,14 +38,13 @@
 
 ## 🌐 Explora la Galería Completa
 
-Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **sorts by hot/likes/views**, and lets you **browse more use cases**.
 
 | | 📄 Este README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Previsualización de video reproducible | Solo miniaturas | ✅ Reproducción integrada |
 | 🎁 Free trial generation | — | ✅ Free trial |
-| 🔍 Buscar y filtrar | Ctrl/⌘-F | ✅ Texto completo + filtros |
-| 📋 Copiar con un clic | Selección manual | ✅ Botón de copiar |
+| 🔥 Sort by engagement | Fixed order | ✅ Hot · Likes · Views — spot viral hits |
 | 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 Generar vía API | — | ✅ API de Seedance 2.0 |
 
@@ -58,7 +57,6 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 - [🌐 Explora la Galería Completa](#browse-gallery)
 - [🎬 ¿Qué es Seedance 2.0?](#what-is-seedance-20)
 - [🔌 Usar la API de Seedance 2.0](#use-the-seedance-20-api)
-- [📰 Noticias](#news)
 - [📊 Estadísticas](#statistics)
 - [⭐ Prompts Destacados](#featured-prompts)
 - [📋 Todos los Prompts](#all-prompts)
@@ -106,14 +104,6 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-<a id="news"></a>
-
-## 📰 Noticias
-
-- **2026-06-05** — Lanzamos la lista con prompts seleccionados de Seedance 2.0. ⭐ Marca con estrella para seguir las actualizaciones.
-
----
-
 <a id="statistics"></a>
 
 ## 📊 Estadísticas
@@ -122,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts seleccionados | 📚 Total prompts | 🎬 Modelo | 🔄 Última actualización |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-05 08:35:08.855 UTC** |
 
 </div>
 
@@ -140,7 +130,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Resume el discurso sobre la IA en un meme: asegúrate de que sea absur…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -155,7 +145,7 @@ Resume el discurso sobre la IA en un meme: asegúrate de que sea absurdo y consi
 
 <sub>📅 Feb 14, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -165,7 +155,7 @@ Resume el discurso sobre la IA en un meme: asegúrate de que sea absurdo y consi
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Un turno promedio en Waffle House: asegúrate de que sea absurdo y con…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -180,7 +170,7 @@ Un turno promedio en Waffle House: asegúrate de que sea absurdo y consiga 50 li
 
 <sub>📅 Feb 12, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -190,7 +180,7 @@ Un turno promedio en Waffle House: asegúrate de que sea absurdo y consiga 50 li
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey contraataca. Haz que las chicas se sientan orgullosa…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -205,7 +195,7 @@ Punch the Monkey contraataca. Haz que las chicas se sientan orgullosas.
 
 <sub>📅 Feb 21, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -215,7 +205,7 @@ Punch the Monkey contraataca. Haz que las chicas se sientan orgullosas.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="La IA se vuelve 'woke'. Hazlo realmente ofensivo, muy ofensivo."></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -230,7 +220,7 @@ La IA se vuelve 'woke'. Hazlo realmente ofensivo, muy ofensivo.
 
 <sub>📅 Feb 19, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -240,7 +230,7 @@ La IA se vuelve 'woke'. Hazlo realmente ofensivo, muy ofensivo.
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="Prompt: Un primer plano realista de la pantalla de una pequeña cámara…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -275,7 +265,7 @@ Capturado para parecerse a una auténtica cámara compacta Sony Cyber-shot de pr
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -289,7 +279,7 @@ Capturado para parecerse a una auténtica cámara compacta Sony Cyber-shot de pr
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Estilo clásico de animación de Disney de los años 90. Escena 1: En un…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -318,7 +308,7 @@ Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las ore
 
 <sub>📅 May 31, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -328,7 +318,7 @@ Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las ore
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Prompt de video cinematográfico con IA totalmente preparado (15s) Ilu…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -383,7 +373,7 @@ Comercial de lujo, realismo cinematográfico, apartamento melancólico, cinemato
 
 <sub>📅 May 30, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -393,7 +383,7 @@ Comercial de lujo, realismo cinematográfico, apartamento melancólico, cinemato
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Un pequeño acto de bondad lo cambió TODO Gugugaga solo tenía una…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -420,7 +410,7 @@ Envía un DM para el prompt completo
 
 <sub>📅 May 29, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -430,7 +420,7 @@ Envía un DM para el prompt completo
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Cree un diseño de perfil de personaje editorial de alta gama dividido…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt de imagen**
@@ -477,7 +467,7 @@ Documental cinematográfico sobre el océano. Sujeto: Un pescador de alta mar at
 
 <sub>📅 May 26, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -487,7 +477,7 @@ Documental cinematográfico sobre el océano. Sujeto: Un pescador de alta mar at
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Estilo de animación 3D china moderna. Escena 1: En una gran bibliotec…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -502,7 +492,7 @@ Estilo de animación 3D china moderna. Escena 1: En una gran biblioteca egipcia,
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -512,7 +502,7 @@ Estilo de animación 3D china moderna. Escena 1: En una gran biblioteca egipcia,
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Personaje principal: Una hermosa estudiante de secundaria coreana que…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -557,7 +547,7 @@ Cine de acción coreano, cinematografía ultrarrealista, acción cinematográfic
 
 <sub>📅 May 23, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -585,7 +575,7 @@ Sin aspecto cinematográfico, sin poses, sin filtros de belleza, sin iluminació
 
 <sub>📅 May 12, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -595,7 +585,7 @@ Sin aspecto cinematográfico, sin poses, sin filtros de belleza, sin iluminació
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Película / Lente: Renderizado de motor de juego digital 4K, cámara fi…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -634,7 +624,7 @@ Fotorrealista 8K, texturas de tela ultra detalladas en las equipaciones, ilumina
 
 <sub>📅 May 8, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -644,7 +634,7 @@ Fotorrealista 8K, texturas de tela ultra detalladas en las equipaciones, ilumina
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;animación 3D estilizada, pop hiperrealista, squash-and-st…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -687,7 +677,7 @@ Fotorrealista 8K, texturas de tela ultra detalladas en las equipaciones, ilumina
 
 <sub>📅 Apr 12, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -697,7 +687,7 @@ Fotorrealista 8K, texturas de tela ultra detalladas en las equipaciones, ilumina
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="FORMATO: 15s / 145 BPM / 15 TOMAS / rutina sincronizada con el ritmo"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -758,7 +748,7 @@ SHOT 15: WS, 50mm pull-out / Corte en L con una coincidencia desde el cierre de 
 
 <sub>📅 Apr 11, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -768,7 +758,7 @@ SHOT 15: WS, 50mm pull-out / Corte en L con una coincidencia desde el cierre de 
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="estética: 35mm crudo cámara en mano, neblina solar a gran altitud. Un…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -791,7 +781,7 @@ calidad: 8K fotorrealista, desenfoque de movimiento de tela correcto, física na
 
 <sub>📅 Apr 2, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -801,7 +791,7 @@ calidad: 8K fotorrealista, desenfoque de movimiento de tela correcto, física na
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="FORMATO: 15s / ritmo libre / 1 MATCH CUT / MOVIMIENTO CONTINUO HASTA…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -826,7 +816,7 @@ LÍNEA DE TIEMPO:
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -836,7 +826,7 @@ LÍNEA DE TIEMPO:
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="SURF EN COHETE. ESTILO: Cine Verité crudo, 35mm cámara en mano, movim…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -860,7 +850,7 @@ CALIDAD: 8K fotorrealista, física correcta, desenfoque de movimiento en la tela
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -870,7 +860,7 @@ CALIDAD: 8K fotorrealista, física correcta, desenfoque de movimiento en la tela
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Estética cruda y áspera de película de 35mm grabada a mano con grano…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -901,7 +891,7 @@ Fotorrealista 8K, texturas ultra detalladas, iluminación cinematográfica, dese
 
 <sub>📅 Mar 30, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -911,7 +901,7 @@ Fotorrealista 8K, texturas ultra detalladas, iluminación cinematográfica, dese
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="SUJETOS: Sujeto 1: Chef de kung fu delgado con cabello corto y corte…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -946,7 +936,7 @@ CRONOLOGÍA:
 
 <sub>📅 Mar 24, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -956,7 +946,7 @@ CRONOLOGÍA:
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="FORMATO: toma continua cinematográfica / movimiento de cámara motivad…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1012,7 +1002,7 @@ fotorrealista, iluminación cinematográfica, movimiento de cámara realista, ri
 
 <sub>📅 Mar 13, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1022,7 +1012,7 @@ fotorrealista, iluminación cinematográfica, movimiento de cámara realista, ri
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="Toma de seguimiento FPV macro de gran angular que sigue a un gato muy…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1055,7 +1045,7 @@ El diseño de sonido sugiere un viento fuerte y apresurado, salpicaduras de agua
 
 <sub>📅 Mar 6, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1065,7 +1055,7 @@ El diseño de sonido sugiere un viento fuerte y apresurado, salpicaduras de agua
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Toma de seguimiento con dron FPV de ritmo rápido desde atrás, siguien…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1080,7 +1070,7 @@ Toma de seguimiento con dron FPV de ritmo rápido desde atrás, siguiendo de cer
 
 <sub>📅 Mar 1, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1090,7 +1080,7 @@ Toma de seguimiento con dron FPV de ritmo rápido desde atrás, siguiendo de cer
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic planea su venganza después de que le arrancaran la peluca.…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1105,7 +1095,7 @@ Androgenic planea su venganza después de que le arrancaran la peluca. Haz que m
 
 <sub>📅 Feb 22, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1115,7 +1105,7 @@ Androgenic planea su venganza después de que le arrancaran la peluca. Haz que m
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="Un plano de seguimiento cinematográfico y caótico con movimiento de c…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1130,7 +1120,7 @@ Un plano de seguimiento cinematográfico y caótico con movimiento de cámara en
 
 <sub>📅 Feb 17, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1140,7 +1130,7 @@ Un plano de seguimiento cinematográfico y caótico con movimiento de cámara en
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Escena 1: Plano frontal amenazante] Plano medio de un oficial SWAT c…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
@@ -1161,7 +1151,7 @@ Estilo técnico: Acción con alta velocidad de obturación, destellos de disparo
 
 <sub>📅 Feb 11, 2026</sub>
 
-**[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

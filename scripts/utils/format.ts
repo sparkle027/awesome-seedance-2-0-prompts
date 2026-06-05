@@ -14,6 +14,15 @@ function trim(v: number): string {
   return v.toFixed(1).replace(/\.0$/, "");
 }
 
+/** ISO datetime -> "2026-02-14 18:40:18.000 UTC" (millisecond precision). */
+export function formatDateTimeMs(iso: string | undefined | null): string {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return "";
+  const pad = (n: number, w = 2) => String(n).padStart(w, "0");
+  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())} ${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())}:${pad(d.getUTCSeconds())}.${pad(d.getUTCMilliseconds(), 3)} UTC`;
+}
+
 /** ISO date -> "Feb 14, 2026". Returns "" on bad input. */
 export function formatDate(iso: string | undefined | null): string {
   if (!iso) return "";

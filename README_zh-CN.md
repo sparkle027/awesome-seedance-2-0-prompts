@@ -38,14 +38,13 @@
 
 ## 🌐 浏览完整图库
 
-此处的提示词仅为快照。**gptproto.com** 上的实时图库支持视频内联播放、**免费试用生成**、**搜索与筛选**，并可**查看更多用例**，一键复制任何提示词。
+此处的提示词仅为快照。**gptproto.com** 上的实时图库支持视频内联播放、**免费试用生成**、**按热度/点赞/浏览量排序**，并可**查看更多用例**。
 
 | | 📄 本 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 可播放的视频预览 | 仅缩略图 | ✅ 内联播放 |
 | 🎁 免费试用生成 | — | ✅ 免费试用 |
-| 🔍 搜索与筛选 | Ctrl/⌘-F | ✅ 全文搜索 + 筛选 |
-| 📋 一键复制 | 手动选择 | ✅ 复制按钮 |
+| 🔥 热度排序 | 固定顺序 | ✅ 热度 · 点赞 · 浏览量 — 发现爆款 |
 | 📚 查看更多用例 | — | ✅ 图库 + 示例 |
 | 🔌 通过 API 生成 | — | ✅ Seedance 2.0 API |
 
@@ -58,7 +57,6 @@
 - [🌐 浏览完整图库](#browse-gallery)
 - [🎬 什么是 Seedance 2.0？](#what-is-seedance-20)
 - [🔌 使用 Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 新闻](#news)
 - [📊 统计数据](#statistics)
 - [⭐ 精选提示词](#featured-prompts)
 - [📋 所有提示词](#all-prompts)
@@ -106,14 +104,6 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-<a id="news"></a>
-
-## 📰 新闻
-
-- **2026-06-05** — 列表上线，内含精选 Seedance 2.0 提示词。⭐ 加星以关注更新。
-
----
-
 <a id="statistics"></a>
 
 ## 📊 统计数据
@@ -122,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-05 08:35:08.855 UTC** |
 
 </div>
 
@@ -140,7 +130,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="用一个梗图总结AI讨论——确保它足够无厘头并能获得50个赞。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -155,7 +145,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <sub>📅 Feb 14, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -165,7 +155,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -180,7 +170,7 @@ Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞
 
 <sub>📅 Feb 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -190,7 +180,7 @@ Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 予以反击。让女孩们感到骄傲。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -205,7 +195,7 @@ Punch the Monkey 予以反击。让女孩们感到骄傲。
 
 <sub>📅 Feb 21, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -215,7 +205,7 @@ Punch the Monkey 予以反击。让女孩们感到骄傲。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -230,7 +220,7 @@ AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。
 
 <sub>📅 Feb 19, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -240,7 +230,7 @@ AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="提示词：一张逼真的特写镜头，展示了一个在黑暗室内环境中明亮发光的小型数码相机屏幕。LCD上显示着一张2010年代初风格的抓拍照片，照片中是…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -265,7 +255,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -279,7 +269,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="经典的90年代迪士尼动画风格。 场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -308,7 +298,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <sub>📅 May 31, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -318,7 +308,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="精心准备的电影级AI视频提示词 (15秒) 高对比度电影级灯光，冷青蓝色笔记本电脑光芒与温暖的琥珀色实用灯光及光泽巧克力反射形成对比。高端…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -373,7 +363,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <sub>📅 May 30, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -383,7 +373,7 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV：一个小小的善举改变了一切 Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿的小兔子 接下来发生的事情融化了我的心…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -410,7 +400,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 29, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -420,7 +410,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="创建一个高端编辑角色资料排版，分为两个部分。 左侧部分 → 大号粗体排版 &quot;THOMAS REID&quot;，使用厚重的黑色大写字体 → 副标题：…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **🖼️ 图像提示词**
@@ -468,7 +458,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 26, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -478,7 +468,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -493,7 +483,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -503,7 +493,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="主角： 一位美丽的韩国高中女生，穿着写实的韩国夏季校服（하복）。自然的皮肤纹理，没有美颜修饰。战斗中头发变得凌乱，表演富有情感。所有镜头中…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -548,7 +538,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 23, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -576,7 +566,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -586,7 +576,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="胶片/镜头：数字 4K 游戏引擎渲染，固定广角侧视格斗游戏摄像机，35mm 镜头以实现深焦。 色彩分级：高对比度，充满活力的“次世代”游戏…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -625,7 +615,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 May 8, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -635,7 +625,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;风格化3D动画，超写实波普风格，挤压与拉伸效果&quot;, &quot;mood&quot;: &quot;节奏明快的闹剧，包含虚假的胜利与最终的结局&quot;…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -678,7 +668,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Apr 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -688,7 +678,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="格式：15秒 / 145 BPM / 15个镜头 / 节奏同步的日常"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -749,7 +739,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Apr 11, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -759,7 +749,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="美学：原始35mm手持拍摄，高海拔太阳雾霾。一个不间断的连续追踪镜头。无剪辑。全实时。音频：持续的喷气发动机轰鸣声，强风吹拂，无其他声音。…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -782,7 +772,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Apr 2, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -792,7 +782,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="格式：15秒 / 自由节奏 / 1次匹配剪辑 (MATCH CUT) / 匹配剪辑前保持连续移动 + 从第一帧开始即刻动作 主体：一名身穿…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -817,7 +807,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -827,7 +817,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="火箭冲浪。 风格：写实电影感 (Cine Verité)，35mm手持摄影，自然抖动。连续追踪镜头。无剪辑。全实时。 灯光：明亮的高海拔阳…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -851,7 +841,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -861,7 +851,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="粗粝、原始的35mm手持胶片美学，带有自然的胶片颗粒感。强烈的直射阳光营造出高对比度的阴影。手持追踪镜头（第三人称视角/肩后视角）。氛围：…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -892,7 +882,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Mar 30, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -902,7 +892,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="主体： 主体 1：精瘦的功夫厨师，留着干练的短发，下颌线分明。身穿改良版中式厨师服，融合了武术服饰元素：修身无袖上衣，立领设计，深色哑光面…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -937,7 +927,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Mar 24, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -947,7 +937,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="格式：电影感连续镜头 / 动机式摄像机运动 / 15秒 场景 黄昏时分，石城内熙熙攘攘的中古市场街道。狭窄的鹅卵石路，木制摊位，悬挂的旗帜…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1003,7 +993,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Mar 13, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1013,7 +1003,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="超广角微距FPV贴身追踪镜头，追逐一只猫。 主体从未完整展示，只有碎片化的特写镜头掠过镜头：耳朵尖、胡须、爪子边缘、背部的毛发擦过摄像机。…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1046,7 +1036,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Mar 6, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1056,7 +1046,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="快节奏FPV无人机后方追踪镜头，紧跟一名有着白发的3D动漫风格女孩，她正以极高的速度在陡峭蜿蜒的山路上滑板。极具前冲动感，广角视角，风吹过…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1071,7 +1061,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <sub>📅 Mar 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1081,7 +1071,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1096,7 +1086,7 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 <sub>📅 Feb 22, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1106,7 +1096,7 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="一个充满电影感且混乱的跟拍镜头，带有手持摄像机的晃动感，展示了一位拿着古代圣甲虫文物的探险家。他们正在逃离一只巨大木乃伊的追赶。画面中可以…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1121,7 +1111,7 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 <sub>📅 Feb 17, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1131,7 +1121,7 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[场景一：正面威胁镜头] 一名全副武装的SWAT特警的中景镜头，佩戴防毒面具和头盔。他将突击步枪直接指向摄像机镜头（打破第四面墙）。他神情…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
 **📝 提示词**
@@ -1152,7 +1142,7 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 <sub>📅 Feb 11, 2026</sub>
 
-**[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

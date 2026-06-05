@@ -38,15 +38,14 @@
 
 ## 🌐 瀏覽完整藝廊
 
-Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
+此處的提示詞僅為快照。**gptproto.com** 上的即時圖庫支援影片內嵌播放、**免費試用生成**、**依熱度/按讚/瀏覽量排序**，並可**查看更多用例**。
 
 | | 📄 本 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 可播放影片預覽 | 僅縮圖 | ✅ 內嵌播放 |
-| 🎁 Free trial generation | — | ✅ Free trial |
-| 🔍 搜尋與篩選 | Ctrl/⌘-F | ✅ 全文檢索 + 篩選器 |
-| 📋 一鍵複製 | 手動選取 | ✅ 複製按鈕 |
-| 📚 Browse use cases | — | ✅ Gallery + examples |
+| 🎁 免費試用生成 | — | ✅ 免費試用 |
+| 🔥 熱度排序 | 固定順序 | ✅ 熱度 · 按讚 · 瀏覽量 — 發現爆款 |
+| 📚 查看更多用例 | — | ✅ Gallery + examples |
 | 🔌 透過 API 生成 | — | ✅ Seedance 2.0 API |
 
 **[→ 前往 gptproto.com 開啟藝廊](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -58,7 +57,6 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 - [🌐 瀏覽完整藝廊](#browse-gallery)
 - [🎬 什麼是 Seedance 2.0？](#what-is-seedance-20)
 - [🔌 使用 Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 新聞](#news)
 - [📊 統計數據](#statistics)
 - [⭐ 精選提示詞](#featured-prompts)
 - [📋 所有提示詞](#all-prompts)
@@ -106,14 +104,6 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-<a id="news"></a>
-
-## 📰 新聞
-
-- **2026-06-05** — 已發佈包含精選 Seedance 2.0 提示詞的列表。⭐ 加星以追蹤最新更新。
-
----
-
 <a id="statistics"></a>
 
 ## 📊 統計數據
@@ -122,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-05 08:35:08.855 UTC** |
 
 </div>
 
@@ -140,7 +130,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="用迷因總結 AI 討論——確保它夠荒謬且能獲得 50 個讚。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -155,7 +145,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <sub>📅 Feb 14, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -165,7 +155,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -180,7 +170,7 @@ Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚
 
 <sub>📅 Feb 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -190,7 +180,7 @@ Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 反擊了。讓女孩們感到驕傲。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -205,7 +195,7 @@ Punch the Monkey 反擊了。讓女孩們感到驕傲。
 
 <sub>📅 Feb 21, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -215,7 +205,7 @@ Punch the Monkey 反擊了。讓女孩們感到驕傲。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -230,7 +220,7 @@ AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。
 
 <sub>📅 Feb 19, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -240,7 +230,7 @@ AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="提示詞：一張寫實的特寫鏡頭，拍攝一個小型數位相機螢幕在黑暗的室內環境中發出明亮的光芒。LCD 螢幕上顯示著一張 2010 年代初風格的隨拍…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -265,7 +255,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -279,7 +269,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="經典的90年代迪士尼動畫風格。 場景一：在埃及的一座宮殿裡，鏡頭切換到王座廳內部，我們看到：威嚴的胡狼神阿努比斯端坐在王座上，一群下屬（士…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -308,7 +298,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <sub>📅 May 31, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -318,7 +308,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="完整準備的電影級 AI 影片提示詞 (15秒) 高對比電影級燈光，筆記型電腦的冷青藍色光芒與溫暖的琥珀色實用燈光及光澤巧克力反射形成對比。…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -373,7 +363,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <sub>📅 May 30, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -383,7 +373,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV：一個小小的善舉改變了一切 Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小兔子 接下來發生的事讓我的心都融化了 使…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -410,7 +400,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 29, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -420,7 +410,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="建立一個高端編輯角色資料排版，分為兩個部分。 左側部分 → 大號粗體排版 &quot;THOMAS REID&quot;，使用厚重的黑色大寫字體 → 副標題：…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
@@ -468,7 +458,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 26, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -478,7 +468,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="現代中國3D動畫風格。 場景一：在一座大型埃及圖書館裡，我們看到威嚴的胡狼神阿努比斯雙手背在身後，神情漫不經心地審視著書架，姿態威嚴。這時…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -493,7 +483,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 25, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -503,7 +493,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="主角： 一位美麗的韓國高中女生，穿著寫實的韓國夏季校服（하복）。自然的皮膚紋理，沒有美顏修飾。戰鬥中頭髮變得凌亂，表演富有情感。所有鏡頭中…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -548,7 +538,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 23, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -576,7 +566,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -586,7 +576,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="底片 / 鏡頭：數位 4K 遊戲引擎渲染，固定式格鬥遊戲側視鏡頭，35mm 鏡頭以實現深焦效果。 色彩分級：高對比度，鮮豔的「次世代」遊戲…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -625,7 +615,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 May 8, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -635,7 +625,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;風格化 3D 動畫，超現實波普風格，擠壓與拉伸效果&quot;, &quot;mood&quot;: &quot;節奏明快的鬧劇，充滿假動作與反轉&quot;, &quot;…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -678,7 +668,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Apr 12, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -688,7 +678,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="格式：15秒 / 145 BPM / 15個鏡頭 / 節奏同步日常"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -749,7 +739,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Apr 11, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -759,7 +749,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="美學：原始 35mm 手持攝影，高海拔太陽霧霾。一個不間斷的連續追蹤鏡頭。無剪輯。全即時。音訊：持續的噴射引擎轟鳴聲、風聲，無其他聲音。…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -782,7 +772,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Apr 2, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -792,7 +782,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="格式：15秒 / 自由節奏 / 1 次匹配剪輯 / 剪輯前保持連續移動 + 第一幀即刻動作 主體：一名身穿風化皮草與皮革、手持長劍的孤獨女…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -817,7 +807,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -827,7 +817,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="火箭衝浪。 風格：寫實電影感 (Cine Verité)，35mm手持攝影，自然抖動。連續追蹤鏡頭。無剪輯。全即時。 燈光：明亮的高海拔陽…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -851,7 +841,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Apr 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -861,7 +851,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="粗獷、原始的35mm手持膠片美學，帶有自然的膠片顆粒感。強烈的直射陽光營造出高對比度的陰影。手持追蹤鏡頭（第三人稱視角/肩後視角）。氛圍：…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -892,7 +882,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Mar 30, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -902,7 +892,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="主體： 主體 1：精瘦的功夫廚師，留著俐落短髮，下顎線條分明。身穿融合武術風格的現代中式廚師服：合身無袖上衣，立領設計，採用帶有細微光澤的…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -937,7 +927,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Mar 24, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -947,7 +937,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="格式：電影感連續鏡頭 / 引導式攝影機運動 / 15秒 場景 黃昏時分，石造城市中擁擠的中世紀市場街道。狹窄的鵝卵石路、木製攤位、懸掛的旗…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1003,7 +993,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Mar 13, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1013,7 +1003,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="超廣角微距 FPV 貼身追蹤鏡頭，追逐一隻貓。 主體從未完整呈現，只有破碎的特寫鏡頭掠過鏡頭：耳尖、鬍鬚、爪子邊緣、背上的毛髮擦過攝影機。…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1046,7 +1036,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Mar 6, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1056,7 +1046,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="快節奏的 FPV 無人機後方追蹤鏡頭，緊跟著一位留著白髮的 3D 動漫風格女孩，正以極高的速度在陡峭蜿蜒的山路上玩滑板。極致的前進動能、廣…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1071,7 +1061,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <sub>📅 Mar 1, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1081,7 +1071,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1096,7 +1086,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 <sub>📅 Feb 22, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1106,7 +1096,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="這是一個具有電影感且混亂的追蹤鏡頭，運用手持攝影機的晃動感，畫面中一位探險家手持古老的聖甲蟲文物。她正從一具巨大的木乃伊追擊中逃跑。畫面中…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1121,7 +1111,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 <sub>📅 Feb 17, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -1131,7 +1121,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[場景一：威脅性正面鏡頭] 一名穿著全套戰術裝備、戴著防毒面具和頭盔的 SWAT 特警的中景鏡頭。他將突擊步槍直接指向攝影機鏡頭（打破第四…"></a>
-<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
@@ -1150,7 +1140,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 <sub>📅 Feb 11, 2026</sub>
 
-**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

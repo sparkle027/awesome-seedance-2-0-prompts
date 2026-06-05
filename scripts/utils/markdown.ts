@@ -15,7 +15,7 @@ import {
   siteUrl,
   type Locale,
 } from "./config.js";
-import { compact, cleanPrompt, formatDate, oneLine } from "./format.js";
+import { compact, cleanPrompt, formatDate, formatDateTimeMs, oneLine } from "./format.js";
 import type { MaterialItem } from "./api-client.js";
 import {
   languageNav,
@@ -32,7 +32,6 @@ const SECTION_IDS = {
   gallery: "browse-gallery",
   whatIs: "what-is-seedance-20",
   api: "use-the-seedance-20-api",
-  news: "news",
   stats: "statistics",
   featured: "featured-prompts",
   all: "all-prompts",
@@ -49,11 +48,13 @@ export function generateReadme(
   items: MaterialItem[],
   locale: Locale,
   libraryTotal?: number,
+  generatedAt?: string,
 ): string {
   const { featured, rest } = partitionFeaturedAndRest(items);
   const shown = rest.slice(0, MAX_ALL_PROMPTS - FEATURED_COUNT);
   const hidden = items.length - (featured.length + shown.length);
   const total = libraryTotal ?? items.length;
+  const syncedAt = generatedAt ?? new Date().toISOString();
 
   return [
     header(items.length, locale),
@@ -61,8 +62,7 @@ export function generateReadme(
     toc(locale),
     whatIs(locale),
     apiSection(locale),
-    news(locale),
-    stats(items.length, total, locale),
+    stats(items.length, total, locale, syncedAt),
     featuredSection(featured, locale),
     allPromptsSection(shown, hidden, locale),
     contribute(locale),
@@ -143,8 +143,7 @@ ${t(locale, "galleryIntro", MODEL_NAME)}
 |---|:---:|:---:|
 | ▶️ ${t(locale, "rowPlayback", MODEL_NAME)} | ${t(locale, "cmpReadmePlayback", MODEL_NAME)} | ✅ ${t(locale, "cmpSitePlayback", MODEL_NAME)} |
 | 🎁 ${t(locale, "rowGenerate", MODEL_NAME)} | ${t(locale, "cmpReadmeGenerate", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteGenerate", MODEL_NAME)} |
-| 🔍 ${t(locale, "rowSearch", MODEL_NAME)} | ${t(locale, "cmpReadmeSearch", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteSearch", MODEL_NAME)} |
-| 📋 ${t(locale, "rowCopy", MODEL_NAME)} | ${t(locale, "cmpReadmeCopy", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteCopy", MODEL_NAME)} |
+| 🔥 ${t(locale, "rowSearch", MODEL_NAME)} | ${t(locale, "cmpReadmeSearch", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteSearch", MODEL_NAME)} |
 | 📚 ${t(locale, "rowUseCases", MODEL_NAME)} | ${t(locale, "cmpReadmeUseCases", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteUseCases", MODEL_NAME)} |
 | 🔌 ${t(locale, "rowApi", MODEL_NAME)} | ${t(locale, "cmpReadmeApi", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteApi", MODEL_NAME)} |
 
@@ -163,7 +162,6 @@ function toc(locale: Locale): string {
 - [🌐 ${t(locale, "tocGallery", MODEL_NAME)}](#${SECTION_IDS.gallery})
 - [🎬 ${what}](#${SECTION_IDS.whatIs})
 - [🔌 ${api}](#${SECTION_IDS.api})
-- [📰 ${t(locale, "tocNews", MODEL_NAME)}](#${SECTION_IDS.news})
 - [📊 ${t(locale, "tocStats", MODEL_NAME)}](#${SECTION_IDS.stats})
 - [⭐ ${t(locale, "tocFeatured", MODEL_NAME)}](#${SECTION_IDS.featured})
 - [📋 ${t(locale, "tocAll", MODEL_NAME)}](#${SECTION_IDS.all})
@@ -222,20 +220,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 `;
 }
 
-function news(locale: Locale): string {
-  const date = new Date().toISOString().slice(0, 10);
-  return `<a id="${SECTION_IDS.news}"></a>
-
-## 📰 ${t(locale, "newsTitle", MODEL_NAME)}
-
-- **${date}** — ${t(locale, "newsLaunched", MODEL_NAME)}
-
----
-
-`;
-}
-
-function stats(curated: number, libraryTotal: number, locale: Locale): string {
+function stats(curated: number, libraryTotal: number, locale: Locale, generatedAt: string): string {
   return `<a id="${SECTION_IDS.stats}"></a>
 
 ## 📊 ${t(locale, "statsTitle", MODEL_NAME)}
@@ -244,7 +229,7 @@ function stats(curated: number, libraryTotal: number, locale: Locale): string {
 
 | 📝 ${t(locale, "statsCurated", MODEL_NAME)} | 📚 ${t(locale, "statsTotal", MODEL_NAME)} | 🎬 ${t(locale, "statsModel", MODEL_NAME)} | 🔄 ${t(locale, "statsUpdated", MODEL_NAME)} |
 |:---:|:---:|:---:|:---:|
-| **${curated}** | **${libraryTotal}** | **${MODEL_NAME}** | **${formatDate(new Date().toISOString())}** |
+| **${curated}** | **${libraryTotal}** | **${MODEL_NAME}** | **${formatDateTimeMs(generatedAt)}** |
 
 </div>
 
@@ -311,7 +296,7 @@ function card(m: MaterialItem, index: number, featured: boolean, locale: Locale)
   md += mediaBlock(m, width, title, locale);
   md += translationPromptBlock(m, locale);
   md += detailsBlock(m, locale);
-  md += `**[▶️ ${t(locale, "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
+  md += `**[${t(locale, "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
   md += `---\n\n`;
   return md;
 }
@@ -356,7 +341,7 @@ function mediaBlock(m: MaterialItem, width: number, alt: string, locale: Locale)
     alt,
   )}"></a>\n`;
   if (media.type === "video") {
-    block += `<br><sub>▶️ <a href="${href}">${t(locale, "playOnSite", MODEL_NAME)}</a></sub>\n`;
+    block += `<br><sub><a href="${href}">${t(locale, "playOnSite", MODEL_NAME)}</a></sub>\n`;
   }
   block += `</div>\n\n`;
   return block;
@@ -402,7 +387,7 @@ function originalCard(m: MaterialItem, index: number): string {
   }
   md += sourcePromptBlock(m);
   md += detailsBlock(m, "en");
-  md += `\n**[▶️ ${t("en", "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
+  md += `\n**[${t("en", "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
   md += `---\n\n`;
   return md;
 }
