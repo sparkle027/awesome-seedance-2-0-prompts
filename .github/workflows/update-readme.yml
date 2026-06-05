@@ -1,0 +1,61 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate READMEs
+        env:
+          MATERIALS_API_BASE: ${{ secrets.MATERIALS_API_BASE }}
+          SITE_URL: https://gptproto.com
+        run: pnpm generate
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README_*.md docs/PROMPTS_ORIGINAL.md data/snapshot.json
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No README changes — skip commit."
+            exit 0
+          fi
+          MSG="docs: auto-update README [skip ci]"
+          if [ -f data/last-run.json ]; then
+            ADDED=$(node -e "const d=require('./data/last-run.json');process.stdout.write(String(d.added??0))")
+            REMOVED=$(node -e "const d=require('./data/last-run.json');process.stdout.write(String(d.removed??0))")
+            TWEETS=$(node -e "const d=require('./data/last-run.json');process.stdout.write(String(d.addedWithTweet??0))")
+            if [ "$ADDED" != "0" ] || [ "$REMOVED" != "0" ]; then
+              MSG="docs: auto-update README (+${ADDED}/-${REMOVED}, ${TWEETS} tweets) [skip ci]"
+            fi
+          fi
+          git commit -m "$MSG"
+          git push

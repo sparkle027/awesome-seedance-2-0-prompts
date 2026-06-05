@@ -1,0 +1,976 @@
+<div align="center">
+
+# 🎬 Awesome Seedance 2.0 Prompts
+
+**Une collection organisée et régulièrement mise à jour de prompts vidéo IA réels Seedance 2.0 — chacun accompagné de son résultat et de sa source originale.**
+
+[![English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8%20English-Default-lightgrey)](README.md)
+[![Español](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-Predeterminado-lightgrey)](README_es.md)
+[![Português](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B9%20Portugu%C3%AAs-Padr%C3%A3o-lightgrey)](README_pt.md)
+[![日本語](https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%A8%99%E6%BA%96-lightgrey)](README_ja.md)
+[![한국어](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7%20%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%B0%EB%B3%B8-lightgrey)](README_ko.md)
+[![Deutsch](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA%20Deutsch-Standard-lightgrey)](README_de.md)
+[![Français](https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7%20Fran%C3%A7ais-Par%20d%C3%A9faut-111111)](README_fr.md)
+[![Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrk%C3%A7e-Varsay%C4%B1lan-lightgrey)](README_tr.md)
+[![繁體中文](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E9%A0%90%E8%A8%AD-lightgrey)](README_zh-TW.md)
+[![简体中文](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3%20%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E9%BB%98%E8%AE%A4-lightgrey)](README_zh-CN.md)
+[![Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%9F%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E-lightgrey)](README_ru.md)
+
+
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#tous-les-prompts)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
+
+### [🚀 Parcourir la galerie complète avec lecture vidéo sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-0-prompts)
+
+</div>
+
+> ⭐ Vous trouvez cela utile ? **Mettez le dépôt en étoile (Star)** pour suivre les nouveaux prompts — mis à jour dès que des vidéos Seedance 2.0 deviennent tendance sur X.
+
+> 📎 Originaux exécutables: [docs/PROMPTS_ORIGINAL.md](docs/PROMPTS_ORIGINAL.md)
+
+---
+
+## 🌐 Parcourir la galerie complète
+
+Les prompts listés ici ne sont qu'un aperçu. La galerie en direct sur **gptproto.com** permet de lire chaque vidéo directement, d'effectuer des recherches et de copier n'importe quel prompt en un clic.
+
+| | 📄 Ce README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
+|---|:---:|:---:|
+| ▶️ Aperçu vidéo lisible | Miniatures uniquement | ✅ Lecture intégrée |
+| 🔍 Recherche et filtrage | Ctrl/⌘-F | ✅ Texte intégral + filtres |
+| 📋 Copie en un clic | Sélection manuelle | ✅ Bouton de copie |
+| 🔌 Générer via API | — | ✅ API Seedance 2.0 |
+
+**[→ Ouvrir la galerie sur gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+## 📖 Sommaire
+
+- [🌐 Parcourir la galerie complète](#parcourir-la-galerie-complte)
+- [🎬 Qu'est-ce que Seedance 2.0 ?](#-seedance-20)
+- [🔌 Utiliser l'API Seedance 2.0](#use-the-seedance-20-api)
+- [📰 Actualités](#actualits)
+- [📊 Statistiques](#statistiques)
+- [⭐ Prompts en vedette](#prompts-en-vedette)
+- [📋 Tous les prompts](#tous-les-prompts)
+- [🤝 Comment contribuer](#comment-contribuer)
+- [📄 Licence](#licence)
+- [🙏 Remerciements](#remerciements)
+
+---
+
+## 🎬 Qu'est-ce que Seedance 2.0 ?
+
+Seedance 2.0 est un modèle de génération vidéo par IA à la pointe de la technologie. Donnez-lui un prompt textuel (texte vers vidéo) ou une image de départ (image vers vidéo) et il produit de courts clips cinématographiques à fort mouvement, avec une physique, des mouvements de caméra et des personnages cohérents.
+
+Cette liste rassemble les prompts qui sont devenus viraux sur X — afin que vous puissiez voir le libellé exact derrière les clips remarquables, puis le remixer pour les vôtres.
+
+- 🎥 **Texte vers vidéo & image vers vidéo à partir d'un seul prompt**
+- 🎬 Mouvements de caméra cinématographiques et sujets cohérents
+- ⚡ Itération rapide — ajustez une ligne, régénérez
+- 🔌 Disponible via l'API gptproto Seedance 2.0
+
+---
+
+## 🔌 Utiliser l'API Seedance 2.0
+
+```bash
+curl https://api.gptproto.com/v1/video/generations \
+  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "seedance-2-0",
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+  }'
+```
+
+👉 **[Obtenir une clé API sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=api&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+## 📰 Actualités
+
+- **2026-06-05** — Lancement de la liste avec des prompts Seedance 2.0 sélectionnés. ⭐ Mettez en étoile pour suivre les mises à jour.
+
+---
+
+## 📊 Statistiques
+
+<div align="center">
+
+| Métrique | Valeur |
+|---|---|
+| 📝 Prompts sélectionnés | **20** |
+| 🎬 Modèle | **Seedance 2.0** |
+| 🔄 Dernière mise à jour | **Jun 5, 2026** |
+
+</div>
+
+---
+
+## ⭐ Prompts en vedette
+
+> Les clips Seedance 2.0 les plus appréciés, par engagement.
+
+### 1. Une journée de travail moyenne chez Waffle House : assure-toi que ce…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Une journée de travail moyenne chez Waffle House : assure-toi que ce…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Une journée de travail moyenne chez Waffle House : assure-toi que ce soit absurde et que ça obtienne 50 likes.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
+
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K abonnés
+
+❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+
+<sub>📅 Feb 12, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 2. Punch the Monkey rend les coups. Rends les filles fières.
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey rend les coups. Rends les filles fières."></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Punch the Monkey rend les coups. Rends les filles fières.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
+
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K abonnés
+
+❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+
+<sub>📅 Feb 21, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 3. L'IA devient woke. Rendez cela vraiment offensant - vraiment très off…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="L'IA devient woke. Rendez cela vraiment offensant - vraiment très off…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+L'IA devient woke. Rendez cela vraiment offensant - vraiment très offensant.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
+
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K abonnés
+
+❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+
+<sub>📅 Feb 19, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 4. Prompt : Un gros plan réaliste de l'écran d'un petit appareil photo n…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="640" alt="Prompt : Un gros plan réaliste de l'écran d'un petit appareil photo n…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Prompt : Un gros plan réaliste de l'écran d'un petit appareil photo numérique brillant intensément dans un environnement intérieur sombre. Sur l'écran LCD s'affiche une photographie spontanée, typique du début des années 2010, montrant une jeune femme est-asiatique aux longs cheveux bruns ondulés, debout à côté d'une étagère en bois remplie de bandes dessinées et de magazines colorés.
+
+Elle porte un haut noir à fines bretelles avec un cardigan blanc ample tombant négligemment sur ses épaules et un jean bleu délavé. Capturée en plein rire alors qu'elle tourne légèrement le visage, son expression semble spontanée et naturelle, ses cheveux tombant doucement sur une partie de sa joue.
+
+Le flash direct et brutal de l'appareil compact crée des reflets marqués sur son visage et son cardigan tout en aplatissant les ombres en arrière-plan, produisant une esthétique authentique de « digicam » nostalgique. Un léger flou de bougé et un grain numérique renforcent le réalisme de la prise de vue spontanée.
+
+Les superpositions de l'interface utilisateur de l'appareil sont visibles sur l'écran LCD, notamment l'horodatage « 8. 1. 2012 3:15 AM », les données d'exposition « 1/30 F3.4 ISO 100 », les indicateurs de mise au point et un petit symbole de batterie vert dans le coin.
+
+L'image préserve la structure visible des pixels de l'écran, de légers reflets, une douceur chromatique et une texture numérique compressée. En dehors de l'écran LCD, l'obscurité environnante s'estompe doucement dans le flou, mettant en valeur l'écran nostalgique lumineux.
+
+Prise de vue réalisée pour ressembler à un authentique appareil photo compact Sony Cyber-shot du début des années 2010, utilisant un capteur CCD avec un rendu numérique vintage et une exposition au flash imparfaite.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
+
+**Par** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K abonnés
+
+❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+
+<sub>📅 May 25, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 5. Esthétique de film 35mm brut et granuleux, filmé à la main avec un gr…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="640" alt="Esthétique de film 35mm brut et granuleux, filmé à la main avec un gr…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Esthétique de film 35mm brut et granuleux, filmé à la main avec un grain naturel. Lumière du soleil directe et crue créant des ombres à fort contraste. Plan de suivi à la main (POV 3ème personne/par-dessus l'épaule). Atmosphère : poussiéreuse, vent côtier, physique réaliste.
+
+Audio : Respiration rythmée lourde, gravier qui craque sous les pieds, hurlement intense du vent, silence soudain pendant le saut, suivi d'un impact sourd sur du plastique.
+
+[CHRONOLOGIE SECONDE PAR SECONDE]
+
+0-4s : [Plan de suivi] La caméra à la main suit de près un homme légèrement obèse en survêtement gris froissé courant vers le bord d'une falaise. Physique détaillée du tissu : le survêtement ondule à chaque pas. La poussière s'élève du sol.
+
+4-7s : [Le saut] L'homme atteint le précipice et saute avec force. La caméra s'abaisse légèrement avec lui alors qu'il quitte le sol. Transition en temps réel vers un plan de suivi rapide vers le bas.
+
+7-12s : [Chute libre] Le sujet tombe à grande vitesse. La caméra reste fixée sur son dos/côté. Physique : le vent déforme le tissu du survêtement et sa peau. Le sol approche rapidement avec un flou de mouvement réaliste.
+
+12-15s : [L'atterrissage] Le sujet s'écrase sur un énorme airbag gonflable coloré en bas. Physique : le gonflable se déforme profondément à l'impact et rebondit. La caméra tremble sous la force de l'atterrissage. Son d'air qui s'échappe.
+
+[AMÉLIORATIONS DE STYLE ET DE QUALITÉ]
+
+Photoréaliste 8K, textures ultra-détaillées, éclairage cinématographique, flou de mouvement parfait, plage dynamique élevée, aucun artefact, physique multimodale cohérente, stabilité de niveau cinématographique.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
+
+**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K abonnés
+
+❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
+
+<sub>📅 Mar 30, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 6. SUJETS : Sujet 1 : Chef cuisinier Kung Fu svelte avec des cheveux cou…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="640" alt="SUJETS : Sujet 1 : Chef cuisinier Kung Fu svelte avec des cheveux cou…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+SUJETS :
+Sujet 1 : Chef cuisinier Kung Fu svelte avec des cheveux courts et coupés net, et une mâchoire définie. Porte une tenue de chef chinois modernisée fusionnée avec des vêtements d'arts martiaux : haut ajusté sans manches avec col mandarin, tissu mat sombre avec un léger éclat ; avant-bras enveloppés de bandes de tissu pour la prise ; pantalon ample fuselé permettant des positions larges ; chaussures à semelles souples pour un jeu de jambes silencieux. Membres légèrement exagérés en longueur ; poignets très flexibles, coudes explosifs. Les mouvements suivent un rythme martial clair (pause → explosion → verrouillage), avec un jeu de jambes ancré et des pivots rapides.
+
+ENVIRONNEMENT :
+Installation de cuisinière traditionnelle chinoise à feu ouvert ; wok en fer fixé sur la cuisinière ; comptoir en métal réfléchissant ; bol en porcelaine bleue et blanche placé au centre au premier plan. Lumière chaude zénithale combinée à une lumière de feu dynamique intense ; légère fumée d'huile et distorsion thermique visible.
+
+AMBIANCE :
+Haute tension, agressif, mais contrôlé et précis ; la performance semble intentionnelle et élégante plutôt que chaotique.
+
+CHRONOLOGIE :
+0:00-0:02 : Très gros plan, POV grand angle. Le chef se tient au sol derrière le comptoir (comptoir toujours entre la caméra et le chef), avance, comprime sa posture, puis relève brusquement la tête pour verrouiller le regard avec la caméra. Les deux mains saisissent la pâte — il l'étire en un seul mouvement net, la plie une fois, puis tire à nouveau. La pâte passe d'une masse unique à un petit nombre de brins réguliers.
+
+0:02-0:05 : Coupe. Léger mouvement de caméra à l'épaule. Le chef garde un contrôle total du paquet de nouilles dans les deux mains, étirant et alignant les brins en lignes propres et parallèles à travers des cycles de pliage → alignement → étirement. Environ 8 à 12 brins fins s'étendent en arcs fluides, passant près de l'objectif dans un mouvement propre et lisible. Il termine l'étirement et place le paquet de nouilles alignées proprement sur le comptoir devant lui.
+
+0:05-0:07 : Mouvement (léger recul puis stabilisation). Le chef s'abaisse dans un pas glissé derrière le comptoir. Une paume balaie la surface — les crevettes et les légumes se soulèvent et voyagent dans un arc contrôlé vers le wok. Le wok reste sur la cuisinière ; le chef ne saisit que la poignée. Tout ingrédient égaré est clairement rattrapé et redirigé vers le wok.
+
+0:07-0:10 : Plan continu. Le chef contrôle le wok uniquement par le mouvement de la poignée et la force du qi — aucune main n'entre dans le wok. Il soulève, incline et secoue le wok en utilisant la puissance du poignet ; les ingrédients montent, tournent et retombent dans le wok. Son coude frappe le bord de la cuisinière — des étincelles jaillissent. Il comprime le wok dans la flamme, puis inverse pour tirer la flamme vers le haut dans une deuxième poussée contrôlée.
+
+0:10-0:12 : Suivi de mouvement (match move). Le chef pivote tout en tenant la poignée du wok. De l'autre main, il ramasse le même paquet de nouilles sur le comptoir et l'introduit directement dans le wok en un mouvement contrôlé. Il reprend immédiatement le sautage en utilisant le wok — trois cycles de sautage propres (rapide → plus rapide → arrêt). Les crevettes, les légumes et les nouilles s'intègrent visiblement ; la sauce enrobe uniformément.
+
+0:12-0:15 : Coupe vers un POV stabilisé. Arrêt complet soudain. Le chef incline le wok et fait glisser le plat fini dans le bol en porcelaine — visible : nouilles uniformément enrobées, crevettes dodues, légumes brillants. Il soulève et présente le bol directement vers la caméra jusqu'à ce qu'il remplisse le cadre. Un doigt tapote le bord — vibration subtile. La vapeur monte rapidement, s'étendant jusqu'à couvrir complètement l'objectif pour une disparition en fondu propre.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
+
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K abonnés
+
+❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+
+<sub>📅 Mar 24, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 7. FORMAT : 15s / 145 BPM / 15 PLANS / routine synchronisée sur le rythme
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.7K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="640" alt="FORMAT : 15s / 145 BPM / 15 PLANS / routine synchronisée sur le rythme"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+FORMAT: 15s / 145 BPM / 15 SHOTS / routine synchronisée sur le rythme
+
+SUBJECT: @[image1] < JOIGNEZ VOTRE IMAGE.
+
+WARDROBE: T-shirt de nuit et short de détente à la maison. Veste ajustée, haut cintré, pantalon et chaussures à lacets à l'extérieur.
+
+ENVIRONMENT: Petit appartement, lueur vive du réfrigérateur, couloir saupoudré de pluie, métro chromé, bureau propre, puis une chambre sous une lumière de fenêtre fraîche. Tout semble brillant et vécu.
+
+MOOD: Panique d'être en retard au travail, élan coupé, urgence à bout de souffle, puis un soupir d'épuisement.
+
+MUSIC: Electro-pop rapide et percutante
+
+COLOR LOGIC: Look Pop hyperréaliste
+
+STYLE: Ultra-réaliste.
+
+LOGIC RULE: Maintenez une cohérence logique dans la garde-robe, les accessoires, les lieux et la continuité de l'action sur tous les plans.
+
+SHOT 1: ECU, 85mm push-in / 06:50 sur l'écran du téléphone alors qu'il tremble sur des draps froissés. / SFX: alarme, froissement de draps.
+
+SHOT 2: WS, 35mm handheld jolt / Coupe rythmique sur elle se redressant brusquement sous une lumière latérale, jetant la couverture de côté et posant ses pieds sur le sol en un mouvement précipité, toujours en t-shirt de nuit doux et short de détente. / SFX: rebond de matelas, coup de couverture, respiration courte.
+
+SHOT 3: MCU, 50mm slide / Coupe sur l'action du lavage de visage au lavabo, les gouttelettes captant la lumière du haut. / SFX: jet du robinet, éclaboussure d'eau.
+
+SHOT 4: Insert shot, 85mm rack focus / Coupe raccord sur la brosse à dents tenue dans un angle de brossage naturel contre les dents de devant, main détendue et droite, mousse à la menthe et regard dans le miroir. / SFX: grattement de poils, goutte du lavabo.
+
+SHOT 5: Interior fridge view, 24mm wide / Passage d'objet vers la caméra à l'intérieur du réfrigérateur regardant vers l'extérieur alors que la porte s'ouvre brusquement et que sa main s'y précipite, la lumière bleue du réfrigérateur encadrant une saisie précipitée d'ingrédients pour le petit-déjeuner. / SFX: bourdonnement du frigo, tintement de bouteille, cliquetis d'étagère.
+
+SHOT 6: Insert shot, 50mm handheld / Coupe rythmique sur des œufs et des toasts frappant la poêle sous une lumière pratique chaude. / SFX: grésillement de beurre, coup de découpe.
+
+SHOT 7: MCU, centered 50mm push-in / Coupe raccord sur une bouchée précipitée, un coup d'œil rapide à l'horloge et un lever immédiat de la chaise. / SFX: croquant, tintement de céramique, raclement de chaise.
+
+SHOT 8: Bird's-eye insert, 35mm overhead / Coupe sur l'action des chaussettes rayées qu'on enfile. / SFX: étirement de tissu, coup de talon.
+
+SHOT 9: MS, 35mm pivot / Balayage de caméra vers un changement de tenue précipité alors que le t-shirt de nuit disparaît sous un haut cintré et une veste ajustée, puis son fourre-tout, ses clés et sa carte de transport sont ramassés en une saisie désordonnée. / SFX: fouet de tissu, tintement de clés, fermeture éclair, froissement de sac.
+
+SHOT 10: Insert shot, 50mm overhead / Coupe raccord sur les chaussures à lacets qu'on enfile violemment alors que les lacets sont tirés fermement en un coup impatient. / SFX: coup de semelle, tirage de lacets, respiration courte.
+
+SHOT 11: WS, 24mm parallax / Transition en balayage vers elle, maintenant dans la tenue d'extérieur ajustée, se précipitant à travers la porte de l'appartement vers la lumière du couloir sans ralentir. / SFX: clic de loquet, pas rapides, air du couloir.
+
+SHOT 12: MS to CU, 35mm glide into 85mm push-in / Pont sonore vers l'intérieur de la voiture de métro alors qu'elle saisit la barre, se déplace avec le balancement de la voiture, vérifie les lumières de la station qui passent et jette un regard tendu vers les portes qui se ferment, le chrome réfléchi rayant autour d'elle et la ville se brouillant à l'extérieur de la fenêtre. / SFX: cliquetis de rails, crissement de voiture, carillon d'avertissement de porte, respiration tendue.
+
+SHOT 13: Insert to MCU, 50mm snap zoom / Coupe franche vers l'entrée du bureau alors que sa carte d'accès frappe le lecteur, la porte vitrée se déverrouille et elle se glisse rapidement avant que la chaise ne roule et que l'ordinateur portable ne s'ouvre. / SFX: bip de badge, clic de porte, carillon d'ordinateur portable.
+
+SHOT 14: OTS, 35mm handheld / Coupe rythmique sur les doigts courant sur les touches, les fenêtres de chat clignotant, le café près du trackpad et les notifications s'empilant plus vite qu'elle ne les efface. / SFX: rafale de clavier, tics de notification, clic de souris.
+
+SHOT 15: WS, 50mm pull-out / Coupe en L avec un raccord de la fermeture de l'ordinateur portable à la rentrée dans l'appartement alors que la veste tombe, les vêtements de travail sont retirés et elle se change à nouveau en vêtements de nuit avant de s'effondrer dans le lit dans la forme du cadre d'ouverture. / SFX: fermeture de porte, chute de sac, froissement de tissu, froissement de couverture, ambiance de pièce.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
+
+**Par** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K abonnés
+
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+
+<sub>📅 Apr 11, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 8. [Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.8K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="640" alt="[Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+[Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en équipement tactique complet, masque à gaz et casque. Il pointe son fusil d'assaut directement vers l'objectif de la caméra (brisant le quatrième mur). Il crie avec une intensité visible : "LAISSEZ PARTIR L'OTAGE ! LÂCHEZ L'ARME MAINTENANT !"
+
+[Scène 2 : La menace] Coupe sur un plan moyen du tueur en débardeur sale, tenant une femme en étranglement. Il a un pistolet pressé contre sa tête. Il est en sueur et maniaque, criant à l'officier hors champ : "RESTEZ EN ARRIÈRE ! JE VAIS LA TUER ! JE JURE QUE JE LE FERAI !"
+
+[Scène 3 : Résolution par-dessus l'épaule] La caméra est placée directement derrière l'épaule droite de l'officier du SWAT. Nous voyons l'arrière de son casque et son fusil au premier plan. Au loin (plan moyen), le tueur est toujours visible tenant la fille. Le tueur crie une dernière fois : "JE VAIS LE FAIRE !" après que le fusil de l'officier recule avec un seul coup de feu qui atteint la tête de l'ennemi. Le tueur tombe instantanément. La fille reste debout, choquée mais en sécurité.
+
+Style technique : Action à haute vitesse d'obturation, flashs de bouche réalistes, caméra portée tremblante, 24fps, dialogue en anglais.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
+
+**Par** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K abonnés
+
+❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+
+<sub>📅 Feb 11, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+## 📋 Tous les prompts
+
+### 9. FORMAT : 15s / rythme libre / 1 RACCORD DANS L'AXE / MOUVEMENT CONTIN…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="FORMAT : 15s / rythme libre / 1 RACCORD DANS L'AXE / MOUVEMENT CONTIN…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+FORMAT : 15s / rythme libre / 1 RACCORD DANS L'AXE / MOUVEMENT CONTINU JUSQU'AU RACCORD + ACTION IMMÉDIATE DÈS LA PREMIÈRE IMAGE
+
+SUJETS : Une femme seule armée d'une épée, vêtue de fourrure et de cuir usés, combat un ours polaire massif avec des mouvements de survie désespérés à deux mains. La même femme est révélée plus tard chez elle dans des vêtements d'intérieur amples, où un casque VR n'apparaît qu'après le raccord et est retiré en un seul mouvement clair.
+ENVIRONNEMENT : Nature sauvage gelée sous une lumière du jour crue, le vent traînant la neige sur une glace bleu-blanc, puis une modeste maison habitée atteinte par un raccord visuel précis. L'éblouissement hivernal et le souffle visible laissent place à un désordre doux, à la lumière du jour intérieure et à une faible lueur de jeu vidéo.
+AMBIANCE : La tension viscérale de la survie bascule dans une réalité ancrée sans rompre la continuité physique.
+LOGIQUE DES COULEURS : Émulation de pellicule cinématographique naturaliste
+
+CHRONOLOGIE :
+0:00-0:07 : Un seul mouvement caméra à l'épaule ininterrompu, plan large se resserrant en plan moyen alors que la femme recule sur la glace et que l'ours s'élance à travers la neige soufflée. La caméra court à côté du bond à hauteur d'yeux, passant de 28mm à 35mm, légèrement instable et assez proche pour garder les deux corps lourds et lisibles. L'ours se rapproche rapidement tandis qu'elle se plante, recule et garde la lame entre eux. Effets sonores : (vent hurlant, bottes grinçant sur la glace, rugissement animal sourd, tension du tissu, lame coupant l'air, raclement de neige). Le soleil d'hiver dur éclaire la glace de côté et projette des ombres bleues nettes.
+0:07-0:11 : Même mouvement ininterrompu, sans coupe, se resserrant en gros plan alors que l'ours surgit à quelques centimètres, griffes près de ses épaules, mâchoires remplissant le bord du cadre. En pleine attaque, une voix d'homme appelle, Karla... puis plus sèchement, KARLA. Elle répond avec un « quoi » fatigué, et sur cette réaction, le monde passe au ralenti. La neige dérive presque immobile, l'ours reste suspendu dans son attaque, et seule elle continue de bouger à vitesse normale alors que la caméra orbite vers son visage. Ennuyée, pas effrayée, elle lâche l'épée et amène ses deux mains vides vers ses tempes dans un geste d'interruption fluide. Aucun casque, visière ou appareil n'est visible dans le monde gelé. Restez continu jusqu'au raccord, en gardant la même taille de visage, hauteur de main, angle de tête, distance focale et dérive dans le sens des aiguilles d'une montre. Effets sonores : (tension du tissu montant jusqu'à l'impact, voix d'homme appelant Karla... KARLA, son « quoi » fatigué, puis vent étiré s'estompant vers le silence). Le soleil d'hiver dur attrape la neige ralentie autour de son visage.
+0:11-0:15 : RACCORD DANS L'AXE. Gros plan vers plan moyen. Transition fluide en plein mouvement alors que ses mains levées traversent la même position à l'écran et que le gros plan gelé devient l'intérieur de la maison avec le même cadrage et la même dérive. Le mouvement continue sans interruption, et maintenant un casque VR est visiblement attaché sur ses yeux pour la première fois. Elle saisit les deux côtés, le retire complètement de son visage, et la caméra s'ouvre sur un plan moyen alors qu'elle le pose au-dessus de son front et entre dans un petit salon dans des vêtements d'intérieur amples. L'orbite à l'épaule continue, révélant les bords du canapé, des couvertures éparpillées et la lumière froide de la fenêtre alors que sa posture tombe dans une légère contrariété. Elle se tourne vers la voix, lève les yeux au ciel et dit : « Qu'est-ce qu'il y a ? ». Objectif naturel 35mm, sphérique. Effets sonores : (étirement de la sangle du casque, frottement du plastique, ambiance de pièce calme, raclement de chaussettes, léger son de jeu, son souffle qui se calme, sa voix sèche disant « Qu'est-ce qu'il y a ? »). La lumière du jour intérieure remplace le contraste hivernal.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
+
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K abonnés
+
+❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+
+<sub>📅 Apr 1, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 10. Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de pr…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de pr…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de près une fille de style anime 3D aux cheveux blancs faisant du skateboard sur une route de montagne escarpée et sinueuse à une vitesse incroyablement élevée. Élan vers l'avant extrême, perspective grand angle, effet de vent violent. La vidéo commence dans un décor estival vibrant avec des montagnes verdoyantes, un ciel ensoleillé, un océan au loin et des feuilles brunes passant devant la caméra. À la 3e seconde, une vague magique de givre balaie l'avant depuis le skateboard : l'environnement se transforme de manière fluide en un paysage hivernal glacial. L'herbe verte se transforme instantanément en neige profonde, de gros flocons commencent à tomber et les montagnes lointaines deviennent des sommets enneigés. La caméra ne rompt jamais le mouvement de suivi intense, fluide et continu en descente. Action à haute intensité, chef-d'œuvre d'animation 3D, éclairage photoréaliste.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
+
+**Par** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K abonnés
+
+❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+
+<sub>📅 Mar 1, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 11. Style d'animation Disney classique des années 90. Scène 1 : Dans un p…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Style d'animation Disney classique des années 90. Scène 1 : Dans un p…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Style d'animation Disney classique des années 90.
+
+Scène 1 : Dans un palais égyptien, la caméra passe à l'intérieur de la salle du trône. Nous voyons : le majestueux dieu chacal Anubis assis sur son trône, entouré d'un groupe de subordonnés (soldats, conseillers et quelques humbles serviteurs, tous humains) agenouillés devant lui. Il fait un geste négligent de la main et leur dit avec mépris : « Partez maintenant. » Puis il se laisse aller paresseusement contre le trône, l'air ennuyé.
+
+Scène 2 : Les subordonnés obéissent sans hésiter et s'éloignent lentement, tandis qu'Anubis les observe. Mais il retient le dernier, un humble serviteur humain : « Toi, serviteur, attends. » Le serviteur se retourne, l'air confus et surpris, ne comprenant pas ce que le puissant Anubis peut bien vouloir.
+
+Scène 3 : Les autres subordonnés sont partis, Anubis dit : « Viens ici. » Le serviteur est un peu nerveux et toujours perplexe en s'approchant d'Anubis.
+
+Scène 4 : Anubis sort un bouquet de fleurs de derrière le trône et le tend au serviteur surpris avec une expression nonchalante. Il tourne légèrement la tête, un peu gêné, évitant de croiser le regard du serviteur, et dit : « Prends-le. »
+
+Scène 5 : Le serviteur prend le bouquet, toujours confus. Anubis ne le regarde toujours pas, fait un geste de la main et dit : « Tu peux y aller. » Le serviteur hoche la tête, prend le bouquet et s'en va, l'air perdu.
+
+Scène 6 : Anubis regarde le serviteur s'éloigner, son expression reste nonchalante, mais un léger sourire apparaît au coin de ses lèvres. Il soutient son menton avec sa main et observe le serviteur partir, semblant avoir une certaine affection pour lui.
+
+Anubis est musclé et porte des anneaux et des boucles d'oreilles aux bras, au cou et aux oreilles. Il a le torse nu. Sa voix est grave et magnétique. La langue est l'anglais.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
+
+**Par** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K abonnés
+
+❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+
+<sub>📅 May 31, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 12. { "style": "animation 3D stylisée, pop hyperréaliste, squash-and-stre…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;animation 3D stylisée, pop hyperréaliste, squash-and-stre…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+{
+  "style": "animation 3D stylisée, pop hyperréaliste, squash-and-stretch",
+  "mood": "espièglerie burlesque rapide avec faux gains et dénouement",
+  "characters": {
+    "child": "visage rond, yeux immenses, queue de cheval blond doré, robe rayée rose",
+    "vendor": "homme grand, moustache en guidon, gilet cramoisi, casquette inclinée, cuillère à glace en laiton"
+  },
+  "environment": {
+    "location": "cour en pierre ensoleillée dans une ville à flanc de colline",
+    "details": "arches fleuries, fontaine en mosaïque, chariot en laiton, pavés, lumière chaude de fin d'après-midi"
+  },
+  "timeline": [
+    {
+      "time": "0:00-0:04",
+      "action": "Le tour de glace révèle des faux-semblants ; le cornet apparaît et disparaît, gag de raté rapide",
+      "sfx": "soupir, whoosh, rire étouffé, cloche"
+    },
+    {
+      "time": "0:04-0:09",
+      "action": "Tour de passe-passe, poursuite effrénée, fausse victoire puis retrait du cornet",
+      "sfx": "swish, dérapage, rires, arrêt de carillon"
+    },
+    {
+      "time": "0:09-0:15",
+      "action": "Taquinerie publique, puis remise du vrai cornet ; dénouement calme et moment de dégustation",
+      "sfx": "rire de la foule, cloche, carillon doux, applaudissements"
+    }
+  ]
+}
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
+
+**Par** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K abonnés
+
+❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+
+<sub>📅 Apr 12, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 13. FORMAT : plan-séquence cinématographique / mouvement de caméra motivé…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="FORMAT : plan-séquence cinématographique / mouvement de caméra motivé…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+FORMAT : plan-séquence cinématographique / mouvement de caméra motivé / 15s
+
+SCÈNE
+Une rue de marché médiévale bondée à l'intérieur d'une cité de pierre au crépuscule. Route étroite en pavés, étals en bois, bannières suspendues, bétail se déplaçant dans la foule. La lumière chaude des torches se reflète sur les pierres humides tandis qu'une légère brume flotte entre les bâtiments.
+
+CONCEPT DE CAMÉRA
+Un mouvement de caméra continu et motivé où chaque nouveau sujet en mouvement entrant dans le cadre redirige l'attention de la caméra. Chaque mouvement transmet naturellement la mise au point au sujet suivant.
+
+SÉQUENCE
+
+0:00–0:03  
+Vue rapprochée au niveau de la rue d'un étal de marché.  
+MISE AU POINT CAMÉRA : une femme marchande avec un commerçant tout en choisissant des fruits dans un panier en bois. Elle remet des pièces au commerçant.
+
+0:03–0:05  
+Un cheval tirant une lourde charrette en bois traverse soudainement le premier plan dans la direction opposée, bloquant brièvement le cadre.  
+CHANGEMENT DE CAMÉRA : la caméra saisit la charrette et commence à la suivre alors qu'elle se déplace dans le marché.
+
+0:05–0:07  
+La charrette se faufile entre les étals et frôle une bannière suspendue. La bannière oscille violemment à travers le cadre.  
+CHANGEMENT DE CAMÉRA : lorsque la bannière dégage la vue, elle révèle des poulets se dispersant sur la rue pavée.
+
+0:07–0:09  
+Un garçon des rues court après les poulets en fuite, les poursuivant à travers la foule.  
+CHANGEMENT DE CAMÉRA : la caméra commence à suivre le garçon alors qu'il court entre les villageois.
+
+0:09–0:12  
+Le garçon passe devant l'entrée d'une taverne et disparaît dans la foule.  
+CHANGEMENT DE CAMÉRA : la porte de la taverne s'ouvre soudainement alors que quelqu'un sort.
+
+0:12–0:15  
+La caméra glisse à travers l'ouverture de la porte vers l'intérieur sombre de la taverne. La lumière des lanternes vacille sur les tables en bois et la fumée flottante.  
+MISE AU POINT FINALE CAMÉRA : un chevalier en armure solitaire assis tranquillement à une table d'angle, une épée massive appuyée contre le banc alors que le chevalier lève lentement son regard.
+
+STYLE
+Vie de rue médiévale stratifiée, chorégraphie de foule naturelle, mouvement de caméra continu et motivé.
+
+ÉCLAIRAGE
+Lumière chaude des torches à l'extérieur, lueur tamisée des lanternes à l'intérieur de la taverne, fumée et poussière captant la lumière.
+
+QUALITÉ
+photoréaliste, éclairage cinématographique, mouvement de caméra ancré, riche atmosphère médiévale, hautement détaillé
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
+
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K abonnés
+
+❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+
+<sub>📅 Mar 13, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 14. SURF SUR FUSÉE. STYLE : Cinéma vérité brut, 35mm caméra à l'épaule, t…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="SURF SUR FUSÉE. STYLE : Cinéma vérité brut, 35mm caméra à l'épaule, t…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+SURF SUR FUSÉE. 
+STYLE : Cinéma vérité brut, 35mm caméra à l'épaule, tremblement naturel. Plan-séquence continu. Aucun montage. Tout en temps réel. 
+
+ÉCLAIRAGE : Soleil brillant à haute altitude, ciel bleu pur. 
+
+AUDIO : Rugissement du moteur de la fusée, vent, craquement de la fibre de verre. 
+
+CHRONOLOGIE : 0-3s : Un gars en jean et t-shirt noir se tient à peine sur le côté d'une fusée SpaceX active à 12 000 pieds. La fusée est en ascension. 3-7s : Zoom brutal sur son visage. Ses cheveux sont plaqués en arrière. Le sol s'éloigne rapidement en dessous. 7-12s : La fusée atteint Max Q. Tout le booster tremble violemment. Il se cramponne fermement, ses genoux absorbent parfaitement les chocs. 12-15s : Il sort une canette de bière de la poche de son sweat à capuche, l'ouvre. Prend une gorgée, trinque et crie : "Ça vaut le coup !". Coupe franche. 
+
+QUALITÉ : 8K photoréaliste, physique correcte, flou de mouvement des tissus, aucun artefact.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
+
+**Par** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K abonnés
+
+❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+
+<sub>📅 Apr 1, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 15. Un plan de suivi cinématographique et chaotique avec un mouvement de…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg" width="480" alt="Un plan de suivi cinématographique et chaotique avec un mouvement de…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Un plan de suivi cinématographique et chaotique avec un mouvement de caméra à l'épaule et des secousses de caméra montre une exploratrice tenant un ancien artefact scarabée. Elle fuit une momie géante qui la poursuit. Des débris et des nuages de poussière sont visibles. La momie fait s'effondrer des sections du mur ancien. L'exploratrice s'enfuit frénétiquement tout en regardant occasionnellement derrière elle, on peut entendre sa respiration lourde. Elle continue de courir jusqu'à ce qu'elle échappe de justesse à la momie qui manque de l'attraper, mais celle-ci heurte un pilier qui s'effondre sur elle-même ; l'exploratrice continue alors de courir vers l'entrée d'une tombe.“,
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
+
+**Par** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K abonnés
+
+❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+
+<sub>📅 Feb 17, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 16. Androgenic prépare sa vengeance après s'être fait arracher sa perruqu…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic prépare sa vengeance après s'être fait arracher sa perruqu…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Androgenic prépare sa vengeance après s'être fait arracher sa perruque. Fais monter mon taux de cortisol.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
+
+**Par** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K abonnés
+
+❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+
+<sub>📅 Feb 22, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 17. Prise de vue en suivi FPV macro ultra grand-angle au plus près du cor…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg" width="480" alt="Prise de vue en suivi FPV macro ultra grand-angle au plus près du cor…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Prise de vue en suivi FPV macro ultra grand-angle au plus près du corps, poursuivant un chat.
+Le sujet n'est jamais montré en entier, seuls des gros plans fragmentés passent devant l'objectif : le bout d'une oreille, des moustaches, le bord d'une patte, la fourrure du dos frôlant la caméra. L'image effectue des changements de mise au point rapides entre l'oreille/les moustaches tremblantes et les obstacles environnementaux proches. La cinématographie à haute fréquence d'images de 120fps capture les vibrations à haute fréquence et les légers tremblements lorsque le chat court et atterrit.
+
+Décor : un parking souterrain.
+Sol en béton brut, piliers numérotés avec des marquages illisibles, flaques d'eau reflétant la lumière. L'air est rempli de poussière fine et de brume de condensation. Les phares lointains et les LED blanches froides du plafond créent un éclairage contrasté et balayant. L'espace résonne, vide, oppressant et caverneux.
+
+La dynamique de mouvement est hautement irrégulière.
+Le chat suit une trajectoire de prédateur non linéaire à travers des espaces étroits entre les piliers et les voitures garées, des virages serrés à 90°, une accélération explosive au niveau du sol, des roulades latérales serrées frôlant les joints de porte et les bords des garde-corps. La caméra suit avec une vibration à haute fréquence synchronisée avec le rythme des pas du chat, produisant des micro-secousses forcées. La parallaxe de mouvement exagérée fait que les piliers et les roues s'agrandissent rapidement et défilent devant l'objectif.
+
+Moment d'interaction physique clé :
+Une rafale descendante invisible (due à un véhicule qui passe et au flux d'air de ventilation) soulève des tickets de parking, des sacs en plastique fins et de la poussière fine du sol dans un tunnel tourbillonnant. Lorsque le chat traverse, les morceaux de papier s'étirent en lignes de vitesse radiales sous la distorsion fisheye. Un pneu roule dans une flaque d'eau, éclaboussant de fines gouttelettes ; les perles d'eau créent une réfraction et des caustiques réalistes devant l'objectif.
+
+Moment culminant :
+Un phare de voiture balaie soudainement la scène. Le sol mouillé brille comme un miroir. Les pattes du chat glissent brièvement dans une spirale chaotique de perte de contrôle, sans blessure, juste un dérapage dangereux. La séquence passe instantanément au ralenti à 120fps : les griffes agrippent le sol, la fourrure tremble, les gouttelettes sont projetées vers l'extérieur en arcs, la tension superficielle étire l'eau en fils.
+
+Immédiatement après, le mouvement revient à une vitesse extrême. Le chat sprinte le long du bord d'une rampe, rasant le mur, et se faufile précisément dans une porte de maintenance entrouverte / un espace étroit dans une clôture, s'échappant.
+
+Atmosphère : claustrophobe, frénétique, tension de vie ou de mort, mais finalement une évasion réussie.
+La conception sonore suggère un vent violent et sifflant, des éclaboussures d'eau sur les pneus en écho et des vibrations métalliques lorsque les garde-corps défilent. La scène se termine alors que le chat saute dans un coin sombre et sûr, tandis que les vibrations résiduelles de la caméra s'apaisent lentement jusqu'à l'immobilité.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
+
+**Par** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K abonnés
+
+❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+
+<sub>📅 Mar 6, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 18. Pellicule / Objectif : Rendu moteur de jeu 4K numérique, caméra de je…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Pellicule / Objectif : Rendu moteur de jeu 4K numérique, caméra de je…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Pellicule / Objectif : Rendu moteur de jeu 4K numérique, caméra de jeu de combat fixe en vue latérale large, objectif 35mm pour une mise au point profonde.
+Étalonnage des couleurs : Contraste élevé, palette de jeu "Next-Gen" vibrante, éclairage de stade dramatique traversant le tunnel central.
+Atmosphère : Chargée, compétitive, avec des particules de poussière flottantes et des reflets d'objectif provenant des lumières du stade au plafond.
+
+Style audio : Conception sonore spatiale immersive. Impacts sourds lourds, effets sonores de craquements d'os, air sifflant pour les mouvements spéciaux, et un dernier crash de bois lourd.
+
+RÉFÉRENCES D'IMAGE / LÉGENDE
+
+[escene] : La référence d'environnement (vestiaire de l'arène de combat et entrée du stade).
+
+[player1] : Le combattant à gauche (survêtement blanc). Gardez le visage et les vêtements exacts comme référence.
+
+[player2] : Le combattant à droite (kit bleu/vert). Gardez le visage et les vêtements exacts comme référence.
+
+CHRONOLOGIE SECONDE PAR SECONDE
+0-3s : [Plan large] Le combattant en blanc [player1] et le combattant en bleu [player2] se font face en position de combat au centre de l'arène [escene]. Les barres de vie et l'interface "ROUND 1" apparaissent en haut. Le combattant en blanc donne un coup de pied bas ; le combattant en bleu bloque avec un impact d'effet de particule bleu.
+
+3-8s : [Séquence d'action] Combat rapide de style Mortal Kombat. Le combattant en blanc effectue un coup de poing arrière tournant ; le combattant en bleu esquive et contre-attaque avec un uppercut.
+
+8-12s : [Mouvement spécial] Le combattant en bleu [player2] saisit rapidement une table d'entraînement en bois à proximité. Il la fait pivoter dans un large arc. Interaction physique : la table reflète les lumières du plafond pendant son mouvement.
+
+12-15s : [Plan final] La table entre en contact avec la tête du combattant en blanc [player1] avec un impact lourd. Le combattant en blanc s'effondre au sol dans un mouvement de physique ragdoll. Le combattant en bleu se tient au-dessus de lui alors que "K.O." clignote sur l'écran. Le son s'estompe vers un impact de basse lourd.
+
+AMÉLIORATEURS DE STYLE ET DE QUALITÉ
+8K photoréaliste, textures de tissu ultra-détaillées sur les kits, éclairage cinématographique, flou de mouvement parfait pour les mouvements de combat, plage dynamique élevée, pas d'artefacts. Visages et tenues exactement identiques à [player1] et [player2] tout au long, traits du visage stables de niveau cinématographique.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
+
+**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K abonnés
+
+❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
+
+<sub>📅 May 8, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 19. Esthétique : Caméra portée 35mm brute, brume solaire en haute altitud…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Esthétique : Caméra portée 35mm brute, brume solaire en haute altitud…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Esthétique : Caméra portée 35mm brute, brume solaire en haute altitude. Un seul plan-séquence continu. Aucune coupure. Tout en temps réel. Audio : Rugissement constant de moteur à réaction, souffle du vent, aucun autre son. 
+
+Chronologie : 
+- 0-3s : Un type normal en short cargo large et tongs se tient parfaitement détendu en équilibre sur l'aile d'un F16 volant à 350 mph à 10 000 pieds. 
+- 3-7s : Le pilote se penche hors du cockpit, fait un pouce levé vers le gars sur l'aile. Le gars se penche légèrement en avant, sourit et rend le pouce levé. 
+- 7-12s : Il effectue un salto arrière totalement décontracté et parfaitement exécuté. Sans les mains. Il ne s'agrippe à rien. Il atterrit exactement au même endroit sur l'aile. Il ne chancelle même pas. 
+- 12-15s : Il époussette un peu de poussière de son short. Fait un petit pouce levé ennuyé directement vers la caméra. Coupe franche. 
+
+Qualité : 8K photoréaliste, flou de mouvement du tissu correct, physique naturelle, pas d'effet uncanny valley, pas d'artefacts.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
+
+**Par** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K abonnés
+
+❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+
+<sub>📅 Apr 2, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 20. Personnage principal : Une belle lycéenne coréenne portant un uniform…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Personnage principal : Une belle lycéenne coréenne portant un uniform…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Personnage principal :
+Une belle lycéenne coréenne portant un uniforme scolaire d'été coréen réaliste (하복). Texture de peau naturelle sans retouche beauté. Les cheveux deviennent ébouriffés pendant le combat, avec un jeu d'acteur émotionnel expressif. Les proportions du visage restent parfaitement cohérentes tout au long des plans. Elle commence timide et choquée, puis devient progressivement déterminée et provocante.
+
+0–1,5 secondes :
+L'héroïne étudie tranquillement à son bureau. Quatre lycéennes délinquantes l'entourent et commencent à la harceler. Elles se moquent d'elle parce qu'elle étudie, balayent agressivement ses livres du bureau et la poussent aux épaules. Mouvement de caméra à l'épaule grand angle. Les livres volent au ralenti. Atmosphère de classe tendue. Énergie réaliste de harcèlement scolaire, mouvement de caméra tremblant, réalisme cinématographique.
+
+1,5–3 secondes :
+Gros plan sur le visage de la protagoniste. Elle se lève lentement. Son expression passe de la peur à une froide détermination. Les harceleuses restent floues dans la faible profondeur de champ derrière elle. Un moment de silence de 0,5 seconde. Lent travelling avant cinématographique. Silence sauf pour le bruit ambiant de la classe et une respiration tendue.
+
+3–5 secondes :
+Première confrontation. Une harceleuse donne un coup de poing ; la protagoniste bloque et contre-attaque avec un coup au ventre. Une autre attaquante arrive sur le côté ; elle esquive et riposte avec un coup de coude tournant. Les plans de suivi à l'épaule suivent le mouvement de près. Flou de mouvement dynamique, secousses de caméra à l'impact, chorégraphie de combat réaliste. Pas d'effets surnaturels.
+
+5–8 secondes :
+Les deux harceleuses restantes attaquent simultanément avec des coups de poing et de pied. La protagoniste utilise un jeu de jambes rapide et des mouvements d'esquive pour éviter les coups. Mouvement de caméra rotatif dynamique à 360 degrés. Des enchaînements rapides de coups de pied et de coude font tomber les attaquantes. Les bureaux et les objets de la classe se déplacent sous les impacts. Rythme d'action cinématographique intense.
+
+8–10 secondes :
+La dernière attaquante fonce vers la protagoniste. L'héroïne saute haut dans les airs. Plan en contre-plongée depuis le sol. 30 % de ralenti. Les cheveux et la jupe flottent naturellement. Éclairage cinématographique dramatique. La poussière flottante et les particules en suspension dérivent lentement dans l'air.
+
+10–12 secondes :
+Coup de pied tournant à 360 degrés en plein air. L'impact au ralenti frappe directement la poitrine de la dernière harceleuse. Très gros plan de la collision. La harceleuse est projetée en arrière contre le mur de la classe. Les débris et la poussière explosent vers l'extérieur. Toutes les harceleuses s'effondrent sur le sol. Immédiatement après l'atterrissage, la vitesse de la caméra revient à la normale pour un impact dramatique.
+
+12–14 secondes :
+Moment de victoire. La protagoniste se tient seule au centre de la classe, respirant fortement. Les quatre harceleuses gisent vaincues autour de la pièce. La caméra se rapproche lentement et dramatiquement de son visage. Arrière-plan bokeh cinématographique doux. Son expression est déterminée mais émotionnelle.
+
+14–15 secondes :
+Gros plan sur image fixe. La protagoniste regarde directement dans la caméra et dit calmement en coréen :
+(« Je dois entrer à l'université. »)
+Le rendu est réaliste et émotionnellement retenu. Après la fin de la réplique, elle redevient une étudiante ordinaire. Fin calme et émotionnelle. Le film souligne la pression académique intense subie par les étudiants coréens.
+
+Références de style :
+Cinéma d'action coréen, cinématographie ultra-réaliste, action cinématographique à l'épaule, réalisme émotionnel, chorégraphie de combat ancrée dans le réel, atmosphère de classe coréenne réaliste, esthétique K-drama Netflix à gros budget, éclairage cinématographique, temps de silence dramatiques, protagoniste féminine puissante, ton émotionnel ancré.
+```
+
+📎 [Voir le prompt original exécutable →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
+
+**Par** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K abonnés
+
+❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
+
+<sub>📅 May 23, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+## 🤝 Comment contribuer
+
+1. Ouvrez une **nouvelle soumission de prompt**.
+2. Remplissez le prompt, le lien de la vidéo/image de sortie, et la source originale.
+3. Nous l'examinons et l'ajoutons — crédité à l'auteur original.
+
+Voir docs/CONTRIBUTING.md pour plus de détails.
+
+---
+
+## 📄 Licence
+
+Publié sous licence CC BY 4.0. Les prompts sont agrégés à partir de publications publiques sur X et crédités à leurs auteurs — voir LICENSE.
+
+---
+
+## 🙏 Remerciements
+
+Un immense merci aux créateurs sur X/Twitter dont les expérimentations avec Seedance 2.0 rendent cette liste possible, et à gptproto.com pour alimenter la galerie et l'API.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sparkle027/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#sparkle027/awesome-seedance-2-0-prompts&Date)
+
+---
+
+<div align="center">
+
+**[🌐 Galerie](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)** • **[📝 Soumettre un prompt](https://github.com/sparkle027/awesome-seedance-2-0-prompts/issues/new?template=submit-prompt.yml)** • **[⭐ Mettre le dépôt en étoile](https://github.com/sparkle027/awesome-seedance-2-0-prompts)**
+
+<sub>🤖 Généré automatiquement à partir de la bibliothèque de matériaux gptproto · gptproto.com</sub>
+
+</div>

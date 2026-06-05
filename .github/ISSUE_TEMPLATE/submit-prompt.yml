@@ -1,0 +1,58 @@
+name: 🎬 Submit a Seedance 2.0 Prompt
+description: Share a Seedance 2.0 video prompt to be added to the list
+title: "[Prompt] "
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Please share a real **Seedance 2.0** prompt with its output and source.
+  - type: input
+    id: prompt-title
+    attributes:
+      label: Short title
+      description: A few words describing the clip
+      placeholder: e.g. Neon city paper plane
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The full prompt text, exactly as used
+      placeholder: A cinematic slow-motion shot of...
+    validations:
+      required: true
+  - type: input
+    id: output-url
+    attributes:
+      label: Output link
+      description: A link to the generated video or image
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: source-url
+    attributes:
+      label: Original source (optional)
+      description: The X/Twitter post the prompt came from
+      placeholder: https://x.com/...
+    validations:
+      required: false
+  - type: input
+    id: author
+    attributes:
+      label: Original author
+      description: Name or @handle to credit
+      placeholder: "@username"
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Checklist
+      options:
+        - label: This is a real Seedance 2.0 output (not another model)
+          required: true
+        - label: The content is not NSFW, hateful, or infringing
+          required: true

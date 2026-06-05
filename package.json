@@ -1,0 +1,30 @@
+{
+  "name": "awesome-seedance-2-0-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A curated, auto-generated collection of Seedance 2.0 AI video prompts with real outputs — powered by gptproto.com.",
+  "scripts": {
+    "generate": "tsx scripts/generate-readme.ts",
+    "generate:offline": "OFFLINE=1 tsx scripts/generate-readme.ts",
+    "sync-i18n": "tsx scripts/sync-i18n.ts",
+    "publish": "bash scripts/publish.sh"
+  },
+  "keywords": [
+    "seedance",
+    "seedance-2",
+    "ai-video",
+    "prompts",
+    "text-to-video",
+    "image-to-video",
+    "awesome",
+    "gptproto"
+  ],
+  "license": "CC-BY-4.0",
+  "packageManager": "pnpm@9.15.9",
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
