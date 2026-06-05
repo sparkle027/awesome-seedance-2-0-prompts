@@ -36,6 +36,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
               "type": "video",
+              "width": 3840,
+              "height": 2160,
               "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
             }
           ],
@@ -77,6 +79,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
               "type": "video",
+              "width": 1920,
+              "height": 1080,
               "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
             }
           ],
@@ -118,6 +122,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
               "type": "video",
+              "width": 1280,
+              "height": 720,
               "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
             }
           ],
@@ -159,6 +165,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
               "type": "video",
+              "width": 3840,
+              "height": 2160,
               "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
             }
           ],
@@ -364,6 +372,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
               "type": "video",
+              "width": 1280,
+              "height": 720,
               "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
             }
           ],
@@ -487,6 +497,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
               "type": "video",
+              "width": 1072,
+              "height": 1650,
               "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
             }
           ],
@@ -610,6 +622,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
               "type": "video",
+              "width": 1280,
+              "height": 720,
               "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
             }
           ],
@@ -692,6 +706,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
               "type": "video",
+              "width": 1920,
+              "height": 1080,
               "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
             }
           ],
@@ -733,6 +749,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
               "type": "video",
+              "width": 1920,
+              "height": 1080,
               "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
             }
           ],
@@ -774,6 +792,8 @@
             {
               "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
               "type": "video",
+              "width": 1280,
+              "height": 720,
               "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
             }
           ],
@@ -1146,6 +1166,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -1187,6 +1209,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -1228,6 +1252,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -1269,6 +1295,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -1474,6 +1502,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -1597,6 +1627,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -1720,6 +1752,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -1802,6 +1836,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -1843,6 +1879,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -1884,6 +1922,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -2255,6 +2295,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -2296,6 +2338,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -2337,6 +2381,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -2378,6 +2424,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -2583,6 +2631,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -2706,6 +2756,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -2829,6 +2881,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -2911,6 +2965,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -2952,6 +3008,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -2993,6 +3051,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -3364,6 +3424,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -3405,6 +3467,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -3446,6 +3510,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -3487,6 +3553,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -3692,6 +3760,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -3815,6 +3885,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -3938,6 +4010,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -4020,6 +4094,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -4061,6 +4137,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -4102,6 +4180,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -4473,6 +4553,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -4514,6 +4596,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -4555,6 +4639,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -4596,6 +4682,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -4801,6 +4889,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -4924,6 +5014,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -5047,6 +5139,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -5129,6 +5223,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -5170,6 +5266,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -5211,6 +5309,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -5582,6 +5682,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -5623,6 +5725,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -5664,6 +5768,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -5705,6 +5811,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -5910,6 +6018,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -6033,6 +6143,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -6156,6 +6268,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -6238,6 +6352,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -6279,6 +6395,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -6320,6 +6438,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -6691,6 +6811,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -6732,6 +6854,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -6773,6 +6897,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -6814,6 +6940,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -7019,6 +7147,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -7142,6 +7272,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -7265,6 +7397,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -7347,6 +7481,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -7388,6 +7524,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -7429,6 +7567,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -7800,6 +7940,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -7841,6 +7983,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -7882,6 +8026,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -7923,6 +8069,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -8128,6 +8276,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -8251,6 +8401,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -8374,6 +8526,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -8456,6 +8610,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -8497,6 +8653,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -8538,6 +8696,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -8909,6 +9069,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -8950,6 +9112,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -8991,6 +9155,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -9032,6 +9198,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -9237,6 +9405,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -9360,6 +9530,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -9483,6 +9655,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -9565,6 +9739,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -9606,6 +9782,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -9647,6 +9825,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -10018,6 +10198,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -10059,6 +10241,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -10100,6 +10284,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -10141,6 +10327,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -10346,6 +10534,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -10469,6 +10659,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -10592,6 +10784,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -10674,6 +10868,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -10715,6 +10911,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -10756,6 +10954,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -11127,6 +11327,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -11168,6 +11370,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -11209,6 +11413,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -11250,6 +11456,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -11455,6 +11663,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -11578,6 +11788,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -11701,6 +11913,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -11783,6 +11997,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -11824,6 +12040,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -11865,6 +12083,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
@@ -12236,6 +12456,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022463429823598999_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg"
               }
             ],
@@ -12277,6 +12499,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2022017937192956372_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg"
               }
             ],
@@ -12318,6 +12542,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025000532646265184_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg"
               }
             ],
@@ -12359,6 +12585,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2024585477148627118_0.mp4",
                 "type": "video",
+                "width": 3840,
+                "height": 2160,
                 "poster": "https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg"
               }
             ],
@@ -12564,6 +12792,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2021509569831170072_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg"
               }
             ],
@@ -12687,6 +12917,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2028068177436176429_0.mp4",
                 "type": "video",
+                "width": 1072,
+                "height": 1650,
                 "poster": "https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg"
               }
             ],
@@ -12810,6 +13042,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2032566288967499857_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg"
               }
             ],
@@ -12892,6 +13126,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2023803487515979909_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2023803487515979909_0_poster.jpg"
               }
             ],
@@ -12933,6 +13169,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2025581420341809187_0.mp4",
                 "type": "video",
+                "width": 1920,
+                "height": 1080,
                 "poster": "https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg"
               }
             ],
@@ -12974,6 +13212,8 @@
               {
                 "url": "https://oss.gptproto.com/growth/x/videos/2030046324062609599_0.mp4",
                 "type": "video",
+                "width": 1280,
+                "height": 720,
                 "poster": "https://oss.gptproto.com/growth/x/images/2030046324062609599_0_poster.jpg"
               }
             ],
