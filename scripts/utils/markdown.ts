@@ -19,7 +19,6 @@ import { compact, cleanPrompt, formatDate, oneLine } from "./format.js";
 import type { MaterialItem } from "./api-client.js";
 import {
   languageNav,
-  originalPromptLink,
   t,
   tList,
 } from "./i18n.js";
@@ -27,15 +26,34 @@ import {
 const REPO_URL = `https://github.com/${GITHUB_REPO}`;
 const ISSUE_NEW = `${REPO_URL}/issues/new?template=submit-prompt.yml`;
 
+/** Stable GitHub-compatible anchors — never derive from localized headings. */
+const SECTION_IDS = {
+  gallery: "browse-gallery",
+  whatIs: "what-is-seedance-20",
+  api: "use-the-seedance-20-api",
+  news: "news",
+  stats: "statistics",
+  featured: "featured-prompts",
+  all: "all-prompts",
+  contribute: "how-to-contribute",
+  license: "license",
+  ack: "acknowledgements",
+} as const;
+
 // ---------------------------------------------------------------------------
 // Top-level assemblers
 // ---------------------------------------------------------------------------
 
-export function generateReadme(items: MaterialItem[], locale: Locale): string {
+export function generateReadme(
+  items: MaterialItem[],
+  locale: Locale,
+  libraryTotal?: number,
+): string {
   const featured = items.slice(0, FEATURED_COUNT);
   const rest = items.slice(FEATURED_COUNT);
   const shown = rest.slice(0, MAX_ALL_PROMPTS - FEATURED_COUNT);
   const hidden = items.length - (featured.length + shown.length);
+  const total = libraryTotal ?? items.length;
 
   return [
     header(items.length, locale),
@@ -44,7 +62,7 @@ export function generateReadme(items: MaterialItem[], locale: Locale): string {
     whatIs(locale),
     apiSection(locale),
     news(locale),
-    stats(items.length, locale),
+    stats(items.length, total, locale),
     featuredSection(featured, locale),
     allPromptsSection(shown, hidden, locale),
     contribute(locale),
@@ -92,7 +110,7 @@ ${languageNav(locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-${total}_Curated-111111.svg)](#${slugAnchor(t(locale, "tocAll", MODEL_NAME))})
+[![Prompts](https://img.shields.io/badge/Prompts-${total}_Curated-111111.svg)](#${SECTION_IDS.all})
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/${GITHUB_REPO}?style=social)](${REPO_URL})
 
@@ -109,36 +127,25 @@ ${languageNav(locale)}
 `;
 }
 
-function slugAnchor(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .trim()
-    .replace(/\s+/g, "-");
-}
-
-function slugTail(): string {
-  return MODEL_NAME.toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .trim()
-    .replace(/\s+/g, "-");
-}
-
 // ---------------------------------------------------------------------------
 // Gallery CTA
 // ---------------------------------------------------------------------------
 
 function galleryCTA(locale: Locale): string {
   const title = t(locale, "gallerySectionTitle", MODEL_NAME);
-  return `## 🌐 ${title}
+  return `<a id="${SECTION_IDS.gallery}"></a>
+
+## 🌐 ${title}
 
 ${t(locale, "galleryIntro", MODEL_NAME)}
 
 | | 📄 ${t(locale, "tableThisReadme", MODEL_NAME)} | 🌐 [${t(locale, "tableSite", MODEL_NAME)}](${siteUrl("", "cta")}) |
 |---|:---:|:---:|
 | ▶️ ${t(locale, "rowPlayback", MODEL_NAME)} | ${t(locale, "cmpReadmePlayback", MODEL_NAME)} | ✅ ${t(locale, "cmpSitePlayback", MODEL_NAME)} |
+| 🎁 ${t(locale, "rowGenerate", MODEL_NAME)} | ${t(locale, "cmpReadmeGenerate", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteGenerate", MODEL_NAME)} |
 | 🔍 ${t(locale, "rowSearch", MODEL_NAME)} | ${t(locale, "cmpReadmeSearch", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteSearch", MODEL_NAME)} |
 | 📋 ${t(locale, "rowCopy", MODEL_NAME)} | ${t(locale, "cmpReadmeCopy", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteCopy", MODEL_NAME)} |
+| 📚 ${t(locale, "rowUseCases", MODEL_NAME)} | ${t(locale, "cmpReadmeUseCases", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteUseCases", MODEL_NAME)} |
 | 🔌 ${t(locale, "rowApi", MODEL_NAME)} | ${t(locale, "cmpReadmeApi", MODEL_NAME)} | ✅ ${t(locale, "cmpSiteApi", MODEL_NAME)} |
 
 **[→ ${t(locale, "galleryCta", MODEL_NAME)}](${siteUrl("", "cta")})**
@@ -153,16 +160,16 @@ function toc(locale: Locale): string {
   const api = t(locale, "tocApi", MODEL_NAME).replace("{model}", MODEL_NAME);
   return `## 📖 ${t(locale, "tocTitle", MODEL_NAME)}
 
-- [🌐 ${t(locale, "tocGallery", MODEL_NAME)}](#${slugAnchor(t(locale, "gallerySectionTitle", MODEL_NAME))})
-- [🎬 ${what}](#-${slugTail()})
-- [🔌 ${api}](#use-the-${slugTail()}-api)
-- [📰 ${t(locale, "tocNews", MODEL_NAME)}](#${slugAnchor(t(locale, "newsTitle", MODEL_NAME))})
-- [📊 ${t(locale, "tocStats", MODEL_NAME)}](#${slugAnchor(t(locale, "statsTitle", MODEL_NAME))})
-- [⭐ ${t(locale, "tocFeatured", MODEL_NAME)}](#${slugAnchor(t(locale, "featuredTitle", MODEL_NAME))})
-- [📋 ${t(locale, "tocAll", MODEL_NAME)}](#${slugAnchor(t(locale, "allPromptsTitle", MODEL_NAME))})
-- [🤝 ${t(locale, "tocContribute", MODEL_NAME)}](#${slugAnchor(t(locale, "contributeTitle", MODEL_NAME))})
-- [📄 ${t(locale, "tocLicense", MODEL_NAME)}](#${slugAnchor(t(locale, "licenseTitle", MODEL_NAME))})
-- [🙏 ${t(locale, "tocAck", MODEL_NAME)}](#${slugAnchor(t(locale, "ackTitle", MODEL_NAME))})
+- [🌐 ${t(locale, "tocGallery", MODEL_NAME)}](#${SECTION_IDS.gallery})
+- [🎬 ${what}](#${SECTION_IDS.whatIs})
+- [🔌 ${api}](#${SECTION_IDS.api})
+- [📰 ${t(locale, "tocNews", MODEL_NAME)}](#${SECTION_IDS.news})
+- [📊 ${t(locale, "tocStats", MODEL_NAME)}](#${SECTION_IDS.stats})
+- [⭐ ${t(locale, "tocFeatured", MODEL_NAME)}](#${SECTION_IDS.featured})
+- [📋 ${t(locale, "tocAll", MODEL_NAME)}](#${SECTION_IDS.all})
+- [🤝 ${t(locale, "tocContribute", MODEL_NAME)}](#${SECTION_IDS.contribute})
+- [📄 ${t(locale, "tocLicense", MODEL_NAME)}](#${SECTION_IDS.license})
+- [🙏 ${t(locale, "tocAck", MODEL_NAME)}](#${SECTION_IDS.ack})
 
 ---
 
@@ -170,7 +177,9 @@ function toc(locale: Locale): string {
 }
 
 function whatIs(locale: Locale): string {
-  return `## 🎬 ${t(locale, "whatIsTitle", MODEL_NAME)}
+  return `<a id="${SECTION_IDS.whatIs}"></a>
+
+## 🎬 ${t(locale, "whatIsTitle", MODEL_NAME)}
 
 ${t(locale, "whatIsP1", MODEL_NAME)}
 
@@ -187,15 +196,22 @@ ${t(locale, "whatIsP2", MODEL_NAME)}
 }
 
 function apiSection(locale: Locale): string {
-  return `## 🔌 ${t(locale, "apiTitle", MODEL_NAME)}
+  return `<a id="${SECTION_IDS.api}"></a>
+
+## 🔌 ${t(locale, "apiTitle", MODEL_NAME)}
 
 \`\`\`bash
-curl https://api.gptproto.com/v1/video/generations \\
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \\
-  -H "Content-Type: application/json" \\
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \\
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \\
+  --header "Content-Type: application/json" \\
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 \`\`\`
 
@@ -208,7 +224,9 @@ curl https://api.gptproto.com/v1/video/generations \\
 
 function news(locale: Locale): string {
   const date = new Date().toISOString().slice(0, 10);
-  return `## 📰 ${t(locale, "newsTitle", MODEL_NAME)}
+  return `<a id="${SECTION_IDS.news}"></a>
+
+## 📰 ${t(locale, "newsTitle", MODEL_NAME)}
 
 - **${date}** — ${t(locale, "newsLaunched", MODEL_NAME)}
 
@@ -217,16 +235,16 @@ function news(locale: Locale): string {
 `;
 }
 
-function stats(total: number, locale: Locale): string {
-  return `## 📊 ${t(locale, "statsTitle", MODEL_NAME)}
+function stats(curated: number, libraryTotal: number, locale: Locale): string {
+  return `<a id="${SECTION_IDS.stats}"></a>
+
+## 📊 ${t(locale, "statsTitle", MODEL_NAME)}
 
 <div align="center">
 
-| ${t(locale, "statsMetric", MODEL_NAME)} | ${t(locale, "statsValue", MODEL_NAME)} |
-|---|---|
-| 📝 ${t(locale, "statsCurated", MODEL_NAME)} | **${total}** |
-| 🎬 ${t(locale, "statsModel", MODEL_NAME)} | **${MODEL_NAME}** |
-| 🔄 ${t(locale, "statsUpdated", MODEL_NAME)} | **${formatDate(new Date().toISOString())}** |
+| 📝 ${t(locale, "statsCurated", MODEL_NAME)} | 📚 ${t(locale, "statsTotal", MODEL_NAME)} | 🎬 ${t(locale, "statsModel", MODEL_NAME)} | 🔄 ${t(locale, "statsUpdated", MODEL_NAME)} |
+|:---:|:---:|:---:|:---:|
+| **${curated}** | **${libraryTotal}** | **${MODEL_NAME}** | **${formatDate(new Date().toISOString())}** |
 
 </div>
 
@@ -237,7 +255,9 @@ function stats(total: number, locale: Locale): string {
 
 function featuredSection(items: MaterialItem[], locale: Locale): string {
   if (items.length === 0) return "";
-  let md = `## ⭐ ${t(locale, "featuredTitle", MODEL_NAME)}
+  let md = `<a id="${SECTION_IDS.featured}"></a>
+
+## ⭐ ${t(locale, "featuredTitle", MODEL_NAME)}
 
 > ${t(locale, "featuredSubtitle", MODEL_NAME)}
 
@@ -247,7 +267,9 @@ function featuredSection(items: MaterialItem[], locale: Locale): string {
 }
 
 function allPromptsSection(items: MaterialItem[], hidden: number, locale: Locale): string {
-  let md = `## 📋 ${t(locale, "allPromptsTitle", MODEL_NAME)}
+  let md = `<a id="${SECTION_IDS.all}"></a>
+
+## 📋 ${t(locale, "allPromptsTitle", MODEL_NAME)}
 
 `;
   items.forEach((m, i) => (md += card(m, FEATURED_COUNT + i + 1, false, locale)));
@@ -288,7 +310,6 @@ function card(m: MaterialItem, index: number, featured: boolean, locale: Locale)
 
   md += mediaBlock(m, width, title, locale);
   md += translationPromptBlock(m, locale);
-  md += `📎 [${t(locale, "viewOriginal", MODEL_NAME)}](${originalPromptLink(m.id)})\n\n`;
   md += detailsBlock(m, locale);
   md += `**[▶️ ${t(locale, "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
   md += `---\n\n`;
@@ -381,6 +402,7 @@ function originalCard(m: MaterialItem, index: number): string {
   }
   md += sourcePromptBlock(m);
   md += detailsBlock(m, "en");
+  md += `\n**[▶️ ${t("en", "watchRemix", MODEL_NAME)}](${siteUrl("", "cta")})**\n\n`;
   md += `---\n\n`;
   return md;
 }
@@ -411,7 +433,9 @@ function detailsBlock(m: MaterialItem, locale: Locale): string {
 
 function contribute(locale: Locale): string {
   const steps = tList(locale, "contributeSteps", MODEL_NAME);
-  let md = `## 🤝 ${t(locale, "contributeTitle", MODEL_NAME)}
+  let md = `<a id="${SECTION_IDS.contribute}"></a>
+
+## 🤝 ${t(locale, "contributeTitle", MODEL_NAME)}
 
 `;
   steps.forEach((step, i) => {
@@ -423,11 +447,15 @@ function contribute(locale: Locale): string {
 }
 
 function footer(locale: Locale): string {
-  return `## 📄 ${t(locale, "licenseTitle", MODEL_NAME)}
+  return `<a id="${SECTION_IDS.license}"></a>
+
+## 📄 ${t(locale, "licenseTitle", MODEL_NAME)}
 
 ${t(locale, "licenseBody", MODEL_NAME)}
 
 ---
+
+<a id="${SECTION_IDS.ack}"></a>
 
 ## 🙏 ${t(locale, "ackTitle", MODEL_NAME)}
 

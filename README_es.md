@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#todos-los-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 Explora la Galería Completa
 
-Los prompts aquí son solo una muestra. La galería en vivo en **gptproto.com** reproduce cada video directamente, te permite buscar y copiar cualquier prompt con un solo clic.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 Este README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Previsualización de video reproducible | Solo miniaturas | ✅ Reproducción integrada |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 Buscar y filtrar | Ctrl/⌘-F | ✅ Texto completo + filtros |
 | 📋 Copiar con un clic | Selección manual | ✅ Botón de copiar |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 Generar vía API | — | ✅ API de Seedance 2.0 |
 
 **[→ Abrir la galería en gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@ Los prompts aquí son solo una muestra. La galería en vivo en **gptproto.com** 
 
 ## 📖 Contenido
 
-- [🌐 Explora la Galería Completa](#explora-la-galera-completa)
-- [🎬 ¿Qué es Seedance 2.0?](#-seedance-20)
+- [🌐 Explora la Galería Completa](#browse-gallery)
+- [🎬 ¿Qué es Seedance 2.0?](#what-is-seedance-20)
 - [🔌 Usar la API de Seedance 2.0](#use-the-seedance-20-api)
-- [📰 Noticias](#noticias)
-- [📊 Estadísticas](#estadsticas)
-- [⭐ Prompts Destacados](#prompts-destacados)
-- [📋 Todos los Prompts](#todos-los-prompts)
-- [🤝 Cómo contribuir](#cmo-contribuir)
-- [📄 Licencia](#licencia)
-- [🙏 Agradecimientos](#agradecimientos)
+- [📰 Noticias](#news)
+- [📊 Estadísticas](#statistics)
+- [⭐ Prompts Destacados](#featured-prompts)
+- [📋 Todos los Prompts](#all-prompts)
+- [🤝 Cómo contribuir](#how-to-contribute)
+- [📄 Licencia](#license)
+- [🙏 Agradecimientos](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 ¿Qué es Seedance 2.0?
 
@@ -77,15 +83,22 @@ Esta lista recopila prompts que realmente se volvieron virales en X, para que pu
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Usar la API de Seedance 2.0
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 Noticias
 
 - **2026-06-05** — Lanzamos la lista con prompts seleccionados de Seedance 2.0. ⭐ Marca con estrella para seguir las actualizaciones.
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 Estadísticas
 
 <div align="center">
 
-| Métrica | Valor |
-|---|---|
-| 📝 Prompts seleccionados | **20** |
-| 🎬 Modelo | **Seedance 2.0** |
-| 🔄 Última actualización | **Jun 5, 2026** |
+| 📝 Prompts seleccionados | 📚 Total prompts | 🎬 Modelo | 🔄 Última actualización |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ Prompts Destacados
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Un turno promedio en Waffle House: asegúrate de que sea absurdo y consiga 50 likes.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
 
@@ -159,8 +174,6 @@ Un turno promedio en Waffle House: asegúrate de que sea absurdo y consiga 50 li
 Punch the Monkey contraataca. Haz que las chicas se sientan orgullosas.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey contraataca. Haz que las chicas se sientan orgullosas.
 ```
 La IA se vuelve woke. Hazlo realmente ofensivo, muy ofensivo.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
 
@@ -233,8 +244,6 @@ La imagen conserva la estructura visible de los píxeles de la pantalla, ligeros
 Capturado para parecerse a una auténtica cámara compacta Sony Cyber-shot de principios de la década de 2010 utilizando un sensor CCD con renderizado digital vintage y exposición de flash imperfecta.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
-
 **Por** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K seguidores
 
 ❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
@@ -275,8 +284,6 @@ Audio: Respiración rítmica pesada, crujido de grava bajo los pies, aullido int
 
 Fotorrealista 8K, texturas ultra detalladas, iluminación cinematográfica, desenfoque de movimiento perfecto, alto rango dinámico, sin artefactos, física multimodal coherente, estabilidad de nivel cinematográfico.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K seguidores
 
@@ -322,8 +329,6 @@ CRONOLOGÍA:
 
 0:12-0:15: Corte a POV estabilizado. Parada completa repentina. El chef inclina el wok y desliza el plato terminado en el cuenco de porcelana: visible: fideos cubiertos uniformemente, camarones regordetes, verduras brillantes. Levanta y presenta el cuenco directamente hacia la cámara hasta que llena el marco. Un dedo golpea el borde: vibración sutil. El vapor sube rápidamente, expandiéndose hasta cubrir completamente la lente para un fundido a negro limpio.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K seguidores
 
@@ -396,8 +401,6 @@ SHOT 14: OTS, 35mm handheld / Corte rítmico hacia dedos corriendo sobre teclas,
 SHOT 15: WS, 50mm pull-out / Corte en L con una coincidencia desde el cierre de la computadora portátil hasta el reingreso al apartamento mientras la chaqueta cae, la ropa de trabajo se desprende y ella vuelve a cambiarse a ropa de dormir antes de colapsar en la cama en la forma del marco inicial. / SFX: cierre de puerta, caída de bolsa, crujido de tela, crujido de manta, tono de habitación.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **Por** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K seguidores
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -429,8 +432,6 @@ SHOT 15: WS, 50mm pull-out / Corte en L con una coincidencia desde el cierre de 
 Estilo técnico: Acción con alta velocidad de obturación, destellos de disparo realistas, movimiento de cámara en mano, 24fps, diálogo en inglés.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **Por** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K seguidores
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -440,6 +441,8 @@ Estilo técnico: Acción con alta velocidad de obturación, destellos de disparo
 **[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 Todos los Prompts
 
@@ -468,8 +471,6 @@ LÍNEA DE TIEMPO:
 0:11-0:15: MATCH CUT. CU a MS. Transición fluida a mitad del movimiento mientras sus manos levantadas cruzan la misma posición en pantalla y el primer plano congelado se convierte en el interior de la casa con el mismo encuadre y deriva en el sentido de las agujas del reloj. El movimiento continúa ininterrumpido, y ahora un visor de VR está visiblemente sujeto sobre sus ojos por primera vez. Ella agarra ambos lados, se lo quita completamente de la cara, y la cámara se abre a un plano medio mientras lo deja caer sobre su frente y entra en una pequeña sala de estar con ropa de casa holgada. La órbita de cámara en mano continúa, revelando bordes de sofá, mantas dispersas y luz fría de ventana mientras su postura cae en una leve molestia. Se gira hacia la voz, pone los ojos en blanco hacia arriba y dice, ¿Qué pasa?. Lente natural de 35mm, esférica. SFX: (estiramiento de la correa del visor, roce de plástico, tono de habitación silencioso, raspado de pie con calcetín, audio de juego tenue, su respiración calmándose, su voz seca diciendo ¿Qué pasa?). La luz diurna interior reemplaza el contraste invernal.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K seguidores
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -494,8 +495,6 @@ LÍNEA DE TIEMPO:
 ```
 Toma de seguimiento con dron FPV de ritmo rápido desde atrás, siguiendo de cerca a una chica estilo anime 3D con cabello blanco que patina por una carretera de montaña empinada y sinuosa a una velocidad increíblemente alta. Impulso extremo hacia adelante, perspectiva de gran angular, efecto de viento fuerte. El video comienza en un entorno veraniego vibrante con exuberantes montañas verdes, un cielo brillante y soleado, un océano distante y hojas marrones volando frente a la cámara. En la marca de los 3 segundos, una ola mágica de escarcha se extiende desde la patineta: el entorno se transforma perfectamente en un paisaje invernal helado. La hierba verde se convierte instantáneamente en nieve blanca profunda, comienzan a caer copos de nieve pesados y las montañas distantes se convierten en picos nevados. La cámara nunca rompe el intenso, suave y continuo movimiento de seguimiento cuesta abajo. Acción de alto octanaje, obra maestra de animación 3D, iluminación fotorrealista.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **Por** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K seguidores
 
@@ -535,8 +534,6 @@ Escena 6: Anubis observa al sirviente marcharse, manteniendo su expresión indif
 
 Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las orejas. Está con el torso desnudo. Su voz es profunda y magnética. El audio está en inglés.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K seguidores
 
@@ -590,8 +587,6 @@ Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las ore
   ]
 }
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **Por** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K seguidores
 
@@ -659,8 +654,6 @@ CALIDAD
 fotorrealista, iluminación cinematográfica, movimiento de cámara realista, rica atmósfera medieval, altamente detallado
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K seguidores
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -695,8 +688,6 @@ CRONOLOGÍA: 0-3s: Un tipo con vaqueros y camiseta negra apenas se sostiene del 
 CALIDAD: 8K fotorrealista, física correcta, desenfoque de movimiento en la tela, sin artefactos.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K seguidores
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -722,8 +713,6 @@ CALIDAD: 8K fotorrealista, física correcta, desenfoque de movimiento en la tela
 Un plano de seguimiento cinematográfico y caótico con movimiento de cámara en mano y sacudidas de cámara muestra a una exploradora sosteniendo un antiguo artefacto de escarabajo. Huye de una momia gigante que la persigue. Se pueden ver escombros y nubes de polvo. La momia está provocando que secciones de la antigua pared se desmoronen. La exploradora huye frenéticamente mientras mira hacia atrás ocasionalmente, se puede escuchar su respiración agitada. Continúa corriendo hasta que escapa por poco cuando la momia casi la atrapa, pero esta golpea un pilar que cae sobre sí misma; la exploradora continúa corriendo hacia la entrada de una tumba.“,
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **Por** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K seguidores
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -748,8 +737,6 @@ Un plano de seguimiento cinematográfico y caótico con movimiento de cámara en
 ```
 Androgenic planea su venganza después de que le arrancaran la peluca. Haz que mi cortisol se dispare.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K seguidores
 
@@ -793,8 +780,6 @@ Inmediatamente después, el movimiento vuelve a una velocidad extrema. El gato e
 Atmósfera: claustrofóbica, frenética, tensión de vida o muerte, pero finalmente una huida exitosa.
 El diseño de sonido sugiere un viento fuerte y apresurado, salpicaduras de agua de neumáticos que resuenan y vibraciones metálicas mientras las barandillas pasan a toda velocidad. La escena termina cuando el gato salta a un rincón sombreado y seguro, mientras las vibraciones residuales de la cámara se calman lentamente hasta quedar inmóviles.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **Por** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K seguidores
 
@@ -845,8 +830,6 @@ POTENCIADORES DE ESTILO Y CALIDAD
 Fotorrealista 8K, texturas de tela ultra detalladas en las equipaciones, iluminación cinematográfica, desenfoque de movimiento perfecto para los movimientos de lucha, alto rango dinámico, sin artefactos. Exactamente las mismas caras y atuendos que [player1] y [player2] en todo momento, rasgos faciales estables de nivel cinematográfico.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K seguidores
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -879,8 +862,6 @@ linea de tiempo:
 
 calidad: 8K fotorrealista, desenfoque de movimiento de tela correcto, física natural, sin valle inquietante, sin artefactos.
 ```
-
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K seguidores
 
@@ -937,8 +918,6 @@ Referencias de estilo:
 Cine de acción coreano, cinematografía ultrarrealista, acción cinematográfica en mano, realismo emocional, coreografía de lucha fundamentada, atmósfera realista de aula coreana, estética de K-drama de Netflix de alto presupuesto, iluminación cinematográfica, ritmos de silencio dramáticos, protagonista femenina poderosa, tono emocional fundamentado.
 ```
 
-📎 [Ver prompt original ejecutable →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **Por** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K seguidores
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -948,6 +927,8 @@ Cine de acción coreano, cinematografía ultrarrealista, acción cinematográfic
 **[▶️ Ver y remezclar en gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 Cómo contribuir
 
@@ -959,11 +940,15 @@ Consulta docs/CONTRIBUTING.md para más detalles.
 
 ---
 
+<a id="license"></a>
+
 ## 📄 Licencia
 
 Publicado bajo CC BY 4.0. Los prompts se recopilan de publicaciones públicas en X y se acreditan a sus autores — consulta LICENSE.
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 Agradecimientos
 

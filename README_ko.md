@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 전체 갤러리 둘러보기
 
-이곳의 프롬프트는 일부일 뿐입니다. **gptproto.com**의 실시간 갤러리에서는 모든 영상을 바로 재생하고, 검색하며, 클릭 한 번으로 프롬프트를 복사할 수 있습니다.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 현재 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 영상 미리보기 재생 | 썸네일만 제공 | ✅ 인라인 재생 |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 검색 및 필터 | Ctrl/⌘-F | ✅ 전체 텍스트 + 필터 |
 | 📋 클릭 한 번으로 복사 | 수동 선택 | ✅ 복사 버튼 |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 API를 통한 생성 | — | ✅ Seedance 2.0 API |
 
 **[→ gptproto.com에서 갤러리 열기](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@
 
 ## 📖 목차
 
-- [🌐 전체 갤러리 둘러보기](#)
-- [🎬 Seedance 2.0이란?](#-seedance-20)
+- [🌐 전체 갤러리 둘러보기](#browse-gallery)
+- [🎬 Seedance 2.0이란?](#what-is-seedance-20)
 - [🔌 Seedance 2.0 API 사용하기](#use-the-seedance-20-api)
-- [📰 뉴스](#)
-- [📊 통계](#)
-- [⭐ 추천 프롬프트](#)
-- [📋 모든 프롬프트](#)
-- [🤝 기여 방법](#)
-- [📄 라이선스](#)
-- [🙏 감사의 말](#)
+- [📰 뉴스](#news)
+- [📊 통계](#statistics)
+- [⭐ 추천 프롬프트](#featured-prompts)
+- [📋 모든 프롬프트](#all-prompts)
+- [🤝 기여 방법](#how-to-contribute)
+- [📄 라이선스](#license)
+- [🙏 감사의 말](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 Seedance 2.0이란?
 
@@ -77,15 +83,22 @@ Seedance 2.0은 최첨단 AI 영상 생성 모델입니다. 텍스트 프롬프�
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Seedance 2.0 API 사용하기
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 뉴스
 
 - **2026-06-05** — 엄선된 Seedance 2.0 프롬프트 목록을 공개했습니다. ⭐ 별을 눌러 업데이트를 받아보세요.
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 통계
 
 <div align="center">
 
-| 지표 | 값 |
-|---|---|
-| 📝 엄선된 프롬프트 | **20** |
-| 🎬 모델 | **Seedance 2.0** |
-| 🔄 마지막 업데이트 | **Jun 5, 2026** |
+| 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ 추천 프롬프트
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋아요를 받아보자.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
 
@@ -159,8 +174,6 @@ Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋
 Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 ```
 AI가 워크(woke)해진다. 정말 불쾌하게 만들어라. 정말로 불쾌하게.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
 
@@ -222,8 +233,6 @@ LCD 화면에는 타임스탬프 “8. 1. 2012 3:15 AM”, 노출 데이터 “1
 
 CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래시 노출을 특징으로 하는 2010년대 초반의 정통 Sony Cyber-shot 포인트 앤 슛 카메라처럼 촬영되었습니다.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **작성자:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K 팔로워
 
@@ -265,8 +274,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 사실적인 8K, 초정밀 텍스처, 영화 같은 조명, 완벽한 모션 블러, 높은 다이내믹 레인지, 노이즈 없음, 일관된 다중 모드 물리 효과, 영화 수준의 안정성.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 팔로워
 
@@ -312,8 +319,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 0:12-0:15: 안정된 POV로 컷. 갑작스러운 완전 정지. 셰프는 웍을 기울여 완성된 요리를 도자기 그릇에 담음. 고르게 코팅된 국수, 통통한 새우, 윤기 나는 채소가 보임. 그릇을 들어 올려 프레임이 가득 찰 때까지 카메라 쪽으로 직접 제시함. 손가락이 테두리를 두드리며 미세한 진동이 발생함. 증기가 빠르게 피어올라 렌즈를 완전히 덮을 때까지 확장되며 깔끔하게 페이드 아웃됨.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K 팔로워
 
@@ -386,8 +391,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 샷 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재입장으로의 L-컷, 재킷을 벗고 작업복을 벗어 던지며 첫 프레임의 모습으로 수면 잠옷을 입고 침대에 쓰러짐. / SFX: 문 닫는 소리, 가방 떨어지는 소리, 천 바스락거리는 소리, 담요 바스락거리는 소리, 실내 분위기 소리.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **작성자:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 팔로워
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -413,8 +416,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 [장면 1: 정면 위협 샷] 완전한 전술 장비, 방독면, 헬멧을 착용한 SWAT 대원의 미디엄 샷. 그는 돌격 소총을 카메라 렌즈를 향해 직접 겨누고 있다(제4의 벽을 깨는 연출). 그는 강렬한 모습으로 소리친다: "인질을 풀어줘! 당장 무기 버려!" [장면 2: 위협] 더러운 민소매 셔츠를 입고 여성을 목 조르고 있는 살인범의 미디엄 샷으로 전환. 그는 여성의 머리에 권총을 겨누고 있다. 그는 땀을 흘리며 광기 어린 모습으로 화면 밖의 경찰에게 소리친다: "물러서! 죽여버릴 거야! 맹세해!" [장면 3: 어깨 너머 해결] 카메라는 SWAT 대원의 오른쪽 어깨 바로 뒤에 위치한다. 전경에는 그의 헬멧 뒷모습과 소총이 보인다. 먼 거리(중경)에는 여성을 붙잡고 있는 살인범이 여전히 보인다. 살인범이 마지막으로 소리친다: "정말 죽일 거야!" 그 직후 SWAT 대원의 소총이 반동하며 단발 사격이 발사되어 적의 머리를 명중한다. 살인범은 즉시 쓰러진다. 여성은 충격을 받았지만 안전하게 서 있다. 기술적 스타일: 고속 셔터 스피드 액션, 사실적인 총구 화염, 핸드헬드 카메라 흔들림, 24fps, 영어 대사.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **작성자:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K 팔로워
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -424,6 +425,8 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 **[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 모든 프롬프트
 
@@ -452,8 +455,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 0:11-0:15: 매치 컷. CU에서 MS로. 들어 올린 손이 같은 화면 위치를 교차하는 매끄러운 동작 전환, 얼어붙은 클로즈업이 같은 프레이밍과 시계 방향 드리프트를 가진 집 내부로 바뀐다. 움직임은 중단 없이 계속되며, 이제 VR 헤드셋이 처음으로 그녀의 눈에 착용된 것이 보인다. 그녀는 양쪽을 잡고 얼굴에서 완전히 벗겨내고, 카메라는 미디엄 샷으로 열리며 그녀가 그것을 이마 위로 떨어뜨리고 편안한 실내복 차림으로 작은 거실로 들어선다. 핸드헬드 궤도 촬영은 계속되어 소파 가장자리, 흩어진 담요, 차가운 창문 빛을 드러내고 그녀의 자세는 약간의 짜증으로 바뀐다. 그녀는 목소리가 나는 쪽으로 몸을 돌리고 눈을 위로 굴리며 What is it.이라고 말한다. 35mm 내추럴 렌즈, 구면. SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용한 방의 톤, 양말 신은 발이 긁히는 소리, 희미한 게임 오디오, 그녀의 안정된 숨소리, 그녀의 건조한 목소리로 What is it.이라고 말하는 소리). 실내의 낮 빛이 겨울의 대비를 대체한다.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 팔로워
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -478,8 +479,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 ```
 빠른 속도의 FPV 드론 추적 샷으로, 흰 머리를 가진 3D 애니메이션 스타일의 소녀가 가파르고 굽이진 산길을 엄청난 속도로 스케이트보드를 타고 내려가는 모습을 뒤에서 밀착 촬영합니다. 극적인 전진 모멘텀, 광각 렌즈 시점, 바람이 휘몰아치는 효과. 영상은 푸른 산, 밝고 화창한 하늘, 멀리 보이는 바다, 카메라를 스쳐 지나가는 갈색 잎들이 있는 활기찬 여름 배경으로 시작됩니다. 3초 지점에서 스케이트보드로부터 마법 같은 서리 파동이 앞으로 퍼져 나가며, 주변 환경이 얼어붙은 겨울 풍경으로 매끄럽게 변합니다. 푸른 잔디는 즉시 깊은 흰 눈으로 바뀌고, 굵은 눈송이가 내리기 시작하며, 멀리 있는 산들은 눈 덮인 봉우리가 됩니다. 카메라는 강렬하고 부드러우며 끊김 없는 내리막 추적 동작을 유지합니다. 고옥탄 액션, 3D 애니메이션의 걸작, 사실적인 조명.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **작성자:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K 팔로워
 
@@ -519,8 +518,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 
 아누비스는 근육질이며 팔, 목, 귀에 고리와 귀걸이를 착용하고 있습니다. 상의는 탈의한 상태입니다. 그의 목소리는 낮고 매력적입니다. 음성은 영어입니다.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 팔로워
 
@@ -574,8 +571,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
   ]
 }
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **작성자:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 팔로워
 
@@ -643,8 +638,6 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 사실적, 영화 같은 조명, 안정적인 카메라 움직임, 풍부한 중세 분위기, 매우 상세함
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 팔로워
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -679,8 +672,6 @@ ROCKET SURF.
 품질: 8K 포토리얼리스틱, 정확한 물리 효과, 옷감의 모션 블러, 아티팩트 없음.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 팔로워
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -706,8 +697,6 @@ ROCKET SURF.
 핸드헬드 카메라 움직임과 카메라 흔들림이 포함된 영화적이고 혼란스러운 트래킹 샷으로, 고대 스카라베 유물을 들고 있는 탐험가를 보여줍니다. 탐험가는 거대한 미라에게 쫓기며 도망치고 있습니다. 잔해와 먼지 구름이 보입니다. 미라가 고대 벽의 일부를 무너뜨리고 있습니다. 탐험가는 가끔 뒤를 돌아보며 필사적으로 도망치고, 그녀의 거친 숨소리가 들립니다. 그녀는 미라가 거의 그녀를 잡을 뻔한 순간 아슬아슬하게 탈출할 때까지 계속 달리고, 미라는 기둥을 들이받아 스스로 무너집니다. 그 후 탐험가는 무덤 입구로 계속 달려 들어갑니다.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **작성자:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K 팔로워
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -732,8 +721,6 @@ ROCKET SURF.
 ```
 가발을 빼앗긴 후 복수를 계획하는 Androgenic. 내 코르티솔 수치를 치솟게 만들어줘.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K 팔로워
 
@@ -777,8 +764,6 @@ ROCKET SURF.
 분위기: 폐쇄 공포증적이고, 광란적이며, 생사가 걸린 긴장감이 흐르지만 결국 성공적인 탈출.
 사운드 디자인은 날카로운 돌풍, 메아리치는 타이어 물 튀기는 소리, 가드레일을 스칠 때의 금속성 진동을 암시한다. 고양이가 안전한 어두운 구석으로 뛰어들고 카메라의 잔여 진동이 천천히 멈추면서 장면이 끝난다.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **작성자:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K 팔로워
 
@@ -829,8 +814,6 @@ ROCKET SURF.
 포토리얼리스틱 8K, 키트의 초정밀 직물 질감, 영화 같은 조명, 격투 동작에 대한 완벽한 모션 블러, 높은 다이내믹 레인지, 아티팩트 없음. 전체 영상에서 [player1] 및 [player2]와 정확히 동일한 얼굴과 의상, 영화 수준의 안정적인 얼굴 특징.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 팔로워
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -863,8 +846,6 @@ ROCKET SURF.
 
 품질: 8K 사실적 사진 품질, 정확한 의류 모션 블러, 자연스러운 물리 법칙, 불쾌한 골짜기 없음, 아티팩트 없음.
 ```
-
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 팔로워
 
@@ -921,8 +902,6 @@ ROCKET SURF.
 한국 액션 영화, 초현실적인 촬영 기법, 영화적 핸드헬드 액션, 감정적 리얼리즘, 현실적인 격투 안무, 현실적인 한국 교실 분위기, 고예산 넷플릭스 K-드라마 미학, 영화적 조명, 드라마틱한 정적, 강인한 여성 주인공, 현실적인 감정 톤.
 ```
 
-📎 [실행 가능한 원본 프롬프트 보기 →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **작성자:** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 팔로워
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -932,6 +911,8 @@ ROCKET SURF.
 **[▶️ gptproto.com에서 시청 및 리믹스하기 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 기여 방법
 
@@ -943,11 +924,15 @@ ROCKET SURF.
 
 ---
 
+<a id="license"></a>
+
 ## 📄 라이선스
 
 CC BY 4.0에 따라 배포됩니다. 프롬프트는 X의 공개 게시물을 취합한 것이며 저자에게 저작권이 있습니다 — LICENSE를 확인하세요.
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 감사의 말
 

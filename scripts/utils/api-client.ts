@@ -131,15 +131,22 @@ interface Snapshot {
   /** Opaque label only; real API base stays in .env / GitHub Secrets. */
   generatedFrom: string;
   model: string;
+  /** Total prompts in the gptproto library (from API pagination.total). */
+  libraryTotal?: number;
   /** Source layer only — same prompt.text across all langs; used for PROMPTS_ORIGINAL. */
   source: LocaleSlice;
   byLocale: Partial<Record<Locale, LocaleSlice>>;
 }
 
-function writeSnapshot(source: MaterialItem[], byLocale: Record<Locale, MaterialItem[]>): void {
+function writeSnapshot(
+  source: MaterialItem[],
+  byLocale: Record<Locale, MaterialItem[]>,
+  libraryTotal: number,
+): void {
   const snapshot: Snapshot = {
     generatedFrom: SNAPSHOT_SOURCE_LABEL,
     model: MODEL_SLUG,
+    libraryTotal,
     source: { total: source.length, items: source },
     byLocale: Object.fromEntries(
       SUPPORTED_LOCALES.map((locale) => [
@@ -240,17 +247,19 @@ async function fetchPage(locale: Locale | null, page: number, pageSize: number):
   return (await res.json()) as MaterialsResponse;
 }
 
-async function fetchAllPages(locale: Locale | null): Promise<MaterialItem[]> {
+async function fetchAllPages(locale: Locale | null): Promise<{ items: MaterialItem[]; total: number }> {
   const pageSize = 100;
   const all: MaterialItem[] = [];
+  let total = 0;
   let page = 1;
   while (true) {
     const data = await fetchPage(locale, page, pageSize);
+    if (page === 1) total = data.pagination.total;
     all.push(...normalizeItems(data.items));
     if (!data.pagination.hasMore) break;
     page += 1;
   }
-  return all;
+  return { items: all, total: total || all.length };
 }
 
 /** Ensure prompt readable fields exist for older API responses. */
@@ -284,7 +293,8 @@ function normalizeItems(items: MaterialItem[]): MaterialItem[] {
  * Fetch materials for one locale (translation layer for that lang).
  */
 export async function fetchMaterialsForLocale(locale: Locale): Promise<MaterialItem[]> {
-  return fetchAllPages(locale);
+  const { items } = await fetchAllPages(locale);
+  return items;
 }
 
 /**
@@ -298,6 +308,8 @@ export async function fetchSourceMaterials(): Promise<MaterialItem[]> {
 export interface FetchAllResult {
   source: MaterialItem[];
   byLocale: Record<Locale, MaterialItem[]>;
+  /** Total prompts in the gptproto library (pagination.total). */
+  libraryTotal: number;
   /** vs snapshot.json before this run; null in OFFLINE or API fallback. */
   diff: MaterialDiff | null;
 }
@@ -322,21 +334,25 @@ export async function fetchAllForGeneration(): Promise<FetchAllResult> {
     const source = snap.source?.items?.length
       ? normalizeItems(snap.source.items)
       : byLocale[DEFAULT_README_LOCALE];
-    return { source, byLocale, diff: null };
+    const libraryTotal = snap.libraryTotal ?? snap.source?.total ?? source.length;
+    return { source, byLocale, libraryTotal, diff: null };
   }
 
   const byLocale = {} as Record<Locale, MaterialItem[]>;
   const before = previousSourceItems();
+  let libraryTotal = 0;
 
   try {
     for (const locale of SUPPORTED_LOCALES) {
       console.log(`  📥 Fetching lang=${locale}…`);
-      byLocale[locale] = await fetchMaterialsForLocale(locale);
+      const { items, total } = await fetchAllPages(locale);
+      byLocale[locale] = items;
+      if (locale === DEFAULT_README_LOCALE) libraryTotal = total;
     }
     const source = byLocale[DEFAULT_README_LOCALE];
     const diff = computeMaterialDiff(before, source);
-    writeSnapshot(source, byLocale);
-    return { source, byLocale, diff };
+    writeSnapshot(source, byLocale, libraryTotal);
+    return { source, byLocale, libraryTotal, diff };
   } catch (err) {
     console.warn(
       `  ⚠️  Live fetch failed (${(err as Error).message}). Falling back to snapshot.`,
@@ -353,7 +369,8 @@ export async function fetchAllForGeneration(): Promise<FetchAllResult> {
     const source = snap.source?.items?.length
       ? normalizeItems(snap.source.items)
       : byLocale[DEFAULT_README_LOCALE];
-    return { source, byLocale, diff: null };
+    const libraryTotal = snap.libraryTotal ?? snap.source?.total ?? source.length;
+    return { source, byLocale, libraryTotal, diff: null };
   }
 }
 

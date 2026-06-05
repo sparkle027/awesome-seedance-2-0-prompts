@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 浏览完整图库
 
-此处的提示词仅为快照。**gptproto.com** 上的实时图库支持视频内联播放、搜索功能，并可一键复制任何提示词。
+此处的提示词仅为快照。**gptproto.com** 上的实时图库支持视频内联播放、**免费试用生成**、**搜索与筛选**，并可**查看更多用例**，一键复制任何提示词。
 
 | | 📄 本 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 可播放的视频预览 | 仅缩略图 | ✅ 内联播放 |
+| 🎁 免费试用生成 | — | ✅ 免费试用 |
 | 🔍 搜索与筛选 | Ctrl/⌘-F | ✅ 全文搜索 + 筛选 |
 | 📋 一键复制 | 手动选择 | ✅ 复制按钮 |
+| 📚 查看更多用例 | — | ✅ 图库 + 示例 |
 | 🔌 通过 API 生成 | — | ✅ Seedance 2.0 API |
 
 **[→ 在 gptproto.com 上打开图库](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@
 
 ## 📖 目录
 
-- [🌐 浏览完整图库](#)
-- [🎬 什么是 Seedance 2.0？](#-seedance-20)
+- [🌐 浏览完整图库](#browse-gallery)
+- [🎬 什么是 Seedance 2.0？](#what-is-seedance-20)
 - [🔌 使用 Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 新闻](#)
-- [📊 统计数据](#)
-- [⭐ 精选提示词](#)
-- [📋 所有提示词](#)
-- [🤝 如何贡献](#)
-- [📄 许可证](#)
-- [🙏 致谢](#)
+- [📰 新闻](#news)
+- [📊 统计数据](#statistics)
+- [⭐ 精选提示词](#featured-prompts)
+- [📋 所有提示词](#all-prompts)
+- [🤝 如何贡献](#how-to-contribute)
+- [📄 许可证](#license)
+- [🙏 致谢](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 什么是 Seedance 2.0？
 
@@ -77,15 +83,22 @@ Seedance 2.0 是一款最先进的 AI 视频生成模型。只需输入文本提
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 使用 Seedance 2.0 API
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 新闻
 
 - **2026-06-05** — 列表上线，内含精选 Seedance 2.0 提示词。⭐ 加星以关注更新。
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 统计数据
 
 <div align="center">
 
-| 指标 | 数值 |
-|---|---|
-| 📝 精选提示词 | **20** |
-| 🎬 模型 | **Seedance 2.0** |
-| 🔄 最后更新 | **Jun 5, 2026** |
+| 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ 精选提示词
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
 
@@ -159,8 +174,6 @@ Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞
 Punch the Monkey 予以反击。让女孩们感到骄傲。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey 予以反击。让女孩们感到骄傲。
 ```
 人工智能变得过于政治正确。让它变得非常冒犯——真的非常冒犯。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
 
@@ -222,8 +233,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 拍摄效果模仿2010年代初的Sony Cyber-shot卡片机，使用CCD传感器，呈现出复古的数字渲染效果和不完美的闪光曝光。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **由** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K 关注者
 
@@ -265,8 +274,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 照片级真实感8K，超精细纹理，电影级灯光，完美的运动模糊，高动态范围，无伪影，连贯的多模态物理效果，电影级稳定性。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 关注者
 
@@ -312,8 +319,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 0:12-0:15：切换至稳定 POV。突然完全静止。厨师倾斜炒锅，将成品滑入青花瓷碗中——可见：均匀裹满酱汁的面条、饱满的虾仁、油亮的蔬菜。他将碗举起并直接推向镜头，直至填满画面。手指轻敲碗沿——细微震动。蒸汽迅速升腾，扩散直至完全覆盖镜头，画面干净淡出。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K 关注者
 
@@ -386,8 +391,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 镜头 15：全景，50mm拉镜头 / L型剪辑，从笔记本电脑合上匹配到回到公寓，夹克脱落，工作服剥离，她换回睡衣，在开头的画面姿态中倒在床上。 / 音效：关门，丢包，布料摩擦，毯子摩擦，房间环境音。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **由** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 关注者
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -419,8 +422,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 技术风格：高快门速度动作，逼真的枪口火光，手持摄像机抖动，24fps，英语对白。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **由** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K 关注者
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -430,6 +431,8 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 **[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 所有提示词
 
@@ -458,8 +461,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 0:11-0:15：匹配剪辑 (MATCH CUT)。从特写 (CU) 到中景 (MS)。无缝的中途动作过渡，她抬起的手穿过相同的屏幕位置，冰冻的特写变成了具有相同构图和顺时针漂移的室内场景。动作不间断地继续，现在可以看到VR头显第一次戴在她的眼睛上。她抓住两侧，将其完全从脸上摘下，摄像机拉开到中景，她将头显放下到额头上方，穿着宽松的家居服走进一个小客厅。手持轨道移动继续，揭示了沙发边缘、散乱的毯子和冰冷的窗光，她的姿态流露出轻微的烦躁。她转向声音的方向，向上翻了个白眼，说道：“What is it.”。35mm自然镜头，球面。SFX：（头显带拉伸声、塑料摩擦声、安静的房间氛围音、穿袜子的脚摩擦声、微弱的游戏音频、她平复的呼吸声、她干巴巴地说“What is it.”的声音）。室内日光取代了冬日的对比度。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 关注者
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -484,8 +485,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 ```
 快节奏FPV无人机后方追踪镜头，紧跟一名有着白发的3D动漫风格女孩，她正以极高的速度在陡峭蜿蜒的山路上滑板。极具前冲动感，广角视角，风吹过的效果。视频开始于充满活力的夏季场景，有郁郁葱葱的绿色山脉、明亮的晴空、远处的海洋，以及从镜头前飞过的棕色落叶。在3秒处，一股神奇的霜冻波从滑板向前扫过：环境无缝转变为冰冷的冬季景观。绿草瞬间变成深厚的白雪，大雪纷飞，远处的山脉变成了雪峰。摄像机始终保持着强烈、平滑、连续的下坡追踪运动。高强度动作，杰作级3D动画，照片级真实光影。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **由** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K 关注者
 
@@ -525,8 +524,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 
 阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 关注者
 
@@ -580,8 +577,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
   ]
 }
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **由** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 关注者
 
@@ -649,8 +644,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 照片级真实感，电影级照明，扎实的摄像机运动，浓郁的中古氛围，高度细节化
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 关注者
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -685,8 +678,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 质量：8K照片级真实感，物理效果准确，织物运动模糊，无伪影。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **由** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 关注者
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -712,8 +703,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 一个充满电影感且混乱的跟拍镜头，带有手持摄像机的晃动感，展示了一位拿着古代圣甲虫文物的探险家。他们正在逃离一只巨大木乃伊的追赶。画面中可以看到瓦砾和尘埃云。木乃伊导致古代墙壁的部分区域崩塌。探险家惊慌失措地逃跑，并不时回头看，可以听到她沉重的呼吸声。她继续奔跑，直到在木乃伊几乎抓住她时惊险逃脱，但木乃伊撞上了一根柱子导致其倒塌并砸中自己，随后探险家继续跑向墓穴入口。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **由** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K 关注者
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -738,8 +727,6 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 ```
 Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **由** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K 关注者
 
@@ -783,8 +770,6 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 氛围：幽闭恐惧、狂乱、生死攸关的紧张感，但最终成功逃脱。
 音效设计暗示了尖锐的疾风声、回荡的轮胎溅水声，以及护栏掠过时的金属振动声。场景在猫跳入一个安全的阴影角落时结束，摄像机的残余振动缓慢平息至静止。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **由** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K 关注者
 
@@ -835,8 +820,6 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 8K 照片级真实感，装备上超精细的织物纹理，电影级灯光，格斗动作的完美动态模糊，高动态范围，无伪影。全程保持与 [player1] 和 [player2] 完全相同的面部和服装，电影级的稳定面部特征。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 关注者
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -869,8 +852,6 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 质量：8K照片级真实感，正确的织物运动模糊，自然物理效果，无恐怖谷效应，无伪影。
 ```
-
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **由** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 关注者
 
@@ -927,8 +908,6 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 韩国动作电影，超写实摄影，电影级手持动作，情感写实主义，扎实的格斗编排，写实的韩国教室氛围，高预算Netflix韩剧美学，电影级灯光，戏剧性的静默节奏，强大的女性主角，扎实的情感基调。
 ```
 
-📎 [查看可执行的原始提示词 →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **由** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 关注者
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -938,6 +917,8 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 **[▶️ 在 gptproto.com 上观看并重新创作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 如何贡献
 
@@ -949,11 +930,15 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 
 ---
 
+<a id="license"></a>
+
 ## 📄 许可证
 
 根据 CC BY 4.0 发布。提示词聚合自 X 上的公开帖子，并归功于原作者——详见 LICENSE。
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 致谢
 

@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 全ギャラリーを閲覧
 
-ここにあるプロンプトは一部のスナップショットです。**gptproto.com**のライブギャラリーでは、すべての動画をインライン再生でき、検索やワンクリックでのプロンプトコピーが可能です。
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 このREADME | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 動画プレビューの再生 | サムネイルのみ | ✅ インライン再生 |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 検索とフィルタリング | Ctrl/⌘-F | ✅ 全文検索 + フィルタ |
 | 📋 ワンクリックコピー | 手動選択 | ✅ コピーボタン |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 APIによる生成 | — | ✅ Seedance 2.0 API |
 
 **[→ gptproto.comでギャラリーを開く](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@
 
 ## 📖 目次
 
-- [🌐 全ギャラリーを閲覧](#)
-- [🎬 Seedance 2.0 とは？](#-seedance-20)
+- [🌐 全ギャラリーを閲覧](#browse-gallery)
+- [🎬 Seedance 2.0 とは？](#what-is-seedance-20)
 - [🔌 Seedance 2.0 APIを利用する](#use-the-seedance-20-api)
-- [📰 ニュース](#)
-- [📊 統計](#)
-- [⭐ 注目のプロンプト](#)
-- [📋 すべてのプロンプト](#)
-- [🤝 コントリビュート方法](#)
-- [📄 ライセンス](#)
-- [🙏 謝辞](#)
+- [📰 ニュース](#news)
+- [📊 統計](#statistics)
+- [⭐ 注目のプロンプト](#featured-prompts)
+- [📋 すべてのプロンプト](#all-prompts)
+- [🤝 コントリビュート方法](#how-to-contribute)
+- [📄 ライセンス](#license)
+- [🙏 謝辞](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 Seedance 2.0 とは？
 
@@ -77,15 +83,22 @@ Seedance 2.0 は最先端のAI動画生成モデルです。テキストプロ�
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Seedance 2.0 APIを利用する
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 ニュース
 
 - **2026-06-05** — 厳選された Seedance 2.0 プロンプトリストを公開しました。⭐スター登録して更新情報をフォローしてください。
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 統計
 
 <div align="center">
 
-| 指標 | 値 |
-|---|---|
-| 📝 厳選プロンプト数 | **20** |
-| 🎬 モデル | **Seedance 2.0** |
-| 🔄 最終更新日 | **Jun 5, 2026** |
+| 📝 厳選プロンプト数 | 📚 Total prompts | 🎬 モデル | 🔄 最終更新日 |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ 注目のプロンプト
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50いいねを獲得しよう。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
 
@@ -159,8 +174,6 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさせよう。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさ�
 ```
 AIがウォーク（woke）化する。本当に不快なものにしてくれ。本当にひどいものに。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
 
@@ -222,8 +233,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 
 2010年代初頭の本格的なSony Cyber-shotコンパクトカメラを模して撮影されており、CCDセンサーによるヴィンテージなデジタル描写と、不完全なフラッシュ露出を再現している。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **作成者:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K フォロワー
 
@@ -265,8 +274,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 
 フォトリアルな8K、超詳細なテクスチャ、映画のような照明、完璧なモーションブラー、ハイダイナミックレンジ、アーティファクトなし、一貫したマルチモーダル物理演算、映画レベルの安定性。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K フォロワー
 
@@ -312,8 +319,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 
 0:12-0:15: 安定したPOVにカット。突然の完全停止。シェフは中華鍋を傾け、完成した料理を磁器のボウルに滑り込ませる。均一に絡まった麺、ぷりぷりのエビ、艶やかな野菜が見える。ボウルを持ち上げ、フレームがいっぱいになるまでカメラに直接提示する。指が縁を叩き、かすかな振動が伝わる。蒸気が急速に立ち上り、レンズを完全に覆うまで広がり、きれいにフェードアウトする。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **作成者:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K フォロワー
 
@@ -386,8 +391,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 ショット 15: WS、50mmプルアウト / ノートパソコンを閉じる動作からアパートへの再入室へのLカット。ジャケットを脱ぎ、仕事着を脱ぎ捨て、最初のフレームの姿でベッドに倒れ込む。 / SFX: ドアを閉める音、バッグを置く音、布の擦れる音、毛布の擦れる音、部屋の環境音。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **作成者:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K フォロワー
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -417,8 +420,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 [シーン3：肩越しのアクション] カメラはSWAT隊員の右肩のすぐ後ろに配置されている。手前にはヘルメットの後部とライフルが見える。遠く（中景）には、まだ少女を捕らえている犯人の姿がある。犯人が最後にもう一度「やってやる！」と叫んだ後、隊員のライフルが単発で反動し、敵の頭部に命中する。犯人は即座に倒れる。少女は立ち尽くし、ショックを受けているが無事である。技術的スタイル：高速シャッターアクション、リアルなマズルフラッシュ、手持ちカメラの揺れ、24fps、英語のセリフ。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **作成者:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K フォロワー
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -428,6 +429,8 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 **[▶️ gptproto.comで視聴・リミックスする →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 すべてのプロンプト
 
@@ -456,8 +459,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 0:11-0:15: マッチカット。CUからMSへ。彼女の持ち上げた手が同じ画面位置を通過するシームレスな動きの中での移行。凍りついたクローズアップが、同じフレーミングと時計回りのドリフトを持つ自宅のインテリアへと変わる。動きは中断されず、今度はVRヘッドセットが初めて彼女の目に装着されているのが見える。彼女は両側を掴み、顔から完全に引き剥がす。カメラはミディアムショットへと開き、彼女がそれを額の上に落とし、ゆったりとした部屋着姿で小さなリビングルームへと足を踏み入れる。手持ちカメラの旋回は続き、ソファの端、散らかった毛布、冷たい窓からの光を明らかにし、彼女の姿勢はわずかな苛立ちに変わる。彼女は声の方を向き、目を上に転がして「What is it.」と言う。35mmナチュラルレンズ、球面。SFX: (ヘッドセットのストラップが伸びる音、プラスチックの擦れる音、静かな部屋のトーン、靴下を履いた足の擦れる音、微かなゲームのオーディオ、彼女の落ち着いた呼吸、彼女の乾いた声で「What is it.」と言う声)。室内の昼光が冬のコントラストに取って代わる。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K フォロワー
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -482,8 +483,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 ```
 白髪の3Dアニメ風の少女が急勾配の曲がりくねった山道をスケートボードで超高速で滑り降りる様子を、背後から追うFPVドローンの高速トラッキングショット。強烈な前進感、広角パースペクティブ、風を切るエフェクト。動画は、緑豊かな山々、明るい晴天、遠くの海、カメラを通り過ぎる茶色の葉が舞う、鮮やかな夏の風景から始まります。3秒の時点で、スケートボードから魔法のような霜の波が前方に広がり、環境がシームレスに凍てつく冬の風景へと変化します。緑の草は瞬時に深い白雪に変わり、激しい雪が降り始め、遠くの山々は雪を頂いた峰へと姿を変えます。カメラは、激しく滑らかな連続的なダウンヒルのトラッキング動作を一度も中断しません。ハイオクタンなアクション、傑作3Dアニメーション、フォトリアルなライティング。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **作成者:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K フォロワー
 
@@ -523,8 +522,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 
 アヌビスは筋肉質で、腕、首、耳にリングやイヤリングを身につけています。上半身は裸です。声は低く魅力的です。音声は英語です。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **作成者:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K フォロワー
 
@@ -578,8 +575,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
   ]
 }
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **作成者:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K フォロワー
 
@@ -647,8 +642,6 @@ AIがウォーク（woke）化する。本当に不快なものにしてくれ�
 フォトリアリスティック、シネマティックな照明、地に足のついたカメラモーション、豊かな中世の雰囲気、高精細
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K フォロワー
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -683,8 +676,6 @@ ROCKET SURF.
 品質: 8Kフォトリアリスティック、正確な物理演算、布地のモーションブラー、アーティファクトなし。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K フォロワー
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -710,8 +701,6 @@ ROCKET SURF.
 手持ちカメラの動きとカメラシェイクを伴う、映画的で混沌としたトラッキングショット。古代のスカラベのアーティファクトを手にした探検家が、巨大なミイラから逃げている様子が映し出される。瓦礫や砂埃が舞い、ミイラによって古代の壁が崩れ落ちていく。探検家は時折後ろを振り返りながら必死に逃げ、荒い息遣いが聞こえる。ミイラに捕まりそうになるが、ミイラが柱に激突して自滅したことで間一髪で逃げ切り、探検家はそのまま墓の入り口へと走り去る。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **作成者:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K フォロワー
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -736,8 +725,6 @@ ROCKET SURF.
 ```
 Androgenicはかつらを奪われた後、復讐を企てている。私のコルチゾール値を急上昇させてくれ。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K フォロワー
 
@@ -781,8 +768,6 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 雰囲気：閉所恐怖症的で、熱狂的で、生死をかけた緊張感があるが、最終的には脱出に成功する。
 サウンドデザインは、鋭い突風、反響するタイヤの水しぶき、ガードレールをかすめる金属的な振動を示唆する。猫が安全な影の隅に飛び込み、カメラの残響的な振動がゆっくりと静止に向かうところでシーンは終わる。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **作成者:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K フォロワー
 
@@ -833,8 +818,6 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 フォトリアルな8K、キットの超詳細な布地テクスチャ、映画のような照明、格闘技の動きに対する完璧なモーションブラー、高ダイナミックレンジ、アーティファクトなし。全編を通して[player1]および[player2]と全く同じ顔と服装、映画レベルの安定した顔立ち。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K フォロワー
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -867,8 +850,6 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 
 品質: 8Kフォトリアリスティック、正確な布のモーションブラー、自然な物理演算、不気味の谷現象なし、アーティファクトなし。
 ```
-
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K フォロワー
 
@@ -925,8 +906,6 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 韓国のアクション映画、超リアルな撮影技術、映画のような手持ちアクション、感情的なリアリズム、地に足のついた格闘の振り付け、リアルな韓国の教室の雰囲気、高予算のNetflix韓国ドラマの美学、映画のような照明、ドラマチックな静寂のビート、力強い女性主人公、地に足のついた感情的なトーン。
 ```
 
-📎 [実行可能なオリジナルプロンプトを表示 →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **作成者:** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K フォロワー
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -936,6 +915,8 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 **[▶️ gptproto.comで視聴・リミックスする →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 コントリビュート方法
 
@@ -947,11 +928,15 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 
 ---
 
+<a id="license"></a>
+
 ## 📄 ライセンス
 
 CC BY 4.0の下で公開されています。プロンプトはX上の公開投稿から収集され、作成者のクレジットが記載されています。詳細は LICENSE を参照してください。
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 謝辞
 

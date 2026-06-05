@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#alle-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 Durchstöbere die vollständige Galerie
 
-Die Prompts hier sind nur ein Schnappschuss. Die Live-Galerie auf **gptproto.com** spielt jedes Video direkt ab, ermöglicht eine Suche und kopiert jeden Prompt mit einem Klick.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 Dieses README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Abspielbare Videovorschauen | Nur Vorschaubilder | ✅ Inline-Wiedergabe |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 Suchen & Filtern | Strg/⌘-F | ✅ Volltext + Filter |
 | 📋 Kopieren mit einem Klick | Manuelle Auswahl | ✅ Kopieren-Button |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 Generieren via API | — | ✅ Seedance 2.0 API |
 
 **[→ Öffne die Galerie auf gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@ Die Prompts hier sind nur ein Schnappschuss. Die Live-Galerie auf **gptproto.com
 
 ## 📖 Inhalt
 
-- [🌐 Durchstöbere die vollständige Galerie](#durchstbere-die-vollstndige-galerie)
-- [🎬 Was ist Seedance 2.0?](#-seedance-20)
+- [🌐 Durchstöbere die vollständige Galerie](#browse-gallery)
+- [🎬 Was ist Seedance 2.0?](#what-is-seedance-20)
 - [🔌 Nutze die Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 Neuigkeiten](#neuigkeiten)
-- [📊 Statistiken](#statistiken)
-- [⭐ Empfohlene Prompts](#empfohlene-prompts)
-- [📋 Alle Prompts](#alle-prompts)
-- [🤝 Wie man beiträgt](#wie-man-beitrgt)
-- [📄 Lizenz](#lizenz)
-- [🙏 Danksagungen](#danksagungen)
+- [📰 Neuigkeiten](#news)
+- [📊 Statistiken](#statistics)
+- [⭐ Empfohlene Prompts](#featured-prompts)
+- [📋 Alle Prompts](#all-prompts)
+- [🤝 Wie man beiträgt](#how-to-contribute)
+- [📄 Lizenz](#license)
+- [🙏 Danksagungen](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 Was ist Seedance 2.0?
 
@@ -77,15 +83,22 @@ Diese Liste sammelt Prompts, die auf X viral gegangen sind — so kannst du den 
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Nutze die Seedance 2.0 API
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 Neuigkeiten
 
 - **2026-06-05** — Die Liste mit kuratierten Seedance 2.0-Prompts wurde gestartet. ⭐ Stern geben, um Updates zu folgen.
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 Statistiken
 
 <div align="center">
 
-| Metrik | Wert |
-|---|---|
-| 📝 Kuratierte Prompts | **20** |
-| 🎬 Modell | **Seedance 2.0** |
-| 🔄 Zuletzt aktualisiert | **Jun 5, 2026** |
+| 📝 Kuratierte Prompts | 📚 Total prompts | 🎬 Modell | 🔄 Zuletzt aktualisiert |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ Empfohlene Prompts
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig abgedreht ist und 50 Likes bekommt. (Hinweis: Der Begriff 'retarded' wurde im Sinne von 'abgedreht' oder 'verrückt' übersetzt, um den umgangssprachlichen Ton beizubehalten.)
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
 
@@ -159,8 +174,6 @@ Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig a
 Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 ```
 KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigend.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
 
@@ -222,8 +233,6 @@ Das Bild bewahrt die sichtbare Pixelstruktur des Bildschirms, leichte Blendrefle
 
 Aufgenommen, um einer authentischen Sony Cyber-shot Point-and-Shoot-Kamera aus den frühen 2010er Jahren zu ähneln, unter Verwendung eines CCD-Sensors mit klassischem digitalen Rendering und unvollkommener Blitzbelichtung.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **Von** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K Follower
 
@@ -265,8 +274,6 @@ Audio: Schweres, rhythmisches Atmen, Kies knirscht unter den Füßen, intensives
 
 Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte Bewegungsunschärfe, hoher Dynamikumfang, keine Artefakte, kohärente multimodale Physik, Stabilität auf Filmniveau.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
 
@@ -312,8 +319,6 @@ ZEITPLAN:
 
 0:12-0:15: Schnitt auf stabilisiertes POV. Plötzlicher vollständiger Stopp. Der Koch neigt den Wok und lässt das fertige Gericht in die Porzellanschüssel gleiten – sichtbar: gleichmäßig überzogene Nudeln, pralle Garnelen, glänzendes Gemüse. Er hebt die Schüssel an und präsentiert sie direkt vor die Kamera, bis sie den Rahmen ausfüllt. Ein Finger tippt auf den Rand – subtile Vibration. Dampf steigt schnell auf und dehnt sich aus, bis er die Linse für ein sauberes Ausblenden vollständig bedeckt.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K Follower
 
@@ -386,8 +391,6 @@ SHOT 14: OTS, 35mm Handkamera / Rhythmischer Schnitt auf Finger, die über Taste
 SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rückkehr in die Wohnung, während die Jacke fällt, Arbeitskleidung abgestreift wird und sie sich wieder in Schlafkleidung umzieht, bevor sie in der Form des Anfangsbildes ins Bett fällt. / SFX: Türschließen, Taschenabwurf, Stoffrascheln, Deckenrascheln, Raumton.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **Von** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K Follower
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -417,8 +420,6 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rü
 [Szene 3: Auflösung über die Schulter] Die Kamera befindet sich direkt hinter der rechten Schulter des SWAT-Beamten. Wir sehen die Rückseite seines Helms und sein Gewehr im Vordergrund. In der Ferne (Mittelgrund) ist der Killer immer noch zu sehen, wie er das Mädchen festhält. Der Killer schreit ein letztes Mal: "ICH TUE ES!", woraufhin das Gewehr des Beamten mit einem Einzelschuss zurückstößt und den Kopf des Feindes trifft. Der Killer fällt sofort zu Boden. Das Mädchen bleibt stehen, schockiert, aber unverletzt. Technischer Stil: Action mit hoher Verschlusszeit, realistische Mündungsfeuer, Handkamera-Wackeln, 24fps, englischer Dialog.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K Follower
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -428,6 +429,8 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rü
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 Alle Prompts
 
@@ -456,8 +459,6 @@ ZEITSTRAHL:
 0:11-0:15: MATCH CUT. CU zu MS. Nahtloser Übergang mitten in der Bewegung, während ihre aufsteigenden Hände die gleiche Bildschirmposition kreuzen und die gefrorene Nahaufnahme zum Wohnraum mit derselben Rahmung und demselben Drift im Uhrzeigersinn wird. Die Bewegung geht ununterbrochen weiter, und nun ist zum ersten Mal ein VR-Headset sichtbar über ihren Augen geschnallt. Sie greift beide Seiten, zieht es vollständig vom Gesicht, und die Kamera öffnet sich zu einer Halbtotalen, während sie es über ihre Stirn schiebt und in lockerer Kleidung in ein kleines Wohnzimmer tritt. Die Handkamera-Orbit-Bewegung setzt sich fort und enthüllt Sofakanten, verstreute Decken und kaltes Fensterlicht, während ihre Haltung in leichte Genervtheit umschlägt. Sie dreht sich zur Stimme, verdreht die Augen nach oben und sagt: „Was ist denn.“ 35mm natürliches Objektiv, sphärisch. SFX: (Dehnen des Headset-Bands, Plastikreiben, leiser Raumton, Sockenfüße scharren, schwaches Spiel-Audio, ihr Atem beruhigt sich, ihre trockene Stimme sagt: „Was ist denn.“). Tageslicht im Innenraum ersetzt den winterlichen Kontrast.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K Follower
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -482,8 +483,6 @@ ZEITSTRAHL:
 ```
 Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mädchen mit weißen Haaren folgt, das mit unglaublich hoher Geschwindigkeit eine steile, kurvenreiche Bergstraße hinunterfährt. Extreme Vorwärtsbewegung, Weitwinkelperspektive, Windrauscheffekt. Das Video beginnt in einer lebendigen Sommerumgebung mit üppigen grünen Bergen, einem hellen, sonnigen Himmel, einem fernen Ozean und braunen Blättern, die an der Kamera vorbeifliegen. Bei der 3-Sekunden-Marke fegt eine magische Frostwelle vom Skateboard aus nach vorne: Die Umgebung verwandelt sich nahtlos in eine eisige Winterlandschaft. Das grüne Gras verwandelt sich sofort in tiefen weißen Schnee, dicke Schneeflocken beginnen zu fallen und die fernen Berge werden zu schneebedeckten Gipfeln. Die Kamera unterbricht niemals die intensive, flüssige, kontinuierliche Abwärts-Verfolgung. Actiongeladen, Meisterwerk der 3D-Animation, fotorealistische Beleuchtung.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K Follower
 
@@ -523,8 +522,6 @@ Szene 6: Anubis sieht dem Diener nach. Sein Gesichtsausdruck ist immer noch läs
 
 Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er hat einen nackten Oberkörper. Seine Stimme ist tief und magnetisch. Die Sprache ist Englisch.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
 
@@ -578,8 +575,6 @@ Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er 
   ]
 }
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **Von** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K Follower
 
@@ -647,8 +642,6 @@ QUALITÄT
 fotorealistisch, filmische Beleuchtung, bodenständige Kamerabewegung, reiche mittelalterliche Atmosphäre, hochdetailliert
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K Follower
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -683,8 +676,6 @@ ZEITPLAN: 0-3s: Ein Typ in Jeans und schwarzem T-Shirt hält sich mit Mühe an d
 QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen, keine Artefakte.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -710,8 +701,6 @@ QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen,
 Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wackeln zeigt eine Entdeckerin, die ein altes Skarabäus-Artefakt hält. Sie rennt vor einer riesigen, sie verfolgenden Mumie davon. Trümmer und Staubwolken sind zu sehen. Die Mumie lässt Teile der alten Mauer einstürzen. Die Entdeckerin rennt panisch davon und schaut gelegentlich zurück, man kann ihren schweren Atem hören. Sie rennt weiter, bis sie knapp entkommt, als die Mumie sie fast erwischt, aber gegen eine Säule prallt, die auf sie selbst stürzt; die Entdeckerin rennt dann weiter in den Eingang eines Grabes hinein.“,
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **Von** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K Follower
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -736,8 +725,6 @@ Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wac
 ```
 Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. Sorge dafür, dass mein Cortisolspiegel in die Höhe schießt.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K Follower
 
@@ -781,8 +768,6 @@ Unmittelbar danach kehrt die Bewegung zu extremer Geschwindigkeit zurück. Die K
 Atmosphäre: klaustrophobisch, hektisch, lebensgefährliche Spannung – aber letztendlich eine erfolgreiche Flucht.
 Das Sounddesign suggeriert scharfen, rauschenden Wind, hallende Reifen-Wasser-Spritzer und metallische Vibrationen, während Leitplanken vorbeiziehen. Die Szene endet, als die Katze in eine sichere, schattige Ecke springt, während die restlichen Vibrationen der Kamera langsam zur Ruhe kommen.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **Von** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K Follower
 
@@ -833,8 +818,6 @@ STIL- & QUALITÄTSVERBESSERER
 Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmische Beleuchtung, perfekte Bewegungsunschärfe für die Kampfaktionen, hoher Dynamikumfang, keine Artefakte. Exakt gleiche Gesichter und Outfits wie [player1] und [player2] durchgehend, filmreife stabile Gesichtszüge.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -867,8 +850,6 @@ Zeitplan:
 
 Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürliche Physik, kein Uncanny-Valley-Effekt, keine Artefakte.
 ```
-
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
 
@@ -925,8 +906,6 @@ Stil-Referenzen:
 Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera-Action, emotionaler Realismus, bodenständige Kampfchoreografie, realistische koreanische Klassenzimmer-Atmosphäre, High-Budget Netflix K-Drama-Ästhetik, filmische Beleuchtung, dramatische Stille-Momente, starke weibliche Protagonistin, bodenständiger emotionaler Ton.
 ```
 
-📎 [Originalen, ausführbaren Prompt ansehen →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **Von** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K Follower
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -936,6 +915,8 @@ Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera
 **[▶️ Ansehen & Remixen auf gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 Wie man beiträgt
 
@@ -947,11 +928,15 @@ Siehe docs/CONTRIBUTING.md für Details.
 
 ---
 
+<a id="license"></a>
+
 ## 📄 Lizenz
 
 Veröffentlicht unter CC BY 4.0. Die Prompts wurden aus öffentlichen Beiträgen auf X zusammengetragen und den jeweiligen Autoren zugeschrieben — siehe LICENSE.
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 Danksagungen
 

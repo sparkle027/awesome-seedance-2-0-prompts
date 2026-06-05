@@ -37,7 +37,7 @@ async function main() {
   );
   console.log(`   README.md locale: ${DEFAULT_README_LOCALE}`);
 
-  const { source, byLocale, diff } = await fetchAllForGeneration();
+  const { source, byLocale, libraryTotal, diff } = await fetchAllForGeneration();
 
   if (diff) {
     writeLastRun(diff);
@@ -62,7 +62,7 @@ async function main() {
       console.error(`   ❌ No items for lang=${locale}`);
       process.exit(1);
     }
-    const md = generateReadme(items, locale);
+    const md = generateReadme(items, locale, libraryTotal);
     const out = readmePathForLocale(locale, ROOT);
     fs.writeFileSync(out, md, "utf-8");
     const fallbacks = countFallback(items);

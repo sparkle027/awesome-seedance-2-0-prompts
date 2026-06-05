@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#tm-istemler)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 Tam Galeriye Göz Atın
 
-Buradaki istemler yalnızca bir kesittir. **gptproto.com**'daki canlı galeri, her videoyu satır içi olarak oynatır, arama yapmanıza ve herhangi bir istemi tek tıkla kopyalamanıza olanak tanır.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 Bu README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Oynatılabilir video önizlemeleri | Sadece küçük resimler | ✅ Satır içi oynatma |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 Arama & filtreleme | Ctrl/⌘-F | ✅ Tam metin + filtreler |
 | 📋 Tek tıkla kopyalama | Manuel seçim | ✅ Kopyalama butonu |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 API ile oluşturma | — | ✅ Seedance 2.0 API |
 
 **[→ Galeriyi gptproto.com üzerinde aç](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@ Buradaki istemler yalnızca bir kesittir. **gptproto.com**'daki canlı galeri, h
 
 ## 📖 İçindekiler
 
-- [🌐 Tam Galeriye Göz Atın](#tam-galeriye-gz-atn)
-- [🎬 Seedance 2.0 nedir?](#-seedance-20)
+- [🌐 Tam Galeriye Göz Atın](#browse-gallery)
+- [🎬 Seedance 2.0 nedir?](#what-is-seedance-20)
 - [🔌 Seedance 2.0 API'sini kullanın](#use-the-seedance-20-api)
-- [📰 Haberler](#haberler)
-- [📊 İstatistikler](#istatistikler)
-- [⭐ Öne Çıkan İstemler](#ne-kan-istemler)
-- [📋 Tüm İstemler](#tm-istemler)
-- [🤝 Nasıl Katkıda Bulunulur](#nasl-katkda-bulunulur)
-- [📄 Lisans](#lisans)
-- [🙏 Teşekkürler](#teekkrler)
+- [📰 Haberler](#news)
+- [📊 İstatistikler](#statistics)
+- [⭐ Öne Çıkan İstemler](#featured-prompts)
+- [📋 Tüm İstemler](#all-prompts)
+- [🤝 Nasıl Katkıda Bulunulur](#how-to-contribute)
+- [📄 Lisans](#license)
+- [🙏 Teşekkürler](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 Seedance 2.0 nedir?
 
@@ -77,15 +83,22 @@ Bu liste, X'te gerçekten viral olan istemleri toplar — böylece dikkat çeken
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Seedance 2.0 API'sini kullanın
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 Haberler
 
 - **2026-06-05** — Derlenmiş Seedance 2.0 istemlerini içeren liste yayına girdi. Güncellemeleri takip etmek için ⭐ yıldızlayın.
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 İstatistikler
 
 <div align="center">
 
-| Metrik | Değer |
-|---|---|
-| 📝 Derlenmiş istemler | **20** |
-| 🎬 Model | **Seedance 2.0** |
-| 🔄 Son güncelleme | **Jun 5, 2026** |
+| 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ Öne Çıkan İstemler
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
 
@@ -159,8 +174,6 @@ Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığı
 Punch the Monkey karşılık veriyor. Kızları gururlandır.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey karşılık veriyor. Kızları gururlandır.
 ```
 Yapay zeka aşırı duyarlı hale geliyor. Bunu gerçekten saldırgan yapın - hem de çok saldırgan.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
 
@@ -222,8 +233,6 @@ Görüntü, görünür ekran piksel yapısını, hafif parlama yansımalarını,
 
 2010'ların başındaki otantik bir Sony Cyber-shot kompakt kamerayı andıracak şekilde, CCD sensör, vintage dijital işleme ve kusurlu flaş pozlaması kullanılarak çekilmiştir.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **Gönderen** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K takipçi
 
@@ -265,8 +274,6 @@ Ses: Ağır ritmik nefes alışverişi, ayakların altında çatırdayan çakıl
 
 Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hareket bulanıklığı, yüksek dinamik aralık, artefakt yok, tutarlı çok modlu fizik, film seviyesinde stabilite.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K takipçi
 
@@ -312,8 +319,6 @@ ZAMAN ÇİZELGESİ:
 
 0:12-0:15: Sabitlenmiş POV'a kesme. Ani tam duruş. Şef wok tavayı eğiyor ve bitmiş yemeği porselen kaseye kaydırıyor—görünür olanlar: eşit şekilde kaplanmış erişteler, dolgun karidesler, parlak yeşillikler. Kaseyi kaldırıyor ve çerçeveyi doldurana kadar doğrudan kameraya doğru sunuyor. Bir parmak kenara vuruyor—hafif titreşim. Buhar hızla yükseliyor ve temiz bir kararma (fade-out) için lensi tamamen kaplayana kadar genişliyor.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K takipçi
 
@@ -386,8 +391,6 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 ÇEKİM 15: WS, 50mm pull-out / Dizüstü bilgisayarın kapanışından daireye geri dönüşe eşleşen L-kesme; ceket çıkar, iş kıyafetleri atılır ve açılış karesindeki gibi yatağa yığılmadan önce tekrar uyku kıyafetlerine döner. / SFX: kapı kapanması, çanta düşmesi, kumaş hışırtısı, battaniye sesi, oda sesi.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **Gönderen** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K takipçi
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -417,8 +420,6 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 [Sahne 3: Omuz Üstü Çözülme] Kamera doğrudan SWAT memurunun sağ omzunun arkasına yerleştirilmiş. Ön planda kaskının arkasını ve tüfeğini görüyoruz. Uzakta (orta planda) katil hala kızı tutarken görünüyor. Katil son bir kez "YAPACAĞIM!" diye bağırdıktan sonra memurun tüfeği tek bir atışla geri tepiyor ve düşmanın kafasına isabet ediyor. Katil anında yere düşüyor. Kız ayakta kalıyor, şok içinde ama güvende. Teknik Stil: Yüksek enstantane hızı aksiyonu, gerçekçi namlu flaşları, el kamerası sarsıntısı, 24fps, İngilizce diyalog.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **Gönderen** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K takipçi
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -428,6 +429,8 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 **[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 Tüm İstemler
 
@@ -456,8 +459,6 @@ ZAMAN ÇİZELGESİ:
 0:11-0:15: EŞLEŞTİRMELİ KESME. Yakın plandan orta plana. Yükselen elleri aynı ekran konumunu geçerken ve donmuş yakın plan, aynı kadraj ve saat yönündeki sürüklenme ile ev iç mekanına dönüşürken kesintisiz hareket geçişi. Hareket kesintisiz devam ediyor ve şimdi bir VR başlığı ilk kez gözlerinin üzerinde belirgin bir şekilde takılı. Her iki yanından tutuyor, tamamen yüzünden çekiyor ve kamera orta plana açılırken onu alnının üzerine bırakıyor ve bol ev kıyafetleriyle küçük bir oturma odasına adım atıyor. El kamerası yörüngesi devam ediyor; koltuk kenarlarını, dağınık battaniyeleri ve soğuk pencere ışığını ortaya çıkarırken duruşu hafif bir rahatsızlığa bürünüyor. Sese doğru dönüyor, gözlerini yukarı deviriyor ve diyor ki, Ne var. 35mm doğal lens, küresel. SFX: (başlık kayışı esnemesi, plastik sürtünmesi, sessiz oda tonu, çoraplı ayak sürtünmesi, hafif oyun sesi, sakinleşen nefesi, Ne var diyen kuru sesi). İç mekan gün ışığı kış kontrastının yerini alıyor.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K takipçi
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -482,8 +483,6 @@ ZAMAN ÇİZELGESİ:
 ```
 Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D anime tarzı bir kızın dik ve virajlı bir dağ yolunda inanılmaz bir hızla kaykay yapmasını yakından takip ediyor. Aşırı ileri ivme, geniş açılı perspektif, rüzgar esme efekti. Video, yemyeşil dağlar, parlak güneşli bir gökyüzü, uzak bir okyanus ve kameranın önünden uçuşan kahverengi yapraklarla canlı bir yaz ortamında başlıyor. 3. saniyede, kaykaydan ileriye doğru büyülü bir don dalgası yayılıyor: çevre kusursuz bir şekilde dondurucu bir kış manzarasına dönüşüyor. Yeşil çimenler anında derin beyaz kara dönüşüyor, yoğun kar taneleri yağmaya başlıyor ve uzak dağlar karla kaplı zirvelere dönüşüyor. Kamera, yoğun, pürüzsüz ve sürekli yokuş aşağı takip hareketini asla bozmuyor. Yüksek oktanlı aksiyon, 3D animasyon şaheseri, fotogerçekçi aydınlatma.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **Gönderen** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K takipçi
 
@@ -523,8 +522,6 @@ Sahne 6: Anubis hizmetkarın gidişini izler, yüzünde hala umursamaz bir ifade
 
 Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler vardır. Üstü çıplaktır. Sesi derin ve etkileyicidir. Seslendirme İngilizcedir.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K takipçi
 
@@ -578,8 +575,6 @@ Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler v
   ]
 }
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **Gönderen** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K takipçi
 
@@ -647,8 +642,6 @@ KALİTE
 fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengin orta çağ atmosferi, yüksek detaylı
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K takipçi
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -683,8 +676,6 @@ ZAMAN ÇİZELGESİ: 0-3sn: Kot pantolonlu ve siyah tişörtlü bir adam, 12.000 
 KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapaylık yok.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K takipçi
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -710,8 +701,6 @@ KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapayl
 Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve kaotik bir takip çekimi, antik bir bok böceği eseri tutan bir kaşifi gösteriyor. Peşindeki dev bir mumyadan kaçıyor. Enkaz ve toz bulutları görülebiliyor. Mumya, antik duvarın bölümlerinin yıkılmasına neden oluyor. Kaşif panik içinde kaçarken ara sıra arkasına bakıyor, ağır nefes alışverişi duyulabiliyor. Mumya onu neredeyse yakalayacakken bir sütuna çarpıp üzerine devrilmesiyle kıl payı kurtulana kadar koşmaya devam ediyor, kaşif daha sonra bir mezarın girişine doğru koşmaya devam ediyor.“,
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **Gönderen** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K takipçi
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -736,8 +725,6 @@ Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve kaotik b
 ```
 Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyemi tavan yaptır.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K takipçi
 
@@ -781,8 +768,6 @@ Hemen ardından hareket aşırı hıza geri döner. Kedi bir rampanın kenarı b
 Atmosfer: klostrofobik, çılgın, ölüm kalım gerilimi ama sonuçta başarılı bir kaçış.
 Ses tasarımı keskin esen rüzgarı, yankılanan lastik-su sıçramalarını ve korkuluklar hızla geçerken oluşan metalik titreşimleri önerir. Sahne, kedi güvenli gölgeli bir köşeye atlarken, kameranın kalıntı titreşimleri yavaşça durulurken sona erer.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **Gönderen** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K takipçi
 
@@ -833,8 +818,6 @@ STİL & KALİTE ARTIRICILAR
 Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlatma, dövüş hareketleri için mükemmel hareket bulanıklığı, yüksek dinamik aralık, artefakt yok. [player1] ve [player2] ile boyunca tam olarak aynı yüzler ve kıyafetler, film seviyesinde kararlı yüz özellikleri.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K takipçi
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -867,8 +850,6 @@ Zaman çizelgesi:
 
 Kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik, uncanny valley yok, artefakt yok.
 ```
-
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K takipçi
 
@@ -925,8 +906,6 @@ Stil Referansları:
 Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası aksiyonu, duygusal gerçekçilik, yere dayalı dövüş koreografisi, gerçekçi Kore sınıf atmosferi, yüksek bütçeli Netflix K-drama estetiği, sinematik aydınlatma, dramatik sessizlik vuruşları, güçlü kadın başrol, yere dayalı duygusal ton.
 ```
 
-📎 [Çalıştırılabilir orijinal istemi görüntüle →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **Gönderen** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K takipçi
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -936,6 +915,8 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 **[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 Nasıl Katkıda Bulunulur
 
@@ -947,11 +928,15 @@ Detaylar için docs/CONTRIBUTING.md dosyasına bakın.
 
 ---
 
+<a id="license"></a>
+
 ## 📄 Lisans
 
 CC BY 4.0 altında yayınlanmıştır. İstemler, X üzerindeki herkese açık gönderilerden derlenmiş olup yazarlarına atıfta bulunulmuştur — bkz. LICENSE.
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 Teşekkürler
 

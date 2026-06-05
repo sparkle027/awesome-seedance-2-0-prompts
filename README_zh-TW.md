@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#)
+[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 瀏覽完整藝廊
 
-此處的提示詞僅為快照。**gptproto.com** 上的即時藝廊可讓您直接在線播放每部影片、搜尋內容，並能一鍵複製任何提示詞。
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 本 README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ 可播放影片預覽 | 僅縮圖 | ✅ 內嵌播放 |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 搜尋與篩選 | Ctrl/⌘-F | ✅ 全文檢索 + 篩選器 |
 | 📋 一鍵複製 | 手動選取 | ✅ 複製按鈕 |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 透過 API 生成 | — | ✅ Seedance 2.0 API |
 
 **[→ 前往 gptproto.com 開啟藝廊](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,18 +55,20 @@
 
 ## 📖 目錄
 
-- [🌐 瀏覽完整藝廊](#)
-- [🎬 什麼是 Seedance 2.0？](#-seedance-20)
+- [🌐 瀏覽完整藝廊](#browse-gallery)
+- [🎬 什麼是 Seedance 2.0？](#what-is-seedance-20)
 - [🔌 使用 Seedance 2.0 API](#use-the-seedance-20-api)
-- [📰 新聞](#)
-- [📊 統計數據](#)
-- [⭐ 精選提示詞](#)
-- [📋 所有提示詞](#)
-- [🤝 如何貢獻](#)
-- [📄 授權條款](#)
-- [🙏 致謝](#)
+- [📰 新聞](#news)
+- [📊 統計數據](#statistics)
+- [⭐ 精選提示詞](#featured-prompts)
+- [📋 所有提示詞](#all-prompts)
+- [🤝 如何貢獻](#how-to-contribute)
+- [📄 授權條款](#license)
+- [🙏 致謝](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 什麼是 Seedance 2.0？
 
@@ -77,15 +83,22 @@ Seedance 2.0 是一款最先進的 AI 影片生成模型。只需提供文字提
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 使用 Seedance 2.0 API
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 新聞
 
 - **2026-06-05** — 已發佈包含精選 Seedance 2.0 提示詞的列表。⭐ 加星以追蹤最新更新。
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 統計數據
 
 <div align="center">
 
-| 指標 | 數值 |
-|---|---|
-| 📝 精選提示詞 | **20** |
-| 🎬 模型 | **Seedance 2.0** |
-| 🔄 最後更新 | **Jun 5, 2026** |
+| 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ 精選提示詞
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 追蹤者
 
@@ -159,8 +174,6 @@ Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚
 Punch the Monkey 反擊了。讓女孩們感到驕傲。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 追蹤者
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey 反擊了。讓女孩們感到驕傲。
 ```
 AI 變得「覺醒」（woke）。讓它變得非常冒犯——真的非常冒犯。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 追蹤者
 
@@ -222,8 +233,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 拍攝效果旨在模仿 2010 年代初的 Sony Cyber-shot 輕便相機，使用 CCD 感光元件，呈現出復古的數位渲染效果和不完美的閃光燈曝光。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **作者** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K 追蹤者
 
@@ -265,8 +274,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 照片級真實感8K，超精細紋理，電影級燈光，完美的運動模糊，高動態範圍，無偽影，連貫的多模態物理效果，電影級穩定性。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 追蹤者
 
@@ -312,8 +319,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 0:12-0:15：切換至穩定 POV。突然完全停止。廚師傾斜鍋子，將成品滑入瓷碗中——可見：均勻包裹醬汁的麵條、飽滿的蝦仁、油亮的蔬菜。他舉起碗並直接向鏡頭展示，直到填滿畫面。一根手指輕敲碗緣——細微震動。蒸汽迅速升起，擴散直到完全覆蓋鏡頭，實現乾淨的淡出效果。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K 追蹤者
 
@@ -386,8 +391,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 鏡頭 15：WS，50mm 拉鏡 / L-cut 剪輯，從筆電合上匹配到重新進入公寓，外套脫下，工作服剝離，她在倒回開場畫面姿勢躺入床鋪前換回睡衣。 / 音效：關門聲、包包掉落聲、布料摩擦聲、毯子摩擦聲、環境音。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **作者** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 追蹤者
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -417,8 +420,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 [場景三：肩後視角與結局] 攝影機直接放置在 SWAT 特警的右肩後方。我們可以看到他頭盔的背面和前景中的步槍。在遠處（中景）中，兇手仍然抓著女孩。兇手最後一次尖叫：「我要動手了！」隨後特警的步槍單發後座，擊中敵人的頭部。兇手瞬間倒地。女孩站在原地，雖然震驚但平安無事。技術風格：高快門速度動作、逼真的槍口閃光、手持攝影機晃動、24fps、英語對話。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **作者** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K 追蹤者
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -428,6 +429,8 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 **[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 所有提示詞
 
@@ -456,8 +459,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 0:11-0:15：匹配剪輯。特寫轉中景。在動作中進行無縫過渡，當她抬起的手穿過螢幕相同位置時，冰凍的特寫鏡頭變成了室內居家環境，並保持相同的構圖與順時針漂移。動作持續不中斷，此時 VR 頭戴式裝置首次清晰地戴在她的眼睛上。她抓住兩側，將其完全從臉上取下，攝影機拉開至中景，她將裝置放下到額頭上方，並穿著寬鬆的居家服走進一個小客廳。手持攝影機的軌道移動持續，揭示了沙發邊緣、散亂的毯子和冰冷的窗光，她的姿勢流露出輕微的煩躁。她轉向聲音來源，向上翻了個白眼，說道：什麼事。35mm 自然鏡頭，球形。音效：(頭戴裝置帶子的拉伸聲、塑膠摩擦聲、安靜的室內環境音、穿著襪子的腳步摩擦聲、微弱的遊戲音效、她平復的呼吸聲、她乾脆地說「什麼事」的聲音)。室內日光取代了冬日的對比度。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 追蹤者
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -482,8 +483,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 ```
 快節奏的 FPV 無人機後方追蹤鏡頭，緊跟著一位留著白髮的 3D 動漫風格女孩，正以極高的速度在陡峭蜿蜒的山路上玩滑板。極致的前進動能、廣角視角、風吹過的效果。影片開頭呈現充滿活力的夏季場景，有翠綠的山脈、明亮的晴空、遠處的海洋，以及從鏡頭前飛過的褐色落葉。在第 3 秒時，一股魔法般的霜凍波從滑板向前席捲而出：環境無縫轉換為冰冷的冬季景觀。綠草瞬間變為深厚的白雪，大片雪花開始飄落，遠處的山脈變成了白雪皚皚的山峰。鏡頭始終保持著強烈、流暢且連續的下坡追蹤運動。高張力動作，3D 動畫傑作，照片級真實光影。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **作者** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K 追蹤者
 
@@ -523,8 +522,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 阿努比斯肌肉發達，手臂、脖子和脖子上都戴著環和耳環。他赤裸著上身。他的聲音低沉而富有磁性。語音為英文。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 追蹤者
 
@@ -578,8 +575,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
   ]
 }
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **作者** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 追蹤者
 
@@ -647,8 +642,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 照片級真實感、電影感燈光、穩定的攝影機運動、豐富的中世紀氛圍、高度細節化
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 追蹤者
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -683,8 +676,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 質量：8K照片級真實感，物理效果準確，織物運動模糊，無偽影。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -710,8 +701,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 這是一個具有電影感且混亂的追蹤鏡頭，運用手持攝影機的晃動感，畫面中一位探險家手持古老的聖甲蟲文物。她正從一具巨大的木乃伊追擊中逃跑。畫面中可見殘骸與塵土飛揚。木乃伊導致古牆的部分結構崩塌。探險家驚慌失措地奔跑，並不時回頭張望，可以聽到她沉重的呼吸聲。她持續奔跑，直到木乃伊幾乎抓住她時驚險逃脫，木乃伊撞上柱子導致自身被壓住，探險家隨後繼續跑進陵墓入口。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **作者** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K 追蹤者
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -736,8 +725,6 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 ```
 Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K 追蹤者
 
@@ -781,8 +768,6 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 氛圍：幽閉恐懼、狂亂、生死攸關的緊張感，但最終成功逃脫。
 聲音設計暗示了尖銳的疾風、迴盪的輪胎水花聲，以及護欄掠過時的金屬振動。場景在貓跳入安全的陰暗角落時結束，而攝影機的殘餘振動緩慢地歸於平靜。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
 
 **作者** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K 追蹤者
 
@@ -833,8 +818,6 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 8K 超寫實畫質，裝備上超細緻的布料紋理，電影級燈光，戰鬥動作完美的動態模糊，高動態範圍，無偽影。全程保持與 [player1] 和 [player2] 完全相同的臉部與服裝，電影級穩定的臉部特徵。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 追蹤者
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -867,8 +850,6 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 品質：8K 照片級真實感，正確的布料動態模糊，自然物理效果，無恐怖谷效應，無偽影。
 ```
-
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
 
@@ -925,8 +906,6 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 韓國動作電影，超寫實攝影，電影級手持動作，情感寫實主義，紮實的格鬥編排，寫實的韓國教室氛圍，高預算Netflix韓劇美學，電影級燈光，戲劇性的靜默節奏，強大的女性主角，紮實的情感基調。
 ```
 
-📎 [檢視可執行的原始提示詞 →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **作者** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 追蹤者
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -936,6 +915,8 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 **[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 如何貢獻
 
@@ -947,11 +928,15 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ---
 
+<a id="license"></a>
+
 ## 📄 授權條款
 
 以 CC BY 4.0 授權條款發佈。提示詞皆聚合自 X 上的公開貼文，並標註其作者 — 請參閱 LICENSE。
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 致謝
 

@@ -5,7 +5,7 @@
   "starCta": "Vous trouvez cela utile ? **Mettez le dépôt en étoile (Star)** pour suivre les nouveaux prompts — mis à jour dès que des vidéos {model} deviennent tendance sur X.",
   "browseGalleryBanner": "Parcourir la galerie complète avec lecture vidéo sur gptproto.com →",
   "gallerySectionTitle": "Parcourir la galerie complète",
-  "galleryIntro": "Les prompts listés ici ne sont qu'un aperçu. La galerie en direct sur **gptproto.com** permet de lire chaque vidéo directement, d'effectuer des recherches et de copier n'importe quel prompt en un clic.",
+  "galleryIntro": "Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.",
   "tableThisReadme": "Ce README",
   "tableSite": "gptproto.com",
   "rowPlayback": "Aperçu vidéo lisible",
@@ -81,5 +81,12 @@
   "originalDocIntro": "Ce fichier liste uniquement les prompts de la **couche source** (`text` / `image` / `video` provenant de l'API des matériaux). Ils ne changent pas avec la langue. Les versions de lecture localisées se trouvent dans README*.md (couche de traduction, `?lang=`).",
   "originalDocToc": "Index des prompts",
   "sourceLocale": "Langue source",
-  "executableOriginalsLink": "Originaux exécutables"
+  "executableOriginalsLink": "Originaux exécutables",
+  "rowGenerate": "Free trial generation",
+  "cmpReadmeGenerate": "—",
+  "cmpSiteGenerate": "Free trial",
+  "rowUseCases": "Browse use cases",
+  "cmpReadmeUseCases": "—",
+  "cmpSiteUseCases": "Gallery + examples",
+  "statsTotal": "Total prompts"
 }

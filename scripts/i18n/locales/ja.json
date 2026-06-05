@@ -5,7 +5,7 @@
   "starCta": "役に立ちましたか？**リポジトリをスター登録**して、Xで話題になっている最新の {model} 動画の更新情報をフォローしましょう。",
   "browseGalleryBanner": "gptproto.comで動画が再生できる全ギャラリーを閲覧する →",
   "gallerySectionTitle": "全ギャラリーを閲覧",
-  "galleryIntro": "ここにあるプロンプトは一部のスナップショットです。**gptproto.com**のライブギャラリーでは、すべての動画をインライン再生でき、検索やワンクリックでのプロンプトコピーが可能です。",
+  "galleryIntro": "Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.",
   "tableThisReadme": "このREADME",
   "tableSite": "gptproto.com",
   "rowPlayback": "動画プレビューの再生",
@@ -81,5 +81,12 @@
   "originalDocIntro": "このファイルには（マテリアルAPIからの `text` / `image` / `video` である）**ソースレイヤー**のプロンプトのみが記載されています。これらは言語によって変更されません。翻訳版は README*.md（翻訳レイヤー、`?lang=`）に存在します。",
   "originalDocToc": "プロンプトインデックス",
   "sourceLocale": "ソースロケール",
-  "executableOriginalsLink": "実行可能なオリジナル"
+  "executableOriginalsLink": "実行可能なオリジナル",
+  "rowGenerate": "Free trial generation",
+  "cmpReadmeGenerate": "—",
+  "cmpSiteGenerate": "Free trial",
+  "rowUseCases": "Browse use cases",
+  "cmpReadmeUseCases": "—",
+  "cmpSiteUseCases": "Gallery + examples",
+  "statsTotal": "Total prompts"
 }

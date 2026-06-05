@@ -5,7 +5,7 @@
   "starCta": "Bunu faydalı mı buldunuz? Yeni istemleri takip etmek için **depoyu yıldızlayın** — X üzerinde yeni {model} videoları trend oldukça güncellenir.",
   "browseGalleryBanner": "Oynatılabilir videoların bulunduğu tam galeriye gptproto.com üzerinden göz atın →",
   "gallerySectionTitle": "Tam Galeriye Göz Atın",
-  "galleryIntro": "Buradaki istemler yalnızca bir kesittir. **gptproto.com**'daki canlı galeri, her videoyu satır içi olarak oynatır, arama yapmanıza ve herhangi bir istemi tek tıkla kopyalamanıza olanak tanır.",
+  "galleryIntro": "Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.",
   "tableThisReadme": "Bu README",
   "tableSite": "gptproto.com",
   "rowPlayback": "Oynatılabilir video önizlemeleri",
@@ -81,5 +81,12 @@
   "originalDocIntro": "Bu dosya yalnızca **kaynak katmanı** istemlerini (`text` / `image` / `video` materyal API'sinden) listeler. Bunlar dile göre değişmez. Yerelleştirilmiş okuma sürümleri README*.md dosyalarında bulunur (çeviri katmanı, `?lang=`).",
   "originalDocToc": "İstem dizini",
   "sourceLocale": "Kaynak yerel ayar",
-  "executableOriginalsLink": "Çalıştırılabilir orijinaller"
+  "executableOriginalsLink": "Çalıştırılabilir orijinaller",
+  "rowGenerate": "Free trial generation",
+  "cmpReadmeGenerate": "—",
+  "cmpSiteGenerate": "Free trial",
+  "rowUseCases": "Browse use cases",
+  "cmpReadmeUseCases": "—",
+  "cmpSiteUseCases": "Gallery + examples",
+  "statsTotal": "Total prompts"
 }

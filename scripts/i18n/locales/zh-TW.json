@@ -5,7 +5,7 @@
   "starCta": "覺得實用嗎？**請給儲存庫加星 (Star)** 以追蹤新的提示詞——我們會隨着 {model} 影片在 X 上流行即時更新。",
   "browseGalleryBanner": "前往 gptproto.com 瀏覽完整藝廊與播放影片 →",
   "gallerySectionTitle": "瀏覽完整藝廊",
-  "galleryIntro": "此處的提示詞僅為快照。**gptproto.com** 上的即時藝廊可讓您直接在線播放每部影片、搜尋內容，並能一鍵複製任何提示詞。",
+  "galleryIntro": "Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.",
   "tableThisReadme": "本 README",
   "tableSite": "gptproto.com",
   "rowPlayback": "可播放影片預覽",
@@ -81,5 +81,12 @@
   "originalDocIntro": "此檔案僅列出**原始層**提示詞（來自素材 API 的 `text` / `image` / `video`）。它們不會隨語言而改變。在地化的閱讀版本位於 README*.md 中（翻譯層，`?lang=`）。",
   "originalDocToc": "提示詞索引",
   "sourceLocale": "來源語系",
-  "executableOriginalsLink": "可執行原始檔案"
+  "executableOriginalsLink": "可執行原始檔案",
+  "rowGenerate": "Free trial generation",
+  "cmpReadmeGenerate": "—",
+  "cmpSiteGenerate": "Free trial",
+  "rowUseCases": "Browse use cases",
+  "cmpReadmeUseCases": "—",
+  "cmpSiteUseCases": "Gallery + examples",
+  "statsTotal": "Total prompts"
 }

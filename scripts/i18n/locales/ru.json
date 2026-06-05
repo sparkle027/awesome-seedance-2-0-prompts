@@ -5,7 +5,7 @@
   "starCta": "Нашли это полезным? **Поставьте звезду репозиторию**, чтобы следить за новыми промптами — обновления выходят по мере появления новых трендовых видео с {model} на X.",
   "browseGalleryBanner": "Просматривайте полную галерею с воспроизведением видео на gptproto.com →",
   "gallerySectionTitle": "Просмотр полной галереи",
-  "galleryIntro": "Промпты здесь — лишь малая часть. В активной галерее на **gptproto.com** можно смотреть любое видео прямо в браузере, искать по ним и копировать любой промпт в один клик.",
+  "galleryIntro": "Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.",
   "tableThisReadme": "Этот README",
   "tableSite": "gptproto.com",
   "rowPlayback": "Воспроизведение видео",
@@ -81,5 +81,12 @@
   "originalDocIntro": "Этот файл содержит только промпты **исходного уровня** (`text` / `image` / `video` из API материалов). Они не меняются в зависимости от языка. Локализованные версии для чтения находятся в README*.md (слой перевода, `?lang=`).",
   "originalDocToc": "Индекс промптов",
   "sourceLocale": "Исходная локаль",
-  "executableOriginalsLink": "Исполняемые оригиналы"
+  "executableOriginalsLink": "Исполняемые оригиналы",
+  "rowGenerate": "Free trial generation",
+  "cmpReadmeGenerate": "—",
+  "cmpSiteGenerate": "Free trial",
+  "rowUseCases": "Browse use cases",
+  "cmpReadmeUseCases": "—",
+  "cmpSiteUseCases": "Gallery + examples",
+  "statsTotal": "Total prompts"
 }

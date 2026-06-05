@@ -47,6 +47,9 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 <sub>📅 Feb 12, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6"></a>
@@ -67,6 +70,9 @@ Punch the Monkey punches back. Make the girls proud.
 
 <sub>📅 Feb 21, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9"></a>
@@ -86,6 +92,9 @@ AI goes woke. Make it really offensive - like really offensive.
 ❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
 
 <sub>📅 Feb 19, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -116,6 +125,9 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 ❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -152,6 +164,9 @@ Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion b
 ❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -192,6 +207,9 @@ TIMELINE:
 ❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
 
 <sub>📅 Mar 24, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -259,6 +277,9 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 <sub>📅 Apr 11, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6"></a>
@@ -278,6 +299,9 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -309,6 +333,9 @@ TIMELINE:
 
 <sub>📅 Apr 1, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17"></a>
@@ -328,6 +355,9 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 ❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
 
 <sub>📅 Mar 1, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -362,6 +392,9 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 ❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
 
 <sub>📅 May 31, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -410,6 +443,9 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 ❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
 
 <sub>📅 Apr 12, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -472,6 +508,9 @@ photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosp
 
 <sub>📅 Mar 13, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-5ff009c5-a020-405b-9541-3dff09db396e"></a>
@@ -501,6 +540,9 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 
 <sub>📅 Apr 1, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-b177a667-89e2-4afb-97c2-5d929a65b549"></a>
@@ -521,6 +563,9 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 
 <sub>📅 Feb 17, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-fceb18ce-3548-4d63-b6b3-f217a286303a"></a>
@@ -540,6 +585,9 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 ❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -593,6 +641,9 @@ as the cat leaps into a safe shadowy corner, while the camera's residual vibrati
 
 <sub>📅 Mar 6, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-f90d955b-df6a-4b82-9259-0424be5be39c"></a>
@@ -637,6 +688,9 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 
 <sub>📅 May 8, 2026</sub>
 
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
 ---
 
 <a id="prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829"></a>
@@ -664,6 +718,9 @@ quality: 8K photorealistic, correct fabric motion blur, natural physics, no unca
 ❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
 
 <sub>📅 Apr 2, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
@@ -717,6 +774,9 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
 
 <sub>📅 May 23, 2026</sub>
+
+
+**[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 

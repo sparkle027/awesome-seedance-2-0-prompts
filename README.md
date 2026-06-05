@@ -34,15 +34,19 @@
 
 ---
 
+<a id="browse-gallery"></a>
+
 ## 🌐 Browse the Full Gallery
 
-Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, lets you search, and copies any prompt in one click.
+Prompts here are a snapshot. The live gallery on **gptproto.com** plays every video inline, supports **free trial generation**, **search & filters**, and lets you **browse more use cases** — copy any prompt in one click.
 
 | | 📄 This README | 🌐 [gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts) |
 |---|:---:|:---:|
 | ▶️ Playable video previews | Thumbnails only | ✅ Inline playback |
+| 🎁 Free trial generation | — | ✅ Free trial |
 | 🔍 Search & filter | Ctrl/⌘-F | ✅ Full-text + filters |
 | 📋 One-click copy | Manual select | ✅ Copy button |
+| 📚 Browse use cases | — | ✅ Gallery + examples |
 | 🔌 Generate via API | — | ✅ Seedance 2.0 API |
 
 **[→ Open the gallery on gptproto.com](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -51,8 +55,8 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 
 ## 📖 Contents
 
-- [🌐 Browse the Full Gallery](#browse-the-full-gallery)
-- [🎬 What is Seedance 2.0?](#-seedance-20)
+- [🌐 Browse the Full Gallery](#browse-gallery)
+- [🎬 What is Seedance 2.0?](#what-is-seedance-20)
 - [🔌 Use the Seedance 2.0 API](#use-the-seedance-20-api)
 - [📰 News](#news)
 - [📊 Statistics](#statistics)
@@ -63,6 +67,8 @@ Prompts here are a snapshot. The live gallery on **gptproto.com** plays every vi
 - [🙏 Acknowledgements](#acknowledgements)
 
 ---
+
+<a id="what-is-seedance-20"></a>
 
 ## 🎬 What is Seedance 2.0?
 
@@ -77,15 +83,22 @@ This list collects prompts that actually went viral on X — so you can see the 
 
 ---
 
+<a id="use-the-seedance-20-api"></a>
+
 ## 🔌 Use the Seedance 2.0 API
 
 ```bash
-curl https://api.gptproto.com/v1/video/generations \
-  -H "Authorization: Bearer $GPTPROTO_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "seedance-2-0",
-    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night"
+curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-260128/text-to-video" \
+  --header "Authorization: Bearer $GPTPROTO_API_KEY" \
+  --header "Content-Type: application/json" \
+  --data '{
+    "prompt": "A cinematic slow-motion shot of a paper plane gliding over a neon city at night",
+    "aspect_ratio": "16:9",
+    "duration": 5,
+    "resolution": "720p",
+    "generate_audio": true,
+    "camera_fixed": false,
+    "seed": -1
   }'
 ```
 
@@ -93,25 +106,29 @@ curl https://api.gptproto.com/v1/video/generations \
 
 ---
 
+<a id="news"></a>
+
 ## 📰 News
 
 - **2026-06-05** — Launched the list with curated Seedance 2.0 prompts. ⭐ Star to follow updates.
 
 ---
 
+<a id="statistics"></a>
+
 ## 📊 Statistics
 
 <div align="center">
 
-| Metric | Value |
-|---|---|
-| 📝 Curated prompts | **20** |
-| 🎬 Model | **Seedance 2.0** |
-| 🔄 Last updated | **Jun 5, 2026** |
+| 📝 Curated prompts | 📚 Total prompts | 🎬 Model | 🔄 Last updated |
+|:---:|:---:|:---:|:---:|
+| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
 ---
+
+<a id="featured-prompts"></a>
 
 ## ⭐ Featured Prompts
 
@@ -131,8 +148,6 @@ curl https://api.gptproto.com/v1/video/generations \
 ```
 An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-0acf7726-c731-433b-9911-071d5379f13a)
 
 **By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
 
@@ -159,8 +174,6 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 Punch the Monkey punches back. Make the girls proud.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-
 **By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
@@ -185,8 +198,6 @@ Punch the Monkey punches back. Make the girls proud.
 ```
 AI goes woke. Make it really offensive - like really offensive.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-67064587-b93f-4fdc-b7b0-12d6b29ef1c9)
 
 **By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
 
@@ -222,8 +233,6 @@ The image preserves visible screen pixel structure, slight glare reflections, ch
 
 Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
 
 **By** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K followers
 
@@ -265,8 +274,6 @@ Audio: Heavy rhythmic breathing, gravel crunching under feet, intense wind howl,
 
 Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion blur, high dynamic range, no artifacts, coherent mult-modal physics, movie-level stability.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
 
 **By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K followers
 
@@ -312,8 +319,6 @@ TIMELINE:
 
 0:12-0:15: Cut to stabilized POV. Sudden full stop. The chef tilts the wok and slides the finished dish into the porcelain bowl—visible: evenly coated noodles, plump shrimp, glossy greens. He lifts and presents the bowl directly toward the camera until it fills the frame. A finger taps the rim—subtle vibration. Steam rises rapidly, expanding until it fully covers the lens for a clean fade-out.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
 
 **By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K followers
 
@@ -386,8 +391,6 @@ SHOT 14: OTS, 35mm handheld / Rhythmic cut into fingers racing across keys, chat
 SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment re-entry as the jacket drops, work clothes peel away, and she changes back into sleepwear before collapsing into bed in the opening frame shape. / SFX: door shut, bag drop, fabric rustle, blanket rustle, room tone.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-
 **By** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K followers
 
 ❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
@@ -413,8 +416,6 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity: "LET THE HOSTAGE GO! DROP THE WEAPON NOW!" [Shot 2: The Threat] Cut to a medium shot of the killer in a dirty tank top, holding a woman in a chokehold. He has a pistol pressed to her head. He is sweating and manic, screaming at the off-screen officer: "STAY BACK! I'LL KILL HER! I SWEAR I'LL DO IT!" [Shot 3: Over-the-Shoulder Resolution] The camera is positioned directly behind the SWAT officer's right shoulder. We see the back of his helmet and his rifle in the foreground. In the distance (mid-ground), the killer is still visible holding the girl. The killer screams one last time: "I'M GONNA DO IT!" after The officer's rifle kicks back with a single sho and hit head enemy. The killer falls instantly. The girl is left standing, shocked but safe. Technical Style: High-shutter speed action, realistic muzzle flashes, handheld camera shake, 24fps, English dialogue.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-
 **By** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K followers
 
 ❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
@@ -424,6 +425,8 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 **[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="all-prompts"></a>
 
 ## 📋 All Prompts
 
@@ -452,8 +455,6 @@ TIMELINE:
 0:11-0:15: MATCH CUT. CU to MS. Seamless mid-motion transition as her rising hands cross the same screen position and the frozen close-up becomes the home interior with the same framing and clockwise drift. The motion continues uninterrupted, and now a VR headset is visibly strapped over her eyes for the first time. She grips both sides, pulls it fully off her face, and the camera opens into a medium shot as she drops it above her forehead and steps into a small living room in loose home clothes. The handheld orbit continues, revealing couch edges, scattered blankets, and cold window light as her posture falls into mild annoyance. She turns toward the voice, rolls her eyes upward, and says, What is it. 35mm natural lens, spherical. SFX: (headset strap stretch, plastic rub, quiet room tone, socked foot scrape, faint game audio, her breath settling, her dry voice saying What is it). Indoor daylight replaces the winter contrast.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K followers
 
 ❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
@@ -478,8 +479,6 @@ TIMELINE:
 ```
 Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, and brown leaves flying past the camera. At the 3-second mark, a magical wave of frost sweeps forward from the skateboard: the environment seamlessly transforms into a freezing winter landscape. The green grass instantly turns to deep white snow, heavy snowflakes start falling, and the distant mountains become snow-capped peaks. The camera never breaks the intense, smooth, continuous downhill tracking motion. High-octane action, masterpiece 3D animation, photorealistic lighting.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 
 **By** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K followers
 
@@ -519,8 +518,6 @@ Scene 6: Anubis watches the servant leave. His expression remains casual, but a 
 
 Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He is shirtless. His voice is deep and magnetic. Audio is in English.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K followers
 
@@ -574,8 +571,6 @@ Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He i
   ]
 }
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
 
 **By** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K followers
 
@@ -643,8 +638,6 @@ QUALITY
 photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosphere, highly detailed
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K followers
 
 ❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
@@ -679,8 +672,6 @@ TIMELINE: 0-3s:  Guy in jeans and a black t-shirt is barely holding on the side 
 QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-
 **By** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K followers
 
 ❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
@@ -706,8 +697,6 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-
 **By** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K followers
 
 ❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
@@ -732,8 +721,6 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 ```
 Androgenic plots his revenge after getting his wig snatched. Make my cortisol spike.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 
 **By** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K followers
 
@@ -792,8 +779,6 @@ Sound design suggests sharp rushing wind, echoing tire-water splashes, andmetall
 as the cat leaps into a safe shadowy corner, while the camera's residual vibrations slowly settle into stillness
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-45f4a966-8169-418b-9da7-b623acd81498)
-
 **By** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K followers
 
 ❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
@@ -843,8 +828,6 @@ STYLE & QUALITY BOOSTERS
 Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lighting, perfect motion blur for the fight moves, high dynamic range, no artifacts. Exact same faces and outfits as [player1] and [player2] throughout, movie-level stable facial features.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-
 **By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K followers
 
 ❤️ 657 · 🔁 89 · 🔖 411 · 👁 121.1K
@@ -877,8 +860,6 @@ timeline:
 
 quality: 8K photorealistic, correct fabric motion blur, natural physics, no uncanny valley, no artifacts.
 ```
-
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
 
 **By** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K followers
 
@@ -938,8 +919,6 @@ Negative Prompt:
 Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, exaggerated fantasy armor, unrealistic physics, low quality, blurry faces, overexposed lighting, comedic tone, childish style, fantasy classroom, male protagonist, bad anatomy, unrealistic body proportions, supernatural effects, glowing eyes, energy auras, magic.
 ```
 
-📎 [View executable original prompt →](docs/PROMPTS_ORIGINAL.md#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-
 **By** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K followers
 
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
@@ -949,6 +928,8 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 **[▶️ Watch & remix on gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
+
+<a id="how-to-contribute"></a>
 
 ## 🤝 How to Contribute
 
@@ -960,11 +941,15 @@ See docs/CONTRIBUTING.md for details.
 
 ---
 
+<a id="license"></a>
+
 ## 📄 License
 
 Released under CC BY 4.0. Prompts are aggregated from public posts on X and credited to their authors — see LICENSE.
 
 ---
+
+<a id="acknowledgements"></a>
 
 ## 🙏 Acknowledgements
 
