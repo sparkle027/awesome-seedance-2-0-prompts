@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-26_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -122,7 +122,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
@@ -134,7 +134,32 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > 按互動率排序，最受喜愛的 Seedance 2.0 影片。
 
-### 1. Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚。
+### 1. 用迷因總結 AI 討論——確保它夠荒謬且能獲得 50 個讚。
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="用迷因總結 AI 討論——確保它夠荒謬且能獲得 50 個讚。"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**📝 提示詞**
+
+```
+用迷因總結 AI 討論——確保它夠荒謬且能獲得 50 個讚。
+```
+
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 追蹤者
+
+❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+
+<sub>📅 Feb 14, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 2. Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚。
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
 
@@ -159,7 +184,7 @@ Waffle House 的普通輪班——確保它看起來很離譜並獲得 50 個讚
 
 ---
 
-### 2. Punch the Monkey 反擊了。讓女孩們感到驕傲。
+### 3. Punch the Monkey 反擊了。讓女孩們感到驕傲。
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -184,19 +209,19 @@ Punch the Monkey 反擊了。讓女孩們感到驕傲。
 
 ---
 
-### 3. AI 變得「覺醒」（woke）。讓它變得非常冒犯——真的非常冒犯。
+### 4. AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI 變得「覺醒」（woke）。讓它變得非常冒犯——真的非常冒犯。"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-AI 變得「覺醒」（woke）。讓它變得非常冒犯——真的非常冒犯。
+AI 變得覺醒。讓它變得非常冒犯——真的非常冒犯。
 ```
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 追蹤者
@@ -209,7 +234,7 @@ AI 變得「覺醒」（woke）。讓它變得非常冒犯——真的非常冒�
 
 ---
 
-### 4. 提示詞：一張寫實的特寫鏡頭，拍攝一個小型數位相機螢幕在黑暗的室內環境中發出明亮的光芒。LCD 螢幕上顯示著一張 2010 年代初風格的隨拍…
+### 5. 提示詞：一張寫實的特寫鏡頭，拍攝一個小型數位相機螢幕在黑暗的室內環境中發出明亮的光芒。LCD 螢幕上顯示著一張 2010 年代初風格的隨拍…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -244,7 +269,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 5. 粗獷、原始的35mm手持膠片美學，帶有自然的膠片顆粒感。強烈的直射陽光營造出高對比度的陰影。手持追蹤鏡頭（第三人稱視角/肩後視角）。氛圍：…
+### 6. 粗獷、原始的35mm手持膠片美學，帶有自然的膠片顆粒感。強烈的直射陽光營造出高對比度的陰影。手持追蹤鏡頭（第三人稱視角/肩後視角）。氛圍：…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -285,7 +310,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 6. 主體： 主體 1：精瘦的功夫廚師，留著俐落短髮，下顎線條分明。身穿融合武術風格的現代中式廚師服：合身無袖上衣，立領設計，採用帶有細微光澤的…
+### 7. 主體： 主體 1：精瘦的功夫廚師，留著俐落短髮，下顎線條分明。身穿融合武術風格的現代中式廚師服：合身無袖上衣，立領設計，採用帶有細微光澤的…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -330,7 +355,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 7. 格式：15秒 / 145 BPM / 15個鏡頭 / 節奏同步日常
+### 8. 格式：15秒 / 145 BPM / 15個鏡頭 / 節奏同步日常
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.7K-e0245e)
 
@@ -401,12 +426,16 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 8. [場景一：威脅性正面鏡頭] 一名穿著全套戰術裝備、戴著防毒面具和頭盔的 SWAT 特警的中景鏡頭。他將突擊步槍直接指向攝影機鏡頭（打破第四…
+<a id="all-prompts"></a>
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.8K-e0245e)
+## 📋 所有提示詞
+
+### 9. [場景一：威脅性正面鏡頭] 一名穿著全套戰術裝備、戴著防毒面具和頭盔的 SWAT 特警的中景鏡頭。他將突擊步槍直接指向攝影機鏡頭（打破第四…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="640" alt="[場景一：威脅性正面鏡頭] 一名穿著全套戰術裝備、戴著防毒面具和頭盔的 SWAT 特警的中景鏡頭。他將突擊步槍直接指向攝影機鏡頭（打破第四…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[場景一：威脅性正面鏡頭] 一名穿著全套戰術裝備、戴著防毒面具和頭盔的 SWAT 特警的中景鏡頭。他將突擊步槍直接指向攝影機鏡頭（打破第四…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -430,11 +459,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-<a id="all-prompts"></a>
-
-## 📋 所有提示詞
-
-### 9. 格式：15秒 / 自由節奏 / 1 次匹配剪輯 / 剪輯前保持連續移動 + 第一幀即刻動作 主體：一名身穿風化皮草與皮革、手持長劍的孤獨女…
+### 10. 格式：15秒 / 自由節奏 / 1 次匹配剪輯 / 剪輯前保持連續移動 + 第一幀即刻動作 主體：一名身穿風化皮草與皮革、手持長劍的孤獨女…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -469,7 +494,44 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 10. 快節奏的 FPV 無人機後方追蹤鏡頭，緊跟著一位留著白髮的 3D 動漫風格女孩，正以極高的速度在陡峭蜿蜒的山路上玩滑板。極致的前進動能、廣…
+### 11. POV：一個小小的善舉改變了一切 Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小兔子 接下來發生的事讓我的心都融化了 使…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV：一個小小的善舉改變了一切 Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小兔子 接下來發生的事讓我的心都融化了 使…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**📝 提示詞**
+
+```
+POV：一個小小的善舉改變了一切
+
+Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小兔子
+接下來發生的事讓我的心都融化了
+
+使用 GPT Image 2 + Seedance 製作了這部溫馨的皮克斯風格 3D 動畫短片
+
+非常感謝 @renoiseai canvas 幫助將這個溫暖的世界呈現出來
+
+你會分享你最後一個餃子嗎？
+
+提示詞在影片中
+私訊我獲取完整提示詞
+```
+
+**作者** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K 追蹤者
+
+❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+
+<sub>📅 May 29, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 12. 快節奏的 FPV 無人機後方追蹤鏡頭，緊跟著一位留著白髮的 3D 動漫風格女孩，正以極高的速度在陡峭蜿蜒的山路上玩滑板。極致的前進動能、廣…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -494,7 +556,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 11. 經典的90年代迪士尼動畫風格。 場景一：在埃及的一座宮殿裡，鏡頭切換到王座廳內部，我們看到：威嚴的胡狼神阿努比斯端坐在王座上，一群下屬（士…
+### 13. 經典的90年代迪士尼動畫風格。 場景一：在埃及的一座宮殿裡，鏡頭切換到王座廳內部，我們看到：威嚴的胡狼神阿努比斯端坐在王座上，一群下屬（士…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -533,7 +595,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 12. { "style": "風格化 3D 動畫，超現實波普風格，擠壓與拉伸效果", "mood": "節奏明快的鬧劇，充滿假動作與反轉", "…
+### 14. { "style": "風格化 3D 動畫，超現實波普風格，擠壓與拉伸效果", "mood": "節奏明快的鬧劇，充滿假動作與反轉", "…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -586,7 +648,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 13. 格式：電影感連續鏡頭 / 引導式攝影機運動 / 15秒 場景 黃昏時分，石造城市中擁擠的中世紀市場街道。狹窄的鵝卵石路、木製攤位、懸掛的旗…
+### 15. 格式：電影感連續鏡頭 / 引導式攝影機運動 / 15秒 場景 黃昏時分，石造城市中擁擠的中世紀市場街道。狹窄的鵝卵石路、木製攤位、懸掛的旗…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -652,7 +714,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 14. 火箭衝浪。 風格：寫實電影感 (Cine Verité)，35mm手持攝影，自然抖動。連續追蹤鏡頭。無剪輯。全即時。 燈光：明亮的高海拔陽…
+### 16. 火箭衝浪。 風格：寫實電影感 (Cine Verité)，35mm手持攝影，自然抖動。連續追蹤鏡頭。無剪輯。全即時。 燈光：明亮的高海拔陽…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -686,7 +748,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 15. 這是一個具有電影感且混亂的追蹤鏡頭，運用手持攝影機的晃動感，畫面中一位探險家手持古老的聖甲蟲文物。她正從一具巨大的木乃伊追擊中逃跑。畫面中…
+### 17. 這是一個具有電影感且混亂的追蹤鏡頭，運用手持攝影機的晃動感，畫面中一位探險家手持古老的聖甲蟲文物。她正從一具巨大的木乃伊追擊中逃跑。畫面中…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -711,7 +773,7 @@ LCD 螢幕上可見相機的 UI 疊加層，包括時間戳記「8. 1. 2012 3:15
 
 ---
 
-### 16. Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
+### 18. Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -736,7 +798,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ---
 
-### 17. 超廣角微距 FPV 貼身追蹤鏡頭，追逐一隻貓。 主體從未完整呈現，只有破碎的特寫鏡頭掠過鏡頭：耳尖、鬍鬚、爪子邊緣、背上的毛髮擦過攝影機。…
+### 19. 超廣角微距 FPV 貼身追蹤鏡頭，追逐一隻貓。 主體從未完整呈現，只有破碎的特寫鏡頭掠過鏡頭：耳尖、鬍鬚、爪子邊緣、背上的毛髮擦過攝影機。…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -779,7 +841,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ---
 
-### 18. 底片 / 鏡頭：數位 4K 遊戲引擎渲染，固定式格鬥遊戲側視鏡頭，35mm 鏡頭以實現深焦效果。 色彩分級：高對比度，鮮豔的「次世代」遊戲…
+### 20. 底片 / 鏡頭：數位 4K 遊戲引擎渲染，固定式格鬥遊戲側視鏡頭，35mm 鏡頭以實現深焦效果。 色彩分級：高對比度，鮮豔的「次世代」遊戲…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -828,7 +890,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ---
 
-### 19. 美學：原始 35mm 手持攝影，高海拔太陽霧霾。一個不間斷的連續追蹤鏡頭。無剪輯。全即時。音訊：持續的噴射引擎轟鳴聲、風聲，無其他聲音。…
+### 21. 美學：原始 35mm 手持攝影，高海拔太陽霧霾。一個不間斷的連續追蹤鏡頭。無剪輯。全即時。音訊：持續的噴射引擎轟鳴聲、風聲，無其他聲音。…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -861,7 +923,7 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 
 ---
 
-### 20. 主角： 一位美麗的韓國高中女生，穿著寫實的韓國夏季校服（하복）。自然的皮膚紋理，沒有美顏修飾。戰鬥中頭髮變得凌亂，表演富有情感。所有鏡頭中…
+### 22. 主角： 一位美麗的韓國高中女生，穿著寫實的韓國夏季校服（하복）。自然的皮膚紋理，沒有美顏修飾。戰鬥中頭髮變得凌亂，表演富有情感。所有鏡頭中…
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -911,6 +973,182 @@ Androgenic 在假髮被扯掉後密謀復仇。讓我的皮質醇飆升吧。
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
 
 <sub>📅 May 23, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 23. 現代中國3D動畫風格。 場景一：在一座大型埃及圖書館裡，我們看到威嚴的胡狼神阿努比斯雙手背在身後，神情漫不經心地審視著書架，姿態威嚴。這時…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="現代中國3D動畫風格。 場景一：在一座大型埃及圖書館裡，我們看到威嚴的胡狼神阿努比斯雙手背在身後，神情漫不經心地審視著書架，姿態威嚴。這時…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**📝 提示詞**
+
+```
+現代中國3D動畫風格。 場景一：在一座大型埃及圖書館裡，我們看到威嚴的胡狼神阿努比斯雙手背在身後，神情漫不經心地審視著書架，姿態威嚴。這時，他注意到一個年輕人正伸手去拿附近桌子上的一本關於儀式的書籍。阿努比斯見狀，迅速奪過書本，用一隻手臂高高舉過頭頂，露出腋窩，用他那溫和而堅定的語氣說道：這本書不適合像他這樣的人。 場景二：年輕人一臉失望，但隨即露出狡黠的笑容，問阿努比斯是否怕癢，同時伸手去撓阿努比斯舉起的手臂的腋窩，這讓阿努比斯有些摸不著頭腦。 場景3：特寫鏡頭，人類的手在阿努比斯的腋下上下滑動手指，不斷重複這個動作。背景中傳來阿努比斯壓抑的咯咯笑聲，表明他確實很怕癢。 場景4：特寫鏡頭，阿努比斯的上半身，人類的手繼續在阿努比斯的腋下上下滑動手指。阿努比斯閉著眼睛，咧嘴大笑，發出壓抑的咯咯笑聲。 場景5：人類繼續用手撓阿努比斯的腋窩，阿努比斯閉著眼睛咯咯笑著。阿努比斯的笑聲證實了他確實很怕癢，然後他又開始咯咯地笑，而人類則繼續撓他的腋窩。 場景6：阿努比斯繼續咯咯地笑著，最後把書扔到地上，用雙臂環抱住自己，捂住腋窩。人類停止了撓癢，拿起書。阿努比斯咯咯地笑著，似乎還沉浸在剛才的笑聲中，一邊笑一邊說他討厭被撓癢。人類笑著接過書。 阿努比斯肌肉發達，手臂和脖子上都戴著環。他的聲音低沉、磁性而富有磁性。阿努比斯的腋窩被撓癢了。
+```
+
+**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 追蹤者
+
+❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+
+<sub>📅 May 25, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 24. 一位年輕韓國女性自然地坐在棒球比賽現場的觀眾席中。她看起來冷靜且專注於比賽。周圍的球迷揮舞著加油棒，在熱鬧、真實的體育場環境中對比賽做出反…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="一位年輕韓國女性自然地坐在棒球比賽現場的觀眾席中。她看起來冷靜且專注於比賽。周圍的球迷揮舞著加油棒，在熱鬧、真實的體育場環境中對比賽做出反…"></a>
+</div>
+
+**📝 提示詞**
+
+```
+一位年輕韓國女性自然地坐在棒球比賽現場的觀眾席中。她看起來冷靜且專注於比賽。周圍的球迷揮舞著加油棒，在熱鬧、真實的體育場環境中對比賽做出反應。真實的 KBO 長焦廣播攝影風格，淺景深，細微的手持微震，自然的電視直播構圖，以及帶有真實廣播疊加層（記分牌、球隊標誌、贊助商圖形、壓縮偽影）的真實韓國體育場燈光。
+幾秒鐘後，她意識到粉絲鏡頭（fan cam）正對著她。她緩緩轉向鏡頭，露出害羞且略帶驚訝的微笑，輕輕將頭髮撩到耳後，然後尷尬地低頭片刻。附近的球迷注意到並自然地做出反應，微笑並輕聲笑著。
+真實的體育場氛圍，伴隨著巨大的觀眾噪音、加油棒聲、播音員回聲和評論員的存在。韓國評論員輕聲說：
+“와… 정말 아름다우시네요…”
+沒有電影感，沒有擺拍，沒有美顏濾鏡，沒有戲劇性燈光，沒有慢動作，沒有剪輯，純粹的偷拍感，未經編排的體育直播真實感。
+```
+
+**作者** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K 追蹤者
+
+❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+
+<sub>📅 May 12, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 25. 完整準備的電影級 AI 影片提示詞 (15秒) 高對比電影級燈光，筆記型電腦的冷青藍色光芒與溫暖的琥珀色實用燈光及光澤巧克力反射形成對比。…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="完整準備的電影級 AI 影片提示詞 (15秒) 高對比電影級燈光，筆記型電腦的冷青藍色光芒與溫暖的琥珀色實用燈光及光澤巧克力反射形成對比。…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**📝 提示詞**
+
+```
+完整準備的電影級 AI 影片提示詞 (15秒)
+高對比電影級燈光，筆記型電腦的冷青藍色光芒與溫暖的琥珀色實用燈光及光澤巧克力反射形成對比。頂級奢華商業美學。快速剪輯、甩鏡、荷蘭式傾斜、手持攝影能量、動態追蹤鏡頭、電影寫實主義、淺景深、富有表現力的特寫、情緒化的公寓氛圍、感性的美食攝影、光澤質感、細膩的電影顆粒感、變形鏡頭高光、真實皮膚紋理、情感寫實主義、現代廣告宣傳風格。無字幕。僅在特定情感時刻使用極簡旁白。自然音效設計，包含鍵盤敲擊聲、鋁箔紙揉皺聲、輕柔呼吸聲、滑鼠點擊聲、櫥櫃吱呀聲以及低沉的電影級低音脈衝。
+鏡頭逐一分解 (0:15)
+鏡頭 1 — 0:01 — 極致特寫
+一位年輕金髮女子的眼睛反射著滾動的文件和筆記型電腦的藍光，同時快速掃描密集的數據。冷青色光芒在她瓷器般的皮膚上閃爍。極淺景深，強烈的眼神反射，電影級微距鏡頭。
+旁白：
+「有些夜晚需要更多。」
+鏡頭 2 — 0:02 — 中遠景
+她盤腿坐在昏暗公寓裡凌亂的沙發上，瘋狂地打字。鐵鏽橘色的絲綢吊帶背心捕捉到了筆記型電腦的冷藍光，而溫暖的實用陰影環繞著房間。手持攝影機的移動增加了緊迫感。
+鏡頭 3 — 0:03 — 甩鏡
+快速甩鏡轉向廚房儲藏室。櫥櫃門戲劇性地打開，溫暖的琥珀色光芒灑在她的臉上，彷彿誘惑打斷了壓力。
+鏡頭 4 — 0:04 — 巧克力特寫
+她咬下一塊黑巧克力，發出清脆的斷裂聲。她的眼睛短暫地閉上以示放鬆。金箔紙在她手中輕柔地揉皺。豐富的光澤巧克力質感，電影級美食攝影。
+鏡頭 5 — 0:05 — 中景，荷蘭式傾斜
+回到工作區。她一隻手瘋狂打字，同時嘴唇間平衡著一顆松露巧克力。輕微的荷蘭式傾斜角度加劇了日益混亂的氛圍。
+鏡頭 6 — 0:06 — 肩後鏡頭
+筆記型電腦螢幕顯示複雜的圖表和數據視覺化。沾滿可可粉的手指猛擊 Enter 鍵，在觸控板上留下淡淡的巧克力污漬。冷色調的螢幕光芒主導了畫面。
+鏡頭 7 — 0:07 — 情感特寫
+挫折感達到頂峰。她雙手穿過凌亂的金髮，沉重地呼出一口氣。細緻的可可粉沾在指尖上。溫暖與冷冽的燈光在她的臉上戲劇性地碰撞。
+旁白：
+「當壓力來襲時……」
+鏡頭 8 — 0:08 — 快速剪輯
+再次站在儲藏室旁，她用右手挖向一個裝滿奢華手工巧克力的陶瓷碗。溫暖的金色光芒在她周圍綻放。
+鏡頭 9 — 0:09 — 中特寫
+坐在桌前，她直接從巧克力碗中拿取食用，同時茫然地盯著發光的螢幕。截止日期的疲憊與舒適和放縱交織在一起。
+鏡頭 10 — 0:10 — 低角度
+攝影機從鍵盤高度拍攝，她的手指以機械般的精準度打字。她的臉龐在青色與琥珀色的混合光影中發光，極度專注。
+鏡頭 11 — 0:11 — 微距特寫
+她用顫抖的手指拆開另一塊黑巧克力，同時緊盯著發光的螢幕。金箔紙捕捉到溫暖的琥珀色光芒，在她的臉上散發出閃爍的反射。鋁箔紙的揉皺聲在寂靜中尖銳地響起，隨後她咬下了下一口。
+鏡頭 12 — 0:12 — 動態軌道鏡頭
+攝影機圍繞著她旋轉，她咬下一根雕塑般的巧克力蘸醬椒鹽捲餅，同時沒有中斷對螢幕的專注。電影級追蹤運動，光澤高光，戲劇性的景深。
+鏡頭 13 — 0:13 — 勝利特寫
+她的下唇留下一抹淡淡的巧克力污漬。她微微一笑並點擊滑鼠。藍色的螢幕光芒在她的眼中反射出勝利的光彩。
+鏡頭 14 — 0:14 — 中景
+她以堅定果斷的動作合上筆記型電腦，向後癱倒在沙發上，釋放出巨大的疲憊氣息。
+鏡頭 15 — 0:15 — 最終遠景
+她深深地陷入沙發中，精疲力竭但感到滿足。她周圍：散落的金箔包裝紙、空的陶瓷碗、合上的筆記型電腦、溫暖的公寓環境燈光，風暴過後的寧靜。
+旁白：
+「……放縱接管了一切。」
+電影關鍵字
+奢華商業廣告，電影寫實主義，情緒化公寓，美食攝影，淺景深，手持攝影能量，頂級生活風格美學，溫暖實用燈光，冷色螢幕光，光澤巧克力質感，富有表現力的臉部特寫，快節奏剪輯，情感寫實主義，現代廣告，電影張力，放縱氛圍，優雅的混亂，戲劇性燈光，高端商業電影製作。
+```
+
+**作者** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K 追蹤者
+
+❤️ 565 · 🔁 90 · 🔖 83 · 👁 33.3K
+
+<sub>📅 May 30, 2026</sub>
+
+**[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. 建立一個高端編輯角色資料排版，分為兩個部分。 左側部分 → 大號粗體排版 "THOMAS REID"，使用厚重的黑色大寫字體 → 副標題：…
+
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="建立一個高端編輯角色資料排版，分為兩個部分。 左側部分 → 大號粗體排版 &quot;THOMAS REID&quot;，使用厚重的黑色大寫字體 → 副標題：…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**🖼️ 圖像提示詞**
+
+```
+建立一個高端編輯角色資料排版，分為兩個部分。
+左側部分
+→ 大號粗體排版 "THOMAS REID"，使用厚重的黑色大寫字體
+→ 副標題："THE OCEAN NEVER WINS"
+→ 一位27歲極其英俊的運動型男子的全身寫實照片，看起來像一位專業的深海漁民
+→ 強硬銳利的五官，深邃冷靜的眼睛，修剪整齊的短鬍鬚，寬闊的運動型肩膀，自然曬黑的粗獷皮膚
+→ 穿著厚實乾淨的黃色防水吊帶褲，厚橡膠靴，肩上盤繞著繩索
+→ 在乾淨的白色背景上保持完全靜止、強大且自信的姿態
+→ 燈光：柔和寒冷的自然光，如同真實的紀錄片拍攝
+→ 下方小字："BUILT BY WAVES. BORN TO ENDURE."
+
+右側部分
+→ 個性：在任何風暴中都不可動搖 / 零浪費動作 / 每次航行都有代價 / 大海不尊重任何人
+→ 細節：年齡 27 / 國籍 挪威 / 姿態 前握 / 風格 深海耐力 / 狀態 冉冉升起的傳奇
+→ 關鍵特質：鋼鐵般的耐心 / 原始力量 / 爆發性的生存本能 / 永恆的航海技術
+→ 聚焦細節 — 4個小型寫實特寫框：
+框 1：被繩索磨損的強壯雙手
+框 2：生鏽的舊指南針細節
+框 3：乾淨的黃色防水夾克紋理
+框 4：厚橡膠靴細節
+整體風格：乾淨簡約的雜誌編輯設計 / 真實攝影美學 / 冷色調海洋灰青色米白色 / 厚重的黑色排版 / 高端紀錄片出版品質
+```
+
+**🎬 影片提示詞**
+
+```
+電影級海洋紀錄片。主題：一位27歲極其英俊的運動型深海漁民。強硬銳利的五官，深邃冷靜的眼睛，修剪整齊的短鬍鬚，寬闊的運動型肩膀，自然曬黑的粗獷皮膚。穿著厚實的黃色防水吊帶褲，厚橡膠靴，肩上盤繞著繩索。生鏽的舊漁船。
+→ 鏡頭 1 — 極低甲板視角的追蹤鏡頭。他已經在船甲板上全速衝向一張纏在一起的網。在猛力將網拉過船舷後，他在濕滑的甲板上勉強站穩，隨即立即再次向前衝去。
+→ 鏡頭 2 — 快速搖鏡頭過渡到延長的拉繩序列。持續的繩索摩擦和海浪噴濺在畫面中爆發，攝影機難以跟上他壓倒性的力量和速度。
+→ 鏡頭 3 — 穿過整個船甲板的廣角移動鏡頭。多個快速任務幾乎沒有準備時間地連續發生。攝影師在搖晃的船上幾乎失去平衡以跟上動作。
+→ 鏡頭 4 — 壓縮的長焦鏡頭，捕捉到巨浪在慢動作中拍打船頭的畫面。極端的身體控制力對抗外力，在幾乎被沖走前在最後一秒奇蹟般地恢復平衡。
+→ 鏡頭 5 — 圍繞濕滑甲板上平衡序列的超低環形追蹤鏡頭。在搖晃的海洋中不斷調整以保持穩定性，但他冷靜地在運動中調整繩索的抓握，沒有減慢速度。
+→ 鏡頭 6 — 最終鏡頭。巨浪拍打船體，將他完全包圍。噴霧、泡沫和運動軌跡在甲板上爆發。他滑入一個穩固的寬姿態，緩慢挺直身體，在嚴酷的海洋光線下鎖定一個完全靜止的最終姿態。聲音瞬間切斷。攝影機定格在他完全冷靜且無畏的臉上。淡出。
+風格：超寫實《國家地理》海洋紀錄片與高端體育廣告能量的結合。冷色調去飽和。沉重的海洋氛圍。真實的人類力量與存在感。
+```
+
+**作者** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K 追蹤者
+
+❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+
+<sub>📅 May 26, 2026</sub>
 
 **[▶️ 在 gptproto.com 觀看並重新創作 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 

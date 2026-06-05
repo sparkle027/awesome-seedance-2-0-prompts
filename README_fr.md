@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-26_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -122,7 +122,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts sélectionnés | 📚 Total prompts | 🎬 Modèle | 🔄 Dernière mise à jour |
 |:---:|:---:|:---:|:---:|
-| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
@@ -134,7 +134,32 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > Les clips Seedance 2.0 les plus appréciés, par engagement.
 
-### 1. Une journée de travail moyenne chez Waffle House : assure-toi que ce…
+### 1. Résumez le débat sur l'IA dans un mème - assurez-vous qu'il soit absu…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Résumez le débat sur l'IA dans un mème - assurez-vous qu'il soit absu…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Résumez le débat sur l'IA dans un mème - assurez-vous qu'il soit absurde et obtienne 50 likes.
+```
+
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K abonnés
+
+❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+
+<sub>📅 Feb 14, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 2. Une journée de travail moyenne chez Waffle House : assure-toi que ce…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
 
@@ -159,7 +184,7 @@ Une journée de travail moyenne chez Waffle House : assure-toi que ce soit absur
 
 ---
 
-### 2. Punch the Monkey rend les coups. Rends les filles fières.
+### 3. Punch the Monkey rend les coups. Rends les filles fières.
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -184,19 +209,19 @@ Punch the Monkey rend les coups. Rends les filles fières.
 
 ---
 
-### 3. L'IA devient woke. Rendez cela vraiment offensant - vraiment très off…
+### 4. L'IA devient « woke ». Rendez cela vraiment offensant - vraiment très…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="L'IA devient woke. Rendez cela vraiment offensant - vraiment très off…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="L'IA devient « woke ». Rendez cela vraiment offensant - vraiment très…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-L'IA devient woke. Rendez cela vraiment offensant - vraiment très offensant.
+L'IA devient « woke ». Rendez cela vraiment offensant - vraiment très offensant.
 ```
 
 **Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K abonnés
@@ -209,7 +234,7 @@ L'IA devient woke. Rendez cela vraiment offensant - vraiment très offensant.
 
 ---
 
-### 4. Prompt : Un gros plan réaliste de l'écran d'un petit appareil photo n…
+### 5. Prompt : Un gros plan réaliste de l'écran d'un petit appareil photo n…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -244,7 +269,7 @@ Prise de vue réalisée pour ressembler à un authentique appareil photo compact
 
 ---
 
-### 5. Esthétique de film 35mm brut et granuleux, filmé à la main avec un gr…
+### 6. Esthétique de film 35mm brut et granuleux, filmé à la main avec un gr…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -285,7 +310,7 @@ Photoréaliste 8K, textures ultra-détaillées, éclairage cinématographique, f
 
 ---
 
-### 6. SUJETS : Sujet 1 : Chef cuisinier Kung Fu svelte avec des cheveux cou…
+### 7. SUJETS : Sujet 1 : Chef cuisinier Kung Fu svelte avec des cheveux cou…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -330,7 +355,7 @@ CHRONOLOGIE :
 
 ---
 
-### 7. FORMAT : 15s / 145 BPM / 15 PLANS / routine synchronisée sur le rythme
+### 8. FORMAT : 15s / 145 BPM / 15 PLANS / routine synchronisée sur le rythme
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.7K-e0245e)
 
@@ -401,12 +426,16 @@ SHOT 15: WS, 50mm pull-out / Coupe en L avec un raccord de la fermeture de l'ord
 
 ---
 
-### 8. [Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…
+<a id="all-prompts"></a>
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.8K-e0245e)
+## 📋 Tous les prompts
+
+### 9. [Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="640" alt="[Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Scène 1 : Plan frontal menaçant] Plan moyen d'un officier du SWAT en…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
@@ -432,11 +461,7 @@ Style technique : Action à haute vitesse d'obturation, flashs de bouche réalis
 
 ---
 
-<a id="all-prompts"></a>
-
-## 📋 Tous les prompts
-
-### 9. FORMAT : 15s / rythme libre / 1 RACCORD DANS L'AXE / MOUVEMENT CONTIN…
+### 10. FORMAT : 15s / rythme libre / 1 RACCORD DANS L'AXE / MOUVEMENT CONTIN…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -471,7 +496,44 @@ CHRONOLOGIE :
 
 ---
 
-### 10. Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de pr…
+### 11. POV : Un tout petit acte de gentillesse a TOUT changé Gugugaga n'avai…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV : Un tout petit acte de gentillesse a TOUT changé Gugugaga n'avai…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+POV : Un tout petit acte de gentillesse a TOUT changé
+
+Gugugaga n'avait qu'une seule boulette… mais elle l'a quand même partagée avec un petit lapin affamé sous la pluie
+Ce qui s'est passé ensuite m'a fait fondre le cœur
+
+J'ai créé ce court-métrage d'animation 3D au style Pixar douillet en utilisant GPT Image 2 + Seedance
+
+Un immense merci à @renoiseai canvas pour avoir aidé à donner vie à ce monde bienveillant
+
+Partageriez-vous votre dernière boulette ?
+
+Le prompt est dans la vidéo
+Envoyez un DM pour le prompt complet
+```
+
+**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K abonnés
+
+❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+
+<sub>📅 May 29, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 12. Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de pr…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -496,7 +558,7 @@ Plan de suivi dynamique par drone FPV depuis l'arrière, suivant de près une fi
 
 ---
 
-### 11. Style d'animation Disney classique des années 90. Scène 1 : Dans un p…
+### 13. Style d'animation Disney classique des années 90. Scène 1 : Dans un p…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -535,7 +597,7 @@ Anubis est musclé et porte des anneaux et des boucles d'oreilles aux bras, au c
 
 ---
 
-### 12. { "style": "animation 3D stylisée, pop hyperréaliste, squash-and-stre…
+### 14. { "style": "animation 3D stylisée, pop hyperréaliste, squash-and-stre…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -588,7 +650,7 @@ Anubis est musclé et porte des anneaux et des boucles d'oreilles aux bras, au c
 
 ---
 
-### 13. FORMAT : plan-séquence cinématographique / mouvement de caméra motivé…
+### 15. FORMAT : plan-séquence cinématographique / mouvement de caméra motivé…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -654,7 +716,7 @@ photoréaliste, éclairage cinématographique, mouvement de caméra ancré, rich
 
 ---
 
-### 14. SURF SUR FUSÉE. STYLE : Cinéma vérité brut, 35mm caméra à l'épaule, t…
+### 16. SURF SUR FUSÉE. STYLE : Cinéma vérité brut, 35mm caméra à l'épaule, t…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -688,7 +750,7 @@ QUALITÉ : 8K photoréaliste, physique correcte, flou de mouvement des tissus, a
 
 ---
 
-### 15. Un plan de suivi cinématographique et chaotique avec un mouvement de…
+### 17. Un plan de suivi cinématographique et chaotique avec un mouvement de…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -713,7 +775,7 @@ Un plan de suivi cinématographique et chaotique avec un mouvement de caméra à
 
 ---
 
-### 16. Androgenic prépare sa vengeance après s'être fait arracher sa perruqu…
+### 18. Androgenic prépare sa vengeance après s'être fait arracher sa perruqu…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -738,7 +800,7 @@ Androgenic prépare sa vengeance après s'être fait arracher sa perruque. Fais 
 
 ---
 
-### 17. Prise de vue en suivi FPV macro ultra grand-angle au plus près du cor…
+### 19. Prise de vue en suivi FPV macro ultra grand-angle au plus près du cor…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -781,7 +843,7 @@ La conception sonore suggère un vent violent et sifflant, des éclaboussures d'
 
 ---
 
-### 18. Pellicule / Objectif : Rendu moteur de jeu 4K numérique, caméra de je…
+### 20. Pellicule / Objectif : Rendu moteur de jeu 4K numérique, caméra de je…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -830,7 +892,7 @@ AMÉLIORATEURS DE STYLE ET DE QUALITÉ
 
 ---
 
-### 19. Esthétique : Caméra portée 35mm brute, brume solaire en haute altitud…
+### 21. Esthétique : Caméra portée 35mm brute, brume solaire en haute altitud…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -863,7 +925,7 @@ Qualité : 8K photoréaliste, flou de mouvement du tissu correct, physique natur
 
 ---
 
-### 20. Personnage principal : Une belle lycéenne coréenne portant un uniform…
+### 22. Personnage principal : Une belle lycéenne coréenne portant un uniform…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -913,6 +975,182 @@ Cinéma d'action coréen, cinématographie ultra-réaliste, action cinématograp
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
 
 <sub>📅 May 23, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 23. Style d'animation 3D chinoise moderne. Scène 1 : Dans une grande bibl…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Style d'animation 3D chinoise moderne. Scène 1 : Dans une grande bibl…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Style d'animation 3D chinoise moderne. Scène 1 : Dans une grande bibliothèque égyptienne, nous voyons le majestueux dieu chacal Anubis, les mains derrière le dos, examinant les étagères avec désinvolture, dans une posture imposante. À ce moment, il remarque un jeune homme tendant la main pour prendre un livre sur les rituels posé sur une table voisine. Voyant cela, Anubis saisit rapidement le livre, le lève haut au-dessus de sa tête avec un bras, exposant son aisselle, et dit d'un ton doux mais ferme : Ce livre n'est pas fait pour quelqu'un comme lui. Scène 2 : Le jeune homme a l'air déçu, mais affiche soudain un sourire malicieux, demande à Anubis s'il est chatouilleux, tout en tendant la main pour chatouiller l'aisselle du bras levé d'Anubis, ce qui laisse ce dernier un peu perplexe. Scène 3 : Gros plan, la main humaine fait glisser ses doigts de haut en bas sous l'aisselle d'Anubis, répétant ce mouvement. En arrière-plan, on entend le rire étouffé d'Anubis, confirmant qu'il est effectivement très chatouilleux. Scène 4 : Gros plan, le haut du corps d'Anubis, la main humaine continue de faire glisser ses doigts de haut en bas sous l'aisselle d'Anubis. Anubis ferme les yeux, sourit largement et émet des rires étouffés. Scène 5 : L'humain continue de chatouiller l'aisselle d'Anubis avec sa main, Anubis rit aux éclats les yeux fermés. Le rire d'Anubis confirme qu'il est bien chatouilleux, puis il recommence à rire tandis que l'humain continue de lui chatouiller l'aisselle. Scène 6 : Anubis continue de rire, finit par jeter le livre au sol, s'enlace avec ses deux bras et se couvre les aisselles. L'humain arrête de chatouiller et ramasse le livre. Anubis rit encore, semblant toujours plongé dans son rire, et dit en riant qu'il déteste être chatouillé. L'humain prend le livre en riant. Anubis est musclé, portant des anneaux sur les bras et le cou. Sa voix est grave, magnétique et envoûtante. L'aisselle d'Anubis est chatouillée.
+```
+
+**Par** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K abonnés
+
+❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+
+<sub>📅 May 25, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 24. Une jeune femme coréenne est assise naturellement dans le public lors…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Une jeune femme coréenne est assise naturellement dans le public lors…"></a>
+</div>
+
+**📝 Prompt**
+
+```
+Une jeune femme coréenne est assise naturellement dans le public lors d'un match de baseball en direct. Elle semble calme et concentrée sur le match. Les fans autour d'elle agitent des bâtons de supporter et réagissent au match dans une ambiance de stade authentique et animée. Style caméra de diffusion téléobjectif KBO réel, faible profondeur de champ, léger micro-tremblement à la main, cadrage TV en direct naturel, et éclairage de stade coréen authentique avec de vraies superpositions de diffusion (tableau de score, logos d'équipe, graphiques de sponsors, artefacts de compression).
+Après quelques secondes, elle réalise que la fan cam est braquée sur elle. Elle se tourne lentement vers la caméra avec un sourire timide et légèrement surpris, remet doucement ses cheveux derrière son oreille, puis baisse brièvement les yeux avec embarras. Les fans à proximité remarquent la scène et réagissent naturellement, souriant et riant doucement.
+Ambiance de stade authentique avec un bruit de foule fort, des bâtons de supporter, l'écho de l'annonceur et la présence du commentateur. Le commentateur coréen dit doucement :
+“와… 정말 아름다우시네요…”
+Pas de look cinématographique, pas de pose, pas de filtres de beauté, pas d'éclairage dramatique, pas de ralenti, pas de coupes, pur réalisme de diffusion sportive en direct, spontané et non scénarisé.
+```
+
+**Par** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K abonnés
+
+❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+
+<sub>📅 May 12, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 25. Prompt vidéo IA cinématographique complet (15s) Éclairage cinématogra…
+
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Prompt vidéo IA cinématographique complet (15s) Éclairage cinématogra…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Prompt vidéo IA cinématographique complet (15s)
+Éclairage cinématographique à fort contraste avec la lueur bleu cyan d'un ordinateur portable contrastant avec un éclairage d'ambiance ambré chaleureux et des reflets de chocolat brillant. Esthétique publicitaire de luxe. Coupes rapides, panoramiques fouettés, plans hollandais, énergie caméra à l'épaule, travellings dynamiques, réalisme cinématographique, faible profondeur de champ, gros plans expressifs, atmosphère d'appartement feutrée, cinématographie culinaire sensuelle, textures brillantes, grain cinématographique subtil, reflets anamorphiques, texture de peau réaliste, réalisme émotionnel, look de campagne publicitaire moderne. Pas de sous-titres. Voix off minimale uniquement lors de moments émotionnels sélectionnés. Conception sonore naturelle avec cliquetis de clavier, froissements de papier aluminium, respiration douce, clics de souris, grincements de placard et basses cinématographiques sourdes.
+Découpage plan par plan (0:15)
+Plan 1 — 0:01 — Très gros plan
+Les yeux d'une jeune femme blonde reflètent des documents qui défilent et la lumière bleue de l'ordinateur portable alors qu'elle scanne rapidement des données denses. Une lueur cyan froide vacille sur sa peau de porcelaine. Profondeur de champ ultra-faible, reflets intenses dans les yeux, objectif macro cinématographique.
+Voix off :
+« Certaines nuits exigent plus. »
+Plan 2 — 0:02 — Plan moyen large
+Elle est assise en tailleur sur un canapé froissé dans un appartement sombre, tapant frénétiquement. Un caraco en soie orange rouille capte la lumière bleue froide de l'ordinateur portable tandis que des ombres chaudes entourent la pièce. Le mouvement de caméra à l'épaule ajoute de l'urgence.
+Plan 3 — 0:03 — Panoramique fouetté
+Panoramique fouetté rapide vers le garde-manger de la cuisine. Les portes des placards s'ouvrent de façon spectaculaire, déversant une lumière ambrée chaude sur son visage comme une tentation interrompant le stress.
+Plan 4 — 0:04 — Gros plan sur le chocolat
+Elle croque dans une tablette de chocolat noir avec un craquement net. Ses yeux se ferment brièvement par soulagement. Le papier aluminium doré se froisse doucement dans sa main. Texture de chocolat riche et brillante, photographie culinaire cinématographique.
+Plan 5 — 0:05 — Plan moyen, plan hollandais
+De retour à l'espace de travail. Elle tape agressivement d'une main tout en équilibrant une truffe au chocolat entre ses lèvres. Un léger angle hollandais intensifie le chaos grandissant.
+Plan 6 — 0:06 — Plan par-dessus l'épaule
+L'écran de l'ordinateur affiche des graphiques complexes et des visualisations de données. Ses doigts saupoudrés de cacao frappent la touche Entrée, laissant de légères traces de chocolat sur le pavé tactile. La lueur froide de l'écran domine le cadre.
+Plan 7 — 0:07 — Gros plan émotionnel
+La frustration atteint son paroxysme. Elle passe ses deux mains dans ses cheveux blonds en désordre et expire bruyamment. Une fine poudre de cacao s'accroche au bout de ses doigts. Les éclairages chauds et froids entrent en collision de manière spectaculaire sur son visage.
+Voix off :
+« Quand la pression monte… »
+Plan 8 — 0:08 — Coupe rapide
+Debout devant le garde-manger à nouveau, elle utilise sa main droite pour plonger dans un bol en céramique débordant de chocolats artisanaux luxueux. Une lumière dorée chaude rayonne autour d'elle.
+Plan 9 — 0:09 — Plan moyen rapproché
+Assise au bureau, elle mange directement dans le bol de chocolat tout en fixant le moniteur lumineux. Épuisement lié à la date limite mélangé au confort et à l'indulgence.
+Plan 10 — 0:10 — Contre-plongée
+Caméra au niveau du clavier alors que ses doigts tapent avec une précision mécanique. Son visage brille de tons cyan et ambrés mélangés, intensément concentré.
+Plan 11 — 0:11 — Très gros plan macro
+Elle déballe un autre morceau de chocolat noir avec des doigts tremblants tout en fixant intensément l'écran lumineux. Le papier aluminium doré capte la lumière ambrée chaude, dispersant des reflets scintillants sur son visage. Le bruit du papier aluminium qui se froisse coupe brusquement le silence avant qu'elle ne prenne une autre bouchée.
+Plan 12 — 0:12 — Plan en orbite dynamique
+La caméra tourne autour d'elle alors qu'elle croque dans un bâtonnet de bretzel sculpté trempé dans le chocolat sans perdre sa concentration sur le moniteur. Mouvement de travelling cinématographique, reflets brillants, profondeur de champ dramatique.
+Plan 13 — 0:13 — Gros plan de victoire
+Une subtile trace de chocolat repose sur sa lèvre inférieure. Elle sourit légèrement et clique sur la souris. La lumière bleue du moniteur reflète le triomphe dans ses yeux.
+Plan 14 — 0:14 — Plan moyen
+Elle ferme l'ordinateur portable d'un geste ferme et décisif et s'effondre en arrière sur le canapé, libérant un souffle massif d'épuisement.
+Plan 15 — 0:15 — Plan large final
+Elle s'enfonce profondément dans le canapé, épuisée mais satisfaite. Autour d'elle : emballages dorés éparpillés, bol en céramique vide, ordinateur portable fermé, éclairage d'ambiance chaleureux, silence paisible après la tempête.
+Voix off :
+« …l'indulgence prend le dessus. »
+Mots-clés cinématographiques
+Publicité de luxe, réalisme cinématographique, appartement feutré, cinématographie culinaire, faible profondeur de champ, énergie caméra à l'épaule, esthétique lifestyle premium, éclairage d'ambiance chaleureux, lueur d'écran froide, textures de chocolat brillantes, gros plans expressifs, montage rapide, réalisme émotionnel, publicité moderne, tension cinématographique, atmosphère indulgente, chaos élégant, éclairage dramatique, réalisation publicitaire haut de gamme.
+```
+
+**Par** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K abonnés
+
+❤️ 565 · 🔁 90 · 🔖 83 · 👁 33.3K
+
+<sub>📅 May 30, 2026</sub>
+
+**[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. Créez une mise en page de profil de personnage éditorial haut de gamm…
+
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Créez une mise en page de profil de personnage éditorial haut de gamm…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
+</div>
+
+**🖼️ Prompt d'image**
+
+```
+Créez une mise en page de profil de personnage éditorial haut de gamme divisée en deux sections.
+SECTION GAUCHE
+→ Grande typographie en gras "THOMAS REID" dans une police noire épaisse en majuscules
+→ Sous-titre : "THE OCEAN NEVER WINS"
+→ Image photoréaliste en pied d'un homme athlétique extrêmement beau de 27 ans, ressemblant à un pêcheur professionnel en haute mer
+→ Traits forts et nets, yeux calmes et perçants, barbe courte et soignée, larges épaules athlétiques, peau tannée naturellement et rugueuse
+→ Portant une salopette imperméable jaune propre et épaisse, des bottes en caoutchouc épaisses, une corde enroulée sur une épaule
+→ Position puissante et confiante, complètement immobile sur un fond blanc propre
+→ Éclairage : Lumière naturelle douce et froide comme une vraie séance photo documentaire
+→ Petit texte en dessous : "BUILT BY WAVES. BORN TO ENDURE."
+
+SECTION DROITE
+→ PERSONNALITÉ : Inébranlable dans n'importe quelle tempête / Aucun mouvement inutile / Chaque voyage a un coût / La mer ne respecte personne
+→ DÉTAILS : Âge 27 / Nationalité Norvège / Position Prise avant / Style Endurance en haute mer / Statut Légende montante
+→ TRAITS CLÉS : Patience de fer / Force brute / Instinct de survie explosif / Matelotage intemporel
+→ DÉTAILS EN FOCUS — 4 petites boîtes de gros plan photoréalistes :
+Boîte 1 : Mains fortes marquées par la corde
+Boîte 2 : Détail d'une vieille boussole rouillée
+Boîte 3 : Texture de la veste imperméable jaune propre
+Boîte 4 : Détail d'une botte en caoutchouc épaisse
+Style global : Design éditorial de magazine minimaliste et propre / Esthétique de photographie réelle / Tons d'océan froids gris sarcelle blanc cassé / Typographie noire épaisse / Qualité de publication documentaire premium
+```
+
+**🎬 Prompt de vidéo**
+
+```
+Film documentaire cinématographique sur l'océan. Sujet : Un pêcheur en haute mer athlétique et extrêmement beau de 27 ans. Traits forts et nets, yeux calmes et perçants, barbe courte et soignée, larges épaules athlétiques, peau tannée naturellement et rugueuse. Portant une salopette imperméable jaune épaisse, des bottes en caoutchouc épaisses, une corde enroulée sur une épaule. Vieux navire de pêche rouillé.
+→ PLAN 1 — Plan de suivi extrêmement bas au niveau du pont. Il se déplace déjà à pleine vitesse sur le pont du navire vers un filet emmêlé. Après avoir violemment tiré le filet par-dessus bord, il rattrape à peine son équilibre sur le pont mouillé avant de pousser immédiatement vers l'avant.
+→ PLAN 2 — Transition par panoramique fouetté vers une séquence prolongée de traction de corde. La friction continue de la corde et les embruns explosent à travers le cadre tandis que la caméra peine à suivre sa force et sa vitesse écrasantes.
+→ PLAN 3 — Plan large en mouvement sur tout le pont du navire. Plusieurs tâches rapides s'enchaînent sans presque aucun temps de préparation. Le caméraman perd presque l'équilibre sur le bateau qui tangue pour suivre l'action.
+→ PLAN 4 — Plan compressé au téléobjectif capturant une vague massive s'écrasant sur la proue au ralenti. Contrôle corporel extrême pour maintenir sa position contre la force, presque emporté avant de se rétablir miraculeusement à la dernière seconde.
+→ PLAN 5 — Plan de suivi circulaire ultra-bas autour d'une séquence d'équilibre prolongée sur le pont glissant. L'ajustement constant contre l'océan qui tangue pousse la stabilité à la limite, pourtant il ajuste calmement sa prise sur la corde en plein mouvement sans ralentir.
+→ PLAN 6 — Plan final. Une vague massive s'écrase sur la coque, l'entourant complètement. Les embruns, l'écume et les traînées de mouvement explosent sur le pont. Il glisse dans une position ferme et large, se redresse lentement et se verrouille dans une pose finale complètement immobile sous une lumière océanique crue. Le son se coupe instantanément. La caméra se fige sur son visage complètement calme et sans peur. Fondu.
+Style : Documentaire océanique National Geographic ultra-réaliste combiné à l'énergie d'une publicité sportive haut de gamme. Tons froids désaturés. Atmosphère océanique lourde. Force et présence humaine réelles.
+```
+
+**Par** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K abonnés
+
+❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+
+<sub>📅 May 26, 2026</sub>
 
 **[▶️ Regarder & remixer sur gptproto.com →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 

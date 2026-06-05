@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-20_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-26_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -122,7 +122,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **20** | **20** | **Seedance 2.0** | **Jun 5, 2026** |
+| **26** | **26** | **Seedance 2.0** | **Jun 5, 2026** |
 
 </div>
 
@@ -134,7 +134,32 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > Etkileşime göre en çok sevilen Seedance 2.0 klipleri.
 
-### 1. Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni a…
+### 1. Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğe…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğe…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**📝 İstem**
+
+```
+Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni aldığından emin ol.
+```
+
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
+
+❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+
+<sub>📅 Feb 14, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 2. Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni a…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
 
@@ -159,7 +184,7 @@ Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığı
 
 ---
 
-### 2. Punch the Monkey karşılık veriyor. Kızları gururlandır.
+### 3. Punch the Monkey karşılık veriyor. Kızları gururlandır.
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -184,19 +209,19 @@ Punch the Monkey karşılık veriyor. Kızları gururlandır.
 
 ---
 
-### 3. Yapay zeka aşırı duyarlı hale geliyor. Bunu gerçekten saldırgan yapın…
+### 4. Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Yapay zeka aşırı duyarlı hale geliyor. Bunu gerçekten saldırgan yapın…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Yapay zeka aşırı duyarlı hale geliyor. Bunu gerçekten saldırgan yapın - hem de çok saldırgan.
+Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok saldırgan.
 ```
 
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
@@ -209,7 +234,7 @@ Yapay zeka aşırı duyarlı hale geliyor. Bunu gerçekten saldırgan yapın - h
 
 ---
 
-### 4. İstem: Karanlık bir iç mekanda parlak bir şekilde parlayan küçük bir…
+### 5. İstem: Karanlık bir iç mekanda parlak bir şekilde parlayan küçük bir…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -244,7 +269,7 @@ Görüntü, görünür ekran piksel yapısını, hafif parlama yansımalarını,
 
 ---
 
-### 5. Doğal film grenli, ham ve sert 35mm el kamerası estetiği. Keskin, doğ…
+### 6. Doğal film grenli, ham ve sert 35mm el kamerası estetiği. Keskin, doğ…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -285,7 +310,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 
 ---
 
-### 6. ÖZNELER: Özne 1: Kısa, keskin kesimli saçlı ve belirgin çene hattına…
+### 7. ÖZNELER: Özne 1: Kısa, keskin kesimli saçlı ve belirgin çene hattına…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-3.1K-e0245e)
 
@@ -330,7 +355,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 7. FORMAT: 15s / 145 BPM / 15 ÇEKİM / ritimle senkronize rutin
+### 8. FORMAT: 15s / 145 BPM / 15 ÇEKİM / ritimle senkronize rutin
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.7K-e0245e)
 
@@ -401,12 +426,16 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 
 ---
 
-### 8. [Sahne 1: Tehditkar Ön Çekim] Tam taktik teçhizatlı, gaz maskeli ve k…
+<a id="all-prompts"></a>
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-1.8K-e0245e)
+## 📋 Tüm İstemler
+
+### 9. [Sahne 1: Tehditkar Ön Çekim] Tam taktik teçhizatlı, gaz maskeli ve k…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="640" alt="[Sahne 1: Tehditkar Ön Çekim] Tam taktik teçhizatlı, gaz maskeli ve k…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Sahne 1: Tehditkar Ön Çekim] Tam taktik teçhizatlı, gaz maskeli ve k…"></a>
 <br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -430,11 +459,7 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 
 ---
 
-<a id="all-prompts"></a>
-
-## 📋 Tüm İstemler
-
-### 9. FORMAT: 15sn / serbest ritim / 1 EŞLEŞTİRMELİ KESME / KESMEYE KADAR K…
+### 10. FORMAT: 15sn / serbest ritim / 1 EŞLEŞTİRMELİ KESME / KESMEYE KADAR K…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -469,7 +494,44 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 10. Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı,…
+### 11. POV: Tek bir küçük iyilik HER ŞEYİ değiştirdi Gugugaga'nın sadece bir…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Tek bir küçük iyilik HER ŞEYİ değiştirdi Gugugaga'nın sadece bir…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**📝 İstem**
+
+```
+POV: Tek bir küçük iyilik HER ŞEYİ değiştirdi
+
+Gugugaga'nın sadece bir mantısı vardı… ama yine de onu yağmurda aç kalan küçük bir tavşanla paylaştı
+Sonrasında olanlar kalbimi eritti
+
+GPT Image 2 + Seedance kullanarak bu huzurlu, Pixar tarzı 3D animasyon kısa filmini oluşturdum
+
+Bu iç ısıtan dünyayı hayata geçirmeme yardımcı olan @renoiseai canvas'a kocaman teşekkürler
+
+Sen son mantını paylaşır mıydın?
+
+İstem videonun içinde
+Tam istem için DM atın
+```
+
+**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K takipçi
+
+❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+
+<sub>📅 May 29, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 12. Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı,…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -494,7 +556,7 @@ Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D a
 
 ---
 
-### 11. Klasik 90'lar Disney animasyon tarzı. Sahne 1: Mısır'daki bir sarayda…
+### 13. Klasik 90'lar Disney animasyon tarzı. Sahne 1: Mısır'daki bir sarayda…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -533,7 +595,7 @@ Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler v
 
 ---
 
-### 12. { "style": "stilize 3D animasyon, hiper-gerçekçi pop, squash-and-stre…
+### 14. { "style": "stilize 3D animasyon, hiper-gerçekçi pop, squash-and-stre…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -586,7 +648,7 @@ Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler v
 
 ---
 
-### 13. FORMAT: sinematik kesintisiz çekim / güdümlü kamera hareketi / 15s SA…
+### 15. FORMAT: sinematik kesintisiz çekim / güdümlü kamera hareketi / 15s SA…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -652,7 +714,7 @@ fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengi
 
 ---
 
-### 14. ROKET SÖRFÜ. STİL: Cesur Cine Verité, 35mm el kamerası, doğal sarsınt…
+### 16. ROKET SÖRFÜ. STİL: Cesur Cine Verité, 35mm el kamerası, doğal sarsınt…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -686,7 +748,7 @@ KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapayl
 
 ---
 
-### 15. Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve ka…
+### 17. Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve ka…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -711,7 +773,7 @@ Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve kaotik b
 
 ---
 
-### 16. Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol se…
+### 18. Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol se…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -736,7 +798,7 @@ Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyem
 
 ---
 
-### 17. Bir kediyi kovalayan ultra geniş açılı makro FPV takip çekimi. Özne a…
+### 19. Bir kediyi kovalayan ultra geniş açılı makro FPV takip çekimi. Özne a…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -779,7 +841,7 @@ Ses tasarımı keskin esen rüzgarı, yankılanan lastik-su sıçramalarını ve
 
 ---
 
-### 18. Film stoğu / Lens: Dijital 4K oyun motoru render'ı, sabit geniş yan g…
+### 20. Film stoğu / Lens: Dijital 4K oyun motoru render'ı, sabit geniş yan g…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -828,7 +890,7 @@ Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlat
 
 ---
 
-### 19. Estetik: Ham 35mm el kamerası, yüksek irtifa güneş pusluluğu. Tek bir…
+### 21. Estetik: Ham 35mm el kamerası, yüksek irtifa güneş pusluluğu. Tek bir…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -861,7 +923,7 @@ Kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik, 
 
 ---
 
-### 20. Ana Karakter: Gerçekçi bir Kore yaz okul üniforması (하복) giyen güzel…
+### 22. Ana Karakter: Gerçekçi bir Kore yaz okul üniforması (하복) giyen güzel…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -911,6 +973,182 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 ❤️ 908 · 🔁 46 · 🔖 115 · 👁 63.8K
 
 <sub>📅 May 23, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 23. Modern Çin 3D animasyon stili. Sahne 1: Büyük bir Mısır kütüphanesind…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Modern Çin 3D animasyon stili. Sahne 1: Büyük bir Mısır kütüphanesind…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**📝 İstem**
+
+```
+Modern Çin 3D animasyon stili. Sahne 1: Büyük bir Mısır kütüphanesinde, elleri arkasında, heybetli bir duruşla rafları kayıtsızca inceleyen görkemli çakal tanrı Anubis'i görüyoruz. Bu sırada, yakınlardaki bir masada duran ritüellerle ilgili bir kitaba uzanan bir genç fark eder. Anubis bunu görünce kitabı hızla kapar, bir kolunu başının üzerine kaldırarak koltuk altını açığa çıkarır ve nazik ama kararlı bir tonda şöyle der: Bu kitap onun gibi biri için uygun değil. Sahne 2: Genç adam hayal kırıklığına uğramış görünür ancak hemen ardından kurnaz bir gülümsemeyle Anubis'e gıdıklanıp gıdıklanmadığını sorar ve aynı anda Anubis'in havaya kaldırdığı kolunun koltuk altına dokunarak onu gıdıklar, bu durum Anubis'i biraz şaşırtır. Sahne 3: Yakın çekim, insan eli Anubis'in koltuk altında parmaklarını yukarı aşağı hareket ettirir, bu hareketi sürekli tekrarlar. Arka plandan Anubis'in bastırılmış kıkırdamaları duyulur, bu da onun gerçekten çok gıdıklandığını gösterir. Sahne 4: Yakın çekim, Anubis'in üst gövdesi, insan eli Anubis'in koltuk altında parmaklarını yukarı aşağı hareket ettirmeye devam eder. Anubis gözlerini kapatır, sırıtır ve bastırılmış kıkırdamalar çıkarır. Sahne 5: İnsan eli Anubis'in koltuk altını gıdıklamaya devam eder, Anubis gözleri kapalı kıkırdar. Anubis'in gülüşü gerçekten gıdıklandığını doğrular, ardından tekrar kıkırdamaya başlar ve insan onun koltuk altını gıdıklamaya devam eder. Sahne 6: Anubis kıkırdamaya devam eder, sonunda kitabı yere atar, iki koluyla kendine sarılır ve koltuk altlarını kapatır. İnsan gıdıklamayı bırakır ve kitabı alır. Anubis kıkırdamaya devam eder, sanki hala gülüşün etkisindedir, gülerken gıdıklanmaktan nefret ettiğini söyler. İnsan gülerek kitabı alır. Anubis kaslıdır, kollarında ve boynunda halkalar vardır. Sesi derin, manyetik ve çekicidir. Anubis'in koltuk altı gıdıklanmaktadır.
+```
+
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K takipçi
+
+❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+
+<sub>📅 May 25, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 24. Genç bir Koreli kadın, canlı bir beyzbol maçı sırasında seyirciler ar…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Genç bir Koreli kadın, canlı bir beyzbol maçı sırasında seyirciler ar…"></a>
+</div>
+
+**📝 İstem**
+
+```
+Genç bir Koreli kadın, canlı bir beyzbol maçı sırasında seyirciler arasında doğal bir şekilde oturuyor. Sakin görünüyor ve maça odaklanmış durumda. Çevresindeki taraftarlar tezahürat çubuklarını sallıyor ve canlı, otantik bir stadyum ortamında oyuna tepki veriyor. Gerçek KBO telefoto yayın kamerası stili, sığ alan derinliği, hafif el kamerası titremesi, doğal canlı TV kadrajı ve gerçek yayın bindirmeleri (skorbord, takım logoları, sponsor grafikleri, sıkıştırma artefaktları) ile otantik Kore stadyum aydınlatması.
+Birkaç saniye sonra, fan kamerasının kendisine odaklandığını fark ediyor. Yavaşça utangaç, hafif şaşkın bir gülümsemeyle kameraya dönüyor, saçını nazikçe kulağının arkasına itiyor, ardından utangaç bir şekilde kısa bir süre aşağı bakıyor. Yakındaki taraftarlar bunu fark edip doğal bir şekilde tepki veriyor, gülümsüyor ve hafifçe gülüyorlar.
+Yüksek kalabalık gürültüsü, tezahürat çubukları, spiker yankısı ve yorumcu varlığı ile otantik stadyum atmosferi. Koreli yorumcu yumuşak bir sesle şöyle diyor:
+“와… 정말 아름다우시네요…”
+Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik aydınlatma yok, ağır çekim yok, kesinti yok, tamamen doğal, senaryosuz canlı spor yayını gerçekçiliği.
+```
+
+**Gönderen** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K takipçi
+
+❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+
+<sub>📅 May 12, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 25. Tam Hazırlanmış Sinematik Yapay Zeka Video İstemi (15 sn) Soğuk camgö…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Tam Hazırlanmış Sinematik Yapay Zeka Video İstemi (15 sn) Soğuk camgö…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**📝 İstem**
+
+```
+Tam Hazırlanmış Sinematik Yapay Zeka Video İstemi (15 sn)
+Soğuk camgöbeği mavisi dizüstü bilgisayar parıltısı ile sıcak kehribar rengi pratik aydınlatma ve parlak çikolata yansımalarının kontrast oluşturduğu yüksek kontrastlı sinematik aydınlatma. Premium lüks ticari estetik. Hızlı kesimler, whip pan'ler, dutch tilt'ler, el kamerası enerjisi, dinamik takip çekimleri, sinematik gerçekçilik, sığ alan derinliği, etkileyici yakın planlar, karamsar apartman atmosferi, duyusal yemek sinematografisi, parlak dokular, ince sinematik gren, anamorfik vurgular, gerçekçi cilt dokusu, duygusal gerçekçilik, modern reklam kampanyası görünümü. Altyazı yok. Sadece seçili duygusal anlarda minimal seslendirme. Klavye tıklamaları, folyo hışırtıları, yumuşak nefes alışverişi, fare tıklamaları, dolap gıcırtıları ve düşük sinematik bas darbeleriyle doğal ses tasarımı.
+Çekim Çekim Dökümü (0:15)
+Çekim 1 — 0:01 — Aşırı Yakın Plan
+Genç sarışın bir kadının gözlerinde, yoğun verileri hızla tararken kayan belgeler ve mavi dizüstü bilgisayar ışığı yansıyor. Soğuk camgöbeği parıltısı porselen cildinde titriyor. Ultra sığ alan derinliği, yoğun göz yansımaları, sinematik makro lens.
+Seslendirme:
+“Bazı geceler daha fazlasını talep eder.”
+Çekim 2 — 0:02 — Orta Geniş Çekim
+Loş bir apartman dairesinde buruşuk bir kanepede bağdaş kurmuş oturuyor, çılgınca yazı yazıyor. Pas rengi ipek askılı bluzu dizüstü bilgisayarın soğuk mavi ışığını yakalarken, sıcak pratik gölgeler odayı çevreliyor. El kamerası hareketi aciliyet katıyor.
+Çekim 3 — 0:03 — Whip Pan
+Mutfak kilerine doğru hızlı whip pan. Dolap kapakları dramatik bir şekilde açılarak, stresi kesen bir baştan çıkarma gibi yüzüne sıcak kehribar rengi ışık saçıyor.
+Çekim 4 — 0:04 — Çikolata Yakın Plan
+Kıtır bir sesle bitter çikolatadan bir ısırık alıyor. Gözleri rahatlamayla kısa süreliğine kapanıyor. Altın folyo elinde yumuşak bir şekilde hışırdıyor. Zengin parlak çikolata dokusu, sinematik yemek fotoğrafçılığı.
+Çekim 5 — 0:05 — Orta Çekim, Dutch Tilt
+Çalışma alanına dönüş. Bir eliyle agresif bir şekilde yazarken, dudakları arasında bir çikolatalı trüf dengeliyor. Hafif dutch açısı artan kaosu yoğunlaştırıyor.
+Çekim 6 — 0:06 — Omuz Üstü Çekim
+Dizüstü bilgisayar ekranında karmaşık grafikler ve veri görselleştirmeleri var. Kakao tozlu parmakları Enter tuşuna vuruyor, trackpad üzerinde hafif çikolata lekeleri bırakıyor. Soğuk ekran parıltısı kareye hakim.
+Çekim 7 — 0:07 — Duygusal Yakın Plan
+Hayal kırıklığı zirvede. İki elini dağınık sarı saçlarından geçiriyor ve ağır bir nefes veriyor. İnce kakao tozu parmak uçlarına yapışıyor. Sıcak ve soğuk aydınlatma yüzünde dramatik bir şekilde çarpışıyor.
+Seslendirme:
+“Baskı vurduğunda…”
+Çekim 8 — 0:08 — Hızlı Kesim
+Tekrar kilerin önünde dururken, sağ eliyle lüks el yapımı çikolatalarla dolu seramik bir kaseye dalıyor. Sıcak altın rengi ışık etrafında çiçek açıyor.
+Çekim 9 — 0:09 — Orta Yakın Plan
+Masada otururken, parlayan monitöre boş boş bakarak doğrudan çikolata kasesinden yiyor. Son teslim tarihi yorgunluğu, rahatlık ve şımartılma ile karışıyor.
+Çekim 10 — 0:10 — Düşük Açı
+Klavye seviyesinden kamera, parmakları makine hassasiyetiyle yazarken. Yüzü camgöbeği ve kehribar tonlarının karışımıyla parlıyor, yoğun bir şekilde odaklanmış.
+Çekim 11 — 0:11 — Makro Yakın Plan
+Titreyen parmaklarla başka bir bitter çikolata parçasını açarken parlayan ekrana yoğun bir şekilde bakıyor. Altın folyo sıcak kehribar ışığını yakalıyor, yüzüne parıldayan yansımalar saçıyor. Hışırdayan folyo sesi, bir ısırık daha almadan önce sessizliği keskin bir şekilde bölüyor.
+Çekim 12 — 0:12 — Dinamik Yörünge Çekimi
+Monitördeki konsantrasyonunu bozmadan çikolata kaplı bir krakere ısırık alırken kamera etrafında dönüyor. Sinematik takip hareketi, parlak vurgular, dramatik alan derinliği.
+Çekim 13 — 0:13 — Zafer Yakın Plan
+Alt dudağında hafif bir çikolata lekesi var. Hafifçe gülümsüyor ve fareyi tıklıyor. Mavi monitör ışığı gözlerinde zaferi yansıtıyor.
+Çekim 14 — 0:14 — Orta Çekim
+Sert ve kararlı bir alkışla dizüstü bilgisayarı kapatıyor ve kanepenin üzerine yığılıyor, büyük bir yorgun nefes veriyor.
+Çekim 15 — 0:15 — Final Geniş Çekim
+Kanepenin derinliklerine gömülüyor, bitkin ama tatmin olmuş. Etrafında: saçılmış altın ambalajlar, boş seramik kase, kapalı dizüstü bilgisayar, sıcak ortam apartman aydınlatması, fırtınadan sonra huzurlu sessizlik.
+Seslendirme:
+“…şımartılma devralıyor.”
+Sinematik Anahtar Kelimeler
+Lüks ticari, sinematik gerçekçilik, karamsar apartman, yemek sinematografisi, sığ alan derinliği, el kamerası enerjisi, premium yaşam tarzı estetiği, sıcak pratik aydınlatma, soğuk ekran parıltısı, parlak çikolata dokuları, etkileyici yüz yakın planları, hızlı tempolu kurgu, duygusal gerçekçilik, modern reklam, sinematik gerilim, şımartıcı atmosfer, zarif kaos, dramatik aydınlatma, üst düzey ticari film yapımı.
+```
+
+**Gönderen** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K takipçi
+
+❤️ 565 · 🔁 90 · 🔖 83 · 👁 33.3K
+
+<sub>📅 May 30, 2026</sub>
+
+**[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. İki bölüme ayrılmış üst düzey bir editoryal karakter profili sayfa dü…
+
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="İki bölüme ayrılmış üst düzey bir editoryal karakter profili sayfa dü…"></a>
+<br><sub>▶️ <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**🖼️ Görsel istemi**
+
+```
+İki bölüme ayrılmış üst düzey bir editoryal karakter profili sayfa düzeni oluşturun.
+SOL BÖLÜM
+→ Kalın siyah büyük harf fontuyla büyük ve cesur "THOMAS REID" tipografisi
+→ Alt başlık: "THE OCEAN NEVER WINS"
+→ Profesyonel bir derin deniz balıkçısı gibi görünen, 27 yaşında, son derece yakışıklı ve atletik bir erkeğin tam boy fotogerçekçi görüntüsü
+→ Güçlü ve keskin hatlar, delici sakin gözler, kısa ve düzgün sakal, geniş atletik omuzlar, doğal olarak bronzlaşmış sert bir cilt
+→ Ağır, temiz sarı su geçirmez tulum giymiş, kalın lastik çizmeler, omzunda sarılı bir halat
+→ Temiz beyaz bir arka plan üzerinde tamamen hareketsiz, güçlü ve kendinden emin bir duruş
+→ Aydınlatma: Gerçek bir belgesel fotoğraf çekimi gibi yumuşak ve soğuk doğal ışık
+→ Alttaki küçük metin: "BUILT BY WAVES. BORN TO ENDURE."
+
+SAĞ BÖLÜM
+→ KİŞİLİK: Her fırtınada sarsılmaz / Sıfır boşa harcanan hareket / Her yolculuğun bir bedeli vardır / Deniz kimseye saygı duymaz
+→ DETAYLAR: Yaş 27 / Uyruk Norveç / Duruş İleri Kavrama / Stil Derin Deniz Dayanıklılığı / Durum Yükselen Efsane
+→ TEMEL ÖZELLİKLER: Demir Sabır / Ham Güç / Patlayıcı Hayatta Kalma İçgüdüsü / Zamansız Denizcilik
+→ ODAKTAKİ DETAYLAR — 4 küçük fotogerçekçi yakın plan kutusu:
+Kutu 1: Halattan aşınmış güçlü eller
+Kutu 2: Eski paslı pusula detayı
+Kutu 3: Temiz sarı su geçirmez ceket dokusu
+Kutu 4: Kalın lastik çizme detayı
+Genel stil: Temiz ve minimal dergi editoryal tasarımı / Gerçek fotoğrafçılık estetiği / Soğuk okyanus tonları gri turkuaz kırık beyaz / Ağır siyah tipografi / Birinci sınıf belgesel yayın kalitesi
+```
+
+**🎬 Video istemi**
+
+```
+Sinematik okyanus belgeseli. Konu: 27 yaşında, son derece yakışıklı ve atletik bir derin deniz balıkçısı. Güçlü ve keskin hatlar, delici sakin gözler, kısa ve düzgün sakal, geniş atletik omuzlar, doğal olarak bronzlaşmış sert bir cilt. Ağır sarı su geçirmez tulum ve kalın lastik çizmeler giymiş, omzunda sarılı bir halat. Eski paslı bir balıkçı teknesi.
+→ ÇEKİM 1 — Güverte seviyesinden aşırı düşük takip çekimi. Gemi güvertesinde karışmış bir ağa doğru tam hızla ilerliyor. Ağı yan taraftan şiddetle çektikten sonra, ıslak güvertede dengesini zorlukla sağlıyor ve hemen tekrar ileri atılıyor.
+→ ÇEKİM 2 — Hızlı bir geçişle uzun bir halat çekme sekansına giriş. Halat sürtünmesi ve okyanus serpintisi kare boyunca patlarken, kamera onun ezici gücüne ve hızına yetişmekte zorlanıyor.
+→ ÇEKİM 3 — Gemi güvertesinin tamamını kapsayan geniş hareketli çekim. Hazırlık süresi olmadan arka arkaya gerçekleşen birden fazla hızlı görev. Kameraman, aksiyonu takip etmek için sallanan teknede dengesini kaybetmek üzere.
+→ ÇEKİM 4 — Uzun lensle sıkıştırılmış, pruvaya çarpan dev bir dalgayı ağır çekimde yakalayan çekim. Güce karşı pozisyonunu koruyan aşırı vücut kontrolü; neredeyse süpürülüp gidecekken son saniyede mucizevi bir şekilde toparlanıyor.
+→ ÇEKİM 5 — Kaygan güvertede uzun bir denge sekansı etrafında ultra düşük dairesel takip çekimi. Sallanan okyanusa karşı sürekli ayarlama yaparak dengeyi sınıra zorluyor, ancak hız kesmeden halattaki tutuşunu sakin bir şekilde ayarlıyor.
+→ ÇEKİM 6 — Son çekim. Dev bir dalga gövdeye çarparak onu tamamen çevreliyor. Serpinti, köpük ve momentum izleri güverteye yayılıyor. Sert ve geniş bir duruşa geçiyor, yavaşça doğruluyor ve sert okyanus ışığı altında tamamen hareketsiz son pozunu alıyor. Ses anında kesiliyor. Kamera, onun tamamen sakin ve korkusuz yüzüne odaklanıp donuyor. Kararma.
+Stil: Ultra gerçekçi National Geographic okyanus belgeseli ile birinci sınıf spor reklamı enerjisinin birleşimi. Soğuk, doygunluğu azaltılmış tonlar. Ağır okyanus atmosferi. Gerçek insan gücü ve varlığı.
+```
+
+**Gönderen** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K takipçi
+
+❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+
+<sub>📅 May 26, 2026</sub>
 
 **[▶️ gptproto.com'da izle & yeniden düzenle →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
