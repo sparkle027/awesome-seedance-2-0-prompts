@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 厳選プロンプト数 | 📚 Total prompts | 🎬 モデル | 🔄 最終更新日 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AIに関する議論をミームで要約して。バカっぽくて50いいねがつくようなやつで。
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AIに関する議論をミームで要約して。バカっぽくて50いいねがつくようなやつで。"></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AIに関する議論をミームで要約して。バカっぽくて50いいねがつくようなやつで。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K フォロワー
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ AIに関する議論をミームで要約して。バカっぽくて50いいね�
 
 ### 2. Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50いいねを獲得しよう。
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50いいねを獲得しよう。"></a>
@@ -164,9 +164,9 @@ AIに関する議論をミームで要約して。バカっぽくて50いいね�
 Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50いいねを獲得しよう。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K フォロワー
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 
 ### 3. Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさせよう。
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさせよう。"></a>
@@ -189,9 +189,9 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさせよう。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K フォロワー
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさ�
 
 ### 4. AIが過度にポリティカル・コレクトになる。非常に攻撃的な表現にしてほしい。
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AIが過度にポリティカル・コレクトになる。非常に攻撃的な表現にしてほしい。"></a>
@@ -214,9 +214,9 @@ Punch the Monkeyが反撃する。女の子たちを誇らしい気持ちにさ�
 AIが過度にポリティカル・コレクトになる。非常に攻撃的な表現にしてほしい。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K フォロワー
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ AIが過度にポリティカル・コレクトになる。非常に攻撃的な
 2010年代初頭の本格的なSony Cyber-shotコンパクトカメラを模して撮影されており、CCDセンサーによるヴィンテージなデジタル描写と、不完全なフラッシュ露出を再現している。
 ```
 
-**作成者:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K フォロワー
+**作成者:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K フォロワー
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ AIが過度にポリティカル・コレクトになる。非常に攻撃的な
 アヌビスは筋肉質で、腕、首、耳にリングやイヤリングを身につけています。上半身は裸です。声は低く魅力的です。音声は英語です。
 ```
 
-**作成者:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K フォロワー
+**作成者:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K フォロワー
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 
 **作成者:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K フォロワー
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 
 **作成者:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K フォロワー
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 0:11-0:15: マッチカット。CUからMSへ。彼女の持ち上げた手が同じ画面位置を通過するシームレスな動きの中での移行。凍りついたクローズアップが、同じフレーミングと時計回りのドリフトを持つ自宅のインテリアへと変わる。動きは中断されず、今度はVRヘッドセットが初めて彼女の目に装着されているのが見える。彼女は両側を掴み、顔から完全に引き剥がす。カメラはミディアムショットへと開き、彼女がそれを額の上に落とし、ゆったりとした部屋着姿で小さなリビングルームへと足を踏み入れる。手持ちカメラの旋回は続き、ソファの端、散らかった毛布、冷たい窓からの光を明らかにし、彼女の姿勢はわずかな苛立ちに変わる。彼女は声の方を向き、目を上に転がして「What is it.」と言う。35mmナチュラルレンズ、球面。SFX: (ヘッドセットのストラップが伸びる音、プラスチックの擦れる音、静かな部屋のトーン、靴下を履いた足の擦れる音、微かなゲームのオーディオ、彼女の落ち着いた呼吸、彼女の乾いた声で「What is it.」と言う声)。室内の昼光が冬のコントラストに取って代わる。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K フォロワー
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ ROCKET SURF.
 
 **作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K フォロワー
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ ROCKET SURF.
 0:12-0:15: 安定したPOVにカット。突然の完全停止。シェフは中華鍋を傾け、完成した料理を磁器のボウルに滑り込ませる。均一に絡まった麺、ぷりぷりのエビ、艶やかな野菜が見える。ボウルを持ち上げ、フレームがいっぱいになるまでカメラに直接提示する。指が縁を叩き、かすかな振動が伝わる。蒸気が急速に立ち上り、レンズを完全に覆うまで広がり、きれいにフェードアウトする。
 ```
 
-**作成者:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K フォロワー
+**作成者:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K フォロワー
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ ROCKET SURF.
 フォトリアリスティック、シネマティックな照明、地に足のついたカメラモーション、豊かな中世の雰囲気、高精細
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K フォロワー
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ ROCKET SURF.
 サウンドデザインは、鋭い突風、反響するタイヤの水しぶき、ガードレールをかすめる金属的な振動を示唆する。猫が安全な影の隅に飛び込み、カメラの残響的な振動がゆっくりと静止に向かうところでシーンは終わる。
 ```
 
-**作成者:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K フォロワー
+**作成者:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K フォロワー
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ ROCKET SURF.
 白髪の3Dアニメ風の少女が急勾配の曲がりくねった山道をスケートボードで超高速で滑り降りる様子を、背後から追うFPVドローンの高速トラッキングショット。強烈な前進感、広角パースペクティブ、風を切るエフェクト。動画は、緑豊かな山々、明るい晴天、遠くの海、カメラを通り過ぎる茶色の葉が舞う、鮮やかな夏の風景から始まります。3秒の時点で、スケートボードから魔法のような霜の波が前方に広がり、環境がシームレスに凍てつく冬の風景へと変化します。緑の草は瞬時に深い白雪に変わり、激しい雪が降り始め、遠くの山々は雪を頂いた峰へと姿を変えます。カメラは、激しく滑らかな連続的なダウンヒルのトラッキング動作を一度も中断しません。ハイオクタンなアクション、傑作3Dアニメーション、フォトリアルなライティング。
 ```
 
-**作成者:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K フォロワー
+**作成者:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K フォロワー
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ ROCKET SURF.
 Androgenicはかつらを奪われた後、復讐を企てている。私のコルチゾール値を急上昇させてくれ。
 ```
 
-**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K フォロワー
+**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K フォロワー
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 手持ちカメラの動きとカメラシェイクを伴う、映画的で混沌としたトラッキングショット。古代のスカラベのアーティファクトを手にした探検家が、巨大なミイラから逃げている様子が映し出される。瓦礫や砂埃が舞い、ミイラによって古代の壁が崩れ落ちていく。探検家は時折後ろを振り返りながら必死に逃げ、荒い息遣いが聞こえる。ミイラに捕まりそうになるが、ミイラが柱に激突して自滅したことで間一髪で逃げ切り、探検家はそのまま墓の入り口へと走り去る。
 ```
 
-**作成者:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K フォロワー
+**作成者:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K フォロワー
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1134,9 +1134,9 @@ Androgenicはかつらを奪われた後、復讐を企てている。私のコ�
 [シーン3：肩越しのアクション] カメラはSWAT隊員の右肩のすぐ後ろに配置されている。手前にはヘルメットの後部とライフルが見える。遠く（中景）には、まだ少女を捕らえている犯人の姿がある。犯人が最後にもう一度「やってやる！」と叫んだ後、隊員のライフルが単発で反動し、敵の頭部に命中する。犯人は即座に倒れる。少女は立ち尽くし、ショックを受けているが無事である。技術的スタイル：高速シャッターアクション、リアルなマズルフラッシュ、手持ちカメラの揺れ、24fps、英語のセリフ。
 ```
 
-**作成者:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K フォロワー
+**作成者:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K フォロワー
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

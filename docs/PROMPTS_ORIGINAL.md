@@ -47,9 +47,9 @@ This file lists **source-layer** prompts only (`text` / `image` / `video` from t
 Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -70,9 +70,9 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -93,9 +93,9 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 Punch the Monkey punches back. Make the girls proud.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -116,9 +116,9 @@ Punch the Monkey punches back. Make the girls proud.
 AI goes woke. Make it really offensive - like really offensive.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -149,9 +149,9 @@ The image preserves visible screen pixel structure, slight glare reflections, ch
 Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
 ```
 
-**By** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K followers
+**By** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K followers
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -186,9 +186,9 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
-**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K followers
+**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K followers
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -546,7 +546,7 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 
 **By** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K followers
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -615,7 +615,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 **By** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K followers
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -677,9 +677,9 @@ TIMELINE:
 0:11-0:15: MATCH CUT. CU to MS. Seamless mid-motion transition as her rising hands cross the same screen position and the frozen close-up becomes the home interior with the same framing and clockwise drift. The motion continues uninterrupted, and now a VR headset is visibly strapped over her eyes for the first time. She grips both sides, pulls it fully off her face, and the camera opens into a medium shot as she drops it above her forehead and steps into a small living room in loose home clothes. The handheld orbit continues, revealing couch edges, scattered blankets, and cold window light as her posture falls into mild annoyance. She turns toward the voice, rolls her eyes upward, and says, What is it. 35mm natural lens, spherical. SFX: (headset strap stretch, plastic rub, quiet room tone, socked foot scrape, faint game audio, her breath settling, her dry voice saying What is it). Indoor daylight replaces the winter contrast.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K followers
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -711,7 +711,7 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 
 **By** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K followers
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -791,9 +791,9 @@ TIMELINE:
 0:12-0:15: Cut to stabilized POV. Sudden full stop. The chef tilts the wok and slides the finished dish into the porcelain bowl—visible: evenly coated noodles, plump shrimp, glossy greens. He lifts and presents the bowl directly toward the camera until it fills the frame. A finger taps the rim—subtle vibration. Steam rises rapidly, expanding until it fully covers the lens for a clean fade-out.
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K followers
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -855,9 +855,9 @@ QUALITY
 photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosphere, highly detailed
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K followers
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -910,9 +910,9 @@ Sound design suggests sharp rushing wind, echoing tire-water splashes, andmetall
 as the cat leaps into a safe shadowy corner, while the camera's residual vibrations slowly settle into stillness
 ```
 
-**By** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K followers
+**By** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K followers
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -933,9 +933,9 @@ as the cat leaps into a safe shadowy corner, while the camera's residual vibrati
 Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, and brown leaves flying past the camera. At the 3-second mark, a magical wave of frost sweeps forward from the skateboard: the environment seamlessly transforms into a freezing winter landscape. The green grass instantly turns to deep white snow, heavy snowflakes start falling, and the distant mountains become snow-capped peaks. The camera never breaks the intense, smooth, continuous downhill tracking motion. High-octane action, masterpiece 3D animation, photorealistic lighting.
 ```
 
-**By** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K followers
+**By** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K followers
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -956,9 +956,9 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 Androgenic plots his revenge after getting his wig snatched. Make my cortisol spike.
 ```
 
-**By** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K followers
+**By** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K followers
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -979,9 +979,9 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
 ```
 
-**By** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K followers
+**By** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K followers
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1002,9 +1002,9 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity: "LET THE HOSTAGE GO! DROP THE WEAPON NOW!" [Shot 2: The Threat] Cut to a medium shot of the killer in a dirty tank top, holding a woman in a chokehold. He has a pistol pressed to her head. He is sweating and manic, screaming at the off-screen officer: "STAY BACK! I'LL KILL HER! I SWEAR I'LL DO IT!" [Shot 3: Over-the-Shoulder Resolution] The camera is positioned directly behind the SWAT officer's right shoulder. We see the back of his helmet and his rifle in the foreground. In the distance (mid-ground), the killer is still visible holding the girl. The killer screams one last time: "I'M GONNA DO IT!" after The officer's rifle kicks back with a single sho and hit head enemy. The killer falls instantly. The girl is left standing, shocked but safe. Technical Style: High-shutter speed action, realistic muzzle flashes, handheld camera shake, 24fps, English dialogue.
 ```
 
-**By** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K followers
+**By** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K followers
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개는 받을 수 있는 걸로.
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개는 받을 수 있는 걸로."></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개는 받을 수 있는 걸로.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 팔로워
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개�
 
 ### 2. Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋아요를 받아보자.
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋아요를 받아보자."></a>
@@ -164,9 +164,9 @@ AI 담론을 밈으로 요약해줘. 좀 멍청해 보이면서 좋아요 50개�
 Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋아요를 받아보자.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 팔로워
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋
 
 ### 3. Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요."></a>
@@ -189,9 +189,9 @@ Waffle House에서의 평범한 근무 - 정신 나간 느낌으로 50개의 좋
 Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 팔로워
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 
 ### 4. AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공격적으로 만들어 보세요.
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공격적으로 만들어 보세요."></a>
@@ -214,9 +214,9 @@ Punch the Monkey가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 AI가 깨어있는(woke) 상태가 됩니다. 정말 공격적으로, 아주 공격적으로 만들어 보세요.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 팔로워
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ LCD 화면에는 타임스탬프 “8. 1. 2012 3:15 AM”, 노출 데이터 “1
 CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래시 노출을 특징으로 하는 2010년대 초반의 정통 Sony Cyber-shot 포인트 앤 슛 카메라처럼 촬영되었습니다.
 ```
 
-**작성자:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K 팔로워
+**작성자:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K 팔로워
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ CCD 센서를 사용하여 빈티지 디지털 렌더링과 불완전한 플래�
 아누비스는 근육질이며 팔, 목, 귀에 고리와 귀걸이를 착용하고 있습니다. 상의는 탈의한 상태입니다. 그의 목소리는 낮고 매력적입니다. 음성은 영어입니다.
 ```
 
-**작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 팔로워
+**작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K 팔로워
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 **작성자:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 팔로워
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 
 **작성자:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 팔로워
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ GPT Image 2 + Seedance를 사용하여 아늑한 Pixar 스타일의 3D 애니메
 0:11-0:15: 매치 컷. CU에서 MS로. 들어 올린 손이 같은 화면 위치를 교차하는 매끄러운 동작 전환, 얼어붙은 클로즈업이 같은 프레이밍과 시계 방향 드리프트를 가진 집 내부로 바뀐다. 움직임은 중단 없이 계속되며, 이제 VR 헤드셋이 처음으로 그녀의 눈에 착용된 것이 보인다. 그녀는 양쪽을 잡고 얼굴에서 완전히 벗겨내고, 카메라는 미디엄 샷으로 열리며 그녀가 그것을 이마 위로 떨어뜨리고 편안한 실내복 차림으로 작은 거실로 들어선다. 핸드헬드 궤도 촬영은 계속되어 소파 가장자리, 흩어진 담요, 차가운 창문 빛을 드러내고 그녀의 자세는 약간의 짜증으로 바뀐다. 그녀는 목소리가 나는 쪽으로 몸을 돌리고 눈을 위로 굴리며 What is it.이라고 말한다. 35mm 내추럴 렌즈, 구면. SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용한 방의 톤, 양말 신은 발이 긁히는 소리, 희미한 게임 오디오, 그녀의 안정된 숨소리, 그녀의 건조한 목소리로 What is it.이라고 말하는 소리). 실내의 낮 빛이 겨울의 대비를 대체한다.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 팔로워
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ ROCKET SURF.
 
 **작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 팔로워
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ ROCKET SURF.
 0:12-0:15: 안정된 POV로 컷. 갑작스러운 완전 정지. 셰프는 웍을 기울여 완성된 요리를 도자기 그릇에 담음. 고르게 코팅된 국수, 통통한 새우, 윤기 나는 채소가 보임. 그릇을 들어 올려 프레임이 가득 찰 때까지 카메라 쪽으로 직접 제시함. 손가락이 테두리를 두드리며 미세한 진동이 발생함. 증기가 빠르게 피어올라 렌즈를 완전히 덮을 때까지 확장되며 깔끔하게 페이드 아웃됨.
 ```
 
-**작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K 팔로워
+**작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 팔로워
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ ROCKET SURF.
 사실적, 영화 같은 조명, 안정적인 카메라 움직임, 풍부한 중세 분위기, 매우 상세함
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 팔로워
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ ROCKET SURF.
 사운드 디자인은 날카로운 돌풍, 메아리치는 타이어 물 튀기는 소리, 가드레일을 스칠 때의 금속성 진동을 암시한다. 고양이가 안전한 어두운 구석으로 뛰어들고 카메라의 잔여 진동이 천천히 멈추면서 장면이 끝난다.
 ```
 
-**작성자:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K 팔로워
+**작성자:** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K 팔로워
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ ROCKET SURF.
 빠른 속도의 FPV 드론 추적 샷으로, 흰 머리를 가진 3D 애니메이션 스타일의 소녀가 가파르고 굽이진 산길을 엄청난 속도로 스케이트보드를 타고 내려가는 모습을 뒤에서 밀착 촬영합니다. 극적인 전진 모멘텀, 광각 렌즈 시점, 바람이 휘몰아치는 효과. 영상은 푸른 산, 밝고 화창한 하늘, 멀리 보이는 바다, 카메라를 스쳐 지나가는 갈색 잎들이 있는 활기찬 여름 배경으로 시작됩니다. 3초 지점에서 스케이트보드로부터 마법 같은 서리 파동이 앞으로 퍼져 나가며, 주변 환경이 얼어붙은 겨울 풍경으로 매끄럽게 변합니다. 푸른 잔디는 즉시 깊은 흰 눈으로 바뀌고, 굵은 눈송이가 내리기 시작하며, 멀리 있는 산들은 눈 덮인 봉우리가 됩니다. 카메라는 강렬하고 부드러우며 끊김 없는 내리막 추적 동작을 유지합니다. 고옥탄 액션, 3D 애니메이션의 걸작, 사실적인 조명.
 ```
 
-**작성자:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K 팔로워
+**작성자:** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K 팔로워
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ ROCKET SURF.
 가발을 빼앗긴 후 복수를 계획하는 Androgenic. 내 코르티솔 수치를 치솟게 만들어줘.
 ```
 
-**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K 팔로워
+**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 팔로워
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ ROCKET SURF.
 핸드헬드 카메라 움직임과 카메라 흔들림이 포함된 영화적이고 혼란스러운 트래킹 샷으로, 고대 스카라베 유물을 들고 있는 탐험가를 보여줍니다. 탐험가는 거대한 미라에게 쫓기며 도망치고 있습니다. 잔해와 먼지 구름이 보입니다. 미라가 고대 벽의 일부를 무너뜨리고 있습니다. 탐험가는 가끔 뒤를 돌아보며 필사적으로 도망치고, 그녀의 거친 숨소리가 들립니다. 그녀는 미라가 거의 그녀를 잡을 뻔한 순간 아슬아슬하게 탈출할 때까지 계속 달리고, 미라는 기둥을 들이받아 스스로 무너집니다. 그 후 탐험가는 무덤 입구로 계속 달려 들어갑니다.
 ```
 
-**작성자:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K 팔로워
+**작성자:** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K 팔로워
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1130,9 +1130,9 @@ ROCKET SURF.
 [장면 1: 정면 위협 샷] 완전한 전술 장비, 방독면, 헬멧을 착용한 SWAT 대원의 미디엄 샷. 그는 돌격 소총을 카메라 렌즈를 향해 직접 겨누고 있다(제4의 벽을 깨는 연출). 그는 강렬한 모습으로 소리친다: "인질을 풀어줘! 당장 무기 버려!" [장면 2: 위협] 더러운 민소매 셔츠를 입고 여성을 목 조르고 있는 살인범의 미디엄 샷으로 전환. 그는 여성의 머리에 권총을 겨누고 있다. 그는 땀을 흘리며 광기 어린 모습으로 화면 밖의 경찰에게 소리친다: "물러서! 죽여버릴 거야! 맹세해!" [장면 3: 어깨 너머 해결] 카메라는 SWAT 대원의 오른쪽 어깨 바로 뒤에 위치한다. 전경에는 그의 헬멧 뒷모습과 소총이 보인다. 먼 거리(중경)에는 여성을 붙잡고 있는 살인범이 여전히 보인다. 살인범이 마지막으로 소리친다: "정말 죽일 거야!" 그 직후 SWAT 대원의 소총이 반동하며 단발 사격이 발사되어 적의 머리를 명중한다. 살인범은 즉시 쓰러진다. 여성은 충격을 받았지만 안전하게 서 있다. 기술적 스타일: 고속 셔터 스피드 액션, 사실적인 총구 화염, 핸드헬드 카메라 흔들림, 24fps, 영어 대사.
 ```
 
-**작성자:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K 팔로워
+**작성자:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K 팔로워
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

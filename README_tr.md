@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğe…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğe…"></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni ald
 
 ### 2. Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni a…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni a…"></a>
@@ -164,9 +164,9 @@ Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni ald
 Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığı
 
 ### 3. Punch the Monkey karşılık veriyor. Kızları gururlandır.
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey karşılık veriyor. Kızları gururlandır."></a>
@@ -189,9 +189,9 @@ Waffle House'ta ortalama bir vardiya: saçma olduğundan ve 50 beğeni aldığı
 Punch the Monkey karşılık veriyor. Kızları gururlandır.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkey karşılık veriyor. Kızları gururlandır.
 
 ### 4. Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok…"></a>
@@ -214,9 +214,9 @@ Punch the Monkey karşılık veriyor. Kızları gururlandır.
 Yapay zeka 'woke' oluyor. Bunu gerçekten saldırgan yapın - hem de çok saldırgan.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ Görüntü, görünür ekran piksel yapısını, hafif parlama yansımalarını,
 2010'ların başındaki otantik bir Sony Cyber-shot kompakt kamerayı andıracak şekilde, CCD sensör, vintage dijital işleme ve kusurlu flaş pozlaması kullanılarak çekilmiştir.
 ```
 
-**Gönderen** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K takipçi
+**Gönderen** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K takipçi
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ Sahne 6: Anubis hizmetkarın gidişini izler, yüzünde hala umursamaz bir ifade
 Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler vardır. Üstü çıplaktır. Sesi derin ve etkileyicidir. Seslendirme İngilizcedir.
 ```
 
-**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K takipçi
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K takipçi
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlat
 
 **Gönderen** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K takipçi
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 
 **Gönderen** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K takipçi
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ ZAMAN ÇİZELGESİ:
 0:11-0:15: EŞLEŞTİRMELİ KESME. Yakın plandan orta plana. Yükselen elleri aynı ekran konumunu geçerken ve donmuş yakın plan, aynı kadraj ve saat yönündeki sürüklenme ile ev iç mekanına dönüşürken kesintisiz hareket geçişi. Hareket kesintisiz devam ediyor ve şimdi bir VR başlığı ilk kez gözlerinin üzerinde belirgin bir şekilde takılı. Her iki yanından tutuyor, tamamen yüzünden çekiyor ve kamera orta plana açılırken onu alnının üzerine bırakıyor ve bol ev kıyafetleriyle küçük bir oturma odasına adım atıyor. El kamerası yörüngesi devam ediyor; koltuk kenarlarını, dağınık battaniyeleri ve soğuk pencere ışığını ortaya çıkarırken duruşu hafif bir rahatsızlığa bürünüyor. Sese doğru dönüyor, gözlerini yukarı deviriyor ve diyor ki, Ne var. 35mm doğal lens, küresel. SFX: (başlık kayışı esnemesi, plastik sürtünmesi, sessiz oda tonu, çoraplı ayak sürtünmesi, hafif oyun sesi, sakinleşen nefesi, Ne var diyen kuru sesi). İç mekan gün ışığı kış kontrastının yerini alıyor.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapayl
 
 **Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K takipçi
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ ZAMAN ÇİZELGESİ:
 0:12-0:15: Sabitlenmiş POV'a kesme. Ani tam duruş. Şef wok tavayı eğiyor ve bitmiş yemeği porselen kaseye kaydırıyor—görünür olanlar: eşit şekilde kaplanmış erişteler, dolgun karidesler, parlak yeşillikler. Kaseyi kaldırıyor ve çerçeveyi doldurana kadar doğrudan kameraya doğru sunuyor. Bir parmak kenara vuruyor—hafif titreşim. Buhar hızla yükseliyor ve temiz bir kararma (fade-out) için lensi tamamen kaplayana kadar genişliyor.
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ KALİTE
 fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengin orta çağ atmosferi, yüksek detaylı
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ Atmosfer: klostrofobik, çılgın, ölüm kalım gerilimi ama sonuçta başarıl
 Ses tasarımı keskin esen rüzgarı, yankılanan lastik-su sıçramalarını ve korkuluklar hızla geçerken oluşan metalik titreşimleri önerir. Sahne, kedi güvenli gölgeli bir köşeye atlarken, kameranın kalıntı titreşimleri yavaşça durulurken sona erer.
 ```
 
-**Gönderen** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K takipçi
+**Gönderen** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K takipçi
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ Ses tasarımı keskin esen rüzgarı, yankılanan lastik-su sıçramalarını ve
 Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D anime tarzı bir kızın dik ve virajlı bir dağ yolunda inanılmaz bir hızla kaykay yapmasını yakından takip ediyor. Aşırı ileri ivme, geniş açılı perspektif, rüzgar esme efekti. Video, yemyeşil dağlar, parlak güneşli bir gökyüzü, uzak bir okyanus ve kameranın önünden uçuşan kahverengi yapraklarla canlı bir yaz ortamında başlıyor. 3. saniyede, kaykaydan ileriye doğru büyülü bir don dalgası yayılıyor: çevre kusursuz bir şekilde dondurucu bir kış manzarasına dönüşüyor. Yeşil çimenler anında derin beyaz kara dönüşüyor, yoğun kar taneleri yağmaya başlıyor ve uzak dağlar karla kaplı zirvelere dönüşüyor. Kamera, yoğun, pürüzsüz ve sürekli yokuş aşağı takip hareketini asla bozmuyor. Yüksek oktanlı aksiyon, 3D animasyon şaheseri, fotogerçekçi aydınlatma.
 ```
 
-**Gönderen** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K takipçi
+**Gönderen** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K takipçi
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ Arkadan çekilmiş, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D a
 Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyemi tavan yaptır.
 ```
 
-**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K takipçi
+**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K takipçi
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyem
 Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve kaotik bir takip çekimi, antik bir bok böceği eseri tutan bir kaşifi gösteriyor. Peşindeki dev bir mumyadan kaçıyor. Enkaz ve toz bulutları görülebiliyor. Mumya, antik duvarın bölümlerinin yıkılmasına neden oluyor. Kaşif panik içinde kaçarken ara sıra arkasına bakıyor, ağır nefes alışverişi duyulabiliyor. Mumya onu neredeyse yakalayacakken bir sütuna çarpıp üzerine devrilmesiyle kıl payı kurtulana kadar koşmaya devam ediyor, kaşif daha sonra bir mezarın girişine doğru koşmaya devam ediyor.“,
 ```
 
-**Gönderen** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K takipçi
+**Gönderen** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K takipçi
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1134,9 +1134,9 @@ Elde taşınan kamera hareketi ve kamera sarsıntısı ile sinematik ve kaotik b
 [Sahne 3: Omuz Üstü Çözülme] Kamera doğrudan SWAT memurunun sağ omzunun arkasına yerleştirilmiş. Ön planda kaskının arkasını ve tüfeğini görüyoruz. Uzakta (orta planda) katil hala kızı tutarken görünüyor. Katil son bir kez "YAPACAĞIM!" diye bağırdıktan sonra memurun tüfeği tek bir atışla geri tepiyor ve düşmanın kafasına isabet ediyor. Katil anında yere düşüyor. Kız ayakta kalıyor, şok içinde ama güvende. Teknik Stil: Yüksek enstantane hızı aksiyonu, gerçekçi namlu flaşları, el kamerası sarsıntısı, 24fps, İngilizce diyalog.
 ```
 
-**Gönderen** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K takipçi
+**Gönderen** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K takipçi
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

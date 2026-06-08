@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. 用一个梗图总结AI讨论——确保它足够无厘头并能获得50个赞。
 
-![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="用一个梗图总结AI讨论——确保它足够无厘头并能获得50个赞。"></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 用一个梗图总结AI讨论——确保它足够无厘头并能获得50个赞。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 2. Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞。
 
-![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞。"></a>
@@ -164,9 +164,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞
 
 ### 3. Punch the Monkey 予以反击。让女孩们感到骄傲。
 
-![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 予以反击。让女孩们感到骄傲。"></a>
@@ -189,9 +189,9 @@ Waffle House 的普通轮班——确保它看起来很离谱并获得 50 个赞
 Punch the Monkey 予以反击。让女孩们感到骄傲。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkey 予以反击。让女孩们感到骄傲。
 
 ### 4. AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。
 
-![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。"></a>
@@ -214,9 +214,9 @@ Punch the Monkey 予以反击。让女孩们感到骄傲。
 AI 变得觉醒。让它变得非常冒犯——真的非常冒犯。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 拍摄效果模仿2010年代初的Sony Cyber-shot卡片机，使用CCD传感器，呈现出复古的数字渲染效果和不完美的闪光曝光。
 ```
 
-**由** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K 关注者
+**由** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K 关注者
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ LCD屏幕上可见相机UI叠加层，包括时间戳“8. 1. 2012 3:15 AM”、
 阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
-**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 关注者
+**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K 关注者
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 **由** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 关注者
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 **由** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 关注者
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 0:11-0:15：匹配剪辑 (MATCH CUT)。从特写 (CU) 到中景 (MS)。无缝的中途动作过渡，她抬起的手穿过相同的屏幕位置，冰冻的特写变成了具有相同构图和顺时针漂移的室内场景。动作不间断地继续，现在可以看到VR头显第一次戴在她的眼睛上。她抓住两侧，将其完全从脸上摘下，摄像机拉开到中景，她将头显放下到额头上方，穿着宽松的家居服走进一个小客厅。手持轨道移动继续，揭示了沙发边缘、散乱的毯子和冰冷的窗光，她的姿态流露出轻微的烦躁。她转向声音的方向，向上翻了个白眼，说道：“What is it.”。35mm自然镜头，球面。SFX：（头显带拉伸声、塑料摩擦声、安静的房间氛围音、穿袜子的脚摩擦声、微弱的游戏音频、她平复的呼吸声、她干巴巴地说“What is it.”的声音）。室内日光取代了冬日的对比度。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 
 **由** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 关注者
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 0:12-0:15：切换至稳定 POV。突然完全静止。厨师倾斜炒锅，将成品滑入青花瓷碗中——可见：均匀裹满酱汁的面条、饱满的虾仁、油亮的蔬菜。他将碗举起并直接推向镜头，直至填满画面。手指轻敲碗沿——细微震动。蒸汽迅速升腾，扩散直至完全覆盖镜头，画面干净淡出。
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 照片级真实感，电影级照明，扎实的摄像机运动，浓郁的中古氛围，高度细节化
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 音效设计暗示了尖锐的疾风声、回荡的轮胎溅水声，以及护栏掠过时的金属振动声。场景在猫跳入一个安全的阴影角落时结束，摄像机的残余振动缓慢平息至静止。
 ```
 
-**由** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K 关注者
+**由** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K 关注者
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 快节奏FPV无人机后方追踪镜头，紧跟一名有着白发的3D动漫风格女孩，她正以极高的速度在陡峭蜿蜒的山路上滑板。极具前冲动感，广角视角，风吹过的效果。视频开始于充满活力的夏季场景，有郁郁葱葱的绿色山脉、明亮的晴空、远处的海洋，以及从镜头前飞过的棕色落叶。在3秒处，一股神奇的霜冻波从滑板向前扫过：环境无缝转变为冰冷的冬季景观。绿草瞬间变成深厚的白雪，大雪纷飞，远处的山脉变成了雪峰。摄像机始终保持着强烈、平滑、连续的下坡追踪运动。高强度动作，杰作级3D动画，照片级真实光影。
 ```
 
-**由** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K 关注者
+**由** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K 关注者
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了一只饥饿
 Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧。
 ```
 
-**由** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K 关注者
+**由** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 关注者
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 一个充满电影感且混乱的跟拍镜头，带有手持摄像机的晃动感，展示了一位拿着古代圣甲虫文物的探险家。他们正在逃离一只巨大木乃伊的追赶。画面中可以看到瓦砾和尘埃云。木乃伊导致古代墙壁的部分区域崩塌。探险家惊慌失措地逃跑，并不时回头看，可以听到她沉重的呼吸声。她继续奔跑，直到在木乃伊几乎抓住她时惊险逃脱，但木乃伊撞上了一根柱子导致其倒塌并砸中自己，随后探险家继续跑向墓穴入口。
 ```
 
-**由** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K 关注者
+**由** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K 关注者
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1136,9 +1136,9 @@ Androgenic 在假发被抢走后密谋复仇。让我的皮质醇水平飙升吧
 技术风格：高快门速度动作，逼真的枪口火光，手持摄像机抖动，24fps，英语对白。
 ```
 
-**由** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K 关注者
+**由** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K 关注者
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

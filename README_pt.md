@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts curados | 📚 Total prompts | 🎬 Modelo | 🔄 Última atualização |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. Resuma o discurso sobre IA em um meme - certifique-se de que seja idi…
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Resuma o discurso sobre IA em um meme - certifique-se de que seja idi…"></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Resuma o discurso sobre IA em um meme - certifique-se de que seja idiota e ganhe 50 curtidas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K seguidores
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ Resuma o discurso sobre IA em um meme - certifique-se de que seja idiota e ganhe
 
 ### 2. Um turno comum no Waffle House - certifique-se de que seja absurdo e…
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Um turno comum no Waffle House - certifique-se de que seja absurdo e…"></a>
@@ -164,9 +164,9 @@ Resuma o discurso sobre IA em um meme - certifique-se de que seja idiota e ganhe
 Um turno comum no Waffle House - certifique-se de que seja absurdo e ganhe 50 curtidas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K seguidores
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Um turno comum no Waffle House - certifique-se de que seja absurdo e ganhe 50 cu
 
 ### 3. Punch the Monkey revida. Deixe as garotas orgulhosas.
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey revida. Deixe as garotas orgulhosas."></a>
@@ -189,9 +189,9 @@ Um turno comum no Waffle House - certifique-se de que seja absurdo e ganhe 50 cu
 Punch the Monkey revida. Deixe as garotas orgulhosas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K seguidores
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkey revida. Deixe as garotas orgulhosas.
 
 ### 4. A IA torna-se excessivamente politicamente correta. Torne-a muito ofe…
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="A IA torna-se excessivamente politicamente correta. Torne-a muito ofe…"></a>
@@ -214,9 +214,9 @@ Punch the Monkey revida. Deixe as garotas orgulhosas.
 A IA torna-se excessivamente politicamente correta. Torne-a muito ofensiva - realmente ofensiva.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K seguidores
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ A imagem preserva a estrutura visível dos pixels da tela, leves reflexos de bri
 Fotografado para se assemelhar a uma autêntica câmera point-and-shoot Sony Cyber-shot do início dos anos 2010, usando um sensor CCD com renderização digital vintage e exposição de flash imperfeita.
 ```
 
-**Por** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K seguidores
+**Por** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K seguidores
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ Cena 6: Anúbis observa o servo partir, mantendo sua expressão indiferente, mas
 Anúbis é musculoso, com anéis e brincos nos braços, pescoço e orelhas. Ele está com o torso nu. Sua voz é profunda e magnética. O áudio está em inglês.
 ```
 
-**Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K seguidores
+**Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K seguidores
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ Fotorrealista 8K, texturas de tecido ultra detalhadas nos kits, iluminação cin
 
 **Por** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K seguidores
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ SHOT 15: WS, 50mm pull-out / L-cut com um match do laptop fechando para o reingr
 
 **Por** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K seguidores
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ LINHA DO TEMPO:
 0:11-0:15: MATCH CUT. CU para MS. Transição perfeita no meio do movimento enquanto suas mãos levantadas cruzam a mesma posição na tela e o close-up congelado torna-se o interior da casa com o mesmo enquadramento e deriva no sentido horário. O movimento continua ininterrupto, e agora um headset de VR está visivelmente preso sobre seus olhos pela primeira vez. Ela agarra ambos os lados, puxa-o completamente para fora do rosto, e a câmera abre para um plano médio enquanto ela o coloca acima da testa e entra em uma pequena sala de estar com roupas caseiras largas. A órbita da câmera na mão continua, revelando bordas de sofá, cobertores espalhados e luz fria da janela enquanto sua postura cai em leve aborrecimento. Ela se vira para a voz, revira os olhos para cima e diz: "O que é.". Lente natural de 35mm, esférica. SFX: (estiramento da alça do headset, fricção de plástico, tom de sala silencioso, raspagem de pé com meia, áudio de jogo fraco, sua respiração se acalmando, sua voz seca dizendo "O que é."). A luz do dia interna substitui o contraste do inverno.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K seguidores
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ QUALIDADE: 8K fotorrealista, física correta, desfoque de movimento em tecidos, 
 
 **Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K seguidores
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ CRONOLOGIA:
 0:12-0:15: Corte para POV estabilizado. Parada total repentina. O chef inclina a wok e desliza o prato finalizado para a tigela de porcelana — visível: macarrão uniformemente coberto, camarões rechonchudos, vegetais brilhantes. Ele levanta e apresenta a tigela diretamente para a câmera até que ela preencha o quadro. Um dedo toca a borda — vibração sutil. O vapor sobe rapidamente, expandindo-se até cobrir completamente a lente para um desvanecimento limpo.
 ```
 
-**Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K seguidores
+**Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K seguidores
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ QUALIDADE
 fotorrealista, iluminação cinematográfica, movimento de câmera fundamentado, atmosfera medieval rica, altamente detalhado
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K seguidores
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ Atmosfera: claustrofóbica, frenética, tensão de vida ou morte - mas, em últi
 O design de som sugere vento forte, ecos de respingos de água nos pneus e vibrações metálicas à medida que os guard-rails passam. A cena termina quando o gato salta para um canto sombrio e seguro, enquanto as vibrações residuais da câmera diminuem lentamente até a imobilidade.
 ```
 
-**Por** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K seguidores
+**Por** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K seguidores
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ O design de som sugere vento forte, ecos de respingos de água nos pneus e vibra
 Tomada de rastreamento de drone FPV em ritmo acelerado por trás, seguindo de perto uma garota em estilo anime 3D com cabelos brancos andando de skate por uma estrada de montanha íngreme e sinuosa em velocidade incrivelmente alta. Momento de avanço extremo, perspectiva grande angular, efeito de vento forte. O vídeo começa em um cenário vibrante de verão com montanhas verdes exuberantes, um céu brilhante e ensolarado, um oceano distante e folhas marrons passando pela câmera. Na marca de 3 segundos, uma onda mágica de geada varre para frente a partir do skate: o ambiente se transforma perfeitamente em uma paisagem de inverno congelante. A grama verde se transforma instantaneamente em neve branca profunda, flocos de neve pesados começam a cair e as montanhas distantes tornam-se picos cobertos de neve. A câmera nunca interrompe o movimento de rastreamento em declive intenso, suave e contínuo. Ação de alta octanagem, obra-prima de animação 3D, iluminação fotorrealista.
 ```
 
-**Por** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K seguidores
+**Por** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K seguidores
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ Tomada de rastreamento de drone FPV em ritmo acelerado por trás, seguindo de pe
 Androgenic planeja sua vingança depois de ter sua peruca arrancada. Faça meu cortisol disparar.
 ```
 
-**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K seguidores
+**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K seguidores
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ Androgenic planeja sua vingança depois de ter sua peruca arrancada. Faça meu c
 Um plano de acompanhamento cinematográfico e caótico com movimento de câmera na mão e trepidação mostra um explorador segurando um artefato de escaravelho antigo. Eles estão fugindo de uma múmia gigante que os persegue. Destroços e nuvens de poeira podem ser vistos. A múmia está fazendo com que seções da parede antiga desmoronem. O explorador foge freneticamente enquanto olha para trás ocasionalmente, é possível ouvir sua respiração pesada. Ela continua correndo até escapar por pouco quando a múmia quase a agarra, mas ela atinge um pilar fazendo com que ele caia sobre si mesma, o explorador então continua correndo para a entrada de uma tumba.
 ```
 
-**Por** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K seguidores
+**Por** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K seguidores
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1136,9 +1136,9 @@ Um plano de acompanhamento cinematográfico e caótico com movimento de câmera 
 Estilo técnico: Ação com alta velocidade de obturador, clarões de disparo realistas, câmera na mão com tremido, 24fps, diálogo em inglês.
 ```
 
-**Por** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K seguidores
+**Por** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K seguidores
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 

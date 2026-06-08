@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Kuratierte Prompts | 📚 Total prompts | 🎬 Modell | 🔄 Zuletzt aktualisiert |
 |:---:|:---:|:---:|:---:|
-| **26** | **26** | **Seedance 2.0** | **2026-06-07 21:17:21.633 UTC** |
+| **26** | **26** | **Seedance 2.0** | **2026-06-08 04:18:52.850 UTC** |
 
 </div>
 
@@ -126,7 +126,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es v…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es v…"></a>
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es völlig bescheuert ist und 50 Likes bekommt.
 ```
 
-**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
+**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
 
-❤️ 68.8K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -151,7 +151,7 @@ Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es völlig be
 
 ### 2. Eine durchschnittliche Schicht im Waffle House - stell sicher, dass e…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.2K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Eine durchschnittliche Schicht im Waffle House - stell sicher, dass e…"></a>
@@ -164,9 +164,9 @@ Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es völlig be
 Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig abgedreht ist und 50 Likes bekommt. (Hinweis: Der Begriff 'retarded' wurde im Sinne von 'abgedreht' oder 'verrückt' übersetzt, um den umgangssprachlichen Ton beizubehalten.)
 ```
 
-**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
+**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
 
-❤️ 24.2K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+❤️ 24.4K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
 
 <sub>📅 Feb 12, 2026</sub>
 
@@ -176,7 +176,7 @@ Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig a
 
 ### 3. Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey schlägt zurück. Mach die Mädchen stolz."></a>
@@ -189,9 +189,9 @@ Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig a
 Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 ```
 
-**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
+**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -201,7 +201,7 @@ Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 
 ### 4. KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigen…
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.3K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigen…"></a>
@@ -214,9 +214,9 @@ Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigend.
 ```
 
-**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.5K Follower
+**Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
 
-❤️ 12.3K · 🔁 1.2K · 🔖 4.3K · 👁 868.6K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -249,9 +249,9 @@ Das Bild bewahrt die sichtbare Pixelstruktur des Bildschirms, leichte Blendrefle
 Aufgenommen, um einer authentischen Sony Cyber-shot Point-and-Shoot-Kamera aus den frühen 2010er Jahren zu ähneln, unter Verwendung eines CCD-Sensors mit klassischem digitalen Rendering und unvollkommener Blitzbelichtung.
 ```
 
-**Von** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2K Follower
+**Von** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.1K Follower
 
-❤️ 3.1K · 🔁 297 · 🔖 2.9K · 👁 2M
+❤️ 3.1K · 🔁 300 · 🔖 2.9K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -292,9 +292,9 @@ Szene 6: Anubis sieht dem Diener nach. Sein Gesichtsausdruck ist immer noch läs
 Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er hat einen nackten Oberkörper. Seine Stimme ist tief und magnetisch. Die Sprache ist Englisch.
 ```
 
-**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
+**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K Follower
 
-❤️ 1.7K · 🔁 105 · 🔖 719 · 👁 65.6K
+❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -664,7 +664,7 @@ Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmisch
 
 **Von** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K Follower
 
-❤️ 783 · 🔁 78 · 🔖 915 · 👁 80.6K
+❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -735,7 +735,7 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rü
 
 **Von** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K Follower
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.2K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -801,9 +801,9 @@ ZEITSTRAHL:
 0:11-0:15: MATCH CUT. CU zu MS. Nahtloser Übergang mitten in der Bewegung, während ihre aufsteigenden Hände die gleiche Bildschirmposition kreuzen und die gefrorene Nahaufnahme zum Wohnraum mit derselben Rahmung und demselben Drift im Uhrzeigersinn wird. Die Bewegung geht ununterbrochen weiter, und nun ist zum ersten Mal ein VR-Headset sichtbar über ihren Augen geschnallt. Sie greift beide Seiten, zieht es vollständig vom Gesicht, und die Kamera öffnet sich zu einer Halbtotalen, während sie es über ihre Stirn schiebt und in lockerer Kleidung in ein kleines Wohnzimmer tritt. Die Handkamera-Orbit-Bewegung setzt sich fort und enthüllt Sofakanten, verstreute Decken und kaltes Fensterlicht, während ihre Haltung in leichte Genervtheit umschlägt. Sie dreht sich zur Stimme, verdreht die Augen nach oben und sagt: „Was ist denn.“ 35mm natürliches Objektiv, sphärisch. SFX: (Dehnen des Headset-Bands, Plastikreiben, leiser Raumton, Sockenfüße scharren, schwaches Spiel-Audio, ihr Atem beruhigt sich, ihre trockene Stimme sagt: „Was ist denn.“). Tageslicht im Innenraum ersetzt den winterlichen Kontrast.
 ```
 
-**Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K Follower
+**Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K Follower
 
-❤️ 1.4K · 🔁 144 · 🔖 1K · 👁 176K
+❤️ 1.5K · 🔁 144 · 🔖 1K · 👁 176.3K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -837,7 +837,7 @@ QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen,
 
 **Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
 
-❤️ 1.3K · 🔁 112 · 🔖 468 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -921,9 +921,9 @@ ZEITPLAN:
 0:12-0:15: Schnitt auf stabilisiertes POV. Plötzlicher vollständiger Stopp. Der Koch neigt den Wok und lässt das fertige Gericht in die Porzellanschüssel gleiten – sichtbar: gleichmäßig überzogene Nudeln, pralle Garnelen, glänzendes Gemüse. Er hebt die Schüssel an und präsentiert sie direkt vor die Kamera, bis sie den Rahmen ausfüllt. Ein Finger tippt auf den Rand – subtile Vibration. Dampf steigt schnell auf und dehnt sich aus, bis er die Linse für ein sauberes Ausblenden vollständig bedeckt.
 ```
 
-**Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.1K Follower
+**Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K Follower
 
-❤️ 3.1K · 🔁 248 · 🔖 2.2K · 👁 365.1K
+❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -987,9 +987,9 @@ QUALITÄT
 fotorealistisch, filmische Beleuchtung, bodenständige Kamerabewegung, reiche mittelalterliche Atmosphäre, hochdetailliert
 ```
 
-**Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 16.5K Follower
+**Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K Follower
 
-❤️ 754 · 🔁 82 · 🔖 841 · 👁 153K
+❤️ 755 · 🔁 80 · 🔖 840 · 👁 153.4K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -1030,9 +1030,9 @@ Atmosphäre: klaustrophobisch, hektisch, lebensgefährliche Spannung – aber le
 Das Sounddesign suggeriert scharfen, rauschenden Wind, hallende Reifen-Wasser-Spritzer und metallische Vibrationen, während Leitplanken vorbeiziehen. Die Szene endet, als die Katze in eine sichere, schattige Ecke springt, während die restlichen Vibrationen der Kamera langsam zur Ruhe kommen.
 ```
 
-**Von** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.3K Follower
+**Von** [el.cine ✓](https://x.com/EHuanglu) (@EHuanglu) · 131.4K Follower
 
-❤️ 753 · 🔁 58 · 🔖 500 · 👁 93.7K
+❤️ 755 · 🔁 58 · 🔖 501 · 👁 93.7K
 
 <sub>📅 Mar 6, 2026</sub>
 
@@ -1055,9 +1055,9 @@ Das Sounddesign suggeriert scharfen, rauschenden Wind, hallende Reifen-Wasser-Sp
 Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mädchen mit weißen Haaren folgt, das mit unglaublich hoher Geschwindigkeit eine steile, kurvenreiche Bergstraße hinunterfährt. Extreme Vorwärtsbewegung, Weitwinkelperspektive, Windrauscheffekt. Das Video beginnt in einer lebendigen Sommerumgebung mit üppigen grünen Bergen, einem hellen, sonnigen Himmel, einem fernen Ozean und braunen Blättern, die an der Kamera vorbeifliegen. Bei der 3-Sekunden-Marke fegt eine magische Frostwelle vom Skateboard aus nach vorne: Die Umgebung verwandelt sich nahtlos in eine eisige Winterlandschaft. Das grüne Gras verwandelt sich sofort in tiefen weißen Schnee, dicke Schneeflocken beginnen zu fallen und die fernen Berge werden zu schneebedeckten Gipfeln. Die Kamera unterbricht niemals die intensive, flüssige, kontinuierliche Abwärts-Verfolgung. Actiongeladen, Meisterwerk der 3D-Animation, fotorealistische Beleuchtung.
 ```
 
-**Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.8K Follower
+**Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K Follower
 
-❤️ 1.8K · 🔁 202 · 🔖 668 · 👁 157.2K
+❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -1080,9 +1080,9 @@ Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mäd
 Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. Sorge dafür, dass mein Cortisolspiegel in die Höhe schießt.
 ```
 
-**Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.3K Follower
+**Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K Follower
 
-❤️ 1.2K · 🔁 114 · 🔖 355 · 👁 108.2K
+❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -1105,9 +1105,9 @@ Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. 
 Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wackeln zeigt eine Entdeckerin, die ein altes Skarabäus-Artefakt hält. Sie rennt vor einer riesigen, sie verfolgenden Mumie davon. Trümmer und Staubwolken sind zu sehen. Die Mumie lässt Teile der alten Mauer einstürzen. Die Entdeckerin rennt panisch davon und schaut gelegentlich zurück, man kann ihren schweren Atem hören. Sie rennt weiter, bis sie knapp entkommt, als die Mumie sie fast erwischt, aber gegen eine Säule prallt, die auf sie selbst stürzt; die Entdeckerin rennt dann weiter in den Eingang eines Grabes hinein.“,
 ```
 
-**Von** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.2K Follower
+**Von** [Travis Davids ✓](https://x.com/MrDavids1) (@MrDavids1) · 22.3K Follower
 
-❤️ 1.1K · 🔁 115 · 🔖 507 · 👁 70.1K
+❤️ 1.2K · 🔁 113 · 🔖 507 · 👁 70.1K
 
 <sub>📅 Feb 17, 2026</sub>
 
@@ -1134,9 +1134,9 @@ Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wac
 [Szene 3: Auflösung über die Schulter] Die Kamera befindet sich direkt hinter der rechten Schulter des SWAT-Beamten. Wir sehen die Rückseite seines Helms und sein Gewehr im Vordergrund. In der Ferne (Mittelgrund) ist der Killer immer noch zu sehen, wie er das Mädchen festhält. Der Killer schreit ein letztes Mal: "ICH TUE ES!", woraufhin das Gewehr des Beamten mit einem Einzelschuss zurückstößt und den Kopf des Feindes trifft. Der Killer fällt sofort zu Boden. Das Mädchen bleibt stehen, schockiert, aber unverletzt. Technischer Stil: Action mit hoher Verschlusszeit, realistische Mündungsfeuer, Handkamera-Wackeln, 24fps, englischer Dialog.
 ```
 
-**Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.7K Follower
+**Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K Follower
 
-❤️ 1.8K · 🔁 167 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
