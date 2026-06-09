@@ -7,10 +7,10 @@ This file lists **source-layer** prompts only (`text` / `image` / `video` from t
 ## Prompt index
 
 - [1. Sum up the AI discourse in a meme - make sure it’s retarded and gets…](#prompt-95f4c71a-48bb-4f7c-ba4a-6f19d6639860)
-- [2. An average shift at Waffle House - make sure it's retarded and gets 5…](#prompt-0acf7726-c731-433b-9911-071d5379f13a)
-- [3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…](#prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d)
-- [4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…](#prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3)
-- [5. Punch the Monkey punches back. Make the girls proud.](#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
+- [2. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…](#prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d)
+- [3. Ultra-realistic sports broadcast still of a glamorous woman sitting i…](#prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3)
+- [4. Punch the Monkey punches back. Make the girls proud.](#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
+- [5. AI goes woke. Make it really offensive - like really offensive.](#prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5)
 - [6. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-377a0df9-9738-4426-b5ab-9a97400a60ec)
 - [7. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…](#prompt-0c68718f-7b40-45ba-97cc-f9577219d5ad)
 - [8. Continuous livestream-style video of three young women (early-mid 20s…](#prompt-23f9d280-9687-445d-883b-395fa806fb5c)
@@ -62,16 +62,12 @@ This file lists **source-layer** prompts only (`text` / `image` / `video` from t
 - [54. Fast-paced FPV drone tracking shot from behind, closely following a 3…](#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
 - [55. Androgenic plots his revenge after getting his wig snatched. Make my…](#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
 - [56. Make a Pixar film about Punch. I want to cry and fall in love with hi…](#prompt-ef4d6f90-c07c-4472-8c24-7bc47a8cdeb4)
-- [57. AI goes woke. Make it really offensive - like really offensive.](#prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5)
-- [58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…](#prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4)
-- [59. Why follow Hollywood when you have the power and freedom to create en…](#prompt-147656c1-6c95-4468-94a0-de701a83011e)
-- [60. Speeder chase across a cliff city (single continuous shot) From a mon…](#prompt-f03e21bc-8eb4-4e97-9339-c193ef117911)
-- [61. Luffy and Goku having an epic fight scene on the sunny.](#prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059)
-- [62. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…](#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-- [63. tyler durden explains fight club rules to jujutsu kaisen characters.…](#prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697)
-- [64. Prompt: A realistic close-up shot of a small digital camera screen gl…](#prompt-e40c07de-796f-4564-8f26-54bf595e68ae)
-- [65. A cinematic and chaotic tracking shot with handheld camera motion and…](#prompt-b177a667-89e2-4afb-97c2-5d929a65b549)
-- [66. Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.…](#prompt-45f4a966-8169-418b-9da7-b623acd81498)
+- [57. First-person POV dragon rider, 15 seconds, raw ungraded film footage…](#prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4)
+- [58. Why follow Hollywood when you have the power and freedom to create en…](#prompt-147656c1-6c95-4468-94a0-de701a83011e)
+- [59. Speeder chase across a cliff city (single continuous shot) From a mon…](#prompt-f03e21bc-8eb4-4e97-9339-c193ef117911)
+- [60. Luffy and Goku having an epic fight scene on the sunny.](#prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059)
+- [61. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…](#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
+- [62. tyler durden explains fight club rules to jujutsu kaisen characters.…](#prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697)
 
 ---
 
@@ -98,26 +94,9 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ---
 
-<a id="prompt-0acf7726-c731-433b-9911-071d5379f13a"></a>
-
-### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-An average shift at Waffle House - make sure it's retarded and gets 50 likes.
-```
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
 <a id="prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d"></a>
 
-### 3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
+### 2. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -140,7 +119,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 <a id="prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3"></a>
 
-### 4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
+### 3. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -163,7 +142,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 <a id="prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6"></a>
 
-### 5. Punch the Monkey punches back. Make the girls proud.
+### 4. Punch the Monkey punches back. Make the girls proud.
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -178,6 +157,29 @@ Punch the Monkey punches back. Make the girls proud.
 ❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+<a id="prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5"></a>
+
+### 5. AI goes woke. Make it really offensive - like really offensive.
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
+**📝 Prompt (source)**
+
+```
+AI goes woke. Make it really offensive - like really offensive.
+```
+
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
+
+<sub>📅 Feb 19, 2026</sub>
 
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
@@ -2667,7 +2669,7 @@ There should be no dialogue, text, or narration.
 
 **By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K followers
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 346.3K
+❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.4K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -3287,32 +3289,9 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
-<a id="prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5"></a>
-
-### 57. AI goes woke. Make it really offensive - like really offensive.
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-AI goes woke. Make it really offensive - like really offensive.
-```
-
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
-
-<sub>📅 Feb 19, 2026</sub>
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
 <a id="prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4"></a>
 
-### 58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
+### 57. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3337,7 +3316,7 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 <a id="prompt-147656c1-6c95-4468-94a0-de701a83011e"></a>
 
-### 59. Why follow Hollywood when you have the power and freedom to create en…
+### 58. Why follow Hollywood when you have the power and freedom to create en…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3360,7 +3339,7 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 <a id="prompt-f03e21bc-8eb4-4e97-9339-c193ef117911"></a>
 
-### 60. Speeder chase across a cliff city (single continuous shot) From a mon…
+### 59. Speeder chase across a cliff city (single continuous shot) From a mon…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3383,7 +3362,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 <a id="prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059"></a>
 
-### 61. Luffy and Goku having an epic fight scene on the sunny.
+### 60. Luffy and Goku having an epic fight scene on the sunny.
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3406,7 +3385,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 <a id="prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6"></a>
 
-### 62. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…
+### 61. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3429,7 +3408,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 <a id="prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697"></a>
 
-### 63. tyler durden explains fight club rules to jujutsu kaisen characters.…
+### 62. tyler durden explains fight club rules to jujutsu kaisen characters.…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3444,99 +3423,6 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 ❤️ 2.5K · 🔁 189 · 🔖 807 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-<a id="prompt-e40c07de-796f-4564-8f26-54bf595e68ae"></a>
-
-### 64. Prompt: A realistic close-up shot of a small digital camera screen gl…
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-Prompt: A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
-
-She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
-
-The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
-
-Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
-
-The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
-
-Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
-```
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-<a id="prompt-b177a667-89e2-4afb-97c2-5d929a65b549"></a>
-
-### 65. A cinematic and chaotic tracking shot with handheld camera motion and…
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
-```
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-<a id="prompt-45f4a966-8169-418b-9da7-b623acd81498"></a>
-
-### 66. Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.…
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.
-The subject is never shown fully, only fragmented close-ups pass the lens:the tip of an ear, whiskers, the edge of a paw, fur on the back
-brushing across the camera. The image performs rapid focus shifts beetween the trembling ear/whiskers and nearby environmental
-obstacles. 120fps high-frame-rate cinematography captures the highfrequency vibration and subtle tremors when the cat runs and
-lands.
-
-Setting: an underground parking garage.
-Rough concrete floor, numbered pillars with unreadable markings, puddles are tracks reflecting light. The air is filled with fine dust
-and condensation mist. Distant headlights and cold white ceiling LEDSs create sweeping contrast lighting. The space echoes, empty
-oppressive, and cavernous.
-
-Movement dynamics are highly irregular.
-The cat follows a nonlinear predator path through narrow gaps between pillars and parked cars, sharp 90° turns, explosive ground-level
-acceleration, tight lateral rolls skimming past door seams and guardreail edges. The camera follows with high-frequency vibration
-synchronized with the rhythm of the cat's footsteps, producing forced micrkes. Exaggerated motion parallax makes pillars and
-wheels rapidly enlarge and streak past the lens.
-
-Key physical interaction moment:
-An invisible downwash gust (from a passing vehicle and ventiilation airflow) whips loose parking tickets, thin plastic bags,and fine dust
-from the ground into a spirgling tunnel. As the cat bursts through, screaps of paper stretch into radial speed lines under fisheye distortion
-A tire rolls through a puddle, splashing fine droplets; water beeads create realistic refraction and caustics in front of the lerns.
-
-Climactic moment:
-A car headlight suddenly sweeps across the scene. The wet ground flashes le a mirror. The cat's paws slip briefly into a chaotic spiral
-loss of control, not injured, just a dangerous skid. The footage instantlyes to 120fps slow motion: claws gripping the ground, fur
-trembling, droplets flinging outward in arcs, surface tension sstretching the water into threads
-
-Immediately afterward the motion returns to extreme speed. The cat ssprints along the edge of a ramp, hugging the wall, and precisely
-darts into a half-open maintenance door / narrow fence gap, escaping
-
-Atmosphere: claustrophobic, frantic, life-or-death tension-but ultimately a successful escape
-Sound design suggests sharp rushing wind, echoing tire-water splashes, andmetallic vibrations as guardrails whip past. The scene ends
-as the cat leaps into a safe shadowy corner, while the camera's residual vibrations slowly settle into stillness
-```
 
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**

@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-66_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Curated prompts | 📚 Total prompts | 🎬 Model | 🔄 Last updated |
 |:---:|:---:|:---:|:---:|
-| **66** | **66** | **Seedance 2.0** | **2026-06-09 03:50:15.069 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-09 07:53:33.866 UTC** |
 
 </div>
 
@@ -149,21 +149,7 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ---
 
-### 2. Waffle House Shift Chaos
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-**📝 Prompt**
-
-```
-An average shift at Waffle House - make sure it's retarded and gets 50 likes.
-```
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 3. Luffy Raging While Coding on Thousand Sunny
+### 2. Luffy Raging While Coding on Thousand Sunny
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
@@ -188,7 +174,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ---
 
-### 4. Candid sports broadcast stadium scene
+### 3. Candid sports broadcast stadium scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
@@ -213,7 +199,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 ---
 
-### 5. Punch the Monkey's Retaliation
+### 4. Punch the Monkey's Retaliation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
@@ -233,6 +219,31 @@ Punch the Monkey punches back. Make the girls proud.
 ❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 5. Satirical AI social commentary
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Satirical AI social commentary"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+AI goes woke. Make it really offensive - like really offensive.
+```
+
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
+
+<sub>📅 Feb 19, 2026</sub>
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
@@ -1019,33 +1030,33 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 ---
 
-### 15. 90年代迪士尼风格：阿努比斯的秘密赠礼
+### 15. 90s Disney Style: Anubis's Secret Gift
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼风格：阿努比斯的秘密赠礼"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90s Disney Style: Anubis's Secret Gift"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-经典的90年代迪士尼动画风格。
+Classic 90s Disney animation style.
 
-场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士兵、顾问和一些卑微的仆人，都是人类）跪在他面前。他漫不经心地挥了挥手，轻蔑地对他们说：“现在离开。”然后便懒洋洋地靠回王座，一副百无聊赖的样子。
+Scene 1: Inside an Egyptian palace, the camera cuts to the interior of the throne room. We see the majestic jackal god Anubis sitting on his throne, with a group of subordinates (soldiers, advisors, and some humble servants, all human) kneeling before him. He waves his hand carelessly and says dismissively, "Leave now." He then leans back lazily on the throne, looking bored.
 
-场景二：下属们毫不犹豫地遵从他的命令，缓缓离去，阿努比斯注视着他们。但最后一个，一个卑微的人类仆人，阿努比斯却特意吩咐道：“你，仆人，等等。”仆人转过身来，一脸困惑和惊讶，不明白威严的阿努比斯究竟想要什么。
+Scene 2: The subordinates obey his command without hesitation and slowly leave. Anubis watches them. But for the last one, a humble human servant, Anubis specifically orders, "You, servant, wait." The servant turns around, looking confused and surprised, not understanding what the majestic Anubis wants.
 
-场景三：其他下属都已离开，阿努比斯说：“过来。”仆人有些紧张，仍然一头雾水，走向阿努比斯。
+Scene 3: The other subordinates have left. Anubis says, "Come here." The servant, feeling nervous and still puzzled, walks toward Anubis.
 
-场景4：阿努比斯从王座后取出一束鲜花，神情漫不经心地将花束递到一脸惊讶的仆人面前。他微微侧过头，略显尴尬，不愿直视仆人的眼睛，说道：“拿着吧。”
+Scene 4: Anubis pulls a bouquet of flowers from behind the throne and, with a casual expression, hands them to the surprised servant. He turns his head slightly, looking a bit embarrassed, avoiding eye contact with the servant, and says, "Take it."
 
-场景5：仆人接过花束，脸上依然带着困惑。阿努比斯仍然没有看向他，挥了挥手，说道：“你可以走了。”仆人点点头，拿着花束，一脸茫然地离开了。
+Scene 5: The servant takes the bouquet, still looking confused. Anubis, still not looking at him, waves his hand and says, "You may go." The servant nods, takes the bouquet, and leaves, looking bewildered.
 
-场景6：阿努比斯目送仆人离去，脸上依旧是漫不经心的表情，但嘴角却浮现出一丝微笑。他手托着下巴，目送仆人离去，似乎对这位仆人颇有好感。
+Scene 6: Anubis watches the servant leave. He still has a casual expression, but a faint smile appears at the corner of his mouth. He rests his chin on his hand, watching the servant depart, seemingly quite fond of him.
 
-阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
+Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He is shirtless. His voice is deep and magnetic. The audio is in English.
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K followers
@@ -1407,19 +1418,33 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 ---
 
-### 21. 阿努比斯的怕痒时刻
+### 21. Anubis's Ticklish Moment
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕痒时刻"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Anubis's Ticklish Moment"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时，他注意到一个年轻人正伸手去拿附近桌子上一本关于仪式的书籍。阿努比斯见状，迅速夺过书本，用一只手臂高高举过头顶，露出腋窝，用他那温和而坚定的语气说道：这本书不适合像他这样的人。 场景二：年轻人一脸失望，但随即露出狡黠的笑容，问阿努比斯是否怕痒，同时伸手去挠阿努比斯举起的手臂的腋窝，这让阿努比斯有些摸不着头脑。 场景3：特写镜头，人类的手在阿努比斯的腋下上下滑动手指，不断重复这个动作。背景中传来阿努比斯压抑的咯咯笑声，表明他确实很怕痒。 场景4：特写镜头，阿努比斯的上半身，人类的手继续在阿努比斯的腋下上下滑动手指。阿努比斯闭着眼睛，咧嘴大笑，发出压抑的咯咯笑声。 场景5：人类继续用手挠阿努比斯的腋窝，阿努比斯闭着眼睛咯咯笑着。阿努比斯的笑声证实了他确实很怕痒，然后他又开始咯咯地笑，而人类则继续挠他的腋窝。 场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
+Modern Chinese 3D animation style.
+
+Scene 1: In a large Egyptian library, we see the majestic jackal god Anubis with his hands behind his back, examining the bookshelves with a nonchalant expression, his posture dignified. At this moment, he notices a young person reaching for a book about rituals on a nearby table. Seeing this, Anubis quickly snatches the book, holding it high above his head with one arm, exposing his armpit, and says in his gentle yet firm tone: This book is not for someone like him.
+
+Scene 2: The young person looks disappointed, but then reveals a sly smile, asking Anubis if he is ticklish, while reaching out to tickle the armpit of Anubis's raised arm, which leaves Anubis somewhat confused.
+
+Scene 3: Close-up shot, the human's hand slides fingers up and down under Anubis's armpit, repeating this action continuously. Suppressed giggles from Anubis are heard in the background, indicating that he is indeed very ticklish.
+
+Scene 4: Close-up shot, Anubis's upper body, the human's hand continues to slide fingers up and down under Anubis's armpit. Anubis closes his eyes, grinning broadly, and lets out suppressed giggles.
+
+Scene 5: The human continues to tickle Anubis's armpit with their hand, and Anubis giggles with his eyes closed. Anubis's laughter confirms that he is indeed very ticklish, and then he starts giggling again while the human continues to tickle his armpit.
+
+Scene 6: Anubis continues to giggle, finally throwing the book to the ground and wrapping his arms around himself, covering his armpits. The human stops tickling and picks up the book. Anubis giggles, seemingly still immersed in the laughter, saying while laughing that he hates being tickled. The human smiles and takes the book.
+
+Anubis is muscular, wearing rings on his arms and neck. His voice is deep, magnetic, and charismatic. Anubis's armpit is being tickled.
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K followers
@@ -2577,19 +2602,27 @@ SFX: silence → breakdown scream
 
 ---
 
-### 37. 复古迪士尼风格：阿努比斯的挠痒趣事
+### 37. Vintage Disney Style: Anubis's Ticklish Mishap
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="复古迪士尼风格：阿努比斯的挠痒趣事"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="Vintage Disney Style: Anubis's Ticklish Mishap"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递给他一份关于新税法的文档，恭敬地劝他签字，阿努比斯却一脸不耐烦，表示自己对这种琐事毫无兴趣。 场景二：顾问一脸不耐烦地扔掉文档，掏出一根羽毛，走到阿努比斯面前，用羽毛轻轻拂过他的腋窝，这让阿努比斯有些摸不着头脑。 场景三：镜头特写，人类的手用羽毛轻轻地在阿努比斯的腋窝上来回拂动，动作反复，背景中传来阿努比斯压抑的笑声，显然他非常怕痒。 场景4：特写镜头展现阿努比斯的上半身，人类的手用羽毛轻轻地在他腋下来回拂动，阿努比斯咧嘴一笑，闭着眼睛，发出闷闷的笑声，而顾问则继续用羽毛挠他的腋窝。 场景5：顾问继续用羽毛挠阿努比斯的腋窝，阿努比斯闭着眼睛大声笑着。阿努比斯不由自主地抬起手臂，让腋窝更多地暴露在挠痒的羽毛下。阿努比斯继续大声笑着，顾问则继续用羽毛挠他的腋窝。 场景6：顾问继续用羽毛挠阿努比斯的腋窝，阿努比斯闭着眼睛大声笑着。他笑着说他会签名，然后又继续笑个不停。顾问对这个回答很满意，停了下来，点了点头。 第七幕：阿努比斯在事后忍不住轻笑了几声，随即恢复了镇定，说道他的顾问应该庆幸自己如此怕痒。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉沙哑。阿努比斯的腋窝被挠痒。对话为英文。
+Classic vintage Disney animation style.
+Scene 1: Inside an Egyptian palace, the mighty jackal god Anubis sits lazily on his throne, his arms hanging naturally at his sides, exposing his armpits. An advisor stands before him, presenting a document about new tax laws and respectfully urging him to sign it, but Anubis looks impatient, showing no interest in such trivial matters.
+Scene 2: The advisor, looking impatient, tosses the document aside, pulls out a feather, walks up to Anubis, and gently brushes the feather against his armpit, leaving Anubis confused.
+Scene 3: Close-up shot, the human hand uses the feather to gently brush back and forth in Anubis's armpit repeatedly. In the background, Anubis's suppressed laughter can be heard; it is clear he is very ticklish.
+Scene 4: Close-up shot showing Anubis's upper body. The human hand uses the feather to gently brush back and forth in his armpit. Anubis grins, eyes closed, letting out muffled laughter, while the advisor continues to tickle his armpit with the feather.
+Scene 5: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. Anubis involuntarily raises his arm, exposing his armpit more to the tickling feather. Anubis continues to laugh loudly, while the advisor keeps tickling his armpit.
+Scene 6: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. He laughs and says he will sign, then continues to laugh uncontrollably. The advisor is satisfied with this answer, stops, and nods.
+Scene 7: After the event, Anubis cannot help but chuckle a few times, then regains his composure, saying his advisor should be glad he is so ticklish.
+Anubis is muscular, wearing rings on his arms and neck. His voice is deep and raspy. Anubis's armpits are being tickled. Dialogue is in English.
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K followers
@@ -2793,7 +2826,7 @@ There should be no dialogue, text, or narration.
 
 **By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K followers
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 346.3K
+❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.4K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -3446,32 +3479,7 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
-### 57. Satirical AI social commentary
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="Satirical AI social commentary"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-AI goes woke. Make it really offensive - like really offensive.
-```
-
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K followers
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
-
-<sub>📅 Feb 19, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 58. Dragon Rider POV Aerial Combat
+### 57. Dragon Rider POV Aerial Combat
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3498,7 +3506,7 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 ---
 
-### 59. The Era of Limitless Imagination
+### 58. The Era of Limitless Imagination
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3523,7 +3531,7 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 ---
 
-### 60. High-Speed Speeder Chase Through Cliff City
+### 59. High-Speed Speeder Chase Through Cliff City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3548,7 +3556,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 ---
 
-### 61. Luffy and Goku Epic Battle
+### 60. Luffy and Goku Epic Battle
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3573,7 +3581,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 62. SWAT Hostage Rescue Action Sequence
+### 61. SWAT Hostage Rescue Action Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3598,7 +3606,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 63. Tyler Durden teaching Jujutsu Kaisen characters
+### 62. Tyler Durden teaching Jujutsu Kaisen characters
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3618,90 +3626,6 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 ❤️ 2.5K · 🔁 189 · 🔖 807 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 64. Nostalgic 2010s Digital Camera Screen Display
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-**📝 Prompt**
-
-```
-Prompt: A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
-
-She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
-
-The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
-
-Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
-
-The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
-
-Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
-```
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 65. Explorer escaping a mummy in ancient ruins
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-**📝 Prompt**
-
-```
-A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
-```
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 66. High-Speed FPV Cat Chase in Parking Garage
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-**📝 Prompt**
-
-```
-Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.
-The subject is never shown fully, only fragmented close-ups pass the lens:the tip of an ear, whiskers, the edge of a paw, fur on the back
-brushing across the camera. The image performs rapid focus shifts beetween the trembling ear/whiskers and nearby environmental
-obstacles. 120fps high-frame-rate cinematography captures the highfrequency vibration and subtle tremors when the cat runs and
-lands.
-
-Setting: an underground parking garage.
-Rough concrete floor, numbered pillars with unreadable markings, puddles are tracks reflecting light. The air is filled with fine dust
-and condensation mist. Distant headlights and cold white ceiling LEDSs create sweeping contrast lighting. The space echoes, empty
-oppressive, and cavernous.
-
-Movement dynamics are highly irregular.
-The cat follows a nonlinear predator path through narrow gaps between pillars and parked cars, sharp 90° turns, explosive ground-level
-acceleration, tight lateral rolls skimming past door seams and guardreail edges. The camera follows with high-frequency vibration
-synchronized with the rhythm of the cat's footsteps, producing forced micrkes. Exaggerated motion parallax makes pillars and
-wheels rapidly enlarge and streak past the lens.
-
-Key physical interaction moment:
-An invisible downwash gust (from a passing vehicle and ventiilation airflow) whips loose parking tickets, thin plastic bags,and fine dust
-from the ground into a spirgling tunnel. As the cat bursts through, screaps of paper stretch into radial speed lines under fisheye distortion
-A tire rolls through a puddle, splashing fine droplets; water beeads create realistic refraction and caustics in front of the lerns.
-
-Climactic moment:
-A car headlight suddenly sweeps across the scene. The wet ground flashes le a mirror. The cat's paws slip briefly into a chaotic spiral
-loss of control, not injured, just a dangerous skid. The footage instantlyes to 120fps slow motion: claws gripping the ground, fur
-trembling, droplets flinging outward in arcs, surface tension sstretching the water into threads
-
-Immediately afterward the motion returns to extreme speed. The cat ssprints along the edge of a ramp, hugging the wall, and precisely
-darts into a half-open maintenance door / narrow fence gap, escaping
-
-Atmosphere: claustrophobic, frantic, life-or-death tension-but ultimately a successful escape
-Sound design suggests sharp rushing wind, echoing tire-water splashes, andmetallic vibrations as guardrails whip past. The scene ends
-as the cat leaps into a safe shadowy corner, while the camera's residual vibrations slowly settle into stillness
-```
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
