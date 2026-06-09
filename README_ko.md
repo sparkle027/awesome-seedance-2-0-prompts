@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-09 07:53:33.866 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-09 11:19:43.562 UTC** |
 
 </div>
 
@@ -533,72 +533,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 
 ---
 
-### 9. Lays 2026 월드컵 광고
-
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="Lays 2026 월드컵 광고"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
-</div>
-
-**📝 프롬프트**
-
-```
-2026 월드컵 × LAYS 광고
-
-30초 분량의 영화 같은 스포츠 광고, 16:9, 초현실적인 FIFA 월드컵 광고 스타일.
-
-1부 — 골을 기다리며 (0:00–0:15)
-
-아르헨티나 팬 존으로 변신한 현대적인 거실. 친구들이 대형 화면으로 FIFA 월드컵 2026 결승전을 시청합니다. 곳곳에 아르헨티나 국기가 걸려 있습니다. 월드컵 주제가, TV 중계 소리, 관중의 함성, 흥분한 대화 소리가 방을 가득 채웁니다.
-
-90분. 동점 상황. 아르헨티나가 마지막 공격을 시도합니다. 모두가 숨을 죽입니다. Ava는 긴장한 채 쿠션을 꽉 쥡니다. 친구들이 “Argentina! Argentina!”를 외치기 시작합니다.
-
-Ava가 월드컵 스페셜 에디션 Lays 봉지를 열어 친구들과 나눕니다. 황금빛 칩이 그릇에 쏟아집니다. 그녀가 칩을 한 입 베어 뭅니다.
-
-바삭.
-
-소리가 경기장의 함성과 섞입니다. 거실이 사라지면서 TV의 빛이 화면을 가득 채웁니다.
-
-2부 — 경기의 일부가 되다 (0:15–0:30)
-
-바삭 소리와 함께 Ava는 수천 명의 독특한 아르헨티나 서포터들로 가득 찬 2026 월드컵 경기장으로 이동합니다. 복제된 얼굴은 없습니다. 실제 관중의 모습입니다. 거대한 국기가 흔들리고 관중들이 포효합니다.
-
-해설자: “아르헨티나에게 마지막 기회가 왔습니다!”
-
-방송 스타일의 중계가 마지막 공격을 따라갑니다. 팬들은 숨을 죽입니다. 슛이 나갑니다.
-
-골.
-
-경기장이 폭발합니다. 꽃가루가 떨어집니다. 아르헨티나가 2026 월드컵 챔피언이 됩니다. 불꽃놀이가 경기장을 밝히는 가운데 Ava가 서포터들과 함께 환호합니다.
-
-다시 거실로 화면 전환. TV에서 골이 들어가는 장면이 나옵니다. 친구들이 환호하며 서로 껴안고 뛰며 현실적인 물리적 연속성을 보여줍니다.
-
-마지막 히어로 샷: 커피 테이블 위에 놓인 월드컵 에디션 Lays 봉지. Ava가 칩을 들고 있습니다.
-
-AVA:
-“Lays와 함께라면, 단순히 경기를 보는 것이 아니라...”
-바삭.
-
-“...경기의 일부가 되는 것입니다.”
-
-자막:
-LAYS 2026 월드컵
-한 번의 바삭함. 게임 시작.
-```
-
-**작성자:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K 팔로워
-
-❤️ 506 · 🔁 23 · 🔖 57 · 👁 38K
-
-<sub>📅 Jun 4, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 10. Karma Escape Cyber-Action Sequence
+### 9. Karma Escape Cyber-Action Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -706,7 +641,7 @@ P10: 거리에서의 최종 와이드 홀드; 위에서 연기가 쏟아지는 �
 
 ---
 
-### 11. 티파니 블루 북 2026 버터플라이 챕터
+### 10. 티파니 블루 북 2026 버터플라이 챕터
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -750,7 +685,7 @@ P10: 거리에서의 최종 와이드 홀드; 위에서 연기가 쏟아지는 �
 
 ---
 
-### 12. 환타 여름 캠페인 광고
+### 11. 환타 여름 캠페인 광고
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -869,7 +804,7 @@ P10: 거리에서의 최종 와이드 홀드; 위에서 연기가 쏟아지는 �
 
 ---
 
-### 13. 악몽의 각성: 타임폴 시네마틱 시퀀스
+### 12. 악몽의 각성: 타임폴 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -980,7 +915,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 14. 사이버펑크 액션 히어로 시네마틱 시퀀스
+### 13. 사이버펑크 액션 히어로 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1026,7 +961,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 15. 90년대 디즈니 스타일: 아누비스의 비밀 선물
+### 14. 90년대 디즈니 스타일: 아누비스의 비밀 선물
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1065,7 +1000,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 16. 일몰의 이스탄불을 가로지르는 영화 같은 드론 비행
+### 15. 일몰의 이스탄불을 가로지르는 영화 같은 드론 비행
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1091,7 +1026,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 17. 펠리치타 숲 추격 파쿠르 시퀀스
+### 16. 펠리치타 숲 추격 파쿠르 시퀀스
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1254,7 +1189,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 18. 럭셔리 초콜릿 광고 시네마틱 시퀀스
+### 17. 럭셔리 초콜릿 광고 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1319,7 +1254,7 @@ C1이 악몽의 시간 여행 공허를 통과하여 달빛 비치는 고딕 양
 
 ---
 
-### 19. 마음 따뜻해지는 친절한 행동
+### 18. 마음 따뜻해지는 친절한 행동
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1356,7 +1291,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 20. 심해 어부 다큐멘터리 시네마틱
+### 19. 심해 어부 다큐멘터리 시네마틱
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1414,7 +1349,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 21. 아누비스의 간지럼 타는 순간
+### 20. 아누비스의 간지럼 타는 순간
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1446,7 +1381,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 22. 한국 학교 액션 드라마 시퀀스
+### 21. 한국 학교 액션 드라마 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1501,7 +1436,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 23. 고속 애니메이션 무술 훈련 스토리보드
+### 22. 고속 애니메이션 무술 훈련 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1788,7 +1723,7 @@ Jūran은 차분함.
 
 ---
 
-### 24. 강렬한 테니스 경기 디지털 페인팅
+### 23. 강렬한 테니스 경기 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1837,7 +1772,7 @@ SFX: 라켓 타격음, 공 착지음, 숨소리
 
 ---
 
-### 25. 영화 같은 야구 타격 퍼포먼스
+### 24. 영화 같은 야구 타격 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1876,7 +1811,7 @@ SFX: 라켓 타격음, 공 착지음, 숨소리
 
 ---
 
-### 26. 영화적 쿵푸 퍼포먼스 스토리보드
+### 25. 영화적 쿵푸 퍼포먼스 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2009,7 +1944,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 27. 영춘권 훈련 디지털 페인팅
+### 26. 영춘권 훈련 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2054,7 +1989,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 28. 올림픽 다이버 디지털 페인팅 애니메이션
+### 27. 올림픽 다이버 디지털 페인팅 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2140,7 +2075,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 29. 영화적 쿵푸 퍼포먼스 스토리보드
+### 28. 영화적 쿵푸 퍼포먼스 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2273,7 +2208,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 30. 경기장 방송 화면 속 축구 팬
+### 29. 경기장 방송 화면 속 축구 팬
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2298,7 +2233,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 31. 야구장 전광판에 잡힌 관객의 자연스러운 모습
+### 30. 야구장 전광판에 잡힌 관객의 자연스러운 모습
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2326,7 +2261,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 32. 경쟁 격투 게임 전투 시퀀스
+### 31. 경쟁 격투 게임 전투 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2375,7 +2310,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 33. 영화 같은 줄넘기 퍼포먼스
+### 32. 영화 같은 줄넘기 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2415,7 +2350,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 34. 뉴욕 시티에 도착한 셀러브리티
+### 33. 뉴욕 시티에 도착한 셀러브리티
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2457,7 +2392,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 35. 구름 스케이트보드 구조 스토리보드
+### 34. 구름 스케이트보드 구조 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2549,7 +2484,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 36. 셰프 vs 바퀴벌레 주방 추격전
+### 35. 셰프 vs 바퀴벌레 주방 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2603,7 +2538,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 37. 레트로 디즈니 스타일: 아누비스의 간지럼 소동
+### 36. 레트로 디즈니 스타일: 아누비스의 간지럼 소동
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2628,7 +2563,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 38. 영화적 캐릭터 소개 및 참조 시트
+### 37. 영화적 캐릭터 소개 및 참조 시트
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2769,7 +2704,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 39. 3D 캐릭터 동작 참조 시트
+### 38. 3D 캐릭터 동작 참조 시트
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2827,7 +2762,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 40. 고옥탄가 포뮬러 1 레이싱 장면
+### 39. 고옥탄가 포뮬러 1 레이싱 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2854,7 +2789,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 41. 시간이 멈춘 영화 같은 스포츠 바 장면
+### 40. 시간이 멈춘 영화 같은 스포츠 바 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2891,7 +2826,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 42. 슬랩스틱 아이스크림 트릭 애니메이션
+### 41. 슬랩스틱 아이스크림 트릭 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2944,7 +2879,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 43. 빠른 템포의 아침 루틴 몽타주
+### 42. 빠른 템포의 아침 루틴 몽타주
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3015,7 +2950,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 44. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
+### 43. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3040,7 +2975,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 45. F16 날개 스턴트 트래킹 샷
+### 44. F16 날개 스턴트 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3073,7 +3008,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 46. VR 서바이벌 트랜지션: 황야에서 집으로
+### 45. VR 서바이벌 트랜지션: 황야에서 집으로
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3109,7 +3044,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 47. 고고도 로켓 서핑
+### 46. 고고도 로켓 서핑
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3143,7 +3078,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 48. 영화 같은 절벽 점프 트래킹 샷
+### 47. 영화 같은 절벽 점프 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3184,7 +3119,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 49. 회사원 심리 공포 변신
+### 48. 회사원 심리 공포 변신
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3218,7 +3153,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 50. 쿵푸 셰프의 면 요리 준비
+### 49. 쿵푸 셰프의 면 요리 준비
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3263,7 +3198,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 51. 슬랩스틱 아이스크림 코미디 애니메이션
+### 50. 슬랩스틱 아이스크림 코미디 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3301,7 +3236,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 52. 드라마틱한 해안 골프 드라이브
+### 51. 드라마틱한 해안 골프 드라이브
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3332,7 +3267,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 53. 시네마틱 중세 시장 연속 샷
+### 52. 시네마틱 중세 시장 연속 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3398,7 +3333,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 54. 계절 변화가 포함된 고속 FPV 드론 추격
+### 53. 계절 변화가 포함된 고속 FPV 드론 추격
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3423,7 +3358,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 55. 안드로제닉의 복수극
+### 54. 안드로제닉의 복수극
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3448,7 +3383,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 56. 픽사 스타일의 펀치(Punch)의 감동적인 여정
+### 55. 픽사 스타일의 펀치(Punch)의 감동적인 여정
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3473,7 +3408,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 57. 드래곤 라이더 POV 공중전
+### 56. 드래곤 라이더 POV 공중전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3500,7 +3435,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 58. 무한한 상상의 시대
+### 57. 무한한 상상의 시대
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3525,7 +3460,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 59. 절벽 도시를 가로지르는 고속 스피더 추격전
+### 58. 절벽 도시를 가로지르는 고속 스피더 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3550,7 +3485,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 60. 루피와 손오공의 에픽 배틀
+### 59. 루피와 손오공의 에픽 배틀
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3575,7 +3510,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 61. SWAT 인질 구출 액션 시퀀스
+### 60. SWAT 인질 구출 액션 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3606,7 +3541,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 62. 주술회전 캐릭터들을 가르치는 타일러 더든
+### 61. 주술회전 캐릭터들을 가르치는 타일러 더든
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 

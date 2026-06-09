@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-09 07:53:33.866 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-09 11:19:43.562 UTC** |
 
 </div>
 
@@ -533,72 +533,7 @@ Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsın
 
 ---
 
-### 9. Lays 2026 Dünya Kupası Reklamı
-
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="Lays 2026 Dünya Kupası Reklamı"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
-</div>
-
-**📝 İstem**
-
-```
-2026 DÜNYA KUPASI × LAYS REKLAMI
-
-30 saniyelik sinematik spor reklamı, 16:9, ultra gerçekçi FIFA Dünya Kupası reklam tarzı.
-
-BÖLÜM 1 — GOL BEKLENTİSİ (0:00–0:15)
-
-Arjantin taraftar bölgesine dönüşmüş modern bir oturma odası. Arkadaşlar dev ekranda 2026 FIFA Dünya Kupası Finalini izliyor. Her yerde Arjantin bayrakları. Dünya Kupası marşı, TV yorumları, kalabalık gürültüsü ve heyecanlı sohbetler odayı dolduruyor.
-
-90. dakika. Skor eşit. Arjantin son bir atak başlatıyor. Herkes sessizliğe bürünüyor. Ava gergin bir şekilde bir yastığı sıkıyor. Arkadaşlar “Arjantin! Arjantin!” diye tezahürat yapmaya başlıyor.
-
-Ava özel üretim Dünya Kupası Lays paketini açıyor ve paylaşıyor. Altın rengi cipsler bir kaseye dökülüyor. Bir ısırık alıyor.
-
-KITIRT.
-
-Ses, stadyum tezahüratlarıyla karışıyor. Oturma odası çözülürken TV ışığı kareyi dolduruyor.
-
-BÖLÜM 2 — OYUNUN BİR PARÇASI OL (0:15–0:30)
-
-Kıtırtı, Ava'yı binlerce benzersiz Arjantin taraftarıyla çevrili, tıklım tıklım dolu bir 2026 Dünya Kupası stadyumuna ışınlıyor. Klonlanmış yüzler yok. Gerçek kalabalık davranışı. Kalabalık kükrerken dev bayraklar dalgalanıyor.
-
-Yorumcu: “Arjantin'in son bir şansı var!”
-
-Yayın tarzı çekimler son atağı takip ediyor. Taraftarlar nefeslerini tutuyor. Şut çekiliyor.
-
-GOL.
-
-Stadyum patlıyor. Konfetiler yağıyor. Arjantin 2026 Dünya Kupası Şampiyonu. Ava, havai fişekler stadyumu aydınlatırken taraftarlarla kutlama yapıyor.
-
-Oturma odasına geri dönüş. Gol TV'de gerçekleşiyor. Arkadaşlar gerçekçi bir fiziksel devamlılıkla kutlama yapıyor, sarılıyor, tezahürat yapıyor ve zıplıyor.
-
-Final kahraman çekimi: Sehpanın üzerinde Dünya Kupası Özel Lays paketi. Ava bir cips tutuyor.
-
-AVA:
-“Lays ile sadece maçı izlemiyorsun...”
-Kıtırt.
-
-“...onun bir parçası oluyorsun.”
-
-ÜST YAZI:
-LAYS 2026 DÜNYA KUPASI
-BİR KITIRT. OYUN BAŞLASIN.
-```
-
-**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K takipçi
-
-❤️ 506 · 🔁 23 · 🔖 57 · 👁 38K
-
-<sub>📅 Jun 4, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 10. Karma Kaçış Siber-Aksiyon Sekansı
+### 9. Karma Kaçış Siber-Aksiyon Sekansı
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -706,7 +641,7 @@ P10: Sokakta final geniş tutuş: yukarıdan dumanlar boşalırken Karma gece pu
 
 ---
 
-### 11. Tiffany Blue Book 2026 Kelebek Bölümü
+### 10. Tiffany Blue Book 2026 Kelebek Bölümü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -750,7 +685,7 @@ SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşç
 
 ---
 
-### 12. Fanta Yaz Kampanyası Reklamı
+### 11. Fanta Yaz Kampanyası Reklamı
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -869,7 +804,7 @@ Altyazı yok.
 
 ---
 
-### 13. Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı
+### 12. Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -982,7 +917,7 @@ Promtları aşağıda bulabilirsiniz.
 
 ---
 
-### 14. Cyberpunk Aksiyon Kahramanı Sinematik Sekansı
+### 13. Cyberpunk Aksiyon Kahramanı Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1028,7 +963,7 @@ Sinematik aydınlatma, dramatik kenar aydınlatması, yoğun duman ve kıvılcı
 
 ---
 
-### 15. 90'lar Disney Tarzı: Anubis'in Gizli Hediyesi
+### 14. 90'lar Disney Tarzı: Anubis'in Gizli Hediyesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1067,7 +1002,7 @@ Anubis kaslıdır, kollarında ve boynunda halkalar ve küpeler vardır. Üstü 
 
 ---
 
-### 16. Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu
+### 15. Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1093,7 +1028,7 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, gün batı
 
 ---
 
-### 17. Felicita Orman Takibi Parkur Sekansı
+### 16. Felicita Orman Takibi Parkur Sekansı
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1256,7 +1191,7 @@ Tek bir sürekli arka takip kamerası, kesinti yok. Kamera onu el tipi FPV ivmes
 
 ---
 
-### 18. Lüks Çikolata Reklamı Sinematik Sekansı
+### 17. Lüks Çikolata Reklamı Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1321,7 +1256,7 @@ Lüks reklam, sinematik gerçekçilik, karamsar apartman, yemek sinematografisi,
 
 ---
 
-### 19. İç Isıtan Bir İyilik Hareketi
+### 18. İç Isıtan Bir İyilik Hareketi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1358,7 +1293,7 @@ Tam istem için DM atın
 
 ---
 
-### 20. Derin Deniz Balıkçısı Belgeseli Sinematik
+### 19. Derin Deniz Balıkçısı Belgeseli Sinematik
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1416,7 +1351,7 @@ Stil: Premium spor reklam enerjisiyle birleştirilmiş ultra gerçekçi National
 
 ---
 
-### 21. Anubis'in gıdıklanma anı
+### 20. Anubis'in gıdıklanma anı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1451,7 +1386,7 @@ Sahne 6: Anubis kıkırdamaya devam eder, sonunda kitabı yere atar ve kolların
 
 ---
 
-### 22. Kore Okul Aksiyon Draması Sekansı
+### 21. Kore Okul Aksiyon Draması Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1506,7 +1441,7 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 
 ---
 
-### 23. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
+### 22. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1793,7 +1728,7 @@ Metin yok. Filigran yok. Arayüz yok. Storyboard dışında ekstra aksiyon yok.
 
 ---
 
-### 24. Yoğun Tenis Maçı Dijital Çizimi
+### 23. Yoğun Tenis Maçı Dijital Çizimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1842,7 +1777,7 @@ SFX: Raket vuruş sesi, topun yere düşme sesi, nefes sesi
 
 ---
 
-### 25. Sinematik Beyzbol Sopası Performansı
+### 24. Sinematik Beyzbol Sopası Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1881,7 +1816,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 26. Sinematik Kung Fu Performansı Storyboard'u
+### 25. Sinematik Kung Fu Performansı Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2014,7 +1949,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, havada hareke
 
 ---
 
-### 27. Wing Chun Antrenmanı Dijital Boyama
+### 26. Wing Chun Antrenmanı Dijital Boyama
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2059,7 +1994,7 @@ Bitiş çekimi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit 
 
 ---
 
-### 28. Olimpik Dalıcı Dijital Boyama Animasyonu
+### 27. Olimpik Dalıcı Dijital Boyama Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2145,7 +2080,7 @@ Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci a
 
 ---
 
-### 29. Sinematik Kung Fu Performansı Taslak Panosu
+### 28. Sinematik Kung Fu Performansı Taslak Panosu
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2278,7 +2213,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı; havada hareke
 
 ---
 
-### 30. Stadyum yayın çekiminde futbol taraftarı
+### 29. Stadyum yayın çekiminde futbol taraftarı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2303,7 +2238,7 @@ Real Madrid - Barcelona maçı sırasında kalabalık bir futbol stadyumunda otu
 
 ---
 
-### 31. Beyzbol Maçında Doğal Fan Cam Görüntüsü
+### 30. Beyzbol Maçında Doğal Fan Cam Görüntüsü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2331,7 +2266,7 @@ Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik ayd�
 
 ---
 
-### 32. Rekabetçi Dövüş Oyunu Savaş Sekansı
+### 31. Rekabetçi Dövüş Oyunu Savaş Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2380,7 +2315,7 @@ Fotogerçekçi 8K, formalarda ultra detaylı kumaş dokuları, sinematik aydınl
 
 ---
 
-### 33. Sinematik İp Atlama Performansı
+### 32. Sinematik İp Atlama Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2420,7 +2355,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 34. New York City'de Ünlü Gelişi
+### 33. New York City'de Ünlü Gelişi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2462,7 +2397,7 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) basılı f
 
 ---
 
-### 35. Bulut Kaykayı Kurtarma Storyboard'u
+### 34. Bulut Kaykayı Kurtarma Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2554,7 +2489,7 @@ Görsel hareketi huzursuz olmaktan ziyade sakin ve kasıtlı tutun.
 
 ---
 
-### 36. Şef ve Hamam Böceği Mutfak Kovalamacası
+### 35. Şef ve Hamam Böceği Mutfak Kovalamacası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2608,7 +2543,7 @@ SFX: sessizlik → çöküş çığlığı
 
 ---
 
-### 37. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
+### 36. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2633,7 +2568,7 @@ Klasik retro Disney animasyon tarzı. Sahne 1: Mısır sarayında, heybetli çak
 
 ---
 
-### 38. Sinematik Karakter Tanıtımı ve Referans Sayfası
+### 37. Sinematik Karakter Tanıtımı ve Referans Sayfası
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2774,7 +2709,7 @@ Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şeki
 
 ---
 
-### 39. 3D Karakter Hareket Referans Sayfası
+### 38. 3D Karakter Hareket Referans Sayfası
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2832,7 +2767,7 @@ Herhangi bir diyalog, metin veya anlatım olmamalıdır.
 
 ---
 
-### 40. Yüksek oktanlı Formula 1 yarış sahnesi
+### 39. Yüksek oktanlı Formula 1 yarış sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2859,7 +2794,7 @@ Seedance 2.0 istemi aşağıda 👇
 
 ---
 
-### 41. Zamanı Durduran Sinematik Spor Barı Sahnesi
+### 40. Zamanı Durduran Sinematik Spor Barı Sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2896,7 +2831,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 42. Slapstick Dondurma Numarası Animasyonu
+### 41. Slapstick Dondurma Numarası Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2949,7 +2884,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 43. Hızlı Tempolu Sabah Rutini Montajı
+### 42. Hızlı Tempolu Sabah Rutini Montajı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3020,7 +2955,7 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 
 ---
 
-### 44. Wall Street'te düşen iş adamı bullet time efekti
+### 43. Wall Street'te düşen iş adamı bullet time efekti
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3045,7 +2980,7 @@ Bullet time efekti. New York, Wall Street'te buzlu ve ıslak bir sokakta kayıp 
 
 ---
 
-### 45. F16 Kanat Stunt Takip Çekimi
+### 44. F16 Kanat Stunt Takip Çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3078,7 +3013,7 @@ Kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik k
 
 ---
 
-### 46. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
+### 45. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3113,7 +3048,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 47. Yüksek İrtifada Roket Sörfü
+### 46. Yüksek İrtifada Roket Sörfü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3147,7 +3082,7 @@ KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapayl
 
 ---
 
-### 48. Sinematik uçurumdan atlama takip çekimi
+### 47. Sinematik uçurumdan atlama takip çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3188,7 +3123,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 
 ---
 
-### 49. Ofis Çalışanı Psikolojik Korku Dönüşümü
+### 48. Ofis Çalışanı Psikolojik Korku Dönüşümü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3222,7 +3157,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 50. Kung Fu Şefi Noodle Hazırlığı
+### 49. Kung Fu Şefi Noodle Hazırlığı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3267,7 +3202,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 51. Slapstick Dondurma Komedisi Animasyonu
+### 50. Slapstick Dondurma Komedisi Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3305,7 +3240,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 52. Dramatik Kıyı Golf Vuruşu
+### 51. Dramatik Kıyı Golf Vuruşu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3336,7 +3271,7 @@ Projektil düz ve isabetli bir şekilde ilerlerken uğuldayan rüzgar kükrer. B
 
 ---
 
-### 53. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
+### 52. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3402,7 +3337,7 @@ fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengi
 
 ---
 
-### 54. Mevsim geçişli yüksek hızlı FPV drone takibi
+### 53. Mevsim geçişli yüksek hızlı FPV drone takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3427,7 +3362,7 @@ Arkadan çekilen, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D ani
 
 ---
 
-### 55. Androgenic'in İntikam Planı
+### 54. Androgenic'in İntikam Planı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3452,7 +3387,7 @@ Androgenic, peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviye
 
 ---
 
-### 56. Punch'ın Pixar tarzı duygusal yolculuğu
+### 55. Punch'ın Pixar tarzı duygusal yolculuğu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3477,7 +3412,7 @@ Punch hakkında bir Pixar filmi yap. Onun için ağlamak ve ona aşık olmak ist
 
 ---
 
-### 57. Ejderha Binicisi POV Hava Savaşı
+### 56. Ejderha Binicisi POV Hava Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3504,7 +3439,7 @@ Sürekli el kamerası hissi, hızlı hareketlerde yoğun hareket bulanıklığı
 
 ---
 
-### 58. Sınırsız Hayal Gücü Çağı
+### 57. Sınırsız Hayal Gücü Çağı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3529,7 +3464,7 @@ Tamamen yeni dünyalar yaratma gücüne ve özgürlüğüne sahipken neden Holly
 
 ---
 
-### 59. Uçurum Şehrinde Yüksek Hızlı Hız Motoru Takibi
+### 58. Uçurum Şehrinde Yüksek Hızlı Hız Motoru Takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3554,7 +3489,7 @@ Uçurum şehrinde hız motoru takibi (tek kesintisiz çekim) Taştan oyulmuş an
 
 ---
 
-### 60. Luffy ve Goku Destansı Savaşı
+### 59. Luffy ve Goku Destansı Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3579,7 +3514,7 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 
 ---
 
-### 61. SWAT Rehine Kurtarma Aksiyon Sekansı
+### 60. SWAT Rehine Kurtarma Aksiyon Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3604,7 +3539,7 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 
 ---
 
-### 62. Tyler Durden, Jujutsu Kaisen karakterlerine Jujutsu öğretiyor
+### 61. Tyler Durden, Jujutsu Kaisen karakterlerine Jujutsu öğretiyor
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 

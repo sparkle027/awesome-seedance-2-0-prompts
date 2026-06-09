@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts sélectionnés | 📚 Total prompts | 🎬 Modèle | 🔄 Dernière mise à jour |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-09 07:53:33.866 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-09 11:19:43.562 UTC** |
 
 </div>
 
@@ -533,72 +533,7 @@ Style : Livestream vertical réaliste / vlog mukbang, léger tremblement naturel
 
 ---
 
-### 9. Publicité Lays Coupe du Monde 2026
-
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="Publicité Lays Coupe du Monde 2026"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-PUBLICITÉ LAYS × COUPE DU MONDE 2026
-
-Publicité sportive cinématographique de 30 secondes, 16:9, style publicitaire ultra-réaliste FIFA World Cup.
-
-PARTIE 1 — L'ATTENTE DU BUT (0:00–0:15)
-
-Un salon moderne transformé en zone de fans argentins. Des amis regardent la finale de la FIFA World Cup 2026 sur un écran géant. Des drapeaux de l'Argentine partout. L'hymne de la Coupe du Monde, les commentaires TV, le bruit de la foule et les bavardages excités remplissent la pièce.
-
-90e minute. Égalité. L'Argentine lance une dernière attaque. Tout le monde se tait. Ava serre nerveusement un coussin. Les amis commencent à chanter « Argentina! Argentina! »
-
-Ava ouvre un paquet de Lays édition spéciale Coupe du Monde et le partage. Des chips dorées tombent dans un bol. Elle croque dedans.
-
-CROQUANT.
-
-Le son se mélange aux acclamations du stade. La lueur de la télévision remplit le cadre alors que le salon se dissout.
-
-PARTIE 2 — FAITES PARTIE DU JEU (0:15–0:30)
-
-Le croquant transporte Ava dans un stade de la Coupe du Monde 2026 bondé, entourée de milliers de supporters argentins uniques. Pas de visages clonés. Comportement réel de la foule. Des drapeaux massifs flottent alors que la foule rugit.
-
-Commentateur : « L'Argentine a une dernière chance ! »
-
-La couverture de style diffusion suit la dernière attaque. Les fans retiennent leur souffle. Le tir est effectué.
-
-BUT.
-
-Le stade explose. Des confettis tombent. L'Argentine est championne de la Coupe du Monde 2026. Ava célèbre avec les supporters alors que des feux d'artifice illuminent le stade.
-
-Coupe franche retour au salon. Le but se produit à la télévision. Les amis explosent de joie, s'embrassant, acclamant et sautant avec une continuité physique réaliste.
-
-Plan final héroïque : Paquet de Lays édition Coupe du Monde sur la table basse. Ava tient une chips.
-
-AVA :
-« Avec Lays, vous ne regardez pas seulement le match... »
-Croquant.
-
-« ...vous en faites partie. »
-
-SUPER :
-LAYS COUPE DU MONDE 2026
-UN CROQUANT. LE JEU COMMENCE.
-```
-
-**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K abonnés
-
-❤️ 506 · 🔁 23 · 🔖 57 · 👁 38K
-
-<sub>📅 Jun 4, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 10. Séquence d'action cybernétique : L'évasion de Karma
+### 9. Séquence d'action cybernétique : L'évasion de Karma
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -706,7 +641,7 @@ P10 : Maintien large final sur la rue : la fumée s'échappe d'en haut tandis qu
 
 ---
 
-### 11. Tiffany Blue Book 2026 Butterfly Chapter
+### 10. Tiffany Blue Book 2026 Butterfly Chapter
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -752,7 +687,7 @@ IMAGE FINALE : Révélation élégante du logo. Scintillement doux. Fondu orches
 
 ---
 
-### 12. Publicité pour la campagne d'été Fanta
+### 11. Publicité pour la campagne d'été Fanta
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -871,7 +806,7 @@ Qualité de publicité de marque haut de gamme.
 
 ---
 
-### 13. Éveil du cauchemar : Séquence cinématique Time-Fall
+### 12. Éveil du cauchemar : Séquence cinématique Time-Fall
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -984,7 +919,7 @@ Vous pouvez trouver les invites ci-dessous.
 
 ---
 
-### 14. Séquence cinématographique de héros d'action cyberpunk
+### 13. Séquence cinématographique de héros d'action cyberpunk
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1030,7 +965,7 @@ Gros plan final intense sur son visage déterminé avec les cheveux soufflant de
 
 ---
 
-### 15. Style Disney des années 90 : Le cadeau secret d'Anubis
+### 14. Style Disney des années 90 : Le cadeau secret d'Anubis
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1069,7 +1004,7 @@ Anubis est musclé, porte des anneaux et des boucles d'oreilles aux bras, au cou
 
 ---
 
-### 16. Vol de drone cinématographique au-dessus d'Istanbul au coucher du sol…
+### 15. Vol de drone cinématographique au-dessus d'Istanbul au coucher du sol…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1095,7 +1030,7 @@ La ligne rouge tracée ne doit pas apparaître dans la vidéo ; il s'agit unique
 
 ---
 
-### 17. Séquence de parkour dans la forêt de Felicita
+### 16. Séquence de parkour dans la forêt de Felicita
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1258,7 +1193,7 @@ Une caméra de poursuite arrière continue, pas de coupures. La caméra la pours
 
 ---
 
-### 18. Séquence cinématographique pour publicité de chocolat de luxe
+### 17. Séquence cinématographique pour publicité de chocolat de luxe
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1323,7 +1258,7 @@ Publicité de luxe, réalisme cinématographique, appartement feutré, cinémato
 
 ---
 
-### 19. Un acte de gentillesse réconfortant
+### 18. Un acte de gentillesse réconfortant
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1360,7 +1295,7 @@ Envoyez un MP pour le prompt complet
 
 ---
 
-### 20. Documentaire cinématographique sur les pêcheurs en haute mer
+### 19. Documentaire cinématographique sur les pêcheurs en haute mer
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1418,7 +1353,7 @@ Style : Documentaire océanique ultra-réaliste de National Geographic combiné 
 
 ---
 
-### 21. Le moment chatouilleux d'Anubis
+### 20. Le moment chatouilleux d'Anubis
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1457,7 +1392,7 @@ Anubis est musclé, portant des anneaux sur ses bras et son cou. Sa voix est pro
 
 ---
 
-### 22. Séquence de drame d'action scolaire coréen
+### 21. Séquence de drame d'action scolaire coréen
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1512,7 +1447,7 @@ Cinéma d'action coréen, cinématographie ultra-réaliste, action cinématograp
 
 ---
 
-### 23. Storyboard d'entraînement aux arts martiaux en anime à haute vitesse
+### 22. Storyboard d'entraînement aux arts martiaux en anime à haute vitesse
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1799,7 +1734,7 @@ Pas de texte. Pas de filigrane. Pas d'interface utilisateur. Pas d'action suppl�
 
 ---
 
-### 24. Peinture numérique d'un match de tennis intense
+### 23. Peinture numérique d'un match de tennis intense
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1848,7 +1783,7 @@ SFX : Son de coup de raquette, son d'atterrissage de balle, son de respiration
 
 ---
 
-### 25. Performance cinématographique de battage au baseball
+### 24. Performance cinématographique de battage au baseball
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -1887,7 +1822,7 @@ anatomie semi-réaliste
 
 ---
 
-### 26. Storyboard de performance de Kung Fu cinématographique
+### 25. Storyboard de performance de Kung Fu cinématographique
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2020,7 +1955,7 @@ flux : lié lors des postures enracinées et des frappes précises, libre lors d
 
 ---
 
-### 27. Peinture numérique d'entraînement de Wing Chun
+### 26. Peinture numérique d'entraînement de Wing Chun
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2065,7 +2000,7 @@ Plan final. Plan moyen rapproché, 50mm, zoom avant lent puis maintien stable / 
 
 ---
 
-### 28. Animation de peinture numérique d'un plongeur olympique
+### 27. Animation de peinture numérique d'un plongeur olympique
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2151,7 +2086,7 @@ Battement rythmique final de la musique, son subtil d'obturateur figé, applaudi
 
 ---
 
-### 29. Storyboard de performance cinématographique de Kung Fu
+### 28. Storyboard de performance cinématographique de Kung Fu
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2284,7 +2219,7 @@ flux : lié pendant les positions ancrées et les frappes précises, libre penda
 
 ---
 
-### 30. Fan de football dans un plan de diffusion télévisée
+### 29. Fan de football dans un plan de diffusion télévisée
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2309,7 +2244,7 @@ Un plan de diffusion haute définition et réaliste d'une jeune femme assise dan
 
 ---
 
-### 31. Fan Cam spontanée lors d'un match de baseball
+### 30. Fan Cam spontanée lors d'un match de baseball
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2337,7 +2272,7 @@ Pas de look cinématographique, pas de pose, pas de filtres de beauté, pas d'é
 
 ---
 
-### 32. Séquence de combat de jeu de combat compétitif
+### 31. Séquence de combat de jeu de combat compétitif
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2386,7 +2321,7 @@ Photoréaliste 8K, textures de tissu ultra-détaillées sur les tenues, éclaira
 
 ---
 
-### 33. Performance cinématographique de saut à la corde
+### 32. Performance cinématographique de saut à la corde
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2426,7 +2361,7 @@ anatomie semi-réaliste
 
 ---
 
-### 34. Arrivée d'une célébrité à New York
+### 33. Arrivée d'une célébrité à New York
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2467,7 +2402,7 @@ Il s'approche d'un fan et signe une photo imprimée qu'elle tient de (Image de r
 
 ---
 
-### 35. Storyboard de sauvetage en skateboard dans les nuages
+### 34. Storyboard de sauvetage en skateboard dans les nuages
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2559,7 +2494,7 @@ Gardez le mouvement visuel calme et intentionnel plutôt qu'agité.
 
 ---
 
-### 36. Chef contre cafard : poursuite en cuisine
+### 35. Chef contre cafard : poursuite en cuisine
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2613,7 +2548,7 @@ SFX : silence → cri de détresse
 
 ---
 
-### 37. Style Disney vintage : Les chatouilles d'Anubis
+### 36. Style Disney vintage : Les chatouilles d'Anubis
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2654,7 +2589,7 @@ Anubis est musclé et porte des anneaux aux bras et au cou. Sa voix est grave et
 
 ---
 
-### 38. Présentation cinématographique de personnage et fiche de référence
+### 37. Présentation cinématographique de personnage et fiche de référence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2795,7 +2730,7 @@ Terminez sur un plan moyen ou complet confiant, le personnage étant pleinement 
 
 ---
 
-### 39. Fiche de référence de mouvement de personnage 3D
+### 38. Fiche de référence de mouvement de personnage 3D
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2853,7 +2788,7 @@ Il ne doit y avoir aucun dialogue, texte ou narration.
 
 ---
 
-### 40. Scène de course de Formule 1 à haut indice d'octane
+### 39. Scène de course de Formule 1 à haut indice d'octane
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2880,7 +2815,7 @@ Invite Seedance 2.0 ci-dessous 👇
 
 ---
 
-### 41. Scène de bar sportif cinématographique avec arrêt du temps
+### 40. Scène de bar sportif cinématographique avec arrêt du temps
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2917,7 +2852,7 @@ Son : rugissement assourdissant du bar/célébration → claquement → onde de 
 
 ---
 
-### 42. Animation de tour de glace burlesque
+### 41. Animation de tour de glace burlesque
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -2970,7 +2905,7 @@ Son : rugissement assourdissant du bar/célébration → claquement → onde de 
 
 ---
 
-### 43. Montage de routine matinale au rythme effréné
+### 42. Montage de routine matinale au rythme effréné
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3041,7 +2976,7 @@ PLAN 15 : WS, zoom arrière 50mm / Coupe en L avec un raccord du gros plan sur l
 
 ---
 
-### 44. Homme d'affaires en bullet time tombant à Wall Street
+### 43. Homme d'affaires en bullet time tombant à Wall Street
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3066,7 +3001,7 @@ Effet bullet time. Un homme d'affaires en chemise blanche et cravate noire gliss
 
 ---
 
-### 45. Plan de suivi d'une cascade sur l'aile d'un F16
+### 44. Plan de suivi d'une cascade sur l'aile d'un F16
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3099,7 +3034,7 @@ qualité : 8K photoréaliste, flou de mouvement du tissu correct, physique natur
 
 ---
 
-### 46. Transition de survie en VR : De la nature sauvage au foyer
+### 45. Transition de survie en VR : De la nature sauvage au foyer
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3134,7 +3069,7 @@ CHRONOLOGIE :
 
 ---
 
-### 47. Surf sur fusée à haute altitude
+### 46. Surf sur fusée à haute altitude
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3168,7 +3103,7 @@ QUALITÉ : 8K photoréaliste, physique correcte, flou de mouvement du tissu, auc
 
 ---
 
-### 48. Plan de suivi cinématographique d'un saut de falaise
+### 47. Plan de suivi cinématographique d'un saut de falaise
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3209,7 +3144,7 @@ Photoréaliste 8K, textures ultra-détaillées, éclairage cinématographique, f
 
 ---
 
-### 49. Transformation d'horreur psychologique d'une employée de bureau
+### 48. Transformation d'horreur psychologique d'une employée de bureau
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3243,7 +3178,7 @@ CHRONOLOGIE :
 
 ---
 
-### 50. Préparation de nouilles par un chef Kung Fu
+### 49. Préparation de nouilles par un chef Kung Fu
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3288,7 +3223,7 @@ CHRONOLOGIE :
 
 ---
 
-### 51. Animation comique slapstick avec glace
+### 50. Animation comique slapstick avec glace
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3326,7 +3261,7 @@ TIMELINE:
 
 ---
 
-### 52. Drive de golf spectaculaire sur la côte
+### 51. Drive de golf spectaculaire sur la côte
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3357,7 +3292,7 @@ Le vent hurlant rugit alors que le projectile voyage droit et avec précision. L
 
 ---
 
-### 53. Plan séquence cinématographique d'un marché médiéval
+### 52. Plan séquence cinématographique d'un marché médiéval
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3423,7 +3358,7 @@ photoréaliste, éclairage cinématographique, mouvement de caméra ancré, atmo
 
 ---
 
-### 54. Course-poursuite en drone FPV haute vitesse avec transition saisonniè…
+### 53. Course-poursuite en drone FPV haute vitesse avec transition saisonniè…
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3448,7 +3383,7 @@ Plan de suivi rapide en drone FPV par l'arrière, suivant de près une fille de 
 
 ---
 
-### 55. Le complot vengeur d'Androgenic
+### 54. Le complot vengeur d'Androgenic
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3473,7 +3408,7 @@ Androgenic complote sa vengeance après s'être fait arracher sa perruque. Faite
 
 ---
 
-### 56. Un voyage émotionnel de Punch dans le style Pixar
+### 55. Un voyage émotionnel de Punch dans le style Pixar
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3498,7 +3433,7 @@ Réalise un film Pixar sur Punch. Je veux pleurer et tomber amoureux de lui.
 
 ---
 
-### 57. Combat aérien en vue subjective de dragonnier
+### 56. Combat aérien en vue subjective de dragonnier
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3525,7 +3460,7 @@ Sensation de caméra portée en continu, fort flou de mouvement lors des déplac
 
 ---
 
-### 58. L'ère de l'imagination sans limites
+### 57. L'ère de l'imagination sans limites
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3550,7 +3485,7 @@ Pourquoi suivre Hollywood quand vous avez le pouvoir et la liberté de créer de
 
 ---
 
-### 59. Course-poursuite à haute vitesse dans une cité troglodyte
+### 58. Course-poursuite à haute vitesse dans une cité troglodyte
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3575,7 +3510,7 @@ Course-poursuite en speeder à travers une cité troglodyte (plan-séquence uniq
 
 ---
 
-### 60. Combat épique entre Luffy et Goku
+### 59. Combat épique entre Luffy et Goku
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3600,7 +3535,7 @@ Luffy et Goku en pleine scène de combat épique sur le Sunny.
 
 ---
 
-### 61. Séquence d'action : sauvetage d'otage par le SWAT
+### 60. Séquence d'action : sauvetage d'otage par le SWAT
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
@@ -3625,7 +3560,7 @@ Luffy et Goku en pleine scène de combat épique sur le Sunny.
 
 ---
 
-### 62. Tyler Durden enseignant à des personnages de Jujutsu Kaisen
+### 61. Tyler Durden enseignant à des personnages de Jujutsu Kaisen
 
 ![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
