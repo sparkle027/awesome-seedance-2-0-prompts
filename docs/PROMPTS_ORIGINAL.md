@@ -119,6 +119,8 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 ### 3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -139,6 +141,8 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 <a id="prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3"></a>
 
 ### 4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -183,6 +187,8 @@ Punch the Monkey punches back. Make the girls proud.
 <a id="prompt-377a0df9-9738-4426-b5ab-9a97400a60ec"></a>
 
 ### 6. Use @[storyboard ref] as the authoritative director-approved storyboa…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -295,6 +301,8 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 <a id="prompt-0c68718f-7b40-45ba-97cc-f9577219d5ad"></a>
 
 ### 7. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -409,6 +417,8 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 
 ### 8. Continuous livestream-style video of three young women (early-mid 20s…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -451,6 +461,8 @@ Style: Realistic vertical livestream / mukbang vlog, slight natural camera shake
 <a id="prompt-8a621f1f-6cfd-4d9b-9d2b-f3ec7d09496c"></a>
 
 ### 9. WORLD CUP 2026 × LAYS COMMERCIAL 30-second cinematic sports commercia…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -512,6 +524,8 @@ ONE CRUNCH. GAME ON.
 <a id="prompt-e432f9bf-6a00-4653-9ffd-e900a4e33c26"></a>
 
 ### 10. Use @[storyboard ref] as the authoritative director-approved storyboa…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -617,6 +631,8 @@ P10: Final wide street hold: smoke pours from above while Karma moves into night
 
 ### 11. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -658,6 +674,8 @@ END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 <a id="prompt-a4a1dfd7-b17f-4d69-be4d-68706e0238ec"></a>
 
 ### 12. Main Character: Photorealistic 25-year-old Western woman named Sharon…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -774,6 +792,8 @@ High-end brand commercial quality.
 
 ### 13. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -883,6 +903,8 @@ You can find the prompts below.
 
 ### 14. A high-octane 15-second cinematic action sequence featuring a stylish…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -962,6 +984,8 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 ### 16. Create a cinematic realistic high-speed drone video over Istanbul at…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -983,6 +1007,8 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 <a id="prompt-6378a76c-2a9a-43d9-b4bb-db3bbff3adb7"></a>
 
 ### 17. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -1376,6 +1402,8 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 
 ### 23. Use storyboard @[image1] as the exact sequential visual keyframe refe…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -1659,6 +1687,8 @@ No text. No watermark. No UI. No extra action beyond storyboard.
 
 ### 24. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1704,6 +1734,8 @@ SFX: Racket hit sound, ball landing sound, breathing sound
 
 ### 25. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1738,6 +1770,8 @@ clean cinematic lighting
 <a id="prompt-73091505-616e-4ee8-97f5-d9a0e5f8f52c"></a>
 
 ### 26. Create a 15-second cinematic kung fu performance video. Use @[image1]…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -1868,6 +1902,8 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ### 27. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1908,6 +1944,8 @@ Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After comp
 <a id="prompt-8f6977a0-7cc8-4d34-96ef-baf2b8933a0c"></a>
 
 ### 28. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -1990,6 +2028,8 @@ Final rhythmic beat of the music, subtle shutter freeze sound, continuing audien
 <a id="prompt-ac7da655-edaf-48c0-ad7b-bc3cc6c3d550"></a>
 
 ### 29. Create a 15-second cinematic kung fu performance video. Use @[image1]…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -2120,6 +2160,8 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ### 30. A high-definition, realistic broadcast shot of a young woman sitting…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2215,6 +2257,8 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 
 ### 33. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2251,6 +2295,8 @@ clean cinematic lighting
 
 ### 34. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2273,6 +2319,8 @@ Calm, controlled presence. Subtle confident smile. Face identity must remain per
 <a id="prompt-48506edd-539b-4f54-b89f-60bfb1edc6d3"></a>
 
 ### 35. INTENT: Create a playful, high-energy friendship adventure that brief…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -2362,6 +2410,8 @@ Keep visual motion calm and intentional rather than restless.
 
 ### 36. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2412,6 +2462,8 @@ SFX: silence → breakdown scream
 
 ### 37. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…
 
+![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2432,6 +2484,8 @@ SFX: silence → breakdown scream
 <a id="prompt-32785bf8-0296-4d6b-b3c7-b9024e85c07d"></a>
 
 ### 38. Use the provided character sheet @[image1] as reference. Create a cin…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -2570,6 +2624,8 @@ End on a confident mid or full shot, character fully established.
 
 ### 39. Create img2 that follows the exact sequence and movements from steps…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -2624,6 +2680,8 @@ There should be no dialogue, text, or narration.
 
 ### 40. This is the F1 we deserve, not the Mario Kart bullshit the regulation…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2646,6 +2704,8 @@ Seedance 2.0 prompt below 👇
 <a id="prompt-3ecccc99-fa4a-4f6a-90f5-4e659529db7a"></a>
 
 ### 41. Prompt: Use @ Reference Image as the main character, keeping facial f…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -2799,6 +2859,8 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 <a id="prompt-90180b5e-8048-498c-bbf5-17290e65adbf"></a>
 
 ### 44. Bullet time effect. A businessman in white shirt and black tie slippi…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -2956,6 +3018,8 @@ Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion b
 
 ### 49. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3029,6 +3093,8 @@ TIMELINE:
 
 ### 51. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3062,6 +3128,8 @@ TIMELINE:
 <a id="prompt-62e39e14-a305-459d-8a07-b951604d0437"></a>
 
 ### 52. "A dramatic sports sequence begins on a lush, windswept coastal cliff…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -3200,6 +3268,8 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 ### 56. Make a Pixar film about Punch. I want to cry and fall in love with hi…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3244,6 +3314,8 @@ AI goes woke. Make it really offensive - like really offensive.
 
 ### 58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3267,6 +3339,8 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 ### 59. Why follow Hollywood when you have the power and freedom to create en…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3288,6 +3362,8 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 ### 60. Speeder chase across a cliff city (single continuous shot) From a mon…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3308,6 +3384,8 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 <a id="prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059"></a>
 
 ### 61. Luffy and Goku having an epic fight scene on the sunny.
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -3352,6 +3430,8 @@ Luffy and Goku having an epic fight scene on the sunny.
 <a id="prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697"></a>
 
 ### 63. tyler durden explains fight club rules to jujutsu kaisen characters.…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 

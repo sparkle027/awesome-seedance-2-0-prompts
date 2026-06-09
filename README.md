@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Curated prompts | 📚 Total prompts | 🎬 Model | 🔄 Last updated |
 |:---:|:---:|:---:|:---:|
-| **66** | **66** | **Seedance 2.0** | **2026-06-08 21:52:32.809 UTC** |
+| **66** | **66** | **Seedance 2.0** | **2026-06-09 03:50:15.069 UTC** |
 
 </div>
 
@@ -124,12 +124,12 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > The most-loved Seedance 2.0 clips, by engagement.
 
-### 1. Sum up the AI discourse in a meme - make sure it’s retarded and gets…
+### 1. AI Discourse Meme
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Sum up the AI discourse in a meme - make sure it’s retarded and gets…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI Discourse Meme"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -149,7 +149,7 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ---
 
-### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+### 2. Waffle House Shift Chaos
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -163,12 +163,12 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 ---
 
-### 3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
+### 3. Luffy Raging While Coding on Thousand Sunny
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy Raging While Coding on Thousand Sunny"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -188,12 +188,12 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ---
 
-### 4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
+### 4. Candid sports broadcast stadium scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="Ultra-realistic sports broadcast still of a glamorous woman sitting i…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="Candid sports broadcast stadium scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -213,12 +213,12 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 ---
 
-### 5. Punch the Monkey punches back. Make the girls proud.
+### 5. Punch the Monkey's Retaliation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey punches back. Make the girls proud."></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey's Retaliation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -242,12 +242,12 @@ Punch the Monkey punches back. Make the girls proud.
 
 ## 📋 All Prompts
 
-### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 6. Nox Lumos Poi Forest Ritual
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi Forest Ritual"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -358,12 +358,12 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 
 ---
 
-### 7. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 7. Forest Saber Poi Ritual Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Forest Saber Poi Ritual Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -475,12 +475,12 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 
 ---
 
-### 8. Continuous livestream-style video of three young women (early-mid 20s…
+### 8. Late-night Seoul Mukbang Livestream
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="Continuous livestream-style video of three young women (early-mid 20s…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="Late-night Seoul Mukbang Livestream"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -522,12 +522,12 @@ Style: Realistic vertical livestream / mukbang vlog, slight natural camera shake
 
 ---
 
-### 9. WORLD CUP 2026 × LAYS COMMERCIAL 30-second cinematic sports commercia…
+### 9. Lays World Cup 2026 Commercial
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="WORLD CUP 2026 × LAYS COMMERCIAL 30-second cinematic sports commercia…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="Lays World Cup 2026 Commercial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -587,12 +587,12 @@ ONE CRUNCH. GAME ON.
 
 ---
 
-### 10. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 10. Karma Escape Cyber-Action Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -695,12 +695,12 @@ P10: Final wide street hold: smoke pours from above while Karma moves into night
 
 ---
 
-### 11. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…
+### 11. Tiffany Blue Book 2026 Butterfly Chapter
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="Tiffany Blue Book 2026 Butterfly Chapter"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -741,12 +741,12 @@ END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 
 ---
 
-### 12. CHARACTER SHEET — SHARON (FANTA VERSION) Create a professional photor…
+### 12. Fanta Summer Campaign Commercial
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="CHARACTER SHEET — SHARON (FANTA VERSION) Create a professional photor…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Fanta Summer Campaign Commercial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -860,12 +860,12 @@ High-end brand commercial quality.
 
 ---
 
-### 13. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 13. Nightmare Awakening: Time-Fall Cinematic Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Nightmare Awakening: Time-Fall Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -973,12 +973,12 @@ You can find the prompts below.
 
 ---
 
-### 14. A high-octane 15-second cinematic action sequence featuring a stylish…
+### 14. Cyberpunk Action Hero Cinematic Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="A high-octane 15-second cinematic action sequence featuring a stylish…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="Cyberpunk Action Hero Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1019,33 +1019,33 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 ---
 
-### 15. Classic 90s Disney animation style. Scene 1: In an Egyptian palace, t…
+### 15. 90年代迪士尼风格：阿努比斯的秘密赠礼
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Classic 90s Disney animation style. Scene 1: In an Egyptian palace, t…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼风格：阿努比斯的秘密赠礼"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Classic 90s Disney animation style.
+经典的90年代迪士尼动画风格。
 
-Scene 1: In an Egyptian palace, the camera cuts to the interior of the throne room. We see the majestic jackal god Anubis sitting on his throne, with a group of subordinates (soldiers, advisors, and some lowly servants, all human) kneeling before him. He waves his hand dismissively and says with contempt, "Leave now." He then leans back lazily on the throne, looking bored.
+场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士兵、顾问和一些卑微的仆人，都是人类）跪在他面前。他漫不经心地挥了挥手，轻蔑地对他们说：“现在离开。”然后便懒洋洋地靠回王座，一副百无聊赖的样子。
 
-Scene 2: The subordinates obey his command without hesitation and slowly depart, with Anubis watching them. But for the last one, a lowly human servant, Anubis specifically instructs, "You, servant, wait." The servant turns around, looking confused and surprised, not understanding what the majestic Anubis could possibly want.
+场景二：下属们毫不犹豫地遵从他的命令，缓缓离去，阿努比斯注视着他们。但最后一个，一个卑微的人类仆人，阿努比斯却特意吩咐道：“你，仆人，等等。”仆人转过身来，一脸困惑和惊讶，不明白威严的阿努比斯究竟想要什么。
 
-Scene 3: The other subordinates have left. Anubis says, "Come here." The servant, nervous and still bewildered, walks toward Anubis.
+场景三：其他下属都已离开，阿努比斯说：“过来。”仆人有些紧张，仍然一头雾水，走向阿努比斯。
 
-Scene 4: Anubis pulls a bouquet of flowers from behind the throne and, with a casual expression, hands them to the surprised servant. He turns his head slightly, looking a bit embarrassed and avoiding eye contact, saying, "Take them."
+场景4：阿努比斯从王座后取出一束鲜花，神情漫不经心地将花束递到一脸惊讶的仆人面前。他微微侧过头，略显尴尬，不愿直视仆人的眼睛，说道：“拿着吧。”
 
-Scene 5: The servant takes the bouquet, still looking confused. Anubis, still not looking at him, waves his hand and says, "You may go." The servant nods, takes the bouquet, and leaves with a bewildered expression.
+场景5：仆人接过花束，脸上依然带着困惑。阿努比斯仍然没有看向他，挥了挥手，说道：“你可以走了。”仆人点点头，拿着花束，一脸茫然地离开了。
 
-Scene 6: Anubis watches the servant leave. His expression remains casual, but a faint smile appears at the corner of his mouth. He rests his chin on his hand, watching the servant depart, seemingly quite fond of him.
+场景6：阿努比斯目送仆人离去，脸上依旧是漫不经心的表情，但嘴角却浮现出一丝微笑。他手托着下巴，目送仆人离去，似乎对这位仆人颇有好感。
 
-Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He is shirtless. His voice is deep and magnetic. Audio is in English.
+阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K followers
@@ -1058,12 +1058,12 @@ Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He i
 
 ---
 
-### 16. Create a cinematic realistic high-speed drone video over Istanbul at…
+### 16. Cinematic Drone Flight Over Istanbul at Sunset
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Create a cinematic realistic high-speed drone video over Istanbul at…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Cinematic Drone Flight Over Istanbul at Sunset"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1084,12 +1084,12 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-### 17. create a 16:9 image. [PROJECT CARD] Create a designed typographic mas…
+### 17. Felicita Forest Chase Parkour Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="create a 16:9 image. [PROJECT CARD] Create a designed typographic mas…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita Forest Chase Parkour Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1247,12 +1247,12 @@ One continuous rear-chase camera, no cuts. The camera chases her breathlessly wi
 
 ---
 
-### 18. Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…
+### 18. Luxury Chocolate Commercial Cinematic Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Luxury Chocolate Commercial Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1312,12 +1312,12 @@ Luxury commercial, cinematic realism, moody apartment, food cinematography, shal
 
 ---
 
-### 19. POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…
+### 19. A Heartwarming Act of Kindness
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="A Heartwarming Act of Kindness"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1349,12 +1349,12 @@ DM for full Prompt
 
 ---
 
-### 20. Create a high-end editorial character profile spread layout split int…
+### 20. Deep Sea Fisherman Documentary Cinematic
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Create a high-end editorial character profile spread layout split int…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Deep Sea Fisherman Documentary Cinematic"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1407,19 +1407,19 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 ---
 
-### 21. Modern Chinese 3D animation style. Scene 1: In a large Egyptian libra…
+### 21. 阿努比斯的怕痒时刻
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Modern Chinese 3D animation style. Scene 1: In a large Egyptian libra…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕痒时刻"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Modern Chinese 3D animation style. Scene 1: In a large Egyptian library, we see the majestic jackal god Anubis with his hands behind his back, casually examining the bookshelves with a dignified posture. Suddenly, he notices a young man reaching for a book about rituals on a nearby table. Seeing this, Anubis quickly snatches the book, raises one arm high above his head, exposing his armpit, and says in his gentle yet firm tone: This book is not suitable for someone like him. Scene 2: The young man looks disappointed, but then shows a sly smile, asking Anubis if he is ticklish, while reaching out to tickle the armpit of Anubis's raised arm, which leaves Anubis somewhat confused. Scene 3: Close-up shot, a human hand slides its fingers up and down under Anubis's armpit, repeating this action. In the background, Anubis's suppressed giggles can be heard, confirming that he is indeed ticklish. Scene 4: Close-up shot, Anubis's upper body, the human hand continues to slide its fingers up and down under Anubis's armpit. Anubis closes his eyes, grins broadly, and lets out suppressed giggles. Scene 5: The human continues to tickle Anubis's armpit with their hand, and Anubis giggles with his eyes closed. Anubis's laughter confirms he is indeed ticklish, and he starts giggling again while the human continues to tickle his armpit. Scene 6: Anubis continues to giggle, finally throwing the book to the ground and wrapping his arms around himself to cover his armpits. The human stops tickling and picks up the book. Anubis giggles, seemingly still immersed in the laughter, saying while laughing that he hates being tickled. The human smiles and takes the book. Anubis is muscular, wearing rings on his arms and neck. His voice is deep, magnetic, and charismatic. Anubis's armpit is being tickled.
+现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时，他注意到一个年轻人正伸手去拿附近桌子上一本关于仪式的书籍。阿努比斯见状，迅速夺过书本，用一只手臂高高举过头顶，露出腋窝，用他那温和而坚定的语气说道：这本书不适合像他这样的人。 场景二：年轻人一脸失望，但随即露出狡黠的笑容，问阿努比斯是否怕痒，同时伸手去挠阿努比斯举起的手臂的腋窝，这让阿努比斯有些摸不着头脑。 场景3：特写镜头，人类的手在阿努比斯的腋下上下滑动手指，不断重复这个动作。背景中传来阿努比斯压抑的咯咯笑声，表明他确实很怕痒。 场景4：特写镜头，阿努比斯的上半身，人类的手继续在阿努比斯的腋下上下滑动手指。阿努比斯闭着眼睛，咧嘴大笑，发出压抑的咯咯笑声。 场景5：人类继续用手挠阿努比斯的腋窝，阿努比斯闭着眼睛咯咯笑着。阿努比斯的笑声证实了他确实很怕痒，然后他又开始咯咯地笑，而人类则继续挠他的腋窝。 场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K followers
@@ -1432,12 +1432,12 @@ Modern Chinese 3D animation style. Scene 1: In a large Egyptian library, we see 
 
 ---
 
-### 22. Main Character: A beautiful Korean high school girl wearing a realist…
+### 22. Korean School Action Drama Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Main Character: A beautiful Korean high school girl wearing a realist…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Korean School Action Drama Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1490,12 +1490,12 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 
 ---
 
-### 23. Use @[image1] as the student character reference for Taro Kazeishi. U…
+### 23. High-Speed Anime Martial Arts Training Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Use @[image1] as the student character reference for Taro Kazeishi. U…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="High-Speed Anime Martial Arts Training Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1777,12 +1777,12 @@ No text. No watermark. No UI. No extra action beyond storyboard.
 
 ---
 
-### 24. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…
+### 24. Intense Tennis Match Digital Painting
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="Intense Tennis Match Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1826,12 +1826,12 @@ SFX: Racket hit sound, ball landing sound, breathing sound
 
 ---
 
-### 25. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 25. Cinematic Baseball Batting Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Use the storyboard sheet @[storyboard ref] as the exact sequential vi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Cinematic Baseball Batting Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1865,12 +1865,12 @@ clean cinematic lighting
 
 ---
 
-### 26. Create a raw kung fu performance storyboard focused on extreme physic…
+### 26. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Create a raw kung fu performance storyboard focused on extreme physic…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -1998,12 +1998,12 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ---
 
-### 27. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…
+### 27. Wing Chun Training Digital Painting
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="Wing Chun Training Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2043,12 +2043,12 @@ Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After comp
 
 ---
 
-### 28. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…
+### 28. Olympic Diver Digital Painting Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="Olympic Diver Digital Painting Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2129,12 +2129,12 @@ Final rhythmic beat of the music, subtle shutter freeze sound, continuing audien
 
 ---
 
-### 29. Create a raw kung fu performance storyboard focused on extreme physic…
+### 29. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Create a raw kung fu performance storyboard focused on extreme physic…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2262,12 +2262,12 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ---
 
-### 30. A high-definition, realistic broadcast shot of a young woman sitting…
+### 30. Football fan in stadium broadcast shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="A high-definition, realistic broadcast shot of a young woman sitting…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Football fan in stadium broadcast shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2287,12 +2287,12 @@ A high-definition, realistic broadcast shot of a young woman sitting in a crowde
 
 ---
 
-### 31. A young Korean woman sits naturally in the audience during a live bas…
+### 31. Candid Fan Cam at Baseball Game
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="A young Korean woman sits naturally in the audience during a live bas…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Candid Fan Cam at Baseball Game"></a>
 </div>
 
 **📝 Prompt**
@@ -2315,12 +2315,12 @@ No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow m
 
 ---
 
-### 32. Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…
+### 32. Competitive Fighting Game Combat Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Competitive Fighting Game Combat Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2364,12 +2364,12 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 
 ---
 
-### 33. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 33. Cinematic Jump Rope Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Use the storyboard sheet @[storyboard ref] as the exact sequential vi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Cinematic Jump Rope Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2404,12 +2404,12 @@ clean cinematic lighting
 
 ---
 
-### 34. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…
+### 34. Celebrity Arrival in New York City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Style: Ultra-realistic mass celebrity arrival scene. Single continuou…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Celebrity Arrival in New York City"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2431,12 +2431,12 @@ Calm, controlled presence. Subtle confident smile. Face identity must remain per
 
 ---
 
-### 35. Create a rough hand-drawn PREVIS + rescue chase storyboard page in 16…
+### 35. Cloud Skateboard Rescue Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Create a rough hand-drawn PREVIS + rescue chase storyboard page in 16…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Cloud Skateboard Rescue Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2523,12 +2523,12 @@ Keep visual motion calm and intentional rather than restless.
 
 ---
 
-### 36. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…
+### 36. Chef vs Cockroach Kitchen Chase
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="Chef vs Cockroach Kitchen Chase"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2577,12 +2577,12 @@ SFX: silence → breakdown scream
 
 ---
 
-### 37. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…
+### 37. 复古迪士尼风格：阿努比斯的挠痒趣事
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="复古迪士尼风格：阿努比斯的挠痒趣事"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2602,12 +2602,12 @@ SFX: silence → breakdown scream
 
 ---
 
-### 38. Create a single unified MASTER CHARACTER REFERENCE SHEET from these i…
+### 38. Cinematic Character Introduction and Reference Sheet
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Create a single unified MASTER CHARACTER REFERENCE SHEET from these i…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Cinematic Character Introduction and Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2743,12 +2743,12 @@ End on a confident mid or full shot, character fully established.
 
 ---
 
-### 39. [STYLE] Monochrome grayscale illustration, 3D-rendered character, cle…
+### 39. 3D Character Movement Reference Sheet
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="[STYLE] Monochrome grayscale illustration, 3D-rendered character, cle…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D Character Movement Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2801,12 +2801,12 @@ There should be no dialogue, text, or narration.
 
 ---
 
-### 40. This is the F1 we deserve, not the Mario Kart bullshit the regulation…
+### 40. High-octane Formula 1 racing scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="This is the F1 we deserve, not the Mario Kart bullshit the regulation…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="High-octane Formula 1 racing scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2828,12 +2828,12 @@ Seedance 2.0 prompt below 👇
 
 ---
 
-### 41. Prompt: Use @ Reference Image as the main character, keeping facial f…
+### 41. Time-Freeze Cinematic Sports Bar Scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="Prompt: Use @ Reference Image as the main character, keeping facial f…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="Time-Freeze Cinematic Sports Bar Scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2865,12 +2865,12 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ---
 
-### 42. { "style": "stylized 3D animation, hyperreal pop, squash-and-stretch"…
+### 42. Slapstick Ice Cream Trick Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;stylized 3D animation, hyperreal pop, squash-and-stretch&quot;…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Slapstick Ice Cream Trick Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2918,12 +2918,12 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ---
 
-### 43. FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…
+### 43. Fast-Paced Morning Routine Montage
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="Fast-Paced Morning Routine Montage"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -2989,12 +2989,12 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 ---
 
-### 44. Bullet time effect. A businessman in white shirt and black tie slippi…
+### 44. Bullet time businessman fall on Wall Street
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Bullet time effect. A businessman in white shirt and black tie slippi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Bullet time businessman fall on Wall Street"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3014,12 +3014,12 @@ Bullet time effect. A businessman in white shirt and black tie slipping and fall
 
 ---
 
-### 45. aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…
+### 45. F16 Wing Stunt Tracking Shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 Wing Stunt Tracking Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3047,12 +3047,12 @@ quality: 8K photorealistic, correct fabric motion blur, natural physics, no unca
 
 ---
 
-### 46. FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…
+### 46. VR Survival Transition: Wilderness to Home
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR Survival Transition: Wilderness to Home"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3082,12 +3082,12 @@ TIMELINE:
 
 ---
 
-### 47. ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…
+### 47. Rocket Surfing at High Altitude
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Rocket Surfing at High Altitude"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3116,12 +3116,12 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 
 ---
 
-### 48. Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…
+### 48. Cinematic cliff jump tracking shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Cinematic cliff jump tracking shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3157,12 +3157,12 @@ Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion b
 
 ---
 
-### 49. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…
+### 49. Office Worker Psychological Horror Transformation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Office Worker Psychological Horror Transformation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3191,12 +3191,12 @@ TIMELINE:
 
 ---
 
-### 50. SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…
+### 50. Kung Fu Chef Noodle Preparation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Kung Fu Chef Noodle Preparation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3236,12 +3236,12 @@ TIMELINE:
 
 ---
 
-### 51. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…
+### 51. Slapstick Ice Cream Comedy Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Slapstick Ice Cream Comedy Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3274,12 +3274,12 @@ TIMELINE:
 
 ---
 
-### 52. "A dramatic sports sequence begins on a lush, windswept coastal cliff…
+### 52. Dramatic Coastal Golf Drive
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="&quot;A dramatic sports sequence begins on a lush, windswept coastal cliff…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Dramatic Coastal Golf Drive"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3305,12 +3305,12 @@ The howling wind roars as the projectile travels straight and true. The manicure
 
 ---
 
-### 53. FORMAT: cinematic continuous shot / motivated camera movement / 15s S…
+### 53. Cinematic Medieval Market Continuous Shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="FORMAT: cinematic continuous shot / motivated camera movement / 15s S…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Cinematic Medieval Market Continuous Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3371,12 +3371,12 @@ photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosp
 
 ---
 
-### 54. Fast-paced FPV drone tracking shot from behind, closely following a 3…
+### 54. High-speed FPV drone chase with seasonal transition
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Fast-paced FPV drone tracking shot from behind, closely following a 3…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="High-speed FPV drone chase with seasonal transition"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3396,12 +3396,12 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 
 ---
 
-### 55. Androgenic plots his revenge after getting his wig snatched. Make my…
+### 55. Androgenic's Vengeful Plot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic plots his revenge after getting his wig snatched. Make my…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic's Vengeful Plot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3421,12 +3421,12 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 ---
 
-### 56. Make a Pixar film about Punch. I want to cry and fall in love with hi…
+### 56. A Pixar-style emotional journey of Punch
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Make a Pixar film about Punch. I want to cry and fall in love with hi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="A Pixar-style emotional journey of Punch"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3446,12 +3446,12 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
-### 57. AI goes woke. Make it really offensive - like really offensive.
+### 57. Satirical AI social commentary
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="AI goes woke. Make it really offensive - like really offensive."></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="Satirical AI social commentary"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3471,12 +3471,12 @@ AI goes woke. Make it really offensive - like really offensive.
 
 ---
 
-### 58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
+### 58. Dragon Rider POV Aerial Combat
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="First-person POV dragon rider, 15 seconds, raw ungraded film footage…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Dragon Rider POV Aerial Combat"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3498,12 +3498,12 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 ---
 
-### 59. Why follow Hollywood when you have the power and freedom to create en…
+### 59. The Era of Limitless Imagination
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="Why follow Hollywood when you have the power and freedom to create en…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="The Era of Limitless Imagination"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3523,12 +3523,12 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 ---
 
-### 60. Speeder chase across a cliff city (single continuous shot) From a mon…
+### 60. High-Speed Speeder Chase Through Cliff City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="Speeder chase across a cliff city (single continuous shot) From a mon…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="High-Speed Speeder Chase Through Cliff City"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3548,12 +3548,12 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 ---
 
-### 61. Luffy and Goku having an epic fight scene on the sunny.
+### 61. Luffy and Goku Epic Battle
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy and Goku having an epic fight scene on the sunny."></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy and Goku Epic Battle"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3573,12 +3573,12 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 62. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…
+### 62. SWAT Hostage Rescue Action Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="SWAT Hostage Rescue Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3598,12 +3598,12 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 63. tyler durden explains fight club rules to jujutsu kaisen characters.…
+### 63. Tyler Durden teaching Jujutsu Kaisen characters
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="tyler durden explains fight club rules to jujutsu kaisen characters.…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden teaching Jujutsu Kaisen characters"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
@@ -3623,7 +3623,7 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ---
 
-### 64. Prompt: A realistic close-up shot of a small digital camera screen gl…
+### 64. Nostalgic 2010s Digital Camera Screen Display
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3647,7 +3647,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 ---
 
-### 65. A cinematic and chaotic tracking shot with handheld camera motion and…
+### 65. Explorer escaping a mummy in ancient ruins
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3661,7 +3661,7 @@ A cinematic and chaotic tracking shot with handheld camera motion and camera sha
 
 ---
 
-### 66. Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.…
+### 66. High-Speed FPV Cat Chase in Parking Garage
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 

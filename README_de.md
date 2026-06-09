@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Kuratierte Prompts | 📚 Total prompts | 🎬 Modell | 🔄 Zuletzt aktualisiert |
 |:---:|:---:|:---:|:---:|
-| **66** | **66** | **Seedance 2.0** | **2026-06-08 21:52:32.809 UTC** |
+| **66** | **66** | **Seedance 2.0** | **2026-06-09 03:50:15.069 UTC** |
 
 </div>
 
@@ -124,19 +124,19 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > Die beliebtesten Seedance 2.0-Clips nach Engagement.
 
-### 1. Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es v…
+### 1. AI Discourse Meme
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es v…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI Discourse Meme"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es völlig bescheuert ist und 50 Likes bekommt.
+Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 ```
 
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
@@ -149,26 +149,26 @@ Fasse den KI-Diskurs in einem Meme zusammen – stell sicher, dass es völlig be
 
 ---
 
-### 2. Eine durchschnittliche Schicht im Waffle House - stell sicher, dass e…
+### 2. Waffle House Shift Chaos
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 **📝 Prompt**
 
 ```
-Eine durchschnittliche Schicht im Waffle House - stell sicher, dass es völlig abgedreht ist und 50 Likes bekommt. (Hinweis: Der Begriff 'retarded' wurde im Sinne von 'abgedreht' oder 'verrückt' übersetzt, um den umgangssprachlichen Ton beizubehalten.)
+An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 ```
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
+### 3. Luffy Raging While Coding on Thousand Sunny
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy Raging While Coding on Thousand Sunny"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -188,12 +188,12 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ---
 
-### 4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
+### 4. Candid sports broadcast stadium scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="Ultra-realistic sports broadcast still of a glamorous woman sitting i…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="Candid sports broadcast stadium scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -213,19 +213,19 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 ---
 
-### 5. Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
+### 5. Punch the Monkey's Retaliation
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey schlägt zurück. Mach die Mädchen stolz."></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey's Retaliation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
+Punch the Monkey punches back. Make the girls proud.
 ```
 
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
@@ -242,12 +242,12 @@ Punch the Monkey schlägt zurück. Mach die Mädchen stolz.
 
 ## 📋 Alle Prompts
 
-### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 6. Nox Lumos Poi Forest Ritual
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi Forest Ritual"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -358,12 +358,12 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 
 ---
 
-### 7. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 7. Forest Saber Poi Ritual Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Forest Saber Poi Ritual Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -475,12 +475,12 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 
 ---
 
-### 8. Continuous livestream-style video of three young women (early-mid 20s…
+### 8. Late-night Seoul Mukbang Livestream
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="Continuous livestream-style video of three young women (early-mid 20s…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="Late-night Seoul Mukbang Livestream"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -522,12 +522,12 @@ Style: Realistic vertical livestream / mukbang vlog, slight natural camera shake
 
 ---
 
-### 9. WORLD CUP 2026 × LAYS COMMERCIAL 30-second cinematic sports commercia…
+### 9. Lays World Cup 2026 Commercial
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="WORLD CUP 2026 × LAYS COMMERCIAL 30-second cinematic sports commercia…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062334928382271621_0_poster.jpg" width="480" alt="Lays World Cup 2026 Commercial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -587,12 +587,12 @@ ONE CRUNCH. GAME ON.
 
 ---
 
-### 10. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 10. Karma Escape Cyber-Action Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -695,12 +695,12 @@ P10: Final wide street hold: smoke pours from above while Karma moves into night
 
 ---
 
-### 11. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…
+### 11. Tiffany Blue Book 2026 Butterfly Chapter
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="Tiffany Blue Book 2026 Butterfly Chapter"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -741,12 +741,12 @@ END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 
 ---
 
-### 12. CHARACTER SHEET — SHARON (FANTA VERSION) Create a professional photor…
+### 12. Fanta Summer Campaign Commercial
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="CHARACTER SHEET — SHARON (FANTA VERSION) Create a professional photor…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Fanta Summer Campaign Commercial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -860,12 +860,12 @@ High-end brand commercial quality.
 
 ---
 
-### 13. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 13. Nightmare Awakening: Time-Fall Cinematic Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Nightmare Awakening: Time-Fall Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -973,12 +973,12 @@ You can find the prompts below.
 
 ---
 
-### 14. A high-octane 15-second cinematic action sequence featuring a stylish…
+### 14. Cyberpunk Action Hero Cinematic Sequence
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="A high-octane 15-second cinematic action sequence featuring a stylish…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="Cyberpunk Action Hero Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1019,33 +1019,33 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 ---
 
-### 15. Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…
+### 15. 90年代迪士尼风格：阿努比斯的秘密赠礼
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="Klassischer Disney-Animationsstil der 90er Jahre. Szene 1: In einem ä…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼风格：阿努比斯的秘密赠礼"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Klassischer Disney-Animationsstil der 90er Jahre.
+经典的90年代迪士尼动画风格。
 
-Szene 1: In einem ägyptischen Palast wechselt die Kamera in den Thronsaal. Wir sehen: Der majestätische Schakalgott Anubis sitzt auf seinem Thron, während eine Gruppe von Untergebenen (Soldaten, Berater und einige einfache Diener, alle Menschen) vor ihm kniet. Er winkt lässig ab und sagt verächtlich: „Geht jetzt.“ Dann lehnt er sich gelangweilt zurück.
+场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士兵、顾问和一些卑微的仆人，都是人类）跪在他面前。他漫不经心地挥了挥手，轻蔑地对他们说：“现在离开。”然后便懒洋洋地靠回王座，一副百无聊赖的样子。
 
-Szene 2: Die Untergebenen gehorchen ohne Zögern und gehen langsam weg, während Anubis sie beobachtet. Doch den letzten, einen einfachen menschlichen Diener, hält er auf: „Du, Diener, warte.“ Der Diener dreht sich verwirrt und überrascht um, ohne zu verstehen, was der mächtige Anubis von ihm will.
+场景二：下属们毫不犹豫地遵从他的命令，缓缓离去，阿努比斯注视着他们。但最后一个，一个卑微的人类仆人，阿努比斯却特意吩咐道：“你，仆人，等等。”仆人转过身来，一脸困惑和惊讶，不明白威严的阿努比斯究竟想要什么。
 
-Szene 3: Nachdem die anderen gegangen sind, sagt Anubis: „Komm her.“ Der Diener ist nervös und immer noch ratlos, während er auf Anubis zugeht.
+场景三：其他下属都已离开，阿努比斯说：“过来。”仆人有些紧张，仍然一头雾水，走向阿努比斯。
 
-Szene 4: Anubis holt einen Blumenstrauß hinter dem Thron hervor und reicht ihn dem überraschten Diener mit lässiger Miene. Er dreht den Kopf leicht zur Seite, wirkt etwas verlegen und vermeidet Augenkontakt, während er sagt: „Nimm ihn.“
+场景4：阿努比斯从王座后取出一束鲜花，神情漫不经心地将花束递到一脸惊讶的仆人面前。他微微侧过头，略显尴尬，不愿直视仆人的眼睛，说道：“拿着吧。”
 
-Szene 5: Der Diener nimmt den Strauß entgegen, immer noch verwirrt. Anubis schaut ihn weiterhin nicht an, winkt ab und sagt: „Du kannst gehen.“ Der Diener nickt, nimmt den Strauß und geht ratlos davon.
+场景5：仆人接过花束，脸上依然带着困惑。阿努比斯仍然没有看向他，挥了挥手，说道：“你可以走了。”仆人点点头，拿着花束，一脸茫然地离开了。
 
-Szene 6: Anubis sieht dem Diener nach. Sein Gesichtsausdruck ist immer noch lässig, doch ein leichtes Lächeln spielt um seine Mundwinkel. Er stützt das Kinn auf die Hand und beobachtet den Diener, da er offensichtlich Gefallen an ihm gefunden hat.
+场景6：阿努比斯目送仆人离去，脸上依旧是漫不经心的表情，但嘴角却浮现出一丝微笑。他手托着下巴，目送仆人离去，似乎对这位仆人颇有好感。
 
-Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er hat einen nackten Oberkörper. Seine Stimme ist tief und magnetisch. Die Sprache ist Englisch.
+阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
 **Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K Follower
@@ -1058,12 +1058,12 @@ Anubis ist muskulös und trägt Ringe und Ohrringe an Armen, Hals und Ohren. Er 
 
 ---
 
-### 16. Create a cinematic realistic high-speed drone video over Istanbul at…
+### 16. Cinematic Drone Flight Over Istanbul at Sunset
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Create a cinematic realistic high-speed drone video over Istanbul at…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Cinematic Drone Flight Over Istanbul at Sunset"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1084,12 +1084,12 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 ---
 
-### 17. create a 16:9 image. [PROJECT CARD] Create a designed typographic mas…
+### 17. Felicita Forest Chase Parkour Sequence
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="create a 16:9 image. [PROJECT CARD] Create a designed typographic mas…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita Forest Chase Parkour Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1247,59 +1247,59 @@ One continuous rear-chase camera, no cuts. The camera chases her breathlessly wi
 
 ---
 
-### 18. Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…
+### 18. Luxury Chocolate Commercial Cinematic Sequence
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s) Kontrastre…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Luxury Chocolate Commercial Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Vollständig vorbereiteter kinoreifer KI-Video-Prompt (15s)
-Kontrastreiche, filmische Beleuchtung mit kühlem cyan-blauem Laptop-Schein im Kontrast zu warmem, bernsteinfarbenem Licht und glänzenden Schokoladenreflexionen. Hochwertige Luxus-Werbeästhetik. Schnelle Schnitte, Whip-Pans, Dutch Tilts, Handkamera-Energie, dynamische Tracking-Shots, filmischer Realismus, geringe Schärfentiefe, ausdrucksstarke Nahaufnahmen, stimmungsvolle Wohnungsatmosphäre, sinnliche Food-Cinematography, glänzende Texturen, dezente Filmkörnung, anamorphotische Highlights, realistische Hauttextur, emotionaler Realismus, moderner Werbekampagnen-Look. Keine Untertitel. Minimales Voice-Over nur in ausgewählten emotionalen Momenten. Natürliches Sounddesign mit Tastaturklicken, knisternder Folie, leisem Atmen, Mausklicks, Schrankknarren und tiefen filmischen Bassimpulsen.
-Shot-für-Shot-Aufschlüsselung (0:15)
-Shot 1 — 0:01 — Extreme Nahaufnahme
-Die Augen einer jungen blonden Frau spiegeln scrollende Dokumente und das blaue Laptop-Licht wider, während sie schnell dichte Daten scannt. Ein kühler cyanfarbener Schein flackert über ihre porzellanartige Haut. Extrem geringe Schärfentiefe, intensive Augenreflexionen, filmisches Makro-Objektiv.
+Fully Prepared Cinematic AI Video Prompt (15s)
+High-contrast cinematic lighting with cool cyan-blue laptop glow contrasted against warm amber practical lighting and glossy chocolate reflections. Premium luxury-commercial aesthetic. Fast cuts, whip pans, dutch tilts, handheld energy, dynamic tracking shots, cinematic realism, shallow depth of field, expressive close-ups, moody apartment atmosphere, sensual food cinematography, glossy textures, subtle cinematic grain, anamorphic highlights, realistic skin texture, emotional realism, modern ad campaign look. No subtitles. Minimal voice-over only in selected emotional moments. Natural sound design with keyboard clicks, foil crinkles, soft breathing, mouse clicks, cabinet creaks, and low cinematic bass pulses.
+Shot-by-Shot Breakdown (0:15)
+Shot 1 — 0:01 — Extreme Close-Up
+A young blonde woman’s eyes reflect scrolling documents and blue laptop light while scanning dense data rapidly. Cool cyan glow flickers across her porcelain skin. Ultra shallow depth of field, intense eye reflections, cinematic macro lens.
 Voice Over:
-„Manche Nächte verlangen mehr.“
-Shot 2 — 0:02 — Halbtotale
-Sie sitzt mit gekreuzten Beinen auf einem zerknitterten Sofa in einer dunklen Wohnung und tippt hektisch. Ein rostorangefarbenes Seiden-Camisole fängt das kühle blaue Laptop-Licht ein, während warme Schatten den Raum umgeben. Handkamera-Bewegungen sorgen für Dringlichkeit.
+“Some nights demand more.”
+Shot 2 — 0:02 — Medium Wide Shot
+She sits cross-legged on a rumpled couch in a dim apartment, typing frantically. Rust-orange silk camisole catches the cool blue laptop light while warm practical shadows surround the room. Handheld camera movement adds urgency.
 Shot 3 — 0:03 — Whip Pan
-Schneller Whip-Pan in Richtung Vorratsschrank. Schranktüren schwingen dramatisch auf und lassen warmes bernsteinfarbenes Licht über ihr Gesicht fallen, wie eine Versuchung, die den Stress unterbricht.
-Shot 4 — 0:04 — Schokoladen-Nahaufnahme
-Sie beißt mit einem knackigen Geräusch in eine dunkle Schokoladentafel. Ihre Augen schließen sich kurz vor Erleichterung. Goldfolie knistert leise in ihrer Hand. Reichhaltige, glänzende Schokoladentextur, filmische Food-Fotografie.
-Shot 5 — 0:05 — Halbtotale, Dutch Tilt
-Zurück am Arbeitsplatz. Sie tippt aggressiv mit einer Hand, während sie eine Schokoladentrüffel zwischen den Lippen balanciert. Ein leichter Dutch-Angle verstärkt das wachsende Chaos.
-Shot 6 — 0:06 — Over-the-Shoulder-Shot
-Der Laptop-Bildschirm zeigt komplexe Diagramme und Datenvisualisierungen. Mit Kakaopulver bestäubte Finger schlagen auf die Enter-Taste und hinterlassen schwache Schokoladenflecken auf dem Trackpad. Kühler Bildschirmglanz dominiert den Rahmen.
-Shot 7 — 0:07 — Emotionale Nahaufnahme
-Die Frustration erreicht ihren Höhepunkt. Sie fährt sich mit beiden Händen durch das unordentliche blonde Haar und atmet schwer aus. Feines Kakaopulver haftet an ihren Fingerspitzen. Warmes und kühles Licht prallen dramatisch auf ihrem Gesicht aufeinander.
+Fast whip pan toward the kitchen pantry. Cabinet doors swing open dramatically, spilling warm amber light across her face like temptation interrupting stress.
+Shot 4 — 0:04 — Chocolate Close-Up
+She bites into a dark chocolate bar with a crisp snap. Her eyes close briefly in relief. Gold foil crinkles softly in her hand. Rich glossy chocolate texture, cinematic food photography.
+Shot 5 — 0:05 — Medium Shot, Dutch Tilt
+Back at the workspace. She types aggressively with one hand while balancing a chocolate truffle between her lips. Slight dutch angle intensifies the growing chaos.
+Shot 6 — 0:06 — Over-the-Shoulder Shot
+Laptop screen displays complex charts and data visualizations. Cocoa-dusted fingers slam the Enter key, leaving faint chocolate smudges on the trackpad. Cool screen glow dominates the frame.
+Shot 7 — 0:07 — Emotional Close-Up
+Frustration peaks. She runs both hands through messy blonde hair and exhales heavily. Fine cocoa powder clings to her fingertips. Warm and cool lighting collide dramatically across her face.
 Voice Over:
-„Wenn der Druck zunimmt…“
-Shot 8 — 0:08 — Schneller Schnitt
-Wieder am Vorratsschrank stehend, greift sie mit der rechten Hand in eine Keramikschale, die mit luxuriösen handwerklichen Pralinen überquillt. Warmes goldenes Licht erblüht um sie herum.
-Shot 9 — 0:09 — Mittlere Nahaufnahme
-Am Schreibtisch sitzend isst sie direkt aus der Schokoladenschale, während sie ausdruckslos auf den leuchtenden Monitor starrt. Erschöpfung durch Termindruck gemischt mit Komfort und Genuss.
-Shot 10 — 0:10 — Untersicht
-Kamera auf Tastaturebene, während ihre Finger mit maschinenartiger Präzision tippen. Ihr Gesicht leuchtet in einer Mischung aus Cyan- und Bernsteintönen, hochkonzentriert.
-Shot 11 — 0:11 — Makro-Nahaufnahme
-Sie wickelt mit zitternden Fingern ein weiteres Stück dunkle Schokolade aus, während sie intensiv auf den leuchtenden Bildschirm starrt. Die Goldfolie fängt warmes bernsteinfarbenes Licht ein und wirft schimmernde Reflexionen auf ihr Gesicht. Das Geräusch der knisternden Folie schneidet scharf durch die Stille, bevor sie einen weiteren Bissen nimmt.
-Shot 12 — 0:12 — Dynamischer Orbit-Shot
-Die Kamera kreist um sie herum, während sie in eine mit Schokolade überzogene Brezel beißt, ohne die Konzentration auf den Monitor zu verlieren. Filmische Tracking-Bewegung, glänzende Highlights, dramatische Schärfentiefe.
-Shot 13 — 0:13 — Sieges-Nahaufnahme
-Ein dezenter Schokoladenfleck ruht auf ihrer Unterlippe. Sie lächelt leicht und klickt mit der Maus. Das blaue Monitorlicht spiegelt den Triumph in ihren Augen wider.
-Shot 14 — 0:14 — Halbtotale
-Sie schließt den Laptop mit einem festen, entschlossenen Klappgeräusch und lässt sich rückwärts auf das Sofa fallen, wobei sie einen massiven, erschöpften Seufzer ausstößt.
-Shot 15 — 0:15 — Letzte Totale
-Sie sinkt tief in das Sofa, ausgelaugt, aber zufrieden. Um sie herum: verstreute Goldverpackungen, leere Keramikschale, geschlossener Laptop, warme Umgebungsbeleuchtung der Wohnung, friedliche Stille nach dem Sturm.
+“When the pressure hits…”
+Shot 8 — 0:08 — Quick Cut
+Standing at the pantry again, she uses her right hand to dig into a ceramic bowl overflowing with luxurious artisanal chocolates. Warm golden light blooms around her.
+Shot 9 — 0:09 — Medium Close-Up
+Seated at the desk, she eats directly from the chocolate bowl while staring blankly at the glowing monitor. Deadline exhaustion mixed with comfort and indulgence.
+Shot 10 — 0:10 — Low Angle
+Camera from keyboard level as her fingers type with machine-like precision. Her face glows with mixed cyan and amber tones, intensely focused.
+Shot 11 — 0:11 — Macro Close-Up
+She unwraps another piece of dark chocolate with trembling fingers while staring intensely at the glowing screen. The gold foil catches warm amber light, scattering shimmering reflections across her face. Crinkling foil sound cuts sharply through the silence before she takes another bite.
+Shot 12 — 0:12 — Dynamic Orbit Shot
+The camera circles around her as she bites into a sculpted chocolate-dipped pretzel rod without breaking concentration on the monitor. Cinematic tracking movement, glossy highlights, dramatic depth of field.
+Shot 13 — 0:13 — Victory Close-Up
+A subtle chocolate smudge rests on her lower lip. She smiles faintly and clicks the mouse. Blue monitor light reflects triumph in her eyes.
+Shot 14 — 0:14 — Medium Shot
+She shuts the laptop with a firm decisive clap and collapses backward into the couch, releasing a massive exhausted breath.
+Shot 15 — 0:15 — Final Wide Shot
+She sinks deeply into the couch, drained but satisfied. Around her: scattered gold wrappers, empty ceramic bowl, closed laptop, warm ambient apartment lighting, peaceful silence after the storm.
 Voice Over:
-„…übernimmt der Genuss.“
-Filmische Keywords
-Luxus-Werbung, filmischer Realismus, stimmungsvolle Wohnung, Food-Cinematography, geringe Schärfentiefe, Handkamera-Energie, Premium-Lifestyle-Ästhetik, warme praktische Beleuchtung, kühler Bildschirmglanz, glänzende Schokoladentexturen, ausdrucksstarke Gesichts-Nahaufnahmen, schnelles Editing, emotionaler Realismus, moderne Werbung, filmische Spannung, genussvolle Atmosphäre, elegante Unordnung, dramatische Beleuchtung, High-End-Werbefilmproduktion.
+“…indulgence takes over.”
+Cinematic Keywords
+Luxury commercial, cinematic realism, moody apartment, food cinematography, shallow depth of field, handheld energy, premium lifestyle aesthetic, warm practical lighting, cool screen glow, glossy chocolate textures, expressive facial close-ups, fast-paced editing, emotional realism, modern advertisement, cinematic tension, indulgent atmosphere, elegant chaos, dramatic lighting, high-end commercial filmmaking.
 ```
 
 **Von** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K Follower
@@ -1312,31 +1312,31 @@ Luxus-Werbung, filmischer Realismus, stimmungsvolle Wohnung, Food-Cinematography
 
 ---
 
-### 19. POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…
+### 19. A Heartwarming Act of Kindness
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert Gugugag…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="A Heartwarming Act of Kindness"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-POV: Eine kleine Geste der Freundlichkeit hat ALLES verändert
+POV: One tiny act of kindness changed EVERYTHING
 
-Gugugaga hatte nur ein Knödel… aber sie teilte es trotzdem mit einem hungrigen kleinen Hasen im Regen
-Was danach passierte, ließ mein Herz schmelzen
+Gugugaga only had one dumpling… but she still shared it with a hungry little bunny in the rain
+What happened next melted my heart
 
-Erstellt diesen gemütlichen 3D-Animationskurzfilm im Pixar-Stil mit GPT Image 2 + Seedance
+Created this cozy Pixar-style 3D animated short using GPT Image 2 + Seedance
 
-Ein großes Dankeschön an @renoiseai canvas, dass ihr geholfen habt, diese herzerwärmende Welt zum Leben zu erwecken
+Huge shoutout to @renoiseai canvas for helping bring this wholesome world to life
 
-Würdest du deinen letzten Knödel teilen?
+Would you share your last dumpling?
 
-Der Prompt ist im Video
-Schreib mir eine DM für den vollständigen Prompt
+Prompt is in the video
+DM for full Prompt
 ```
 
 **Von** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K Follower
@@ -1349,52 +1349,52 @@ Schreib mir eine DM für den vollständigen Prompt
 
 ---
 
-### 20. Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…
+### 20. Deep Sea Fisherman Documentary Cinematic
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout,…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Deep Sea Fisherman Documentary Cinematic"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **🖼️ Bild-Prompt**
 
 ```
-Erstellen Sie ein hochwertiges redaktionelles Charakterprofil-Layout, das in zwei Abschnitte unterteilt ist.
-LINKER ABSCHNITT
-→ Große, fette Typografie "THOMAS REID" in schwerer, schwarzer Großbuchstabenschrift
-→ Untertitel: "THE OCEAN NEVER WINS"
-→ Ganzkörper-fotorealistisches Bild eines echten 27-jährigen, extrem gutaussehenden, athletischen Mannes, der wie ein professioneller Hochseefischer aussieht
-→ Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut
-→ Trägt schwere, saubere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt
-→ Völlig ruhige, kraftvolle, selbstbewusste Haltung auf sauberem weißem Hintergrund
-→ Beleuchtung: Weiches, kaltes natürliches Licht wie bei einem echten Dokumentar-Fotoshooting
-→ Kleiner Text darunter: "BUILT BY WAVES. BORN TO ENDURE."
+Create a high-end editorial character profile spread layout split into two sections.
+LEFT SECTION
+→ Large bold typography "THOMAS REID" in heavy black uppercase font
+→ Subtitle: "THE OCEAN NEVER WINS"
+→ Full body photorealistic image of a real 27-year-old extremely handsome athletic man who looks like a professional deep-sea fisherman
+→ Strong sharp features, piercing calm eyes, short neat beard, broad athletic shoulders, naturally tanned rugged skin
+→ Wearing heavy clean yellow waterproof overalls, thick rubber boots, rope coiled over one shoulder
+→ Completely still powerful confident stance on clean white background
+→ Lighting: Soft cold natural light like a real documentary photoshoot
+→ Small text below: "BUILT BY WAVES. BORN TO ENDURE."
 
-RECHTER ABSCHNITT
-→ PERSÖNLICHKEIT: Unerschütterlich in jedem Sturm / Keine verschwendete Bewegung / Jede Reise hat ihren Preis / Das Meer respektiert niemanden
-→ DETAILS: Alter 27 / Nationalität Norwegen / Haltung Vorwärtsgriff / Stil Hochsee-Ausdauer / Status Aufsteigende Legende
-→ HAUPTMERKMALE: Eiserne Geduld / Rohe Kraft / Explosiver Überlebensinstinkt / Zeitlose Seemannschaft
-→ DETAILS IM FOKUS — 4 kleine fotorealistische Nahaufnahme-Boxen:
-Box 1: Starke, vom Seil gezeichnete Hände
-Box 2: Detail eines alten, verrosteten Kompasses
-Box 3: Textur der sauberen gelben wasserdichten Jacke
-Box 4: Detail eines schweren Gummistiefels
-Gesamtstil: Sauberes, minimalistisches Magazin-Editorial-Design / Echte Fotografie-Ästhetik / Kalte Ozeantöne Grau-Türkis-Off-White / Schwere schwarze Typografie / Erstklassige Dokumentar-Publikationsqualität
+RIGHT SECTION
+→ PERSONALITY: Unshakeable in any storm / Zero wasted movement / Every voyage has a cost / The sea respects no one
+→ DETAILS: Age 27 / Nationality Norway / Stance Forward Grip / Style Deep Sea Endurance / Status Rising Legend
+→ KEY TRAITS: Iron Patience / Raw Strength / Explosive Survival Instinct / Timeless Seamanship
+→ DETAILS IN FOCUS — 4 small photorealistic close-up boxes:
+Box 1: Strong rope-worn hands
+Box 2: Old rusted compass detail
+Box 3: Clean yellow waterproof jacket texture
+Box 4: Heavy rubber boot detail
+Overall style: Clean minimal magazine editorial design / Real photography aesthetic / Cold ocean tones grey teal off-white / Heavy black typography / Premium documentary publication quality
 ```
 
 **🎬 Video-Prompt**
 
 ```
-Filmischer Ozean-Dokumentarfilm. Subjekt: Ein 27-jähriger, extrem gutaussehender, athletischer Hochseefischer. Starke, markante Gesichtszüge, durchdringende, ruhige Augen, kurzer, gepflegter Bart, breite, athletische Schultern, natürlich gebräunte, raue Haut. Trägt schwere gelbe wasserdichte Latzhose, dicke Gummistiefel, ein Seil über einer Schulter aufgerollt. Altes, verrostetes Fischerboot.
-→ EINSTELLUNG 1 — Extrem niedrige Tracking-Aufnahme auf Deckhöhe. Er bewegt sich bereits mit voller Geschwindigkeit über das Schiffsdeck in Richtung eines verhedderten Netzes. Nachdem er das Netz gewaltsam über die Seite gezogen hat, fängt er kaum seinen Stand auf dem nassen Deck, bevor er sofort wieder nach vorne drängt.
-→ EINSTELLUNG 2 — Whip-Pan-Übergang in eine ausgedehnte Seilziehsequenz. Kontinuierliche Seilreibung und Gischt explodieren über den Rahmen, während die Kamera Schwierigkeiten hat, mit seiner überwältigenden Kraft und Geschwindigkeit Schritt zu halten.
-→ EINSTELLUNG 3 — Weite Kamerafahrt über das gesamte Schiffsdeck. Mehrere schnelle Aufgaben finden direkt hintereinander statt, fast ohne Vorbereitungszeit. Der Kameramann verliert auf dem schaukelnden Boot fast das Gleichgewicht, um der Action zu folgen.
-→ EINSTELLUNG 4 — Komprimierte Langobjektiv-Aufnahme, die eine massive Welle einfängt, die in Zeitlupe über den Bug bricht. Extreme Körperbeherrschung, um die Position gegen die Kraft zu halten, fast weggespült, bevor er sich in letzter Sekunde auf wundersame Weise erholt.
-→ EINSTELLUNG 5 — Ultra-niedrige kreisförmige Tracking-Aufnahme um eine ausgedehnte Balance-Sequenz auf dem rutschigen Deck. Ständige Anpassung gegen den schaukelnden Ozean bringt die Stabilität an die Grenze, doch er passt seinen Griff am Seil mitten in der Bewegung ruhig an, ohne langsamer zu werden.
-→ EINSTELLUNG 6 — Letzte Aufnahme. Eine massive Welle bricht über den Rumpf und umhüllt ihn vollständig. Gischt, Schaum und Bewegungsspuren explodieren über das Deck. Er gleitet in einen festen, breiten Stand, richtet sich langsam auf und erstarrt in einer völlig ruhigen Endpose unter hartem Ozeanlicht. Der Ton bricht sofort ab. Die Kamera friert auf seinem völlig ruhigen und furchtlosen Gesicht ein. Überblende.
-Stil: Ultra-realistischer National Geographic Ozean-Dokumentarfilm kombiniert mit erstklassiger Sportwerbe-Energie. Kalte, entsättigte Töne. Schwere Ozeanatmosphäre. Echte menschliche Kraft und Präsenz.
+Cinematic ocean documentary film. Subject: A 27-year-old extremely handsome athletic deep-sea fisherman. Strong sharp features, piercing calm eyes, short neat beard, broad athletic shoulders, naturally tanned rugged skin. Wearing heavy yellow waterproof overalls, thick rubber boots, rope coiled over one shoulder. Old rusted fishing vessel.
+→ SHOT 1 — Extremely low deck-level tracking shot. He is already moving at full speed across the vessel deck toward a tangled net. After violently hauling the net over the side, he barely catches his footing on the wet deck before immediately pushing forward again.
+→ SHOT 2 — Whip pan transition into an extended rope-pulling sequence. Continuous rope friction and ocean spray explode across the frame while the camera struggles to keep up with his overwhelming strength and speed.
+→ SHOT 3 — Wide moving shot across the entire vessel deck. Multiple rapid tasks happen back-to-back with almost no setup time. Cameraman nearly loses balance on the rocking boat to follow the action.
+→ SHOT 4 — Compressed long-lens shot capturing a massive wave crashing over the bow in slow motion. Extreme body control holding position against the force, nearly swept off before miraculously recovering at the final second.
+→ SHOT 5 — Ultra-low circular tracking shot around an extended balance sequence on the slippery deck. Constant adjustment against the rocking ocean pushes stability to the limit, yet he calmly adjusts his grip on the rope mid-motion without slowing down.
+→ SHOT 6 — Final shot. A massive wave crashes over the hull completely surrounding him. Spray, foam and momentum trails explode across the deck. He slides into a firm wide stance, slowly straightens up, and locks into a completely still final pose under harsh ocean light. The sound cuts instantly. Camera freezes on his completely calm and fearless face. Fade.
+Style: Ultra-realistic National Geographic ocean documentary combined with premium sports advertising energy. Cold desaturated tones. Heavy ocean atmosphere. Real human strength and presence.
 ```
 
 **Von** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K Follower
@@ -1407,19 +1407,19 @@ Stil: Ultra-realistischer National Geographic Ozean-Dokumentarfilm kombiniert mi
 
 ---
 
-### 21. Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…
+### 21. 阿努比斯的怕痒时刻
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägy…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕痒时刻"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägyptischen Bibliothek sehen wir den majestätischen Schakalgott Anubis, wie er mit den Händen auf dem Rücken lässig die Bücherregale mustert, seine Haltung ist würdevoll. In diesem Moment bemerkt er einen jungen Mann, der nach einem Buch über Rituale auf einem nahegelegenen Tisch greift. Anubis schnappt sich schnell das Buch, hebt einen Arm hoch über den Kopf, entblößt seine Achselhöhle und sagt mit sanfter, aber fester Stimme: Dieses Buch ist nichts für jemanden wie ihn. Szene 2: Der junge Mann sieht enttäuscht aus, lächelt dann aber verschmitzt und fragt Anubis, ob er kitzelig sei, während er gleichzeitig nach der Achselhöhle von Anubis' erhobenem Arm greift, was Anubis etwas verwirrt. Szene 3: Nahaufnahme, die Hand eines Menschen bewegt sich unter Anubis' Achselhöhle auf und ab, wobei diese Bewegung wiederholt wird. Im Hintergrund ist Anubis' unterdrücktes Kichern zu hören, was zeigt, dass er tatsächlich sehr kitzelig ist. Szene 4: Nahaufnahme, Anubis' Oberkörper, die Hand des Menschen bewegt sich weiterhin unter Anubis' Achselhöhle auf und ab. Anubis schließt die Augen, grinst breit und stößt unterdrücktes Kichern aus. Szene 5: Der Mensch kitzelt weiterhin Anubis' Achselhöhle, Anubis kichert mit geschlossenen Augen. Anubis' Lachen bestätigt, dass er wirklich kitzelig ist, dann fängt er wieder an zu kichern, während der Mensch seine Achselhöhle weiter kitzelt. Szene 6: Anubis kichert weiter, wirft schließlich das Buch auf den Boden, umarmt sich selbst und bedeckt seine Achselhöhlen. Der Mensch hört mit dem Kitzeln auf und nimmt das Buch. Anubis kichert, scheint noch in das Lachen vertieft zu sein und sagt lachend, dass er es hasst, gekitzelt zu werden. Der Mensch nimmt lächelnd das Buch entgegen. Anubis ist muskulös und trägt Ringe an Armen und Hals. Seine Stimme ist tief, magnetisch und charismatisch. Anubis' Achselhöhle wird gekitzelt.
+现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时，他注意到一个年轻人正伸手去拿附近桌子上一本关于仪式的书籍。阿努比斯见状，迅速夺过书本，用一只手臂高高举过头顶，露出腋窝，用他那温和而坚定的语气说道：这本书不适合像他这样的人。 场景二：年轻人一脸失望，但随即露出狡黠的笑容，问阿努比斯是否怕痒，同时伸手去挠阿努比斯举起的手臂的腋窝，这让阿努比斯有些摸不着头脑。 场景3：特写镜头，人类的手在阿努比斯的腋下上下滑动手指，不断重复这个动作。背景中传来阿努比斯压抑的咯咯笑声，表明他确实很怕痒。 场景4：特写镜头，阿努比斯的上半身，人类的手继续在阿努比斯的腋下上下滑动手指。阿努比斯闭着眼睛，咧嘴大笑，发出压抑的咯咯笑声。 场景5：人类继续用手挠阿努比斯的腋窝，阿努比斯闭着眼睛咯咯笑着。阿努比斯的笑声证实了他确实很怕痒，然后他又开始咯咯地笑，而人类则继续挠他的腋窝。 场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
 ```
 
 **Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K Follower
@@ -1432,49 +1432,52 @@ Moderner chinesischer 3D-Animationsstil. Szene 1: In einer großen ägyptischen 
 
 ---
 
-### 22. Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…
+### 22. Korean School Action Drama Sequence
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Hauptfigur: Ein schönes koreanisches Highschool-Mädchen in einer real…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Korean School Action Drama Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Hauptfigur:
-Ein schönes koreanisches Highschool-Mädchen in einer realistischen koreanischen Sommer-Schuluniform (하복). Natürliche Hauttextur ohne Beauty-Retusche. Das Haar wird im Kampf zerzaust, mit ausdrucksstarkem emotionalem Schauspiel. Die Gesichtsproportionen bleiben in allen Aufnahmen vollkommen konsistent. Sie beginnt schüchtern und schockiert und wird allmählich entschlossen und trotzig.
+Main Character:
+A beautiful Korean high school girl wearing a realistic Korean summer school uniform (하복). Natural skin texture with no beauty retouching. Hair becomes messy during combat, with expressive emotional acting. Facial proportions remain fully consistent throughout all shots. She begins timid and shocked, then gradually becomes determined and defiant.
 
-0–1,5 Sekunden:
-Die Protagonistin lernt ruhig an ihrem Schreibtisch. Vier delinquente Schülerinnen umzingeln sie und beginnen, sie zu schikanieren. Sie verspotten sie fürs Lernen, fegen aggressiv ihre Bücher vom Tisch und stoßen sie an den Schultern. Weitwinkel-Handkamera-Bewegung. Bücher fliegen in Zeitlupe. Angespannte Klassenzimmer-Atmosphäre. Realistische Schul-Mobbing-Energie, wackelige Kamerabewegung, filmischer Realismus.
+0–1.5 seconds:
+The female lead quietly studies at her desk. Four delinquent schoolgirls surround her and begin bullying her. They mock her for studying, aggressively sweep her books off the desk, and shove her shoulders. Wide-angle handheld camera movement. Books fly in slow motion. Tense classroom atmosphere. Realistic school bullying energy, shaky camera motion, cinematic realism.
 
-1,5–3 Sekunden:
-Nahaufnahme des Gesichts der Protagonistin. Sie steht langsam auf. Ihr Ausdruck wandelt sich von Angst zu kalter Entschlossenheit. Die Mobber bleiben in der geringen Schärfentiefe hinter ihr verschwommen. Ein 0,5-sekündiger Moment der Stille. Langsame filmische Push-in-Aufnahme. Stille, abgesehen von Umgebungsgeräuschen im Klassenzimmer und angespanntem Atmen.
+1.5–3 seconds:
+Close-up of the protagonist’s face. She slowly stands up. Her expression shifts from fear to cold determination. The bullies remain blurred in shallow depth of field behind her. A 0.5-second moment of silence. Slow cinematic push-in shot. Silence except for ambient classroom sound and tense breathing.
 
-3–5 Sekunden:
-Erste Konfrontation. Eine Mobberin schlägt zu; die Protagonistin blockt ab und kontert mit einem Schlag in den Magen. Eine weitere Angreiferin stürmt von der Seite; sie weicht aus und revanchiert sich mit einem drehenden Ellbogenschlag. Handgeführte Tracking-Aufnahmen folgen der Bewegung genau. Dynamische Bewegungsunschärfe, Aufprall-Kamerawackeln, realistische Kampfchoreografie. Keine übernatürlichen Effekte.
+3–5 seconds:
+First confrontation. One bully throws a punch; the protagonist blocks and counters with a strike to the stomach. Another attacker rushes from the side; she dodges and retaliates with a spinning elbow strike. Handheld tracking shots follow the motion closely. Dynamic motion blur, impact camera shake, realistic fight choreography. No supernatural effects.
 
-5–8 Sekunden:
-Die verbleibenden zwei Mobberinnen greifen gleichzeitig mit Schlägen und Tritten an. Die Protagonistin nutzt schnelle Beinarbeit und Ausweichbewegungen, um Treffern zu entgehen. Dynamische 360-Grad-rotierende Kamerabewegung. Schnelle verkettete Tritte und Ellbogenangriffe werfen die Angreiferinnen zu Boden. Schreibtische und Gegenstände im Klassenzimmer verschieben sich durch die Aufpralle. Intensives filmisches Action-Tempo.
+5–8 seconds:
+The remaining two bullies attack simultaneously with punches and kicks. The protagonist uses quick footwork and evasive movement to avoid hits. Dynamic 360-degree rotating camera movement. Rapid chained kicks and elbow attacks knock the attackers down. Classroom desks and objects shift from the impacts. Intense cinematic action pacing.
 
-8–10 Sekunden:
-Die letzte Angreiferin stürmt auf die Protagonistin zu. Die Protagonistin springt hoch in die Luft. Untersicht-Aufnahme vom Boden. 30% Zeitlupe. Haar und Rock fließen natürlich. Dramatische filmische Beleuchtung. Schwebender Staub und Partikel in der Luft driften langsam durch die Luft.
+8–10 seconds:
+The final attacker charges toward the protagonist. The female lead leaps high into the air. Low-angle shot from the ground. 30% slow motion. Hair and skirt flow naturally. Dramatic cinematic lighting. Floating dust and airborne particles drift slowly through the air.
 
-10–12 Sekunden:
-360-Grad-Drehkick in der Luft. Zeitlupen-Aufprall trifft direkt die Brust der letzten Mobberin. Extreme Nahaufnahme der Kollision. Die Mobberin wird rückwärts gegen die Klassenzimmerwand geschleudert. Trümmer und Staub explodieren nach außen. Alle Mobberinnen brechen auf dem Boden zusammen. Unmittelbar nach der Landung schnellt die Kamerageschwindigkeit für dramatische Wirkung auf normal zurück.
+10–12 seconds:
+Midair 360-degree spinning kick. Slow-motion impact directly hits the final bully’s chest. Extreme close-up of the collision. The bully is launched backward into the classroom wall. Debris and dust explode outward. All bullies collapse onto the floor. Immediately after landing, the camera speed snaps back to normal for dramatic impact.
 
-12–14 Sekunden:
-Sieg-Moment. Die Protagonistin steht allein in der Mitte des Klassenzimmers und atmet schwer. Die vier Mobberinnen liegen besiegt im Raum verteilt. Die Kamera fährt langsam und dramatisch auf ihr Gesicht zu. Weicher filmischer Bokeh-Hintergrund. Ihr Ausdruck ist entschlossen, aber emotional.
+12–14 seconds:
+Victory moment. The protagonist stands alone in the center of the classroom, breathing heavily. The four bullies lie defeated around the room. The camera slowly and dramatically pushes toward her face. Soft cinematic bokeh background. Her expression is determined yet emotional.
 
-14–15 Sekunden:
-Standbild-Nahaufnahme. Die Protagonistin starrt direkt in die Kamera und sagt ruhig auf Koreanisch:
-(„Ich muss aufs College kommen.“)
-Die Darbietung ist realistisch und emotional zurückhaltend. Nachdem der Satz endet, sieht sie wieder wie eine gewöhnliche Schülerin aus. Ruhiges, emotionales Ende. Der Film betont den intensiven akademischen Druck, dem koreanische Schüler ausgesetzt sind.
+14–15 seconds:
+Freeze-frame close-up. The protagonist stares directly into the camera and calmly says in Korean:
+(“I need to get into college.”)
+Delivery is realistic and emotionally restrained. After the line ends, she returns to looking like an ordinary student. Calm, emotional ending. The film emphasizes the intense academic pressure faced by Korean students.
 
-Stil-Referenzen:
-Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera-Action, emotionaler Realismus, bodenständige Kampfchoreografie, realistische koreanische Klassenzimmer-Atmosphäre, High-Budget Netflix K-Drama-Ästhetik, filmische Beleuchtung, dramatische Stille-Momente, starke weibliche Protagonistin, bodenständiger emotionaler Ton.
+Style References:
+Korean action cinema, ultra-realistic cinematography, cinematic handheld action, emotional realism, grounded fight choreography, realistic Korean classroom atmosphere, high-budget Netflix K-drama aesthetics, cinematic lighting, dramatic silence beats, powerful female protagonist, grounded emotional tone.
+
+Negative Prompt:
+Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, exaggerated fantasy armor, unrealistic physics, low quality, blurry faces, overexposed lighting, comedic tone, childish style, fantasy classroom, male protagonist, bad anatomy, unrealistic body proportions, supernatural effects, glowing eyes, energy auras, magic.
 ```
 
 **Von** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K Follower
@@ -1487,12 +1490,12 @@ Koreanisches Actionkino, ultra-realistische Kinematografie, filmische Handkamera
 
 ---
 
-### 23. Use @[image1] as the student character reference for Taro Kazeishi. U…
+### 23. High-Speed Anime Martial Arts Training Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Use @[image1] as the student character reference for Taro Kazeishi. U…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="High-Speed Anime Martial Arts Training Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1774,12 +1777,12 @@ No text. No watermark. No UI. No extra action beyond storyboard.
 
 ---
 
-### 24. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…
+### 24. Intense Tennis Match Digital Painting
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="Intense Tennis Match Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1823,12 +1826,12 @@ SFX: Racket hit sound, ball landing sound, breathing sound
 
 ---
 
-### 25. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 25. Cinematic Baseball Batting Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Use the storyboard sheet @[storyboard ref] as the exact sequential vi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Cinematic Baseball Batting Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1862,12 +1865,12 @@ clean cinematic lighting
 
 ---
 
-### 26. Create a raw kung fu performance storyboard focused on extreme physic…
+### 26. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Create a raw kung fu performance storyboard focused on extreme physic…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -1995,12 +1998,12 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ---
 
-### 27. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…
+### 27. Wing Chun Training Digital Painting
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="Wing Chun Training Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2040,12 +2043,12 @@ Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After comp
 
 ---
 
-### 28. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…
+### 28. Olympic Diver Digital Painting Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="Olympic Diver Digital Painting Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2126,12 +2129,12 @@ Final rhythmic beat of the music, subtle shutter freeze sound, continuing audien
 
 ---
 
-### 29. Create a raw kung fu performance storyboard focused on extreme physic…
+### 29. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Create a raw kung fu performance storyboard focused on extreme physic…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2259,12 +2262,12 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 ---
 
-### 30. A high-definition, realistic broadcast shot of a young woman sitting…
+### 30. Football fan in stadium broadcast shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="A high-definition, realistic broadcast shot of a young woman sitting…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Football fan in stadium broadcast shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2284,22 +2287,22 @@ A high-definition, realistic broadcast shot of a young woman sitting in a crowde
 
 ---
 
-### 31. Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…
+### 31. Candid Fan Cam at Baseball Game
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Candid Fan Cam at Baseball Game"></a>
 </div>
 
 **📝 Prompt**
 
 ```
-Eine junge Koreanerin sitzt ganz natürlich im Publikum während eines Live-Baseballspiels. Sie wirkt ruhig und konzentriert auf das Spiel. Fans um sie herum schwenken Anfeuerungsstäbe und reagieren lebhaft auf das Spiel in einer authentischen Stadionatmosphäre. Echter KBO-Teleobjektiv-Übertragungsstil, geringe Schärfentiefe, subtiles Handkamera-Mikrowackeln, natürliche Live-TV-Bildgestaltung und authentische koreanische Stadionbeleuchtung mit echten Übertragungseinblendungen (Anzeigetafel, Teamlogos, Sponsorengrafiken, Kompressionsartefakte).
-Nach ein paar Sekunden bemerkt sie, dass die Fan-Kamera auf sie gerichtet ist. Sie dreht sich langsam mit einem schüchternen, leicht überraschten Lächeln zur Kamera, streicht sich sanft das Haar hinter das Ohr und schaut dann kurz verlegen nach unten. Fans in der Nähe bemerken es und reagieren natürlich, lächeln und lachen leise.
-Authentisches Stadionambiente mit lautem Fankurvenlärm, Anfeuerungsstäben, Hall des Stadionsprechers und Präsenz des Kommentators. Der koreanische Kommentator sagt leise:
+A young Korean woman sits naturally in the audience during a live baseball game. She appears calm and focused on the match. Fans around her wave cheering sticks and react to the game in a lively, authentic stadium environment. Real KBO telephoto broadcast camera style, shallow depth of field, subtle handheld micro shake, natural live TV framing, and authentic Korean stadium lighting with real broadcast overlays (scoreboard, team logos, sponsor graphics, compression artifacts).
+After a few seconds, she realizes the fan cam is focused on her. She slowly turns toward the camera with a shy, slightly surprised smile, gently tucks her hair behind her ear, then looks down briefly in an embarrassed way. Nearby fans notice and react naturally, smiling and laughing softly.
+Authentic stadium ambience with loud crowd noise, thunder sticks, announcer echo, and commentator presence. Korean commentator softly says:
 “와… 정말 아름다우시네요…”
-Kein cineastischer Look, kein Posing, keine Schönheitsfilter, keine dramatische Beleuchtung, keine Zeitlupe, keine Schnitte, reiner, unverfälschter Live-Sportübertragungs-Realismus.
+No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow motion, no cuts, pure candid, unscripted live sports broadcast realism.
 ```
 
 **Von** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K Follower
@@ -2312,43 +2315,43 @@ Kein cineastischer Look, kein Posing, keine Schönheitsfilter, keine dramatische
 
 ---
 
-### 32. Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…
+### 32. Competitive Fighting Game Combat Sequence
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Competitive Fighting Game Combat Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Filmmaterial / Objektiv: Digitaler 4K-Game-Engine-Render, feste Wide-Side-View-Kamera für Kampfspiele, 35mm-Objektiv für Tiefenschärfe.
-Farbkorrektur: Hoher Kontrast, lebendige "Next-Gen"-Gaming-Palette, dramatische Stadionbeleuchtung durch den zentralen Tunnel.
-Atmosphäre: Geladen, kompetitiv, mit schwebenden Staubpartikeln und Lens Flares von den Stadion-Deckenleuchten.
+Film stock / Lens: Digital 4K game engine render, fixed wide-side-view fighting game camera, 35mm lens for deep focus.
+Color Grade: High contrast, vibrant "Next-Gen" gaming palette, dramatic stadium lighting coming through the central tunnel.
+Atmosphere: Charged, competitive, with floating dust particles and lens flares from the overhead stadium lights.
 
-Audio-Stil: Immersives räumliches Sounddesign. Schwere dumpfe Aufprallgeräusche, knochenbrechende SFX, zischende Luft bei Spezialbewegungen und ein finaler schwerer Aufprall auf Holz.
+Audio Style: Immersive spatial sound design. Heavy thudding impacts, bone-crunching SFX, whooshing air for special moves, and a final heavy wooden crash.
 
-BILDREFERENZEN / LEGENDE
+IMAGE REFERENCES / LEGEND
 
-[escene] : Die Umgebungsreferenz (Umkleideraum der Kampfarena und Stadioneingang).
+[escene] : The environment reference (fighting arena locker room and stadium entrance).
 
-[player1] : Der Kämpfer auf der linken Seite (weißer Trainingsanzug). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
+[player1] : The fighter on the left (white tracksuit). Keep exact face and clothing as reference.
 
-[player2] : Der Kämpfer auf der rechten Seite (blau-grünes Set). Behalten Sie das exakte Gesicht und die Kleidung als Referenz bei.
+[player2] : The fighter on the right (blue/green kit). Keep exact face and clothing as reference.
 
-ZEITPLAN SEKUNDE FÜR SEKUNDE
-0-3s: [Weitwinkelaufnahme] Kämpfer in Weiß [player1] und Kämpfer in Blau [player2] stehen sich in Kampfhaltung in der Mitte der Arena [escene] gegenüber. Gesundheitsbalken und "ROUND 1"-UI erscheinen oben. Der Kämpfer in Weiß führt einen Low-Kick aus; der Kämpfer in Blau blockt mit einem blauen Partikeleffekt-Aufprall.
+TIMELINE SECOND BY SECOND
+0-3s: [Wide Shot] Fighter in white [player1] and fighter in blue [player2] face each other in fighting stances in the center of the arena [escene]. Health bars and "ROUND 1" UI appear at the top. The fighter in white throws a low kick; the fighter in blue blocks with a blue particle effect impact.
 
-3-8s: [Action-Sequenz] Schneller Kampf im Mortal Kombat-Stil. Der Kämpfer in Weiß führt einen Spinning Backfist aus; der Kämpfer in Blau duckt sich und kontert mit einem Uppercut.
+3-8s: [Action Sequence] Fast-paced Mortal Kombat style combat. The fighter in white performs a spinning backfist; the fighter in blue ducks and counters with an uppercut.
 
-8-12s: [Spezialbewegung] Der Kämpfer in Blau [player2] greift schnell nach einem nahegelegenen hölzernen Trainingstisch. Er schwingt ihn in einem weiten Bogen. Physik-Interaktion: Der Tisch reflektiert die Deckenbeleuchtung während der Bewegung.
+8-12s: [Special Move] The fighter in blue [player2] quickly grabs a nearby wooden training table. He swings it in a wide arc. Physics interaction: the table reflects the overhead lights as it moves.
 
-12-15s: [Schlussaufnahme] Der Tisch trifft den Kopf des Kämpfers in Weiß [player1] mit einem schweren Aufprall. Der Kämpfer in Weiß bricht mit einer Ragdoll-Physik-Bewegung auf dem Boden zusammen. Der Kämpfer in Blau steht über ihm, während "K.O." auf dem Bildschirm aufleuchtet. Sound blendet zu einem schweren Bass-Aufprall aus.
+12-15s: [Closing Shot] The table connects with the head of the fighter in white [player1] with a heavy impact. The fighter in white collapses to the floor in a ragdoll physics motion. The fighter in blue stands over him as "K.O." flashes on the screen. Sound fade to a heavy bass impact.
 
-STIL- & QUALITÄTSVERBESSERER
-Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmische Beleuchtung, perfekte Bewegungsunschärfe für die Kampfaktionen, hoher Dynamikumfang, keine Artefakte. Exakt gleiche Gesichter und Outfits wie [player1] und [player2] durchgehend, filmreife stabile Gesichtszüge.
+STYLE & QUALITY BOOSTERS
+Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lighting, perfect motion blur for the fight moves, high dynamic range, no artifacts. Exact same faces and outfits as [player1] and [player2] throughout, movie-level stable facial features.
 ```
 
 **Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
@@ -2361,12 +2364,12 @@ Fotorealistisches 8K, ultra-detaillierte Stofftexturen auf den Outfits, filmisch
 
 ---
 
-### 33. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 33. Cinematic Jump Rope Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Use the storyboard sheet @[storyboard ref] as the exact sequential vi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Cinematic Jump Rope Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2401,12 +2404,12 @@ clean cinematic lighting
 
 ---
 
-### 34. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…
+### 34. Celebrity Arrival in New York City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Style: Ultra-realistic mass celebrity arrival scene. Single continuou…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Celebrity Arrival in New York City"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2428,12 +2431,12 @@ Calm, controlled presence. Subtle confident smile. Face identity must remain per
 
 ---
 
-### 35. Create a rough hand-drawn PREVIS + rescue chase storyboard page in 16…
+### 35. Cloud Skateboard Rescue Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Create a rough hand-drawn PREVIS + rescue chase storyboard page in 16…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Cloud Skateboard Rescue Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2520,12 +2523,12 @@ Keep visual motion calm and intentional rather than restless.
 
 ---
 
-### 36. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…
+### 36. Chef vs Cockroach Kitchen Chase
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="Chef vs Cockroach Kitchen Chase"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2574,12 +2577,12 @@ SFX: silence → breakdown scream
 
 ---
 
-### 37. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…
+### 37. 复古迪士尼风格：阿努比斯的挠痒趣事
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049083120499015829_0_poster.jpg" width="480" alt="复古迪士尼风格：阿努比斯的挠痒趣事"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2599,12 +2602,12 @@ SFX: silence → breakdown scream
 
 ---
 
-### 38. Create a single unified MASTER CHARACTER REFERENCE SHEET from these i…
+### 38. Cinematic Character Introduction and Reference Sheet
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Create a single unified MASTER CHARACTER REFERENCE SHEET from these i…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Cinematic Character Introduction and Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2740,12 +2743,12 @@ End on a confident mid or full shot, character fully established.
 
 ---
 
-### 39. [STYLE] Monochrome grayscale illustration, 3D-rendered character, cle…
+### 39. 3D Character Movement Reference Sheet
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="[STYLE] Monochrome grayscale illustration, 3D-rendered character, cle…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D Character Movement Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2798,12 +2801,12 @@ There should be no dialogue, text, or narration.
 
 ---
 
-### 40. This is the F1 we deserve, not the Mario Kart bullshit the regulation…
+### 40. High-octane Formula 1 racing scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="This is the F1 we deserve, not the Mario Kart bullshit the regulation…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="High-octane Formula 1 racing scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2825,12 +2828,12 @@ Seedance 2.0 prompt below 👇
 
 ---
 
-### 41. Prompt: Use @ Reference Image as the main character, keeping facial f…
+### 41. Time-Freeze Cinematic Sports Bar Scene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="Prompt: Use @ Reference Image as the main character, keeping facial f…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="Time-Freeze Cinematic Sports Bar Scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2862,12 +2865,12 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ---
 
-### 42. { "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…
+### 42. Slapstick Ice Cream Trick Animation
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="{ &quot;style&quot;: &quot;stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Str…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Slapstick Ice Cream Trick Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2875,31 +2878,31 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ```
 {
-  "style": "stilisierte 3D-Animation, hyperrealer Pop, Squash-and-Stretch",
-  "mood": "schneller Slapstick-Unfug mit vorgetäuschten Gewinnen und Auflösung",
+  "style": "stylized 3D animation, hyperreal pop, squash-and-stretch",
+  "mood": "fast slapstick mischief with fake wins and payoff",
   "characters": {
-    "child": "rundes Gesicht, riesige Augen, goldblonder Pferdeschwanz, rosa gestreiftes Kleid",
-    "vendor": "großer Mann, gezwirbelter Schnurrbart, purpurrote Weste, schiefe Mütze, Eispaddel aus Messing"
+    "child": "round-faced, huge eyes, golden-blond ponytail, pink striped dress",
+    "vendor": "tall man, curled mustache, crimson vest, tilted cap, brass ice cream paddle"
   },
   "environment": {
-    "location": "sonnenbeschienener Steinhof in einer Stadt am Hang",
-    "details": "Blumenbögen, Mosaikbrunnen, Messingwagen, Kopfsteinpflaster, warmes Licht am späten Nachmittag"
+    "location": "sunlit stone courtyard in hillside town",
+    "details": "flower archways, mosaic fountain, brass cart, cobblestones, warm late-afternoon light"
   },
   "timeline": [
     {
       "time": "0:00-0:04",
-      "action": "Eis-Trick enthüllt Täuschungen; Waffel erscheint und verschwindet, schneller Fehlgriff-Gag",
-      "sfx": "Keuchen, Sausen, Kichern, Glocke"
+      "action": "Ice cream trick reveals fake outs; cone appears and disappears, quick miss gag",
+      "sfx": "gasp, whoosh, chuckle, bell"
     },
     {
       "time": "0:04-0:09",
-      "action": "Wechsel-Trick, hektische Verfolgungsjagd, vorgetäuschter Sieg, dann wird die Waffel entfernt",
-      "sfx": "Sausen, Rutschen, Lachen, Glockenspiel-Abbruch"
+      "action": "Switch trick, scramble chase, fake victory then cone removed",
+      "sfx": "swish, skid, laughter, chime cut"
     },
     {
       "time": "0:09-0:15",
-      "action": "Öffentliche Neckerei, dann wird die echte Waffel übergeben; ruhige Auflösung und Genussmoment",
-      "sfx": "Publikumslachen, Glocke, sanftes Läuten, Applaus"
+      "action": "Public tease, then real cone given; calm payoff and taste moment",
+      "sfx": "crowd laugh, bell, soft chime, applause"
     }
   ]
 }
@@ -2915,12 +2918,12 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ---
 
-### 43. FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine
+### 43. Fast-Paced Morning Routine Montage
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="FORMAT: 15s / 145 BPM / 15 SHOTS / Beat-synchronisierte Routine"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="Fast-Paced Morning Routine Montage"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -2929,51 +2932,51 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 ```
 FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine
 
-SUBJECT: @[image1] < BILD EINFÜGEN.
+SUBJECT: @[image1] < ATTACH YOUR IMAGE.
 
-WARDROBE: Schlaf-T-Shirt und Lounge-Shorts zu Hause. Maßgeschneiderte Jacke, enges Oberteil, Hose und Schnürschuhe draußen.
+WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 
-ENVIRONMENT: Kleine Wohnung, helles Kühlschranklicht, regennasser Flur, Chrom-U-Bahn, sauberes Büro, dann ein Schlafzimmer in kühlem Fensterlicht. Alles wirkt glänzend und bewohnt.
+ENVIRONMENT: Tiny apartment, bright fridge glow, rain-dusted hallway, chrome metro, clean office, then a bedroom in cool window light. Everything feels glossy and lived-in.
 
-MOOD: Panik wegen Verspätung, abgehackte Dynamik, atemlose Dringlichkeit, dann ein erschöpftes Ausatmen.
+MOOD: Late-for-work panic, clipped momentum, breathless urgency, then an exhausted exhale.
 
-MUSIC: Schneller perkussiver Elektro-Pop
+MUSIC: Fast percussive electro-pop
 
-COLOR LOGIC: Hyperrealer Pop-Look
+COLOR LOGIC: Hyperreal Pop Look
 
-STYLE: Ultra-realistisch.
+STYLE: Ultra-Realistic.
 
-LOGIC RULE: Achten Sie auf logische Konsistenz bei Garderobe, Requisiten, Orten und Handlungsverlauf in allen Aufnahmen.
+LOGIC RULE: Keep logical consistency in wardrobe, props, locations, and action continuity across all shots.
 
-SHOT 1: ECU, 85mm Push-in / 06:50 auf dem Handybildschirm, während es auf zerknitterten Laken zittert. / SFX: Alarm, Lakenrascheln.
+SHOT 1: ECU, 85mm push-in / 06:50 on the phone screen as it shakes on rumpled sheets. / SFX: alarm, sheet rustle.
 
-SHOT 2: WS, 35mm Handkamera-Ruck / Rhythmischer Schnitt, wie sie durch Seitenlicht hochschreckt, die Decke wegwirft und in einer hastigen Bewegung die Füße auf den Boden stellt, immer noch im weichen Schlaf-T-Shirt und Lounge-Shorts. / SFX: Matratzenfedern, Deckenschwung, scharfer Atem.
+SHOT 2: WS, 35mm handheld jolt / Rhythmic cut into her jolting upright through side light, throwing the blanket aside, and planting her feet on the floor in one rushed motion, still in a soft sleep tee and lounge shorts. / SFX: mattress bounce, blanket whip, sharp breath.
 
-SHOT 3: MCU, 50mm Slide / Schnitt auf die Handlung: Gesicht waschen am Waschbecken, Tropfen fangen das Deckenlicht ein. / SFX: Wasserhahnrauschen, Wasserklatschen.
+SHOT 3: MCU, 50mm slide / Cut on action into face wash at the sink, droplets catching the top light. / SFX: faucet rush, water slap.
 
-SHOT 4: Insert-Aufnahme, 85mm Rack-Fokus / Match-Cut auf die Zahnbürste, die in einem natürlichen Vorwärtswinkel gegen die Vorderzähne gehalten wird, Hand entspannt und aufrecht, Minzschaum und Spiegelblick. / SFX: Borstenkratzen, Waschbeckentropfen.
+SHOT 4: Insert shot, 85mm rack focus / Match cut into the toothbrush held at a natural forward brushing angle against the front teeth, hand relaxed and upright, mint foam and mirror eye. / SFX: bristle scrape, sink drip.
 
-SHOT 5: Kühlschrank-Innenansicht, 24mm Weitwinkel / Objekt-Passage in die Kamera im Kühlschrank, während die Tür aufspringt und ihre Hand hineinschnellt, blaues Kühlschranklicht umrahmt einen hastigen Griff nach Frühstückszutaten. / SFX: Kühlschranksummen, Flaschenklirren, Regalrasseln.
+SHOT 5: Interior fridge view, 24mm wide / Object pass into the camera inside the fridge looking out as the door snaps open and her hand darts in, blue fridge light framing a hurried grab for breakfast ingredients. / SFX: fridge hum, bottle clink, shelf rattle.
 
-SHOT 6: Insert-Aufnahme, 50mm Handkamera / Rhythmischer Schnitt auf Eier und Toast, die unter warmem Licht in der Pfanne landen. / SFX: Buttersizzeln, Hackgeräusch.
+SHOT 6: Insert shot, 50mm handheld / Rhythmic cut into eggs and toast hitting the pan under warm practical light. / SFX: butter sizzle, chop tap.
 
-SHOT 7: MCU, zentrierter 50mm Push-in / Match-Cut auf einen hastigen Bissen, ein kurzer Blick auf die Uhr und ein sofortiges Aufstehen vom Stuhl. / SFX: Knuspern, Keramikklirren, Stuhlkratzen.
+SHOT 7: MCU, centered 50mm push-in / Match cut into one rushed bite, a quick clock glance, and an immediate rise from the chair. / SFX: crunch, ceramic clink, chair scrape.
 
-SHOT 8: Vogelperspektive-Insert, 35mm Overhead / Schnitt auf die Handlung: Gestreifte Socken werden angezogen. / SFX: Stoffdehnung, Fersentippen.
+SHOT 8: Bird's-eye insert, 35mm overhead / Cut on action into striped socks snapping on. / SFX: fabric stretch, heel tap.
 
-SHOT 9: MS, 35mm Pivot / Kamera-Wipe in einen hastigen Outfitwechsel, während das Schlaf-T-Shirt unter einem engen Oberteil und einer maßgeschneiderten Jacke verschwindet, dann werden Tasche, Schlüssel und Transitkarte in einem unordentlichen Griff zusammengerafft. / SFX: Stoffschwung, Schlüsselklingeln, Reißverschluss, Taschenrascheln.
+SHOT 9: MS, 35mm pivot / Camera wipe into a rushed outfit change as the sleep tee disappears under a fitted top and tailored jacket, then her tote, keys, and transit card get scooped up in one messy grab. / SFX: fabric whip, key jingle, zipper pull, bag rustle.
 
-SHOT 10: Insert-Aufnahme, 50mm Overhead / Match-Cut auf Schnürschuhe, die zugeschlagen werden, während die Schnürsenkel in einem ungeduldigen Zug festgezogen werden. / SFX: Sohlenschlag, Schnürsenkelzug, kurzer Atem.
+SHOT 10: Insert shot, 50mm overhead / Match cut into lace-up shoes slamming on as the laces yank tight in one impatient pull. / SFX: sole thump, lace tug, short breath.
 
-SHOT 11: WS, 24mm Parallaxe / Whip-Pan-Übergang zu ihr, jetzt im maßgeschneiderten Außen-Outfit, wie sie durch die Wohnungstür in das Flurlicht stürmt, ohne den Schritt zu verlangsamen. / SFX: Riegelklicken, schnelle Schritte, Flurluft.
+SHOT 11: WS, 24mm parallax / Whip pan transition into her, now in the tailored outside outfit, rushing through the apartment door into corridor light without breaking stride. / SFX: latch click, rapid footsteps, hallway air.
 
-SHOT 12: MS zu CU, 35mm Glide in 85mm Push-in / Sound-Bridge in das Innere der U-Bahn, während sie sich an der Stange festhält, sich mit dem Schwanken des Wagens bewegt, die vorbeiziehenden Stationslichter prüft und einen angespannten Blick auf die schließenden Türen wirft, reflektiertes Chrom streift um sie herum und die Stadt verschwimmt außerhalb des Fensters. / SFX: Schienenklappern, Wagenquietschen, Türwarnton, enger Atem.
+SHOT 12: MS to CU, 35mm glide into 85mm push-in / Sound bridge into the metro car interior only as she grips the pole, shifts with the carriage sway, checks the passing station lights, and snaps a tense glance toward the closing doors, reflected chrome streaking around her and the city smearing outside the window. / SFX: rail clatter, carriage screech, door warning chime, tight breath.
 
-SHOT 13: Insert zu MCU, 50mm Snap-Zoom / Smash-Cut zum Büroeingang, während ihre Zugangskarte das Lesegerät berührt, die Glastür entriegelt und sie schnell hindurchschlüpft, bevor der Stuhl rollt und der Laptop aufgeht. / SFX: Kartenpiepen, Tür klicken, Laptop-Ton.
+SHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to the office entrance as her access card hits the reader, the glass door unlocks, and she slips through fast before the chair roll and laptop open. / SFX: badge beep, door click, laptop chime.
 
-SHOT 14: OTS, 35mm Handkamera / Rhythmischer Schnitt auf Finger, die über Tasten rasen, Chat-Fenster blinken, Kaffee neben dem Trackpad und Benachrichtigungen, die sich schneller stapeln, als sie sie löschen kann. / SFX: Tastaturgeklapper, Benachrichtigungsticken, Mausklick.
+SHOT 14: OTS, 35mm handheld / Rhythmic cut into fingers racing across keys, chat windows blinking, coffee by the trackpad, and notifications stacking faster than she clears them. / SFX: keyboard burst, notification ticks, mouse click.
 
-SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rückkehr in die Wohnung, während die Jacke fällt, Arbeitskleidung abgestreift wird und sie sich wieder in Schlafkleidung umzieht, bevor sie in der Form des Anfangsbildes ins Bett fällt. / SFX: Türschließen, Taschenabwurf, Stoffrascheln, Deckenrascheln, Raumton.
+SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment re-entry as the jacket drops, work clothes peel away, and she changes back into sleepwear before collapsing into bed in the opening frame shape. / SFX: door shut, bag drop, fabric rustle, blanket rustle, room tone.
 ```
 
 **Von** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K Follower
@@ -2986,12 +2989,12 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Schließen zur Rü
 
 ---
 
-### 44. Bullet time effect. A businessman in white shirt and black tie slippi…
+### 44. Bullet time businessman fall on Wall Street
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Bullet time effect. A businessman in white shirt and black tie slippi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Bullet time businessman fall on Wall Street"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3011,27 +3014,27 @@ Bullet time effect. A businessman in white shirt and black tie slipping and fall
 
 ---
 
-### 45. Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…
+### 45. F16 Wing Stunt Tracking Shot
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige,…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 Wing Stunt Tracking Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Ästhetik: Rohe 35mm-Handkamera, Dunst durch Höhensonne. Eine einzige, ununterbrochene Kamerafahrt. Keine Schnitte. Alles in Echtzeit. Audio: Durchgehendes, konstantes Dröhnen eines Düsentriebwerks, Windböen, keine anderen Geräusche. 
+aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. 
 
-Zeitplan: 
-- 0-3s: Ein normaler Typ in weiten Cargo-Shorts und Flip-Flops steht völlig entspannt auf dem Flügel einer F16, die mit 350 mph in 10.000 Fuß Höhe fliegt. 
-- 3-7s: Der Pilot lehnt sich aus dem Cockpit und zeigt dem Typen auf dem Flügel einen Daumen hoch. Der Typ lehnt sich leicht vor, lächelt und erwidert den Daumen hoch. 
-- 7-12s: Er macht einen völlig lässigen, perfekt sauberen Rückwärtssalto. Ohne Hände. Er hält sich nirgendwo fest. Er landet exakt wieder an derselben Stelle auf dem Flügel. Er wankt nicht einmal. 
-- 12-15s: Er wischt ein wenig Staub von seinen Shorts. Zeigt gelangweilt einen kleinen Daumen hoch direkt in die Kamera. Harter Schnitt. 
+timeline: 
+- 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly relaxed balancing on top of the wing of an F16 doing 350mph at 10,000 feet. 
+- 3-7s: The pilot leans out of the canopy, gives a thumbs up towards the guy on the wing. The guy leans forward slightly, smiles and returns the thumbs up. 
+- 7-12s: He does a completely casual, perfectly clean full backflip. No hands. He doesn't grab anything. Lands exactly back on the exact same spot on the wing. He doesn't even stumble. 
+- 12-15s: He brushes a tiny bit of dust off his shorts. Gives a bored little thumbs up straight to the camera. Hard cut. 
 
-Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürliche Physik, kein Uncanny-Valley-Effekt, keine Artefakte.
+quality: 8K photorealistic, correct fabric motion blur, natural physics, no uncanny valley, no artifacts.
 ```
 
 **Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
@@ -3044,29 +3047,29 @@ Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürl
 
 ---
 
-### 46. FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUN…
+### 46. VR Survival Transition: Wilderness to Home
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUN…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR Survival Transition: Wilderness to Home"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-FORMAT: 15s / freier Rhythmus / 1 MATCH CUT / KONTINUIERLICHE BEWEGUNG BIS ZUM MATCH CUT + SOFORTIGE AKTION AB DEM ERSTEN FRAME
+FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME
 
-SUBJEKTE: Eine einsame Frau mit Schwert in abgenutztem Fell und Leder kämpft mit verzweifelten, beidhändigen Überlebensbewegungen gegen einen riesigen Eisbären. Dieselbe Frau wird später zu Hause in lockerer Freizeitkleidung gezeigt, wo ein VR-Headset erst nach dem Match Cut erscheint und in einer klaren Bewegung abgenommen wird.
-UMGEBUNG: Gefrorene Wildnis bei hartem Tageslicht, Wind treibt Schnee über blau-weißes Eis, dann ein bescheidenes, bewohntes Zuhause, das durch einen präzisen visuellen Match erreicht wird. Winterliches grelles Licht und sichtbarer Atem weichen sanfter Unordnung, Tageslicht im Innenraum und einem schwachen, vom Spiel beleuchteten Glanz.
-STIMMUNG: Viszerale Überlebensspannung schnappt in geerdete Realität um, ohne die physische Kontinuität zu brechen.
-FARBLOGIK: Naturalistische Film-Print-Emulation
+SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate, two-handed survival movement. The same woman is later revealed at home in loose indoor clothes, where a VR headset appears only after the match cut and is pulled off in one clear motion.
+ENVIRONMENT: Frozen wilderness under hard daylight, wind dragging snow across blue-white ice, then a modest lived-in home reached through a precise visual match. Winter glare and visible breath give way to soft clutter, indoor daylight, and a faint game-lit glow.
+MOOD: Visceral survival tension snaps into grounded reality without breaking physical continuity.
+COLOR LOGIC: Naturalistic Film Print Emulation
 
-ZEITSTRAHL:
-0:00-0:07: Eine ununterbrochene Handkamera-Bewegung, WS geht in MCU über, während die Frau über das Eis zurückweicht und der Bär durch den wehenden Schnee springt. Die Kamera läuft auf Augenhöhe neben dem Sprung her, 28mm wechselt zu 35mm, leicht instabil und nah genug, um beide Körper schwer und lesbar zu halten. Der Bär kommt schnell näher, während sie sich festigt, zurückweicht und die Klinge zwischen ihnen hält. SFX: (heulender Wind, Stiefel knirschen auf Eis, tiefes Tiergebrüll, Stoffspannung, Klinge schneidet Luft, Schneekratzen). Harte Wintersonne beleuchtet das Eis von der Seite und wirft scharfe blaue Schatten.
-0:07-0:11: Dieselbe ununterbrochene Bewegung, kein Schnitt, verdichtet sich zu einer direkten CU, während der Bär in die letzten Zentimeter vordringt, Krallen nahe ihren Schultern, Kiefer füllen den Bildrand. Mitten im Angriff ruft eine Männerstimme: Karla... dann schärfer: KARLA. Sie antwortet mit einem müden „Aus“, und auf diese Reaktion hin verlangsamt sich die Welt in Zeitlupe. Schneegestöber steht fast still, der Bär verharrt in seinem Schlag, und nur sie bewegt sich in normaler Geschwindigkeit weiter, während die Kamera um ihr Gesicht kreist. Gelangweilt, nicht ängstlich, lässt sie das Schwert fallen und führt beide leeren Hände in einer fließenden Unterbrechungsgeste zu ihren Schläfen. Kein Headset, Visier oder Gerät ist in der gefrorenen Welt sichtbar. Bleiben Sie bis zum Match Cut kontinuierlich, behalten Sie die gleiche Gesichtsgröße, Handhöhe, Kopfwinkel, Linsendistanz und den Drift im Uhrzeigersinn bei. SFX: (Stoffspannung baut sich bis zum Aufprall auf, eine Männerstimme ruft Karla... KARLA, ihr müdes „Aus“, dann gedehnter Wind, der in Stille übergeht). Harte Wintersonne fängt den verlangsamten Schnee um ihr Gesicht ein.
-0:11-0:15: MATCH CUT. CU zu MS. Nahtloser Übergang mitten in der Bewegung, während ihre aufsteigenden Hände die gleiche Bildschirmposition kreuzen und die gefrorene Nahaufnahme zum Wohnraum mit derselben Rahmung und demselben Drift im Uhrzeigersinn wird. Die Bewegung geht ununterbrochen weiter, und nun ist zum ersten Mal ein VR-Headset sichtbar über ihren Augen geschnallt. Sie greift beide Seiten, zieht es vollständig vom Gesicht, und die Kamera öffnet sich zu einer Halbtotalen, während sie es über ihre Stirn schiebt und in lockerer Kleidung in ein kleines Wohnzimmer tritt. Die Handkamera-Orbit-Bewegung setzt sich fort und enthüllt Sofakanten, verstreute Decken und kaltes Fensterlicht, während ihre Haltung in leichte Genervtheit umschlägt. Sie dreht sich zur Stimme, verdreht die Augen nach oben und sagt: „Was ist denn.“ 35mm natürliches Objektiv, sphärisch. SFX: (Dehnen des Headset-Bands, Plastikreiben, leiser Raumton, Sockenfüße scharren, schwaches Spiel-Audio, ihr Atem beruhigt sich, ihre trockene Stimme sagt: „Was ist denn.“). Tageslicht im Innenraum ersetzt den winterlichen Kontrast.
+TIMELINE:
+0:00-0:07: One unbroken handheld move, WS collapsing into MCU as the woman backpedals across the ice and the bear launches through blowing snow. The camera runs beside the leap at eye level, 28mm shifting to 35mm, slightly unstable and close enough to keep both bodies heavy and readable. The bear closes fast while she plants, recoils, and keeps the blade between them. SFX: (howling wind, boots grinding ice, low animal roar, cloth strain, blade cutting air, snow scrape). Hard winter sun side-lights the ice and throws sharp blue shadows.
+0:07-0:11: Same unbroken move, no cut, tightening into a dead-on CU as the bear surges into the last inches, claws near her shoulders, jaws filling the frame edge. Right in the middle of the attack, a man's voice calls, Karla... then sharper, KARLA. She answers with a tired off, and on that reaction the world drops into slow motion. Snow drifts almost still, the bear hangs in its strike, and only she keeps moving at normal speed as the camera orbits into her face. Bored, not afraid, she drops the sword and brings both empty hands toward her temples in one smooth interrupt gesture. No headset, visor, or device is visible in the frozen world. Stay continuous until the match cut, keeping the same face size, hand height, head angle, lens distance, and clockwise drift. SFX: (cloth strain building to near impact, a man's voice calling Karla... KARLA, her tired off, then stretched wind fading toward silence). Hard winter sun catches the slowed snow around her face.
+0:11-0:15: MATCH CUT. CU to MS. Seamless mid-motion transition as her rising hands cross the same screen position and the frozen close-up becomes the home interior with the same framing and clockwise drift. The motion continues uninterrupted, and now a VR headset is visibly strapped over her eyes for the first time. She grips both sides, pulls it fully off her face, and the camera opens into a medium shot as she drops it above her forehead and steps into a small living room in loose home clothes. The handheld orbit continues, revealing couch edges, scattered blankets, and cold window light as her posture falls into mild annoyance. She turns toward the voice, rolls her eyes upward, and says, What is it. 35mm natural lens, spherical. SFX: (headset strap stretch, plastic rub, quiet room tone, socked foot scrape, faint game audio, her breath settling, her dry voice saying What is it). Indoor daylight replaces the winter contrast.
 ```
 
 **Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K Follower
@@ -3079,12 +3082,12 @@ ZEITSTRAHL:
 
 ---
 
-### 47. ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…
+### 47. Rocket Surfing at High Altitude
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="ROCKET SURF. STIL: Gritty Cine Verité, 35mm Handkamera, natürliches W…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Rocket Surfing at High Altitude"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3092,15 +3095,15 @@ ZEITSTRAHL:
 
 ```
 ROCKET SURF. 
-STIL: Gritty Cine Verité, 35mm Handkamera, natürliches Wackeln. Durchgehende Kamerafahrt. Keine Schnitte. Alles in Echtzeit. 
+STYLE: Gritty Cine Verité,  35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. 
 
-BELEUCHTUNG: Helle Sonne in großer Höhe, strahlend blauer Himmel. 
+LIGHTING: Bright, high-altitude sun, pure blue sky. 
 
-AUDIO: Dröhnen des Raketentriebwerks, Wind, Knarren von Fiberglas. 
+AUDIO:  Rocket engine roar, wind, fiberglass creak.  
 
-ZEITPLAN: 0-3s: Ein Typ in Jeans und schwarzem T-Shirt hält sich mit Mühe an der Seite einer aktiven SpaceX-Rakete in 12.000 Fuß Höhe fest. Die Rakete steigt auf. 3-7s: Harter Zoom auf sein Gesicht. Sein Haar ist nach hinten gestrafft. Der Boden unter ihm fällt weg. 7-12s: Die Rakete erreicht Max Q. Der gesamte Booster bebt heftig. Er hält sich fest, seine Knie federn es perfekt ab. 12-15s: Er zieht eine Bierdose aus seiner Kapuzenpullover-Tasche und öffnet sie. Er nimmt einen Schluck, prostet zu und ruft: "Worth it!". Harter Schnitt. 
+TIMELINE: 0-3s:  Guy in jeans and a black t-shirt is barely holding on the side of an active SpaceX rocket at 12,000 feet. The rocket is climbing. 3-7s:  Hard zoom in cut on his face. His hair is plastered straight back. The ground is falling away below. 7-12s: The rocket hits max Q. The whole booster shakes violently.  He grips tightly, his knees absorb it perfectly. 12-15s: He pulls a  beer can out of his hoodie pocket, cracks it open. Takes one sip, cheers and yells: "Worth it!". Hard cut. 
 
-QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen, keine Artefakte.
+QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 ```
 
 **Von** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K Follower
@@ -3113,35 +3116,35 @@ QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen,
 
 ---
 
-### 48. Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…
+### 48. Cinematic cliff jump tracking shot
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hart…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Cinematic cliff jump tracking shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Düstere, rohe 35mm-Handkamera-Ästhetik mit natürlichem Filmkorn. Hartes, direktes Sonnenlicht erzeugt kontrastreiche Schatten. Handgeführte Kamerafahrt (3rd-Person-Perspektive/über die Schulter). Atmosphäre: staubig, Küstenwind, realistische Physik.
+Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh, direct sunlight creating high-contrast shadows. Handheld tracking shot (3rd person POV/Over-the-shoulder). Atmosphere: dusty, coastal wind, realistic physics.
 
-Audio: Schweres, rhythmisches Atmen, Kies knirscht unter den Füßen, intensives Windheulen, plötzliche Stille während des Sprungs, gefolgt von einem schweren Aufprallgeräusch auf Plastik.
+Audio: Heavy rhythmic breathing, gravel crunching under feet, intense wind howl, sudden silence during the jump, followed by a heavy "thud" impact on plastic.
 
-[ZEITPLAN SEKUNDE FÜR SEKUNDE]
+[TIMELINE SECOND BY SECOND]
 
-0-4s: [Kamerafahrt] Die Handkamera folgt dicht hinter einem leicht übergewichtigen Mann in einem grauen, zerknitterten Trainingsanzug, der auf eine Klippe zuläuft. Detaillierte Stoffphysik: Der Trainingsanzug wellt sich bei jedem Schritt. Staub wirbelt vom Boden auf.
+0-4s: [Tracking Shot] Handheld camera follows closely behind a slightly obese man in a grey wrinkled tracksuit running towards a cliff edge. Detailed fabric physics: the tracksuit ripples with every step. Dust kicks up from the ground.
 
-4-7s: [Der Sprung] Der Mann erreicht den Abgrund und springt mit voller Kraft. Die Kamera senkt sich leicht mit ihm, als er den Boden verlässt. Echtzeit-Übergang zu einer schnellen Abwärts-Kamerafahrt.
+4-7s: [The Leap] The man reaches the precipice and jumps with full force. The camera dips slightly with him as he leaves the ground. Real-time transition to a fast downward tracking shot.
 
-7-12s: [Freier Fall] Das Subjekt fällt mit hoher Geschwindigkeit. Die Kamera bleibt auf seinen Rücken/seine Seite fixiert. Physik: Der Wind verzerrt den Stoff des Trainingsanzugs und seine Haut. Der Boden nähert sich schnell mit realistischer Bewegungsunschärfe.
+7-12s: [Freefall] Subject falls at high velocity. Camera stays locked on his back/side. Physics: wind distorts the fabric of the tracksuit and his skin. Ground approaches rapidly with realistic motion blur.
 
-12-15s: [Die Landung] Das Subjekt prallt unten auf ein massives, buntes aufblasbares Luftkissen. Physik: Das Luftkissen verformt sich beim Aufprall stark und federt zurück. Die Kamera wackelt durch die Wucht der Landung. Geräusch von entweichender Luft.
+12-15s: [The Landing] Subject slams into a massive colorful inflatable air-bag at the bottom. Physics: the inflatable deforms deeply upon impact and bounces back. Camera shakes from the force of the landing. Sound of air rushing out.
 
-[STIL & QUALITÄTSVERBESSERER]
+[STYLE & QUALITY BOOSTERS]
 
-Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte Bewegungsunschärfe, hoher Dynamikumfang, keine Artefakte, kohärente multimodale Physik, Stabilität auf Filmniveau.
+Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion blur, high dynamic range, no artifacts, coherent mult-modal physics, movie-level stability.
 ```
 
 **Von** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K Follower
@@ -3154,12 +3157,12 @@ Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte
 
 ---
 
-### 49. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…
+### 49. Office Worker Psychological Horror Transformation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Office Worker Psychological Horror Transformation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3188,39 +3191,39 @@ TIMELINE:
 
 ---
 
-### 50. SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…
+### 50. Kung Fu Chef Noodle Preparation
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="SUBJEKTE: Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschn…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Kung Fu Chef Noodle Preparation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-SUBJEKTE:
-Subjekt 1: Schlanker Kung-Fu-Koch mit kurzem, scharf geschnittenem Haar und markanter Kieferpartie. Trägt ein modernisiertes chinesisches Koch-Outfit, kombiniert mit Kampfkunst-Kleidung: eng anliegendes ärmelloses Oberteil mit Stehkragen, dunkler matter Stoff mit subtilem Glanz; Unterarme mit Stoffbändern für besseren Halt umwickelt; lockere, zulaufende Hose, die weite Stellungen ermöglicht; Schuhe mit weicher Sohle für lautlose Beinarbeit. Gliedmaßen leicht übertrieben in der Länge; Handgelenke hochflexibel, Ellbogen explosiv. Die Bewegungen folgen einem klaren Kampfkunst-Rhythmus (Pause → Ausbruch → Block), mit geerdeter Beinarbeit und schnellen Drehungen.
+SUBJECTS:
+Subject 1: Lean kung fu chef with short, sharp-cut hair and defined jawline. Wears a modernized Chinese chef outfit fused with martial arts attire: fitted sleeveless upper garment with mandarin collar, dark matte fabric with subtle sheen; forearms wrapped with cloth bands for grip; loose tapered pants allowing wide stances; soft-soled shoes for silent footwork. Limbs slightly exaggerated in length; wrists highly flexible, elbows explosive. Movements follow clear martial rhythm (pause → burst → lock), with grounded footwork and fast pivots.
 
-UMGEBUNG:
-Traditionelles chinesisches offenes Feuer-Herd-Setup; Eisen-Wok fest auf dem Herd; reflektierende Metalltheke; blau-weiße Porzellanschüssel im Vordergrund mittig platziert. Warmes Deckenlicht kombiniert mit intensivem, dynamischem Feuerlicht; leichter Ölrauch und sichtbare Hitzeverzerrung.
+ENVIRONMENT:
+Traditional Chinese open-fire stove setup; iron wok fixed on stove; reflective metal counter; blue-and-white porcelain bowl placed in foreground center. Warm overhead light combined with intense dynamic firelight; light oil smoke and visible heat distortion.
 
-STIMMUNG:
-Hohe Spannung, aggressiv, aber kontrolliert und präzise; die Darbietung wirkt eher absichtsvoll und elegant als chaotisch.
+MOOD:
+High tension, aggressive, but controlled and precise; performance feels intentional and elegant rather than chaotic.
 
-ZEITPLAN:
-0:00-0:02: Extreme Nahaufnahme, Weitwinkel-POV. Der Koch steht auf dem Boden hinter der Theke (Theke immer zwischen Kamera und Koch), tritt vor, komprimiert seine Haltung und schnellt dann mit dem Kopf hoch, um Blickkontakt mit der Kamera aufzunehmen. Beide Hände greifen den Teig – er dehnt ihn in einem sauberen Zug, faltet ihn einmal und zieht dann erneut. Der Teig verwandelt sich von einer einzelnen Masse in eine kleine Anzahl gleichmäßiger Stränge.
+TIMELINE:
+0:00-0:02: Extreme close-up, wide-angle POV. The chef stands on the ground behind the counter (counter always between camera and chef), steps in, compresses posture, then snaps his head up to lock eyes with camera. Both hands grip dough—he stretches it in one clean pull, folds once, then pulls again. The dough transitions from a single mass into a small number of even strands.
 
-0:02-0:05: Schnitt. Leichte Handkamera-Bewegung. Der Koch behält die volle Kontrolle über das Nudelbündel in beiden Händen, dehnt und richtet die Stränge durch Falt → Ausricht → Dehn-Zyklen in saubere, parallele Linien aus. Etwa 8–12 dünne Stränge erstrecken sich in sanften Bögen und passieren die Linse in einer sauberen, lesbaren Bewegung. Er beendet das Ziehen und legt das ausgerichtete Nudelbündel ordentlich auf die Theke vor sich.
+0:02-0:05: Cut. Slight handheld motion. The chef keeps full control of the noodle bundle in both hands, stretching and aligning the strands into clean, parallel lines through fold → align → stretch cycles. Around 8–12 thin strands extend in smooth arcs, passing close to the lens in clean, readable motion. He finishes the pull and places the aligned noodle bundle neatly onto the counter in front of him.
 
-0:05-0:07: Bewegung (leichter Rückstoß, dann Stabilisierung). Der Koch geht in einen gleitenden Schritt hinter die Theke. Eine Handfläche streicht über die Oberfläche – Garnelen und Gemüse heben ab und bewegen sich in einem kontrollierten Bogen in den Wok. Der Wok bleibt auf dem Herd; der Koch greift nur den Griff. Jede verirrte Zutat wird klar aufgefangen und in den Wok umgeleitet.
+0:05-0:07: Move (slight recoil then stabilize). The chef lowers into a sliding step behind the counter. One palm sweeps across the surface—shrimp and greens lift and travel in a controlled arc into the wok. The wok remains on the stove; the chef grips only the handle. Any stray ingredient is clearly caught and redirected into the wok.
 
-0:07-0:10: Kontinuierliche Aufnahme. Der Koch steuert den Wok nur durch Griffbewegung und Qi-Kraft – keine Hände gelangen in den Wok. Er hebt, neigt und schnellt den Wok mit Handgelenkskraft; Zutaten steigen auf, rotieren und fallen zurück in den Wok. Sein Ellbogen schlägt gegen die Herdplatte – Funken sprühen. Er drückt den Wok in die Flamme und kehrt dann um, um die Flamme in einem zweiten kontrollierten Aufflackern nach oben zu ziehen.
+0:07-0:10: Continuous shot. The chef controls the wok only through handle movement and qi force—no hands enter the wok. He lifts, tilts, and snaps the wok using wrist power; ingredients rise, rotate, and fall back into the wok. His elbow strikes the stove edge—sparks burst. He compresses the wok into the flame, then reverses to pull the flame upward into a second controlled flare.
 
-0:10-0:12: Match-Move-Tracking. Der Koch dreht sich, während er den Wok-Griff hält. Mit der anderen Hand nimmt er dasselbe Nudelbündel von der Theke und führt es in einer kontrollierten Bewegung direkt in den Wok. Er nimmt sofort das Schwenken mit dem Wok wieder auf – drei saubere Schwenkzyklen (schnell → schneller → Stopp). Garnelen, Gemüse und Nudeln integrieren sich sichtbar; die Sauce überzieht alles gleichmäßig.
+0:10-0:12: Match move tracking. The chef pivots while holding the wok handle. With the other hand, he picks up the same noodle bundle from the counter and feeds it directly into the wok in one controlled motion. He immediately resumes tossing using the wok—three clean toss cycles (fast → faster → stop). Shrimp, greens, and noodles integrate visibly; sauce coats evenly.
 
-0:12-0:15: Schnitt auf stabilisiertes POV. Plötzlicher vollständiger Stopp. Der Koch neigt den Wok und lässt das fertige Gericht in die Porzellanschüssel gleiten – sichtbar: gleichmäßig überzogene Nudeln, pralle Garnelen, glänzendes Gemüse. Er hebt die Schüssel an und präsentiert sie direkt vor die Kamera, bis sie den Rahmen ausfüllt. Ein Finger tippt auf den Rand – subtile Vibration. Dampf steigt schnell auf und dehnt sich aus, bis er die Linse für ein sauberes Ausblenden vollständig bedeckt.
+0:12-0:15: Cut to stabilized POV. Sudden full stop. The chef tilts the wok and slides the finished dish into the porcelain bowl—visible: evenly coated noodles, plump shrimp, glossy greens. He lifts and presents the bowl directly toward the camera until it fills the frame. A finger taps the rim—subtle vibration. Steam rises rapidly, expanding until it fully covers the lens for a clean fade-out.
 ```
 
 **Von** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K Follower
@@ -3233,12 +3236,12 @@ ZEITPLAN:
 
 ---
 
-### 51. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…
+### 51. Slapstick Ice Cream Comedy Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Slapstick Ice Cream Comedy Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3271,12 +3274,12 @@ TIMELINE:
 
 ---
 
-### 52. "A dramatic sports sequence begins on a lush, windswept coastal cliff…
+### 52. Dramatic Coastal Golf Drive
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="&quot;A dramatic sports sequence begins on a lush, windswept coastal cliff…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Dramatic Coastal Golf Drive"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3302,60 +3305,60 @@ The howling wind roars as the projectile travels straight and true. The manicure
 
 ---
 
-### 53. FORMAT: filmische kontinuierliche Aufnahme / motivierte Kamerabewegun…
+### 53. Cinematic Medieval Market Continuous Shot
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="FORMAT: filmische kontinuierliche Aufnahme / motivierte Kamerabewegun…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Cinematic Medieval Market Continuous Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-FORMAT: filmische kontinuierliche Aufnahme / motivierte Kamerabewegung / 15s
+FORMAT: cinematic continuous shot / motivated camera movement / 15s
 
-SZENE
-Eine belebte mittelalterliche Marktstraße in einer Stadt aus Stein bei Dämmerung. Enge Kopfsteinpflasterstraße, Holzstände, hängende Banner, Vieh, das sich durch die Menge bewegt. Warmes Fackellicht reflektiert auf feuchten Steinen, während leichter Nebel zwischen den Gebäuden treibt.
+SCENE
+A crowded medieval market street inside a stone city at dusk. Narrow cobblestone road, wooden stalls, hanging banners, livestock moving through the crowd. Warm torchlight reflects on damp stones while light mist drifts between buildings.
 
-KAMERAKONZEPT
-Eine kontinuierliche, motivierte Kamerabewegung, bei der jedes neue sich bewegende Subjekt, das ins Bild tritt, die Aufmerksamkeit der Kamera umlenkt. Jede Bewegung übergibt den Fokus natürlich an das nächste Subjekt.
+CAMERA CONCEPT
+A continuous motivated camera move where each new moving subject entering the frame redirects the camera’s attention. Every motion naturally hands the focus to the next subject.
 
-SEQUENZ
+SEQUENCE
 
-0:00–0:03
-Nahe Ansicht eines Marktstandes auf Straßenebene.
-KAMERAFOKUS: Eine Frau verhandelt mit einem Händler, während sie Obst aus einem Holzkorb auswählt. Sie überreicht dem Händler Münzen.
+0:00–0:03  
+Close street-level view of a market stall.  
+CAMERA FOCUS: a woman bargaining with a merchant while selecting fruit from a wooden basket. She hands coins to the merchant.
 
-0:03–0:05
-Ein Pferd, das einen schweren Holzwagen zieht, kreuzt plötzlich den Vordergrund aus der entgegengesetzten Richtung und blockiert kurz das Bild.
-KAMERAVERSCHIEBUNG: Die Kamera erfasst den Wagen und beginnt, ihn zu verfolgen, während er sich durch den Markt bewegt.
+0:03–0:05  
+A horse pulling a heavy wooden cart suddenly crosses the foreground from the opposite direction, briefly blocking the frame.  
+CAMERA SHIFT: the camera catches the cart and begins tracking it as it moves through the market.
 
-0:05–0:07
-Der Wagen zwängt sich zwischen Ständen hindurch und streift ein hängendes Banner. Das Banner schwingt heftig durch das Bild.
-KAMERAVERSCHIEBUNG: Als das Banner den Blick freigibt, sieht man Hühner, die über die Kopfsteinpflasterstraße stieben.
+0:05–0:07  
+The cart squeezes between stalls and brushes past a hanging banner. The banner swings violently across the frame.  
+CAMERA SHIFT: as the banner clears the view it reveals chickens scattering across the cobblestone street.
 
-0:07–0:09
-Ein Straßenjunge rennt den entkommenden Hühnern hinterher und jagt sie durch die Menge.
-KAMERAVERSCHIEBUNG: Die Kamera beginnt, dem Jungen zu folgen, während er zwischen den Dorfbewohnern hindurchrennt.
+0:07–0:09  
+A street boy runs after the escaping chickens, chasing them through the crowd.  
+CAMERA SHIFT: the camera begins following the boy as he runs between villagers.
 
-0:09–0:12
-Der Junge eilt an einem Taverneneingang vorbei und verschwindet in der Menge.
-KAMERAVERSCHIEBUNG: Die Tavernentür schwingt plötzlich auf, als jemand herauskommt.
+0:09–0:12  
+The boy rushes past a tavern entrance and disappears into the crowd.  
+CAMERA SHIFT: the tavern door suddenly swings open as someone exits.
 
-0:12–0:15
-Die Kamera gleitet durch die offene Tür in das dunkle Innere der Taverne. Laternenlicht flackert über Holztische und treibenden Rauch.
-KAMERAFOKUS FINALE: Ein einsamer gepanzerter Ritter sitzt ruhig an einem Ecktisch, ein massives Schwert lehnt neben der Bank, während der Ritter langsam seinen Blick hebt.
+0:12–0:15  
+The camera glides through the open doorway into the dim tavern interior. Lantern light flickers across wooden tables and drifting smoke.  
+CAMERA FINAL FOCUS: a lone armored knight sitting quietly at a corner table, a massive sword leaning beside the bench as the knight slowly lifts his gaze.
 
-STIL
-Geschichtetes mittelalterliches Straßenleben, natürliche Choreografie der Menge, kontinuierliche motivierte Kamerabewegung.
+STYLE
+Layered medieval street life, natural crowd choreography, continuous motivated camera movement.
 
-BELEUCHTUNG
-Warmes Fackellicht draußen, gedimmter Laternenschein in der Taverne, Rauch und Staub fangen das Licht ein.
+LIGHTING
+Warm torchlight outside, dim lantern glow inside the tavern, smoke and dust catching the light.
 
-QUALITÄT
-fotorealistisch, filmische Beleuchtung, bodenständige Kamerabewegung, reiche mittelalterliche Atmosphäre, hochdetailliert
+QUALITY
+photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosphere, highly detailed
 ```
 
 **Von** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K Follower
@@ -3368,19 +3371,19 @@ fotorealistisch, filmische Beleuchtung, bodenständige Kamerabewegung, reiche mi
 
 ---
 
-### 54. Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…
+### 54. High-speed FPV drone chase with seasonal transition
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="High-speed FPV drone chase with seasonal transition"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mädchen mit weißen Haaren folgt, das mit unglaublich hoher Geschwindigkeit eine steile, kurvenreiche Bergstraße hinunterfährt. Extreme Vorwärtsbewegung, Weitwinkelperspektive, Windrauscheffekt. Das Video beginnt in einer lebendigen Sommerumgebung mit üppigen grünen Bergen, einem hellen, sonnigen Himmel, einem fernen Ozean und braunen Blättern, die an der Kamera vorbeifliegen. Bei der 3-Sekunden-Marke fegt eine magische Frostwelle vom Skateboard aus nach vorne: Die Umgebung verwandelt sich nahtlos in eine eisige Winterlandschaft. Das grüne Gras verwandelt sich sofort in tiefen weißen Schnee, dicke Schneeflocken beginnen zu fallen und die fernen Berge werden zu schneebedeckten Gipfeln. Die Kamera unterbricht niemals die intensive, flüssige, kontinuierliche Abwärts-Verfolgung. Actiongeladen, Meisterwerk der 3D-Animation, fotorealistische Beleuchtung.
+Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, and brown leaves flying past the camera. At the 3-second mark, a magical wave of frost sweeps forward from the skateboard: the environment seamlessly transforms into a freezing winter landscape. The green grass instantly turns to deep white snow, heavy snowflakes start falling, and the distant mountains become snow-capped peaks. The camera never breaks the intense, smooth, continuous downhill tracking motion. High-octane action, masterpiece 3D animation, photorealistic lighting.
 ```
 
 **Von** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K Follower
@@ -3393,19 +3396,19 @@ Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mäd
 
 ---
 
-### 55. Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…
+### 55. Androgenic's Vengeful Plot
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf geriss…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic's Vengeful Plot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. Sorge dafür, dass mein Cortisolspiegel in die Höhe schießt.
+Androgenic plots his revenge after getting his wig snatched. Make my cortisol spike.
 ```
 
 **Von** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K Follower
@@ -3418,12 +3421,12 @@ Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. 
 
 ---
 
-### 56. Make a Pixar film about Punch. I want to cry and fall in love with hi…
+### 56. A Pixar-style emotional journey of Punch
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Make a Pixar film about Punch. I want to cry and fall in love with hi…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="A Pixar-style emotional journey of Punch"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3443,19 +3446,19 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
-### 57. KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigen…
+### 57. Satirical AI social commentary
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigen…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="Satirical AI social commentary"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigend.
+AI goes woke. Make it really offensive - like really offensive.
 ```
 
 **Von** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K Follower
@@ -3468,12 +3471,12 @@ KI wird woke. Mach es wirklich beleidigend - also wirklich beleidigend.
 
 ---
 
-### 58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
+### 58. Dragon Rider POV Aerial Combat
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="First-person POV dragon rider, 15 seconds, raw ungraded film footage…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Dragon Rider POV Aerial Combat"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3495,12 +3498,12 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 ---
 
-### 59. Why follow Hollywood when you have the power and freedom to create en…
+### 59. The Era of Limitless Imagination
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="Why follow Hollywood when you have the power and freedom to create en…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="The Era of Limitless Imagination"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3520,12 +3523,12 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 ---
 
-### 60. Speeder chase across a cliff city (single continuous shot) From a mon…
+### 60. High-Speed Speeder Chase Through Cliff City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="Speeder chase across a cliff city (single continuous shot) From a mon…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="High-Speed Speeder Chase Through Cliff City"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3545,12 +3548,12 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 ---
 
-### 61. Luffy and Goku having an epic fight scene on the sunny.
+### 61. Luffy and Goku Epic Battle
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy and Goku having an epic fight scene on the sunny."></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy and Goku Epic Battle"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3570,23 +3573,19 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 62. [Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…
+### 62. SWAT Hostage Rescue Action Sequence
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Bea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="SWAT Hostage Rescue Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-[Szene 1: Bedrohliche Frontalaufnahme] Eine Halbtotale eines SWAT-Beamten in voller taktischer Ausrüstung, mit Gasmaske und Helm. Er richtet sein Sturmgewehr direkt auf das Kameraobjektiv (Durchbrechen der vierten Wand). Er schreit mit sichtbarer Intensität: "LASS DIE GEISEL FREI! LASS DIE WAFFE SOFORT FALLEN!"
-
-[Szene 2: Die Bedrohung] Schnitt auf eine Halbtotale des Killers in einem schmutzigen Unterhemd, der eine Frau im Schwitzkasten hält. Er hält ihr eine Pistole an den Kopf. Er schwitzt und wirkt manisch, während er den Beamten außerhalb des Bildes anschreit: "BLEIB ZURÜCK! ICH TÖTE SIE! ICH SCHWÖRE, ICH TUE ES!"
-
-[Szene 3: Auflösung über die Schulter] Die Kamera befindet sich direkt hinter der rechten Schulter des SWAT-Beamten. Wir sehen die Rückseite seines Helms und sein Gewehr im Vordergrund. In der Ferne (Mittelgrund) ist der Killer immer noch zu sehen, wie er das Mädchen festhält. Der Killer schreit ein letztes Mal: "ICH TUE ES!", woraufhin das Gewehr des Beamten mit einem Einzelschuss zurückstößt und den Kopf des Feindes trifft. Der Killer fällt sofort zu Boden. Das Mädchen bleibt stehen, schockiert, aber unverletzt. Technischer Stil: Action mit hoher Verschlusszeit, realistische Mündungsfeuer, Handkamera-Wackeln, 24fps, englischer Dialog.
+[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity: "LET THE HOSTAGE GO! DROP THE WEAPON NOW!" [Shot 2: The Threat] Cut to a medium shot of the killer in a dirty tank top, holding a woman in a chokehold. He has a pistol pressed to her head. He is sweating and manic, screaming at the off-screen officer: "STAY BACK! I'LL KILL HER! I SWEAR I'LL DO IT!" [Shot 3: Over-the-Shoulder Resolution] The camera is positioned directly behind the SWAT officer's right shoulder. We see the back of his helmet and his rifle in the foreground. In the distance (mid-ground), the killer is still visible holding the girl. The killer screams one last time: "I'M GONNA DO IT!" after The officer's rifle kicks back with a single sho and hit head enemy. The killer falls instantly. The girl is left standing, shocked but safe. Technical Style: High-shutter speed action, realistic muzzle flashes, handheld camera shake, 24fps, English dialogue.
 ```
 
 **Von** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K Follower
@@ -3599,12 +3598,12 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ---
 
-### 63. tyler durden explains fight club rules to jujutsu kaisen characters.…
+### 63. Tyler Durden teaching Jujutsu Kaisen characters
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="tyler durden explains fight club rules to jujutsu kaisen characters.…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden teaching Jujutsu Kaisen characters"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
 </div>
 
@@ -3624,70 +3623,84 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ---
 
-### 64. Prompt: Eine realistische Nahaufnahme eines kleinen Digitalkamerabild…
+### 64. Nostalgic 2010s Digital Camera Screen Display
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 **📝 Prompt**
 
 ```
-Prompt: Eine realistische Nahaufnahme eines kleinen Digitalkamerabildschirms, der in einer dunklen Innenumgebung hell leuchtet. Auf dem LCD-Display ist ein spontanes Foto im Stil der frühen 2010er Jahre zu sehen, das eine junge ostasiatische Frau mit langem, dunklem, welligem Haar zeigt, die neben einem Holzregal steht, das dicht mit bunten Comics und Zeitschriften gefüllt ist.
+Prompt: A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
 
-Sie trägt ein schwarzes Spaghettiträger-Top mit einer lockeren weißen Strickjacke, die ihr lässig von beiden Schultern hängt, sowie eine verwaschene blaue Jeans. Mitten im Lachen eingefangen, während sie ihr Gesicht leicht zur Seite dreht, wirkt ihr Ausdruck spontan und natürlich, wobei ihr Haar sanft über einen Teil ihrer Wange fällt.
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
 
-Der harte, direkte Blitz der Kompaktkamera erzeugt starke Glanzlichter auf ihrem Gesicht und der Strickjacke, während er die Schatten im Hintergrund abflacht und eine authentische, nostalgische Digicam-Ästhetik erzeugt. Leichte Bewegungsunschärfe und digitales Rauschen verstärken den spontanen Realismus.
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
 
-Auf dem LCD-Bildschirm sind Kamera-UI-Overlays sichtbar, darunter der Zeitstempel „8. 1. 2012 3:15 AM“, Belichtungsdaten „1/30 F3.4 ISO 100“, Fokusindikatoren und ein kleines grünes Batteriesymbol in der Ecke.
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
 
-Das Bild bewahrt die sichtbare Pixelstruktur des Bildschirms, leichte Blendreflexionen, chromatische Weichheit und komprimierte digitale Textur. Außerhalb des LCDs geht die umgebende Dunkelheit sanft in Unschärfe über, was den leuchtenden, nostalgischen Bildschirm betont.
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
 
-Aufgenommen, um einer authentischen Sony Cyber-shot Point-and-Shoot-Kamera aus den frühen 2010er Jahren zu ähneln, unter Verwendung eines CCD-Sensors mit klassischem digitalen Rendering und unvollkommener Blitzbelichtung.
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
 ```
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 65. Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und…
+### 65. Explorer escaping a mummy in ancient ruins
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 **📝 Prompt**
 
 ```
-Eine filmische und chaotische Kamerafahrt mit Handkamera-Bewegung und Kamera-Wackeln zeigt eine Entdeckerin, die ein altes Skarabäus-Artefakt hält. Sie rennt vor einer riesigen, sie verfolgenden Mumie davon. Trümmer und Staubwolken sind zu sehen. Die Mumie lässt Teile der alten Mauer einstürzen. Die Entdeckerin rennt panisch davon und schaut gelegentlich zurück, man kann ihren schweren Atem hören. Sie rennt weiter, bis sie knapp entkommt, als die Mumie sie fast erwischt, aber gegen eine Säule prallt, die auf sie selbst stürzt; die Entdeckerin rennt dann weiter in den Eingang eines Grabes hinein.“,
+A cinematic and chaotic tracking shot with handheld camera motion and camera shake shows an explorer holding an ancient scarab artifact. They are running away from a giant pursuing mummy. Debris and dust clouds can be seen. The mummy is causing sections of the ancient wall to crumble. The explorer runs away frantically while occasionally looking back, you can hear her heavy breathing. She continues running until she narrowly escapes once the mummy almost grabs her but it hits a pillar causing it to fall on itself, the explorer then continues running into the entrance of a tomb.
 ```
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
 ---
 
-### 66. Ultra-Weitwinkel-Makro-FPV-Tracking-Shot, der einer Katze hautnah fol…
+### 66. High-Speed FPV Cat Chase in Parking Garage
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 **📝 Prompt**
 
 ```
-Ultra-Weitwinkel-Makro-FPV-Tracking-Shot, der einer Katze hautnah folgt.
-Das Motiv wird nie vollständig gezeigt, nur fragmentierte Nahaufnahmen ziehen an der Linse vorbei: die Spitze eines Ohrs, Schnurrhaare, der Rand einer Pfote, Fell auf dem Rücken, das die Kamera streift. Das Bild führt schnelle Fokusverschiebungen zwischen dem zitternden Ohr/den Schnurrhaaren und nahen Hindernissen in der Umgebung aus. 120fps High-Frame-Rate-Kinematografie fängt die hochfrequenten Vibrationen und subtilen Erschütterungen ein, wenn die Katze rennt und landet.
+Ultra-wide-angle macro FPV body-hugging tracking shot chasing a cat.
+The subject is never shown fully, only fragmented close-ups pass the lens:the tip of an ear, whiskers, the edge of a paw, fur on the back
+brushing across the camera. The image performs rapid focus shifts beetween the trembling ear/whiskers and nearby environmental
+obstacles. 120fps high-frame-rate cinematography captures the highfrequency vibration and subtle tremors when the cat runs and
+lands.
 
-Umgebung: eine Tiefgarage.
-Rauer Betonboden, nummerierte Säulen mit unleserlichen Markierungen, Pfützen sind Spuren, die Licht reflektieren. Die Luft ist erfüllt von feinem Staub und Kondensationsnebel. Entfernte Scheinwerfer und kaltweiße Decken-LEDs erzeugen eine schwungvolle Kontrastbeleuchtung. Der Raum hallt wider, ist leer, beklemmend und höhlenartig.
+Setting: an underground parking garage.
+Rough concrete floor, numbered pillars with unreadable markings, puddles are tracks reflecting light. The air is filled with fine dust
+and condensation mist. Distant headlights and cold white ceiling LEDSs create sweeping contrast lighting. The space echoes, empty
+oppressive, and cavernous.
 
-Bewegungsdynamik ist höchst unregelmäßig.
-Die Katze folgt einem nichtlinearen Raubtierpfad durch schmale Lücken zwischen Säulen und geparkten Autos, scharfe 90°-Kurven, explosive Beschleunigung auf Bodenhöhe, enge seitliche Rollbewegungen, die an Türspalten und Leitplankenkanten vorbeistreifen. Die Kamera folgt mit hochfrequenter Vibration, synchronisiert mit dem Rhythmus der Katzenschritte, was erzwungene Mikrobewegungen erzeugt. Übertriebene Bewegungsparallaxe lässt Säulen und Räder schnell größer werden und an der Linse vorbeiziehen.
+Movement dynamics are highly irregular.
+The cat follows a nonlinear predator path through narrow gaps between pillars and parked cars, sharp 90° turns, explosive ground-level
+acceleration, tight lateral rolls skimming past door seams and guardreail edges. The camera follows with high-frequency vibration
+synchronized with the rhythm of the cat's footsteps, producing forced micrkes. Exaggerated motion parallax makes pillars and
+wheels rapidly enlarge and streak past the lens.
 
-Schlüsselmoment der physischen Interaktion:
-Ein unsichtbarer Abwind (von einem vorbeifahrenden Fahrzeug und Belüftungsluftstrom) wirbelt lose Parktickets, dünne Plastiktüten und feinen Staub vom Boden in einen spiralförmigen Tunnel. Als die Katze hindurchbricht, dehnen sich Papierfetzen unter Fischaugenverzerrung zu radialen Geschwindigkeitslinien aus. Ein Reifen rollt durch eine Pfütze und spritzt feine Tröpfchen; Wassertropfen erzeugen realistische Lichtbrechung und Kaustiken vor der Linse.
+Key physical interaction moment:
+An invisible downwash gust (from a passing vehicle and ventiilation airflow) whips loose parking tickets, thin plastic bags,and fine dust
+from the ground into a spirgling tunnel. As the cat bursts through, screaps of paper stretch into radial speed lines under fisheye distortion
+A tire rolls through a puddle, splashing fine droplets; water beeads create realistic refraction and caustics in front of the lerns.
 
-Klimaktischer Moment:
-Ein Autoscheinwerfer streift plötzlich über die Szene. Der nasse Boden blitzt wie ein Spiegel auf. Die Pfoten der Katze rutschen kurz in eine chaotische spiralförmige Kontrollverlust-Bewegung, nicht verletzt, nur ein gefährliches Schlittern. Das Filmmaterial wechselt sofort in 120fps Zeitlupe: Krallen greifen den Boden, Fell zittert, Tröpfchen fliegen in Bögen nach außen, Oberflächenspannung dehnt das Wasser zu Fäden.
+Climactic moment:
+A car headlight suddenly sweeps across the scene. The wet ground flashes le a mirror. The cat's paws slip briefly into a chaotic spiral
+loss of control, not injured, just a dangerous skid. The footage instantlyes to 120fps slow motion: claws gripping the ground, fur
+trembling, droplets flinging outward in arcs, surface tension sstretching the water into threads
 
-Unmittelbar danach kehrt die Bewegung zu extremer Geschwindigkeit zurück. Die Katze sprintet entlang der Kante einer Rampe, schmiegt sich an die Wand und huscht präzise in eine halb offene Wartungstür / schmale Zaunlücke und entkommt.
+Immediately afterward the motion returns to extreme speed. The cat ssprints along the edge of a ramp, hugging the wall, and precisely
+darts into a half-open maintenance door / narrow fence gap, escaping
 
-Atmosphäre: klaustrophobisch, hektisch, lebensgefährliche Spannung – aber letztendlich eine erfolgreiche Flucht.
-Das Sounddesign suggeriert scharfen, rauschenden Wind, hallende Reifen-Wasser-Spritzer und metallische Vibrationen, während Leitplanken vorbeiziehen. Die Szene endet, als die Katze in eine sichere, schattige Ecke springt, während die restlichen Vibrationen der Kamera langsam zur Ruhe kommen.
+Atmosphere: claustrophobic, frantic, life-or-death tension-but ultimately a successful escape
+Sound design suggests sharp rushing wind, echoing tire-water splashes, andmetallic vibrations as guardrails whip past. The scene ends
+as the cat leaps into a safe shadowy corner, while the camera's residual vibrations slowly settle into stillness
 ```
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
