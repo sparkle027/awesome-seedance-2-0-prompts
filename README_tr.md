@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
 
 </div>
 
@@ -1386,7 +1386,38 @@ Sahne 6: Anubis kıkırdamaya devam eder, sonunda kitabı yere atar ve kolların
 
 ---
 
-### 21. Kore Okul Aksiyon Draması Sekansı
+### 21. Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasında…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasında…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**📝 İstem**
+
+```
+Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasındaki etkileşimi tasvir etmek için aynı görsel tasarımı ve anlatımı kullanıyor.
+
+Sahne 1: İnsan, parmaklarıyla Anubis'in koltuk altlarını gıdıklamaya devam eder. Anubis önce boğuk bir kahkaha atar, ancak çok gıdıklandığı için kısa sürede kahkahalara boğulur.
+
+Sahne 2: İnsan, Anubis'in koltuk altlarını gıdıklamaya devam eder ve Anubis bu sefer daha yüksek sesle güler. Ardından Anubis, koltuk altlarını korumak ve gıdıklanmayı durdurmak için kollarını göğsünde kavuşturur. Kendine sarılır ve birkaç kez daha güler.
+
+Sahne 3: Anubis yavaşça sakinleşir, insana sırıtır ve muzip bir gülümsemeyle şöyle der: "Oh, gerçekten çok acımasızsın." Sonra Anubis, insanın omzuna kolunu atar ve onu kucaklar. Anubis, insanın yanına eğilerek şöyle der: "Ama beni gıdıklarsan, buna aldırmam." İnsan sırıtır ve gergin bir şekilde kıkırdar.
+```
+
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K takipçi
+
+❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+
+<sub>📅 May 23, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 22. Kore Okul Aksiyon Draması Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1441,7 +1472,7 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 
 ---
 
-### 22. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
+### 23. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1728,7 +1759,7 @@ Metin yok. Filigran yok. Arayüz yok. Storyboard dışında ekstra aksiyon yok.
 
 ---
 
-### 23. Yoğun Tenis Maçı Dijital Çizimi
+### 24. Yoğun Tenis Maçı Dijital Çizimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1777,7 +1808,7 @@ SFX: Raket vuruş sesi, topun yere düşme sesi, nefes sesi
 
 ---
 
-### 24. Sinematik Beyzbol Sopası Performansı
+### 25. Sinematik Beyzbol Sopası Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1816,7 +1847,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 25. Sinematik Kung Fu Performansı Storyboard'u
+### 26. Sinematik Kung Fu Performansı Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1949,7 +1980,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, havada hareke
 
 ---
 
-### 26. Wing Chun Antrenmanı Dijital Boyama
+### 27. Wing Chun Antrenmanı Dijital Boyama
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1994,7 +2025,7 @@ Bitiş çekimi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit 
 
 ---
 
-### 27. Olimpik Dalıcı Dijital Boyama Animasyonu
+### 28. Olimpik Dalıcı Dijital Boyama Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2080,7 +2111,7 @@ Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci a
 
 ---
 
-### 28. Sinematik Kung Fu Performansı Taslak Panosu
+### 29. Sinematik Kung Fu Performansı Taslak Panosu
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2213,7 +2244,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı; havada hareke
 
 ---
 
-### 29. Stadyum yayın çekiminde futbol taraftarı
+### 30. Stadyum yayın çekiminde futbol taraftarı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2238,7 +2269,7 @@ Real Madrid - Barcelona maçı sırasında kalabalık bir futbol stadyumunda otu
 
 ---
 
-### 30. Beyzbol Maçında Doğal Fan Cam Görüntüsü
+### 31. Beyzbol Maçında Doğal Fan Cam Görüntüsü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2266,7 +2297,7 @@ Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik ayd�
 
 ---
 
-### 31. Rekabetçi Dövüş Oyunu Savaş Sekansı
+### 32. Rekabetçi Dövüş Oyunu Savaş Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2315,7 +2346,7 @@ Fotogerçekçi 8K, formalarda ultra detaylı kumaş dokuları, sinematik aydınl
 
 ---
 
-### 32. Sinematik İp Atlama Performansı
+### 33. Sinematik İp Atlama Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2355,7 +2386,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 33. New York City'de Ünlü Gelişi
+### 34. New York City'de Ünlü Gelişi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2397,7 +2428,7 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) basılı f
 
 ---
 
-### 34. Bulut Kaykayı Kurtarma Storyboard'u
+### 35. Bulut Kaykayı Kurtarma Storyboard'u
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2489,7 +2520,7 @@ Görsel hareketi huzursuz olmaktan ziyade sakin ve kasıtlı tutun.
 
 ---
 
-### 35. Şef ve Hamam Böceği Mutfak Kovalamacası
+### 36. Şef ve Hamam Böceği Mutfak Kovalamacası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2543,7 +2574,7 @@ SFX: sessizlik → çöküş çığlığı
 
 ---
 
-### 36. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
+### 37. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2568,7 +2599,7 @@ Klasik retro Disney animasyon tarzı. Sahne 1: Mısır sarayında, heybetli çak
 
 ---
 
-### 37. Sinematik Karakter Tanıtımı ve Referans Sayfası
+### 38. Sinematik Karakter Tanıtımı ve Referans Sayfası
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2709,7 +2740,7 @@ Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şeki
 
 ---
 
-### 38. 3D Karakter Hareket Referans Sayfası
+### 39. 3D Karakter Hareket Referans Sayfası
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2767,7 +2798,7 @@ Herhangi bir diyalog, metin veya anlatım olmamalıdır.
 
 ---
 
-### 39. Yüksek oktanlı Formula 1 yarış sahnesi
+### 40. Yüksek oktanlı Formula 1 yarış sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2794,7 +2825,7 @@ Seedance 2.0 istemi aşağıda 👇
 
 ---
 
-### 40. Zamanı Durduran Sinematik Spor Barı Sahnesi
+### 41. Zamanı Durduran Sinematik Spor Barı Sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2831,7 +2862,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 41. Slapstick Dondurma Numarası Animasyonu
+### 42. Slapstick Dondurma Numarası Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2884,7 +2915,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 42. Hızlı Tempolu Sabah Rutini Montajı
+### 43. Hızlı Tempolu Sabah Rutini Montajı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2955,7 +2986,7 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 
 ---
 
-### 43. Wall Street'te düşen iş adamı bullet time efekti
+### 44. Wall Street'te düşen iş adamı bullet time efekti
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2980,7 +3011,7 @@ Bullet time efekti. New York, Wall Street'te buzlu ve ıslak bir sokakta kayıp 
 
 ---
 
-### 44. F16 Kanat Stunt Takip Çekimi
+### 45. F16 Kanat Stunt Takip Çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3013,7 +3044,7 @@ Kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik k
 
 ---
 
-### 45. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
+### 46. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3048,7 +3079,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 46. Yüksek İrtifada Roket Sörfü
+### 47. Yüksek İrtifada Roket Sörfü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3082,7 +3113,7 @@ KALİTE: 8K fotogerçekçi, doğru fizik, kumaş hareket bulanıklığı, yapayl
 
 ---
 
-### 47. Sinematik uçurumdan atlama takip çekimi
+### 48. Sinematik uçurumdan atlama takip çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3123,7 +3154,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 
 ---
 
-### 48. Ofis Çalışanı Psikolojik Korku Dönüşümü
+### 49. Ofis Çalışanı Psikolojik Korku Dönüşümü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3157,7 +3188,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 49. Kung Fu Şefi Noodle Hazırlığı
+### 50. Kung Fu Şefi Noodle Hazırlığı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3202,7 +3233,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 50. Slapstick Dondurma Komedisi Animasyonu
+### 51. Slapstick Dondurma Komedisi Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3240,7 +3271,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 51. Dramatik Kıyı Golf Vuruşu
+### 52. Dramatik Kıyı Golf Vuruşu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3271,7 +3302,7 @@ Projektil düz ve isabetli bir şekilde ilerlerken uğuldayan rüzgar kükrer. B
 
 ---
 
-### 52. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
+### 53. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3337,7 +3368,7 @@ fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengi
 
 ---
 
-### 53. Mevsim geçişli yüksek hızlı FPV drone takibi
+### 54. Mevsim geçişli yüksek hızlı FPV drone takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3362,7 +3393,7 @@ Arkadan çekilen, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D ani
 
 ---
 
-### 54. Androgenic'in İntikam Planı
+### 55. Androgenic'in İntikam Planı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3387,7 +3418,7 @@ Androgenic, peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviye
 
 ---
 
-### 55. Punch'ın Pixar tarzı duygusal yolculuğu
+### 56. Punch'ın Pixar tarzı duygusal yolculuğu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3412,7 +3443,7 @@ Punch hakkında bir Pixar filmi yap. Onun için ağlamak ve ona aşık olmak ist
 
 ---
 
-### 56. Ejderha Binicisi POV Hava Savaşı
+### 57. Ejderha Binicisi POV Hava Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3439,7 +3470,7 @@ Sürekli el kamerası hissi, hızlı hareketlerde yoğun hareket bulanıklığı
 
 ---
 
-### 57. Sınırsız Hayal Gücü Çağı
+### 58. Sınırsız Hayal Gücü Çağı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3464,7 +3495,7 @@ Tamamen yeni dünyalar yaratma gücüne ve özgürlüğüne sahipken neden Holly
 
 ---
 
-### 58. Uçurum Şehrinde Yüksek Hızlı Hız Motoru Takibi
+### 59. Uçurum Şehrinde Yüksek Hızlı Hız Motoru Takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3489,7 +3520,7 @@ Uçurum şehrinde hız motoru takibi (tek kesintisiz çekim) Taştan oyulmuş an
 
 ---
 
-### 59. Luffy ve Goku Destansı Savaşı
+### 60. Luffy ve Goku Destansı Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3514,7 +3545,7 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 
 ---
 
-### 60. SWAT Rehine Kurtarma Aksiyon Sekansı
+### 61. SWAT Rehine Kurtarma Aksiyon Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3539,7 +3570,7 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 
 ---
 
-### 61. Tyler Durden, Jujutsu Kaisen karakterlerine Jujutsu öğretiyor
+### 62. Tyler Durden, Jujutsu Kaisen karakterlerine Jujutsu öğretiyor
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 

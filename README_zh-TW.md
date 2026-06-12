@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
 
 </div>
 
@@ -1390,7 +1390,38 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 21. 韓國校園動作劇情片段
+### 21. 場景接續[video1]結尾，沿用相同的畫面設計和旁白，描繪阿努比斯和人類的互動。 場景1：人類繼續用手指撓阿努比斯的腋窩，阿努比斯先是發…
+
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="場景接續[video1]結尾，沿用相同的畫面設計和旁白，描繪阿努比斯和人類的互動。 場景1：人類繼續用手指撓阿努比斯的腋窩，阿努比斯先是發…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
+</div>
+
+**📝 提示詞**
+
+```
+場景接續[video1]結尾，沿用相同的畫面設計和旁白，描繪阿努比斯和人類的互動。
+
+場景1：人類繼續用手指撓阿努比斯的腋窩，阿努比斯先是發出悶悶的笑聲，但很快因為太癢而放聲大笑。
+
+場景2：人類繼續用手指撓阿努比斯的腋窩，阿努比斯這次笑得更大聲了。然後，阿努比斯用雙臂環抱住自己，保護腋窩，阻止撓癢。他環抱住自己，又發出幾聲笑聲。
+
+場景3：阿努比斯慢慢恢復了鎮定，對著人類咧嘴一笑，帶著一絲頑皮的笑容說：「哦，你真狠心。」然後，阿努比斯摟住人類的肩膀，將他擁入懷中。阿努比斯將頭湊近人類，說道：「但如果你撓我，我就不介意了。」人類咧嘴一笑，緊張地輕笑。
+```
+
+**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 追蹤者
+
+❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+
+<sub>📅 May 23, 2026</sub>
+
+**[👉 立即免費試用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 22. 韓國校園動作劇情片段
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -1445,7 +1476,7 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 22. 高速動漫武術訓練分鏡腳本
+### 23. 高速動漫武術訓練分鏡腳本
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1732,7 +1763,7 @@ Jūran 冷靜。
 
 ---
 
-### 23. 激烈網球比賽數位繪畫
+### 24. 激烈網球比賽數位繪畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -1781,7 +1812,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 24. 電影感棒球揮棒表演
+### 25. 電影感棒球揮棒表演
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -1820,7 +1851,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 25. 電影感功夫表演分鏡
+### 26. 電影感功夫表演分鏡
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1952,7 +1983,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 26. 詠春拳訓練數位繪畫
+### 27. 詠春拳訓練數位繪畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -1997,7 +2028,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 27. 奧運跳水選手數位繪畫動畫
+### 28. 奧運跳水選手數位繪畫動畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2083,7 +2114,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 28. 電影級功夫表演分鏡腳本
+### 29. 電影級功夫表演分鏡腳本
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2216,7 +2247,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 29. 體育場轉播畫面中的足球迷
+### 30. 體育場轉播畫面中的足球迷
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2241,7 +2272,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 30. 棒球比賽中的隨拍鏡頭
+### 31. 棒球比賽中的隨拍鏡頭
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2269,7 +2300,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 31. 競技格鬥遊戲戰鬥序列
+### 32. 競技格鬥遊戲戰鬥序列
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2318,7 +2349,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 32. 電影感跳繩表演
+### 33. 電影感跳繩表演
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2358,7 +2389,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 33. 紐約市名人抵達現場
+### 34. 紐約市名人抵達現場
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2400,7 +2431,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 34. 雲端滑板救援分鏡腳本
+### 35. 雲端滑板救援分鏡腳本
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2492,7 +2523,7 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 35. 廚師大戰蟑螂：廚房追逐戰
+### 36. 廚師大戰蟑螂：廚房追逐戰
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2546,7 +2577,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 36. 復古迪士尼風格：阿努比斯的搔癢趣事
+### 37. 復古迪士尼風格：阿努比斯的搔癢趣事
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2571,7 +2602,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 37. 電影級角色介紹與參考表
+### 38. 電影級角色介紹與參考表
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2712,7 +2743,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 38. 3D 角色動作參考表
+### 39. 3D 角色動作參考表
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2770,7 +2801,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 39. 高辛烷值一級方程式賽車場景
+### 40. 高辛烷值一級方程式賽車場景
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2797,7 +2828,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 40. 時間凍結：電影感運動酒吧場景
+### 41. 時間凍結：電影感運動酒吧場景
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2834,7 +2865,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 41. 鬧劇風格冰淇淋戲法動畫
+### 42. 鬧劇風格冰淇淋戲法動畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2887,7 +2918,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 42. 快節奏晨間日常剪輯
+### 43. 快節奏晨間日常剪輯
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2958,7 +2989,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 43. 華爾街商務人士跌倒的子彈時間
+### 44. 華爾街商務人士跌倒的子彈時間
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -2983,7 +3014,7 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 44. F16機翼特技追蹤鏡頭
+### 45. F16機翼特技追蹤鏡頭
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3016,7 +3047,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 45. VR 生存轉場：從荒野到家
+### 46. VR 生存轉場：從荒野到家
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3051,7 +3082,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 46. 高空火箭衝浪
+### 47. 高空火箭衝浪
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3085,7 +3116,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 47. 電影感懸崖跳躍跟拍鏡頭
+### 48. 電影感懸崖跳躍跟拍鏡頭
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3126,7 +3157,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 48. 辦公室職員心理恐怖變身
+### 49. 辦公室職員心理恐怖變身
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3160,7 +3191,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 49. 功夫廚師麵條製作
+### 50. 功夫廚師麵條製作
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3205,7 +3236,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 50. 鬧劇冰淇淋喜劇動畫
+### 51. 鬧劇冰淇淋喜劇動畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3243,7 +3274,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 51. 戲劇性的海岸高爾夫揮桿
+### 52. 戲劇性的海岸高爾夫揮桿
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3274,7 +3305,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 52. 電影感中世紀市集連續鏡頭
+### 53. 電影感中世紀市集連續鏡頭
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3340,7 +3371,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 53. 高速FPV無人機追逐與季節變換
+### 54. 高速FPV無人機追逐與季節變換
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3365,7 +3396,7 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 54. Androgenic 的復仇計畫
+### 55. Androgenic 的復仇計畫
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3390,7 +3421,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 55. Punch 的皮克斯風格情感之旅
+### 56. Punch 的皮克斯風格情感之旅
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3415,7 +3446,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 56. 龍騎士視角空中戰鬥
+### 57. 龍騎士視角空中戰鬥
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3442,7 +3473,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 57. 無限想像的時代
+### 58. 無限想像的時代
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3467,7 +3498,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 58. 懸崖城市中的高速飛車追逐
+### 59. 懸崖城市中的高速飛車追逐
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3492,7 +3523,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 59. 魯夫與悟空的史詩對決
+### 60. 魯夫與悟空的史詩對決
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3517,7 +3548,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 60. SWAT 人質救援動作序列
+### 61. SWAT 人質救援動作序列
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
@@ -3548,7 +3579,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 61. 泰勒·德頓教導《咒術迴戰》角色
+### 62. 泰勒·德頓教導《咒術迴戰》角色
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 

@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
 
 </div>
 
@@ -1372,7 +1372,38 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 21. 韩国校园动作剧片段
+### 21. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…
+
+![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+</div>
+
+**📝 提示词**
+
+```
+场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。
+
+场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发出闷闷的笑声，但很快因为太痒而放声大笑。
+
+场景2：人类继续用手指挠阿努比斯的腋窝，阿努比斯这次笑得更大声了。然后，阿努比斯用双臂环抱住自己，保护腋窝，阻止挠痒。他环抱住自己，又发出几声笑声。
+
+场景3：阿努比斯慢慢恢复了镇定，对着人类咧嘴一笑，带着一丝顽皮的笑容说：“哦，你真狠心。”然后，阿努比斯搂住人类的肩膀，将他拥入怀中。阿努比斯将头凑近人类，说道：“但如果你挠我，我就不介意了。”人类咧嘴一笑，紧张地轻笑。
+```
+
+**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 关注者
+
+❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+
+<sub>📅 May 23, 2026</sub>
+
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 22. 韩国校园动作剧片段
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1427,7 +1458,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 22. 高速动漫武术训练分镜
+### 23. 高速动漫武术训练分镜
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1712,7 +1743,7 @@ Jūran冷静
 
 ---
 
-### 23. 激烈网球比赛数字绘画
+### 24. 激烈网球比赛数字绘画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1761,7 +1792,7 @@ Jūran冷静
 
 ---
 
-### 24. 电影感棒球挥棒表演
+### 25. 电影感棒球挥棒表演
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1800,7 +1831,7 @@ Jūran冷静
 
 ---
 
-### 25. 电影感功夫表演分镜
+### 26. 电影感功夫表演分镜
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1932,7 +1963,7 @@ Jūran冷静
 
 ---
 
-### 26. 咏春拳训练数字绘画
+### 27. 咏春拳训练数字绘画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1977,7 +2008,7 @@ Jūran冷静
 
 ---
 
-### 27. 奥运跳水选手数字绘画动画
+### 28. 奥运跳水选手数字绘画动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2063,7 +2094,7 @@ Jūran冷静
 
 ---
 
-### 28. 电影级功夫表演分镜脚本
+### 29. 电影级功夫表演分镜脚本
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2196,7 +2227,7 @@ Jūran冷静
 
 ---
 
-### 29. 体育场转播镜头中的足球迷
+### 30. 体育场转播镜头中的足球迷
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2221,7 +2252,7 @@ Jūran冷静
 
 ---
 
-### 30. 棒球比赛现场大屏幕抓拍
+### 31. 棒球比赛现场大屏幕抓拍
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2249,7 +2280,7 @@ Jūran冷静
 
 ---
 
-### 31. 竞技格斗游戏战斗序列
+### 32. 竞技格斗游戏战斗序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2298,7 +2329,7 @@ Jūran冷静
 
 ---
 
-### 32. 电影感跳绳表演
+### 33. 电影感跳绳表演
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2338,7 +2369,7 @@ Jūran冷静
 
 ---
 
-### 33. 名人抵达纽约市
+### 34. 名人抵达纽约市
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2379,7 +2410,7 @@ Jūran冷静
 
 ---
 
-### 34. 云端滑板救援故事板
+### 35. 云端滑板救援故事板
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2471,7 +2502,7 @@ Jūran冷静
 
 ---
 
-### 35. 厨师大战蟑螂：厨房追逐战
+### 36. 厨师大战蟑螂：厨房追逐战
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2525,7 +2556,7 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 
 ---
 
-### 36. 复古迪士尼风格：阿努比斯的挠痒趣事
+### 37. 复古迪士尼风格：阿努比斯的挠痒趣事
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2550,7 +2581,7 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 
 ---
 
-### 37. 电影级角色介绍与参考表
+### 38. 电影级角色介绍与参考表
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2690,7 +2721,7 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 
 ---
 
-### 38. 3D角色动作参考表
+### 39. 3D角色动作参考表
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2748,7 +2779,7 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 
 ---
 
-### 39. 高辛烷值一级方程式赛车场景
+### 40. 高辛烷值一级方程式赛车场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2775,7 +2806,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 40. 时间静止电影感运动酒吧场景
+### 41. 时间静止电影感运动酒吧场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2812,7 +2843,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 41. 闹剧冰淇淋戏法动画
+### 42. 闹剧冰淇淋戏法动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2865,7 +2896,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 42. 快节奏晨间日常蒙太奇
+### 43. 快节奏晨间日常蒙太奇
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2936,7 +2967,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 43. 华尔街商务人士坠落的子弹时间
+### 44. 华尔街商务人士坠落的子弹时间
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2961,7 +2992,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 44. F16机翼特技追踪镜头
+### 45. F16机翼特技追踪镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2994,7 +3025,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 45. VR 生存转场：从荒野到家
+### 46. VR 生存转场：从荒野到家
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3029,7 +3060,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 46. 高空火箭冲浪
+### 47. 高空火箭冲浪
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3063,7 +3094,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 47. 电影感悬崖跳跃追踪镜头
+### 48. 电影感悬崖跳跃追踪镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3104,7 +3135,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 48. 办公室职员心理恐怖变身
+### 49. 办公室职员心理恐怖变身
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3138,7 +3169,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 49. 功夫厨师：拉面制作
+### 50. 功夫厨师：拉面制作
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3183,7 +3214,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 50. 闹剧冰淇淋喜剧动画
+### 51. 闹剧冰淇淋喜剧动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3221,7 +3252,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 51. 海岸高尔夫挥杆大片
+### 52. 海岸高尔夫挥杆大片
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3252,7 +3283,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 52. 电影感中世纪集市长镜头
+### 53. 电影感中世纪集市长镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3318,7 +3349,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 53. 高速FPV无人机追逐与季节变换
+### 54. 高速FPV无人机追逐与季节变换
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3343,7 +3374,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 54. 安德罗杰尼克的复仇计划
+### 55. 安德罗杰尼克的复仇计划
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3368,7 +3399,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 55. 皮克斯风格：Punch 的情感之旅
+### 56. 皮克斯风格：Punch 的情感之旅
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3393,7 +3424,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 56. 龙骑士视角空中战斗
+### 57. 龙骑士视角空中战斗
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3420,7 +3451,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 57. 无限想象的时代
+### 58. 无限想象的时代
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3445,7 +3476,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 58. 悬崖之城的高速飞车追逐
+### 59. 悬崖之城的高速飞车追逐
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3470,7 +3501,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 59. 路飞与悟空的史诗对决
+### 60. 路飞与悟空的史诗对决
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3495,7 +3526,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 60. SWAT特警人质营救动作序列
+### 61. SWAT特警人质营救动作序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3526,7 +3557,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 ---
 
-### 61. 泰勒·德顿教导《咒术回战》角色
+### 62. 泰勒·德顿教导《咒术回战》角色
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 

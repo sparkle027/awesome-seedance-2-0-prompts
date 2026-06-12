@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Kuratierte Prompts | 📚 Total prompts | 🎬 Modell | 🔄 Zuletzt aktualisiert |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
 
 </div>
 
@@ -1383,7 +1383,38 @@ Anubis ist muskulös und trägt Ringe an Armen und Hals. Seine Stimme ist tief, 
 
 ---
 
-### 21. Koreanische Schul-Action-Dramasequenz
+### 21. Die Szene schließt an das Ende von [video1] an, wobei das gleiche vis…
+
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Die Szene schließt an das Ende von [video1] an, wobei das gleiche vis…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Dieses Video auf gptproto.com abspielen</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Die Szene schließt an das Ende von [video1] an, wobei das gleiche visuelle Design und die gleiche Erzählweise beibehalten werden, um die Interaktion zwischen Anubis und dem Menschen darzustellen.
+
+Szene 1: Der Mensch kitzelt Anubis weiterhin mit den Fingern unter den Achseln. Anubis stößt zunächst ein gedämpftes Lachen aus, lacht aber bald laut auf, weil es zu sehr kitzelt.
+
+Szene 2: Der Mensch kitzelt Anubis weiterhin unter den Achseln, und Anubis lacht diesmal noch lauter. Dann verschränkt Anubis die Arme vor der Brust, um seine Achseln zu schützen und das Kitzeln zu stoppen. Er umarmt sich selbst und stößt noch ein paar Lacher aus.
+
+Szene 3: Anubis beruhigt sich langsam, grinst den Menschen an und sagt mit einem schelmischen Lächeln: „Oh, du bist wirklich grausam.“ Dann legt Anubis seinen Arm um die Schulter des Menschen und zieht ihn an sich. Anubis beugt sich zu dem Menschen vor und sagt: „Aber wenn du mich kitzelst, macht mir das nichts aus.“ Der Mensch grinst und kichert nervös.
+```
+
+**Von** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K Follower
+
+❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+
+<sub>📅 May 23, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 22. Koreanische Schul-Action-Dramasequenz
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1438,7 +1469,7 @@ Koreanisches Actionkino, ultra-realistische Kameraführung, filmische Handkamera
 
 ---
 
-### 22. Anime-Kampfsport-Trainings-Storyboard mit hoher Geschwindigkeit
+### 23. Anime-Kampfsport-Trainings-Storyboard mit hoher Geschwindigkeit
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1725,7 +1756,7 @@ Kein Text. Kein Wasserzeichen. Keine Benutzeroberfläche. Keine zusätzliche Akt
 
 ---
 
-### 23. Intensives Tennisspiel Digitales Gemälde
+### 24. Intensives Tennisspiel Digitales Gemälde
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1774,7 +1805,7 @@ SFX: Schläger-Treffer-Sound, Ball-Landungs-Sound, Atem-Sound
 
 ---
 
-### 24. Filmische Baseball-Schlag-Performance
+### 25. Filmische Baseball-Schlag-Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1813,7 +1844,7 @@ saubere filmische Beleuchtung
 
 ---
 
-### 25. Cinematic Kung Fu Performance Storyboard
+### 26. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1946,7 +1977,7 @@ Fluss: gebunden bei verwurzelten Ständen und präzisen Schlägen, frei bei Luft
 
 ---
 
-### 26. Wing Chun Training Digitales Gemälde
+### 27. Wing Chun Training Digitales Gemälde
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1991,7 +2022,7 @@ Schlussszene. Halbnahaufnahme, 50mm, langsames Hineinzoomen dann stabiles Halten
 
 ---
 
-### 27. Digitale Animationsmalerei einer olympischen Turmspringerin
+### 28. Digitale Animationsmalerei einer olympischen Turmspringerin
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2077,7 +2108,7 @@ Letzter rhythmischer Schlag der Musik, subtiles Geräusch eines einfrierenden Ve
 
 ---
 
-### 28. Cinematic Kung Fu Performance Storyboard
+### 29. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2210,7 +2241,7 @@ Fluss: gebunden bei verwurzelten Ständen und präzisen Schlägen, frei bei Luft
 
 ---
 
-### 29. Fußballfan in Stadion-Übertragung
+### 30. Fußballfan in Stadion-Übertragung
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2235,7 +2266,7 @@ Eine hochauflösende, realistische Übertragungsaufnahme einer jungen Frau, die 
 
 ---
 
-### 30. Authentische Fan-Cam bei einem Baseballspiel
+### 31. Authentische Fan-Cam bei einem Baseballspiel
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2263,7 +2294,7 @@ Kein cineastischer Look, kein Posing, keine Schönheitsfilter, keine dramatische
 
 ---
 
-### 31. Wettbewerbsorientierte Kampfspiel-Sequenz
+### 32. Wettbewerbsorientierte Kampfspiel-Sequenz
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2312,7 +2343,7 @@ Fotorealistisch 8K, ultra-detaillierte Stofftexturen an den Outfits, filmische B
 
 ---
 
-### 32. Filmische Seilspring-Performance
+### 33. Filmische Seilspring-Performance
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2352,7 +2383,7 @@ klare filmische Beleuchtung
 
 ---
 
-### 33. Promi-Ankunft in New York City
+### 34. Promi-Ankunft in New York City
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2394,7 +2425,7 @@ Er geht auf einen Fan zu und signiert ein gedrucktes Foto, das sie von (Referenz
 
 ---
 
-### 34. Cloud Skateboard Rescue Storyboard
+### 35. Cloud Skateboard Rescue Storyboard
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2486,7 +2517,7 @@ Halte die visuelle Bewegung ruhig und beabsichtigt, anstatt unruhig.
 
 ---
 
-### 35. Koch vs. Kakerlake: Küchenjagd
+### 36. Koch vs. Kakerlake: Küchenjagd
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2540,7 +2571,7 @@ SFX: Stille → Zusammenbruch-Schrei
 
 ---
 
-### 36. Vintage-Disney-Stil: Anubis und das Kitzeln
+### 37. Vintage-Disney-Stil: Anubis und das Kitzeln
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2581,7 +2612,7 @@ Anubis ist muskulös und trägt Ringe an Armen und Hals. Seine Stimme ist tief u
 
 ---
 
-### 37. Filmische Charaktervorstellung und Referenzblatt
+### 38. Filmische Charaktervorstellung und Referenzblatt
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2722,7 +2753,7 @@ Ende mit einer selbstbewussten Halb- oder Ganzaufnahme, der Charakter ist vollst
 
 ---
 
-### 38. 3D-Charakter-Bewegungsreferenzblatt
+### 39. 3D-Charakter-Bewegungsreferenzblatt
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2780,7 +2811,7 @@ Es sollte keinen Dialog, Text oder Erzählung geben.
 
 ---
 
-### 39. Hochoktanige Formel-1-Rennszene
+### 40. Hochoktanige Formel-1-Rennszene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2807,7 +2838,7 @@ Seedance 2.0 Prompt unten 👇
 
 ---
 
-### 40. Cinematic Time-Freeze Sportsbar-Szene
+### 41. Cinematic Time-Freeze Sportsbar-Szene
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2844,7 +2875,7 @@ Sound: ohrenbetäubendes Bar-Gebrüll/Feier → Schnippen → tiefe Schockwelle/
 
 ---
 
-### 41. Slapstick-Eiscreme-Trick-Animation
+### 42. Slapstick-Eiscreme-Trick-Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2897,7 +2928,7 @@ Sound: ohrenbetäubendes Bar-Gebrüll/Feier → Schnippen → tiefe Schockwelle/
 
 ---
 
-### 42. Schnell geschnittene Morgenroutine-Montage
+### 43. Schnell geschnittene Morgenroutine-Montage
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2968,7 +2999,7 @@ SHOT 15: WS, 50mm Pull-out / L-Cut mit einem Match vom Laptop-Zuklappen zur Rüc
 
 ---
 
-### 43. Bullet-Time-Geschäftsmann stürzt an der Wall Street
+### 44. Bullet-Time-Geschäftsmann stürzt an der Wall Street
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2993,7 +3024,7 @@ Bullet-Time-Effekt. Ein Geschäftsmann im weißen Hemd und mit schwarzer Krawatt
 
 ---
 
-### 44. F16-Flügel-Stunt-Tracking-Shot
+### 45. F16-Flügel-Stunt-Tracking-Shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3026,7 +3057,7 @@ Qualität: 8K fotorealistisch, korrekte Bewegungsunschärfe des Stoffes, natürl
 
 ---
 
-### 45. VR-Überlebens-Übergang: Wildnis zu Zuhause
+### 46. VR-Überlebens-Übergang: Wildnis zu Zuhause
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3061,7 +3092,7 @@ ZEITSTRAHL:
 
 ---
 
-### 46. Raketensurfen in großer Höhe
+### 47. Raketensurfen in großer Höhe
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3095,7 +3126,7 @@ QUALITÄT: 8K fotorealistisch, korrekte Physik, Bewegungsunschärfe bei Stoffen,
 
 ---
 
-### 47. Filmreifer Klippensprung-Tracking-Shot
+### 48. Filmreifer Klippensprung-Tracking-Shot
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3136,7 +3167,7 @@ Fotorealistisch 8K, ultra-detaillierte Texturen, filmische Beleuchtung, perfekte
 
 ---
 
-### 48. Psychologischer Horror-Transformations-Clip einer Büroangestellten
+### 49. Psychologischer Horror-Transformations-Clip einer Büroangestellten
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3170,7 +3201,7 @@ ZEITSTRAHL:
 
 ---
 
-### 49. Kung-Fu-Koch bei der Nudelzubereitung
+### 50. Kung-Fu-Koch bei der Nudelzubereitung
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3215,7 +3246,7 @@ ZEITPLAN:
 
 ---
 
-### 50. Slapstick-Eiscreme-Comedy-Animation
+### 51. Slapstick-Eiscreme-Comedy-Animation
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3253,7 +3284,7 @@ TIMELINE:
 
 ---
 
-### 51. Dramatischer Golfschlag an der Küste
+### 52. Dramatischer Golfschlag an der Küste
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3284,7 +3315,7 @@ Der heulende Wind tobt, während das Projektil gerade und präzise fliegt. Das g
 
 ---
 
-### 52. Filmische mittelalterliche Marktszene in einer kontinuierlichen Aufna…
+### 53. Filmische mittelalterliche Marktszene in einer kontinuierlichen Aufna…
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3350,7 +3381,7 @@ fotorealistisch, filmische Beleuchtung, geerdete Kamerabewegung, reiche mittelal
 
 ---
 
-### 53. Hochgeschwindigkeits-FPV-Drohnenverfolgung mit saisonalem Übergang
+### 54. Hochgeschwindigkeits-FPV-Drohnenverfolgung mit saisonalem Übergang
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3375,7 +3406,7 @@ Schnelle FPV-Drohnen-Verfolgungsaufnahme von hinten, die eng einem 3D-Anime-Mäd
 
 ---
 
-### 54. Androgenics Racheplan
+### 55. Androgenics Racheplan
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3400,7 +3431,7 @@ Androgenic plant seine Rache, nachdem ihm die Perücke vom Kopf gerissen wurde. 
 
 ---
 
-### 55. Eine emotionale Reise von Punch im Pixar-Stil
+### 56. Eine emotionale Reise von Punch im Pixar-Stil
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3425,7 +3456,7 @@ Erstelle einen Pixar-Film über Punch. Ich möchte weinen und mich in ihn verlie
 
 ---
 
-### 56. Drachenreiter POV Luftkampf
+### 57. Drachenreiter POV Luftkampf
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3452,7 +3483,7 @@ Durchgehendes Handkamera-Gefühl, starke Bewegungsunschärfe bei schnellen Beweg
 
 ---
 
-### 57. Die Ära der grenzenlosen Vorstellungskraft
+### 58. Die Ära der grenzenlosen Vorstellungskraft
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3477,7 +3508,7 @@ Warum Hollywood folgen, wenn man die Macht und Freiheit hat, völlig neue Welten
 
 ---
 
-### 58. Hochgeschwindigkeits-Speeder-Verfolgungsjagd durch die Klippenstadt
+### 59. Hochgeschwindigkeits-Speeder-Verfolgungsjagd durch die Klippenstadt
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3502,7 +3533,7 @@ Speeder-Verfolgungsjagd durch eine Klippenstadt (einzelne kontinuierliche Einste
 
 ---
 
-### 59. Epischer Kampf zwischen Luffy und Goku
+### 60. Epischer Kampf zwischen Luffy und Goku
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3527,7 +3558,7 @@ Luffy und Goku in einer epischen Kampfszene auf der Sunny.
 
 ---
 
-### 60. SWAT-Geiselbefreiungs-Actionsequenz
+### 61. SWAT-Geiselbefreiungs-Actionsequenz
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3554,7 +3585,7 @@ Luffy und Goku in einer epischen Kampfszene auf der Sunny.
 
 ---
 
-### 61. Tyler Durden unterrichtet Jujutsu Kaisen-Charaktere
+### 62. Tyler Durden unterrichtet Jujutsu Kaisen-Charaktere
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 

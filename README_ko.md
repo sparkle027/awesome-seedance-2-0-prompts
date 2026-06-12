@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-61_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
 
 </div>
 
@@ -1381,7 +1381,38 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 21. 한국 학교 액션 드라마 시퀀스
+### 21. [video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다. 장면 1:…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="[video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다. 장면 1:…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+[video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다.
+
+장면 1: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽힌다. 아누비스는 처음에는 억눌린 웃음소리를 내지만, 곧 너무 간지러워 크게 웃음을 터뜨린다.
+
+장면 2: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽힌다. 아누비스는 이번에는 더 크게 웃는다. 그러고 나서 아누비스는 두 팔로 자신을 감싸 안아 겨드랑이를 보호하며 간지럼을 막는다. 그는 자신을 감싸 안은 채 몇 번 더 웃음소리를 낸다.
+
+장면 3: 아누비스는 천천히 진정하고 인간을 향해 씨익 웃으며 장난기 어린 미소를 띠고 "오, 너 정말 짓궂구나."라고 말한다. 그러고 나서 아누비스는 인간의 어깨를 감싸 안아 품에 안는다. 아누비스는 얼굴을 인간에게 가까이 대고 "하지만 네가 나를 간지럽히는 거라면, 괜찮아."라고 말한다. 인간은 씨익 웃으며 긴장한 듯 작게 웃는다.
+```
+
+**작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 팔로워
+
+❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+
+<sub>📅 May 23, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 22. 한국 학교 액션 드라마 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1436,7 +1467,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 22. 고속 애니메이션 무술 훈련 스토리보드
+### 23. 고속 애니메이션 무술 훈련 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1723,7 +1754,7 @@ Jūran은 차분함.
 
 ---
 
-### 23. 강렬한 테니스 경기 디지털 페인팅
+### 24. 강렬한 테니스 경기 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1772,7 +1803,7 @@ SFX: 라켓 타격음, 공 착지음, 숨소리
 
 ---
 
-### 24. 영화 같은 야구 타격 퍼포먼스
+### 25. 영화 같은 야구 타격 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1811,7 +1842,7 @@ SFX: 라켓 타격음, 공 착지음, 숨소리
 
 ---
 
-### 25. 영화적 쿵푸 퍼포먼스 스토리보드
+### 26. 영화적 쿵푸 퍼포먼스 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1944,7 +1975,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 26. 영춘권 훈련 디지털 페인팅
+### 27. 영춘권 훈련 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1989,7 +2020,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 27. 올림픽 다이버 디지털 페인팅 애니메이션
+### 28. 올림픽 다이버 디지털 페인팅 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2075,7 +2106,7 @@ VFX 스타일의 스토리보드 악센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 28. 영화적 쿵푸 퍼포먼스 스토리보드
+### 29. 영화적 쿵푸 퍼포먼스 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2208,7 +2239,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 29. 경기장 방송 화면 속 축구 팬
+### 30. 경기장 방송 화면 속 축구 팬
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2233,7 +2264,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 30. 야구장 전광판에 잡힌 관객의 자연스러운 모습
+### 31. 야구장 전광판에 잡힌 관객의 자연스러운 모습
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2261,7 +2292,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 31. 경쟁 격투 게임 전투 시퀀스
+### 32. 경쟁 격투 게임 전투 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2310,7 +2341,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 32. 영화 같은 줄넘기 퍼포먼스
+### 33. 영화 같은 줄넘기 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2350,7 +2381,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 33. 뉴욕 시티에 도착한 셀러브리티
+### 34. 뉴욕 시티에 도착한 셀러브리티
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2392,7 +2423,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 34. 구름 스케이트보드 구조 스토리보드
+### 35. 구름 스케이트보드 구조 스토리보드
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2484,7 +2515,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 35. 셰프 vs 바퀴벌레 주방 추격전
+### 36. 셰프 vs 바퀴벌레 주방 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2538,7 +2569,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 36. 레트로 디즈니 스타일: 아누비스의 간지럼 소동
+### 37. 레트로 디즈니 스타일: 아누비스의 간지럼 소동
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2563,7 +2594,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 37. 영화적 캐릭터 소개 및 참조 시트
+### 38. 영화적 캐릭터 소개 및 참조 시트
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2704,7 +2735,7 @@ SFX: 정적 → 절규
 
 ---
 
-### 38. 3D 캐릭터 동작 참조 시트
+### 39. 3D 캐릭터 동작 참조 시트
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2762,7 +2793,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 39. 고옥탄가 포뮬러 1 레이싱 장면
+### 40. 고옥탄가 포뮬러 1 레이싱 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2789,7 +2820,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 40. 시간이 멈춘 영화 같은 스포츠 바 장면
+### 41. 시간이 멈춘 영화 같은 스포츠 바 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2826,7 +2857,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 41. 슬랩스틱 아이스크림 트릭 애니메이션
+### 42. 슬랩스틱 아이스크림 트릭 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2879,7 +2910,7 @@ img1에 표시된 1단계부터 16단계까지의 정확한 순서와 움직임�
 
 ---
 
-### 42. 빠른 템포의 아침 루틴 몽타주
+### 43. 빠른 템포의 아침 루틴 몽타주
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2950,7 +2981,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 43. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
+### 44. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2975,7 +3006,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 44. F16 날개 스턴트 트래킹 샷
+### 45. F16 날개 스턴트 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3008,7 +3039,7 @@ SHOT 15: WS, 50mm 풀아웃 / 노트북을 닫는 동작에서 아파트 재진�
 
 ---
 
-### 45. VR 서바이벌 트랜지션: 황야에서 집으로
+### 46. VR 서바이벌 트랜지션: 황야에서 집으로
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3044,7 +3075,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 46. 고고도 로켓 서핑
+### 47. 고고도 로켓 서핑
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3078,7 +3109,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 47. 영화 같은 절벽 점프 트래킹 샷
+### 48. 영화 같은 절벽 점프 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3119,7 +3150,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 48. 회사원 심리 공포 변신
+### 49. 회사원 심리 공포 변신
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3153,7 +3184,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 49. 쿵푸 셰프의 면 요리 준비
+### 50. 쿵푸 셰프의 면 요리 준비
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3198,7 +3229,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 50. 슬랩스틱 아이스크림 코미디 애니메이션
+### 51. 슬랩스틱 아이스크림 코미디 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3236,7 +3267,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 51. 드라마틱한 해안 골프 드라이브
+### 52. 드라마틱한 해안 골프 드라이브
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3267,7 +3298,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 52. 시네마틱 중세 시장 연속 샷
+### 53. 시네마틱 중세 시장 연속 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3333,7 +3364,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 53. 계절 변화가 포함된 고속 FPV 드론 추격
+### 54. 계절 변화가 포함된 고속 FPV 드론 추격
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3358,7 +3389,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 54. 안드로제닉의 복수극
+### 55. 안드로제닉의 복수극
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3383,7 +3414,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 55. 픽사 스타일의 펀치(Punch)의 감동적인 여정
+### 56. 픽사 스타일의 펀치(Punch)의 감동적인 여정
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3408,7 +3439,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 56. 드래곤 라이더 POV 공중전
+### 57. 드래곤 라이더 POV 공중전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3435,7 +3466,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 57. 무한한 상상의 시대
+### 58. 무한한 상상의 시대
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3460,7 +3491,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 58. 절벽 도시를 가로지르는 고속 스피더 추격전
+### 59. 절벽 도시를 가로지르는 고속 스피더 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3485,7 +3516,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 59. 루피와 손오공의 에픽 배틀
+### 60. 루피와 손오공의 에픽 배틀
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3510,7 +3541,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 60. SWAT 인질 구출 액션 시퀀스
+### 61. SWAT 인질 구출 액션 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3541,7 +3572,7 @@ SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용
 
 ---
 
-### 61. 주술회전 캐릭터들을 가르치는 타일러 더든
+### 62. 주술회전 캐릭터들을 가르치는 타일러 더든
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
