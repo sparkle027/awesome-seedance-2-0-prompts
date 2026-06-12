@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts sélectionnés | 📚 Total prompts | 🎬 Modèle | 🔄 Dernière mise à jour |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-11 22:04:45.094 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
 
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Résume le discours sur l'IA dans un mème - assure-toi qu'il soit absurde et qu'il obtienne 50 likes.
 ```
 
-**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K abonnés
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K abonnés
 
-❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.3K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -164,7 +164,7 @@ Résume le discours sur l'IA dans un mème - assure-toi qu'il soit absurde et qu
 Luffy en train de coder sur un Macbook sur le Thousand Sunny, EN COLÈRE, puis le jetant par-dessus bord.
 ```
 
-**Par** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.2K abonnés
+**Par** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K abonnés
 
 ❤️ 19K · 🔁 1.3K · 🔖 6.8K · 👁 7.2M
 
@@ -191,7 +191,7 @@ Image fixe ultra-réaliste de diffusion sportive d'une femme glamour assise dans
 
 **Par** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K abonnés
 
-❤️ 10.5K · 🔁 983 · 🔖 8.8K · 👁 2.6M
+❤️ 10.5K · 🔁 982 · 🔖 8.8K · 👁 2.6M
 
 <sub>📅 May 12, 2026</sub>
 
@@ -214,7 +214,7 @@ Image fixe ultra-réaliste de diffusion sportive d'une femme glamour assise dans
 Le singe frappe en retour. Rends les filles fières.
 ```
 
-**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K abonnés
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K abonnés
 
 ❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,9 +239,9 @@ Le singe frappe en retour. Rends les filles fières.
 L'IA devient woke. Rends ça vraiment offensant, vraiment très offensant.
 ```
 
-**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K abonnés
+**Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K abonnés
 
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.8K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -359,9 +359,9 @@ P17 : Arc final bas ; le balayage au-dessus devient un flash blanc destructeur, 
 P18 : La lumière du jour verte revient ; les feuilles revivent, les oiseaux reviennent, aucune créature ne reste, C1 abaisse le bâton.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 514 · 🔁 50 · 🔖 354 · 👁 16.5K
+❤️ 551 · 🔁 54 · 🔖 387 · 👁 19.6K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -476,9 +476,9 @@ P20 : Grue large finale ; des anneaux pâles se propagent sur le lac alors qu'el
 6. Exporté l'audio de la vidéo générée, téléchargé sur suno et généré de la musique avec. Utilisé capcut pour les combiner.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 3.5K · 🔁 372 · 🔖 2.6K · 👁 176.9K
+❤️ 3.6K · 🔁 380 · 🔖 2.7K · 👁 236K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -523,9 +523,9 @@ Superpositions de livestream visibles des DEUX côtés de l'écran tout au long 
 Style : Livestream vertical réaliste / vlog mukbang, léger tremblement naturel de la caméra et mouvements doux, éclairage de restaurant chaud et intime avec des accents néon, couleurs vives et appétissantes, amitié authentique et énergie juvénile, sensation de hangout décontracté continu, haute précision, réaliste, cinématique 4K.
 ```
 
-**Par** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K abonnés
+**Par** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K abonnés
 
-❤️ 628 · 🔁 66 · 🔖 59 · 👁 51.1K
+❤️ 572 · 🔁 65 · 🔖 60 · 👁 51.7K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -631,9 +631,9 @@ P09 : Insert tapotement sur le téléphone, puis inclinaison vers la fenêtre al
 P10 : Maintien large final sur la rue : la fumée s'échappe d'en haut tandis que Karma se déplace dans la brume nocturne et disparaît.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 761 · 🔁 79 · 🔖 705 · 👁 30K
+❤️ 774 · 🔁 80 · 🔖 715 · 👁 32.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -677,9 +677,9 @@ VOIX : « Conçu pour imiter les ailes d'un papillon… » (pause) « …suspend
 IMAGE FINALE : Révélation élégante du logo. Scintillement doux. Fondu orchestral.
 ```
 
-**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K abonnés
+**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K abonnés
 
-❤️ 574 · 🔁 35 · 🔖 20 · 👁 107.8K
+❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -796,9 +796,9 @@ Pas de sous-titres.
 Qualité de publicité de marque haut de gamme.
 ```
 
-**Par** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K abonnés
+**Par** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K abonnés
 
-❤️ 860 · 🔁 74 · 🔖 147 · 👁 52.9K
+❤️ 733 · 🔁 76 · 🔖 156 · 👁 54.1K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -909,9 +909,9 @@ Style final : fantasy stylisée, personnage anime-fantasy sculpté fidèle à la
 Vous pouvez trouver les invites ci-dessous.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 746 · 🔁 91 · 🔖 630 · 👁 30.8K
+❤️ 751 · 🔁 91 · 🔖 639 · 👁 31.8K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -957,7 +957,7 @@ Gros plan final intense sur son visage déterminé avec les cheveux soufflant de
 
 **Par** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K abonnés
 
-❤️ 604 · 🔁 17 · 🔖 17 · 👁 42K
+❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -1022,7 +1022,7 @@ La ligne rouge tracée ne doit pas apparaître dans la vidéo ; il s'agit unique
 
 **Par** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.5K abonnés
 
-❤️ 1.6K · 🔁 260 · 🔖 1.6K · 👁 173.8K
+❤️ 1.6K · 🔁 261 · 🔖 1.6K · 👁 176.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1285,9 +1285,9 @@ Le prompt est dans la vidéo
 Envoyez un MP pour le prompt complet
 ```
 
-**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K abonnés
+**Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K abonnés
 
-❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+❤️ 1.1K · 🔁 136 · 🔖 555 · 👁 213.5K
 
 <sub>📅 May 29, 2026</sub>
 
@@ -1343,9 +1343,9 @@ Documentaire cinématographique sur l'océan. Sujet : Un pêcheur en haute mer a
 Style : Documentaire océanique ultra-réaliste de National Geographic combiné à l'énergie de la publicité sportive premium. Tons froids désaturés. Atmosphère océanique lourde. Force et présence humaine réelle.
 ```
 
-**Par** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K abonnés
+**Par** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K abonnés
 
-❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -1724,9 +1724,9 @@ Créez une scène d'entraînement aux arts martiaux en anime à haute vitesse de
 Pas de texte. Pas de filigrane. Pas d'interface utilisateur. Pas d'action supplémentaire au-delà du storyboard.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 654 · 🔁 92 · 🔖 609 · 👁 29.3K
+❤️ 654 · 🔁 92 · 🔖 608 · 👁 29.6K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1773,9 +1773,9 @@ Le personnage A délivre le coup final, la balle de tennis volant à haute vites
 SFX : Son de coup de raquette, son d'atterrissage de balle, son de respiration
 ```
 
-**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K abonnés
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K abonnés
 
-❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 120.8K
+❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.2K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1812,9 +1812,9 @@ anatomie semi-réaliste
 éclairage cinématographique propre
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 677 · 🔁 79 · 🔖 544 · 👁 28.1K
+❤️ 677 · 🔁 79 · 🔖 542 · 👁 28.4K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1947,7 +1947,7 @@ flux : lié lors des postures enracinées et des frappes précises, libre lors d
 
 **Par** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K abonnés
 
-❤️ 1.3K · 🔁 205 · 🔖 1.5K · 👁 126.5K
+❤️ 1.3K · 🔁 203 · 🔖 1.5K · 👁 127.1K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -1990,9 +1990,9 @@ SCÈNE 7 :
 Plan final. Plan moyen rapproché, 50mm, zoom avant lent puis maintien stable / Après avoir terminé le dernier mouvement, le garçon s'arrête lentement, la poussière, les coins des vêtements et les feuilles de bambou se déposant naturellement, le mannequin en bois se balançant légèrement, levant lentement les yeux vers la caméra, une main maintenant une posture de départ de Wing Chun, debout fermement au centre de la cour / SFX : un impact sourd profond suivi du retour des sons ambiants naturels du vent
 ```
 
-**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K abonnés
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K abonnés
 
-❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 159.9K
+❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 161.7K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2076,9 +2076,9 @@ EFFETS SONORES :
 Battement rythmique final de la musique, son subtil d'obturateur figé, applaudissements continus du public.
 ```
 
-**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K abonnés
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K abonnés
 
-❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.3K
+❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.6K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2209,9 +2209,9 @@ espace : direct pendant les attaques, blocages et fentes, indirect pendant les r
 flux : lié pendant les positions ancrées et les frappes précises, libre pendant le mouvement aérien, le mouvement de tissu tourbillonnant et la libération élémentaire
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.3K
+❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2234,9 +2234,9 @@ flux : lié pendant les positions ancrées et les frappes précises, libre penda
 Un plan de diffusion haute définition et réaliste d'une jeune femme assise dans un stade de football bondé pendant un match Real Madrid contre Barcelone. Elle a de longs cheveux noirs raides, une peau pâle avec de légères taches de rousseur et des yeux bleus saisissants avec un eye-liner en œil de chat. Elle porte un maillot domicile blanc du Real Madrid. La scène la montre assise pensivement, la main sur le menton, regardant occasionnellement autour d'elle et remettant ses cheveux derrière son oreille. Éclairage cinématographique, faible profondeur de champ avec la foule floue en arrière-plan. Dans le coin supérieur, un tableau de score sportif réaliste affiche '64:30 RMA 2-1 BAR' avec un logo 'bein SPORTS 1 LIVE'. La vidéo présente le léger grain et le mouvement d'une caméra de diffusion télévisée professionnelle.
 ```
 
-**Par** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.1K abonnés
+**Par** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K abonnés
 
-❤️ 4.6K · 🔁 400 · 🔖 4.2K · 👁 714.3K
+❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 716.9K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2262,9 +2262,9 @@ Ambiance de stade authentique avec bruit de foule, bâtons de supporters, écho 
 Pas de look cinématographique, pas de pose, pas de filtres de beauté, pas d'éclairage dramatique, pas de ralenti, pas de coupes, pur réalisme de diffusion sportive en direct non scénarisé.
 ```
 
-**Par** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K abonnés
+**Par** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.7K abonnés
 
-❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+❤️ 378 · 🔁 46 · 🔖 194 · 👁 16.1K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2351,9 +2351,9 @@ anatomie semi-réaliste
 éclairage cinématographique propre
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 730 · 🔁 92 · 🔖 623 · 👁 66K
+❤️ 730 · 🔁 92 · 🔖 624 · 👁 66.3K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2394,7 +2394,7 @@ Il s'approche d'un fan et signe une photo imprimée qu'elle tient de (Image de r
 
 **Par** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K abonnés
 
-❤️ 1.1K · 🔁 99 · 🔖 1.2K · 👁 108.3K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.4K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -2484,9 +2484,9 @@ Donnez la priorité à la lisibilité, à la direction de l'écran et à la cont
 Gardez le mouvement visuel calme et intentionnel plutôt qu'agité.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 1.1K · 🔁 166 · 🔖 1.4K · 👁 58.2K
+❤️ 1.1K · 🔁 165 · 🔖 1.4K · 👁 58.3K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2538,9 +2538,9 @@ Plan large fixe. Les mains du chef sont vides, il se tourne pour voir tout le pl
 SFX : silence → cri de détresse
 ```
 
-**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K abonnés
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K abonnés
 
-❤️ 3.2K · 🔁 393 · 🔖 4.1K · 👁 302K
+❤️ 3.2K · 🔁 394 · 🔖 4.1K · 👁 302.5K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2579,9 +2579,9 @@ Scène 7 : Anubis ricane encore un peu après coup, puis retrouve son calme et d
 Anubis est musclé et porte des anneaux aux bras et au cou. Sa voix est grave et rauque. Anubis est chatouillé sous les aisselles. Dialogue en anglais.
 ```
 
-**Par** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K abonnés
+**Par** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K abonnés
 
-❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.3K
+❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.7K
 
 <sub>📅 Apr 28, 2026</sub>
 
@@ -2720,9 +2720,9 @@ cinématographique et cohérent
 Terminez sur un plan moyen ou complet confiant, le personnage étant pleinement établi.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 2.1K · 🔁 274 · 🔖 3.1K · 👁 154.7K
+❤️ 2.1K · 🔁 273 · 🔖 3K · 👁 155.2K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2778,9 +2778,9 @@ Créez img2 qui suit exactement la séquence et les mouvements des étapes 1–1
 Il ne doit y avoir aucun dialogue, texte ou narration.
 ```
 
-**Par** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K abonnés
+**Par** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K abonnés
 
-❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.4K
+❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.8K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2805,9 +2805,9 @@ C'est la F1 que nous méritons, pas les conneries de Mario Kart en lesquelles le
 Invite Seedance 2.0 ci-dessous 👇
 ```
 
-**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.3K abonnés
+**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K abonnés
 
-❤️ 8.9K · 🔁 765 · 🔖 1.7K · 👁 1.9M
+❤️ 8.9K · 🔁 764 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -2844,7 +2844,7 @@ Son : rugissement assourdissant du bar/célébration → claquement → onde de 
 
 **Par** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K abonnés
 
-❤️ 1.1K · 🔁 88 · 🔖 1.6K · 👁 259.5K
+❤️ 1.1K · 🔁 87 · 🔖 1.6K · 👁 259.8K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -2966,9 +2966,9 @@ PLAN 14 : OTS, caméra à l'épaule 35mm / Coupe rythmique sur les doigts couran
 PLAN 15 : WS, zoom arrière 50mm / Coupe en L avec un raccord du gros plan sur l'ordinateur portable vers le retour à l'appartement alors que la veste tombe, les vêtements de travail sont retirés et elle se change à nouveau en tenue de nuit avant de s'effondrer dans le lit dans la forme du cadre d'ouverture. / SFX : fermeture de porte, chute de sac, froissement de tissu, froissement de couverture, ambiance de la pièce.
 ```
 
-**Par** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K abonnés
+**Par** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K abonnés
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.8K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3134,9 +3134,9 @@ Audio : Respiration rythmée lourde, gravier crissant sous les pieds, hurlement 
 Photoréaliste 8K, textures ultra-détaillées, éclairage cinématographique, flou de mouvement parfait, plage dynamique élevée, aucun artefact, physique multimodale cohérente, stabilité de niveau cinématographique.
 ```
 
-**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K abonnés
+**Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K abonnés
 
-❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3213,9 +3213,9 @@ CHRONOLOGIE :
 0:12-0:15 : Coupe vers POV stabilisé. Arrêt complet soudain. Le chef incline le wok et fait glisser le plat fini dans le bol en porcelaine – visible : nouilles uniformément enrobées, crevettes charnues, légumes brillants. Il soulève et présente le bol directement vers la caméra jusqu'à ce qu'il remplisse le cadre. Un doigt tapote le bord – vibration subtile. La vapeur monte rapidement, s'étendant jusqu'à couvrir complètement l'objectif pour une transition en fondu propre.
 ```
 
-**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K abonnés
+**Par** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K abonnés
 
-❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
+❤️ 3.2K · 🔁 245 · 🔖 2.2K · 👁 365.4K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3373,9 +3373,9 @@ photoréaliste, éclairage cinématographique, mouvement de caméra ancré, atmo
 Plan de suivi rapide en drone FPV par l'arrière, suivant de près une fille de style anime 3D aux cheveux blancs faisant du skateboard sur une route de montagne sinueuse et escarpée à une vitesse incroyablement élevée. Élan extrême vers l'avant, perspective grand angle, effet de vent violent. La vidéo commence dans un décor estival vibrant avec des montagnes verdoyantes, un ciel ensoleillé, un océan au loin et des feuilles brunes volant devant la caméra. À la 3e seconde, une vague magique de givre balaie vers l'avant depuis le skateboard : l'environnement se transforme de manière fluide en un paysage hivernal glacial. L'herbe verte se transforme instantanément en neige blanche profonde, de gros flocons commencent à tomber et les montagnes lointaines deviennent des sommets enneigés. La caméra ne rompt jamais le mouvement de suivi en descente intense, fluide et continu. Action à haut régime, chef-d'œuvre d'animation 3D, éclairage photoréaliste.
 ```
 
-**Par** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K abonnés
+**Par** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K abonnés
 
-❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
+❤️ 1.8K · 🔁 198 · 🔖 665 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -3400,7 +3400,7 @@ Androgenic complote sa vengeance après s'être fait arracher sa perruque. Faite
 
 **Par** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K abonnés
 
-❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
+❤️ 1.2K · 🔁 113 · 🔖 359 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -3425,7 +3425,7 @@ Réalise un film Pixar sur Punch. Je veux pleurer et tomber amoureux de lui.
 
 **Par** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K abonnés
 
-❤️ 4.6K · 🔁 622 · 🔖 1K · 👁 285.5K
+❤️ 4.6K · 🔁 619 · 🔖 1K · 👁 285.6K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -3477,7 +3477,7 @@ Pourquoi suivre Hollywood quand vous avez le pouvoir et la liberté de créer de
 
 **Par** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K abonnés
 
-❤️ 3.1K · 🔁 316 · 🔖 939 · 👁 198.3K
+❤️ 3.1K · 🔁 315 · 🔖 938 · 👁 198.3K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3500,9 +3500,9 @@ Pourquoi suivre Hollywood quand vous avez le pouvoir et la liberté de créer de
 Course-poursuite en speeder à travers une cité troglodyte (plan-séquence unique) Depuis une cité monumentale sculptée dans la roche, la caméra plonge vers une minuscule traînée de lumière filant le long d'une route étroite à flanc de falaise. Verrouillage : un speeder rasant le mur à une vitesse folle. La caméra se projette en avant, revient en arrière, puis se colle aux propulseurs arrière : brume de chaleur, gravillons se détachant de la corniche, voyants d'avertissement clignotants. Un balcon s'effondre sous une pluie de débris ; le pilote effectue un virage de dernière seconde sous une arche qui tombe, puis se faufile entre du linge suspendu et des fenêtres ouvertes dans un mouvement fluide. La caméra se faufile à travers les mêmes ouvertures, restant collée à l'action. Un dernier virage et le calme soudain : la caméra jaillit vers l'extérieur pour révéler la cité s'ouvrant sur une immense vallée alimentée par une cascade, la brume se transformant en arc-en-ciel.
 ```
 
-**Par** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.6K abonnés
+**Par** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K abonnés
 
-❤️ 2K · 🔁 179 · 🔖 961 · 👁 247.8K
+❤️ 2K · 🔁 178 · 🔖 960 · 👁 247.9K
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -3525,9 +3525,9 @@ Course-poursuite en speeder à travers une cité troglodyte (plan-séquence uniq
 Luffy et Goku en pleine scène de combat épique sur le Sunny.
 ```
 
-**Par** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75K abonnés
+**Par** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K abonnés
 
-❤️ 2.4K · 🔁 142 · 🔖 730 · 👁 210.8K
+❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3552,7 +3552,7 @@ Luffy et Goku en pleine scène de combat épique sur le Sunny.
 
 **Par** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K abonnés
 
-❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3575,9 +3575,9 @@ Luffy et Goku en pleine scène de combat épique sur le Sunny.
 tyler durden explique les règles du fight club à des personnages de jujutsu kaisen. style prises de vues réelles.
 ```
 
-**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K abonnés
+**Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K abonnés
 
-❤️ 2.5K · 🔁 189 · 🔖 807 · 👁 189K
+❤️ 2.5K · 🔁 188 · 🔖 806 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 

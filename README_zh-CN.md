@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-11 22:04:45.094 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
 
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 用一张梗图总结 AI 讨论——确保它足够无厘头并能获得 50 个赞。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 关注者
 
-❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.3K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -164,7 +164,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 路飞在万里阳光号上用Macbook写代码，愤怒，然后把它扔进海里。
 ```
 
-**由** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.2K 关注者
+**由** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K 关注者
 
 ❤️ 19K · 🔁 1.3K · 🔖 6.8K · 👁 7.2M
 
@@ -191,7 +191,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 **由** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K 关注者
 
-❤️ 10.5K · 🔁 983 · 🔖 8.8K · 👁 2.6M
+❤️ 10.5K · 🔁 982 · 🔖 8.8K · 👁 2.6M
 
 <sub>📅 May 12, 2026</sub>
 
@@ -214,7 +214,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 猴子反击。让女孩们感到骄傲。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 关注者
 
 ❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,9 +239,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AI变得woke（觉醒）。让它变得非常冒犯——那种非常冒犯的程度。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 关注者
 
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.8K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -359,9 +359,9 @@ P17: 低最终弧线；头顶扫掠变为摧毁性的白色闪光，擦除每个
 P18: 绿色白昼恢复；树叶复苏，鸟儿回归，无生物残留，C1放下法杖。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 514 · 🔁 50 · 🔖 354 · 👁 16.5K
+❤️ 551 · 🔁 54 · 🔖 387 · 👁 19.6K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -476,9 +476,9 @@ P20：起重机广角终曲；苍白的环在湖面上扩散，她握着插入�
 6. 从生成的视频中导出音频，上传到 suno 并生成音乐。使用 capcut 将它们组合起来。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 3.5K · 🔁 372 · 🔖 2.6K · 👁 176.9K
+❤️ 3.6K · 🔁 380 · 🔖 2.7K · 👁 236K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -523,9 +523,9 @@ P20：起重机广角终曲；苍白的环在湖面上扩散，她握着插入�
 风格：写实的竖屏直播/吃播Vlog，轻微自然的镜头抖动和柔和的移动，温暖亲密的餐厅灯光，带有霓虹灯点缀，鲜艳诱人的色彩，真挚的友谊和青春活力，持续的休闲聚会感，高细节，写实，电影级4K。
 ```
 
-**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K 关注者
+**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 关注者
 
-❤️ 628 · 🔁 66 · 🔖 59 · 👁 51.1K
+❤️ 572 · 🔁 65 · 🔖 60 · 👁 51.7K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -631,9 +631,9 @@ P09：插入手机点击，然后倾斜至窗户，房间伴随橙色闪光、�
 P10：最终街道广角保持：烟雾从上方涌出，Karma 移动到夜色朦胧中并消失。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 761 · 🔁 79 · 🔖 705 · 👁 30K
+❤️ 774 · 🔁 80 · 🔖 715 · 👁 32.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -675,9 +675,9 @@ P10：最终街道广角保持：烟雾从上方涌出，Karma 移动到夜色�
 结尾画面：优雅的Logo呈现。柔和的闪光。管弦乐渐弱。
 ```
 
-**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K 关注者
+**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K 关注者
 
-❤️ 574 · 🔁 35 · 🔖 20 · 👁 107.8K
+❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -794,9 +794,9 @@ Sharon大笑:
 高端品牌商业广告质量。
 ```
 
-**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K 关注者
+**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 关注者
 
-❤️ 860 · 🔁 74 · 🔖 147 · 👁 52.9K
+❤️ 733 · 🔁 76 · 🔖 156 · 👁 54.1K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -903,9 +903,9 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 10. 摄像机继续其剩余的惯性，从同一轴线缓慢拉远，揭示广阔的月光城堡房间、古老的石质建筑、孤独的家具，以及在冷光下床上的C1小身影。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 746 · 🔁 91 · 🔖 630 · 👁 30.8K
+❤️ 751 · 🔁 91 · 🔖 639 · 👁 31.8K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -951,7 +951,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 **由** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 关注者
 
-❤️ 604 · 🔁 17 · 🔖 17 · 👁 42K
+❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -1016,7 +1016,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 **由** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.5K 关注者
 
-❤️ 1.6K · 🔁 260 · 🔖 1.6K · 👁 173.8K
+❤️ 1.6K · 🔁 261 · 🔖 1.6K · 👁 176.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1279,9 +1279,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 私信获取完整提示词
 ```
 
-**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K 关注者
+**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K 关注者
 
-❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+❤️ 1.1K · 🔁 136 · 🔖 555 · 👁 213.5K
 
 <sub>📅 May 29, 2026</sub>
 
@@ -1337,9 +1337,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 风格: 超写实国家地理海洋纪录片结合高端体育广告的能量。冷色调去饱和。浓厚的海洋氛围。真实的人类力量与存在感。
 ```
 
-**由** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K 关注者
+**由** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K 关注者
 
-❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -1702,9 +1702,9 @@ Jūran冷静
 无文字。无水印。无UI。除了分镜内容外无额外动作。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 654 · 🔁 92 · 🔖 609 · 👁 29.3K
+❤️ 654 · 🔁 92 · 🔖 608 · 👁 29.6K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1751,9 +1751,9 @@ Jūran冷静
 音效：球拍击球声，球落地声，呼吸声
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 关注者
 
-❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 120.8K
+❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.2K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1790,9 +1790,9 @@ Jūran冷静
 干净的电影感光效
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 677 · 🔁 79 · 🔖 544 · 👁 28.1K
+❤️ 677 · 🔁 79 · 🔖 542 · 👁 28.4K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1924,7 +1924,7 @@ Jūran冷静
 
 **由** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K 关注者
 
-❤️ 1.3K · 🔁 205 · 🔖 1.5K · 👁 126.5K
+❤️ 1.3K · 🔁 203 · 🔖 1.5K · 👁 127.1K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -1967,9 +1967,9 @@ Jūran冷静
 结尾镜头。中近景，50mm，缓慢推入后稳定定格 / 完成最后一个动作后，少年缓慢停下，灰尘、衣角和竹叶自然落下，木人桩轻微晃动，缓慢抬眼看向镜头，单手保持咏春起手式，稳稳地站在庭院中央 / SFX：一声深沉的闷响，随后恢复自然的户外风声
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 关注者
 
-❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 159.9K
+❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 161.7K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2053,9 +2053,9 @@ Jūran冷静
 音乐的最后节奏点，细微的快门定格声，持续的观众掌声。
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 关注者
 
-❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.3K
+❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.6K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2186,9 +2186,9 @@ Jūran冷静
 流动：扎根站姿和精准打击时受限，空中运动、旋转织物运动和元素释放时自由
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.3K
+❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2211,9 +2211,9 @@ Jūran冷静
 一个高清、写实的转播镜头，拍摄了一位年轻女性坐在拥挤的足球场内，观看皇家马德里对阵巴塞罗那的比赛。她留着长直黑发，皮肤白皙，带有淡淡的雀斑，蓝色的眼睛画着猫眼眼线。她身穿白色皇家马德里主场球衣。场景捕捉到她若有所思地坐着，手托着下巴，偶尔环顾四周并将头发别在耳后。电影级灯光，浅景深，背景中的人群模糊。在右上角，一个写实的体育记分牌显示“64:30 RMA 2-1 BAR”，并带有“bein SPORTS 1 LIVE”标志。视频具有专业电视摄像机转播的轻微颗粒感和运动感。
 ```
 
-**由** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.1K 关注者
+**由** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K 关注者
 
-❤️ 4.6K · 🔁 400 · 🔖 4.2K · 👁 714.3K
+❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 716.9K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2239,9 +2239,9 @@ Jūran冷静
 没有电影感，没有摆拍，没有美颜滤镜，没有戏剧性的灯光，没有慢动作，没有剪辑，纯粹的抓拍，非剧本的体育直播写实感。
 ```
 
-**由** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K 关注者
+**由** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.7K 关注者
 
-❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+❤️ 378 · 🔁 46 · 🔖 194 · 👁 16.1K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2328,9 +2328,9 @@ Jūran冷静
 干净的电影感光效
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 730 · 🔁 92 · 🔖 623 · 👁 66K
+❤️ 730 · 🔁 92 · 🔖 624 · 👁 66.3K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2371,7 +2371,7 @@ Jūran冷静
 
 **由** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 关注者
 
-❤️ 1.1K · 🔁 99 · 🔖 1.2K · 👁 108.3K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.4K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -2461,9 +2461,9 @@ Jūran冷静
 保持视觉运动平静且有目的，而不是焦躁不安。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 1.1K · 🔁 166 · 🔖 1.4K · 👁 58.2K
+❤️ 1.1K · 🔁 165 · 🔖 1.4K · 👁 58.3K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2515,9 +2515,9 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 音效：静音 → 崩溃尖叫
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 关注者
 
-❤️ 3.2K · 🔁 393 · 🔖 4.1K · 👁 302K
+❤️ 3.2K · 🔁 394 · 🔖 4.1K · 👁 302.5K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2540,9 +2540,9 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递给他一份关于新税法的文档，恭敬地劝他签字，阿努比斯却一脸不耐烦，表示自己对这种琐事毫无兴趣。 场景二：顾问一脸不耐烦地扔掉文档，掏出一根羽毛，走到阿努比斯面前，用羽毛轻轻拂过他的腋窝，这让阿努比斯有些摸不着头脑。 场景三：镜头特写，人类的手用羽毛轻轻地在阿努比斯的腋窝上来回拂动，动作反复，背景中传来阿努比斯压抑的笑声，显然他非常怕痒。 场景4：特写镜头展现阿努比斯的上半身，人类的手用羽毛轻轻地在他腋下来回拂动，阿努比斯咧嘴一笑，闭着眼睛，发出闷闷的笑声，而顾问则继续用羽毛挠他的腋窝。 场景5：顾问继续用羽毛挠阿努比斯的腋窝，阿努比斯闭着眼睛大声笑着。阿努比斯不由自主地抬起手臂，让腋窝更多地暴露在挠痒的羽毛下。阿努比斯继续大声笑着，顾问则继续用羽毛挠他的腋窝。 场景6：顾问继续用羽毛挠阿努比斯的腋窝，阿努比斯闭着眼睛大声笑着。他笑着说他会签名，然后又继续笑个不停。顾问对这个回答很满意，停了下来，点了点头。 第七幕：阿努比斯在事后忍不住轻笑了几声，随即恢复了镇定，说道他的顾问应该庆幸自己如此怕痒。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉沙哑。阿努比斯的腋窝被挠痒。对话为英文。
 ```
 
-**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K 关注者
+**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 关注者
 
-❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.3K
+❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.7K
 
 <sub>📅 Apr 28, 2026</sub>
 
@@ -2680,9 +2680,9 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 以自信的中景或全景结束，角色形象完全确立。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 2.1K · 🔁 274 · 🔖 3.1K · 👁 154.7K
+❤️ 2.1K · 🔁 273 · 🔖 3K · 👁 155.2K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2738,9 +2738,9 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 不应有任何对话、文字或旁白。
 ```
 
-**由** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K 关注者
+**由** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K 关注者
 
-❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.4K
+❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.8K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2765,9 +2765,9 @@ POV减速。前方出现窗户；蟑螂停在窗内台面上，转身直面厨�
 Seedance 2.0 提示词如下 👇
 ```
 
-**由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.3K 关注者
+**由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K 关注者
 
-❤️ 8.9K · 🔁 765 · 🔖 1.7K · 👁 1.9M
+❤️ 8.9K · 🔁 764 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -2804,7 +2804,7 @@ Seedance 2.0 提示词如下 👇
 
 **由** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 关注者
 
-❤️ 1.1K · 🔁 88 · 🔖 1.6K · 👁 259.5K
+❤️ 1.1K · 🔁 87 · 🔖 1.6K · 👁 259.8K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -2926,9 +2926,9 @@ Seedance 2.0 提示词如下 👇
 镜头 15：WS（全景），50mm拉镜头 / L型剪辑，从笔记本电脑合上匹配到回到公寓，夹克脱落，工作服剥离，她换回睡衣，在开头的画面姿势中倒在床上。 / 音效：关门声、包袋落地声、布料摩擦声、毯子摩擦声、环境音。
 ```
 
-**由** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K 关注者
+**由** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K 关注者
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.8K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3094,9 +3094,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 照片级真实感8K，超精细纹理，电影级照明，完美的运动模糊，高动态范围，无伪影，连贯的多模态物理，电影级稳定性。
 ```
 
-**由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 关注者
+**由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K 关注者
 
-❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3173,9 +3173,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 0:12-0:15：切换到稳定 POV。突然完全停止。厨师倾斜锅，将成品滑入瓷碗——可见：均匀包裹酱汁的面条、饱满的虾仁、油亮的蔬菜。他举起碗并直接呈现给摄像机，直到填满画面。手指轻敲碗沿——轻微震动。蒸汽迅速升起，扩散直到完全覆盖镜头，实现干净的淡出。
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 关注者
 
-❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
+❤️ 3.2K · 🔁 245 · 🔖 2.2K · 👁 365.4K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3333,9 +3333,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 从后方拍摄的快节奏FPV无人机追踪镜头，紧跟一名有着白发的3D动漫风格女孩，她正以极高的速度在陡峭蜿蜒的山路上滑板。极强的前进动量，广角视角，风吹过的效果。视频开始于充满活力的夏季场景，有郁郁葱葱的绿色山脉、明亮的晴空、远处的海洋，以及从镜头前飞过的棕色叶子。在第3秒时，一股神奇的霜冻波从滑板处向前扫过：环境无缝转变为冰冷的冬季景观。绿草瞬间变成厚厚的白雪，大雪开始飘落，远处的山脉变成了雪峰。摄像机始终保持着强烈、平滑、连续的下坡追踪运动。高强度动作，大师级3D动画，照片级真实光影。
 ```
 
-**由** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K 关注者
+**由** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K 关注者
 
-❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
+❤️ 1.8K · 🔁 198 · 🔖 665 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -3360,7 +3360,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 **由** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 关注者
 
-❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
+❤️ 1.2K · 🔁 113 · 🔖 359 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -3385,7 +3385,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 **由** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 关注者
 
-❤️ 4.6K · 🔁 622 · 🔖 1K · 👁 285.5K
+❤️ 4.6K · 🔁 619 · 🔖 1K · 👁 285.6K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -3437,7 +3437,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 **由** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K 关注者
 
-❤️ 3.1K · 🔁 316 · 🔖 939 · 👁 198.3K
+❤️ 3.1K · 🔁 315 · 🔖 938 · 👁 198.3K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3460,9 +3460,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 悬崖之城飞车追逐（单镜头连续拍摄）从一座刻在岩石上的宏伟悬崖城市出发，摄像机俯冲向一道在狭窄岩架道路上疾驰的微小光影。锁定目标：一辆以惊人速度紧贴墙壁飞驰的飞车。摄像机向前弹射、猛然回转，随后紧贴后方推进器：热浪翻滚、岩架上的沙砾飞溅、警示灯闪烁。一座坍塌的阳台落下碎片；骑手在最后关头于坠落的拱门下猛然转向，随后流畅地穿过悬挂的衣物和敞开的窗户。摄像机穿过同样的开口，紧跟动作。最后一个弯道后突然平静：摄像机向外冲出，展现出城市通向无限瀑布山谷的壮丽景象，薄雾化作彩虹。
 ```
 
-**由** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.6K 关注者
+**由** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K 关注者
 
-❤️ 2K · 🔁 179 · 🔖 961 · 👁 247.8K
+❤️ 2K · 🔁 178 · 🔖 960 · 👁 247.9K
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -3485,9 +3485,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 路飞和悟空在万里阳光号上进行史诗般的战斗场景。
 ```
 
-**由** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75K 关注者
+**由** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K 关注者
 
-❤️ 2.4K · 🔁 142 · 🔖 730 · 👁 210.8K
+❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3518,7 +3518,7 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 
 **由** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K 关注者
 
-❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3541,9 +3541,9 @@ quality: 8K写实，正确的织物运动模糊，自然物理效果，无恐怖
 泰勒·德顿向《咒术回战》角色解释搏击俱乐部规则。真人电影风格。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 关注者
 
-❤️ 2.5K · 🔁 189 · 🔖 807 · 👁 189K
+❤️ 2.5K · 🔁 188 · 🔖 806 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 

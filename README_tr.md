@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **61** | **61** | **Seedance 2.0** | **2026-06-11 22:04:45.094 UTC** |
+| **61** | **61** | **Seedance 2.0** | **2026-06-12 04:17:01.344 UTC** |
 
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K takipçi
 
-❤️ 69.1K · 🔁 6.4K · 🔖 20.7K · 👁 14.8M
+❤️ 69.1K · 🔁 6.3K · 🔖 20.7K · 👁 14.8M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -164,7 +164,7 @@ Yapay zeka söylemini bir mem ile özetle - saçma olduğundan ve 50 beğeni ald
 Luffy, Thousand Sunny'de bir Macbook üzerinde kod yazıyor, ÖFKELENİYOR ve ardından onu denize fırlatıyor.
 ```
 
-**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.2K takipçi
+**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K takipçi
 
 ❤️ 19K · 🔁 1.3K · 🔖 6.8K · 👁 7.2M
 
@@ -191,7 +191,7 @@ Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının
 
 **Gönderen** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K takipçi
 
-❤️ 10.5K · 🔁 983 · 🔖 8.8K · 👁 2.6M
+❤️ 10.5K · 🔁 982 · 🔖 8.8K · 👁 2.6M
 
 <sub>📅 May 12, 2026</sub>
 
@@ -214,7 +214,7 @@ Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının
 Maymun karşılık veriyor. Kızları gururlandır.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K takipçi
 
 ❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,9 +239,9 @@ Maymun karşılık veriyor. Kızları gururlandır.
 Yapay zeka woke kültürüne geçiyor. Bunu gerçekten saldırgan yapın - yani gerçekten saldırgan.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.8K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K takipçi
 
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.7K
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.8K
 
 <sub>📅 Feb 19, 2026</sub>
 
@@ -359,9 +359,9 @@ P17: Düşük son yay; tepe süpürmesi her yaratığı silen yok edici bir beya
 P18: Yeşil gün ışığı geri döner; yapraklar canlanır, kuşlar geri döner, hiçbir yaratık kalmaz, C1 asayı indirir.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 514 · 🔁 50 · 🔖 354 · 👁 16.5K
+❤️ 551 · 🔁 54 · 🔖 387 · 👁 19.6K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -476,9 +476,9 @@ P20: Vinç geniş final; o saplanmış kabzayı tutarken soluk halkalar göl boy
 6. Oluşturulan videodan sesi dışa aktardım, suno'ya yükledim ve onunla müzik oluşturdum. Onları birleştirmek için capcut kullandım.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 3.5K · 🔁 372 · 🔖 2.6K · 👁 176.9K
+❤️ 3.6K · 🔁 380 · 🔖 2.7K · 👁 236K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -523,9 +523,9 @@ Video boyunca ekranın HER İKİ tarafında da görünen canlı yayın katmanlar
 Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsıntısı ve yumuşak hareketler, neon vurgulu sıcak samimi restoran aydınlatması, canlı iştah açıcı renkler, gerçek dostluk ve gençlik enerjisi, kesintisiz gündelik takılma hissi, yüksek detay, gerçekçi, sinematik 4K.
 ```
 
-**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K takipçi
+**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K takipçi
 
-❤️ 628 · 🔁 66 · 🔖 59 · 👁 51.1K
+❤️ 572 · 🔁 65 · 🔖 60 · 👁 51.7K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -631,9 +631,9 @@ P09: Telefon dokunuşunu ekle, ardından oda turuncu flaş, enkaz, duman ve etki
 P10: Sokakta final geniş tutuş: yukarıdan dumanlar boşalırken Karma gece pusuna doğru hareket eder ve kaybolur.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 761 · 🔁 79 · 🔖 705 · 👁 30K
+❤️ 774 · 🔁 80 · 🔖 715 · 👁 32.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -675,9 +675,9 @@ SES: “Kelebek kanatlarını taklit etmek için tasarlandı…” (duraklama) �
 SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşça azalması.
 ```
 
-**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.4K takipçi
+**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K takipçi
 
-❤️ 574 · 🔁 35 · 🔖 20 · 👁 107.8K
+❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -794,9 +794,9 @@ Altyazı yok.
 Üst düzey marka reklam kalitesi.
 ```
 
-**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.8K takipçi
+**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K takipçi
 
-❤️ 860 · 🔁 74 · 🔖 147 · 👁 52.9K
+❤️ 733 · 🔁 76 · 🔖 156 · 👁 54.1K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -907,9 +907,9 @@ Nihai stil: stilize fantezi, referansa sadık heykelsi anime-fantezi karakteri, 
 Promtları aşağıda bulabilirsiniz.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 746 · 🔁 91 · 🔖 630 · 👁 30.8K
+❤️ 751 · 🔁 91 · 🔖 639 · 👁 31.8K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -955,7 +955,7 @@ Sinematik aydınlatma, dramatik kenar aydınlatması, yoğun duman ve kıvılcı
 
 **Gönderen** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K takipçi
 
-❤️ 604 · 🔁 17 · 🔖 17 · 👁 42K
+❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -1020,7 +1020,7 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, gün batı
 
 **Gönderen** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.5K takipçi
 
-❤️ 1.6K · 🔁 260 · 🔖 1.6K · 👁 173.8K
+❤️ 1.6K · 🔁 261 · 🔖 1.6K · 👁 176.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1283,9 +1283,9 @@ Siz son mantınızı paylaşır mıydınız?
 Tam istem için DM atın
 ```
 
-**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.3K takipçi
+**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K takipçi
 
-❤️ 2.7K · 🔁 137 · 🔖 542 · 👁 212.3K
+❤️ 1.1K · 🔁 136 · 🔖 555 · 👁 213.5K
 
 <sub>📅 May 29, 2026</sub>
 
@@ -1341,9 +1341,9 @@ Sinematik okyanus belgeseli. Konu: 27 yaşında, son derece yakışıklı, atlet
 Stil: Premium spor reklam enerjisiyle birleştirilmiş ultra gerçekçi National Geographic okyanus belgeseli. Soğuk desatüre tonlar. Ağır okyanus atmosferi. Gerçek insan gücü ve varlığı.
 ```
 
-**Gönderen** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.1K takipçi
+**Gönderen** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K takipçi
 
-❤️ 123 · 🔁 8 · 🔖 83 · 👁 6K
+❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -1718,9 +1718,9 @@ Kaba sinematik sakuga enerjisi ve nostaljik 80'ler macera anime hissi ile 15 san
 Metin yok. Filigran yok. Arayüz yok. Storyboard dışında ekstra aksiyon yok.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 654 · 🔁 92 · 🔖 609 · 👁 29.3K
+❤️ 654 · 🔁 92 · 🔖 608 · 👁 29.6K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1767,9 +1767,9 @@ Karakter A son bitirici vuruşu yapar, tenis topu yüksek hızla Karakter B'ye d
 SFX: Raket vuruş sesi, topun yere düşme sesi, nefes sesi
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K takipçi
 
-❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 120.8K
+❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.2K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1806,9 +1806,9 @@ yarı gerçekçi anatomi
 temiz sinematik aydınlatma
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 677 · 🔁 79 · 🔖 544 · 👁 28.1K
+❤️ 677 · 🔁 79 · 🔖 542 · 👁 28.4K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1941,7 +1941,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, havada hareke
 
 **Gönderen** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K takipçi
 
-❤️ 1.3K · 🔁 205 · 🔖 1.5K · 👁 126.5K
+❤️ 1.3K · 🔁 203 · 🔖 1.5K · 👁 127.1K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -1984,9 +1984,9 @@ SAHNE 7:
 Bitiş çekimi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit tutuş / Son hareketi tamamladıktan sonra çocuk yavaşça durur, toz, kıyafet köşeleri ve bambu yaprakları doğal bir şekilde yerine oturur, ahşap manken hafifçe sallanır, gözlerini yavaşça kameraya doğru kaldırır, bir el Wing Chun başlangıç duruşunu korur, avlunun merkezinde sabit bir şekilde durur / SFX: bir derin boğuk darbe ve ardından doğal ortam rüzgar seslerinin geri dönüşü
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K takipçi
 
-❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 159.9K
+❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 161.7K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2070,9 +2070,9 @@ SES EFEKTLERİ:
 Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci alkışı.
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K takipçi
 
-❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.3K
+❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.6K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2203,9 +2203,9 @@ uzay: saldırılar, bloklar ve hamleler sırasında doğrudan; dönen dönüşle
 akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı; havada hareket, dönen kumaş hareketi ve elementel serbest bırakma sırasında serbest
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.3K
+❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2228,9 +2228,9 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı; havada hareke
 Real Madrid - Barcelona maçı sırasında kalabalık bir futbol stadyumunda oturan genç bir kadının yüksek çözünürlüklü, gerçekçi yayın çekimi. Uzun, düz siyah saçları, hafif çilli soluk bir teni ve kedi gözü eyeliner ile belirgin mavi gözleri var. Üzerinde beyaz Real Madrid iç saha forması var. Sahne, elini çenesine koymuş düşünceli bir şekilde oturduğunu, ara sıra etrafına baktığını ve saçını kulağının arkasına ittiğini yakalıyor. Sinematik aydınlatma, arka planda bulanık kalabalık ile sığ alan derinliği. Üst köşede, '64:30 RMA 2-1 BAR' yazan gerçekçi bir spor skorbordu ve 'bein SPORTS 1 LIVE' logosu bulunuyor. Video, profesyonel bir TV kamerasının hafif grenine ve hareketine sahip.
 ```
 
-**Gönderen** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.1K takipçi
+**Gönderen** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K takipçi
 
-❤️ 4.6K · 🔁 400 · 🔖 4.2K · 👁 714.3K
+❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 716.9K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2256,9 +2256,9 @@ Yüksek kalabalık gürültüsü, tezahürat çubukları, spiker yankısı ve yo
 Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik aydınlatma yok, ağır çekim yok, kesinti yok, tamamen doğal, senaryosuz canlı spor yayını gerçekçiliği.
 ```
 
-**Gönderen** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.2K takipçi
+**Gönderen** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.7K takipçi
 
-❤️ 379 · 🔁 46 · 🔖 195 · 👁 15.9K
+❤️ 378 · 🔁 46 · 🔖 194 · 👁 16.1K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2345,9 +2345,9 @@ yarı gerçekçi anatomi
 temiz sinematik aydınlatma
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 730 · 🔁 92 · 🔖 623 · 👁 66K
+❤️ 730 · 🔁 92 · 🔖 624 · 👁 66.3K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2389,7 +2389,7 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) basılı f
 
 **Gönderen** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K takipçi
 
-❤️ 1.1K · 🔁 99 · 🔖 1.2K · 👁 108.3K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.4K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -2479,9 +2479,9 @@ Okunabilirliğe, ekran yönüne ve vuruşlar boyunca aksiyonun sürekliliğine �
 Görsel hareketi huzursuz olmaktan ziyade sakin ve kasıtlı tutun.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 1.1K · 🔁 166 · 🔖 1.4K · 👁 58.2K
+❤️ 1.1K · 🔁 165 · 🔖 1.4K · 👁 58.3K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2533,9 +2533,9 @@ Geniş sabit çekim. Şefin elleri boştur, tüm tezgahın tamamen kaos içinde 
 SFX: sessizlik → çöküş çığlığı
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K takipçi
 
-❤️ 3.2K · 🔁 393 · 🔖 4.1K · 👁 302K
+❤️ 3.2K · 🔁 394 · 🔖 4.1K · 👁 302.5K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2558,9 +2558,9 @@ SFX: sessizlik → çöküş çığlığı
 Klasik retro Disney animasyon tarzı. Sahne 1: Mısır sarayında, heybetli çakal tanrısı Anubis, tahtında tembelce oturuyor, kolları yanlarına sarkmış ve koltuk altları açıkta. Önündeki insan danışman ona yeni vergi yasasıyla ilgili bir belge uzatıp imzalaması için saygıyla ikna etmeye çalışıyor, ancak Anubis bu tür önemsiz işlerle ilgilenmediğini belirterek sabırsız bir ifade takınıyor. Sahne 2: Danışman sabırsızca belgeyi bir kenara atıyor, bir tüy çıkarıp Anubis'in önüne geliyor ve tüyü hafifçe koltuk altına sürüyor; bu durum Anubis'i şaşırtıyor. Sahne 3: Yakın çekim, insan eli tüyü Anubis'in koltuk altında ileri geri hareket ettiriyor, hareket tekrarlanıyor, arka planda Anubis'in bastırılmış kahkahaları duyuluyor, belli ki çok gıdıklanıyor. Sahne 4: Anubis'in üst gövdesini gösteren yakın çekim, insan eli tüyü koltuk altında gezdiriyor, Anubis sırıtıyor, gözlerini kapatıyor ve boğuk kahkahalar atıyor, danışman ise tüyü koltuk altında gezdirmeye devam ediyor. Sahne 5: Danışman tüyü Anubis'in koltuk altında gezdirmeye devam ediyor, Anubis gözleri kapalı bir şekilde yüksek sesle gülüyor. Anubis istemsizce kollarını kaldırarak koltuk altını gıdıklayan tüye daha fazla maruz bırakıyor. Anubis yüksek sesle gülmeye devam ediyor, danışman ise tüyü koltuk altında gezdirmeye devam ediyor. Sahne 6: Danışman tüyü Anubis'in koltuk altında gezdirmeye devam ediyor, Anubis gözleri kapalı bir şekilde yüksek sesle gülüyor. Gülerek imzalayacağını söylüyor ve gülmeye devam ediyor. Danışman bu cevaptan memnun kalıp duruyor ve başını sallıyor. Sahne 7: Anubis sonrasında birkaç kez kıkırdıyor, ardından sakinleşip danışmanının bu kadar gıdıklandığı için şanslı olması gerektiğini söylüyor. Anubis kaslı, kollarında ve boynunda halkalar var. Sesi derin ve boğuk. Anubis'in koltuk altı gıdıklanıyor. Diyalog İngilizce.
 ```
 
-**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K takipçi
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K takipçi
 
-❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.3K
+❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.7K
 
 <sub>📅 Apr 28, 2026</sub>
 
@@ -2699,9 +2699,9 @@ sinematik ve tutarlı
 Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şekilde bitirin.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 2.1K · 🔁 274 · 🔖 3.1K · 👁 154.7K
+❤️ 2.1K · 🔁 273 · 🔖 3K · 👁 155.2K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2757,9 +2757,9 @@ img1'de gösterilen 1-16 arası adımlardaki tam sırayı ve hareketleri takip e
 Herhangi bir diyalog, metin veya anlatım olmamalıdır.
 ```
 
-**Gönderen** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K takipçi
+**Gönderen** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K takipçi
 
-❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.4K
+❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.8K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2784,9 +2784,9 @@ Bu, düzenlemelerin dönüştürdüğü Mario Kart saçmalığı değil, hak ett
 Seedance 2.0 istemi aşağıda 👇
 ```
 
-**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.3K takipçi
+**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K takipçi
 
-❤️ 8.9K · 🔁 765 · 🔖 1.7K · 👁 1.9M
+❤️ 8.9K · 🔁 764 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -2823,7 +2823,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 **Gönderen** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K takipçi
 
-❤️ 1.1K · 🔁 88 · 🔖 1.6K · 👁 259.5K
+❤️ 1.1K · 🔁 87 · 🔖 1.6K · 👁 259.8K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -2945,9 +2945,9 @@ MANTIK KURALI: Tüm çekimlerde kıyafet, aksesuarlar, mekanlar ve aksiyon süre
 ÇEKİM 15: WS, 50mm dışarı çıkış / Dizüstü bilgisayarın kapanışından daireye geri dönüşe eşleşen L-kesme; ceket çıkarılıyor, iş kıyafetleri atılıyor ve başlangıçtaki yatak pozisyonuna dönmeden önce uyku kıyafetlerine geri dönüyor. / SFX: kapı kapanması, çanta düşmesi, kumaş hışırtısı, battaniye hışırtısı, oda sesi.
 ```
 
-**Gönderen** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.2K takipçi
+**Gönderen** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K takipçi
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.5K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.8K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3113,9 +3113,9 @@ Ses: Ağır ritmik nefes alışverişi, ayakların altında çatırdayan çakıl
 Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hareket bulanıklığı, yüksek dinamik aralık, yapaylık yok, tutarlı çok modlu fizik, film seviyesinde stabilite.
 ```
 
-**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K takipçi
+**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K takipçi
 
-❤️ 3.1K · 🔁 230 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3192,9 +3192,9 @@ ZAMAN ÇİZELGESİ:
 0:12-0:15: Sabitlenmiş POV'a geçiş. Ani tam duruş. Şef wok tavayı eğer ve bitmiş yemeği porselen kaseye kaydırır—görünür olanlar: eşit şekilde kaplanmış noodle'lar, dolgun karidesler, parlak yeşillikler. Kaseyi kaldırır ve çerçeveyi doldurana kadar doğrudan kameraya doğru sunar. Bir parmak kenara vurur—hafif titreşim. Buhar hızla yükselir ve temiz bir kararma (fade-out) için lensi tamamen kaplayana kadar genişler.
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.3K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K takipçi
 
-❤️ 3.2K · 🔁 247 · 🔖 2.2K · 👁 365.2K
+❤️ 3.2K · 🔁 245 · 🔖 2.2K · 👁 365.4K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3352,9 +3352,9 @@ fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengi
 Arkadan çekilen, yüksek tempolu FPV drone takip çekimi; beyaz saçlı, 3D anime tarzı bir kızın dik ve virajlı bir dağ yolunda inanılmaz bir hızla kaykay yapmasını yakından takip ediyor. Aşırı ileri ivme, geniş açılı perspektif, rüzgar esme efekti. Video, yemyeşil dağlar, parlak güneşli bir gökyüzü, uzak bir okyanus ve kameranın önünden uçuşan kahverengi yapraklarla canlı bir yaz ortamında başlıyor. 3. saniyede, kaykaydan ileriye doğru büyülü bir don dalgası yayılıyor: ortam kusursuz bir şekilde dondurucu bir kış manzarasına dönüşüyor. Yeşil çimenler anında derin beyaz kara dönüşüyor, yoğun kar taneleri yağmaya başlıyor ve uzak dağlar karla kaplı zirvelere dönüşüyor. Kamera, yoğun, pürüzsüz ve sürekli yokuş aşağı takip hareketini asla bozmuyor. Yüksek tempolu aksiyon, başyapıt 3D animasyon, fotogerçekçi aydınlatma.
 ```
 
-**Gönderen** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 16.9K takipçi
+**Gönderen** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K takipçi
 
-❤️ 1.8K · 🔁 199 · 🔖 666 · 👁 157.3K
+❤️ 1.8K · 🔁 198 · 🔖 665 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -3379,7 +3379,7 @@ Androgenic, peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviye
 
 **Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K takipçi
 
-❤️ 1.2K · 🔁 114 · 🔖 358 · 👁 108.2K
+❤️ 1.2K · 🔁 113 · 🔖 359 · 👁 108.2K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -3404,7 +3404,7 @@ Punch hakkında bir Pixar filmi yap. Onun için ağlamak ve ona aşık olmak ist
 
 **Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K takipçi
 
-❤️ 4.6K · 🔁 622 · 🔖 1K · 👁 285.5K
+❤️ 4.6K · 🔁 619 · 🔖 1K · 👁 285.6K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -3456,7 +3456,7 @@ Tamamen yeni dünyalar yaratma gücüne ve özgürlüğüne sahipken neden Holly
 
 **Gönderen** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K takipçi
 
-❤️ 3.1K · 🔁 316 · 🔖 939 · 👁 198.3K
+❤️ 3.1K · 🔁 315 · 🔖 938 · 👁 198.3K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3479,9 +3479,9 @@ Tamamen yeni dünyalar yaratma gücüne ve özgürlüğüne sahipken neden Holly
 Uçurum şehrinde hız motoru takibi (tek kesintisiz çekim) Taştan oyulmuş anıtsal bir uçurum şehrinden, kamera dar bir kaya çıkıntısı boyunca hızla ilerleyen küçük bir ışık çizgisine doğru dalış yapar. Odak: inanılmaz bir hızla duvara yapışan bir hız motoru. Kamera öne doğru fırlar, geri döner ve ardından arka iticilere yaklaşır: ısı pusları, çıkıntıdan kopan kumlar, yanıp sönen uyarı ışıkları. Çöken bir balkon enkaz yağdırır; sürücü düşen bir kemerin altında son anda manevra yapar, ardından tek bir akıcı hat üzerinde asılı çamaşır iplerinin ve açık pencerelerin arasından geçer. Kamera aynı açıklıklardan hızla geçer, harekete kilitli kalır. Son bir viraj ve ani bir sakinlik: kamera dışarı doğru patlar ve şehrin sınırsız, şelale ile beslenen bir vadiye açılışını, sisin gökkuşağına dönüşmesini gözler önüne serer.
 ```
 
-**Gönderen** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.6K takipçi
+**Gönderen** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K takipçi
 
-❤️ 2K · 🔁 179 · 🔖 961 · 👁 247.8K
+❤️ 2K · 🔁 178 · 🔖 960 · 👁 247.9K
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -3504,9 +3504,9 @@ Uçurum şehrinde hız motoru takibi (tek kesintisiz çekim) Taştan oyulmuş an
 Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 ```
 
-**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75K takipçi
+**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K takipçi
 
-❤️ 2.4K · 🔁 142 · 🔖 730 · 👁 210.8K
+❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3531,7 +3531,7 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 
 **Gönderen** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K takipçi
 
-❤️ 1.8K · 🔁 166 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3554,9 +3554,9 @@ Sunny'de destansı bir dövüş sahnesi yaşayan Luffy ve Goku.
 tyler durden, jujutsu kaisen karakterlerine dövüş kulübü kurallarını açıklıyor. canlı aksiyon tarzı.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K takipçi
 
-❤️ 2.5K · 🔁 189 · 🔖 807 · 👁 189K
+❤️ 2.5K · 🔁 188 · 🔖 806 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 
