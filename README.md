@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Curated prompts | 📚 Total prompts | 🎬 Model | 🔄 Last updated |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 15:22:03.430 UTC** |
 
 </div>
 
@@ -965,33 +965,33 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 ---
 
-### 14. 90s Disney Style: Anubis's Secret Gift
+### 14. 90年代迪士尼风格：阿努比斯的秘密赠礼
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90s Disney Style: Anubis's Secret Gift"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼风格：阿努比斯的秘密赠礼"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Classic 90s Disney animation style.
+经典的90年代迪士尼动画风格。
 
-Scene 1: Inside an Egyptian palace, the camera cuts to the interior of the throne room. We see the majestic jackal god Anubis sitting on his throne, with a group of subordinates (soldiers, advisors, and some humble servants, all human) kneeling before him. He waves his hand carelessly and says dismissively, "Leave now." He then leans back lazily on the throne, looking bored.
+场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士兵、顾问和一些卑微的仆人，都是人类）跪在他面前。他漫不经心地挥了挥手，轻蔑地对他们说：“现在离开。”然后便懒洋洋地靠回王座，一副百无聊赖的样子。
 
-Scene 2: The subordinates obey his command without hesitation and slowly leave. Anubis watches them. But for the last one, a humble human servant, Anubis specifically orders, "You, servant, wait." The servant turns around, looking confused and surprised, not understanding what the majestic Anubis wants.
+场景二：下属们毫不犹豫地遵从他的命令，缓缓离去，阿努比斯注视着他们。但最后一个，一个卑微的人类仆人，阿努比斯却特意吩咐道：“你，仆人，等等。”仆人转过身来，一脸困惑和惊讶，不明白威严的阿努比斯究竟想要什么。
 
-Scene 3: The other subordinates have left. Anubis says, "Come here." The servant, feeling nervous and still puzzled, walks toward Anubis.
+场景三：其他下属都已离开，阿努比斯说：“过来。”仆人有些紧张，仍然一头雾水，走向阿努比斯。
 
-Scene 4: Anubis pulls a bouquet of flowers from behind the throne and, with a casual expression, hands them to the surprised servant. He turns his head slightly, looking a bit embarrassed, avoiding eye contact with the servant, and says, "Take it."
+场景4：阿努比斯从王座后取出一束鲜花，神情漫不经心地将花束递到一脸惊讶的仆人面前。他微微侧过头，略显尴尬，不愿直视仆人的眼睛，说道：“拿着吧。”
 
-Scene 5: The servant takes the bouquet, still looking confused. Anubis, still not looking at him, waves his hand and says, "You may go." The servant nods, takes the bouquet, and leaves, looking bewildered.
+场景5：仆人接过花束，脸上依然带着困惑。阿努比斯仍然没有看向他，挥了挥手，说道：“你可以走了。”仆人点点头，拿着花束，一脸茫然地离开了。
 
-Scene 6: Anubis watches the servant leave. He still has a casual expression, but a faint smile appears at the corner of his mouth. He rests his chin on his hand, watching the servant depart, seemingly quite fond of him.
+场景6：阿努比斯目送仆人离去，脸上依旧是漫不经心的表情，但嘴角却浮现出一丝微笑。他手托着下巴，目送仆人离去，似乎对这位仆人颇有好感。
 
-Anubis is muscular, wearing rings and earrings on his arms, neck, and ears. He is shirtless. His voice is deep and magnetic. The audio is in English.
+阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K followers
@@ -1353,33 +1353,19 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 ---
 
-### 20. Anubis's Ticklish Moment
+### 20. 阿努比斯的怕痒时刻
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="Anubis's Ticklish Moment"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕痒时刻"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Play this video on gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Modern Chinese 3D animation style.
-
-Scene 1: In a large Egyptian library, we see the majestic jackal god Anubis with his hands behind his back, examining the bookshelves with a nonchalant expression, his posture dignified. At this moment, he notices a young person reaching for a book about rituals on a nearby table. Seeing this, Anubis quickly snatches the book, holding it high above his head with one arm, exposing his armpit, and says in his gentle yet firm tone: This book is not for someone like him.
-
-Scene 2: The young person looks disappointed, but then reveals a sly smile, asking Anubis if he is ticklish, while reaching out to tickle the armpit of Anubis's raised arm, which leaves Anubis somewhat confused.
-
-Scene 3: Close-up shot, the human's hand slides fingers up and down under Anubis's armpit, repeating this action continuously. Suppressed giggles from Anubis are heard in the background, indicating that he is indeed very ticklish.
-
-Scene 4: Close-up shot, Anubis's upper body, the human's hand continues to slide fingers up and down under Anubis's armpit. Anubis closes his eyes, grinning broadly, and lets out suppressed giggles.
-
-Scene 5: The human continues to tickle Anubis's armpit with their hand, and Anubis giggles with his eyes closed. Anubis's laughter confirms that he is indeed very ticklish, and then he starts giggling again while the human continues to tickle his armpit.
-
-Scene 6: Anubis continues to giggle, finally throwing the book to the ground and wrapping his arms around himself, covering his armpits. The human stops tickling and picks up the book. Anubis giggles, seemingly still immersed in the laughter, saying while laughing that he hates being tickled. The human smiles and takes the book.
-
-Anubis is muscular, wearing rings on his arms and neck. His voice is deep, magnetic, and charismatic. Anubis's armpit is being tickled.
+现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时，他注意到一个年轻人正伸手去拿附近桌子上一本关于仪式的书籍。阿努比斯见状，迅速夺过书本，用一只手臂高高举过头顶，露出腋窝，用他那温和而坚定的语气说道：这本书不适合像他这样的人。 场景二：年轻人一脸失望，但随即露出狡黠的笑容，问阿努比斯是否怕痒，同时伸手去挠阿努比斯举起的手臂的腋窝，这让阿努比斯有些摸不着头脑。 场景3：特写镜头，人类的手在阿努比斯的腋下上下滑动手指，不断重复这个动作。背景中传来阿努比斯压抑的咯咯笑声，表明他确实很怕痒。 场景4：特写镜头，阿努比斯的上半身，人类的手继续在阿努比斯的腋下上下滑动手指。阿努比斯闭着眼睛，咧嘴大笑，发出压抑的咯咯笑声。 场景5：人类继续用手挠阿努比斯的腋窝，阿努比斯闭着眼睛咯咯笑着。阿努比斯的笑声证实了他确实很怕痒，然后他又开始咯咯地笑，而人类则继续挠他的腋窝。 场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
 ```
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K followers
@@ -2581,13 +2567,13 @@ SFX: silence → breakdown scream
 
 ```
 Classic vintage Disney animation style.
-Scene 1: Inside an Egyptian palace, the mighty jackal god Anubis sits lazily on his throne, his arms hanging naturally at his sides, exposing his armpits. An advisor stands before him, presenting a document about new tax laws and respectfully urging him to sign it, but Anubis looks impatient, showing no interest in such trivial matters.
-Scene 2: The advisor, looking impatient, tosses the document aside, pulls out a feather, walks up to Anubis, and gently brushes the feather against his armpit, leaving Anubis confused.
-Scene 3: Close-up shot, the human hand uses the feather to gently brush back and forth in Anubis's armpit repeatedly. In the background, Anubis's suppressed laughter can be heard; it is clear he is very ticklish.
-Scene 4: Close-up shot showing Anubis's upper body. The human hand uses the feather to gently brush back and forth in his armpit. Anubis grins, eyes closed, letting out muffled laughter, while the advisor continues to tickle his armpit with the feather.
-Scene 5: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. Anubis involuntarily raises his arm, exposing his armpit more to the tickling feather. Anubis continues to laugh loudly, while the advisor keeps tickling his armpit.
-Scene 6: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. He laughs and says he will sign, then continues to laugh uncontrollably. The advisor is satisfied with this answer, stops, and nods.
-Scene 7: After the event, Anubis cannot help but chuckle a few times, then regains his composure, saying his advisor should be glad he is so ticklish.
+Scene 1: Inside an Egyptian palace, the mighty jackal god Anubis is sitting lazily on his throne, his arms hanging naturally at his sides, exposing his armpits. The human advisor in front of him is handing him a document about new tax laws, respectfully urging him to sign, but Anubis looks impatient, indicating he has no interest in such trivial matters.
+Scene 2: The advisor, looking impatient, tosses the document aside, pulls out a feather, walks up to Anubis, and gently brushes the feather across his armpit, which leaves Anubis feeling confused.
+Scene 3: Close-up shot, the human's hand uses the feather to gently brush back and forth on Anubis's armpit, the action repeated, and suppressed laughter from Anubis can be heard in the background, clearly showing he is very ticklish.
+Scene 4: A close-up shot shows Anubis's upper body, the human's hand uses the feather to gently brush back and forth under his arm, Anubis grins, eyes closed, letting out muffled laughter, while the advisor continues to tickle his armpit with the feather.
+Scene 5: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. Anubis involuntarily raises his arm, exposing his armpit more to the tickling feather. Anubis continues to laugh loudly, while the advisor continues to tickle his armpit with the feather.
+Scene 6: The advisor continues to tickle Anubis's armpit with the feather, and Anubis laughs loudly with his eyes closed. He laughs and says he will sign, then continues to laugh non-stop. The advisor is satisfied with this answer, stops, and nods.
+Scene 7: Anubis cannot help but chuckle a few times afterward, then regains his composure, saying his advisor should be glad he is so ticklish.
 Anubis is muscular, wearing rings on his arms and neck. His voice is deep and raspy. Anubis's armpits are being tickled. Dialogue is in English.
 ```
 

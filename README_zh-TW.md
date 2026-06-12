@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-12 11:46:19.501 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-12 15:22:03.430 UTC** |
 
 </div>
 
@@ -124,19 +124,19 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 > 按互動率排序，最受喜愛的 Seedance 2.0 影片。
 
-### 1. AI 討論迷因
+### 1. AI Discourse Meme
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-69.1K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 討論迷因"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI Discourse Meme"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-用一個迷因來總結 AI 討論——確保它夠無厘頭並能獲得 50 個讚。
+Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 ```
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
@@ -161,7 +161,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 **📝 提示詞**
 
 ```
-魯夫在千陽號上用 Macbook 寫程式，暴怒，然後把它扔進海裡。
+魯夫在千陽號上用 Macbook 寫程式，暴怒，然後把它扔到船外。
 ```
 
 **作者** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K 追蹤者
@@ -174,19 +174,19 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 3. 體育轉播風格的體育場場景
+### 3. Candid sports broadcast stadium scene
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="體育轉播風格的體育場場景"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056372321587555_0_poster.jpg" width="640" alt="Candid sports broadcast stadium scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-一張超寫實的體育轉播靜態畫面，一位迷人的女性坐在夜間足球賽期間擁擠的觀眾席中。她穿著深棕色無袖高領緞面背心，戴著黑色方形耳環，及肩的淺棕色/金色頭髮燙成柔和的波浪捲。她正隨意地喝著高身藍色鋁罐飲料，另一隻手拿著吃了一半的起司漢堡。周圍是穿著鮮黃色和藍色足球球衣及圍巾的球迷，形成了強烈的球隊色彩對比。場景感覺自然且具電影感，以電視轉播的攝影角度並配合淺景深在比賽中途捕捉。包含寫實的體育場座位、擁擠的觀眾氛圍、左上角顯示即時比分與比賽時間的轉播圖層，以及右上角的體育頻道浮水印。自然的場館燈光、細緻的皮膚紋理、焦點清晰地對準女性，背景觀眾略微模糊，呈現道地的直播體育賽事美學，16:9 構圖。
+Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans in bright yellow and blue football jerseys and scarves, creating strong team-color contrast. The scene feels candid and cinematic, captured mid-game from a TV broadcast camera angle with shallow depth of field. Include realistic stadium seating, crowded audience atmosphere, broadcast overlay graphics in the top-left corner showing a live football score and match timer, and a sports network watermark in the top-right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
 ```
 
 **作者** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K 追蹤者
@@ -199,19 +199,19 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 4. 猴子的反擊
+### 4. Punch the Monkey's Retaliation
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="猴子的反擊"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey's Retaliation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-猴子反擊。讓女孩們感到驕傲。
+Punch the Monkey punches back. Make the girls proud.
 ```
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
@@ -224,19 +224,19 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 5. 諷刺性AI社會評論
+### 5. Satirical AI social commentary
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="諷刺性AI社會評論"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Satirical AI social commentary"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-AI變得woke（覺醒）。讓它變得非常冒犯——那種非常冒犯的程度。
+AI goes woke. Make it really offensive - like really offensive.
 ```
 
 **作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
@@ -268,95 +268,95 @@ AI變得woke（覺醒）。讓它變得非常冒犯——那種非常冒犯的�
 建立一張 16:9 的影像。
 
 [專案卡]
-建立一個緊湊設計的頁首，而不是表格。
-標題：NOX / LUMOS POI FOREST
+建立一個精簡設計的頁首，而非表格。
+標題：NOX / LUMOS POI 森林
 元數據行：突發虛空魔法 / 奇幻儀式懸疑 / 快速 15 秒爆發流
-優先級：第一幀為無生物的空曠森林，華麗的藍白色引誘與毀滅 Poi 魔法，快速剪輯追蹤光的個別生物，恢復綠色森林重置
-簡短摘要：一個旅行法師的 18 格分鏡腳本，將空曠的日間森林瞬間變為虛空，使用 LUMOS Poi 光芒將隱藏的生物逐一引誘，然後將其摧毀，使森林恢復綠色與平靜。
+優先級：第一幀為無生物的空曠森林，華麗的藍白色引誘後毀滅 Poi 魔法，單個生物爆發式剪輯追蹤光線，綠色恢復森林重置
+簡短摘要：十八格分鏡腳本，描述一位旅行法師將空曠的日間森林瞬間變為虛空，使用 LUMOS Poi 光線將隱藏的生物逐一引誘出來，然後將其摧毀，使森林恢復綠色與平靜。
 
 [連續性標頭]
 序列 ID：NOX-LUMOS-POI-FOREST-18P
-參考優先級：提供的光之法師角色表控制 C1 的臉部、身體、服裝、比例、法杖設計、藍白色發光特徵及優雅動作。此分鏡腳本控制舞台調度、動作、地理、生物顯現邏輯、光影連續性、節奏及畫面純淨度。
+參考優先級：提供的光之法師角色表控制 C1 的臉部、身體、服裝、比例、法杖設計、藍白色發光特徵及優雅動作。此分鏡腳本控制場景調度、動作、地理、生物揭示邏輯、光線狀態連續性、節奏及分鏡純度。
 
 [場景包]
-前提：一名旅行法師在乾燥的日間森林空地上揮動法杖，唸出 NOX，將世界抽乾至絕對黑暗，然後使用 LUMOS 和法杖 Poi 動作將隱藏的生物逐一引誘，最後在白色閃光中將其摧毀，使森林恢復綠色。
-地點：日間乾燥森林空地，中心為龜裂的蒼白土壤，散落的脆草，樹幹與灌木環，遠處的樹冠，C1 上方的開放天空，P01 中無可見生物，無建築或路徑，閃光後同一空地恢復綠色。
-開始 -> 結束：C1 獨自站在強烈的日光下，法杖尖端觸及乾燥地面，無生物可見 -> C1 在恢復生機的安靜綠色日光下放下法杖，所有生物消失。
-動作鏈：空曠日間大師鏡頭配合法杖打擊與瞬間 NOX 虛空 -> LUMOS 臉部/圓圈顯現 -> 有角觀察者轉眼 -> 葉精靈瞳孔捕捉 ->長臂樹枝觀察者傾身 -> 地面爬行者腳步暫停 -> 樹皮臉睜眼 -> 第一個 Poi 弧線 -> 有角觀察者追蹤 8 字形 -> 葉精靈追蹤蝴蝶迴圈 -> 長臂觀察者追蹤無限大掃描 -> 微距瞳孔追蹤 -> 地面爬行者追蹤地面圓環 -> 樹皮臉追蹤光環軌道 -> 鹿角觀察者追蹤氣旋 -> 單一臉部毀滅閃光鏈 -> 最後的頭頂掃描將其摧毀 -> 綠色日光恢復。
-道具 / 效果狀態：僅限一根法杖；NOX 完全消除陽光，非自然夜晚；LUMOS 以法杖尖端的小型藍白色光球開始；Poi 軌跡變為圓形、螺旋形、無限大、蝴蝶、光環、地面圓環和氣旋路徑；觀察者大多在快速剪輯中逐一出現，被發光的眼睛、追蹤軌跡的瞳孔、轉頭、緩慢的腳步和傾斜向光的臉部所吸引；最後的閃光摧毀了每個觀察者，森林恢復綠色。
-必讀：法杖之光既是誘餌也是武器：每個快速剪輯隔離了一個被光線動作催眠的生物，然後閃光將其摧毀並恢復森林。
+前提：一位旅行法師在空曠乾燥的日間森林空地中揮動法杖，唸出 NOX，將世界抽乾至絕對黑暗，然後使用 LUMOS 和法杖 Poi 動作將隱藏的生物逐一引誘出來，最後在白色閃光中將其摧毀，使森林恢復綠色。
+地點：日間乾燥森林空地，中心為龜裂的蒼白土壤，散落的脆草，樹幹與灌木環，遠處的樹冠，C1 上方的開放天空缺口，P01 中無可見生物，無建築或路徑，閃光後同一空地恢復綠色。
+開始 -> 結束：C1 獨自站在強烈日光下，法杖尖端觸地，無生物可見 -> C1 在恢復平靜的綠色日間放下法杖，所有生物消失。
+動作鏈：空曠日間主鏡頭，法杖揮擊與瞬間 NOX 虛空 -> LUMOS 臉部/圓圈揭示 -> 有角觀察者轉眼 -> 葉精靈瞳孔捕捉 -> 長臂樹枝觀察者傾身 -> 地面爬行者腳步暫停 -> 樹皮臉睜眼 -> 第一個 Poi 弧線 -> 有角觀察者追蹤 8 字形 -> 葉精靈追蹤蝴蝶迴圈 -> 長臂觀察者追蹤無限大掃描 -> 微距瞳孔追逐 -> 地面爬行者追蹤地面圓環 -> 樹皮臉追蹤光環軌道 -> 鹿角觀察者追蹤氣旋 -> 單臉毀滅閃光鏈 -> 最後的頭頂掃描將其摧毀 -> 綠色日間恢復。
+道具 / 效果狀態：僅一支法杖；NOX 完全移除陽光，非自然夜晚；LUMOS 以法杖尖端的小型藍白色光球開始；Poi 軌跡變為圓形、螺旋、無限大、蝴蝶、光環、地面環和氣旋路徑；觀察者大多一次出現一個，在爆發剪輯中，被發光的眼睛、追蹤軌跡的瞳孔、轉頭、緩慢的腳步和朝向光線傾斜的臉龐所吸引；最後的閃光摧毀了每個觀察者，森林恢復綠色。
+必讀：法杖光線既是誘餌也是武器：每個快速剪輯隔離一個被光線動作催眠的生物，然後閃光將其摧毀並恢復森林。
 
-[角色衛生]
-C1：來自所提供表格的年輕旅行法師，運動型纖細輪廓，藍白色羽毛頭飾與布料裝飾，層次分明的白藍旅行裝，涼鞋，帶有圓形發光頭部的長法杖，穩定的直立姿勢，精確的 Poi 流動手臂控制。
-C2：隱藏的森林觀察者，大多一次顯示一個：一個有角的高大輪廓，一個小型的葉狀森林精靈，一個長臂樹枝形狀，一個腳步謹慎的低地爬行者，一個樹皮臉的樹幹觀察者，一個鹿角陰影；發光的眼睛，追蹤光線方向的瞳孔，被催眠並傾斜向法杖光球的臉部。
-移除矛盾特徵、不可見的心理、過多的服裝細節以及無法出現在畫面中的背景故事。
+[角色消毒]
+C1：來自所提供表格的年輕成年旅行法師，運動型纖細輪廓，藍白色羽毛頭飾與布料裝飾，層次分明的白藍色旅行裝，涼鞋，長法杖帶有圓形發光頭，穩定的直立姿勢，精確的 Poi 流動手臂控制。
+C2：隱藏的森林觀察者，大多一次顯示一個：一個有角的高大輪廓，一個小型葉狀森林精靈，一個長臂樹枝形狀，一個動作謹慎的低地爬行者，一個樹皮臉樹幹觀察者，一個鹿角陰影；發光的眼睛，瞳孔追蹤光線方向，催眠的臉龐朝向法杖光球傾斜。
+移除矛盾特徵、不可見的心理、過度的服裝細節以及無法出現在分鏡中的背景故事。
 
 [身份一致性]
-提供的角色參考控制 C1 的臉部、身體、服裝、比例、法杖和輪廓；分鏡腳本僅控制舞台調度。保持 C1 的法杖、藍白色法師身份、旅行裝、螢幕位置和優雅動作一致。保持 C2 為獨立的隱藏觀察者，絕不與 C1 合併，絕不成為友好的寵物，絕不將空地重新設計為奇幻神殿。
+提供的角色參考控制 C1 的臉部、身體、服裝、比例、法杖和輪廓；分鏡腳本僅控制場景調度。保持 C1 的法杖、藍白色法師身份、旅行裝、螢幕位置和優雅動作一致。保持 C2 為獨立的隱藏觀察者，絕不與 C1 合併，絕不成為友好的寵物，絕不將空地重新設計為奇幻神殿。
 
-[分鏡腳本純淨度]
-分鏡圖像為視覺專用的低細節單色淺灰色粗略草圖。將分鏡編號、節拍名稱和鏡頭標籤放在分鏡圖像外部的標頭條中。畫面內無顏色、標籤、箭頭、標題、字幕、標誌、浮水印、時間標記、圖表、UI、幽靈姿勢、重複身體或技術疊加。
+[分鏡純度]
+分鏡影像為僅視覺、低細節的單色淺灰色草圖。將分鏡編號、節拍名稱和鏡頭標籤放在分鏡影像外部的標頭條中。分鏡內無顏色、標籤、箭頭、標題、字幕、標誌、浮水印、時間標記、圖表、UI、幽靈姿勢、重複身體或技術疊加。
 
 [主鏡頭規則]
-P01 顯示打擊期間完整的可玩地理：C1 位於龜裂乾燥地面中心，法杖插入大地，空地周圍的樹幹環與灌木，上方的樹冠，開放的天空，畫面中無任何可見生物。
+P01 顯示揮擊期間完整的可玩地理：C1 位於龜裂乾燥地面中心，法杖插入大地，空地周圍有樹幹環和灌木，上方有樹冠，開放天空缺口，畫面中無任何可見生物。
 
 [情感弧線]
-空曠日光控制 -> 不可能的黑幕 -> 小光回歸 -> 個別隱藏凝視 -> 一對一磁性眼球追蹤 -> 儀式加速 -> 單一生物引誘剪輯 -> 白色毀滅 -> 綠色平凡平靜，透過 C1 的穩定姿勢、追蹤軌跡的孤立瞳孔、小幅轉頭以及最後無生物的綠色空地展現。
+空曠日間控制 -> 不可能的黑幕 -> 小光線回歸 -> 個別隱藏凝視 -> 一對一磁性眼睛追蹤 -> 儀式加速 -> 單一生物引誘剪輯 -> 白色毀滅 -> 綠色普通平靜，透過 C1 的穩定姿勢、追蹤軌跡的孤立瞳孔、小幅轉頭以及最後無生物的綠色空地展現。
 
 [風格鎖定]
-風格鎖定：米白色紙張上的乾淨單色粗略草圖分鏡面板，淺灰色石墨線條，簡化的解剖結構，乾燥森林輪廓，僅在分鏡藝術外部的表格設計中限制深藍色與冷白色裝飾，無渲染的分鏡顏色或完成的概念藝術陰影。
-效果鎖定：在分鏡內，NOX 是簡單的灰黑色虛空質量且無地平線；LUMOS 和 Poi 軌跡是簡單的單色明亮形狀；最終影片風格為風格化的 3D 動畫奇幻，帶有藍白色法杖光球、長曝光 Poi 絲帶、蝴蝶迴圈、無限大隧道、地面圓環、光環籠、氣旋峰值、天鵝絨般無光的虛空、眼部閃光、摧毀生物的強烈白色閃光以及綠色日光恢復。
-環境鎖定：乾燥空曠的空地中心、龜裂的土地、脆草、樹幹環、灌木、樹冠、開放的天空，以及相同的攝影機軸地理從 P01 日光到虛空再到最終綠色日光恢復保持一致。
+風格鎖定：米白色紙張上的乾淨單色草圖分鏡，淺灰色石墨線條，簡化的解剖結構，乾燥森林輪廓，僅在分鏡圖稿外的表格設計中有克制的深藍色與冷白色點綴，無渲染的分鏡顏色或完成的概念藝術陰影。
+效果鎖定：在分鏡內，NOX 是簡單的灰黑色虛空質量且缺乏地平線；LUMOS 和 Poi 軌跡是簡單的單色明亮形狀；最終影片風格為風格化的 3D 動畫奇幻，帶有藍白色法杖光球、長曝光 Poi 絲帶、蝴蝶迴圈、無限隧道、地面環、光環籠、氣旋頂峰、天鵝絨般黑色無光虛空、眼睛閃光、摧毀生物的強烈白色閃光以及綠色日間恢復。
+環境鎖定：乾燥空曠的空地中心、龜裂大地、脆草、樹幹環、灌木、樹冠、開放天空缺口，且從 P01 日間到虛空再到最終綠色日間恢復，相同的攝影機軸地理保持一致。
 
 [空間連續性鎖定]
-P01、P02、P08、P10、P11、P13、P14、P15、P16、P17 和 P18 共享相同的空地佈局。P01 沒有可見生物。C1 保持在中心附近，樹幹環保持在空地周圍，灌木保持下方的個別生物切入，樹冠保持上方的個別生物切入，開放的天空位於 C1 上方。允許的變更包括攝影機距離、C1 姿勢、法杖角度、光線狀態、虛空強度、每個爆發剪輯一個生物、軌跡幾何、奇觀規模、生物抹除以及最終的綠色日光恢復。P18 是恢復綠色的同一空地，而非新地點。
+P01、P02、P08、P10、P11、P13、P14、P15、P16、P17 和 P18 共享相同的空地佈局。P01 沒有可見生物。C1 保持在中心附近，樹幹環保持在空地周圍，灌木容納下方的個別生物切入，樹冠容納上方的個別生物切入，開放天空缺口位於 C1 上方。允許的變化包括攝影機距離、C1 姿勢、法杖角度、光線狀態、虛空強度、每個爆發剪輯一個生物、軌跡幾何、奇觀規模、生物擦除以及最終綠色日間恢復。P18 是恢復綠色的同一空地，而非新地點。
 
 [導演條]
-底部動畫軌道板與分鏡列對齊。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用鏡頭晶片、細線、節奏塊、小強度條、一到三個字的標籤。無秒數或時間戳。
-節奏軌道格式：`RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`。
-升級地圖格式：`ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`。
-分鏡標頭：P01 / 24mm 廣角 / 空曠 NOX 打擊 -> P02 / 50mm MCU / LUMOS 引誘 -> P03 / 85mm 緊湊 / 有角眼睛 -> P04 / 微距插入 / 葉子瞳孔 -> P05 / 低位 35mm / 長臂傾身 -> P06 / 微距插入 / 地面腳步 -> P07 / 85mm 緊湊 / 樹皮臉覺醒 -> P08 / 35mm 軌道 / 第一個 Poi 弧線 -> P09 / 85mm 緊湊 / 有角追蹤 -> P10 / 微距插入 / 葉子跟隨 -> P11 / 85mm 緊湊 / 長臂瞳孔 -> P12 / 微距插入 / 眼球追逐 -> P13 / 低位 50mm / 爬行者跟隨 -> P14 / 85mm 緊湊 / 樹皮光環 -> P15 / 長焦 / 鹿角恍惚 -> P16 / 微距爆發 / 毀滅鏈 -> P17 / 低位 24mm / 抹除掃描 -> P18 / 24mm 廣角 / 綠色森林
-攝影機 + 鏡頭計畫：P01 廣角大師至打擊 -> P02 推向發光臉部然後小圓圈 -> P03 緊湊有角爆發 -> P04 微距葉子眼睛爆發 -> P05 低位樹枝爆發 -> P06 微距腳步暫停 -> P07 緊湊樹皮臉爆發 -> P08 軌道開始 -> P09 緊湊有角眼睛追蹤 -> P10 微距葉子眼睛追蹤 -> P11 緊湊長臂瞳孔 -> P12 微距眼睛追蹤爆發 -> P13 低位爬行者與地面圓環 -> P14 緊湊樹皮臉光環轉向 -> P15 長焦鹿角恍惚 -> P16 微距單一臉部爆發鏈 -> P17 低位最終弧線 -> P18 同軸廣角重置
-動作路徑：P01 C1 獨自打擊法杖，日光崩潰 -> P02 LUMOS 照亮臉部與地面圓圈作為誘餌 -> P03 有角眼睛滑向光球 -> P04 葉精靈瞳孔捕捉閃光 -> P05 長臂觀察者從樹枝傾身 -> P06 一個地面腳步在光線附近凍結 -> P07 樹皮臉在樹幹中睜眼 -> P08 C1 開始法杖軌道 -> P09 有角觀察者追蹤 8 字形 -> P10 葉精靈跟隨蝴蝶迴圈 -> P11 長臂瞳孔追逐無限大掃描 -> P12 一個瞳孔滑向軌跡方向 -> P13 地面爬行者低頭跟隨圓環 -> P14 樹皮臉隨光環軌道轉向 -> P15 鹿角觀察者向氣旋搖擺 -> P16 一個接一個的臉部被閃光捕捉 -> P17 法杖掃描摧毀生物 -> P18 C1 放下法杖，綠色森林空曠
-節奏軌道：P01 RHY P01: impact / short block / smash beat -> P02 RHY P02: slow reveal / short block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / clean beat -> P05 RHY P05: burst / short block / clean beat -> P06 RHY P06: burst / short block / whip beat -> P07 RHY P07: burst / short block / smash beat -> P08 RHY P08: build / medium block / match beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: burst / short block / held beat -> P11 RHY P11: burst / short block / match beat -> P12 RHY P12: burst / short block / smash beat -> P13 RHY P13: impact / medium block / held beat -> P14 RHY P14: burst / short block / match beat -> P15 RHY P15: impact / short block / held beat -> P16 RHY P16: burst / short block / whip beat -> P17 RHY P17: final hit / short block / smash beat -> P18 RHY P18: recover / medium block / held beat
-升級地圖：P01 ESC P01: L5 peak / spike -> P02 ESC P02: L3 rise / rise -> P03 ESC P03: L4 surge / spike -> P04 ESC P04: L4 surge / spike -> P05 ESC P05: L4 surge / spike -> P06 ESC P06: L4 surge / spike -> P07 ESC P07: L5 peak / spike -> P08 ESC P08: L4 surge / rise -> P09 ESC P09: L4 surge / rise -> P10 ESC P10: L5 peak / spike -> P11 ESC P11: L5 peak / rise -> P12 ESC P12: L5 peak / spike -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / unresolved -> P15 ESC P15: L5 peak / unresolved -> P16 ESC P16: L5 peak / spike -> P17 ESC P17: L5 peak / spike -> P18 ESC P18: L1 calm / release
-狀態軌道：P01 空曠乾燥森林，法杖打擊 -> P02 小型光球誘餌，臉部圓圈 -> P03 有角眼睛 -> P04 葉子瞳孔 -> P05 樹枝觀察者 -> P06 單一腳步 -> P07 樹皮眼睛 -> P08 第一個軌道 -> P09 有角跟隨 -> P10 葉子跟隨 -> P11 長臂瞳孔 -> P12 眼球追逐 -> P13 爬行者跟隨 -> P14 樹皮轉向 -> P15 鹿角恍惚 -> P16 毀滅臉部 -> P17 閃光抹除 -> P18 綠色白天，無生物
-風格軌道：P01 乾燥空曠瞬間 -> P02 藍白色誘餌 -> P03 有角閃光 -> P04 葉子眼睛 -> P05 樹枝輪廓 -> P06 腳步插入 -> P07 樹皮臉 -> P08 Poi 弧線 -> P09 有角凝視 -> P10 葉子凝視 -> P11 瞳孔隧道 -> P12 眼球爆發 -> P13 圓環爬行者 -> P14 光環凝視 -> P15 鹿角恍惚 -> P16 毀滅閃光 -> P17 白色閃光 -> P18 綠色平靜
+底部動畫軌道板與分鏡列對齊。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級圖、狀態軌道、風格軌道。使用鏡頭晶片、細線、節奏塊、小強度條、一到三個字的標籤。無秒數或時間戳。
+節奏軌道格式：`RHY P##: [保持|緩慢揭示|建立|爆發|衝擊|暫停|恢復|最後一擊] / [短塊|中塊|長塊] / [乾淨節拍|匹配節拍|粉碎節拍|保持節拍|鞭打節拍]`。
+升級圖格式：`ESC P##: [L1 平靜|L2 緊張|L3 上升|L4 湧動|L5 頂峰] / [平坦|上升|尖峰|下降|釋放|未解決]`。
+分鏡標頭：P01 / 24mm 廣角 / 空曠 NOX 揮擊 -> P02 / 50mm MCU / LUMOS 引誘 -> P03 / 85mm 特寫 / 有角眼睛 -> P04 / 微距插入 / 葉子瞳孔 -> P05 / 低角度 35mm / 長臂傾身 -> P06 / 微距插入 / 地面腳步 -> P07 / 85mm 特寫 / 樹皮臉覺醒 -> P08 / 35mm 軌道 / 第一個 Poi 弧線 -> P09 / 85mm 特寫 / 有角追蹤 -> P10 / 微距插入 / 葉子跟隨 -> P11 / 85mm 特寫 / 長臂瞳孔 -> P12 / 微距插入 / 眼睛追逐 -> P13 / 低角度 50mm / 爬行者跟隨 -> P14 / 85mm 特寫 / 樹皮光環 -> P15 / 長焦 / 鹿角恍惚 -> P16 / 微距爆發 / 毀滅鏈 -> P17 / 低角度 24mm / 擦除掃描 -> P18 / 24mm 廣角 / 綠色森林
+攝影機 + 鏡頭計畫：P01 廣角主鏡頭至衝擊 -> P02 推向發光臉部然後小圓圈 -> P03 特寫有角爆發 -> P04 微距葉子眼睛爆發 -> P05 低角度樹枝爆發 -> P06 微距腳步暫停 -> P07 特寫樹皮臉爆發 -> P08 軌道開始 -> P09 特寫有角眼睛跟隨 -> P10 微距葉子眼睛跟隨 -> P11 特寫長臂瞳孔 -> P12 微距眼睛跟隨爆發 -> P13 低角度爬行者與地面環 -> P14 特寫樹皮臉光環轉動 -> P15 長焦鹿角恍惚 -> P16 微距單臉爆發鏈 -> P17 低角度最後弧線 -> P18 同軸廣角重置
+動作路徑：P01 C1 獨自揮擊法杖，日間崩塌 -> P02 LUMOS 照亮臉部與地面圓圈作為誘餌 -> P03 有角眼睛滑向光球 -> P04 葉精靈瞳孔捕捉閃光 -> P05 長臂觀察者從樹枝傾身 -> P06 一個地面腳步在光線附近凍結 -> P07 樹皮臉眼睛在樹幹中睜開 -> P08 C1 開始法杖軌道 -> P09 有角觀察者追蹤 8 字形 -> P10 葉精靈跟隨蝴蝶迴圈 -> P11 長臂瞳孔追逐無限大掃描 -> P12 一個瞳孔滑向軌跡方向 -> P13 地面爬行者低頭跟隨圓環 -> P14 樹皮臉隨光環軌道轉動 -> P15 鹿角觀察者搖擺向氣旋 -> P16 一張臉接著一張臉被閃光捕捉 -> P17 法杖掃描摧毀生物 -> P18 C1 放下法杖，綠色森林空曠
+節奏軌道：P01 RHY P01: 衝擊 / 短塊 / 粉碎節拍 -> P02 RHY P02: 緩慢揭示 / 短塊 / 乾淨節拍 -> P03 RHY P03: 爆發 / 短塊 / 粉碎節拍 -> P04 RHY P04: 爆發 / 短塊 / 乾淨節拍 -> P05 RHY P05: 爆發 / 短塊 / 乾淨節拍 -> P06 RHY P06: 爆發 / 短塊 / 鞭打節拍 -> P07 RHY P07: 爆發 / 短塊 / 粉碎節拍 -> P08 RHY P08: 建立 / 中塊 / 匹配節拍 -> P09 RHY P09: 建立 / 中塊 / 匹配節拍 -> P10 RHY P10: 爆發 / 短塊 / 保持節拍 -> P11 RHY P11: 爆發 / 短塊 / 匹配節拍 -> P12 RHY P12: 爆發 / 短塊 / 粉碎節拍 -> P13 RHY P13: 衝擊 / 中塊 / 保持節拍 -> P14 RHY P14: 爆發 / 短塊 / 匹配節拍 -> P15 RHY P15: 衝擊 / 短塊 / 保持節拍 -> P16 RHY P16: 爆發 / 短塊 / 鞭打節拍 -> P17 RHY P17: 最後一擊 / 短塊 / 粉碎節拍 -> P18 RHY P18: 恢復 / 中塊 / 保持節拍
+升級圖：P01 ESC P01: L5 頂峰 / 尖峰 -> P02 ESC P02: L3 上升 / 上升 -> P03 ESC P03: L4 湧動 / 尖峰 -> P04 ESC P04: L4 湧動 / 尖峰 -> P05 ESC P05: L4 湧動 / 尖峰 -> P06 ESC P06: L4 湧動 / 尖峰 -> P07 ESC P07: L5 頂峰 / 尖峰 -> P08 ESC P08: L4 湧動 / 上升 -> P09 ESC P09: L4 湧動 / 上升 -> P10 ESC P10: L5 頂峰 / 尖峰 -> P11 ESC P11: L5 頂峰 / 上升 -> P12 ESC P12: L5 頂峰 / 尖峰 -> P13 ESC P13: L5 頂峰 / 尖峰 -> P14 ESC P14: L5 頂峰 / 未解決 -> P15 ESC P15: L5 頂峰 / 未解決 -> P16 ESC P16: L5 頂峰 / 尖峰 -> P17 ESC P17: L5 頂峰 / 尖峰 -> P18 ESC P18: L1 平靜 / 釋放
+狀態軌道：P01 空曠乾燥森林，法杖衝擊 -> P02 小型光球誘餌，臉部圓圈 -> P03 有角眼睛 -> P04 葉子瞳孔 -> P05 樹枝觀察者 -> P06 單一腳步 -> P07 樹皮眼睛 -> P08 第一個軌道 -> P09 有角跟隨 -> P10 葉子跟隨 -> P11 長臂瞳孔 -> P12 眼睛追逐 -> P13 爬行者跟隨 -> P14 樹皮轉動 -> P15 鹿角恍惚 -> P16 毀滅臉龐 -> P17 閃光擦除 -> P18 綠色日間，無生物
+風格軌道：P01 乾燥空曠瞬間 -> P02 藍白色誘餌 -> P03 有角閃光 -> P04 葉子眼睛 -> P05 樹枝輪廓 -> P06 腳步插入 -> P07 樹皮臉 -> P08 Poi 弧線 -> P09 有角凝視 -> P10 葉子凝視 -> P11 瞳孔隧道 -> P12 眼睛爆發 -> P13 環形爬行者 -> P14 光環凝視 -> P15 鹿角恍惚 -> P16 毀滅閃光 -> P17 白色閃光 -> P18 綠色平靜
 
 [序列]
-網格：3x6 緊湊的快速分鏡腳本表中的 18 個分鏡；硬切序列，具有空曠的第一幀地理、個別引誘剪輯、Poi 流動連續性、最終摧毀生物的閃光以及綠色森林重置。
+網格：18 個分鏡，位於緊湊的 3x6 快速節奏分鏡腳本頁中；硬切序列，具有空曠的第一幀地理、個別引誘切入、Poi 流動連續性、最終摧毀生物的閃光以及綠色森林重置。
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用 @[storyboard ref] 作為該序列經導演批准的權威分鏡腳本藍圖。將每個分鏡腳本面板視為單一電影序列中的連續鏡頭。嚴格遵循面板順序，不要發明替代鏡頭。不要渲染分鏡腳本表本身。保留分鏡腳本中顯示的攝影機位置、構圖、鏡頭意圖、鏡頭規模、角色調度、螢幕方向、環境地理、道具放置、動作編排、連續性和情感升級。分鏡腳本是視覺敘事的首要真理來源。重現面板所暗示的拍攝序列，而不是物理分鏡腳本藝術品。
-使用 @[character ref] 作為 C1 光之法師角色的權威參考。
+使用 @[storyboard ref] 作為該序列導演批准的權威分鏡腳本藍圖。將每個分鏡腳本面板視為單一電影序列中的連續鏡頭。嚴格遵循分鏡順序，不要發明替代覆蓋。不要渲染分鏡腳本頁本身。保留分鏡腳本顯示的攝影機位置、構圖、鏡頭意圖、鏡頭規模、角色調度、螢幕方向、環境地理、道具放置、動作編排、連續性和情感升級。分鏡腳本是視覺敘事的首要真理來源。重現面板所暗示的拍攝序列，而非物理分鏡腳本藝術。
+使用 @[character ref] 作為權威的 C1 光之法師角色參考。
 
-環境：乾燥森林空地、龜裂土壤、灌木、樹枝、開放天空。P01 沒有生物。NOX 將日光變為虛空；LUMOS 是誘餌，在個別爆發剪輯中引誘生物。在毀滅性閃光後，同一森林恢復綠色。
-情感引導：效價：平靜命令到怪異引誘再到乾淨釋放。喚醒：峰值、個別顯現、宏偉的 Poi 升級、透過 C1 的靜止進行破壞性的白色重置、追蹤軌跡的瞳孔、逐一轉頭。
-視覺風格：風格化的 3D 動畫奇幻、雕塑形式、乾淨輪廓、柔和陰影、乾燥到綠色的森林轉變、黑色虛空、藍白色法杖光球、長曝光 Poi 絲帶、蝴蝶迴圈、無限大掃描、地面圓環、光環軌道、氣旋、單一生物輪廓、催眠的眼部閃光、強烈的毀滅閃光。
-音訊：無背景音樂或配樂。僅使用 diegetic 環境音、擬音、衝擊聲、質感和寂靜。
+環境：乾燥森林空地、龜裂土壤、灌木、樹枝、開放天空。P01 沒有生物。NOX 將日間瞬間變為虛空；LUMOS 是誘餌，在個別爆發剪輯中引誘生物。毀滅閃光後，同一森林恢復綠色。
+情感指導：價位：平靜命令到怪異引誘到乾淨釋放。喚醒：尖峰、個別揭示、宏大 Poi 升級、透過 C1 的靜止、瞳孔追逐軌跡、一對一轉頭進行破壞性的白色重置。
+視覺風格：風格化 3D 動畫奇幻、雕塑形式、乾淨輪廓、柔和陰影、乾枯到綠色森林轉變、黑色虛空、藍白色法杖光球、長曝光 Poi 絲帶、蝴蝶迴圈、無限掃描、地面環、光環軌道、氣旋、單一生物輪廓、催眠眼睛閃光、強烈毀滅閃光。
+音訊：無背景音樂或配樂。僅使用現場環境音、擬音、衝擊、紋理和靜音。
 
 分鏡節拍：
-P01：廣角大師；C1 獨自在空曠乾燥的空地上打擊地面，日光崩潰為黑色。
+P01：廣角主鏡頭；C1 獨自在空曠乾燥空地揮擊地面，日間崩塌為黑色。
 P02：MCU 虛空；LUMOS 照亮 C1 的臉部和一個小型誘餌圓圈。
-P03：緊湊爆發；一個有角輪廓轉向，眼睛滑向光球。
-P04：微距爆發；一個葉精靈瞳孔捕捉到藍白色閃光。
-P05：低位樹枝爆發；一個長臂觀察者從樹枝傾身。
+P03：爆發特寫；一個有角輪廓轉動，眼睛滑向光球。
+P04：爆發微距；一個葉精靈瞳孔捕捉到藍白色閃光。
+P05：低角度樹枝爆發；一個長臂觀察者從樹枝傾身。
 P06：微距插入；一個地面爬行者腳步在光線附近凍結。
-P07：緊湊爆發；一個樹皮臉在樹幹中睜開眼睛。
-P08：軌道開始；法杖畫出第一個藍白色弧線。
-P09：緊湊爆發；有角觀察者追蹤 8 字形。
-P10：微距爆發；葉精靈跟隨蝴蝶迴圈向上。
-P11：緊湊剪輯；長臂觀察者瞳孔追逐無限大掃描。
+P07：特寫爆發；一個樹皮臉在樹幹中睜開眼睛。
+P08：軌道開始；法杖繪製第一個藍白色弧線。
+P09：爆發特寫；有角觀察者追蹤 8 字形。
+P10：爆發微距；葉精靈跟隨蝴蝶迴圈向上。
+P11：特寫剪輯；長臂觀察者瞳孔追逐無限大掃描。
 P12：微距爆發；一個瞳孔滑向軌跡方向。
-P13：低位爆發；地面爬行者低頭跟隨地面圓環。
-P14：緊湊爆發；樹皮臉隨光環軌道轉向。
-P15：長焦爆發；一個鹿角陰影向氣旋搖擺。
-P16：快速單一臉部鏈；不同的眼睛鎖定旋轉的光線，然後一個接一個地發出白色強光。
-P17：低位最終弧線；頭頂掃描成為毀滅性的白色閃光，抹除每個生物。
-P18：綠色日光回歸；葉子復甦，鳥兒回歸，無生物殘留，C1 放下法杖。
+P13：低角度爆發；地面爬行者低頭跟隨地面圓環。
+P14：特寫爆發；樹皮臉隨光環軌道轉動。
+P15：長焦爆發；一個鹿角陰影搖擺向氣旋。
+P16：快速單臉鏈；不同的眼睛鎖定旋轉的光線，然後一張接一張地閃爍白色。
+P17：低角度最後弧線；頭頂掃描變為毀滅性的白色閃光，擦除每個生物。
+P18：綠色日間回歸；葉子復甦，鳥兒回歸，無生物殘留，C1 放下法杖。
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -369,111 +369,111 @@ P18：綠色日光回歸；葉子復甦，鳥兒回歸，無生物殘留，C1 �
 
 ---
 
-### 7. 森林光劍 Poi 儀式分鏡腳本
+### 7. Forest Saber Poi Ritual Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="森林光劍 Poi 儀式分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Forest Saber Poi Ritual Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-建立一個 16:9 的影像。
+Create a 16:9 image.
 
-[專案卡]
-建立一個緊湊設計的頁首，而非表格。
-標題：森林光劍 POI 儀式
-元數據行：夜間 / 科幻流動藝術表演 / 密集的 15 秒爆發式剪輯
-優先級：單光劍 poi 編舞、真實微剪輯爆發、清晰的湖泊能量回饋
-簡短摘要：C1 將單一能量光劍轉化為火 poi 風格的光影表演，將完整的儀式舞蹈壓縮成 15 秒的快速森林序列。
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: FOREST SABER POI RITUAL
+META LINE: nocturnal / sci-fi flow-art performance / dense 15-second burst-cut edit
+PRIORITY: single-saber poi choreography, real micro-cut bursts, readable lake-energy payoff
+MICRO BRIEF: C1 turns a lone energy saber into a fire-poi style light performance, compressing a full ritual dance into a fast 15-second forest sequence.
 
-[連續性標頭]
-序列 ID：FOREST-SABER-POI-RITUAL-20P
-參考優先級：第一張提供的影像控制 C1 的臉部、身體、服裝、比例、輪廓、頭髮和態度；第二張提供的影像控制夜間森林基底、停放的白色飛行器、樹幹、水邊、實用燈光和反射表面。此分鏡腳本控制舞台調度、動作、地理位置、連續性、剪輯節奏和特效邏輯。
+[CONTINUITY HEADER]
+SEQUENCE ID: FOREST-SABER-POI-RITUAL-20P
+REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, and attitude; second provided image controls night forest base, grounded white craft, trunks, water edge, practical lights, and reflective surfaces. This storyboard controls staging, motion, geography, continuity, cut rhythm, and effect logic.
 
-[場景包]
-前提：C1 執行類似火 poi 的單光劍流動藝術儀式，融合絕地風格的形式、街舞步法和武術精準度，直到空地變成一場燈光秀。
-地點：深夜森林空地、高大的樹幹、螢幕右側停放的白色救援飛行器、後方的坡道和箱子、前景的淺湖、中左側的濕岸、溫暖的工作燈、深色的植被側牆、通往水線的開放練習道。
-開始 -> 結束：C1 在練習道上冷靜站立，光劍下垂 -> 在兩個爆發式剪輯動作短語後，她跳向岸邊，將光劍插入水線，蒼白的能量環在湖面上擴散。
-動作鏈：點火儀式 -> 微剪輯手腕/靴子/刀刃爆發 -> 8 字編織 -> 蝴蝶旋轉 -> 背後軌道 -> 身體纏繞幻覺 -> 臉部附近刀刃掠過 -> 水面反射爆發 -> 屏息 -> 跳躍 -> 岸邊刺入 -> 湖泊電流釋放。
-道具/特效狀態：僅有一把蒼白色的能量光劍；光劍在最後刺入前保持在 C1 手中；軌跡像她身體周圍的長曝光 poi 絲帶，然後平鋪成橫跨湖面的乾淨能量環；無火花、無爆炸、無損壞。
-必讀：這不是戰鬥演習；這是一場單光劍 poi 表演，每一次切割都揭示了連續光影舞蹈短語的另一個片段。
+[SCENE PACKET]
+PREMISE: C1 performs a single-saber flow-art ritual like fire poi, mixing Jedi-inspired forms, street-dance footwork, and martial precision until the clearing becomes a light show.
+LOCATION: Deep night forest clearing, tall trunks, grounded white rescue craft screen right, rear ramp and cases behind, shallow lake foreground, wet shore at center-left, warm work lights, dark foliage side walls, open practice lane leading to the waterline.
+START -> END: C1 stands calm in the practice lane with saber lowered -> after two burst-cut movement phrases, she jumps to the shore, plants the saber at the waterline, and pale energy rings spread across the lake.
+ACTION CHAIN: ignition ritual -> micro-cut wrist/boot/blade burst -> figure-eight weave -> butterfly spin -> behind-back orbit -> body-wrap illusion -> blade pass near face -> water-reflection burst -> suspended breath -> leap -> shore stab -> lake-current release.
+PROP / EFFECT STATE: One pale white energy saber only; saber stays in C1 hand until final stab; trails behave like long-exposure poi ribbons around her body, then flatten into clean energy rings across the lake; no sparks, no explosion, no damage.
+MUST READ: This is not a combat drill; it is a single-saber poi performance where every cut reveals another fragment of one continuous light-dance phrase.
 
-[角色淨化]
-C1：年輕成年女性，短亂金髮，緊湊的運動輪廓，包裹式上衣外罩白色斗篷式披肩，米色懸掛腰帶，深色寬鬆短褲，靴子，露指手套，腰帶裝備，單把蒼白能量光劍，流動藝術家姿勢，銳利的步法，受控的強烈專注。
-移除矛盾特徵、隱形心理、過多的服裝細節以及無法出現在面板中的背景故事。
+[CHARACTER SANITIZATION]
+C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single pale energy saber, flow-artist posture, sharp footwork, controlled fierce focus.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
 
-[身份一致性]
-提供的角色參考控制 C1 的臉部、身體、服裝、比例、頭髮和輪廓；分鏡腳本僅控制舞台調度。保持 C1 的白色披肩、米色腰帶、深色褲子、靴子、手套、腰帶、單光劍和螢幕方向一致。不要重新設計、改變年齡、美化、合併、複製或添加第二把光劍。
+[IDENTITY CONSISTENCY]
+Provided character reference controls C1 face, body, wardrobe, proportions, hair, and silhouette; storyboard controls staging only. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, single saber, and screen direction consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add a second saber.
 
-[分鏡腳本純度]
-面板影像僅為視覺上的低細節單色淺灰色粗略草圖。將面板編號、節拍名稱和鏡頭標籤放在面板影像外部的標頭條中。面板內不得有顏色、標籤、箭頭、標題、標誌、浮水印、時間標記、圖表、UI、幽靈姿勢、重複身體或技術疊加。
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
 
-[主鏡頭規則]
-P01 顯示完整的可玩地理位置：C1 中左側練習道、湖泊前景、螢幕右側飛行器、後方坡道/箱子、背景高大樹幹、側邊植被邊緣，以及從練習道到水線的穩定移動方向。
+[MASTER SHOT RULE]
+P01 shows full playable geography: C1 center-left practice lane, lake foreground, craft screen right, ramp/cases behind, tall trunks background, foliage side edges, and stable travel direction from lane to waterline.
 
-[情感弧線]
-靜止專注 -> 點火充能 -> 俏皮的流動控制 -> 分段微剪輯強度 -> 屏息精準度 -> 空中決策 -> 水線衝擊 -> 安靜的敬畏，透過姿勢、手部張力、刀刃距離、步法、斗篷升起和最終的靜止來展現。
+[EMOTIONAL ARC]
+Still focus -> ignition charge -> playful flow control -> fragmented micro-cut intensity -> breath-held precision -> airborne decision -> waterline impact -> quiet awe, shown through stance, hand tension, blade proximity, footwork, cloak lift, and final stillness.
 
-[風格鎖定]
-風格鎖定：米白色紙張上的乾淨單色粗略草圖分鏡面板，淺灰色手勢線條，簡化的森林/飛行器/水形狀，面板藝術外僅有受限的琥珀色和蒼藍色強調，清晰的電影級層次結構，無渲染的面板照明。
-特效鎖定：面板內，光劍軌跡和湖面漣漪僅為簡單的單色明亮形狀；最終影片特效為蒼白色光劍光暈、長曝光絲帶軌跡、緊湊的 poi 迴圈、穿過鏡頭的刀刃閃光、水面反射和扁平擴張的湖泊能量環。
-環境鎖定：高大的垂直樹幹、螢幕右側停放的白色飛行器、後方坡道、箱子、前景淺湖、中左側濕岸、茂密的植被口袋、溫暖的實用工作燈；在所有廣角鏡頭中保持相同的空地和飛行器佈局。
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water shapes, restrained amber and pale-blue accent only outside panel art, crisp cinematic hierarchy, no rendered panel lighting.
+EFFECT LOCK: inside panels, saber trails and lake ripples are simple monochrome bright shapes only; final video effect is pale white saber bloom, long-exposure ribbon trails, tight poi loops, blade-through-lens flashes, water reflections, and flat expanding lake-energy rings.
+ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, rear ramp, cases, shallow lake foreground, wet shore center-left, dense foliage pockets, warm practical work lights; preserve the same clearing and craft layout across all wide views.
 
-[空間連續性鎖定]
-P01、P09、P14、P17、P18、P19 和 P20 共享相同的空地佈局。C1 從中左側練習道開始，到 P17 向前景水線移動，在 P19 將光劍插入濕岸，並在 P20 拉遠時保持在那裡。飛行器保持在螢幕右側，水在前景，樹幹在垂直背景，箱子/坡道在後方。允許的變化是攝影機距離、C1 姿勢、光劍角度、斗篷運動、軌跡密度、反射狀態和湖泊電流擴散。P20 是相同位置但距離更遠，不是新的建立鏡頭。
+[SPATIAL CONTINUITY LOCK]
+P01, P09, P14, P17, P18, P19, and P20 share the same clearing layout. C1 starts in the center-left practice lane, travels toward the foreground waterline by P17, plants the saber at the wet shore in P19, and remains there as P20 pulls wide. Craft stays screen right, water foreground, trunks vertical background, cases/ramp behind. Allowed changes are camera distance, C1 pose, saber angle, cloak motion, trail density, reflection state, and lake-current spread. P20 is the same location with more distance, not a new establishing shot.
 
-[導演條]
-對齊面板列的底部動畫軌道板。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用鏡頭晶片、細線、節奏塊、小強度條、一到三個字的標籤。沒有秒數或時間戳。
-節奏軌道格式：`RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`。
-升級地圖格式：`ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`。
-面板標頭：P01 / 24mm 廣角 / 儀式大師 -> P02 / 50mm 側面 / 光劍點火 -> P03 / 低角度 35mm / 首次編織 -> P04 / 微距插入 / 手腕彈動 -> P05 / 低角度 24mm / 靴子滑動 -> P06 / 35mm 碰撞 / 刀刃掠過 -> P07 / 85mm 特寫 / 眼睛閃光 -> P08 / 35mm 鞭打 / 斗篷鞭打 -> P09 / 24mm 廣角 / 爆發解析 -> P10 / 俯視 24mm / 蝴蝶旋轉 -> P11 / 35mm 側面 / 背後軌道 -> P12 / 微距插入 / 劍柄隔離 -> P13 / 50mm 反射 / 水面軌跡 -> P14 / 24mm 軌道 / 身體纏繞光環 -> P15 / 85mm 肖像 / 屏息 -> P16 / 35mm 爆發 / 臉部掠過 -> P17 / 35mm 鞭打 / 湖面跳躍 -> P18 / 低角度 24mm / 空中下降 -> P19 / 低角度 24mm / 岸邊刺入 -> P20 / 搖臂廣角 / 湖泊電流
-攝影機 + 鏡頭計畫：P01 廣角保持 -> P02 側面推近 -> P03 低角度側面建立 -> P04 微距剪輯 -> P05 低角度爆發 -> P06 碰撞鏡頭掠過 -> P07 特寫爆發 -> P08 鞭打剪輯 -> P09 廣角解析 -> P10 俯視保持 -> P11 側面跟蹤 -> P12 微距隔離 -> P13 反射插入 -> P14 軌道保持 -> P15 肖像暫停 -> P16 爆發特寫 -> P17 鞭打至水線 -> P18 低角度上升捕捉 -> P19 低角度衝擊 -> P20 搖臂最終保持
-動作路徑：P01 C1 置中，光劍下垂 -> P02 光劍點火 -> P03 8 字編織開始 -> P04 手腕滾動劍柄 -> P05 靴子在濕地上滑動 -> P06 刀刃在鏡頭幾英吋處掠過 -> P07 眼睛捕捉白色閃光 -> P08 斗篷穿過軌跡 -> P09 爆發解析為全身 -> P10 肩膀上方蝴蝶旋轉 -> P11 背後軌道 -> P12 單手隔離 -> P13 軌跡在水中反射 -> P14 軀幹周圍身體纏繞光環 -> P15 屏息 -> P16 刀刃在臉部附近掠過 -> P17 向湖面跳躍 -> P18 空中下降，光劍點向下 -> P19 光劍插入岸邊 -> P20 能量環在湖面擴散
-節奏軌道：P01 RHY P01: hold / long block / held beat -> P02 RHY P02: slow reveal / medium block / clean beat -> P03 RHY P03: build / medium block / match beat -> P04 RHY P04: burst / short block / smash beat -> P05 RHY P05: burst / short block / whip beat -> P06 RHY P06: burst / short block / smash beat -> P07 RHY P07: burst / short block / clean beat -> P08 RHY P08: burst / short block / whip beat -> P09 RHY P09: impact / medium block / held beat -> P10 RHY P10: build / medium block / match beat -> P11 RHY P11: build / medium block / clean beat -> P12 RHY P12: burst / short block / clean beat -> P13 RHY P13: pause / medium block / held beat -> P14 RHY P14: impact / medium block / match beat -> P15 RHY P15: pause / medium block / clean beat -> P16 RHY P16: burst / short block / smash beat -> P17 RHY P17: burst / short block / whip beat -> P18 RHY P18: build / short block / held beat -> P19 RHY P19: impact / medium block / smash beat -> P20 RHY P20: final hit / long block / held beat
-升級地圖：P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L3 rise / rise -> P04 ESC P04: L4 surge / spike -> P05 ESC P05: L4 surge / spike -> P06 ESC P06: L5 peak / spike -> P07 ESC P07: L4 surge / spike -> P08 ESC P08: L4 surge / spike -> P09 ESC P09: L3 rise / drop -> P10 ESC P10: L4 surge / rise -> P11 ESC P11: L4 surge / rise -> P12 ESC P12: L4 surge / spike -> P13 ESC P13: L3 rise / drop -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L2 tension / drop -> P16 ESC P16: L5 peak / spike -> P17 ESC P17: L5 peak / spike -> P18 ESC P18: L4 surge / rise -> P19 ESC P19: L5 peak / spike -> P20 ESC P20: L3 rise / release
-狀態軌道：P01 刀刃關閉，飛行器右側，湖泊前景 -> P02 刀刃開啟 -> P03 8 字軌跡 -> P04 手腕關閉，單光劍 -> P05 濕地滑動 -> P06 鏡頭閃光 -> P07 眼睛閃光 -> P08 斗篷軌跡 -> P09 全身，練習道中心 -> P10 蝴蝶迴圈 -> P11 背後軌道 -> P12 劍柄隔離 -> P13 水面反射 -> P14 身體光環 -> P15 刀刃靠近臉部 -> P16 臉部掠過 -> P17 空中飛向湖泊 -> P18 點向下 -> P19 刀刃插入岸邊 -> P20 環擴張，C1 握住劍柄
-風格軌道：P01 灰色草圖/琥珀色晶片 -> P02 蒼白光暈 -> P03 poi 絲帶 -> P04 爆發晶片 -> P05 濕地條紋 -> P06 鏡頭閃光 -> P07 特寫閃光 -> P08 斗篷條紋 -> P09 全軌跡 -> P10 迴圈幾何 -> P11 軌道線 -> P12 隔離線 -> P13 反射 -> P14 光環纏繞 -> P15 安靜肖像 -> P16 明亮掠過 -> P17 跳躍條紋 -> P18 下降線 -> P19 衝擊光芒 -> P20 漣漪結尾
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Ritual master -> P02 / 50mm profile / Saber ignite -> P03 / low 35mm / First weave -> P04 / macro insert / Wrist snap -> P05 / low 24mm / Boot skid -> P06 / 35mm crash / Blade pass -> P07 / 85mm tight / Eye flash -> P08 / 35mm whip / Cloak whip -> P09 / 24mm wide / Burst resolves -> P10 / overhead 24mm / Butterfly spin -> P11 / 35mm side / Behind-back orbit -> P12 / macro insert / Hilt isolation -> P13 / 50mm reflection / Water trail -> P14 / 24mm orbit / Body-wrap halo -> P15 / 85mm portrait / Breath hold -> P16 / 35mm burst / Face pass -> P17 / 35mm whip / Lake leap -> P18 / low 24mm / Airborne descent -> P19 / low 24mm / Shore stab -> P20 / crane wide / Lake current
+CAMERA + LENS PLAN: P01 wide hold -> P02 profile push -> P03 low side build -> P04 macro cut -> P05 low burst -> P06 crash lens pass -> P07 tight burst -> P08 whip cut -> P09 wide resolve -> P10 overhead hold -> P11 side track -> P12 macro isolation -> P13 reflection insert -> P14 orbit hold -> P15 portrait pause -> P16 burst close -> P17 whip to waterline -> P18 low rising catch -> P19 low impact -> P20 crane final hold
+ACTION PATH: P01 C1 centered, saber low -> P02 saber ignites -> P03 figure-eight weave starts -> P04 wrist rolls hilt -> P05 boot skids wet ground -> P06 blade passes inches from lens -> P07 eye catches white flash -> P08 cloak snaps through trail -> P09 burst resolves into full body -> P10 butterfly spin above shoulders -> P11 behind-back orbit -> P12 one-handed isolation -> P13 trail reflects in water -> P14 body-wrap halo around torso -> P15 breath freeze -> P16 blade passes near face -> P17 leap toward lake -> P18 airborne descent, saber point down -> P19 saber plants at shore -> P20 energy rings spread across lake
+RHYTHM TRACK: P01 RHY P01: hold / long block / held beat -> P02 RHY P02: slow reveal / medium block / clean beat -> P03 RHY P03: build / medium block / match beat -> P04 RHY P04: burst / short block / smash beat -> P05 RHY P05: burst / short block / whip beat -> P06 RHY P06: burst / short block / smash beat -> P07 RHY P07: burst / short block / clean beat -> P08 RHY P08: burst / short block / whip beat -> P09 RHY P09: impact / medium block / held beat -> P10 RHY P10: build / medium block / match beat -> P11 RHY P11: build / medium block / clean beat -> P12 RHY P12: burst / short block / clean beat -> P13 RHY P13: pause / medium block / held beat -> P14 RHY P14: impact / medium block / match beat -> P15 RHY P15: pause / medium block / clean beat -> P16 RHY P16: burst / short block / smash beat -> P17 RHY P17: burst / short block / whip beat -> P18 RHY P18: build / short block / held beat -> P19 RHY P19: impact / medium block / smash beat -> P20 RHY P20: final hit / long block / held beat
+ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L3 rise / rise -> P04 ESC P04: L4 surge / spike -> P05 ESC P05: L4 surge / spike -> P06 ESC P06: L5 peak / spike -> P07 ESC P07: L4 surge / spike -> P08 ESC P08: L4 surge / spike -> P09 ESC P09: L3 rise / drop -> P10 ESC P10: L4 surge / rise -> P11 ESC P11: L4 surge / rise -> P12 ESC P12: L4 surge / spike -> P13 ESC P13: L3 rise / drop -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L2 tension / drop -> P16 ESC P16: L5 peak / spike -> P17 ESC P17: L5 peak / spike -> P18 ESC P18: L4 surge / rise -> P19 ESC P19: L5 peak / spike -> P20 ESC P20: L3 rise / release
+STATE TRACK: P01 blade off, craft R, lake FG -> P02 blade on -> P03 figure-eight trail -> P04 wrist close, one saber -> P05 wet skid -> P06 lens flash -> P07 eye flash -> P08 cloak trail -> P09 full body, lane center -> P10 butterfly loops -> P11 behind-back orbit -> P12 hilt isolation -> P13 water reflection -> P14 body halo -> P15 blade near face -> P16 face pass -> P17 airborne to lake -> P18 point down -> P19 blade planted at shore -> P20 rings expand, C1 holds hilt
+STYLE TRACK: P01 gray sketch/amber chip -> P02 pale bloom -> P03 poi ribbon -> P04 burst chip -> P05 wet streak -> P06 lens flash -> P07 tight flash -> P08 cloak streak -> P09 full trail -> P10 loop geometry -> P11 orbit line -> P12 isolation line -> P13 reflection -> P14 halo wrap -> P15 quiet portrait -> P16 bright pass -> P17 leap streak -> P18 descent line -> P19 impact glow -> P20 ripple finale
 
-[序列]
-網格：緊湊的 4x5 電影級分鏡腳本頁面上的 20 個面板；面板藝術保持單色粗略草圖，而導演條透過兩個爆發式剪輯群組、流動藝術連續性、水線衝擊和湖泊能量最終保持，使 15 秒的序列感覺更長。
+[SEQUENCE]
+Grid: 20 panels in a compact 4x5 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip makes a 15-second sequence feel longer through two burst-cut clusters, flow-art continuity, waterline impact, and lake-energy final hold.
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用 @[storyboard ref] 作為序列的分鏡藍圖。將每個分鏡面板視為單一電影序列中的連續鏡頭。嚴格遵循面板順序，不要發明替代鏡頭。分鏡腳本是視覺敘事的主要真理來源。重現面板所暗示的拍攝序列，而不是物理分鏡藝術品。
-使用 @[character ref] 作為權威的 C1 角色參考。
+Use @[storyboard ref] as the storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+Use @[character ref] as the authoritative C1 character reference.
 
-情感指導：效價：從專注中性到激烈的流動狀態，再到安靜的敬畏。喚醒：冷靜點火、爆發高峰、屏息、跳躍衝擊、最終透過姿勢、斗篷、視線、軌跡、水環和寂靜釋放。
-音訊：無背景音樂或配樂。
+EMOTIONAL GUIDENCE: Valence: focused neutral to fierce flow-state to quiet awe. Arousal: calm ignition, burst peaks, breath hold, leap impact, final release through stance, cloak, eye-line, trails, water rings, silence. 
+AUDIO: No background music or score.
 
-面板節拍：
-P01：廣角主鏡頭；C1 在練習道上，光劍下垂，飛行器在右側，湖面反射燈光。
-P02：側面推近；C1 點燃蒼白刀刃，嗡嗡聲在披肩和樹皮上綻放。
-P03：低角度側面；8 字編織開始，刀刃畫出緊湊的 poi 絲帶。
-P04：爆發微距；手腕滾動劍柄，光劍弧線彈動方向。
-P05：爆發低角度；靴子滑動，濕地濺起白光。
-P06：爆發碰撞；刀刃在鏡頭幾英吋處掠過，畫面洗成白色。
-P07：爆發特寫；她的眼睛捕捉到光劍閃光，臉部穩定。
-P08：爆發鞭打；斗篷和腰帶穿過軌跡。
-P09：廣角解析；片段連接成一個完整的全身流動短語。
-P10：俯視；蝴蝶旋轉從一把快速光劍中創造出雙胞胎般的迴圈。
-P11：側面跟蹤；刀刃在背後軌道運行，在對側臀部重新出現。
-P12：微距隔離；一隻手漂浮劍柄，同時刀刃迴圈。
-P13：水面插入；光劍軌跡在湖面反射中寫下明亮的曲線。
-P14：軌道；刀刃路徑像發光的籠子一樣纏繞她的軀幹，無接觸。
-P15：肖像暫停；刀刃靠近臉頰，呼吸和嗡嗡聲暴露。
-P16：爆發特寫；臉部掠過踢動頭髮和披肩。
-P17：爆發鞭打；她衝向濕岸，光劍拖曳。
-P18：低角度捕捉；C1 在水線處下降，光劍點向下。
-P19：衝擊；她將光劍插入濕岸，嗡嗡聲降至脈衝。
-P20：搖臂廣角最終；當她握住插入的劍柄時，蒼白的環在湖面上擴散。
+PANEL BEATS:
+P01: Wide master; C1 in practice lane, saber low, craft right, lake reflecting lights.
+P02: Profile push; C1 ignites the pale blade, hum blooming on mantle and bark.
+P03: Low side; figure-eight weave starts, blade drawing tight poi ribbons.
+P04: BURST macro; wrist rolls hilt, saber arc snaps direction.
+P05: BURST low; boot skids, wet ground flicking white light.
+P06: BURST crash; blade passes inches from lens, frame washed white.
+P07: BURST tight; her eye catches saber flash, face steady.
+P08: BURST whip; cloak and sash slice through the trail.
+P09: Wide resolve; fragments connect into one full-body flow phrase.
+P10: Overhead; butterfly spin creates twin-looking loops from one fast saber.
+P11: Side track; blade orbits behind her back, reappearing at opposite hip.
+P12: Macro isolation; one hand floats the hilt while the blade loops.
+P13: Water insert; saber trail writes a bright curve in the lake reflection.
+P14: Orbit; blade path wraps her torso like a luminous cage, no contact.
+P15: Portrait pause; blade near cheek, breath and hum exposed.
+P16: BURST close; face pass kicks hair and mantle.
+P17: BURST whip; she launches to the wet shore, saber trailing.
+P18: Low catch; C1 descends at waterline, saber point down.
+P19: Impact; she drives saber into wet shore, hum dropping to a pulse.
+P20: Crane wide final; pale rings spread across the lake as she holds the planted hilt.
 
-6. 從生成的影片中匯出音訊，上傳到 suno 並用它生成音樂。使用 capcut 將它們組合起來。
+6. Exported the audio from generated video, uploaded it to suno and generated music with it. Used capcut to combine them.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -486,41 +486,41 @@ P20：搖臂廣角最終；當她握住插入的劍柄時，蒼白的環在湖�
 
 ---
 
-### 8. 深夜首爾 Mukbang 直播
+### 8. 首爾深夜吃播直播
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="深夜首爾 Mukbang 直播"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062472260439699534_0_poster.jpg" width="480" alt="首爾深夜吃播直播"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-一段連續直播風格的影片，三位年輕女性（20 歲出頭）在首爾一家韓國街頭小吃餐廳享受輕鬆愉快的深夜聚餐。影片感覺就像一場正在進行的直播，節奏自然且未經排練。
+連續直播風格的影片，記錄三位年輕女性（20 歲出頭）在首爾一家韓國街頭小吃餐廳享受輕鬆愉快的深夜餐點。影片感覺就像正在進行的直播，節奏自然且未經排練。
 
-左側：東亞女性，穿著海軍藍亮片毛衣，梳著凌亂的髮髻，開心地用筷子吃著辣炒年糕（tteokbokki），微笑並加入對話。
+左側：東亞女性，身穿海軍藍亮片毛衣，紮著凌亂的髮髻，正用筷子開心地吃著辣炒年糕，微笑並加入對話。
 
-中間（主要焦點）：充滿活力的西方金髮白人女性，穿著灰色露肩上衣，戴著精緻的首飾。她是活潑的主持人——表情豐富、笑容燦爛、大笑、手勢生動，全程用清晰自然的英語交談並做出反應。
+中央（主要焦點）：充滿活力的西方金髮女性，身穿灰色露肩上衣，配戴精緻飾品。她是活潑的主持人，表情豐富，笑容燦爛，大聲歡笑，手勢生動，不斷地用自然的英語交談並做出反應。
 
-右側：黑人女性，捲髮梳成高髮髻，穿著黑色露肩上衣並佩戴金飾，喝著啤酒，大笑，俏皮地遮住嘴巴，說英語時伴隨著手勢。
+右側：捲髮黑人女性，紮著高髮髻，身穿黑色露肩上衣和金色飾品，喝著啤酒，大笑，俏皮地掩嘴，說英語時伴隨著手勢。
 
-自然的持續英語對話：
-- 金髮女（中間）：「天啊，這辣炒年糕的湯汁真的讓人上癮！辣味太棒了。」
-- 東亞女（左側）：「我就說吧！但這些炸餃子和薯條的酥脆程度簡直是另一個層次。」
-- 黑人女性（右側）：「沒錯！薯條是我的最愛。那種酥脆感無可挑剔。」
-- 金髮女：「才怪，湯汁每次都贏！你們在聊天室怎麼看？湯汁派還是薯條派？」
-- 她們一起大笑、互相調侃、吃東西、喝飲料，並與鏡頭互動，彷彿在與直播觀眾對話。
+自然的英語對話：
+- 金髮女（中）：「天啊，這辣炒年糕的湯汁真的讓人上癮！辣味太棒了。」
+- 東亞女（左）：「我就說吧！但這些炸餃子和薯條的酥脆程度更是另一個層次。」
+- 黑人女（右）：「沒錯！薯條是我的最愛。那種酥脆感無人能敵。」
+- 金髮女：「才怪，湯汁每次都贏！聊天室的大家覺得呢？湯汁派還是薯條派？」
+- 她們一起大笑、互相調侃、吃東西、喝飲料，並像與直播觀眾對話一樣與鏡頭互動。
 
-影片全程在螢幕兩側可見的直播疊加層：
-- 左上角：紅色「LIVE」徽章 + 緩慢增加的觀看人數（例如 1.9K → 2.7K 觀看中）
-- 左側：垂直滾動的評論氣泡，包含「看起來太好吃了！」、「超愛這種活力 🔥」、「金髮女生太搞笑了」等寫實評論
-- 右側：更多彈出的評論氣泡，如「薯條 > 湯汁」、「你們是友誼的典範」、「請再來杯啤酒 🍺」
-- 粉紅色和紅色的愛心不斷從底部向上漂浮
-- 底部欄顯示「LIVE • Seoul Night Mukbang」，並帶有細微的觀眾互動圖示
+影片全程在螢幕兩側顯示的直播疊加層：
+- 左上角：紅色「LIVE」標章 + 緩慢增加的觀看人數（例如：1.9K → 2.7K 觀看中）
+- 左側：垂直滾動的評論氣泡，包含「看起來好好吃！」、「喜歡這種活力 🔥」、「金髮女生好有趣」等寫實評論
+- 右側：更多彈出的評論氣泡，如「薯條 > 湯汁」、「你們的友誼真讓人羨慕」、「請再來杯啤酒 🍺」
+- 粉紅色和紅色的愛心不斷從底部向上浮動
+- 底部欄顯示「LIVE • Seoul Night Mukbang」以及細緻的觀眾互動圖示
 
-風格：寫實的垂直直播 / Mukbang Vlog，輕微自然的鏡頭晃動和柔和的移動，溫暖親密的餐廳燈光搭配霓虹燈裝飾，鮮豔誘人的色彩，真摯的友誼與青春活力，持續的休閒聚會感，高細節，寫實，電影級 4K。
+風格：寫實的垂直直播 / 吃播 Vlog，輕微自然的鏡頭晃動和柔和的移動，帶有霓虹燈點綴的溫暖親密餐廳燈光，鮮豔且令人垂涎的色彩，真摯的友誼與青春活力，持續且休閒的聚會感，高細節，寫實，電影級 4K。
 ```
 
 **作者** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 追蹤者
@@ -533,102 +533,102 @@ P20：搖臂廣角最終；當她握住插入的劍柄時，蒼白的環在湖�
 
 ---
 
-### 9. Karma 逃生賽博動作序列
+### 9. Karma 逃脫網路動作序列
 
 ![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃生賽博動作序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃脫網路動作序列"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-建立一張 16:9 的圖像。
+建立一個 16:9 的影像。
 
 [專案卡片]
-建立一個緊湊設計的頁首，而非表格。
-標題：魚眼警報逃生
-元數據行：恐慌 / 賽博動作驚悚 / 高潮湧動
-優先級：首格魚眼眼鏡反射鉤子，清晰的房間地理佈局，警報到逃生的因果關係
-微型簡介：Karma 在駭客攻擊中途被發現，透過安全監控看到入侵者，從窗戶逃出，引爆房間並消失。
+建立一個緊湊設計的頁首，而不是表格。
+標題：魚眼警報逃脫
+元行：恐慌 / 網路動作驚悚 / 高潮湧動
+優先級：第一面板魚眼眼鏡反射鉤，可讀的房間地理，警報到逃脫的因果關係
+微型簡介：Karma 在駭客攻擊中途被發現，在安全監控上看到入侵者，從窗戶離開，引爆房間，然後消失。
 
-[連續性標題]
+[連續性頁首]
 序列 ID：KARMA_ESCAPE_01
-參考優先級：使用提供的 Karma 角色表作為身份參考；身份參考控制面部、身體、服裝、比例、頭髮、眼鏡、耳機和輪廓；此分鏡表控制調度、動作、地理和連續性。
+參考優先級：使用提供的 Karma 角色表作為身份參考；身份參考控制面部、身體、服裝、比例、頭髮、眼鏡、耳機和輪廓；此分鏡控制舞台、動作、地理和連續性。
 
 [場景包]
-前提：一名年輕駭客在顯示器前瘋狂打字，直到紅色警報顯示入侵者進入大樓，迫使其快速透過消防通道逃生並遠端引爆房間。
-地點：夜晚狹窄的高層駭客房間，前景為書桌和顯示器，旁邊是安全監控器，牆上有紅色警報燈，螢幕右側為窗戶，窗外是外部消防通道，下方是街道。
-開始 -> 結束：C1 用抽象的代碼反射填滿第一個魚眼框架，代碼在兩片眼鏡鏡片上滑動，書桌和房間在邊緣扭曲 -> 房間在消防通道後爆發，C1 消失在街道上。
-動作鏈：瘋狂打字 -> 警報閃爍 -> C1 查看安全監控 -> 三名武裝士兵進入大樓 -> 筆記型電腦合上 -> 窗戶逃生 -> 消防通道下降 -> 手機觸發 -> 房間爆炸 -> C1 消失。
-道具/效果狀態：筆記型電腦開合，主顯示器投射代碼般的光芒，安全監控顯示三名武裝士兵，紅色警報燈閃爍，手機觸發，窗戶打開，房間爆炸伴隨煙霧和碎片。
-必讀：第一張圖是魚眼面部和眼鏡鉤子；C1 圓形鏡片上的代碼反射引導至安全監控威脅，隨後逃生變得具有爆炸性。
+前提：一名年輕駭客在顯示器前瘋狂打字，直到紅色警報顯示入侵者進入大樓，迫使她快速通過消防通道逃生並遠端引爆房間。
+地點：夜間狹窄的高層駭客房間，前景有桌子和顯示器，旁邊是安全監控器，牆上有紅色警報燈，螢幕右側有窗戶，窗外有消防通道，下方是街道。
+開始 -> 結束：C1 用抽象的代碼反射填滿第一個魚眼框架，代碼在兩個鏡片上滑動，桌子和房間在邊緣扭曲 -> C1 在房間在消防通道後爆發後消失在街上。
+動作鏈：瘋狂打字 -> 警報閃爍 -> C1 檢查安全監控 -> 三名武裝士兵進入大樓 -> 筆記型電腦關閉 -> 窗戶出口 -> 消防通道下降 -> 手機觸發 -> 房間爆炸 -> C1 消失。
+道具/效果狀態：筆記型電腦打開然後關閉，主顯示器投射代碼般的光芒，安全監控顯示三名武裝士兵，紅色警報燈閃爍，手機觸發，窗戶打開，房間爆炸伴隨煙霧和碎片。
+必讀：第一張影像係魚眼面部和眼鏡鉤；C1 圓形鏡片上的代碼反射引導至安全監控威脅，然後逃脫變得爆炸性。
 
 [角色清理]
-C1：Karma，年輕駭客，緊湊的反叛輪廓，明亮的粉色尖刺髮型，圓形深色眼鏡，黑色超大飛行員夾克，寬鬆的棕褐色裁剪工裝褲，脖子上掛著粉色耳機，白粉色運動鞋，動作敏捷快速，筆記型電腦和手機為關鍵道具。
-C2：三名武裝士兵，身穿深色戰術制服，佩戴頭盔，步槍低持，在安全監控上顯示較小，僅在建築入口處出現，無詳細面部特徵。
-移除矛盾特徵、不可見的心理、過度的服裝細節以及無法出現在畫面中的背景故事。
+C1：Karma，年輕駭客，緊湊的反叛輪廓，明亮的尖刺粉色頭髮，圓形深色眼鏡，黑色超大號飛行員夾克，寬鬆的棕褐色裁剪工裝褲，脖子上掛著粉色耳機，白粉色運動鞋，動作敏捷，筆記型電腦和手機作為關鍵道具。
+C2：三名武裝士兵，穿著深色戰術制服，戴著頭盔，步槍低持，在安全監控上很小，後來只出現在大樓入口，沒有詳細的面部。
+刪除矛盾的特徵、不可見的心理、過度的服裝細節以及無法出現在面板中的背景故事。
 
 [身份一致性]
-Karma 身份參考控制面部/身體/服裝/比例；保持 C1 頭髮輪廓、眼鏡、耳機、飛行員夾克、工裝褲、運動鞋、筆記型電腦和手機以及螢幕方向的一致性。不要在面板間重新設計、改變年齡、合併、美化或改變 C1。C2 保持為三名武裝士兵輪廓，視覺重要性永遠不超過 C1。
+Karma 身份參考控制面部/身體/服裝/比例；保持 C1 頭髮輪廓、眼鏡、耳機、飛行員夾克、工裝褲、運動鞋、筆記型電腦、手機和螢幕方向一致。不要在面板之間重新設計、改變年齡、合併、美化或改變 C1。C2 保持為三名武裝士兵輪廓，視覺重要性永遠不超過 C1。
 
 [分鏡純度]
-面板圖像僅為視覺上的低細節單色淺灰色草圖。將面板編號、節拍名稱和鏡頭標籤放在面板圖像外的頁首條中。面板內無顏色、標籤、箭頭、標題、字幕、徽標、浮水印、時間標記、圖表、非敘事性 UI、幽靈姿勢、重複身體或技術覆蓋。敘事性螢幕和眼鏡反射僅可顯示抽象的代碼狀條紋和光形，無易讀文字。
+面板影像係僅視覺的低細節單色淺灰色粗略草圖。將面板編號、節拍名稱和鏡頭標籤放在面板影像外的頁首條中。面板內沒有顏色、標籤、箭頭、標題、字幕、徽標、浮水印、時間標記、圖表、非敘事 UI、幽靈姿勢、重複身體或技術疊加。敘事螢幕和眼鏡反射只能顯示抽象的代碼條和光形狀，沒有可讀文字。
 
 [主鏡頭規則]
-P01 展示魚眼近臉鉤子，C1 的眼鏡反射抽象代碼，同時框架的扭曲邊緣仍揭示了可玩的房間地理：書桌、顯示器、筆記型電腦、安全監控器、牆上警報、螢幕右側的窗戶、窗外的消防通道以及門/走廊的威脅方向。
+P01 顯示魚眼近臉鉤，C1 的眼鏡反射抽象代碼，而框架的扭曲邊緣仍然揭示了可玩的房間地理：桌子、顯示器、筆記型電腦、安全監控、牆上警報、螢幕右側窗戶、外部消防通道和門/走廊威脅方向。
 
-[情感弧線]
-專注的身體靜止 -> 瘋狂的手部動作 -> 警報突發 -> 艱難的決定 -> 緊急逃生 -> 受控的暴力 -> 未解決的消失，透過姿勢、頭部轉動、手部緊張、遮擋、節奏和擴大的危險來表達。
+[情感弧]
+專注的身體靜止 -> 瘋狂的手 -> 警報快照 -> 艱難決定 -> 緊急出口 -> 受控暴力 -> 未解決的消失，透過姿勢、頭部轉動、手部緊張、阻擋、節奏和擴大的危險來表達。
 
 [風格鎖定]
-風格鎖定：乾淨的單色草圖分鏡面板，淺灰色石墨線條，簡化的動漫繪畫比例，稀疏的陰影，米白色紙張，僅在頁首和面板藝術外的導演條中有受限的紅/粉色強調。
-效果鎖定：警報閃爍、代碼光芒、煙霧、碎片和爆炸在面板內繪製為簡單的單色形狀；最終影片風格可使用銳利的紅色警報燈、青色代碼反射、橙色爆炸核心、黑色煙霧和手持動作能量。
-環境鎖定：狹窄的賽博龐克公寓房間保持可讀性，包含書桌、顯示器、牆上警報、窗戶、金屬消防通道和下方的街道；無逼真的紋理漂移或扁平卡通漂移。
+風格鎖定：乾淨的單色粗略草圖分鏡面板，淺灰色石墨線條，簡化的動漫繪畫比例，稀疏的陰影，米白色紙張，僅在頁首和面板藝術外的導演條中有受限的紅/粉色強調。
+效果鎖定：警報閃爍、代碼光芒、煙霧、碎片和爆炸在面板內繪製為簡單的單色形狀；最終影片風格可以使用明亮的紅色警報燈、青色代碼反射、橙色爆炸核心、黑色煙霧和手持動作能量。
+環境鎖定：狹窄的賽博龐克公寓房間保持可讀，有桌子、顯示器、牆上警報、窗戶、金屬消防通道和下方的街道；沒有逼真的紋理漂移或扁平卡通漂移。
 
 [空間連續性鎖定]
-P01-P06 共享相同的房間佈局。後續面板使用來自相同地理位置的更近的推入、鞭鏡頭和側向追蹤，而非重新設計的房間。鎖定書桌前景、筆記型電腦左側的主顯示器、書桌旁的安全監控器、後牆上的警報燈、螢幕右側的窗戶、窗外的消防通道以及螢幕左側/背景的門/威脅方向。P07-P10 保持 C1 從窗戶移動到消防通道向下，再向街道右側移動。僅允許的更改：C1 姿勢、筆記型電腦開/合狀態、警報燈狀態、窗戶打開狀態、手中的手機、煙霧/碎片擴展、攝影機距離和外部位置。
+P01-P06 共享相同的房間佈局。後面的面板使用更近的推入、鞭打角度和來自相同地理的側軌，而不是重新設計的房間。鎖定桌子前景、筆記型電腦左側的主顯示器、桌子旁邊的安全監控、後牆上的警報燈、螢幕右側的窗戶、外部消防通道、螢幕左側/背景的門/威脅方向。P07-P10 保持 C1 從窗戶移動到消防通道向下到街道向右。僅允許更改：C1 姿勢、筆記型電腦打開/關閉狀態、警報燈狀態、窗戶打開狀態、手中的手機、煙霧/碎片擴展、攝影機距離和外部位置。
 
 [導演條]
-底部動畫軌道板與面板列對齊。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用鏡頭晶片、細線、節奏塊、小強度條、一到三個字的標籤。無秒數或時間戳。
-節奏軌道格式：`RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`。
-升級地圖格式：`ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`。
-面板標題：P01 / 18mm 魚眼 / 代碼眼鏡鉤子 -> P02 / 微距插入 / 瘋狂打字 -> P03 / 35mm 手持 / 紅色警報突發 -> P04 / 50mm POV / 安全監控揭示 -> P05 / 24mm 廣角 / 士兵進入 -> P06 / 35mm 猛推 / 筆記型電腦合上 -> P07 / 24mm 側向追蹤 / 窗戶逃生 -> P08 / 35mm 手持 / 消防通道下降 -> P09 / 50mm 插入 / 手機觸發爆炸 -> P10 / 24mm 最終廣角 / 煙霧消失
-攝影機+鏡頭計畫：P01 魚眼近臉保持，房間邊緣扭曲 -> P02 微距推向手指和反射的代碼 -> P03 鞭鏡頭轉向警報和 C1 頭部轉動 -> P04 POV 轉向安全監控 -> P05 從監控邏輯出發的低位廣角外部入口角度 -> P06 猛推向 C1 猛合筆記型電腦 -> P07 側向追蹤至窗戶邊緣 -> P08 消防通道上的手持向下追逐 -> P09 插入手機然後傾斜至後方的爆炸 -> P10 最終廣角保持在街道和煙霧上。
-動作路徑：P01 代碼反射在 C1 眼鏡上滑動，同時 C1 打字 -> P02 手指在打開的筆記型電腦旁敲擊按鍵 -> P03 警報閃爍，C1 轉頭 -> P04 C1 鎖定目光在顯示三名武裝士兵的安全監控上 -> P05 C2 以緊密隊形進入大樓大廳 -> P06 C1 用力合上筆記型電腦 -> P07 C1 爬出窗戶 -> P08 C1 沿消防通道下降 -> P09 C1 點擊手機，房間引爆 -> P10 C1 進入街道煙霧中消失。
-節奏軌道：P01 RHY P01: build / medium block / held beat -> P02 RHY P02: burst / short block / clean beat -> P03 RHY P03: impact / short block / smash beat -> P04 RHY P04: slow reveal / medium block / clean beat -> P05 RHY P05: build / medium block / match beat -> P06 RHY P06: burst / short block / smash beat -> P07 RHY P07: burst / short block / whip beat -> P08 RHY P08: build / medium block / whip beat -> P09 RHY P09: impact / short block / smash beat -> P10 RHY P10: recover / long block / held beat。
-升級地圖：P01 ESC P01: L2 tension / rise -> P02 ESC P02: L3 rise / rise -> P03 ESC P03: L4 surge / spike -> P04 ESC P04: L4 surge / rise -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / drop -> P07 ESC P07: L4 surge / rise -> P08 ESC P08: L5 peak / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L3 rise / unresolved。
-狀態軌道：P01 眼鏡反射代碼，筆記型電腦打開，警報關閉 -> P02 瘋狂打字，窗戶關閉 -> P03 警報開啟，C1 轉頭 -> P04 安全監控啟用，三名士兵可見 -> P05 士兵進入，步槍低持 -> P06 筆記型電腦合上，包/手機準備好 -> P07 窗戶打開，C1 在外面 -> P08 C1 下降，房間在上方 -> P09 手機點擊，爆炸開始 -> P10 房間冒煙，C1 離開畫面。
-風格軌道：P01 魚眼反射 -> P02 硬按鍵 -> P03 警報強調條 -> P04 CCTV 對比 -> P05 士兵輪廓 -> P06 硬手勢 -> P07 傾斜閾值 -> P08 動力學樓梯 -> P09 爆炸形狀 -> P10 煙霧瀰漫。
+底部動畫軌道板與面板列對齊。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用鏡頭晶片、細線、節奏塊、小強度條、一到三個字的標籤。沒有秒或時間戳。
+節奏軌道格式：`RHY P##: [保持|緩慢揭示|構建|爆發|衝擊|暫停|恢復|最終命中] / [短塊|中塊|長塊] / [乾淨節拍|匹配節拍|粉碎節拍|保持節拍|鞭打節拍]`。
+升級地圖格式：`ESC P##: [L1 冷靜|L2 緊張|L3 上升|L4 激增|L5 峰值] / [平坦|上升|尖峰|下降|釋放|未解決]`。
+面板頁首：P01 / 18mm 魚眼 / 代碼眼鏡鉤 -> P02 / 微距插入 / 打字狂熱 -> P03 / 35mm 手持 / 紅色警報快照 -> P04 / 50mm POV / 安全監控揭示 -> P05 / 24mm 廣角 / 士兵進入 -> P06 / 35mm 撞入 / 筆記型電腦關閉 -> P07 / 24mm 側軌 / 窗戶逃脫 -> P08 / 35mm 手持 / 消防通道下降 -> P09 / 50mm 插入 / 手機觸發爆炸 -> P10 / 24mm 最終廣角 / 煙霧消失
+攝影機 + 鏡頭計畫：P01 魚眼近臉保持，房間邊緣扭曲 -> P02 微距推向手指和反射代碼 -> P03 鞭打平移至警報和 C1 頭部轉動 -> P04 POV 架至安全監控 -> P05 從監控邏輯看入口的低廣角外部角度 -> P06 撞入 C1 猛關筆記型電腦 -> P07 側軌至窗戶閾值 -> P08 消防通道上的手持向下追逐 -> P09 插入手機然後傾斜至後面的爆炸 -> P10 街道和煙霧上的最終廣角保持。
+動作路徑：P01 代碼反射在 C1 眼鏡上滑動，當 C1 打字時 -> P02 手指在打開的筆記型電腦旁邊敲擊按鍵 -> P03 警報閃爍，C1 轉動 -> P04 C1 鎖定眼睛在顯示三名武裝士兵的安全監控上 -> P05 C2 以緊密隊形進入大樓大廳 -> P06 C1 猛關筆記型電腦 -> P07 C1 爬出窗戶 -> P08 C1 沿消防通道下降 -> P09 C1 點擊手機，房間引爆 -> P10 C1 離開框架進入街道陰霾。
+節奏軌道：P01 RHY P01: 構建 / 中塊 / 保持節拍 -> P02 RHY P02: 爆發 / 短塊 / 乾淨節拍 -> P03 RHY P03: 衝擊 / 短塊 / 粉碎節拍 -> P04 RHY P04: 緩慢揭示 / 中塊 / 乾淨節拍 -> P05 RHY P05: 構建 / 中塊 / 匹配節拍 -> P06 RHY P06: 爆發 / 短塊 / 粉碎節拍 -> P07 RHY P07: 爆發 / 短塊 / 鞭打節拍 -> P08 RHY P08: 構建 / 中塊 / 鞭打節拍 -> P09 RHY P09: 衝擊 / 短塊 / 粉碎節拍 -> P10 RHY P10: 恢復 / 長塊 / 保持節拍。
+升級地圖：P01 ESC P01: L2 緊張 / 上升 -> P02 ESC P02: L3 上升 / 上升 -> P03 ESC P03: L4 激增 / 尖峰 -> P04 ESC P04: L4 激增 / 上升 -> P05 ESC P05: L5 峰值 / 尖峰 -> P06 ESC P06: L4 激增 / 下降 -> P07 ESC P07: L4 激增 / 上升 -> P08 ESC P08: L5 峰值 / 上升 -> P09 ESC P09: L5 峰值 / 尖峰 -> P10 ESC P10: L3 上升 / 未解決。
+狀態軌道：P01 眼鏡反射代碼，筆記型電腦打開，警報關閉 -> P02 打字狂熱，窗戶關閉 -> P03 警報開啟，C1 轉動 -> P04 安全監控啟用，三名士兵可見 -> P05 士兵在內，步槍低持 -> P06 筆記型電腦關閉，包/手機準備好 -> P07 窗戶打開，C1 在外面 -> P08 C1 下降，上面的房間 -> P09 手機點擊，爆炸開始 -> P10 房間冒煙，C1 離開框架。
+風格軌道：P01 魚眼反射 -> P02 硬按鍵 -> P03 警報強調條 -> P04 CCTV 對比 -> P05 士兵輪廓 -> P06 硬手勢 -> P07 傾斜閾值 -> P08 動力學樓梯 -> P09 爆炸形狀 -> P10 煙霧陰霾。
 
 [序列]
-網格：10 個面板，緊湊的 5x5 動作分鏡表，以魚眼眼鏡反射鉤子開始，然後是房間地理、安全揭示、逃生路徑、爆炸回報，以及在面板列下方對齊的導演條。
+網格：10 個面板，在一個緊湊的 5x5 動作分鏡表中，以魚眼眼鏡反射鉤開始，然後是房間地理、安全揭示、逃脫路徑、爆炸回報和對齊在面板列下方的導演條。
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用 @[storyboard ref] 作為該序列經導演批准的權威分鏡藍圖。將每個分鏡面板視為單個電影序列中的連續鏡頭。嚴格遵循面板順序，不要發明替代方案。不要渲染分鏡表本身。保留分鏡中顯示的攝影機位置、構圖、鏡頭意圖、鏡頭比例、角色調度、螢幕方向、環境地理、道具放置、動作編排、連續性和情感升級。分鏡表是視覺敘事的主要真理來源。重現面板所暗示的拍攝序列，而不是物理分鏡藝術。
+使用 @[storyboard ref] 作為序列的權威導演批准的分鏡藍圖。將每個分鏡面板視為單個電影序列中的連續鏡頭。完全按照面板順序，不要發明替代覆蓋。不要渲染分鏡表本身。保留分鏡顯示的攝影機位置、構圖、鏡頭意圖、鏡頭比例、角色舞台、螢幕方向、環境地理、道具放置、動作編排、連續性和情感升級。分鏡係視覺敘事的主要真理來源。重現面板暗示的拍攝序列，而不是物理分鏡藝術。
 使用 @[char ref] 作為權威的 C1 Karma 角色參考。
 
-環境：夜晚的高層駭客房間：書桌、顯示器、筆記型電腦、側面安全監控器、牆上警報、螢幕右側的窗戶、窗外的消防通道、下方的建築入口。第一幀是 C1 眼鏡的魚眼特寫，帶有抽象的代碼反射；三名武裝士兵在下方進入；C1 從書桌 -> 窗戶 -> 消防通道 -> 街道移動。
-情感引導：效價：專注控制 -> 威脅壓力 -> 冷靜逃生。喚醒：高，在警報和入侵者揭示時達到峰值，在下降和引爆時達到頂峰，然後降至緊張的消失。使用敏捷的手部動作、頭部猛轉、快速遮擋、手持壓力、最終保持廣角。
-視覺風格：風格化的動漫繪畫賽博動作驚悚，魚眼壓力，紅色警報燈，青色代碼反射，煙霧繚繞的橙色爆炸，石墨黑夜影，動態手持攝影機，清晰的輪廓，導演風格的角度。
-音訊：無背景音樂或配樂。僅使用敘事性環境音、擬音、撞擊聲、紋理和靜音。
+環境：夜間高層駭客房間：桌子、顯示器、筆記型電腦、側面安全監控、牆上警報、螢幕右側窗戶、外部消防通道、下方大樓入口。第一幀係 C1 眼鏡的魚眼特寫，帶有抽象的代碼反射；三名武裝士兵在下方進入；C1 移動桌子 -> 窗戶 -> 消防通道 -> 街道。
+情感指導：效價：專注控制 -> 威脅壓力 -> 冷靜逃脫。喚醒：高，在警報和入侵者揭示時激增，在下降和引爆時達到峰值，然後下降到緊張的消失中。使用鋒利的手、頭部快照、快速阻擋、手持壓力、最終保持廣角。
+視覺風格：風格化的動漫繪畫賽博動作驚悚，魚眼壓力，紅色警報燈，青色代碼反射，煙霧橙色爆炸，石墨黑色夜影，動力學手持攝影機，清晰輪廓，導演風格角度。
+音訊：沒有背景音樂或配樂。僅使用敘事環境、擬音、衝擊、紋理和沉默。
 
 面板節拍：
-P01：魚眼近臉鉤子：Karma 的圓形眼鏡佔據了畫面，抽象的代碼反射在兩片鏡片上滑動；扭曲的房間、書桌、顯示器、筆記型電腦、安全監控器、窗戶和消防通道位於邊緣。
-P02：手指和筆記型電腦的微距；按鍵快速敲擊，同樣的代碼光芒在 Karma 的眼鏡上閃爍。
-P03：紅色警報突發；Karma 的頭猛地轉動，一隻手懸在筆記型電腦上方。
-P04：POV 推向安全監控器，Karma 湊近；三名武裝士兵進入大樓，步槍低持但已準備就緒。
-P05：入口處的低位廣角：三名武裝士兵以緊密隊形穿過內部，與監控方向一致。
-P06：猛推特寫：Karma 用力合上筆記型電腦，抓起手機，轉向窗戶。
-P07：側向追蹤：Karma 打開窗戶並爬上消防通道，警報在身後閃爍。
-P08：手持向下追逐；Karma 一層層下降，一隻手扶著欄杆，手機準備就緒。
-P09：插入手機點擊，然後傾斜至窗戶，房間伴隨橙色閃光、碎片、煙霧和衝擊力引爆。
-P10：最終街道廣角保持：煙霧從上方湧出，Karma 移動到夜色朦朧中並消失。
+P01：魚眼近臉鉤：Karma 的圓形眼鏡主導框架，抽象的代碼反射在兩個鏡片上滑動；扭曲的房間、桌子、顯示器、筆記型電腦、安全監控、窗戶和消防通道位於邊緣。
+P02：手指和筆記型電腦上的微距；按鍵快速敲擊，同時相同的代碼光芒在 Karma 的眼鏡上閃爍。
+P03：紅色警報開啟；Karma 的頭猛地轉動，一隻手懸在筆記型電腦上。
+P04：POV 推向安全監控，當 Karma 傾身時；三名武裝士兵進入大樓，步槍低持但準備好。
+P05：入口處的低廣角：三名武裝士兵以緊密隊形穿過內部，匹配監控方向。
+P06：撞入特寫：Karma 猛關筆記型電腦，抓住手機，轉向窗戶。
+P07：側軌：Karma 打開窗戶並爬上消防通道，警報在後面閃爍。
+P08：手持向下追逐；Karma 一層一層下降，一隻手放在欄杆上，手機準備好。
+P09：插入手機點擊，然後傾斜至窗戶，當房間引爆時，伴隨橙色閃光、碎片、煙霧和衝擊。
+P10：最終街道廣角保持：煙霧從上方湧出，當 Karma 進入夜間陰霾並消失時。
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -641,38 +641,38 @@ P10：最終街道廣角保持：煙霧從上方湧出，Karma 移動到夜色�
 
 ---
 
-### 10. Tiffany Blue Book 2026 Butterfly Chapter
+### 10. Tiffany Blue Book 2026 蝴蝶篇章
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="Tiffany Blue Book 2026 Butterfly Chapter"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062036984521187723_0_poster.jpg" width="480" alt="Tiffany Blue Book 2026 蝴蝶篇章"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-標題：TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER
+標題：TIFFANY BLUE BOOK 2026 — 蝴蝶篇章
 
-風格：奢華時尚電影，高級珠寶宣傳片，電影級寫實感，超高端製作質量，柔和自然光，夢幻氛圍，淺景深，細膩的運鏡，優雅的轉場，博物館畫廊美學，精緻的調色，永恆的精緻感。
+風格：奢華時尚短片、高級珠寶宣傳、電影級寫實感、超高品質製作、柔和自然光、夢幻氛圍、淺景深、細膩鏡頭運動、優雅轉場、博物館畫廊美學、精緻調色、永恆的精緻感。
 
-配音：溫暖、悅耳的女性旁白，語調優雅輕盈。節奏緩慢，帶有自然的停頓。每一句台詞都充滿優雅與驚嘆。
+旁白：溫暖、悅耳的女性旁白，語調優雅而輕盈。節奏緩慢並帶有自然的停頓。每一句台詞都充滿優雅與驚嘆感。
 
-第一部分 (0:00–0:15) — 隱秘花園甦醒
-在柔和晨光中，鉑金髮色模特的極致特寫，鑽石隱約閃爍。隱秘花園甦醒，蝴蝶飛舞，花朵掛著露珠，金色的陽光灑下。她抬起頭，一條Tiffany風格的項鍊捕捉到了光線。
-配音：「為您呈現……Blue Book 2026的……蝴蝶篇章。」（停頓）「隱秘花園……」（停頓）「這些設計是對……十九世紀Tiffany & Co.經典圖案的致敬。」
+第一部分 (0:00–0:15) — 隱秘花園覺醒
+在柔和晨光中，金髮模特兒的極致特寫，鑽石閃爍著細膩光芒。隱秘花園甦醒，蝴蝶飛舞，花朵上覆蓋著露珠，金色的陽光灑落。她抬起頭，Tiffany 風格的項鍊捕捉到了光線。
+旁白：「隆重介紹……Blue Book 2026 的……蝴蝶篇章。」（停頓）「隱秘花園……」（停頓）「這些設計是對……十九世紀 Tiffany & Co. 圖騰的致敬。」
 
-第二部分 (0:15–0:30) — 藝術化作飛翔
-精緻的畫廊展示著蝴蝶草圖、復古插畫和動態的活蝴蝶。珠寶在光線下旋轉，展現出受經典傳承設計啟發的鮮豔黃鑽。
-配音：「現代演變……」（停頓）「……靈感源自Jean Schlumberger標誌性的蝴蝶手鐲……」（停頓）「專為慈善家Bunny Mellon設計……」（停頓）「……並鑲嵌了罕見的鮮豔黃鑽……」
+第二部分 (0:30–0:30) — 藝術化為飛翔
+精緻的蝴蝶素描畫廊、復古插畫，以及飛舞的蝴蝶。珠寶在光線下旋轉，展現出受經典傳承設計啟發的鮮豔黃鑽。
+旁白：「現代演變……」（停頓）「……靈感源自 Jean Schlumberger 的經典蝴蝶手鐲……」（停頓）「為慈善家 Bunny Mellon 所設計……」（停頓）「……並鑲嵌稀有的鮮豔黃鑽……」
 
 第三部分 (0:30–0:40) — 傳承之翼
-懸浮在黑暗中的鑽石蝴蝶，如星光般閃爍。畫廊揭幕，蝴蝶穿過畫面，溶解在Tiffany藍中。
-配音：「設計旨在模仿蝴蝶的翅膀……」（停頓）「……懸浮在飛行中。」（停頓）「這一篇章延續了……」（停頓）「……近兩個世紀……」（停頓）「……Tiffany高級珠寶的卓越傳承。」
+懸浮在黑暗中的鑽石蝴蝶，閃爍如星光。畫廊場景揭幕，蝴蝶穿過畫面，消融於 Tiffany 藍之中。
+旁白：「設計旨在模仿蝴蝶翅膀……」（停頓）「……懸浮於飛行之中。」（停頓）「這一篇章延續了……」（停頓）「……近兩個世紀的……」（停頓）「……Tiffany 高級珠寶的卓越工藝。」
 
 ━━━━━━━━━━━━━━━━━━━━━━
-結尾畫面：優雅的Logo呈現。柔和的閃光。管弦樂漸弱。
+結尾畫面：優雅的 Logo 呈現。柔和閃光。管弦樂漸弱。
 ```
 
 **作者** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K 追蹤者
@@ -685,113 +685,113 @@ P10：最終街道廣角保持：煙霧從上方湧出，Karma 移動到夜色�
 
 ---
 
-### 11. 芬達 (Fanta) 夏季廣告宣傳
+### 11. Fanta Summer Campaign Commercial
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="芬達 (Fanta) 夏季廣告宣傳"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Fanta Summer Campaign Commercial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-角色設定表 — SHARON (芬達版本)
+CHARACTER SHEET — SHARON (FANTA VERSION)
 
-為一位名叫 SHARON 的年輕西方女性製作專業的照片級真實感角色設定表。
+Create a professional photorealistic character sheet for a young Western woman named SHARON.
 
-年齡：24-26 歲
+Age: 24-26 years old
 
-外觀：
-- 西方女性
-- 肩長金色海灘波浪髮型
-- 藍綠色眼睛
-- 自然雀斑
-- 運動型苗條身材
-- 明亮充滿活力的笑容
-- 健康紅潤的肌膚
+Appearance:
+- Western woman
+- Shoulder-length blonde beach-wave hair
+- Blue-green eyes
+- Natural freckles
+- Athletic slim build
+- Bright energetic smile
+- Healthy glowing skin
 
-服裝：
-- 鮮豔的橘色籃球衣，帶有微妙的芬達風格品牌標誌
-- 白色牛仔短褲
-- 白色厚底運動鞋
-- 橘色與紫色友誼手環
-- 小金圈耳環
+Outfit:
+- Vibrant orange basketball jersey featuring subtle Fanta-inspired branding
+- White denim shorts
+- White chunky sneakers
+- Orange and purple friendship bracelets
+- Small gold hoop earrings
 
-個性：
-- 熱愛樂趣
-- 充滿活力
-- 善於社交
-- 喜愛冒險
-- 調皮
-- 自信
-- 節慶女孩的能量
+Personality:
+- Fun-loving
+- Energetic
+- Social
+- Adventurous
+- Playful
+- Confident
+- Festival-girl energy
 
-表情：
-- 興奮的笑聲
-- 歡樂的笑容
-- 清爽的滿足感
-- 調皮的驚喜
-- 跳舞的快樂
-- 慶祝姿勢
+Expressions:
+- Excited laughter
+- Joyful smile
+- Refreshing satisfaction
+- Playful surprise
+- Dancing happiness
+- Celebration pose
 
-姿勢：
-- 手持芬達罐
-- 喝芬達
-- 跳舞
-- 在噴泉中奔跑
-- 與朋友大笑
-- 舉起罐子慶祝
+Poses:
+- Holding Fanta can
+- Drinking Fanta
+- Dancing
+- Running through fountain
+- Laughing with friends
+- Raising can in celebration
 
-風格：
-照片級真實感廣告宣傳角色設定表，時尚編輯品質，正面視圖，側面視圖，全身，面部表情，優質飲料廣告參考表，8K 超細節。
+Style:
+Photorealistic advertising campaign character sheet, fashion editorial quality, front view, side view, full body, facial expressions, premium beverage commercial reference sheet, 8K ultra detailed.
 ```
 
 **🎬 影片提示詞**
 
 ```
-主角：
-照片級真實感的 25 歲西方女性 Sharon，留著肩長金色海灘波浪髮型，藍綠色眼睛，有雀斑，穿著鮮豔的橘色芬達籃球衣、白色牛仔短褲、白色運動鞋、金圈耳環和橘色友誼手環。
+Main Character:
+Photorealistic 25-year-old Western woman named Sharon with shoulder-length blonde beach-wave hair, blue-green eyes, freckles, wearing a vibrant orange Fanta basketball jersey, white denim shorts, white sneakers, gold hoop earrings and orange friendship bracelets.
 
-故事順序：
+Story Sequence:
 
-1. 冰涼的芬達罐在明亮的藍色夏日天空下的特寫鏡頭。
+1. Ice-cold Fanta can hero shot against bright blue summer sky.
 
-2. Sharon 打開芬達並飲用。橘子汽水的氣泡在陽光下閃爍。
+2. Sharon opens Fanta and drinks. Orange soda bubbles sparkle in sunlight.
 
-3. 她自信地走過色彩繽紛的市中心街道。
+3. She walks confidently through colorful downtown streets.
 
-4. 她在被橘色燈籠和鮮豔霓虹燈照亮的熱鬧夜市中跳舞。
+4. She dances through a lively night market illuminated by orange lanterns and vibrant neon lights.
 
-5. 她在一家時尚的戶外食品攤位與朋友們會合。
+5. She meets her friends at a trendy outdoor food stall.
 
-6. 大家開懷大笑並分享食物，芬達罐自然地放置在桌上。
+6. Everyone laughs and shares food with Fanta cans naturally placed on the table.
 
-7. Sharon 在陽光明媚的廣場上帶著便攜式音箱自由地跳舞。
+7. Sharon dances freely in a sunny plaza with a portable speaker.
 
-8. 朋友們一起跑向城市噴泉。
+8. Friends run together toward a city fountain.
 
-9. 高潮結局：巨大的水花、笑聲、慢動作水滴，Sharon 將她的芬達罐舉向鏡頭。
+9. Climactic finale: giant water splash, laughter, slow motion droplets, Yuna raises her Fanta can toward the camera.
 
-對話：
+Dialogue:
 
-朋友：
+Friend:
 "Sharon!"
 
-Sharon：
-"讓我們讓今天變得難忘！"
+Sharon:
+"Let's make today unforgettable!"
 
-最後一幕：
-Sharon 笑著說：
-"這就是芬達的樂趣！"
+Final Scene:
+Sharon laughing:
+"That's Fanta fun!"
 
-風格：
-照片級真實感商業廣告，優質飲料宣傳品質，明亮的橘色與柑橘色調，夏日能量，動態攝影機運動，淺景深，逼真的水物理效果，生動的生活方式敘事，歡樂的氛圍。
+Style:
+Photorealistic commercial advertising, premium beverage campaign quality, bright orange and citrus color palette, summer energy, dynamic camera movement, shallow depth of field, realistic water physics, vibrant lifestyle storytelling, joyful atmosphere.
 
-無文字覆蓋。
-無字幕。
-高端品牌廣告品質。
+No text overlays.
+No subtitles.
+High-end brand commercial quality.
 ```
 
 **作者** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 追蹤者
@@ -804,107 +804,107 @@ Sharon 笑著說：
 
 ---
 
-### 12. 夢魘覺醒：時空墜落電影序列
+### 12. Nightmare Awakening: Time-Fall Cinematic Sequence
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="夢魘覺醒：時空墜落電影序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Nightmare Awakening: Time-Fall Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-建立一個 16:9 的影像。
+Create a 16:9 image.
 
-[專案卡]
-建立一個緊湊設計的頁首，而非表格。
-標題：夢魘覺醒：時空墜落
-元數據行：夢魘時間扭曲 / 哥德奇幻覺醒 / 連續無剪輯墜落
-優先級：閱讀無盡的墜落、虛假的著陸、加速的現實崩塌、床鋪撞擊、覺醒的寂靜，以及最後沒有武器的「父親」台詞。
-簡介：建立一個從無盡墜落虛空到穩定月光城堡臥室的連續發展主鏡頭。
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: NIGHTMARE AWAKENING: TIME-FALL
+META LINE: nightmare time distortion / gothic fantasy awakening / continuous no-cut descent
+PRIORITY: read the endless fall, false landings, accelerating reality collapse, bed impact, awakening silence, and final "FATHER" line without weapons.
+MICRO BRIEF: Build one unbroken developing master shot from an endless falling void into a stabilized moonlit castle bedroom.
 
-[連續性標頭]
-序列 ID：NIGHTMARE_AWAKENING_TIME_FALL
-部分：單一
-風格包：分鏡表為原始電影黑白鉛筆草圖面板，粗糙的動漫預演能量，強烈的剪影，凌亂的運動線條，米白色紙張，石墨灰邊框，僅在面板藝術外有受限的冷藍色點綴；最終影片目標是獨特的風格化 3D，雕塑感的動漫奇幻角色，霧面石墨靈感的質感，冷月光哥德式照明，藍黑色銀色調，柔和的體積陰影，細薄的時間碎片效果，崩塌的夢境殘骸，古老的城堡建築，流暢的高端電影運鏡。
-參考優先級：提供的身份參考控制 C1 的臉部、身體、極長的白髮、不對稱的藍/紅眼睛、深色不對稱上衣、寬鬆深色長褲、淺色腰帶、比例與剪影；分鏡控制場景調度、運動、地理、連續性；移除武士刀與所有武器。
+[CONTINUITY HEADER]
+SEQUENCE ID: NIGHTMARE_AWAKENING_TIME_FALL
+PART: SINGLE
+STYLE PACKET: storyboard sheet is raw cinematic black-and-white pencil sketch panels, rough anime previs energy, strong silhouettes, messy motion lines, off-white paper, graphite-gray borders, restrained cold-blue accent only outside panel artwork; final video target is unique stylized 3D, sculpted anime-fantasy character, matte graphite-inspired textures, cold moonlit gothic lighting, blue-black silver grade, soft volumetric shadows, thin temporal shard effects, collapsing dream debris, ancient castle architecture, smooth high-end cinematic camera motion.
+REFERENCE PRIORITY: provided identity reference controls C1 face, body, very long white hair, mismatched blue/red eyes, dark asymmetrical top, loose dark pants, pale belt, proportions, and silhouette; storyboard controls staging, motion, geography, continuity; remove katana and all weapons.
 
-[場景包]
-前提：C1 墜入一個無盡的夢魘虛空，破碎的記憶、碎片化的時間線、不可能的建築與崩塌的夢境世界加速進入一個真實的城堡臥室。
-地點：從沒有地板、沒有天空、沒有地平線、沒有穩定重力的黑色空曠空間開始；穿過古老的城堡碎片、未知的戰場、月光森林碎片、廢墟城市剪影、被遺忘的面孔、破碎的時鐘、漂浮的門與混合時代的殘骸；結束於一個寒冷、月光照耀的哥德式城堡房間，有高大的窗戶、石牆、古老的床、窗簾、吊燈、家具與深處的角落陰影。
-開始 -> 結束：C1 獨自墜入不穩定的黑暗中，伸手觸摸即將消失的表面 -> C1 在完全物質化的月光房間內的床上坐直，呼吸急促，雙眼睜大，安靜地說「父親」，攝影機向後拉以揭示廣闊的房間。
-動作鏈：攝影機隨 C1 墜落 -> 當時間碎片掠過時，軌道收緊 -> 虛假表面在她下方出現並崩塌 -> 可辨識的臥室碎片閃爍出現又消失 -> 虛空向床鋪匯聚 -> C1 猛烈地掉進床墊 -> 現實鎖定 -> C1 驚醒 -> 攝影機動量持續進行緩慢的拉遠揭示。
-道具/效果狀態：無武士刀，無武器，無刀刃剪影；漂浮的門、時鐘面、樓梯碎片、城堡拱門、戰場旗幟、廢墟塔樓、月光森林樹枝、記憶面孔、床架、窗簾、石牆接縫、床頭櫃、吊燈、古老家具、細薄的煙霧狀夢境殘留、速度線、時間碎片、崩塌的陰影塊、月光。
-必須閱讀：墜落不是蒙太奇；這是一個連續的同鏡頭運鏡，夢魘時間殘骸崩塌到 C1 醒來的確切床鋪與房間中。
+[SCENE PACKET]
+PREMISE: C1 falls through an endless nightmare void where broken memories, fragmented timelines, impossible architecture, and collapsing dream worlds accelerate into a real castle bedroom.
+LOCATION: start in black empty space with no floor, no sky, no horizon, no stable gravity; pass through ancient castle fragments, unknown battlefields, moonlit forest pieces, ruined city silhouettes, forgotten faces, broken clocks, floating doors, and mixed-era debris; end in a cold moonlit gothic castle chamber with tall windows, stone walls, ancient bed, curtains, chandelier, furniture, and deep corner shadows.
+START -> END: C1 falling alone through unstable darkness, reaching for surfaces that vanish -> C1 upright in bed inside a fully materialized moonlit room, breathing hard, eyes wide, quietly saying "FATHER" as camera pulls back to reveal the vast chamber.
+ACTION CHAIN: camera falls with C1 -> orbit tightens as time fragments rush past -> false surfaces appear under her and collapse -> recognizable castle-bedroom pieces flicker in and out -> the void funnels toward the bed -> C1 drops violently into the mattress -> reality locks into place -> C1 jolts awake -> camera momentum continues into a slow pullback reveal.
+PROP / EFFECT STATE: no katana, no weapons, no blade silhouettes; floating doors, clock faces, staircase fragments, castle arches, battlefield banners, ruined towers, moonlit forest branches, memory faces, bed frame, curtains, stone wall seams, nightstand, chandelier, ancient furniture, thin smoky dream residue, speed lines, time shards, collapsing shadow mass, moonlight.
+MUST READ: the fall is not a montage; it is one continuous same-lens camera move where nightmare time debris collapses into the exact bed and room where C1 wakes.
 
-[角色清理]
-C1：來自所提供角色表中的年輕女性，苗條的運動剪影，極長的白髮，不對稱的藍/紅眼睛，深色不對稱短版裹身上衣，寬鬆深色長褲，淺色腰帶，赤腳或若可見則為柔軟的赤腳，墜落時防禦性的伸手姿勢，床上銳利的坐起覺醒姿勢；無武士刀，無武器，無盔甲，無額外配件。
-移除矛盾特徵、隱形心理、過度的服裝細節以及無法出現在面板中的背景故事。
+[CHARACTER SANITIZATION]
+C1: young woman from the provided character sheet, slim athletic silhouette, very long white hair, mismatched blue/red eyes, dark asymmetrical cropped wrap top, loose dark pants, pale belt, barefoot or soft bare feet if visible, guarded reaching posture during fall, sharp upright wake posture in bed; no katana, no weapons, no armor, no extra accessories.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
 
-[身份一致性]
-身份參考控制臉部、身體、服裝與比例；分鏡僅控制場景調度。在所有面板中保持 C1 的頭髮長度、不對稱眼睛、深色上衣形狀、寬鬆長褲、淺色腰帶、身體比例與螢幕存在感一致。請勿重新設計、改變年齡、美化、合併、添加武器、添加額外角色或更改服裝剪影。被遺忘的面孔僅是抽象的夢魘碎片，而非新角色。
+[IDENTITY CONSISTENCY]
+Identity reference controls face, body, wardrobe, and proportions; storyboard controls staging only. Keep C1 hair length, mismatched eyes, dark top shape, loose pants, pale belt, body proportions, and screen presence consistent across all panels. Do not redesign, age-shift, beautify, merge, add weapons, add extra characters, or change wardrobe silhouette. Forgotten faces are abstract nightmare fragments only, not new characters.
 
-[分鏡純度]
-面板影像僅為視覺、低細節的單色淺灰色粗略草圖。將面板編號、節拍名稱與鏡頭標籤放在每個面板影像外的標頭條中。面板內無顏色、標籤、箭頭、標題、字幕、對話氣泡、標誌、浮水印、時間標記、圖表、UI、幽靈姿勢、重複身體或技術疊加。最後的台詞「父親」在面板標頭/導演條中指示，而非作為繪圖內的對話氣泡。
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, speech bubbles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels. The final spoken word "FATHER" is indicated in the panel header/director strip and video handoff, not as a speech bubble inside the drawing.
 
-[主鏡頭規則]
-P01 作為抽象的主地理：C1 懸浮在無盡的黑色虛空中，沒有地板、天空、地平線，記憶碎片放置在前景、中景與背景中以建立墜落方向與深度。後續面板在虛空轉變為臥室時保持相同的連續向下攝影機路徑。
+[MASTER SHOT RULE]
+P01 acts as the abstract master geography: C1 suspended in endless black void, no floor, no sky, no horizon, with memory fragments placed in foreground, midground, and background to establish fall direction and depth. Later panels preserve the same continuous downward camera path as the void transforms into the bedroom.
 
-[情感弧線]
-迷失漂流 -> 方向迷失的伸手 -> 失敗的穩定 -> 上升的恐慌 -> 猛烈的加速 -> 撞擊震驚 -> 凍結的寂靜 -> 恐懼的覺醒 -> 謹慎的識別 -> 當 C1 說「父親」時的孤獨擔憂。
+[EMOTIONAL ARC]
+lost drift -> disoriented reach -> failed stability -> rising panic -> violent acceleration -> impact shock -> frozen silence -> fearful awakening -> cautious recognition -> lonely concern as C1 says "FATHER."
 
-[風格鎖定]
-風格鎖定：面板藝術保持黑白鉛筆分鏡，乾淨的粗略動漫預演，淺灰色草圖線條，簡化的形式，強烈的剪影，低細節環境，無渲染陰影，面板內無顏色填充；頁面點綴僅可在面板繪圖外使用受限的冷藍色；最終影片風格是獨特的風格化 3D 哥德奇幻，具有霧面雕塑表面、冷月光、深沉柔和的陰影與優雅的時間碎片運動。
-效果鎖定：夢境殘留表現為細薄的煙霧狀石墨絲帶與破碎的碎片輪廓；時間崩塌表現為破碎的時鐘、門、廢墟與掠過攝影機的面孔；陰影崩塌表現為邊緣鬆散的柔和黑色草圖塊；月光在面板中僅表現為白色負空間與簡單的邊緣線。
-環境鎖定：夢魘物體在早期保持不穩定與部分狀態，然後在穩定前反覆揭示床、窗簾、哥德式窗戶、石牆、吊燈、床頭櫃與家具，保持相同的相對佈局；無真實質感漂移，無平面卡通漂移，無完成的概念藝術渲染。
+[STYLE LOCKS]
+STYLE LOCK: panel artwork stays black-and-white pencil storyboard, clean rough anime previs, light-gray sketch lines, simplified forms, strong silhouettes, low-detail environment, no rendered shading, no color fills inside panels; sheet accents may use restrained cold blue only outside panel drawings; final-video style is unique stylized 3D gothic fantasy with matte sculpted surfaces, cold moonlight, deep soft shadows, and elegant time-shard motion.
+EFFECT LOCK: dream residue appears as thin smoky graphite ribbons and broken shard outlines; time collapse appears as fractured clocks, doors, ruins, and faces stretching past camera; shadow collapse appears as soft black sketch masses with loose edges; moonlight appears in panels as white negative space and simple rim lines only.
+ENVIRONMENT LOCK: nightmare objects stay unstable and partial early, then repeatedly reveal bed, curtain, gothic window, stone wall, chandelier, nightstand, and furniture in the same relative layout before stabilizing; no realistic texture drift, no flat cartoon drift, no finished concept-art rendering.
 
-[空間連續性鎖定]
-P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在墜落軸線上略微偏下的中心位置；高大的哥德式窗戶保持在床的後方/右側；窗簾框住窗戶；石牆接縫、吊燈、床頭櫃、家具剪影與月光方向保持相同的相對位置。P10 不是新的建立鏡頭；它只是在現實穩定後從 P09 進一步拉遠。唯一允許的變化是攝影機距離、C1 姿勢與視線、夢魘效果狀態的消退以及房間堅固度的增加。
+[SPATIAL CONTINUITY LOCK]
+P06, P07, P08, P09, and P10 share the same destination layout. The bed remains centered slightly lower frame on the fall axis; the tall gothic window stays behind/right of the bed; curtains frame the window; stone wall seams, chandelier, nightstand, furniture silhouettes, and moonlight direction keep identical relative positions. P10 is not a new establishing shot; it is only a farther pullback from P09 after reality stabilizes. The only allowed changes are camera distance, C1 pose and eye-line, nightmare effect state fading out, and room solidity increasing.
 
-[導演條]
-底部動畫軌道板與面板列對齊。軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用鏡頭碎片、細線、節奏塊、小強度條、一到三個字的標籤。無秒數或時間戳。
-節奏軌道格式：`RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`。
-升級地圖格式：`ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`。
-面板標頭：P01 / 24mm 同鏡頭 / 虛空墜落主鏡頭 -> P02 / 24mm 同鏡頭 / 記憶殘骸衝刺 -> P03 / 24mm 同鏡頭 / 虛假著陸消失 -> P04 / 24mm 同鏡頭 / 時間線碰撞 -> P05 / 24mm 同鏡頭 / 房間碎片閃爍 -> P06 / 24mm 同鏡頭 / 床鋪目標形成 -> P07 / 24mm 同鏡頭 / 猛烈墜落撞擊 -> P08 / 24mm 同鏡頭 / 現實寂靜鎖定 -> P09 / 24mm 同鏡頭 / 覺醒坐起父親 -> P10 / 24mm 同鏡頭 / 最後拉遠房間
-攝影機 + 鏡頭計畫：P01 寬廣主鏡頭隨 C1 中框墜落 -> P02 同鏡頭墜落軌道，殘骸掠過前景 -> P03 攝影機在 C1 下方下沉，虛假地板在軸線上崩塌 -> P04 軌道收緊並隨時間線碎片滾動 -> P05 同墜落軸線，臥室錨點在框周圍閃爍 -> P06 攝影機與 C1 直接對齊在形成的床鋪上方 -> P07 撞擊進入床墊的最接近點，無剪輯 -> P08 動量緩解進入床邊的低近距離保持 -> P09 保持相同軸線，C1 驚醒坐起 -> P10 在相同軸線上連續拉遠至最後的廣闊房間保持
-動作路徑：P01 C1 在空曠虛空中墜落並向外伸手 -> P02 時鐘、門、面孔、城堡、森林掠過她 -> P03 明顯的樓梯或石架在她手下形成然後溶解 -> P04 戰場、廢墟城市與時代扭曲成螺旋 -> P05 窗簾、牆壁、窗戶、床鋪碎片閃爍並破碎 -> P06 床鋪在下方鎖定，同時夢魘向內匯聚 -> P07 C1 掉進床鋪，所有碎片在接觸瞬間崩塌至一點 -> P08 房間變得堅固，夢魘殘留消失 -> P09 C1 坐直呼吸急促，眼睛掃視，僅在標頭中顯示「父親」 -> P10 攝影機從廣闊月光房間中渺小的 C1 拉遠
-節奏軌道：RHY P01: 緩慢揭示 / 長塊 / 保持節拍 -> RHY P02: 建立 / 中塊 / 鞭打節拍 -> RHY P03: 爆發 / 短塊 / 粉碎節拍 -> RHY P04: 建立 / 中塊 / 鞭打節拍 -> RHY P05: 爆發 / 短塊 / 匹配節拍 -> RHY P06: 建立 / 中塊 / 乾淨節拍 -> RHY P07: 撞擊 / 短塊 / 粉碎節拍 -> RHY P08: 暫停 / 長塊 / 保持節拍 -> RHY P09: 恢復 / 中塊 / 保持節拍 -> RHY P10: 最後一擊 / 長塊 / 保持節拍
-升級地圖：ESC P01: L2 緊張 / 上升 -> ESC P02: L3 上升 / 上升 -> ESC P03: L4 激增 / 尖峰 -> ESC P04: L4 激增 / 上升 -> ESC P05: L5 峰值 / 尖峰 -> ESC P06: L5 峰值 / 上升 -> ESC P07: L5 峰值 / 尖峰 -> ESC P08: L1 冷靜 / 下降 -> ESC P09: L2 緊張 / 未解決 -> ESC P10: L2 緊張 / 釋放
-狀態軌道：P01 無地板無天空無地平線，C1 中心墜落 -> P02 時間殘骸前景至背景，無武器 -> P03 虛假表面溶解，墜落方向保持 -> P04 時代圍繞同一軸線螺旋 -> P05 臥室錨點閃爍，不穩定 -> P06 床鋪中心偏下，窗戶在後方/右側開始 -> P07 床鋪撞擊，碎片向內崩塌 -> P08 房間堅固，月光在右，殘留消退 -> P09 相同床鋪與窗戶佈局，C1 坐直 -> P10 相同佈局進一步拉遠，房間寬廣
-風格軌道：P01 粗糙石墨虛空 -> P02 速度線碎片 -> P03 溶解草圖塊 -> P04 破碎時間螺旋 -> P05 閃爍房間錨點 -> P06 漏斗剪影 -> P07 黑色撞擊爆發 -> P08 白色月光負空間 -> P09 安靜鉛筆近景 -> P10 乾淨哥德式廣景
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm same-lens / Void fall master -> P02 / 24mm same-lens / Memory debris rush -> P03 / 24mm same-lens / False landing vanishes -> P04 / 24mm same-lens / Timeline collision -> P05 / 24mm same-lens / Room fragments flicker -> P06 / 24mm same-lens / Bed target forms -> P07 / 24mm same-lens / Violent descent impact -> P08 / 24mm same-lens / Reality locks silent -> P09 / 24mm same-lens / Awake upright Father -> P10 / 24mm same-lens / Final pullback chamber
+CAMERA + LENS PLAN: P01 falling wide master with C1 mid-frame -> P02 same-lens falling orbit, debris passes foreground -> P03 camera dips below C1 as false floor collapses above axis -> P04 orbit tightens and rolls with timeline shards -> P05 same fall axis, bedroom anchors strobe around frame -> P06 camera and C1 align directly above forming bed -> P07 crash-down closest point into mattress, no cut -> P08 momentum eases into low close hold beside bed -> P09 hold same axis as C1 jolts upright -> P10 continuous pullback on same axis to final wide chamber hold
+ACTION PATH: P01 C1 falls through empty void reaching outward -> P02 clocks doors faces castles forests rush past her -> P03 apparent stair or stone ledge forms under her hand then dissolves -> P04 battlefields ruined cities and eras twist into a spiral -> P05 curtain wall window bed fragments flash and break apart -> P06 bed locks below while nightmare funnels inward -> P07 C1 drops into bed as all fragments collapse to one point -> P08 room becomes solid and nightmare residue disappears -> P09 C1 sits upright breathing hard, eyes scanning, "FATHER" in header only -> P10 camera pulls back from C1 small in vast moonlit chamber
+RHYTHM TRACK: RHY P01: slow reveal / long block / held beat -> RHY P02: build / medium block / whip beat -> RHY P03: burst / short block / smash beat -> RHY P04: build / medium block / whip beat -> RHY P05: burst / short block / match beat -> RHY P06: build / medium block / clean beat -> RHY P07: impact / short block / smash beat -> RHY P08: pause / long block / held beat -> RHY P09: recover / medium block / held beat -> RHY P10: final hit / long block / held beat
+ESCALATION MAP: ESC P01: L2 tension / rise -> ESC P02: L3 rise / rise -> ESC P03: L4 surge / spike -> ESC P04: L4 surge / rise -> ESC P05: L5 peak / spike -> ESC P06: L5 peak / rise -> ESC P07: L5 peak / spike -> ESC P08: L1 calm / drop -> ESC P09: L2 tension / unresolved -> ESC P10: L2 tension / release
+STATE TRACK: P01 no floor no sky no horizon, C1 falling center -> P02 time debris foreground to background, no weapons -> P03 false surface dissolves, fall direction maintained -> P04 eras spiral around same axis -> P05 bedroom anchors flicker, not stable -> P06 bed center-lower, window behind/right begins -> P07 bed impact, fragments collapse inward -> P08 room solid, moonlight right, residue fading -> P09 same bed and window layout, C1 upright -> P10 same layout farther pullback, chamber wide
+STYLE TRACK: P01 rough graphite void -> P02 speed-line shards -> P03 dissolving sketch mass -> P04 fractured time spiral -> P05 strobe room anchors -> P06 funnel silhouettes -> P07 black impact burst -> P08 white moon negative space -> P09 quiet pencil close -> P10 clean gothic wide
 
-[序列]
-網格：10 個面板，緊湊的 5x2 電影分鏡表，連續發展的主鏡頭，一個虛擬鏡頭，無剪輯，面板標頭與導演條在單色面板藝術之外。
-您可以在下方找到提示。
+[SEQUENCE]
+Grid: 10 panels, compact 5x2 cinematic storyboard sheet, continuous developing master shot, one virtual lens, no cuts, panel headers and director strip outside the monochrome panel artwork.
+You can find the prompts below.
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用 @[storyboard ref] 作為權威的鏡頭藍圖。請勿渲染分鏡表本身。忽略所有邊框、面板框架、文字、標籤、標頭、色板、導演條圖形與佈局元素。將每個面板視為一個連續的電影節拍。
-整個影片必須作為一個連續發展的主鏡頭播放，沒有可見的剪輯；每個面板是同一個不間斷攝影機移動的採樣階段，而非單獨的鏡頭。
-使用一個虛擬鏡頭 / 同鏡頭連續攝影機移動；比例變化僅來自物理攝影機移動。
-使用 @[character ref] 作為權威的 C1 角色參考。
-對於最終房間，保持 P06 到 P10 在相同的墜落軸線與相同的城堡臥室佈局上：床鋪中心略低，高大的哥德式窗戶在後方/右側，窗簾、石牆接縫、吊燈、床頭櫃、家具剪影與月光方向固定；僅攝影機距離、C1 姿勢與夢魘殘留狀態可以改變。
+Use @[storyboard ref] as the authoritative shot blueprint. Do not render the storyboard sheet itself. Ignore all borders, panel frames, text, labels, headers, swatches, director-strip graphics and layout elements. Treat each panel as one sequential cinematic beat.
+The entire video must play as one continuous developing master shot with no visible cuts; each panel is a sampled phase of the same uninterrupted camera move, not a separate shot.
+Use one virtual lens / same-lens continuous camera move; scale changes come from physical camera movement only.
+Use @[character ref] as the authoritative C1 character reference.
+For the final room, keep P06 through P10 on the same fall axis and same castle-bedroom layout: bed centered slightly low, tall gothic window behind/right, curtains, stone wall seams, chandelier, nightstand, furniture silhouettes, and moonlight direction fixed; only camera distance, C1 pose, and nightmare residue state may change.
 
-建立一個 16:9 的電影影片，C1 墜入一個夢魘時空旅行虛空，崩塌進入一個月光照耀的哥德式城堡臥室，她在那裡醒來並說「父親」。
+Create a cinematic 16:9 video of C1 falling through a nightmare time-travel void that collapses into a moonlit gothic castle bedroom where she awakens and says "FATHER."
 
-最終風格：風格化奇幻，忠於參考的雕塑感動漫奇幻角色，霧面石墨靈感的表面，冷銀藍色月光，深沉柔和的體積陰影，細薄的時間碎片效果，崩塌的夢境殘骸，優雅的高端電影運鏡，無武士刀，無武器。
+Final style: stylized fantasy, sculpted anime-fantasy character faithful to the reference, matte graphite-inspired surfaces, cold silver-blue moonlight, deep soft volumetric shadows, thin temporal shard effects, collapsing dream debris, elegant high-end cinematic camera motion, no katana, no weapons.
 
-1. 從無地板、天空或地平線的無盡黑色空間開始，C1 在中框墜落，極長的白髮向上飄動，一隻手伸出尋求穩定，同時攝影機隨她墜落。
-2. 攝影機開始平滑的墜落軌道，破碎的時鐘、漂浮的門、古老的城堡碎片、月光森林樹枝、廢墟城市、戰場碎片與被遺忘的面孔在不同深度掠過。
-3. 一個石樓梯或壁架在 C1 下方瞬間出現；她向它伸出手，但在接觸前溶解，攝影機在相同的向下路徑上從她下方掉落。
-4. 不同時代在她周圍碰撞，城堡拱門、戰場旗幟、城市廢墟與時鐘面旋轉得更快，像失控的時間旅行一樣彎曲框架。
-5. 可辨識的臥室碎片在夢魘中閃爍：床架、窗簾、高大的哥德式窗戶、石牆與床頭櫃在 C1 持續墜落時出現又消失。
-6. 墜落軸線向下方部分形成的床鋪收窄；當窗戶、窗簾、吊燈與石牆試圖鎖定到位時，夢魘碎片向內匯聚。
-7. C1 猛烈地掉進床鋪而非黑暗或石頭中，所有虛空碎片、時間碎片與城堡建築在接觸瞬間崩塌至床墊點。
-8. 現實寂靜鎖定：城堡臥室在床鋪周圍完全物質化，月光透過高大的哥德式窗戶傾瀉而入，石牆與家具變得堅固，夢魘殘留消散。
-9. 沒有剪輯，C1 在床上驚醒坐起，呼吸急促，雙眼睜大且恐懼，掃視房間以測試她是否清醒，然後安靜地說「父親」。
-10. 攝影機繼續其剩餘的動量，從相同的軸線緩慢拉遠，揭示廣闊的月光城堡房間、古老的石建築、孤獨的家具以及冷光下床上渺小的 C1。
+1. Begin in endless black space with no floor, sky, or horizon as C1 falls mid-frame, very long white hair streaming upward, one hand reaching for stability while the camera falls with her.
+2. The camera starts a smooth falling orbit as broken clocks, floating doors, ancient castle pieces, moonlit forest branches, ruined cities, battlefield fragments, and forgotten faces rush past in different depths.
+3. A stone stair or ledge appears beneath C1 for an instant; she reaches toward it, but it dissolves before contact and the camera drops under her on the same downward path.
+4. Different eras collide around her as castle arches, battlefield banners, city ruins, and clock faces spiral faster, bending the frame like uncontrolled time travel.
+5. Recognizable bedroom pieces flash in the nightmare: a bed frame, a curtain, a tall gothic window, a stone wall, and a nightstand appear and vanish while C1 keeps falling.
+6. The falling axis narrows toward a partially formed bed below; nightmare fragments funnel inward as the window, curtains, chandelier, and stone wall try to lock into place.
+7. C1 drops violently into the bed instead of darkness or stone, and all void fragments, time shards, and castle architecture collapse into the mattress point at the instant of contact.
+8. Reality snaps silent: the castle bedroom fully materializes around the bed, moonlight pours through the tall gothic window, stone walls and furniture become solid, and the nightmare residue thins away.
+9. Without a cut, C1 jolts upright in bed breathing hard, eyes wide and fearful, scanning the room to test whether she is awake, then quietly says "FATHER."
+10. The camera continues its remaining momentum into a slow pullback from the same axis, revealing the vast moonlit castle chamber, ancient stone architecture, lonely furniture, and C1 small in the bed under cold light.
 
-您可以在下方找到提示。
+You can find the prompts below.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -917,40 +917,40 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 13. 賽博龐克動作英雄電影級片段
+### 13. Cyberpunk Action Hero Cinematic Sequence
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="賽博龐克動作英雄電影級片段"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061371826320933043_0_poster.jpg" width="480" alt="Cyberpunk Action Hero Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-一場高強度的 15 秒電影級動作片段，主角是一位時尚的年輕亞裔男子，留著飄逸的銀藍色長髮，五官銳利，身處黑暗的賽博龐克末日世界。
+A high-octane 15-second cinematic action sequence featuring a stylish young Asian man with long, flowing silver-blue hair and sharp facial features, in a dark cyberpunk post-apocalyptic world.
 
-他穿著黑色皮夾克、戰術長褲和厚重的戰鬥靴。動畫動態流暢且細節極其豐富。
+He is wearing a black leather jacket, tactical pants, and heavy combat boots. Dynamic, fluid, and extremely detailed animation.
 
-場景順序：
+Scene sequence:
 
-0-3秒：
-他強有力地奔跑在充滿煙霧和火花的黑暗廢棄工業走廊中，背影顯示夾克上的「LRG」字樣，隨後轉身向前衝刺，爆炸和槍口火光照亮了走廊。
+0-3s: 
+He runs powerfully through a dark abandoned industrial hallway filled with smoke and sparks, back view showing "LRG" text on his jacket, then turns and sprints forward as explosions and muzzle flashes light up the corridor.
 
-3-6秒：
-臉部和頭髮戲劇性飄動的特寫鏡頭，接著是一個強力的踢腿擊碎碎片，隨後他俯衝翻滾，同時雙手持槍射擊，槍口閃爍著明亮的火光。
+3-6s: 
+Intense close-ups of his face and hair flowing dramatically, followed by a powerful boot kick that shatters debris, then he dives and rolls while firing dual pistols with bright muzzle flashes.
 
-6-9秒：
-史詩般的慢動作跳躍——他穿過一扇巨大的玻璃窗，將其擊碎成數千片，隨後在空中完成特技翻轉，周圍環繞著飛散的玻璃和火焰。
+6-9s: 
+Epic slow-motion jumps — he leaps through a large glass window, shattering it into thousands of pieces, then performs a mid-air acrobatic flip while surrounded by flying glass and fire.
 
-9-12秒：
-他衝出燃燒的建築物，穿過火焰，降落在夜晚被摧毀的城市街道上，背景是燃燒的汽車和爆炸，隨後他蹲下擺出戲劇性的英雄姿勢。
+9-12s: 
+He jumps out of a burning building through flames, lands in a destroyed city street at night with burning cars and explosions in the background, then crouches low in a dramatic hero pose.
 
-12-15秒：
-最後是主角堅定臉龐的強烈特寫，頭髮戲劇性地飄動，隨後他帶著強烈的表情直接向鏡頭衝來，身後整座城市陷入火海。
+12-15s: 
+Final intense close-up of his determined face with hair dramatically blowing, then he charges forward directly toward camera with intense expression as the entire city burns behind him.
 
-電影級燈光、戲劇性的輪廓光、濃煙與火花、頭髮與衣物的真實物理效果、高度細節、照片級真實感、史詩動作電影風格（如 John Wick 遇上 Cyberpunk 2077）、暗色調氛圍感調色、8K 品質、流暢的 60fps 動態。
+Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic physics on hair and clothing, highly detailed, photorealistic, epic action movie style like John Wick meets Cyberpunk 2077, dark moody color grading, 8K quality, smooth 60fps motion.
 ```
 
 **作者** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 追蹤者
@@ -963,33 +963,33 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 14. 90年代迪士尼風格：阿努比斯的秘密贈禮
+### 14. 90年代迪士尼风格：阿努比斯的秘密赠礼
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼風格：阿努比斯的秘密贈禮"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061102860004098310_0_poster.jpg" width="480" alt="90年代迪士尼风格：阿努比斯的秘密赠礼"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-經典的90年代迪士尼動畫風格。
+经典的90年代迪士尼动画风格。
 
-場景一：在埃及的一座宮殿裡，鏡頭切換到王座廳內部，我們看到：威嚴的胡狼神阿努比斯端坐在王座上，一群下屬（士兵、顧問和一些卑微的僕人，都是人類）跪在他面前。他漫不經心地揮了揮手，輕蔑地對他們說：「現在離開。」然後便懶洋洋地靠回王座，一副百無聊賴的樣子。
+场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士兵、顾问和一些卑微的仆人，都是人类）跪在他面前。他漫不经心地挥了挥手，轻蔑地对他们说：“现在离开。”然后便懒洋洋地靠回王座，一副百无聊赖的样子。
 
-場景二：下屬們毫不猶豫地遵從他的命令，緩緩離去，阿努比斯注視著他們。但最後一個，一個卑微的人類僕人，阿努比斯卻特意吩咐道：「你，僕人，等等。」僕人轉過身來，一臉困惑和驚訝，不明白威嚴的阿努比斯究竟想要什麼。
+场景二：下属们毫不犹豫地遵从他的命令，缓缓离去，阿努比斯注视着他们。但最后一个，一个卑微的人类仆人，阿努比斯却特意吩咐道：“你，仆人，等等。”仆人转过身来，一脸困惑和惊讶，不明白威严的阿努比斯究竟想要什么。
 
-場景三：其他下屬都已離開，阿努比斯說：「過來。」僕人有些緊張，仍然一頭霧水，走向阿努比斯。
+场景三：其他下属都已离开，阿努比斯说：“过来。”仆人有些紧张，仍然一头雾水，走向阿努比斯。
 
-場景四：阿努比斯從王座後取出一束鮮花，神情漫不經心地將花束遞到一臉驚訝的僕人面前。他微微側過頭，略顯尷尬，不願直視僕人的眼睛，說道：「拿著吧。」
+场景4：阿努比斯从王座后取出一束鲜花，神情漫不经心地将花束递到一脸惊讶的仆人面前。他微微侧过头，略显尴尬，不愿直视仆人的眼睛，说道：“拿着吧。”
 
-場景五：僕人接過花束，臉上依然帶著困惑。阿努比斯仍然沒有看向他，揮了揮手，說道：「你可以走了。」僕人點點頭，拿著花束，一臉茫然地離開了。
+场景5：仆人接过花束，脸上依然带着困惑。阿努比斯仍然没有看向他，挥了挥手，说道：“你可以走了。”仆人点点头，拿着花束，一脸茫然地离开了。
 
-場景六：阿努比斯目送僕人離去，臉上依舊是漫不經心的表情，但嘴角卻浮現出一絲微笑。他手托著下巴，目送僕人離去，似乎對這位僕人頗有好感。
+场景6：阿努比斯目送仆人离去，脸上依旧是漫不经心的表情，但嘴角却浮现出一丝微笑。他手托着下巴，目送仆人离去，似乎对这位仆人颇有好感。
 
-阿努比斯肌肉發達，手臂、脖子和脖子上都戴著環和耳環。他赤裸著上身。他的聲音低沉而富有磁性。語音為英文。
+阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
 **作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K 追蹤者
@@ -1002,20 +1002,20 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 15. 日落時分伊斯坦堡上空的電影級無人機飛行
+### 15. Cinematic Drone Flight Over Istanbul at Sunset
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="日落時分伊斯坦堡上空的電影級無人機飛行"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Cinematic Drone Flight Over Istanbul at Sunset"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-以參考圖像作為確切位置和飛行路徑指南，創作一段伊斯坦堡黃金時刻的電影級寫實高速無人機影片。無人機從海面極低處起飛，幾乎掠過水面，面向加拉塔海岸。它在波光粼粼的海面上快速向前加速，沿著繪製的路徑從前景水域飛向城市。繞行後，攝影機傾斜並向金角灣、歷史半島天際線、日落倒影、渡輪、屋頂以及伊斯坦堡璀璨的氛圍展開。 
-繪製的紅線不得出現在影片中；它僅作為隱藏的飛行路徑參考。添加強有力的情感化土耳其電影配樂：深沉的奈伊笛旋律、戲劇性的達布卡鼓節奏、管弦樂弦樂、細膩的巴拉馬琴質感、史詩般的漸強打擊樂，以及當無人機到達加拉塔塔時宏大的英雄式高潮。無文字、無字幕、無標誌、無圖形疊加。
+Create a cinematic realistic high-speed drone video over Istanbul at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the sea surface, almost skimming the water, facing the Galata shoreline. It accelerates quickly forward over the rippling sea, following the drawn path from the foreground water toward the city. After the orbit, the camera tilts and opens toward the Golden Horn, the Historic Peninsula skyline, sunset reflections, ferries, rooftops, and glowing Istanbul atmosphere. 
+The red drawn line must not appear in the video; it is only a hidden flight-path reference. Add powerful emotional Turkish cinematic music: deep ney melody, dramatic darbuka rhythm, orchestral strings, subtle bağlama texture, epic rising percussion, and a grand heroic crescendo as the drone reaches Galata Tower. No text, no subtitles, no logos, no graphic overlays.
 ```
 
 **作者** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.5K 追蹤者
@@ -1028,157 +1028,157 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 16. Felicita 森林追逐跑酷序列
+### 16. Felicita Forest Chase Parkour Sequence
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita 森林追逐跑酷序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita Forest Chase Parkour Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-建立一個 16:9 的圖像。
-[專案卡]
-在頁面頂部建立一個設計過的排版標題，而不是表格。
-標題：FELICITA / CANOPY RUN
-元數據行：狂野喘息的追逐 / 動畫奇幻跑酷 / 手持 FPV 動量
-優先行：一個連續的後方追逐攝影機，可讀的跳躍、抓取、樹枝閃避和向上的森林地理
-微簡介：跟隨狐狸女孩從長滿青苔的地面衝刺到明亮的樹冠爆發，一鏡到底。
+create a 16:9 image.
+[PROJECT CARD]
+Create a designed typographic masthead at the top of the sheet, not a table.
+TITLE LOCKUP: FELICITA / CANOPY RUN
+META LINE: wild breathless chase / animated fantasy parkour / handheld FPV momentum
+PRIORITY LINE: one continuous rear-chase camera, readable jumps, grabs, branch dodges, and upward forest geography
+MICRO BRIEF: Follow the fox girl from mossy ground sprint to bright canopy burst in one unbroken shot.
 
-[連續性標題]
-序列 ID：FELICITA_FOREST_CHASE_01
-部分：單一
-風格包：最終影片風格為高端動畫奇幻電影，風格化的電影寫實主義，優質動畫品質，超逼真的動漫賽璐珞陰影，繪畫風格的手繪森林背景，大膽乾淨的線條，Hyperreal Pop Look 調色板，帶有溫暖的陽光射線，飽和的苔蘚綠，明亮的樹皮棕，鮮豔的藍色和服，橙白色尾巴，清脆柔軟的賽璐珞陰影，觸感豐富的繪畫葉片紋理，強烈的深度分層，反應式手持鏡頭重新對焦，無發光軌跡，無絲帶軌跡，無能量條紋。
-參考優先級：提供的角色表控制 Felicita 的身份、服裝、比例、辮子、狐狸耳朵、尾巴、和服夾克、短褲、運動鞋、腿套和紅色帶子；此分鏡腳本控制鏡頭流動、舞台設計、動作、地理和連續性。
+[CONTINUITY HEADER]
+SEQUENCE ID: FELICITA_FOREST_CHASE_01
+PART: SINGLE
+STYLE PACKET: final video style is high-end animated fantasy film, stylized cinematic realism, premium animation quality, hyper-realistic anime cel shading, painterly hand-painted forest backgrounds, bold clean linework, Hyperreal Pop Look palette with warm sun shafts, saturated moss greens, bright bark browns, vivid blue kimono, orange-white tail, crisp soft cel shadows, tactile painted leaf texture, strong depth layering, reactive handheld lens refocus, no glowing trail, no ribbon trail, no energy streak.
+REFERENCE PRIORITY: provided character sheet controls Felicita identity, costume, proportions, braids, fox ears, tail, kimono jacket, shorts, sneakers, leg warmers, and red strap; this storyboard controls shot flow, staging, motion, geography, and continuity.
 
-[場景包]
-場景前提：Felicita 將森林逃亡變成了俏皮的跑酷，將觀眾從長滿青苔的小徑向上拉入樹冠。
-場景摘要：一個單一的手持 FPV 追逐鏡頭緊隨其後，她衝刺、滑行、攀爬、擺盪、翻轉並衝向白色的陽光眩光。
-地點：茂密的陽光森林，上午晚些時候，下方長滿青苔的小徑，暴露的根部，倒下的樹幹，巨石，傾斜的樹木，低矮的樹枝，粗壯的肢體，藤蔓，茂密的葉子隧道，上方明亮的樹冠開口；空間開始時接地且狹窄，然後上升到分層的樹枝和綠光中。
-角色職責：Felicita 是唯一的角色，一個狐狸女孩，有粉紅色的辮子，黑尖的耳朵，橙白色的尾巴，藍色潑墨和服夾克，短褲，運動鞋，腿套和紅色斜挎帶；她追求速度、高度和對追逐的俏皮主導地位；她以敏捷的狐狸跑酷、快速抓取、彈性著陸和銳利的向後回眸移動。
-開始狀態：Felicita 在長滿青苔的森林小徑上低蹲，面向螢幕前方，背對攝影機；耳朵抽動，尾巴低垂並準備好；攝影機從後方跑者高度開始，手持且喘息。
-結束狀態：Felicita 從最後的藤蔓擺盪中釋放，穿過葉子向上衝向白色的陽光樹冠開口，回頭露出兇猛的笑容並做出鬆散的兩指槍手勢，然後眩光吞沒了畫面。
-動作鏈：蹲下壓縮成衝刺，衝刺強制滑過樹幹，滑行反彈成巨石跳躍，跳躍重定向到傾斜的樹木，樹木奔跑導致樹枝抓取，樹枝擺盪將她提升到小徑上方，升高的衝刺創造了間隙跳躍，葉子潛水短暫隱藏她，一個速度坡道將她懸浮在折斷的樹枝上，著陸滑入藤蔓抓取，藤蔓擺盪纏繞在巨大的樹幹周圍，釋放將她穿過葉子隧道衝入陽光眩光。
-道具/效果狀態：除了服裝和帶子外沒有攜帶道具；沒有魔法軌跡，沒有發光絲帶，沒有能量線，沒有彩色條紋；僅通過姿勢、頭髮和尾巴的提升、葉子位移、樹皮擦傷、碎片、花粉和手持取景來顯示速度。
-必讀：整個序列必須感覺像是一次連續的近距離 FPV 森林追逐，從地面攀升到樹冠，而不失去 Felicita 的身份。
+[SCENE PACKET]
+SCENE PREMISE: Felicita turns a forest escape into playful parkour, pulling the viewer upward from the mossy path into the canopy.
+SCENE SUMMARY: A single handheld FPV chase follows close behind her as she sprints, slides, climbs, swings, flips, and bursts toward white sun glare.
+LOCATION: dense sunlit forest, late morning, mossy path below, exposed roots, fallen trunk, boulder, tilted tree, low branches, thick limbs, vines, dense leaf tunnel, bright canopy opening above; space begins grounded and tight, then rises into layered branches and green light.
+CHARACTER ROLES: Felicita is the only character, a fox girl with pink braids, black-tipped ears, orange-white tail, blue splattered kimono jacket, shorts, sneakers, leg warmers, and red crossbody strap; she wants speed, height, and playful dominance over the chase; she moves with agile fox-like parkour, quick grabs, springy landings, and sharp looks back.
+START STATE: Felicita crouches low on a mossy forest path facing screen-forward away from camera; ears twitch, tail low and ready; camera begins close behind at runner height, handheld and breathless.
+END STATE: Felicita releases from the final vine swing and rockets upward through leaves toward a white sunlit canopy opening, turning back with a fierce grin and loose two-finger gun gesture before glare swallows the frame.
+ACTION CHAIN: crouch compresses into sprint, sprint forces slide under trunk, slide rebounds into boulder vault, vault redirects onto tilted tree, tree run leads to branch grab, branch swing lifts her above the path, elevated sprint creates gap leap, leaf dive hides her briefly, one speed ramp suspends her flip over a snapping branch, landing skids into vine grab, vine swing wraps around a massive trunk, release launches her through a leaf tunnel into sun glare.
+PROP / EFFECT STATE: no carried props beyond outfit and strap; no magical trails, no glow ribbons, no energy lines, no colored streaks; show speed only through pose, hair and tail lift, leaf displacement, bark scuffs, splinters, pollen, and handheld framing.
+MUST READ: The whole sequence must feel like one continuous close-range FPV forest chase that climbs from ground to canopy without losing Felicita’s identity.
 
-[風格關鍵影格]
-添加 3 個微小的頂部色板，僅顯示預期的最終影片渲染：穿過飽和綠色樹冠的溫暖陽光射線，帶有清脆乾淨線條的繪畫苔蘚和樹皮紋理，橙白色尾巴和藍色潑墨和服上的柔軟賽璐珞陰影，明亮的 Hyperreal Pop 色彩分離，來自花粉和葉子的淺層重新對焦閃光。這些不是角色參考，也不是分鏡腳本草圖風格。
+[STYLE KEYFRAMES]
+Add 3 tiny top swatches showing the intended final video rendering only: warm sun shafts through saturated green canopy, painterly moss-and-bark texture with crisp clean linework, soft cel shadow on orange-white tail and blue splattered kimono, bright Hyperreal Pop color separation, shallow refocus sparkle from pollen and leaves. These are not character references and not storyboard-sketch style.
 
-[風格鎖定]
-風格鎖定：最終影片保持高端動畫奇幻電影，風格化的電影寫實主義，優質動畫品質，超逼真的動漫賽璐珞陰影，繪畫風格的手繪森林背景，大膽乾淨的線條，Hyperreal Pop Look 調色板，溫暖的陽光綠色，鮮豔的藍色和服，橙白色尾巴，柔軟清脆的賽璐珞陰影，豐富的深度分層，乾淨的動作可讀性。
-效果鎖定：無發光軌跡，無絲帶，無條紋，無能量線；速度僅通過身體姿勢、攝影機抖動、葉子鞭打、樹皮碎片、花粉凍結、碎片、衣服提升、辮子漂浮和尾巴慣性來表達。
-環境鎖定：森林保持繪畫風格和維度，帶有苔蘚、根部、樹皮、樹枝、藤蔓、葉簇、陽光射線和樹冠深度；避免逼真的照片紋理漂移，避免平坦的卡通背景漂移。
+[STYLE LOCKS]
+STYLE LOCK: final video remains high-end animated fantasy film, stylized cinematic realism, premium animation quality, hyper-realistic anime cel shading, painterly hand-painted forest backgrounds, bold clean linework, Hyperreal Pop Look palette, warm sunlit greens, vivid blue kimono, orange-white tail, soft crisp cel shadows, rich depth layering, clean action readability.
+EFFECT LOCK: no glowing trail, no ribbon, no streak, no energy line; speed is expressed only by body pose, camera shake, leaf whip, bark debris, pollen freeze, splinters, cloth lift, braids float, and tail inertia.
+ENVIRONMENT LOCK: forest stays painterly and dimensional with moss, roots, bark, branches, vines, leaf clusters, sun shafts, and canopy depth; avoid realistic photo texture drift and avoid flat cartoon background drift.
 
-[頁面拋光]
-使用優質的米白色分鏡腳本紙，具有富有表現力的追逐靈感排版、向前傾斜的標題節奏、細石墨灰色的面板邊框、均勻的裝訂線、緊湊的面板標題以及面板外受限制的苔蘚綠和狐狸橙色強調色。將所有強調顏色僅保持在面板圖像區域之外。在面板標題和導演條單元格上使用稍微傾斜的飾邊以暗示向前運動。避免表格狀標題、光澤 UI、漸層、貼紙、雜亂和隨機裝飾。
+[SHEET POLISH]
+Use a premium off-white storyboard sheet with expressive chase-inspired typography, forward-leaning title rhythm, fine graphite-gray panel borders, even gutters, compact panel headers, and restrained outside-panel accents in moss green and fox orange. Keep all accent color outside panel image areas only. Use slightly angled trims on panel headers and director strip cells to suggest forward motion. Avoid table-like headers, glossy UI, gradients, stickers, clutter, and random decoration.
 
-[繪畫能量]
-使用緊急的淺灰色草圖線，帶有彈簧加載的蹲姿、長前傾、壓縮著陸、銳利的手部抓取、鞭打的辮子、尾巴慣性以及反應式攝影機取景。姿勢應該讀起來快速且運動感強，前景葉子和樹枝遮擋用作草圖形狀，而不是裝飾細節。攝影機能量是手持的、近距離的、寬廣的、不穩定的，並由追逐驅動。
+[DRAWING ENERGY]
+Use urgent light-gray sketch lines with spring-loaded crouches, long forward lean, compressed landings, sharp hand grabs, whipping braids, tail inertia, and reactive camera framing. Poses should read fast and athletic, with foreground leaves and branch occlusion used as sketch shapes, not decorative detail. Camera energy is handheld, close, wide, unstable, and motivated by the chase.
 
-[面板規則]
-在白色/米白色面板地面上使用乾淨的低細節單色淺灰色粗草圖面板。面板藝術內無顏色：無彩色角色、道具、環境、填充、照明、發光、油漆、粒子或背景。每個面板都是來自同一個不間斷鏡頭的可提取鏡頭節拍。每個面板保持一個清晰的 Felicita 姿勢。不要在面板圖像內繪製幽靈姿勢、重複輪廓、洋蔥皮身體、箭頭、標籤、標題、字幕、徽標、浮水印、時間標記、圖表或技術疊加。通過灰階環境互動、位移的葉子、樹皮擦傷、花粉斑點、碎片和單一人物周圍的姿勢張力來顯示速度。
+[PANEL RULES]
+Use clean low-detail monochrome light-gray rough sketch panels on white/off-white panel ground. No color inside panel artwork: no colored characters, props, environments, fills, lighting, glow, paint, particles, or backgrounds. Each panel is one extractable shot beat from the same unbroken shot. Keep one clear pose of Felicita per panel. Do not draw ghost poses, duplicate silhouettes, onion-skin bodies, arrows, labels, captions, subtitles, logos, watermarks, timing marks, diagrams, or technical overlays inside panel images. Show speed through grayscale environment interaction, displaced leaves, bark scuffs, pollen specks, splinters, and pose tension around the single figure.
 
-[導演條]
-放置一個與面板列對齊的底部動畫軌道板。使用七個水平軌道：節拍線、攝影機路徑、動作路徑、節奏軌道、升級地圖、狀態軌道、風格軌道。使用短鏡頭晶片、細時間軸線、節奏塊、小強度條和一到三個字的標籤。僅使用節奏標籤，從不使用秒數或時間戳持續時間。將整個條標記為一個連續鏡頭，沒有剪輯；面板僅是節拍劃分。
+[DIRECTOR STRIP]
+Place a bottom animatic track board aligned to panel columns. Use seven horizontal tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use short shot chips, thin timeline lines, rhythm blocks, small intensity bars, and one-to-three-word labels. Use rhythm labels only, never seconds or timestamp durations. Mark the whole strip as ONE CONTINUOUS TAKE with no cuts; panels are beat divisions only.
 
-[序列]
-網格：10 個面板 / 2 行 x 5 列 / 一個連續的手持 FPV 後方追逐鏡頭
+[SEQUENCE]
+Grid: 10 panels / 2 rows x 5 columns / one continuous handheld FPV rear-chase shot
 
-01 蹲下爆發
-鏡頭意圖：建立 Felicita 的身份、開始壓縮和追逐的即時鉤子。
-攝影機：近距離後方 FPV，低跑者高度，18mm 廣角鏡頭感，手持微抖動，苔蘚和根部靠近畫面邊緣。
-動作：Felicita 在苔蘚小徑上蹲下，耳朵抽動，然後向前衝刺穿過根部。
-連續性：螢幕方向向前並稍微上坡；尾巴開始低垂然後在她身後猛然甩動；無軌跡效果。
-條單元格：P01 爆發 / 後方 FPV / 蹲下發射 / 保持爆發 / 火花 / 路徑開始 / 溫暖流行
+01 Crouch Burst
+Shot intent: Establish Felicita’s identity, starting compression, and the immediate chase hook.
+Camera: close rear FPV, low runner height, 18mm wide lens feel, handheld micro-shake, moss and roots close to frame edges.
+Action: Felicita crouches on the moss path, ears twitching, then launches forward into a sprint between roots.
+Continuity: screen direction forward and slightly uphill; tail starts low then snaps behind her; no trail effects.
+Strip cell: P01 burst / rear FPV / crouch launch / hold-burst / spark / path start / warm pop
 
-02 樹幹滑行
-鏡頭意圖：展示攝影機勉強跟上，因為追逐變得物理化且貼近地面。
-攝影機：手持碰撞跟隨她，廣角鏡頭邊緣失真，從樹皮到運動鞋的快速重新對焦。
-動作：她滑入倒下的樹幹下方，肩膀低垂，然後用一隻運動鞋踢入苔蘚以反彈站立。
-連續性：攝影機在她身後躲避；帶子和辮子向前擺動；樹幹留在後面。
-條單元格：P02 滑行 / 碰撞躲避 / 樹幹滑行 / 快速 / 上升 / 樹幹通過 / 柔軟賽璐珞
+02 Trunk Slide
+Shot intent: Show the camera barely keeping up as the chase becomes physical and low to the ground.
+Camera: handheld crash-in behind her, wide lens edge distortion, fast refocus from trunk bark to her sneakers.
+Action: She drops into a slide under a fallen trunk, shoulder low, then kicks one sneaker into moss to rebound upright.
+Continuity: camera ducks after her; strap and braids swing forward; trunk remains behind.
+Strip cell: P02 slide / crash duck / trunk slide / fast / rise / trunk cleared / soft cel
 
-03 巨石跳躍
-鏡頭意圖：使第一次垂直重定向可讀：地面速度轉變為攀爬動量。
-攝影機：近距離後左 FPV，傾斜的荷蘭式不穩定，當她站立時快速向上傾斜。
-動作：Felicita 跳過巨石，將一隻運動鞋放在樹皮上，並衝向傾斜的樹木側面。
-連續性：螢幕方向向前右；巨石落在下方；傾斜的樹木成為下一個路徑。
-條單元格：P03 跳躍 / 向上傾斜 / 樹皮站立 / 加速 / 激增 / 樹木進入 / 清脆線條
+03 Boulder Vault
+Shot intent: Make the first vertical redirection readable: ground speed turns into climbing momentum.
+Camera: close rear-left FPV, tilted Dutch instability, quick upward tilt as she plants.
+Action: Felicita vaults a boulder, plants one sneaker on bark, and launches onto the side of a tilted tree.
+Continuity: screen direction forward-right; boulder drops below; tilted tree becomes the next path.
+Strip cell: P03 vault / tilt up / bark plant / acceleration / surge / tree entry / crisp lines
 
-04 樹枝抓取
-鏡頭意圖：展示從樹木奔跑到手部抓取再到上方路徑著陸的清晰因果關係。
-攝影機：手持底座向上感，18mm 廣角，前景葉子穿過鏡頭，焦點鎖定在雙手上。
-動作：她用雙手抓住低矮的樹枝，用力擺盪，膝蓋收起，並落在小徑上方粗壯的肢體上。
-連續性：攝影機從下方和後方跟隨；路徑現在在畫面下方可見；尾巴自然彎曲，而不是作為軌跡。
-條單元格：P04 抓取 / 底座追逐 / 樹枝擺盪 / 衝擊 / 攀爬 / 上肢 / 葉子深度
+04 Branch Catch
+Shot intent: Show clear cause and effect from tree run to hand grab to upper-path landing.
+Camera: handheld pedestal-up feeling, 18mm wide, foreground leaves crossing lens, focus snaps to both hands.
+Action: She catches a low branch with both hands, swings hard, knees tucked, and lands on a thick limb above the path.
+Continuity: camera follows from below and behind; path now visible lower in frame; tail arcs naturally, not as a trail.
+Strip cell: P04 catch / pedestal chase / branch swing / impact / climb / upper limb / leaf depth
 
-05 攀爬
-鏡頭意圖：將觀眾置於困難的攀爬中，同時 Felicita 保持在前方。
-攝影機：她身後粗糙的手持攀爬，葉子部分遮擋，圍繞樹枝的反應式轉向。
-動作：Felicita 沿著粗壯的肢體衝刺，同時攝影機向上攀爬，每一步都搖晃，葉子鞭打鏡頭。
-連續性：單一不間斷鏡頭；她的背部、尾巴、藍色和服輪廓和紅色帶子在葉子中保持可讀。
-條單元格：P05 攀爬 / 手持攀爬 / 肢體衝刺 / 粗糙 / 壓力 / 樹冠上升 / 繪畫綠色
+05 Scramble Up
+Shot intent: Put the viewer inside the difficult climb while Felicita stays just ahead.
+Camera: rough handheld climb behind her, partial occlusion by leaves, reactive swerves around branches.
+Action: Felicita sprints along the thick limb while the camera scrambles upward, shaking with each step as leaves whip across the lens.
+Continuity: single unbroken shot; her back, tail, blue kimono silhouette, and red strap stay readable through foliage.
+Strip cell: P05 scramble / handheld climb / limb sprint / rough / pressure / canopy rise / painterly green
 
-06 間隙反彈
-鏡頭意圖：在不打破單鏡頭動量的情況下，銷售重量、間隙距離和即時恢復。
-攝影機：後方 FPV 廣角推動，來自樹枝水平的輕微低角度，平行樹枝滑過。
-動作：她沿著彎曲的樹枝奔跑，跳過間隙，重重落在下一棵樹上，並立即向前反彈。
-連續性：螢幕方向保持向前；著陸樹枝彎曲；樹皮擦傷和葉子在灰階中散開。
-條單元格：P06 間隙 / 廣角推動 / 跳躍著陸 / 衝擊快速 / 高峰上升 / 樹枝彎曲 / 樹皮紋理
+06 Gap Rebound
+Shot intent: Sell weight, gap distance, and immediate recovery without breaking the one-shot momentum.
+Camera: rear FPV wide push, slight low angle from branch level, parallax branches sliding past.
+Action: She races along a bending branch, leaps a gap, lands hard on the next tree, and rebounds instantly forward.
+Continuity: screen direction remains forward; landing branch bends; bark scuffs and leaves scatter in grayscale.
+Strip cell: P06 gap / wide push / leap land / impact-fast / peak rise / branch bend / bark texture
 
-07 葉子輪廓
-鏡頭意圖：在保持運動的同時，短暫減少細節以獲得強烈的綠光輪廓時刻。
-攝影機：穿過茂密葉子的手持追逐，曝光偏移感，焦點從葉子前景呼吸到她的輪廓。
-動作：Felicita 潛入茂密的葉簇中，在明亮的樹冠光下變成銳利的輪廓形狀。
-連續性：無剪輯；葉子創造了自然的物體通過遮擋；她的耳朵、辮子和尾巴形狀保持可辨識。
-條單元格：P07 輪廓 / 葉子通過 / 潛入 / 呼吸 / 懸浮 / 形狀讀取 / 陽光射線
+07 Leaf Silhouette
+Shot intent: Briefly reduce detail for a strong green-light silhouette moment while preserving motion.
+Camera: handheld chase through dense leaves, exposure shift feel, focus breathes from leaf foreground to her outline.
+Action: Felicita dives through a dense leaf cluster and becomes a sharp silhouette shape against bright canopy light.
+Continuity: no cut; leaves create a natural object-pass occlusion; her ears, braids, and tail shape remain identifiable.
+Strip cell: P07 silhouette / leaf pass / dive through / breath / suspend / shape read / sun shafts
 
-08 速度坡道翻轉
-鏡頭意圖：創造唯一的風格化慢動作節拍：運動翻轉、危險、凍結的碎片。
-攝影機：近距離後下 FPV，超廣角混亂，速度坡道感，前景中折斷的樹枝。
-動作：她翻過折斷的樹枝；尾巴和辮子漂浮，而碎片和花粉在她周圍短暫懸浮。
-連續性：這是唯一的速度坡道；單色分鏡腳本面板顯示碎片凍結，沒有發光或彩色效果。
-條單元格：P08 翻轉 / 下方廣角 / 樹枝翻轉 / 慢速折斷 / 頂點 / 碎片凍結 / 流行對比
+08 Speed-Ramp Flip
+Shot intent: Create the single stylized slow-motion beat: athletic flip, danger, frozen debris.
+Camera: close rear-under FPV, ultra-wide chaos, speed-ramp feeling, snapping branch in foreground.
+Action: She flips over a cracking branch; tail and braids float while splinters and pollen hang briefly around her.
+Continuity: this is the only speed ramp; monochrome storyboard panel shows debris freeze without glow or colored effect.
+Strip cell: P08 flip / under wide / branch flip / slow snap / apex / debris freeze / pop contrast
 
-09 藤蔓軌道
-鏡頭意圖：回到速度並將地理纏繞在巨大的樹幹周圍。
-攝影機：她身後的手持鞭打軌道，從樹皮到藤蔓抓取的快速重新對焦，運動向量連續性。
-動作：她著陸，沿著樹皮滑行，抓住藤蔓，並在緊密的弧線中圍繞巨大的樹幹擺盪。
-連續性：速度恢復；樹皮滑痕顯示接觸；藤蔓是物理且粗糙的，不是魔法的。
-條單元格：P09 軌道 / 鞭打軌道 / 藤蔓擺盪 / 回彈 / 最後攀爬 / 滑痕 / 乾淨陰影
+09 Vine Orbit
+Shot intent: Snap back to speed and wrap the geography around a massive trunk.
+Camera: handheld whip-around orbit behind her, fast refocus from bark to vine grip, motion-vector continuity.
+Action: She lands, skids along bark, grabs a vine, and swings around the massive trunk in a tight arc.
+Continuity: speed returns; bark skid marks show contact; vine is physical and rough, not magical.
+Strip cell: P09 orbit / whip orbit / vine swing / snapback / final climb / skid marks / clean shadow
 
-10 陽光眩光出口
-鏡頭意圖：以俏皮的主導地位、向上運動和進入明亮樹冠的未解決速度結束。
-攝影機：穿過葉子隧道的後方 FPV 衝刺，快速向上傾斜，近距離廣角鏡頭，從自然陽光到白色眩光的最終淡出。
-動作：Felicita 釋放藤蔓，衝過葉子，回頭露出兇猛的笑容，做出鬆散的兩指槍手勢，然後向上衝入白色陽光眩光。
-連續性：最終姿勢部分面向攝影機，同時身體繼續向前向上；無發光軌跡，無絲帶，無能量條紋；結局保持運動狀態。
-條單元格：P10 眩光 / 傾斜衝刺 / 笑容發射 / 最後尖峰 / 釋放 / 陽光出口 / 白色閃光
+10 Sun Glare Exit
+Shot intent: End with playful dominance, upward motion, and unresolved velocity into bright canopy.
+Camera: rear FPV rush through leaf tunnel, fast tilt-up, close wide lens, final fade-to-white glare from natural sun.
+Action: Felicita releases the vine, rockets through leaves, looks back with a fierce grin, gives a loose two-finger gun gesture, then bursts upward into white sun glare.
+Continuity: final pose faces partly back toward camera while body continues forward-up; no glow trail, no ribbon, no energy streak; ending remains in motion.
+Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun exit / white flare
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用 @[storyboard ref] 作為權威的鏡頭藍圖。不要渲染分鏡腳本紙本身。忽略所有邊框、面板框架、文字、標籤、標題、色板、導演條圖形和佈局元素。將每個面板視為單一連續不間斷手持後方 FPV 追逐鏡頭內的順序節拍。
-創建一個 Felicita 的電影級 16:9 影片，她是來自 @[character ref] 的狐狸女孩 
+Use @[storyboard ref] as the authoritative shot blueprint. Do not render the storyboard sheet itself. Ignore all borders, panel frames, text, labels, headers, swatches, director-strip graphics and layout elements. Treat each panel as one sequential beat inside a single continuous unbroken handheld rear-FPV chase shot.
+Create a cinematic 16:9 video of Felicita, the fox girl from @[character ref] 
 
-最終風格：高端動畫奇幻電影，風格化的電影寫實主義，超逼真的動漫賽璐珞陰影，繪畫風格的手繪森林背景，大膽乾淨的線條，Hyperreal Pop 色彩，左側溫暖陽光，右側冷色天空光，森林霧氣，漂浮花粉，快速葉影閃爍，清晰輪廓，深層森林視差，淺層反應式鏡頭重新對焦。
+Final style: high-end animated fantasy film, stylized cinematic realism, hyper-realistic anime cel shading, painterly hand-painted forest backgrounds, bold clean linework, Hyperreal Pop color, warm sunlight from left, cool skylight from right, forest haze, drifting pollen, fast leaf-shadow flicker, crisp silhouette, deep layered forest parallax, shallow reactive lens refocus.
 
-一個連續的後方追逐攝影機，沒有剪輯。攝影機以手持 FPV 動量喘息地追逐她。
+One continuous rear-chase camera, no cuts. The camera chases her breathlessly with handheld FPV momentum.
 
-1. 她在長滿青苔的小徑上蹲下，耳朵抽動，然後向前衝刺穿過根部。
-2. 當她滑入倒下的樹幹下方並踢回站立時，攝影機在她身後搖晃跟隨。
-3. 她跳過巨石，將一隻運動鞋放在樹皮上，並衝向傾斜的樹木側面。
-4. 她用雙手抓住低矮的樹枝，用力擺盪，並落在小徑上方粗壯的肢體上。
-5. 攝影機在她身後攀爬，每一步都搖晃，葉子鞭打鏡頭。
-6. 她沿著彎曲的樹枝衝刺，跳過間隙，重重著陸，並立即反彈到下一棵樹。
-7. 她潛入茂密的葉子中，在綠光中短暫變成銳利的輪廓。
-8. 當她翻過折斷的樹枝時有一個速度坡道，尾巴和辮子漂浮，而碎片和花粉在她周圍凍結。
-9. 當她著陸時速度恢復，沿著樹皮滑行，抓住藤蔓並圍繞巨大的樹幹擺盪。
-10. 她釋放藤蔓，衝過葉子隧道，回頭露出兇猛的笑容，做出鬆散的兩指槍手勢，然後向上衝。
+1. She crouches on a mossy path, ears twitching, then explodes forward into a sprint between roots.
+2. Camera lurches after her, close behind, as she slides under a fallen trunk and kicks back to her feet.
+3. She vaults a boulder, plants one sneaker on bark, and launches up the side of a tilted tree.
+4. She catches a low branch with both hands, swings hard, and lands on a thick limb above the path.
+5. The camera scrambles upward behind her, shaking with each step as leaves whip across the lens.
+6. She sprints along a bending branch, leaps a gap, lands hard, and rebounds instantly to the next tree.
+7. She dives through dense leaves, briefly becoming a sharp silhouette in green light.
+8. One speed ramp as she flips over a snapping branch, tail and braids floating while splinters and pollen freeze around her.
+9. Speed snaps back as she lands, skids along bark, grabs a vine, and swings around a massive trunk.
+10. She releases the vine, rockets through a tunnel of leaves, looks back with a fierce grin, gives a loose two-finger gun gesture, then bursts upward.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 追蹤者
@@ -1191,59 +1191,59 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 17. 奢華巧克力廣告電影級短片
+### 17. Luxury Chocolate Commercial Cinematic Sequence
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="奢華巧克力廣告電影級短片"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Luxury Chocolate Commercial Cinematic Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-完整電影級 AI 影片提示詞 (15秒)
-高對比電影級燈光，筆電發出的冷青藍色光芒與溫暖的琥珀色實用燈光及光澤感巧克力反射形成對比。頂級奢華廣告美學。快速剪輯、橫搖鏡頭 (whip pans)、荷蘭式傾斜 (dutch tilts)、手持攝影的能量、動態追蹤鏡頭、電影級寫實感、淺景深、富有表現力的特寫鏡頭、充滿氛圍的公寓場景、感性的食物攝影、光澤質感、細膩的電影級顆粒感、變形鏡頭光暈、真實的皮膚紋理、情感真實感、現代廣告宣傳風格。無字幕。僅在特定情感時刻加入極簡旁白。自然音效設計，包含鍵盤敲擊聲、鋁箔紙揉搓聲、輕柔呼吸聲、滑鼠點擊聲、櫥櫃吱嘎聲及低沉的電影級低音脈衝。
-鏡頭分鏡表 (0:15)
-鏡頭 1 — 0:01 — 極致特寫
-一位年輕金髮女性的眼睛反射著滾動的文件和筆電藍光，同時快速掃描密集的數據。冷青色光芒在她如瓷器般的肌膚上閃爍。極淺景深、強烈的眼神反射、電影級微距鏡頭。
-旁白：
-「有些夜晚需要更多。」
-鏡頭 2 — 0:02 — 中景鏡頭
-她盤腿坐在昏暗公寓裡凌亂的沙發上，瘋狂地打字。鏽橘色的絲綢吊帶背心捕捉著筆電的冷藍光，而溫暖的實用陰影環繞著房間。手持攝影的移動增加了緊迫感。
-鏡頭 3 — 0:03 — 橫搖鏡頭 (Whip Pan)
-快速橫搖至廚房儲藏室。櫥櫃門戲劇性地敞開，溫暖的琥珀色光芒灑在她臉上，彷彿打斷壓力的誘惑。
-鏡頭 4 — 0:04 — 巧克力特寫
-她咬下一塊黑巧克力，發出清脆的聲響。她閉上雙眼，感到短暫的解脫。金箔紙在她手中輕柔地揉搓。豐富的光澤巧克力質感，電影級食物攝影。
-鏡頭 5 — 0:05 — 中景，荷蘭式傾斜
-回到工作區。她一隻手激烈地打字，同時嘴唇間平衡著一顆松露巧克力。輕微的荷蘭式傾斜角度加劇了混亂感。
-鏡頭 6 — 0:06 — 肩上鏡頭
-筆電螢幕顯示著複雜的圖表和數據視覺化。沾滿可可粉的手指猛擊 Enter 鍵，在觸控板上留下淡淡的巧克力污漬。冷色調的螢幕光芒主導了畫面。
-鏡頭 7 — 0:07 — 情感特寫
-挫折感達到頂點。她雙手抓著凌亂的金髮，沉重地呼出一口氣。細緻的可可粉沾在指尖。溫暖與冷色調的燈光在她臉上戲劇性地碰撞。
-旁白：
-「當壓力來襲時……」
-鏡頭 8 — 0:08 — 快速剪輯
-再次站在儲藏室旁，她用右手挖出一碗裝滿奢華手工巧克力的陶瓷碗。溫暖的金色光芒在她周圍綻放。
-鏡頭 9 — 0:09 — 中近景
-坐在桌前，她直接從巧克力碗中拿取食用，同時呆滯地盯著發光的螢幕。截止日期的疲憊與舒適及放縱交織在一起。
-鏡頭 10 — 0:10 — 低角度
-攝影機從鍵盤高度拍攝，她的手指以機械般的精準度打字。她的臉龐在青色與琥珀色的混合光影中閃耀，神情極度專注。
-鏡頭 11 — 0:11 — 微距特寫
-她用顫抖的手指拆開另一塊黑巧克力，同時緊盯著發光的螢幕。金箔紙捕捉到溫暖的琥珀色光芒，將閃爍的反射散佈在她臉上。揉搓鋁箔紙的聲音在寂靜中顯得格外刺耳，隨後她咬下了下一口。
-鏡頭 12 — 0:12 — 動態環繞鏡頭
-攝影機環繞著她，她咬下一根雕刻過的巧克力蘸醬椒鹽捲餅，同時未曾將視線從螢幕移開。電影級追蹤運鏡、光澤感高光、戲劇性的景深。
-鏡頭 13 — 0:13 — 勝利特寫
-她的下唇留下一抹淡淡的巧克力污漬。她微微一笑並點擊滑鼠。藍色的螢幕光芒反射出她眼中的勝利感。
-鏡頭 14 — 0:14 — 中景
-她以堅定果斷的動作合上筆電，向後癱倒在沙發上，釋放出極度疲憊的長嘆。
-鏡頭 15 — 0:15 — 最終遠景
-她深深地陷進沙發裡，精疲力竭卻感到滿足。周圍散落著金色的包裝紙、空陶瓷碗、合上的筆電，公寓內溫暖的環境光，風暴過後的寧靜。
-旁白：
-「……放縱感油然而生。」
-電影級關鍵字
-奢華廣告、電影級寫實感、充滿氛圍的公寓、食物攝影、淺景深、手持攝影能量、頂級生活美學、溫暖實用燈光、冷色調螢幕光、光澤巧克力質感、富有表現力的臉部特寫、快節奏剪輯、情感真實感、現代廣告、電影級張力、放縱氛圍、優雅的混亂、戲劇性燈光、高端廣告電影製作。
+Fully Prepared Cinematic AI Video Prompt (15s)
+High-contrast cinematic lighting with cool cyan-blue laptop glow contrasted against warm amber practical lighting and glossy chocolate reflections. Premium luxury-commercial aesthetic. Fast cuts, whip pans, dutch tilts, handheld energy, dynamic tracking shots, cinematic realism, shallow depth of field, expressive close-ups, moody apartment atmosphere, sensual food cinematography, glossy textures, subtle cinematic grain, anamorphic highlights, realistic skin texture, emotional realism, modern ad campaign look. No subtitles. Minimal voice-over only in selected emotional moments. Natural sound design with keyboard clicks, foil crinkles, soft breathing, mouse clicks, cabinet creaks, and low cinematic bass pulses.
+Shot-by-Shot Breakdown (0:15)
+Shot 1 — 0:01 — Extreme Close-Up
+A young blonde woman’s eyes reflect scrolling documents and blue laptop light while scanning dense data rapidly. Cool cyan glow flickers across her porcelain skin. Ultra shallow depth of field, intense eye reflections, cinematic macro lens.
+Voice Over:
+“Some nights demand more.”
+Shot 2 — 0:02 — Medium Wide Shot
+She sits cross-legged on a rumpled couch in a dim apartment, typing frantically. Rust-orange silk camisole catches the cool blue laptop light while warm practical shadows surround the room. Handheld camera movement adds urgency.
+Shot 3 — 0:03 — Whip Pan
+Fast whip pan toward the kitchen pantry. Cabinet doors swing open dramatically, spilling warm amber light across her face like temptation interrupting stress.
+Shot 4 — 0:04 — Chocolate Close-Up
+She bites into a dark chocolate bar with a crisp snap. Her eyes close briefly in relief. Gold foil crinkles softly in her hand. Rich glossy chocolate texture, cinematic food photography.
+Shot 5 — 0:05 — Medium Shot, Dutch Tilt
+Back at the workspace. She types aggressively with one hand while balancing a chocolate truffle between her lips. Slight dutch angle intensifies the growing chaos.
+Shot 6 — 0:06 — Over-the-Shoulder Shot
+Laptop screen displays complex charts and data visualizations. Cocoa-dusted fingers slam the Enter key, leaving faint chocolate smudges on the trackpad. Cool screen glow dominates the frame.
+Shot 7 — 0:07 — Emotional Close-Up
+Frustration peaks. She runs both hands through messy blonde hair and exhales heavily. Fine cocoa powder clings to her fingertips. Warm and cool lighting collide dramatically across her face.
+Voice Over:
+“When the pressure hits…”
+Shot 8 — 0:08 — Quick Cut
+Standing at the pantry again, she uses her right hand to dig into a ceramic bowl overflowing with luxurious artisanal chocolates. Warm golden light blooms around her.
+Shot 9 — 0:09 — Medium Close-Up
+Seated at the desk, she eats directly from the chocolate bowl while staring blankly at the glowing monitor. Deadline exhaustion mixed with comfort and indulgence.
+Shot 10 — 0:10 — Low Angle
+Camera from keyboard level as her fingers type with machine-like precision. Her face glows with mixed cyan and amber tones, intensely focused.
+Shot 11 — 0:11 — Macro Close-Up
+She unwraps another piece of dark chocolate with trembling fingers while staring intensely at the glowing screen. The gold foil catches warm amber light, scattering shimmering reflections across her face. Crinkling foil sound cuts sharply through the silence before she takes another bite.
+Shot 12 — 0:12 — Dynamic Orbit Shot
+The camera circles around her as she bites into a sculpted chocolate-dipped pretzel rod without breaking concentration on the monitor. Cinematic tracking movement, glossy highlights, dramatic depth of field.
+Shot 13 — 0:13 — Victory Close-Up
+A subtle chocolate smudge rests on her lower lip. She smiles faintly and clicks the mouse. Blue monitor light reflects triumph in her eyes.
+Shot 14 — 0:14 — Medium Shot
+She shuts the laptop with a firm decisive clap and collapses backward into the couch, releasing a massive exhausted breath.
+Shot 15 — 0:15 — Final Wide Shot
+She sinks deeply into the couch, drained but satisfied. Around her: scattered gold wrappers, empty ceramic bowl, closed laptop, warm ambient apartment lighting, peaceful silence after the storm.
+Voice Over:
+“…indulgence takes over.”
+Cinematic Keywords
+Luxury commercial, cinematic realism, moody apartment, food cinematography, shallow depth of field, handheld energy, premium lifestyle aesthetic, warm practical lighting, cool screen glow, glossy chocolate textures, expressive facial close-ups, fast-paced editing, emotional realism, modern advertisement, cinematic tension, indulgent atmosphere, elegant chaos, dramatic lighting, high-end commercial filmmaking.
 ```
 
 **作者** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K 追蹤者
@@ -1256,31 +1256,31 @@ P06、P07、P08、P09 與 P10 共享相同的目的地佈局。床鋪保持在�
 
 ---
 
-### 18. 溫暖人心的善舉
+### 18. A Heartwarming Act of Kindness
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="溫暖人心的善舉"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060168129419042872_0_poster.jpg" width="480" alt="A Heartwarming Act of Kindness"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-POV：一個小小的善舉改變了所有事情
+POV: One tiny act of kindness changed EVERYTHING
 
-Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小兔子
-接下來發生的事融化了我的心
+Gugugaga only had one dumpling… but she still shared it with a hungry little bunny in the rain
+What happened next melted my heart
 
-使用 GPT Image 2 + Seedance 創作了這部溫馨的 Pixar 風格 3D 動畫短片
+Created this cozy Pixar-style 3D animated short using GPT Image 2 + Seedance
 
-非常感謝 @renoiseai canvas 幫助將這個純真的世界呈現出來
+Huge shoutout to @renoiseai canvas for helping bring this wholesome world to life
 
-你會分享你最後一個餃子嗎？
+Would you share your last dumpling?
 
-提示詞在影片中
-私訊我獲取完整提示詞
+Prompt is in the video
+DM for full Prompt
 ```
 
 **作者** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K 追蹤者
@@ -1293,52 +1293,52 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 19. 深海漁夫紀錄片電影感
+### 19. Deep Sea Fisherman Documentary Cinematic
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="深海漁夫紀錄片電影感"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Deep Sea Fisherman Documentary Cinematic"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-創建一個分為兩部分的頂級編輯風格人物簡介排版。
-左側部分
-→ 大膽粗體字「THOMAS REID」，使用厚重的黑色大寫字體
-→ 副標題：「THE OCEAN NEVER WINS」
-→ 一位27歲、極其英俊且健壯的男性的全彩寫實全身照，看起來像專業深海漁夫
-→ 強而有力的銳利五官、深邃冷靜的雙眼、整潔的短鬍鬚、寬闊的運動型肩膀、自然曬黑的粗糙皮膚
-→ 穿著厚實乾淨的黃色防水吊帶褲、厚橡膠靴，一條繩索盤繞在肩上
-→ 在乾淨的白色背景下，呈現完全靜止、強大且自信的站姿
-→ 燈光：柔和的冷色調自然光，如同真實的紀錄片攝影棚拍攝
-→ 下方小字：「BUILT BY WAVES. BORN TO ENDURE.」
+Create a high-end editorial character profile spread layout split into two sections.
+LEFT SECTION
+→ Large bold typography "THOMAS REID" in heavy black uppercase font
+→ Subtitle: "THE OCEAN NEVER WINS"
+→ Full body photorealistic image of a real 27-year-old extremely handsome athletic man who looks like a professional deep-sea fisherman
+→ Strong sharp features, piercing calm eyes, short neat beard, broad athletic shoulders, naturally tanned rugged skin
+→ Wearing heavy clean yellow waterproof overalls, thick rubber boots, rope coiled over one shoulder
+→ Completely still powerful confident stance on clean white background
+→ Lighting: Soft cold natural light like a real documentary photoshoot
+→ Small text below: "BUILT BY WAVES. BORN TO ENDURE."
 
-右側部分
-→ 個性：在任何風暴中都堅不可摧 / 沒有多餘的動作 / 每次航行都有代價 / 大海不尊重任何人
-→ 詳細資訊：年齡 27 / 國籍 挪威 / 站姿 前握 / 風格 深海耐力 / 狀態 崛起中的傳奇
-→ 關鍵特質：鋼鐵般的耐心 / 原始力量 / 爆發性的生存本能 / 永恆的航海技術
-→ 詳細焦點 — 4個小型寫實特寫框：
-框1：被繩索磨損的強壯雙手
-框2：舊生鏽指南針細節
-框3：乾淨的黃色防水夾克紋理
-框4：厚重橡膠靴細節
-整體風格：乾淨極簡的雜誌編輯設計 / 真實攝影美學 / 冷色調海洋灰青色偏白 / 厚重黑色字體 / 優質紀錄片出版品質
+RIGHT SECTION
+→ PERSONALITY: Unshakeable in any storm / Zero wasted movement / Every voyage has a cost / The sea respects no one
+→ DETAILS: Age 27 / Nationality Norway / Stance Forward Grip / Style Deep Sea Endurance / Status Rising Legend
+→ KEY TRAITS: Iron Patience / Raw Strength / Explosive Survival Instinct / Timeless Seamanship
+→ DETAILS IN FOCUS — 4 small photorealistic close-up boxes:
+Box 1: Strong rope-worn hands
+Box 2: Old rusted compass detail
+Box 3: Clean yellow waterproof jacket texture
+Box 4: Heavy rubber boot detail
+Overall style: Clean minimal magazine editorial design / Real photography aesthetic / Cold ocean tones grey teal off-white / Heavy black typography / Premium documentary publication quality
 ```
 
 **🎬 影片提示詞**
 
 ```
-電影感海洋紀錄片。主角：一位27歲、極其英俊且健壯的深海漁夫。強而有力的銳利五官、深邃冷靜的雙眼、整潔的短鬍鬚、寬闊的運動型肩膀、自然曬黑的粗糙皮膚。穿著厚實的黃色防水吊帶褲、厚橡膠靴，一條繩索盤繞在肩上。舊生鏽的漁船。
-→ 鏡頭1 — 極低甲板視角的追蹤鏡頭。他正以全速在船甲板上移動，衝向糾結的漁網。在猛力將漁網拉過船舷後，他在濕滑的甲板上勉強站穩，隨即立即再次向前衝刺。
-→ 鏡頭2 — 快速橫移（Whip pan）過渡到一段長時間的拉繩序列。持續的繩索摩擦和海洋飛沫在畫面中爆發，攝影機努力跟上他那壓倒性的力量與速度。
-→ 鏡頭3 — 橫跨整個船甲板的廣角移動鏡頭。多項快速任務幾乎沒有準備時間地連續進行。攝影師在搖晃的船上幾乎失去平衡以跟隨動作。
-→ 鏡頭4 — 使用長焦鏡頭壓縮空間，捕捉巨浪以慢動作拍打船頭的畫面。展現極致的身體控制力以對抗衝擊，在幾乎被捲走前，於最後一秒奇蹟般地恢復平衡。
-→ 鏡頭5 — 圍繞著他在濕滑甲板上進行平衡動作的超低環繞追蹤鏡頭。不斷調整以對抗搖晃的海洋，將穩定性推向極限，但他仍冷靜地在動作中調整繩索握法，絲毫沒有減速。
-→ 鏡頭6 — 最後鏡頭。巨浪拍打船身，將他完全包圍。飛沫、泡沫和動態軌跡在甲板上爆發。他滑入一個穩固的寬站姿，緩緩挺直身體，在刺眼的海洋光線下鎖定一個完全靜止的最終姿勢。聲音瞬間切斷。攝影機定格在他那完全冷靜且無畏的臉上。淡出。
-風格：超寫實的國家地理海洋紀錄片，結合頂級運動廣告的能量。冷色調去飽和。厚重的海洋氛圍。真實的人類力量與存在感。
+Cinematic ocean documentary film. Subject: A 27-year-old extremely handsome athletic deep-sea fisherman. Strong sharp features, piercing calm eyes, short neat beard, broad athletic shoulders, naturally tanned rugged skin. Wearing heavy yellow waterproof overalls, thick rubber boots, rope coiled over one shoulder. Old rusted fishing vessel.
+→ SHOT 1 — Extremely low deck-level tracking shot. He is already moving at full speed across the vessel deck toward a tangled net. After violently hauling the net over the side, he barely catches his footing on the wet deck before immediately pushing forward again.
+→ SHOT 2 — Whip pan transition into an extended rope-pulling sequence. Continuous rope friction and ocean spray explode across the frame while the camera struggles to keep up with his overwhelming strength and speed.
+→ SHOT 3 — Wide moving shot across the entire vessel deck. Multiple rapid tasks happen back-to-back with almost no setup time. Cameraman nearly loses balance on the rocking boat to follow the action.
+→ SHOT 4 — Compressed long-lens shot capturing a massive wave crashing over the bow in slow motion. Extreme body control holding position against the force, nearly swept off before miraculously recovering at the final second.
+→ SHOT 5 — Ultra-low circular tracking shot around an extended balance sequence on the slippery deck. Constant adjustment against the rocking ocean pushes stability to the limit, yet he calmly adjusts his grip on the rope mid-motion without slowing down.
+→ SHOT 6 — Final shot. A massive wave crashes over the hull completely surrounding him. Spray, foam and momentum trails explode across the deck. He slides into a firm wide stance, slowly straightens up, and locks into a completely still final pose under harsh ocean light. The sound cuts instantly. Camera freezes on his completely calm and fearless face. Fade.
+Style: Ultra-realistic National Geographic ocean documentary combined with premium sports advertising energy. Cold desaturated tones. Heavy ocean atmosphere. Real human strength and presence.
 ```
 
 **作者** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K 追蹤者
@@ -1351,33 +1351,19 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 20. 阿努比斯的怕癢時刻
+### 20. 阿努比斯的怕痒时刻
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕癢時刻"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058901983113654359_0_poster.jpg" width="480" alt="阿努比斯的怕痒时刻"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-現代中國3D動畫風格。
-
-場景一：在一座大型埃及圖書館裡，我們看到威嚴的胡狼神阿努比斯雙手背在身後，神情漫不經心地審視著書架，姿態威嚴。這時，他注意到一個年輕人正伸手去拿附近桌子上的一本關於儀式的書籍。阿努比斯見狀，迅速奪過書本，用一隻手臂高高舉過頭頂，露出腋窩，用他那溫和而堅定的語氣說道：這本書不適合像他這樣的人。
-
-場景二：年輕人一臉失望，但隨即露出狡黠的笑容，問阿努比斯是否怕癢，同時伸手去撓阿努比斯舉起的手臂的腋窩，這讓阿努比斯有些摸不著頭腦。
-
-場景3：特寫鏡頭，人類的手在阿努比斯的腋下上下滑動手指，不斷重複這個動作。背景中傳來阿努比斯壓抑的咯咯笑聲，表明他確實很怕癢。
-
-場景4：特寫鏡頭，阿努比斯的上半身，人類的手繼續在阿努比斯的腋下上下滑動手指。阿努比斯閉著眼睛，咧嘴大笑，發出壓抑的咯咯笑聲。
-
-場景5：人類繼續用手撓阿努比斯的腋窩，阿努比斯閉著眼睛咯咯笑著。阿努比斯的笑聲證實了他確實很怕癢，然後他又開始咯咯地笑，而人類則繼續撓他的腋窩。
-
-場景6：阿努比斯繼續咯咯地笑著，最後把書扔到地上，用雙臂環抱住自己，捂住腋窩。人類停止了撓癢，拿起書。阿努比斯咯咯地笑著，似乎還沉浸在剛才的笑聲中，一邊笑一邊說他討厭被撓癢。人類笑著接過書。
-
-阿努比斯肌肉發達，手臂和脖子上都戴著環。他的聲音低沉、磁性而富有魅力。阿努比斯的腋窩被撓癢了。
+现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时，他注意到一个年轻人正伸手去拿附近桌子上一本关于仪式的书籍。阿努比斯见状，迅速夺过书本，用一只手臂高高举过头顶，露出腋窝，用他那温和而坚定的语气说道：这本书不适合像他这样的人。 场景二：年轻人一脸失望，但随即露出狡黠的笑容，问阿努比斯是否怕痒，同时伸手去挠阿努比斯举起的手臂的腋窝，这让阿努比斯有些摸不着头脑。 场景3：特写镜头，人类的手在阿努比斯的腋下上下滑动手指，不断重复这个动作。背景中传来阿努比斯压抑的咯咯笑声，表明他确实很怕痒。 场景4：特写镜头，阿努比斯的上半身，人类的手继续在阿努比斯的腋下上下滑动手指。阿努比斯闭着眼睛，咧嘴大笑，发出压抑的咯咯笑声。 场景5：人类继续用手挠阿努比斯的腋窝，阿努比斯闭着眼睛咯咯笑着。阿努比斯的笑声证实了他确实很怕痒，然后他又开始咯咯地笑，而人类则继续挠他的腋窝。 场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
 ```
 
 **作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 追蹤者
@@ -1421,49 +1407,52 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 22. 韓國校園動作劇情片段
+### 22. Korean School Action Drama Sequence
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="韓國校園動作劇情片段"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058146351326593219_0_poster.jpg" width="480" alt="Korean School Action Drama Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主角：
-一位穿著寫實韓國夏季校服（하복）的漂亮韓國女高中生。自然的皮膚紋理，無美顏修圖。戰鬥中頭髮變得凌亂，表情演技豐富。所有鏡頭中的臉部比例保持完全一致。她起初顯得膽怯且震驚，隨後逐漸變得堅定且叛逆。
+Main Character:
+A beautiful Korean high school girl wearing a realistic Korean summer school uniform (하복). Natural skin texture with no beauty retouching. Hair becomes messy during combat, with expressive emotional acting. Facial proportions remain fully consistent throughout all shots. She begins timid and shocked, then gradually becomes determined and defiant.
 
-0–1.5 秒：
-女主角安靜地在書桌前學習。四名不良女學生圍住她並開始霸凌。她們嘲笑她讀書，激進地將書本掃落桌面，並推搡她的肩膀。廣角手持攝影機移動。書本在慢動作中飛散。緊張的教室氛圍。寫實的校園霸凌能量，晃動的鏡頭，電影寫實主義。
+0–1.5 seconds:
+The female lead quietly studies at her desk. Four delinquent schoolgirls surround her and begin bullying her. They mock her for studying, aggressively sweep her books off the desk, and shove her shoulders. Wide-angle handheld camera movement. Books fly in slow motion. Tense classroom atmosphere. Realistic school bullying energy, shaky camera motion, cinematic realism.
 
-1.5–3 秒：
-主角臉部特寫。她緩緩站起。表情從恐懼轉為冷酷的堅定。霸凌者在淺景深中顯得模糊。0.5 秒的靜默時刻。緩慢的電影級推入鏡頭。除了教室的環境音與緊張的呼吸聲外，一片寂靜。
+1.5–3 seconds:
+Close-up of the protagonist’s face. She slowly stands up. Her expression shifts from fear to cold determination. The bullies remain blurred in shallow depth of field behind her. A 0.5-second moment of silence. Slow cinematic push-in shot. Silence except for ambient classroom sound and tense breathing.
 
-3–5 秒：
-首次對峙。一名霸凌者揮拳；主角格擋並以腹部重擊反擊。另一名攻擊者從側面衝來；她閃避並以旋轉肘擊反擊。手持追蹤鏡頭緊跟動作。動態運動模糊，衝擊時的鏡頭晃動，寫實的格鬥編排。無超自然特效。
+3–5 seconds:
+First confrontation. One bully throws a punch; the protagonist blocks and counters with a strike to the stomach. Another attacker rushes from the side; she dodges and retaliates with a spinning elbow strike. Handheld tracking shots follow the motion closely. Dynamic motion blur, impact camera shake, realistic fight choreography. No supernatural effects.
 
-5–8 秒：
-剩下的兩名霸凌者同時發動拳腳攻擊。主角利用快速的步法與閃避動作避開攻擊。動態 360 度旋轉鏡頭。快速的連環踢與肘擊將攻擊者擊倒。教室桌椅與物品因衝擊而移位。強烈的電影級動作節奏。
+5–8 seconds:
+The remaining two bullies attack simultaneously with punches and kicks. The protagonist uses quick footwork and evasive movement to avoid hits. Dynamic 360-degree rotating camera movement. Rapid chained kicks and elbow attacks knock the attackers down. Classroom desks and objects shift from the impacts. Intense cinematic action pacing.
 
-8–10 秒：
-最後一名攻擊者衝向主角。女主角高高躍起。地面低角度鏡頭。30% 慢動作。頭髮與裙擺自然飄動。戲劇性的電影級燈光。漂浮的灰塵與空氣微粒在空中緩慢飄動。
+8–10 seconds:
+The final attacker charges toward the protagonist. The female lead leaps high into the air. Low-angle shot from the ground. 30% slow motion. Hair and skirt flow naturally. Dramatic cinematic lighting. Floating dust and airborne particles drift slowly through the air.
 
-10–12 秒：
-空中 360 度旋轉踢。慢動作衝擊直接命中最後一名霸凌者的胸口。碰撞的極致特寫。霸凌者向後飛撞至教室牆壁。碎片與灰塵向外爆開。所有霸凌者倒地。落地後鏡頭速度立即恢復正常，以增強戲劇效果。
+10–12 seconds:
+Midair 360-degree spinning kick. Slow-motion impact directly hits the final bully’s chest. Extreme close-up of the collision. The bully is launched backward into the classroom wall. Debris and dust explode outward. All bullies collapse onto the floor. Immediately after landing, the camera speed snaps back to normal for dramatic impact.
 
-12–14 秒：
-勝利時刻。主角獨自站在教室中央，喘著粗氣。四名霸凌者倒在房間四周。鏡頭緩慢且戲劇性地推向她的臉部。柔和的電影級散景背景。她的表情堅定且充滿情感。
+12–14 seconds:
+Victory moment. The protagonist stands alone in the center of the classroom, breathing heavily. The four bullies lie defeated around the room. The camera slowly and dramatically pushes toward her face. Soft cinematic bokeh background. Her expression is determined yet emotional.
 
-14–15 秒：
-定格特寫。主角直視鏡頭，用韓語冷靜地說：
-（「我必須考上大學。」）
-表演寫實且情感克制。台詞結束後，她恢復成普通學生的模樣。平靜而感性的結局。影片強調了韓國學生所面臨的巨大課業壓力。
+14–15 seconds:
+Freeze-frame close-up. The protagonist stares directly into the camera and calmly says in Korean:
+(“I need to get into college.”)
+Delivery is realistic and emotionally restrained. After the line ends, she returns to looking like an ordinary student. Calm, emotional ending. The film emphasizes the intense academic pressure faced by Korean students.
 
-風格參考：
-韓國動作電影、超寫實攝影、電影級手持動作、情感寫實主義、紮實的格鬥編排、寫實的韓國教室氛圍、高預算 Netflix 韓劇美學、電影級燈光、戲劇性的靜默節奏、強大的女性主角、紮實的情感基調。
+Style References:
+Korean action cinema, ultra-realistic cinematography, cinematic handheld action, emotional realism, grounded fight choreography, realistic Korean classroom atmosphere, high-budget Netflix K-drama aesthetics, cinematic lighting, dramatic silence beats, powerful female protagonist, grounded emotional tone.
+
+Negative Prompt:
+Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, exaggerated fantasy armor, unrealistic physics, low quality, blurry faces, overexposed lighting, comedic tone, childish style, fantasy classroom, male protagonist, bad anatomy, unrealistic body proportions, supernatural effects, glowing eyes, energy auras, magic.
 ```
 
 **作者** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 追蹤者
@@ -1476,281 +1465,281 @@ Gugugaga 只有一個餃子……但她還是把它分給了雨中飢餓的小�
 
 ---
 
-### 23. 高速動漫武術訓練分鏡腳本
+### 23. High-Speed Anime Martial Arts Training Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速動漫武術訓練分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="High-Speed Anime Martial Arts Training Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-使用 @[image1] 作為學生角色 Taro Kazeishi 的參考。
-使用 @[image2] 作為大師角色 Master Jūran 的參考。
+Use @[image1] as the student character reference for Taro Kazeishi.
+Use @[image2] as the master character reference for Master Jūran.
 
-創建一個 16:9 的電影級分鏡腳本頁面，用於 15 秒的高速武術訓練場景。
-[類型]:
-高速動漫大師對戰學生訓練分鏡
-[格式]:
-16:9 水平分鏡頁面
-12 個分鏡格
-清晰易讀的分鏡格分隔
-分鏡格編號清晰可見
-專業動畫預覽佈局
-分鏡格內或下方可見攝影機註記
-強烈的動作可讀性
-動態鏡頭推進
-[視覺風格]:
-粗略的動態動漫分鏡
-80 年代冒險動漫能量
-手繪鉛筆與墨水質感
-作畫 (Sakuga) 動作規劃
-凌亂但受控的線條
-強烈的剪影
-極簡灰階陰影
-高速運動可讀性
-非最終插圖
-必須感覺像真實的動畫分鏡
-[註釋風格]:
-彩色註釋
-紅色 = 攝影機 / 鏡頭 / 取景 / 攝影機運動
-藍色 = 武器運動 / 攻擊弧線 / 速度方向
-綠色 = 身體運動 / 跳躍 / 步法 / 閃避路徑
-橙色 = 衝擊 / 險些擊中 / 風壓
-紫色 = 時機 / 定格 / 變速 / 暫停註記
-可讀標籤:
-WHIP PAN (快速橫搖)
-SNAP ZOOM (快速變焦)
-TRACK (跟拍)
-SPEED RAMP (變速)
-IMPACT CUT (衝擊剪輯)
-MICRO PAUSE (微暫停)
-HOLD (定格)
-EFFORTLESS (輕鬆)
-TOO CLOSE (太近)
-[攝影機語言]:
-學生攻擊 = 侵略性攝影機
-大師閃避 = 冷靜攝影機
-使用:
-14mm 低角度衝刺
-18mm 廣角動作
-24mm 跟拍 / 環繞
-35mm 動作清晰度
-50mm 時機節奏
-70mm 衝擊特寫
-使用:
-前景武器穿過
-前景遮擋
-快速變焦
-快速橫搖
-環繞移動
-變速
-帶有動態模糊的武器穿過鏡頭
-大師鏡頭應在混亂後穩定。
-[場景]:
-年輕學生以誇張的武器技巧和魯莽的動能進行攻擊。
-Master Jūran 從不格擋。
-他僅以微小且高效的動作避開攻擊:
-頭部傾斜
-軀幹閃避
-半步移動
-肩膀滑動
-長袍扭動
-身體傾斜
-小幅度旋轉
-觀眾必須清楚讀懂每一次閃避。
-最後一擊:
-輕彈額頭將學生彈開。
-[設定]:
-山區訓練場
-懸崖空地
-石地
-松樹
-風
-簡單背景
+Create a 16:9 cinematic storyboard sheet for a 15-second high-speed martial arts training scene.
+[TYPE]:
+HIGH-SPEED ANIME MASTER VS STUDENT TRAINING STORYBOARD
+[FORMAT]:
+16:9 horizontal storyboard sheet
+12 panels
+clean readable panel separation
+panel numbers clearly visible
+professional animation previsualization layout
+camera notes visible inside or under panels
+strong action readability
+dynamic shot progression
+[VISUAL STYLE]:
+rough kinetic anime storyboard
+80s adventure anime energy
+hand-drawn pencil and ink look
+sakuga action planning
+messy but controlled linework
+strong silhouettes
+minimal grayscale shading
+high-speed motion readability
+not a final illustration
+must feel like a real animation storyboard
+[ANNOTATION STYLE]:
+colorful annotations
+red = camera / lens / framing / camera movement
+blue = staff motion / attack arcs / speed direction
+green = body movement / jumps / footwork / dodge path
+orange = impact / near miss / wind pressure
+purple = timing / hold / speed ramp / pause notes
+Readable labels:
+WHIP PAN
+SNAP ZOOM
+TRACK
+SPEED RAMP
+IMPACT CUT
+MICRO PAUSE
+HOLD
+EFFORTLESS
+TOO CLOSE
+[CAMERA LANGUAGE]:
+student attacks = aggressive camera
+master evasions = calm camera
+Use:
+14mm low-angle rush
+18mm wide action
+24mm tracking / orbit
+35mm action clarity
+50mm timing beats
+70mm impact close-up
+Use:
+foreground staff passes
+foreground occlusion
+snap zooms
+whip pans
+orbit moves
+speed ramps
+motion-blurred staff crossing lens
+Master shots should stabilize after chaos.
+[SCENE]:
+Young student attacks with exaggerated staff techniques and reckless momentum.
+Master Jūran never blocks.
+He only avoids attacks with tiny efficient movements:
+head tilt
+torso exit
+half-step
+shoulder slip
+robe twist
+body lean
+small rotation
+Audience must clearly read EVERY evade.
+Final beat:
+tiny forehead flick launches student away.
+[SETTING]:
+mountain training ground
+cliff clearing
+stone floor
+pine trees
+wind
+simple background
 --------------------------------
-鏡頭列表
+SHOTLIST
 --------------------------------
 01
-18mm 廣角建立鏡頭
-Taro 前景攻擊架勢。
-Jūran 背景放鬆。
-攝影機:
-緩慢推近。
-氛圍:
-混亂前的平靜。
+18mm WIDE ESTABLISHING
+Taro attack stance foreground.
+Jūran relaxed background.
+Camera:
+slow push-in.
+Mood:
+calm before chaos.
 --------------------------------
 02
-14mm 低角度衝刺
-Taro 爆發性向前攻擊。
-攝影機:
-後拉 + 快速變焦。
-武器穿過鏡頭。
-強烈的運動弧線。
+14mm LOW-ANGLE RUSH
+Taro explosive forward attack.
+Camera:
+dolly-back + snap zoom.
+Staff passes lens.
+Strong motion arc.
 --------------------------------
 03
-35mm 側面快速橫搖閃避
-Taro 揮擊穿過畫面。
-Jūran 閃避必須清晰可讀:
-微小側步
-頭部偏移
-軀幹離開攻擊線
-肩膀輕微打開
-武器距離臉部僅幾公分。
-鬍鬚和長袍隨風飄動。
-橙色險些擊中爆發。
-時機:
-太近
-輕鬆
-目標:
-觀眾瞬間讀懂閃避。
+35mm SIDE WHIP-PAN EVADE
+Taro swing crosses frame.
+Jūran dodge MUST READ CLEARLY:
+tiny sidestep
+head shift
+torso exits attack line
+shoulder opens slightly
+Staff misses face by centimeters.
+Beard and robe move from wind.
+Orange near-miss burst.
+Timing:
+TOO CLOSE
+EFFORTLESS
+Goal:
+viewer instantly reads dodge.
 --------------------------------
 04
-24mm 跟拍進入跳躍
-腳部著地。
-塵土飛揚。
-向上發射。
-攝影機:
-低位跟拍腳部然後向上傾斜。
+24mm TRACK INTO JUMP
+Foot plant.
+Dust burst.
+Launch upward.
+Camera:
+track low on foot then tilt up.
 --------------------------------
 05
-18mm 垂直衝刺
-空中向下打擊。
-攝影機:
-隨跳躍向上傾斜
-在頂點變速
-向下傾斜進入攻擊。
-長攻擊弧線。
+18mm VERTICAL RUSH
+Airborne downward strike.
+Camera:
+tilt up with jump
+speed ramp at peak
+tilt down into attack.
+Long attack arc.
 --------------------------------
 06
-24mm 環繞空中連擊
-最快的分鏡格。
-Taro 保持在空中。
-攻擊 A:
-水平打擊
+24mm ORBITING AIRBORNE COMBO
+FASTEST PANEL.
+Taro remains airborne.
+Attack A:
+horizontal strike
 Jūran:
-微小頭部傾斜閃避
-攻擊 B:
-反向打擊
+tiny head tilt evade
+Attack B:
+reverse strike
 Jūran:
-肩膀滑動
-攻擊 C:
-向下打擊
+shoulder slip
+Attack C:
+descending hit
 Jūran:
-半步後退
-攻擊 D:
-旋轉橫掃
+half-step retreat
+Attack D:
+spinning sweep
 Jūran:
-長袍扭動 + 身體傾斜
-攻擊 E:
-最後刺擊
+robe twist + body lean
+Attack E:
+final thrust
 Jūran:
-小軀幹旋轉
-每次閃避都有獨特的剪影。
-展示:
-風壓
-布料反應
-鬍鬚運動
-險些擊中
-微小塵土變化
-攝影機:
-圍繞動作部分環繞。
-時機:
+small torso rotation
+Each dodge gets unique silhouette.
+Show:
+wind pressure
+cloth reaction
+beard motion
+near misses
+tiny dust shifts
+Camera:
+partial orbit around action.
+Timing:
 A B C D E
-變速
-目標:
-觀眾讀懂:
-大師閃避了五次攻擊
+SPEED RAMP
+Goal:
+viewer reads:
+MASTER DODGED FIVE ATTACKS
 --------------------------------
 07
-35mm 衝擊著陸
-重重著陸。
-滑行。
-塵土。
-立即恢復。
-攝影機:
-衝擊剪輯。
-僅在著陸時有小震動。
+35mm IMPACT LANDING
+Hard landing.
+Skid.
+Dust.
+Immediate recovery.
+Camera:
+impact cut.
+Small shake only on landing.
 --------------------------------
 08
-14mm 低角度最後衝鋒
-全力最後攻擊。
-全身投入。
-殘影姿勢。
-攝影機:
-推近 Taro
-反向衝向 Jūran。
+14mm LOW-ANGLE FINAL CHARGE
+All-out final attack.
+Full body commitment.
+Smear pose.
+Camera:
+push-in on Taro
+reverse rush toward Jūran.
 --------------------------------
 09
-50mm 最後閃避定格
-不要直接跳到手指。
-先展示最後閃避。
-攻擊穿過畫面。
-Jūran 已在攻擊線外。
-微小身體旋轉。
-長袍仍在移動。
-閃避後:
-手指抬起。
-時機:
-微暫停
-目標:
-最後閃避清晰可讀。
+50mm FINAL EVADE HOLD
+DO NOT GO DIRECTLY TO FINGER.
+Show final dodge first.
+Attack passes frame.
+Jūran already outside attack line.
+Tiny body rotation.
+Robe still moving.
+Only after evade:
+finger rises.
+Timing:
+MICRO PAUSE
+Goal:
+last dodge clearly readable.
 --------------------------------
 10
-70mm 極致特寫
-額頭輕彈。
-微小動作。
-巨大力量。
-衝擊閃光。
-接觸前定格一幀。
+70mm EXTREME CLOSE-UP
+Forehead flick.
+Tiny motion.
+Huge force.
+Impact flash.
+One-frame hold before contact.
 --------------------------------
 11
-18mm 反應鏡頭
-Taro 被向後彈飛。
-喜劇效果。
-快速變焦拉出。
-塵土爆發。
-速度線。
+18mm REACTION SHOT
+Taro launched backward.
+Comedic power.
+Snap zoom out.
+Dust burst.
+Speed lines.
 --------------------------------
 12
-24mm 最後餘波
-Taro 摔在遠處。
-Jūran 冷靜。
-戲謔表情。
-緩慢平靜。
-風回歸。
-課程結束。
+24mm FINAL AFTERMATH
+Taro crashed in distance.
+Jūran calm.
+Amused expression.
+Slow settle.
+Wind returns.
+Lesson complete.
 --------------------------------
-[導演註記]:
-序列核心:
-不是攻擊。
-是閃避。
-每一次閃避必須瞬間可讀。
-學生 = 混亂。
-大師 = 輕鬆控制。
-圍繞學生快速移動攝影機。
-圍繞大師冷靜構圖。
-空中連擊是核心。
-額頭輕彈必須感覺微小但荒謬地強大。
-無標誌。
-無浮水印。
-無精緻最終渲染。
-僅分鏡腳本。
+[DIRECTORIAL NOTES]:
+Core of sequence:
+NOT attacks.
+EVASIONS.
+Every dodge must read instantly.
+Student = chaos.
+Master = effortless control.
+Fast camera around student.
+Calm composition around master.
+Airborne combo is centerpiece.
+Forehead flick must feel tiny but absurdly powerful.
+No logo.
+No watermark.
+No polished final render.
+Storyboard only.
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用分鏡腳本 @[image1] 作為影片的精確順序視覺關鍵影格參考。將每個分鏡格視為獨立的電影鏡頭，並嚴格遵循分鏡腳本的時機、動作和攝影機運動。不要顯示分鏡腳本註釋、標籤、箭頭或分鏡格編號。
+Use storyboard @[image1]  as the exact sequential visual keyframe reference for the video. Treat every panel as an independent cinematic shot and follow the storyboard timing, action and camera exactly. Do not display storyboard annotations, labels, arrows or panel numbers.
 
-使用 @[image2] 作為學生參考，@[image3] 作為大師參考。保留身份、剪影、服裝和個性對比。
+Use @[image2]  as the student reference and @[image3]  as the master reference. Preserve identities, silhouettes, costumes and personality contrast.
 
-創建一個 15 秒的高速動漫武術訓練場景，具有粗獷的電影級作畫能量和懷舊的 80 年代冒險動漫感覺。
+Create a 15-second high-speed anime martial arts training scene with rough cinematic sakuga energy and nostalgic 80s adventure anime feeling.
 
-無文字。無浮水印。無 UI。除分鏡腳本外無額外動作。
+No text. No watermark. No UI. No extra action beyond storyboard.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -1763,43 +1752,43 @@ Jūran 冷靜。
 
 ---
 
-### 24. 激烈網球比賽數位繪畫
+### 24. Intense Tennis Match Digital Painting
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="激烈網球比賽數位繪畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056333771780358215_0_poster.jpg" width="480" alt="Intense Tennis Match Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主體：
-角色 A @ image1：淺膚色白髮 18 歲男性，白色短運動髮型，灰色幾何拼貼運動上衣，紫色網球短褲。
-角色 B @ image2：深膚色黑髮 18 歲男性，黑色短運動髮型，深灰色與紫色拼貼運動上衣，黑色短褲。
-環境：
-室外硬地網球場，背景有藍天、雲朵、綠植或遠處可見的現代城市景觀，自然融合。
-音樂：
-動態配樂，持續的對抗節奏推進，在最後的終結階段節奏明顯增強。
-風格：
-數位繪畫感。大面積總結的色塊，硬邊筆觸，低細節結構，厚重的陰影，保留手繪痕跡。
-無寫實 3D 感，無商業 CG 廣告感，無精緻寫實主義。
-鏡頭 1：平滑過渡，中景，50mm，低角度跟拍
-角色 A 發出旋轉強烈的壓迫性發球。網球落在角色 B 的區域後迅速向上彈起。角色 B 快速移動完成回擊和反擊，球拍與球的接觸清晰可見。
-SFX：球拍擊球聲，球彈跳聲，鞋子摩擦聲
-鏡頭 2：平滑過渡，側面中景，50mm，水平跟拍
-角色 B 完成回擊後，網球再次彈起。角色 A 迅速做出反手回應並製造假動作變化，球的旋轉軌跡清晰可見。
-SFX：球拍擊球聲，破風聲
-鏡頭 3：平滑過渡，角色 A 主觀視角 (POV)，35mm，向前跟拍
-一顆高速旋轉的網球直接飛向角色 A。角色 A 揮動球拍完成反擊，向角色 B 發出一記高速對角線旋轉球。
-SFX：球拍擊球聲，鞋子摩擦聲
-鏡頭 4：平滑過渡，側面中遠景，50mm，水平移動跟拍
-雙方進入高速攻防階段。角色 B 持續使用旋轉切球和高速反手回擊，而角色 A 不斷進行對角線回擊並過渡到高壓跳躍扣殺動作。每一次擊球都清晰顯示球拍與球的接觸，動作節奏持續升級。
-SFX：球拍擊球聲，球彈跳聲
-鏡頭 5：平滑過渡，特寫，50mm，慢速環繞鏡頭
-角色 A 做出最後的終結一擊，網球高速飛向角色 B。角色 B 竭盡全力試圖回球但最終失誤，網球成功落在對手球場區域。角色 A 露出得意的微笑。
-SFX：球拍擊球聲，球落地聲，呼吸聲
+SUBJECTS:
+Character A @ image1: Light-skinned white-haired 18-year-old male, white short sporty hairstyle, gray geometric patchwork sports top, purple tennis shorts.
+Character B @ image2: Dark-skinned black-haired 18-year-old male, black short sporty hairstyle, dark gray and purple patchwork sports top, black shorts.
+ENVIRONMENT:
+Outdoor hard court tennis court, with blue sky, clouds, greenery, or modern cityscape visible in the distance, naturally integrated.
+MUSIC:
+Dynamic soundtrack, continuous confrontation rhythm progression, with a noticeably intensified rhythm during the final finishing phase.
+STYLE:
+Digital painting feel. Large summarized color blocks, hard-edge brush strokes, low-detail structure, heavy shadows, preserving hand-painted traces.
+No realistic 3D feel, no commercial CG advertisement feel, no refined realism.
+SHOT 1: Smooth transition, medium shot, 50mm, low-angle tracking
+Character A delivers a spin-heavy oppressive serve. After the tennis ball lands in Character B’s area, it quickly bounces upward. Character B rapidly moves to complete the return and counterattack, with clear racket-to-ball contact.
+SFX: Racket hit sound, ball bounce sound, shoe friction sound
+SHOT 2: Smooth transition, side medium shot, 50mm, horizontal tracking
+After Character B completes the return, the tennis ball bounces again. Character A quickly performs a backhand response and creates a feint variation, with the spinning trajectory of the ball clearly visible.
+SFX: Racket hit sound, air cutting sound
+SHOT 3: Smooth transition, Character A POV shot, 35mm, forward tracking
+A high-speed spinning tennis ball flies directly toward Character A. Character A swings the racket to complete a counterattack, sending a high-speed diagonal spin shot toward Character B.
+SFX: Racket hit sound, shoe friction sound
+SHOT 4: Smooth transition, side medium-long shot, 50mm, horizontal moving tracking
+Both sides enter a high-speed offensive and defensive phase. Character B continuously uses spinning slice shots and high-speed backhand returns, while Character A constantly performs diagonal returns and transitions into high-pressure jumping smash actions. Every hit clearly shows racket-to-ball contact, with the action rhythm continuously escalating.
+SFX: Racket hit sound, ball bounce sound
+SHOT 5: Smooth transition, close-up, 50mm, slow orbiting camera
+Character A delivers the final finishing shot, with the tennis ball flying at high speed toward Character B. Character B attempts with full effort to return the ball but ultimately misses, and the tennis ball successfully lands in the opponent’s court area. Character A reveals a smug smile.
+SFX: Racket hit sound, ball landing sound, breathing sound
 ```
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
@@ -1812,33 +1801,33 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 25. 電影感棒球揮棒表演
+### 25. Cinematic Baseball Batting Performance
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="電影感棒球揮棒表演"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Cinematic Baseball Batting Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-使用故事板 @[storyboard ref] 作為影片精確的順序視覺關鍵影格參考。將每個分鏡視為獨立的電影鏡頭，而非單張影像。嚴格按照故事板逐個鏡頭執行。
-使用 @[character ref] 作為角色參考。
+Use the storyboard sheet @[storyboard ref] as the exact sequential visual keyframe reference for the video. Treat every panel as an independent cinematic shot, not as a single image. Follow the storyboard shot by shot.
+Use @[character ref] as character reference.
 
-無文字，無標籤，無浮水印，無Logo。
+No text, no label, no watermark, no logo.
 
-15秒電影感節奏打擊籠表演，場景位於巨大的工業室內打擊籠內。完美的同步揮棒流程，舞蹈般的球棒編舞，流暢的運動優雅感，快速的步法，單手轉棒，背後傳棒，肩部翻滾，藝術性轉棒，時尚的姿態轉換，流動的動量，自信且佔主導地位的能量。發球機持續以節奏性的爆發頻率發射棒球。每一次揮棒都完美擊中。球棒動作與音樂節拍完美同步。爆發性的擊球瞬間，漂浮的慢動作揮棒預備，強力的隨揮動作，棒球撞擊球網反彈，抽象的球棒軌跡，衝擊波效果，速度模糊的棒球運動，球網陰影在畫面中切割。激進的推鏡頭，快速搖鏡頭，低角度英雄鏡頭，俯視節奏鏡頭，魚眼球網鏡頭，動態傾斜構圖，前景球網遮擋，運動模糊，保留寫意的動能。頭髮、服裝、球網和散落的棒球對運動做出自然反應。節奏持續構建，直至最終神級慢動作英雄揮棒，整個打擊籠在音樂高潮處視覺爆發。高一致性，無錯誤，無中斷，無額外角色。
+15s cinematic rhythmic batting cage performance inside a giant industrial indoor batting cage. Flawless synchronized batting flow, dance-like bat choreography, smooth athletic elegance, fast footwork, one-handed bat twirls, behind-the-back bat passes, shoulder rolls, artistic bat spins, stylish stance transitions, flowing momentum, confident dominant energy. Pitching machine continuously fires baseballs in rhythmic bursts. Every swing connects perfectly. Bat motion perfectly synced to music beats. Explosive contact moments, floating slow-motion swing anticipation, violent follow-throughs, baseballs ricocheting into the net, abstract bat trails, shockwave impacts, speed-smear baseball motion, cage shadows slicing across the frame. Aggressive push-ins, whip pans, low-angle hero shots, top-down rhythm shots, fisheye cage shots, dynamic tilted framing, foreground net occlusion, motion blur, sketchy kinetic energy preserved. Hair, clothing, cage net and scattered baseballs react naturally to movement. Build rhythm continuously toward a god-tier slow-motion final hero swing where the entire batting cage erupts visually on the musical climax. High consistency, no mistakes, no interruptions, no extra characters.
 
-風格：
-現代繪畫風格動漫插畫
-社論運動時尚藝術
-柔和數位油畫
-可見的筆觸
-高端角色插畫
-半寫實解剖結構
-乾淨的電影感光效
+Style:
+modern painterly anime illustration
+editorial sports fashion art
+soft digital oil painting
+visible brush strokes
+high-end character illustration
+semi-realistic anatomy
+clean cinematic lighting
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -1851,126 +1840,127 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 26. 電影感功夫表演分鏡
+### 26. Cinematic Kung Fu Performance Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="電影感功夫表演分鏡"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-創作一份專注於極限肢體動作的原始功夫表演分鏡。請使用參考圖作為角色依據。
+Create a raw kung fu performance storyboard focused on extreme physical action. Use reference image for the character.
 
-16:9分鏡頁，12個電影級分鏡格。實際的分鏡草圖必須僅為黑白：粗獷的鉛筆線條、極簡細節、快速的手繪動勢、簡單的解剖結構和強烈的剪影可讀性。保持畫面輕盈、動態且未完成感，如同早期的動作編排預演。
+16:9 storyboard sheet, 12 cinematic panels. The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early fight choreography previs.
 
-直接從動作開始。不要以平靜的站姿、準備鏡頭或緩慢的開場開始。
+Start directly in action. Do not begin with a calm stance, preparation shot or slow introduction.
 
-一位女性表演者在宏偉的古廟內執行一套激進的西藏功夫大師風格套路。編排誇張、具有爆發力且不斷升級：飛踢、僧侶式低馬步、快速掌擊、旋轉的布料感身體轉動、動物形態手勢、深弓步、空中扭轉、地面掃腿、突然下墜、爪式格擋、後仰跳躍、滑步恢復和充滿力量感的雕塑式衝擊姿勢。
+A solitary female performer executes an aggressive Tibetan kung fu master-style routine inside a vast ancient temple. The choreography is exaggerated, explosive and constantly escalating: flying diagonal kicks, monk-style low stances, rapid palm strikes, spinning cloth-like body turns, animal-form hand shapes, deep lunges, aerial twists, floor-level sweeps, sudden drops, claw-like blocks, back-arched jumps, sliding recoveries and violent sculptural impact poses.
 
-每一格都必須包含可見的運動和強烈的身體動量。避免靜態站姿。表演者應表現出如同儀式戰士般的紀律、憤怒、精神壓力和全身控制力。
+Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel like a ritual warrior moving with discipline, fury, spiritual pressure and total body control.
 
-動作進程：
-1. 從半空中開始，飛踢動作已在進行中
-2. 手持特寫，掌擊劃破空氣
-3. 環繞遠景，全身旋轉
-4. 低角度衝擊掌擊，伴隨衝擊波
-5. 長焦側面側踢
-6. 俯視空中轉體，身體、頭髮和織物向外飄散
-7. 重踏地面，震裂廟宇石板
-8. 地面滑行掃腿
-9. 激進的肘擊、掌擊和背拳連擊特寫
-10. 極低姿態的僧侶式獸形馬步，能量升騰
-11. 身體周圍旋轉的元素漩渦
-12. 最終空中動作姿勢，懸浮在廟宇地面上方，身體扭轉成強力的功夫打擊動作，所有元素在衝擊前匯聚在她周圍
+Action progression:
+1. begin mid-air with a flying diagonal kick already in motion
+2. handheld close-up palm sweep cutting through air
+3. orbiting wide shot of a full-body spin
+4. low-angle impact palm strike with shockwave
+5. long-lens side profile spinning kick
+6. top-down aerial turn with body, hair and fabric flaring outward
+7. hard floor stomp cracking the temple stone
+8. sliding low sweep across the floor
+9. aggressive close-up flurry of elbows, palms and backfist strikes
+10. extreme low monk-style beast stance with energy rising
+11. spinning elemental vortex around the body
+12. final airborne action pose, suspended above the temple floor, body twisted in a powerful kung fu strike, all elements converging around her before impact
 
-添加選擇性的元素能量效果作為VFX風格的分鏡點綴。效果應具有精神性、儀式感和電影感，而非超級英雄風格：
-旋轉和飛踢周圍的氣流爆發，
-重踏時揚起的灰塵和石塊，
-滑行時地面產生的如水波紋，
-爆發性打擊周圍的火光軌跡，
-高強度運動周圍的熱畸變，
-高潮處的元素漩渦。
+Add selective elemental energy effects as VFX-style storyboard accents. The effects should feel spiritual, ritualistic and cinematic, not superhero-like:
+air bursts around spins and flying kicks,
+dust and stone fragments lifting from stomps,
+water-like floor ripples during slides,
+fire-like trails around explosive strikes,
+heat distortion around high-intensity movement,
+elemental vortex near the climax.
 
-元素進程：
-前期分鏡：微妙的風、灰塵和壓力線
-中期分鏡：更強的石塊碎片、地面波紋和空氣衝擊波
-後期分鏡：受控的火光軌跡和能量螺旋
-最終分鏡：表演者仍在空中時最強的綜合元素湧動
+Element progression:
+early panels: subtle wind, dust and pressure lines
+middle panels: stronger stone fragments, floor ripples and air shockwaves
+late panels: controlled fire trails and energy spirals
+final panel: the strongest combined elemental surge while the performer is still airborne
 
-使用電影藝術動作攝影手法：
-手持感能量，
-鞭掃感，
-環繞鏡頭移動，
-俯拍鏡頭，
-側面剪影，
-激進特寫，
-長焦壓縮，
-極低角度，
-寬闊負空間，
-強視差。
+Use cinematic arthouse action camerawork:
+handheld energy,
+whip-pan feeling,
+orbiting camera moves,
+overhead shots,
+side silhouettes,
+aggressive close-ups,
+long-lens compression,
+extreme low angles,
+wide negative space,
+strong parallax.
 
-保持廟宇環境極簡且具有氛圍感：
-高聳的石柱，
-磨損的廟宇地面，
-飄動的香煙，
-懸掛的織物，
-強烈的丁達爾光束，
-空氣中微弱的塵埃，
-微妙的濕地反射。不要讓畫面過於擁擠。
+Keep the temple environment minimal and atmospheric:
+towering stone columns,
+worn temple floor,
+drifting incense smoke,
+hanging fabric,
+harsh light shafts,
+faint dust in the air,
+subtle wet floor reflections.
+Do not overcrowd the frames.
 
-標註顏色系統：
-紅色箭頭 = 身體運動
-藍色箭頭 = 鏡頭運動
-綠色標記 = 構圖/取景說明
-橙色標記 = 光照方向
-黃色標記 = 元素VFX/能量效果
-黑色文字 = 簡短鏡頭說明和分鏡標籤
+Annotation color system:
+red arrows = body movement
+blue arrows = camera movement
+green marks = framing / composition notes
+orange marks = lighting direction
+yellow marks = elemental VFX / energy effects
+black text = short lens notes and panel labels
 
-無時間戳。無對話。無歌唱。無額外角色。無敵人。無Logo。無水印。
+No timestamps. No dialogue. No singing. No extra characters. No enemies. No logos. No watermark.
 ```
 
 **🎬 影片提示詞**
 
 ```
-創作一段15秒的電影感功夫表演視頻。
+Create a 15-second cinematic kung fu performance video.
 
-使用 @[image1] 作為固定的角色表參考。角色必須嚴格匹配角色表。
-使用 @[image2] 作為分鏡參考。
+Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
+Use @[image2]  as the storyboard reference.
 
-嚴格按照分鏡逐個鏡頭執行，作為動作順序、鏡頭節奏、身體運動、取景、運動方向、鏡頭角度和視覺進程的主要來源。將每個分鏡格視為連續的關鍵幀。保留鏡頭順序，使視頻感覺像是分鏡被轉化為連續的實拍動作。序列必須在表演者仍懸浮在空中的凍結幀結束。
+Follow the storyboard shot by shot as the main source for action order, camera rhythm, body movement, framing, movement direction, camera angles and visual progression. Treat each storyboard panel as a sequential keyframe. Preserve the shot order and make the video feel like the storyboard has been translated into continuous live-action motion. The sequence must end on a frozen final frame while the performer is still airborne.
 
-不要添加文字、字幕、分鏡標籤、箭頭、UI、Logo或水印。不要將分鏡視為單張圖像。不要重新設計角色、更換服裝或改變面部。不要以平靜的站姿、準備姿勢或緩慢的開場開始。不要讓元素效果看起來像超級英雄能力或過度的奇幻光效。
+Do not add text, captions, storyboard labels, arrows, UI, logos or watermarks. Do not treat the storyboard as a single image. Do not redesign the character, change the costume or alter the face. Do not begin with a calm stance, preparation pose or slow introduction. Do not make the elemental effects look like superhero powers or excessive fantasy glow.
 
-視覺風格：
-風格化的電影寫實主義，高端3D繪畫動畫質量，動態布料模擬，富有表現力的剪影設計，豐富的電影級燈光，受控的調色板，自然的動態模糊，戲劇性的尺度，優美而激進的肢體表現，高級動畫電影美學。
+Visual style:
+stylized cinematic realism, high-end 3D painterly animation quality, dynamic cloth simulation, expressive silhouette design, rich cinematic lighting, controlled color palette, natural motion blur, dramatic scale, beautiful but aggressive physicality, premium feature-animation aesthetic.
 
-環境：
-宏偉的古廟，高聳的石柱，磨損的廟宇地面，飄動的香煙，懸掛的織物，強烈的丁達爾光束，空氣中微弱的塵埃，微妙的濕地反射，高對比度陰影。
+Environment:
+vast ancient temple, towering stone columns, worn temple floor, drifting incense smoke, hanging fabric, harsh light shafts, faint dust in the air, subtle wet floor reflections, high contrast shadows.
 
-表演是宏偉古廟內的一場單人女性功夫套路。套路直接從動作開始，沒有平靜的站姿，沒有準備姿勢，沒有緩慢的開場。動作應表現出激進、儀式化、紀律嚴明、極端的肢體表現和精神力量。
+The performance is a solitary female kung fu routine inside a vast ancient temple. The routine starts immediately in action, with no calm stance, no preparation pose and no slow introduction. The movement should feel aggressive, ritualistic, disciplined, physically extreme and spiritually charged.
 
-這不是與敵人的戰鬥。這是一場關於力量、控制、疲憊、憤怒和釋放的個人表演。
+This is not a fight against an enemy. It is a solo performance of force, control, exhaustion, fury and release.
 
-遵循分鏡的編排方向。
+Follow story board for choreography direction.
 
-元素進程：
-前期序列：響應運動的微妙風、灰塵和壓力線。
-中期序列：更強的空氣衝擊波、石塊碎片、地面裂紋和穿過廟宇地面的水波紋。
-後期序列：受控的火光軌跡、熱畸變和爆發性打擊與踢腿周圍的能量螺旋。
-高潮：風、灰塵、石塊、水波紋和火光元素結合成更強的元素漩渦。
-最終節拍：表演者懸浮在廟宇地面上方，處於強力的功夫打擊動作中，身體在空中扭轉，頭髮和織物向外飄散，所有元素在衝擊前匯聚在她周圍。
+Element progression:
+early sequence: subtle wind, dust and pressure lines responding to movement.
+middle sequence: stronger air shockwaves, stone fragments, floor cracks and water-like ripples across the temple floor.
+late sequence: controlled fire trails, heat distortion and energy spirals around explosive strikes and kicks.
+climax: wind, dust, stone, water ripple and fire accents combine into a stronger elemental vortex.
+final beat: the performer is airborne above the temple floor in a powerful kung fu strike, body twisted mid-air, hair and fabric flaring outward, with all elements converging around her before impact.
 
-元素VFX必須具有精神性、儀式感和電影感。效果應與編排融為一體，並由肢體運動驅動。保持能量的原始、元素感、氛圍感，並扎根於廟宇環境中。
+Elemental VFX must feel spiritual, ritualistic and cinematic. The effects should be integrated with the choreography and motivated by physical movement. Keep the energy raw, elemental, atmospheric and grounded in the temple environment.
 
-全程使用拉班動作分析（Laban movement）邏輯：
-重量：強、重、衝擊時扎實，跳躍和空中扭轉時短暫輕盈
-時間：打擊、踢腿、下墜和轉身時快速，懸浮保持和恢復過渡時持續
-空間：攻擊、格擋和弓步時直接，旋轉和元素漩渦時刻間接
-流動：扎根站姿和精準打擊時受限，空中運動、旋轉織物運動和元素釋放時自由
+Use Laban movement logic throughout:
+weight: strong, heavy, grounded during impacts, with brief lightness during jumps and aerial twists
+time: quick during strikes, kicks, drops and turns, sustained during suspended holds and recovery transitions
+space: direct during attacks, blocks and lunges, indirect during spinning turns and elemental vortex moments
+flow: bound during rooted stances and precise strikes, free during aerial motion, spinning fabric movement and elemental release
 ```
 
 **作者** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K 追蹤者
@@ -1983,39 +1973,39 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 27. 詠春拳訓練數位繪畫
+### 27. Wing Chun Training Digital Painting
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="詠春拳訓練數位繪畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055622749348085926_0_poster.jpg" width="480" alt="Wing Chun Training Digital Painting"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主體：
-亞洲少年 @ image1，身材瘦削，眼神銳利，冷靜且專注。
-環境：
-乾淨的戶外庭院，石板路，自然光，光影清晰。庭院中可見木人樁或訓練樁。整段影片保持在同一個庭院場景中。
-風格：
-數位繪畫感。大面積簡化的色塊，硬邊筆觸，低細節結構，厚重的陰影，保留手繪質感。
-無寫實 3D 感，無商業 CG 廣告感，無精緻寫實風格。
-場景一：
-硬切開場。特寫鏡頭，35mm，穩定近距離跟拍 / 少年已處於持續訓練狀態，雙手快速與木人樁變換接觸，左右手持續交替，自然的小範圍步法移動，前踢作為支撐動作連接，身體動作協調且穩定，整體節奏乾淨精準 / 音效：布料摩擦聲、輕微腳步踏在石板上的聲音、細微的木人樁撞擊聲
-場景二：
-動作匹配剪輯。中特寫鏡頭，50mm，橫向跟拍 / 少年持續進行多種手法變換，直拳、拍手、肘法與腿法自然結合，動作短促緊湊，全程保持持續壓力與穩定節奏，木人樁產生自然的互動回饋 / 音效：連續打擊聲、空氣摩擦聲、木人樁回響
-場景三：
-快速轉場。特寫鏡頭，35mm，慢速環繞 / 眼神保持冷靜專注，手法持續變換，與木人樁保持穩定互動，動作轉換自然清晰，每一次接觸都帶有明確的動作回饋，整體保持克制且穩定的訓練感 / 音效：呼吸聲、空氣流動聲、輕微木人樁碰撞聲
-場景四：
-動作轉場剪輯。全身中景，28mm，穩定推鏡 / 少年持續進行轉身動作、肘擊、直拳與協調的腿法，動作節奏穩定自然，步法輕盈精準，身體動作保持協調，木人樁與周圍環境隨動作細微反應 / 音效：腳步摩擦聲、肘擊撞擊聲、輕微竹葉沙沙聲
-場景五：
-靜音切入。極特寫鏡頭，50mm，輕微手持感 / 手臂在近距離持續變換，直拳在撞擊瞬間自然發力，袖口隨動作擺動，木人樁產生清晰回饋，腿法與步法保持自然連接，整體動作穩定流暢 / 音效：短暫靜音後接深沉撞擊聲
-場景六：
-動作轉場。中景鏡頭，35mm，鏡像反射切回正面視角 / 少年持續進行拍手、直拳、掌擊與轉身動作，轉換流暢清晰，木人樁持續產生互動回饋，衣物與頭髮保持適度的動態感，整體保持穩定的訓練節奏 / 音效：木人樁碰撞聲、布料摩擦聲、空氣流動聲
-場景七：
-結尾鏡頭。中特寫鏡頭，50mm，慢速推鏡後穩定定格 / 完成最後動作後，少年緩緩停下，灰塵、衣角與竹葉自然落下，木人樁輕微晃動，緩緩抬眼看向鏡頭，單手保持詠春起手式，穩穩站在庭院中央 / 音效：一聲深沉悶響後，恢復自然的環境風聲
+SUBJECTS:
+Asian teenage boy @ image1, slim build, sharp eyes, calm and focused.
+ENVIRONMENT:
+Clean outdoor courtyard, stone pavement, natural lighting, clear light and shadow. A wooden dummy or training post is visible in the courtyard. The entire video remains in the same courtyard setting.
+STYLE:
+Digital painting feel. Large simplified color blocks, hard-edge brushwork, low-detail structure, heavy shadows, preserving hand-drawn texture.
+No realistic 3D feel, no commercial CG advertisement feel, no polished realism.
+SHOT 1:
+Hard cut opening. Close shot, 35mm, steady close follow / The boy is already in continuous training state, both hands rapidly changing contact with the wooden dummy, right and left hands continuously alternating, natural short-distance footwork movement, front kick connected as supporting motion, body movement coordinated and stable, overall rhythm clean and precise / SFX: fabric friction, light footsteps tapping stone pavement, subtle wooden dummy impact sounds
+SHOT 2:
+Action match cut. Medium close shot, 50mm, lateral tracking shot / The boy continuously performs multiple hand technique variations, straight punches, slapping hands, elbow techniques, and leg techniques naturally combined, movements short and compact, maintaining continuous pressure and stable rhythm throughout, the wooden dummy produces natural interaction feedback / SFX: continuous strike sounds, air friction sounds, wooden dummy reverberation
+SHOT 3:
+Fast transition. Close-up, 35mm, slow orbit / Eyes remain calm and focused, hand techniques continuously changing, maintaining stable interaction with the wooden dummy, movement transitions natural and clear, every contact carrying clear motion feedback, overall maintaining restrained and stable training feeling / SFX: breathing, air movement sounds, light wooden dummy collision sounds
+SHOT 4:
+Action transition cut. Full-body medium shot, 28mm, steady push-in / The boy continuously performs turning movements, elbow strikes, straight punches, and coordinated leg techniques, movement rhythm stable and natural, footwork light and precise, body movement remains coordinated, the wooden dummy and surrounding environment subtly reacting with the movements / SFX: foot friction, elbow strike impacts, light bamboo leaf rustling
+SHOT 5:
+Silent cut-in. Extreme close-up, 50mm, slight handheld feel / Arms continuously shifting at close range, straight punch naturally exerting force at the moment of impact, sleeves moving with the action, the wooden dummy producing clear feedback, leg techniques and footwork maintaining natural connection, overall movement stable and fluid / SFX: brief silence followed by deep impact sound
+SHOT 6:
+Action transition. Medium shot, 35mm, mirror reflection cut back to front view / The boy continuously performs slapping hands, straight punches, palm strikes, and turning movements, transitions smooth and clear, the wooden dummy continuously producing interaction feedback, clothes and hair maintaining moderate dynamic movement, overall maintaining stable training rhythm / SFX: wooden dummy collisions, fabric friction, air movement sounds
+SHOT 7:
+Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After completing the final movement, the boy slowly stops, dust, clothing corners, and bamboo leaves naturally settling back down, the wooden dummy lightly swaying, slowly raising his eyes toward the camera, one hand maintaining a Wing Chun starting stance, standing steadily at the center of the courtyard / SFX: one deep muffled impact followed by the return of natural ambient wind sounds
 ```
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
@@ -2028,80 +2018,80 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 28. 奧運跳水選手數位繪畫動畫
+### 28. Olympic Diver Digital Painting Animation
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="奧運跳水選手數位繪畫動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054872820191277454_0_poster.jpg" width="480" alt="Olympic Diver Digital Painting Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主體：
-女性奧運級跳水選手 @ image 1。略帶風格化的卡通比例，乾淨的運動員髮髻，無泳帽，穿著比賽泳衣。
-環境：
-國際級跳水比賽場地。
-深藍色泳池、10米跳台、觀眾席、裁判區以及強烈的體育場燈光。
-水面必須感覺真實：
-空氣掠過水面的感覺、細微的反射、極其細薄的入水痕跡、微小的漣漪和殘留的氣泡都應自然存在。
-音樂：
-穩定的節奏打擊樂結合低頻環境音樂。
-風格：
-數位繪畫美學。大面積簡化的色塊、硬邊筆觸、低細節結構、厚重的陰影，保留可見的手繪質感。
-沒有真實的 3D 感，沒有商業 CG 廣告外觀，沒有拋光的寫實主義。
-場景 1
-35mm，10米跳台邊緣特寫。
-鏡頭從跳台的低側角度緩慢靠近。
-跳水選手已在跳台邊緣完成倒立準備姿勢，雙手穩穩支撐跳台，肩膀和背部完全打開，核心收緊，雙腿併攏向上延伸成一條乾淨的直線。
-音效：
-細微的體育場氛圍，觀眾安靜的呼吸聲，低頻環境音樂開始。
-場景 2
-50mm，特寫到中景鏡頭。
-鏡頭從手掌緩慢移動到肩膀和背部，然後跟隨動作向上升起。
-她雙手按壓跳台，透過肩膀、核心和臀部協調發力，身體自然離開跳台邊緣。
-她的雙腿始終併攏並完全伸展，動作輕盈穩定。
-音效：
-手部接觸跳台的聲音，細微的空氣流動聲，低頻節奏進入。
-場景 3
-35mm，中遠景航拍鏡頭。
-鏡頭穩定地跟隨她離開跳台後的軌跡。
-她從起跳動作自然過渡到連續翻騰。
-她的身體先收緊以完成旋轉，然後自然打開進入伸展狀態。
-她的雙腿掠過頭頂，繃直的腳尖保持穩定的控制。
-音效：
-音樂層次逐漸增強，風聲加劇，觀眾發出細微的驚嘆聲。
-場景 4
-28mm，高角度跟隨中景鏡頭。
-鏡頭從上方輕盈地跟隨她下降的軌跡。
-她逐漸放慢旋轉速度，將手臂收回靠近身體，然後平滑地向上伸展至頭頂上方。
-隨著身體緩慢回到垂直位置，她的肩膀和背部打開。
-音效：
-音樂逐漸留出空白，細微的壓縮空氣聲，體育場氛圍持續。
-場景 5
-70mm，水面特寫，固定高速攝影機。
-雙手先切入水中，隨後頭部、肩膀、身體、雙腿和繃直的腳尖沿著同一條線進入泳池。
-水面上只留下極其細薄的痕跡和細微的漣漪。
-幾乎沒有水花濺出。
-音效：
-短促的入水聲，低沉的水下撞擊聲，觀眾掌聲緩慢響起。
-場景 6
-24mm，水下中景鏡頭。
-鏡頭跟隨微小的氣泡緩慢向前漂移。
-她保持標準的流線型滑行姿勢，手臂向前伸展，雙手併攏。
-隨後她的身體稍微放鬆，肩膀和背部引導緩慢轉身。
-微小的氣泡沿著手臂、肩膀、背部和雙腿形成柔和的拖尾線條。
-音效：
-低沉的水下氛圍，柔和的環境音樂，微小的氣泡聲。
-場景 7
-50mm，正面中景特寫。
-鏡頭穩定而緩慢地推近。
-她恢復站姿並緩慢抬頭。
-一隻手放在胸前，另一隻手自然向側面伸展，形成一個靜止的結束姿勢。
-音效：
-音樂的最後節奏拍點，細微的快門定格聲，持續的觀眾掌聲。
+SUBJECTS:
+Female Olympic-level diver @ image 1. Slightly stylized cartoon proportions, clean athletic hair bun, no swim cap, competition swimsuit.
+ENVIRONMENT:
+International-level diving competition venue.
+Deep blue pool, 10-meter platform, audience seating, judging area, and intense stadium lighting.
+The water surface must feel realistic:
+the sensation of air brushing across the water, subtle reflections, extremely thin water entry traces, tiny ripples, and lingering bubbles should all exist naturally.
+MUSIC:
+Steady rhythmic percussion combined with low-frequency ambient music.
+STYLE:
+Digital painting aesthetic. Large simplified color blocks, hard-edge brushwork, low-detail structure, heavy shadows, preserving visible hand-painted texture.
+No realistic 3D feeling, no commercial CG advertisement look, no polished realism.
+SHOT 1
+35mm, close-up of the edge of the 10-meter platform.
+The camera slowly approaches from a low side angle of the platform.
+The diver has already completed the handstand preparation pose at the platform edge, both hands firmly supporting the platform, shoulders and back fully opened, core tightened, legs together extending upward into a clean straight line.
+SFX:
+Subtle stadium ambience, quiet breathing from the audience, low-frequency ambient music begins.
+SHOT 2
+50mm, close-up to medium shot.
+The camera slowly moves from the palms to the shoulders and back, then lifts upward following the motion.
+She presses both hands against the platform, coordinating force through the shoulders, core, and hips as her body naturally leaves the edge of the platform.
+Her legs remain together and fully extended throughout, with light and stable movement.
+SFX:
+Hands contacting the platform, subtle air movement, low-frequency rhythm enters.
+SHOT 3
+35mm, medium-wide aerial shot.
+The camera steadily follows her trajectory after leaving the platform.
+She transitions naturally into continuous flips following the takeoff motion.
+Her body first tightens to complete the rotation, then naturally opens into extension.
+Her legs sweep past overhead while her pointed toes maintain steady control.
+SFX:
+Music layers gradually rise, wind sound intensifies, subtle audience gasps.
+SHOT 4
+28mm, high-angle tracking medium shot.
+The camera lightly follows her descending trajectory from above.
+She gradually slows the rotation, brings her arms back closer to the body, then smoothly draws them upward above her head.
+Her shoulders and back open as the body slowly returns to a vertical position.
+SFX:
+Music gradually leaves empty space, subtle compressed air sound, stadium ambience remains.
+SHOT 5
+70mm, close-up of the water surface, fixed high-speed camera.
+Both hands cut into the water first, followed by the head, shoulders, body, legs, and pointed toes entering the pool along the same line.
+Only an extremely thin trace and subtle ripples remain on the water surface.
+Almost no splash escapes outward.
+SFX:
+Short water entry sound, low underwater thump, audience applause slowly emerges.
+SHOT 6
+24mm, underwater medium shot.
+The camera slowly drifts forward following tiny bubbles.
+She maintains a standard streamlined glide forward, arms extended ahead, hands together.
+Her body then slightly relaxes as the shoulders and back guide a slow turn.
+Tiny bubbles create soft trailing lines along the arms, shoulders, back, and legs.
+SFX:
+Low underwater ambience, soft ambient music, tiny bubble sounds.
+SHOT 7
+50mm, front medium close-up.
+The camera steadily and slowly pushes closer.
+She regains her stance and slowly raises her head.
+One hand rests near the chest while the other naturally extends upward to the side, forming a frozen finishing pose.
+SFX:
+Final rhythmic beat of the music, subtle shutter freeze sound, continuing audience applause.
 ```
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
@@ -2114,127 +2104,127 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 29. 電影級功夫表演分鏡腳本
+### 29. Cinematic Kung Fu Performance Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="電影級功夫表演分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-創建一個專注於極端身體動作的原始功夫表演分鏡腳本。請使用參考圖像作為角色參考。
+Create a raw kung fu performance storyboard focused on extreme physical action. Use reference image for the character.
 
-16:9 分鏡腳本頁面，12 個電影級面板。實際的分鏡腳本繪圖必須僅為黑白：粗糙的鉛筆線條、極簡細節、快速的手勢繪畫能量、簡單的解剖結構和強烈的剪影可讀性。保持藝術風格輕盈、動態且未完成，就像早期的戰鬥編舞預覽一樣。
+16:9 storyboard sheet, 12 cinematic panels. The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early fight choreography previs.
 
-直接從動作開始。不要以平靜的姿勢、準備鏡頭或緩慢的介紹開始。
+Start directly in action. Do not begin with a calm stance, preparation shot or slow introduction.
 
-一位獨自表演的女性在廣闊的古老寺廟內執行激進的西藏功夫大師風格演練。編舞誇張、爆發力強且不斷升級：飛行對角踢、僧侶風格的低姿態、快速掌擊、旋轉如布料般的身體轉動、動物形態的手型、深蹲、空中扭轉、地面掃腿、突然下墜、爪狀格擋、後仰跳躍、滑行恢復和暴力的雕塑感衝擊姿勢。
+A solitary female performer executes an aggressive Tibetan kung fu master-style routine inside a vast ancient temple. The choreography is exaggerated, explosive and constantly escalating: flying diagonal kicks, monk-style low stances, rapid palm strikes, spinning cloth-like body turns, animal-form hand shapes, deep lunges, aerial twists, floor-level sweeps, sudden drops, claw-like blocks, back-arched jumps, sliding recoveries and violent sculptural impact poses.
 
-每個面板都必須包含可見的動作和強大的身體動量。避免靜態站立姿勢。表演者應該感覺像是一位帶著紀律、憤怒、精神壓力和全身控制力移動的儀式戰士。
+Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel like a ritual warrior moving with discipline, fury, spiritual pressure and total body control.
 
-動作進程：
-1. 從空中開始，已經在進行飛行對角踢
-2. 手持特寫掌掃切過空氣
-3. 全身旋轉的軌道廣角鏡頭
-4. 帶有衝擊波的低角度衝擊掌擊
-5. 長焦鏡頭側面旋轉踢
-6. 從上到下的空中轉體，身體、頭髮和布料向外飄揚
-7. 重踏地面，震裂寺廟石板
-8. 橫跨地面的滑行低掃腿
-9. 激進的肘擊、掌擊和背拳連擊特寫
-10. 極低角度的僧侶風格獸姿，能量上升
-11. 身體周圍的旋轉元素漩渦
-12. 最後的空中動作姿勢，懸浮在寺廟地板上方，身體扭轉成強大的功夫打擊，所有元素在衝擊前匯聚在她周圍
+Action progression:
+1. begin mid-air with a flying diagonal kick already in motion
+2. handheld close-up palm sweep cutting through air
+3. orbiting wide shot of a full-body spin
+4. low-angle impact palm strike with shockwave
+5. long-lens side profile spinning kick
+6. top-down aerial turn with body, hair and fabric flaring outward
+7. hard floor stomp cracking the temple stone
+8. sliding low sweep across the floor
+9. aggressive close-up flurry of elbows, palms and backfist strikes
+10. extreme low monk-style beast stance with energy rising
+11. spinning elemental vortex around the body
+12. final airborne action pose, suspended above the temple floor, body twisted in a powerful kung fu strike, all elements converging around her before impact
 
-添加選擇性的元素能量效果作為 VFX 風格的分鏡腳本裝飾。這些效果應該感覺是精神性的、儀式性的和電影化的，而不是超級英雄風格的：
-旋轉和飛行踢周圍的氣爆，
-重踏時揚起的灰塵和石塊碎片，
-滑行時地面如水般的漣漪，
-爆發性打擊周圍如火般的軌跡，
-高強度運動周圍的熱扭曲，
-高潮附近的元素漩渦。
+Add selective elemental energy effects as VFX-style storyboard accents. The effects should feel spiritual, ritualistic and cinematic, not superhero-like:
+air bursts around spins and flying kicks,
+dust and stone fragments lifting from stomps,
+water-like floor ripples during slides,
+fire-like trails around explosive strikes,
+heat distortion around high-intensity movement,
+elemental vortex near the climax.
 
-元素進程：
-早期面板：細微的風、灰塵和壓力線
-中期面板：更強的石塊碎片、地面漣漪和空氣衝擊波
-後期面板：受控的火焰軌跡和能量螺旋
-最終面板：表演者仍在空中時最強的組合元素湧動
+Element progression:
+early panels: subtle wind, dust and pressure lines
+middle panels: stronger stone fragments, floor ripples and air shockwaves
+late panels: controlled fire trails and energy spirals
+final panel: the strongest combined elemental surge while the performer is still airborne
 
-使用電影藝術動作攝影技術：
-手持能量感，
-鞭掃鏡頭感，
-軌道攝影機移動，
-俯拍鏡頭，
-側面剪影，
-激進的特寫鏡頭，
-長焦壓縮，
-極端低角度，
-寬闊的負空間，
-強烈的視差。
+Use cinematic arthouse action camerawork:
+handheld energy,
+whip-pan feeling,
+orbiting camera moves,
+overhead shots,
+side silhouettes,
+aggressive close-ups,
+long-lens compression,
+extreme low angles,
+wide negative space,
+strong parallax.
 
-保持寺廟環境極簡且具有氛圍感：
-高聳的石柱，
-磨損的寺廟地板，
-漂浮的香煙，
-懸掛的布料，
-強烈的光束，
-空氣中微弱的灰塵，
-地面微弱的濕潤反射。
-不要讓畫面過於擁擠。
+Keep the temple environment minimal and atmospheric:
+towering stone columns,
+worn temple floor,
+drifting incense smoke,
+hanging fabric,
+harsh light shafts,
+faint dust in the air,
+subtle wet floor reflections.
+Do not overcrowd the frames.
 
-註釋顏色系統：
-紅色箭頭 = 身體移動
-藍色箭頭 = 攝影機移動
-綠色標記 = 構圖/組成筆記
-橙色標記 = 照明方向
-黃色標記 = 元素 VFX / 能量效果
-黑色文字 = 短鏡頭筆記和面板標籤
+Annotation color system:
+red arrows = body movement
+blue arrows = camera movement
+green marks = framing / composition notes
+orange marks = lighting direction
+yellow marks = elemental VFX / energy effects
+black text = short lens notes and panel labels
 
-無時間戳。無對話。無歌唱。無額外角色。無敵人。無標誌。無浮水印。
+No timestamps. No dialogue. No singing. No extra characters. No enemies. No logos. No watermark.
 ```
 
 **🎬 影片提示詞**
 
 ```
-創建一個 15 秒的電影級功夫表演影片。
+Create a 15-second cinematic kung fu performance video.
 
-使用 @[image1] 作為固定的角色表參考。角色必須嚴格符合角色表。
-使用 @[image2] 作為分鏡腳本參考。
+Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
+Use @[image2]  as the storyboard reference.
 
-逐鏡頭遵循分鏡腳本，作為動作順序、攝影機節奏、身體移動、構圖、移動方向、攝影機角度和視覺進程的主要來源。將每個分鏡腳本面板視為連續的關鍵影格。保留鏡頭順序，讓影片感覺像是分鏡腳本被轉化為連續的真人動作。序列必須在表演者仍在空中時以凍結的最後一幀結束。
+Follow the storyboard shot by shot as the main source for action order, camera rhythm, body movement, framing, movement direction, camera angles and visual progression. Treat each storyboard panel as a sequential keyframe. Preserve the shot order and make the video feel like the storyboard has been translated into continuous live-action motion. The sequence must end on a frozen final frame while the performer is still airborne.
 
-不要添加文字、字幕、分鏡腳本標籤、箭頭、UI、標誌或浮水印。不要將分鏡腳本視為單一圖像。不要重新設計角色、更改服裝或改變面部。不要以平靜的姿勢、準備動作或緩慢的介紹開始。不要讓元素效果看起來像超級英雄能力或過度的奇幻光芒。
+Do not add text, captions, storyboard labels, arrows, UI, logos or watermarks. Do not treat the storyboard as a single image. Do not redesign the character, change the costume or alter the face. Do not begin with a calm stance, preparation pose or slow introduction. Do not make the elemental effects look like superhero powers or excessive fantasy glow.
 
-視覺風格：
-風格化的電影寫實主義，高端 3D 繪畫動畫品質，動態布料模擬，富有表現力的剪影設計，豐富的電影照明，受控的調色板，自然的動態模糊，戲劇性的規模，美麗但激進的身體素質，優質的長片動畫美學。
+Visual style:
+stylized cinematic realism, high-end 3D painterly animation quality, dynamic cloth simulation, expressive silhouette design, rich cinematic lighting, controlled color palette, natural motion blur, dramatic scale, beautiful but aggressive physicality, premium feature-animation aesthetic.
 
-環境：
-廣闊的古老寺廟，高聳的石柱，磨損的寺廟地板，漂浮的香煙，懸掛的布料，強烈的光束，空氣中微弱的灰塵，地面微弱的濕潤反射，高對比度陰影。
+Environment:
+vast ancient temple, towering stone columns, worn temple floor, drifting incense smoke, hanging fabric, harsh light shafts, faint dust in the air, subtle wet floor reflections, high contrast shadows.
 
-表演是在廣闊的古老寺廟內進行的獨自女性功夫演練。演練立即開始，沒有平靜的姿勢，沒有準備動作，也沒有緩慢的介紹。動作應該感覺激進、儀式化、紀律嚴明、身體極端且充滿精神力量。
+The performance is a solitary female kung fu routine inside a vast ancient temple. The routine starts immediately in action, with no calm stance, no preparation pose and no slow introduction. The movement should feel aggressive, ritualistic, disciplined, physically extreme and spiritually charged.
 
-這不是與敵人的戰鬥。這是一場關於力量、控制、疲憊、憤怒和釋放的個人表演。
+This is not a fight against an enemy. It is a solo performance of force, control, exhaustion, fury and release.
 
-遵循分鏡腳本進行編舞指導。
+Follow story board for choreography direction.
 
-元素進程：
-早期序列：對動作做出反應的細微風、灰塵和壓力線。
-中期序列：更強的空氣衝擊波、石塊碎片、地面裂縫和橫跨寺廟地板的水波漣漪。
-後期序列：爆發性打擊和踢腿周圍受控的火焰軌跡、熱扭曲和能量螺旋。
-高潮：風、灰塵、石頭、水波漣漪和火焰裝飾結合在一起，形成更強大的元素漩渦。
-最後節拍：表演者在寺廟地板上方的空中進行強大的功夫打擊，身體在空中扭轉，頭髮和布料向外飄揚，所有元素在衝擊前匯聚在她周圍。
+Element progression:
+early sequence: subtle wind, dust and pressure lines responding to movement.
+middle sequence: stronger air shockwaves, stone fragments, floor cracks and water-like ripples across the temple floor.
+late sequence: controlled fire trails, heat distortion and energy spirals around explosive strikes and kicks.
+climax: wind, dust, stone, water ripple and fire accents combine into a stronger elemental vortex.
+final beat: the performer is airborne above the temple floor in a powerful kung fu strike, body twisted mid-air, hair and fabric flaring outward, with all elements converging around her before impact.
 
-元素 VFX 必須感覺是精神性的、儀式性的和電影化的。效果應該與編舞相結合，並由身體運動所驅動。保持能量原始、元素化、大氣，並紮根於寺廟環境中。
+Elemental VFX must feel spiritual, ritualistic and cinematic. The effects should be integrated with the choreography and motivated by physical movement. Keep the energy raw, elemental, atmospheric and grounded in the temple environment.
 
-全程使用拉班動作分析 (Laban movement logic)：
-重量：強烈、沉重、衝擊時紮實，跳躍和空中扭轉時短暫輕盈
-時間：打擊、踢腿、下墜和轉身時快速，懸浮保持和恢復過渡時持續
-空間：攻擊、格擋和突刺時直接，旋轉轉身和元素漩渦時刻時間接
-流動：紮根姿勢和精確打擊時受限，空中運動、旋轉布料運動和元素釋放時自由
+Use Laban movement logic throughout:
+weight: strong, heavy, grounded during impacts, with brief lightness during jumps and aerial twists
+time: quick during strikes, kicks, drops and turns, sustained during suspended holds and recovery transitions
+space: direct during attacks, blocks and lunges, indirect during spinning turns and elemental vortex moments
+flow: bound during rooted stances and precise strikes, free during aerial motion, spinning fabric movement and elemental release
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -2247,19 +2237,19 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 30. 體育場轉播畫面中的足球迷
+### 30. Football fan in stadium broadcast shot
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="體育場轉播畫面中的足球迷"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Football fan in stadium broadcast shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-這是一個高畫質、寫實的轉播鏡頭，拍攝了一位年輕女性在皇家馬德里對陣巴塞隆納的比賽期間，坐在擁擠的足球場中。她留著長直黑髮，皮膚白皙並帶有淡淡的雀斑，藍色的眼睛非常迷人，畫著貓眼眼線。她穿著白色的皇家馬德里主場球衣。場景捕捉到她手托著下巴沉思地坐著，偶爾環顧四周並將頭髮撥到耳後。電影般的燈光，淺景深效果使背景中的人群變得模糊。在右上角，一個寫實的體育比分牌顯示著 '64:30 RMA 2-1 BAR' 以及 'bein SPORTS 1 LIVE' 的標誌。影片帶有專業電視攝影機轉播時特有的輕微顆粒感和動態。
+A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with cat-eye eyeliner. She is wearing a white Real Madrid home jersey. The scene captures her sitting pensively with her hand on her chin, occasionally looking around and tucking her hair behind her ear. Cinematic lighting, shallow depth of field with the crowd blurred in the background. In the top corner, a realistic sports scoreboard displays '64:30 RMA 2-1 BAR' with a 'bein SPORTS 1 LIVE' logo. The video has the slight grain and motion of a professional TV camera broadcast."
 ```
 
 **作者** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K 追蹤者
@@ -2272,22 +2262,22 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 31. 棒球比賽中的隨拍鏡頭
+### 31. Candid Fan Cam at Baseball Game
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="棒球比賽中的隨拍鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054056420061098114_0.jpg" width="480" alt="Candid Fan Cam at Baseball Game"></a>
 </div>
 
 **📝 提示詞**
 
 ```
-一位年輕韓國女性在現場棒球比賽中自然地坐在觀眾席上。她看起來很冷靜，專注於比賽。周圍的球迷揮舞著加油棒，在熱鬧、真實的球場環境中對比賽做出反應。真實的 KBO 長焦轉播攝影風格、淺景深、細微的手持晃動、自然的現場電視構圖，以及帶有真實轉播疊加層（記分板、球隊標誌、贊助商圖形、壓縮偽影）的真實韓國球場燈光。
-幾秒鐘後，她意識到大螢幕鏡頭正對著她。她慢慢轉向鏡頭，露出害羞、略帶驚訝的微笑，輕輕地將頭髮撥到耳後，然後短暫地害羞地低頭。附近的球迷注意到並自然地做出反應，微笑並輕聲笑著。
-真實的球場氛圍，伴隨著巨大的觀眾噪音、加油棒聲、播音員的回聲和評論員的聲音。韓國評論員輕聲說道：
+A young Korean woman sits naturally in the audience during a live baseball game. She appears calm and focused on the match. Fans around her wave cheering sticks and react to the game in a lively, authentic stadium environment. Real KBO telephoto broadcast camera style, shallow depth of field, subtle handheld micro shake, natural live TV framing, and authentic Korean stadium lighting with real broadcast overlays (scoreboard, team logos, sponsor graphics, compression artifacts).
+After a few seconds, she realizes the fan cam is focused on her. She slowly turns toward the camera with a shy, slightly surprised smile, gently tucks her hair behind her ear, then looks down briefly in an embarrassed way. Nearby fans notice and react naturally, smiling and laughing softly.
+Authentic stadium ambience with loud crowd noise, thunder sticks, announcer echo, and commentator presence. Korean commentator softly says:
 “와… 정말 아름다우시네요…”
-沒有電影感、沒有擺拍、沒有美顏濾鏡、沒有戲劇性燈光、沒有慢動作、沒有剪輯，純粹的隨拍、未經排演的現場體育轉播寫實感。
+No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow motion, no cuts, pure candid, unscripted live sports broadcast realism.
 ```
 
 **作者** [Eesha ✓](https://x.com/MissDelulu9) (@MissDelulu9) · 8.7K 追蹤者
@@ -2300,43 +2290,43 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 32. 競技格鬥遊戲戰鬥序列
+### 32. Competitive Fighting Game Combat Sequence
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="競技格鬥遊戲戰鬥序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Competitive Fighting Game Combat Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-底片 / 鏡頭：數位 4K 遊戲引擎渲染，固定寬視角格鬥遊戲攝影機，35mm 鏡頭以呈現深焦效果。
-色彩分級：高對比度，鮮豔的「次世代」遊戲色調，從中央隧道射入的戲劇性體育場燈光。
-氛圍：緊張、競爭激烈，空氣中漂浮著塵埃粒子，並帶有來自上方體育場燈光的鏡頭光暈。
+Film stock / Lens: Digital 4K game engine render, fixed wide-side-view fighting game camera, 35mm lens for deep focus.
+Color Grade: High contrast, vibrant "Next-Gen" gaming palette, dramatic stadium lighting coming through the central tunnel.
+Atmosphere: Charged, competitive, with floating dust particles and lens flares from the overhead stadium lights.
 
-音效風格：沉浸式空間音效設計。沉重的撞擊聲、骨骼碎裂的音效、特殊招式的破風聲，以及最後沉重的木頭碎裂聲。
+Audio Style: Immersive spatial sound design. Heavy thudding impacts, bone-crunching SFX, whooshing air for special moves, and a final heavy wooden crash.
 
-圖像參考 / 圖例
+IMAGE REFERENCES / LEGEND
 
-[escene] : 環境參考（格鬥競技場更衣室與體育場入口）。
+[escene] : The environment reference (fighting arena locker room and stadium entrance).
 
-[player1] : 左側格鬥家（白色運動服）。請保持與參考圖完全一致的臉部與服裝。
+[player1] : The fighter on the left (white tracksuit). Keep exact face and clothing as reference.
 
-[player2] : 右側格鬥家（藍/綠色套裝）。請保持與參考圖完全一致的臉部與服裝。
+[player2] : The fighter on the right (blue/green kit). Keep exact face and clothing as reference.
 
-秒級時間軸
-0-3秒：[廣角鏡頭] 白色運動服格鬥家 [player1] 與藍色套裝格鬥家 [player2] 在競技場中央 [escene] 對峙，擺出戰鬥姿勢。畫面頂部出現血條與「ROUND 1」UI。白色格鬥家踢出低掃腿；藍色格鬥家防禦，並產生藍色粒子撞擊效果。
+TIMELINE SECOND BY SECOND
+0-3s: [Wide Shot] Fighter in white [player1] and fighter in blue [player2] face each other in fighting stances in the center of the arena [escene]. Health bars and "ROUND 1" UI appear at the top. The fighter in white throws a low kick; the fighter in blue blocks with a blue particle effect impact.
 
-3-8秒：[動作序列] 快節奏的 Mortal Kombat 風格戰鬥。白色格鬥家使出轉身後手拳；藍色格鬥家閃避並以勾拳反擊。
+3-8s: [Action Sequence] Fast-paced Mortal Kombat style combat. The fighter in white performs a spinning backfist; the fighter in blue ducks and counters with an uppercut.
 
-8-12秒：[特殊招式] 藍色格鬥家 [player2] 迅速抓起附近的木製訓練桌。他揮動桌子劃出一道大弧線。物理互動：桌子移動時反射上方燈光。
+8-12s: [Special Move] The fighter in blue [player2] quickly grabs a nearby wooden training table. He swings it in a wide arc. Physics interaction: the table reflects the overhead lights as it moves.
 
-12-15秒：[結尾鏡頭] 桌子重重擊中白色格鬥家 [player1] 的頭部，發出沉重的撞擊聲。白色格鬥家以布娃娃物理效果癱倒在地。藍色格鬥家站在他上方，螢幕閃爍「K.O.」。音效隨沉重的低音撞擊聲淡出。
+12-15s: [Closing Shot] The table connects with the head of the fighter in white [player1] with a heavy impact. The fighter in white collapses to the floor in a ragdoll physics motion. The fighter in blue stands over him as "K.O." flashes on the screen. Sound fade to a heavy bass impact.
 
-風格與品質增強
-照片級 8K 畫質，套裝上超細緻的布料紋理，電影級燈光，戰鬥動作具備完美的動態模糊，高動態範圍，無偽影。在整個過程中 [player1] 與 [player2] 的臉部與服裝必須完全一致，保持電影級穩定的臉部特徵。
+STYLE & QUALITY BOOSTERS
+Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lighting, perfect motion blur for the fight moves, high dynamic range, no artifacts. Exact same faces and outfits as [player1] and [player2] throughout, movie-level stable facial features.
 ```
 
 **作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.2K 追蹤者
@@ -2349,34 +2339,34 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 33. 電影感跳繩表演
+### 33. Cinematic Jump Rope Performance
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="電影感跳繩表演"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Cinematic Jump Rope Performance"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-請使用分鏡表 @[storyboard ref] 作為精確的順序視覺關鍵影格參考。將每個分鏡視為獨立的電影鏡頭，而非單一圖像。
-請使用 @[char ref] 作為角色參考。
+Use the storyboard sheet @[storyboard ref]  as the exact sequential visual keyframe reference for the video. Treat every panel as an independent cinematic shot, not as a single image.
+Use @[char ref]  as character reference.
 
-無文字、無標籤、無浮水印、無標誌。
+No text, no label, no watermark, no logo.
 
-15秒電影感節奏跳繩表演，場景位於空曠的城市練習空間。動作流暢同步，舞蹈般的跳繩編排，優雅的運動美感，快速的腳步，交叉跳繩技巧，二重跳，旋轉跳躍，流暢的動能，自信且俏皮的活力。跳繩動作與音樂節拍完美同步。強烈的推鏡、快速橫搖、低角度英雄鏡頭、俯視節奏鏡頭、動態傾斜構圖、前景跳繩遮擋、動態模糊，保留素描般的動能感。頭髮與衣物隨動作自然反應。節奏持續增強，直至音樂高潮處的戲劇性慢動作最終英雄跳躍。高度一致性，無錯誤，無中斷，無額外角色，無文字，無浮水印。
+15s cinematic rhythmic jump rope performance inside an empty urban practice space. Flawless synchronized movement, dance-like rope choreography, smooth athletic elegance, fast footwork, cross-rope tricks, double unders, spinning jumps, flowing momentum, confident playful energy. Rope motion perfectly synced to music beats. Aggressive push-ins, whip pans, low-angle hero shots, top-down rhythm shots, dynamic tilted framing, foreground rope occlusion, motion blur, sketchy kinetic energy preserved. Hair and clothing react naturally to movement. Build rhythm continuously toward a dramatic slow-motion final hero jump on the musical climax. High consistency, no mistakes, no interruptions, no extra characters, no text, no watermark.
 
-風格：
-現代繪畫風動漫插畫
-風格化寫實
-編輯體育時尚藝術
-柔和數位油畫
-可見的筆觸
-高端角色插畫
-半寫實解剖結構
-乾淨的電影感光影
+Style:
+modern painterly anime illustration
+stylized realism
+editorial sports fashion art
+soft digital oil painting
+visible brush strokes
+high-end character illustration
+semi-realistic anatomy
+clean cinematic lighting
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -2389,36 +2379,21 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 34. 紐約市名人抵達現場
+### 34. Celebrity Arrival in New York City
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="紐約市名人抵達現場"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Celebrity Arrival in New York City"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-風格：超寫實的大規模名人抵達場景。單一連續鏡頭。從群眾視角拍攝的手持攝影機。自然的微震動。無剪輯。紀錄片等級的真實感。音訊：僅有自然的環境音，群眾的高聲歡呼、重疊的喊叫聲、快速的相機快門聲、錄音中的手機、遠處的城市噪音、腳步聲、衣物摩擦聲。燈光：夜間，由路燈照明。拋光表面上的混合反射。柔和但真實的陰影。為了增加深度而帶有輕微的大氣霧霾。
-
-主角：（主體參考圖像）
-冷靜、受控的氣場。細微且自信的微笑。臉部特徵必須在所有影格中保持完美一致。服裝：與參考圖像完全相同。地點：紐約市的一場活動。
-
-場景流程
-
-0–3秒：攝影機從路障後方擁擠的群眾中開始。手持拍攝，稍微不穩定。視線被前方的人部分遮擋。多支手機舉起，有些螢幕顯示正在錄影。群眾的能量高昂、混亂且躁動。
-
-3–6秒：攝影機稍微升至肩部以上，仍為手持。焦點在人頭與揮舞的手之間自然轉換，我們看到主角走出紐約市的一家高級飯店。媒體相機偶爾閃爍著明亮的閃光燈。隨著群眾向前傾，期待感升高。
-
-6–10秒：保全人員介入，將群眾稍微推開。攝影機以自然的晃動做出反應。透過移動的縫隙，主角出現在遠處——起初模糊且部分被遮擋，隨著他與一小隊護衛人員向前走，逐漸變得清晰。
-
-他走向一位粉絲，並簽署了她手中拿著的（主體參考圖像）列印照片。
-
-10–13秒：細微的手持推近（自然移動，非數位變焦）。主角現在清晰可見，自信地走在畫面中央。道路正在被清理。他舉起一隻手，帶著淡淡的微笑，冷靜且受控地揮手。由於群眾的移動，攝影機在保持構圖上顯得有些吃力。
-
-13–15秒：攝影機為了跟隨而移動並傾斜。一列由三輛大型高級 SUV 組成的豪華車隊部分可見。一名保全人員打開中間那輛 Suburban 的後門。主角迅速進入並搖下車窗。當他向群眾揮手時，車輛開始向前移動。隨著人們跳起來試圖捕捉這一刻，攝影機稍微向上抬起。
+Style: Ultra-realistic mass celebrity arrival scene. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary-level realism. Audio: Only natural environment sound loud crowd cheering, overlapping voices shouting, rapid camera shutter clicks, phones recording audio, distant city noises, footsteps, fabric movement. Lighting: Nightime, illuminated from street lights. Mixed reflections on polished surfaces. Soft but realistic shadows. Slight atmospheric haze for depth.   Main Character: (Subject Reference Image)
+Calm, controlled presence. Subtle confident smile. Face identity must remain perfectly consistent across all frames. Outfit: Exactly the same from reference image. Location: An event in New York City.  Scene Flow   0–3s: Camera starts from inside a dense crowd behind barricades. Handheld, slightly unstable. View partially blocked by people in front. Multiple phones raised, some screens visible recording. Crowd energy is loud, chaotic, restless.  3–6s: Camera lifts slightly above shoulder level, still handheld. Focus shifts naturally between heads, waving hands, and we see our subject exit a fancy hotel in New York City. Occasional bright flashes from media cameras. Anticipation rises as crowd leans forward.  6–10s: Security personnel step in, pushing the crowd back slightly. Camera reacts with natural shake. Through shifting gaps, the main character appears in the distance—initially soft and partially obscured, gradually becoming clearer while walking forward with a small escort team.   He walks up to a fan and signs printed photo she is holding of (Subject Reference Image)
+10–13s: Subtle handheld push-in (natural movement, not digital zoom). The main character is now clearly visible, walking confidently at center frame. Path is being cleared. He raises one hand and gives a calm, controlled wave with a slight smile. Camera struggles slightly to keep framing due to crowd movement.  13–15s: Camera shifts and tilts trying to follow. A luxury convoy becomes partially visible featuring three large premium SUVs. A security member opens the back door of a the suburban in the middle of the three. The main character enters quickly and rolls the window down. Vehicles begin moving forward as he waves to the crowd. Camera lifts slightly as people jump and try to capture the moment.
 ```
 
 **作者** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 追蹤者
@@ -2431,86 +2406,86 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 35. 雲端滑板救援分鏡腳本
+### 35. Cloud Skateboard Rescue Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="雲端滑板救援分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Cloud Skateboard Rescue Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-建立一個 16:9 橫向格式的手繪 PREVIS + 救援追逐分鏡腳本頁面。
+Create a rough hand-drawn PREVIS + rescue chase storyboard page in 16:9 horizontal format.
 
-使用極其簡單的 2D 預覽草圖風格：
-- 僅限火柴人 / 人體模型輪廓
-- 無面部細節，無服裝細節，無解剖細節
-- 無紋理，無陰影，無精緻渲染
-- 黑色鬆散的草圖線條
-- 紅色框僅用於攝影機取景
-- 藍色箭頭僅用於運動 / 力 / 呼吸 / 方向
-- 粗略的導演縮圖，而非概念藝術
-- 如果不確定，畫少一點細節，不要畫多
+Use an extremely simple 2D previs sketch style:
+- stick figures / mannequin silhouettes only
+- no facial detail, no costume detail, no anatomy detail
+- no texture, no shading, no polished rendering
+- black loose sketch lines
+- red boxes for camera framing only
+- blue arrows for motion / force / breath / direction only
+- rough director thumbnails, not concept art
+- if unsure, draw less detail, not more
 
-在頁面上顯示 8 個編號的面板，排列稍微不規則但清晰易讀。
+Show 8 numbered panels on one page with slightly irregular but readable placement.
 
-主題：兩位好友在雲端之上的天空中滑板競賽
-環境：明亮的開闊天空、蓬鬆的雲朵路徑、漂浮的雲層、遙遠的陽光，然後是帶有風、雨和閃電的較暗雷雨雲區
-情緒：俏皮、冒險、快速、有趣、短暫的懸疑，然後是振奮人心和勝利的
-順序：在一次有趣的雲端滑板比賽中，一位朋友不小心漂移到危險的雷雨雲中並失去控制，然後另一位朋友進行了最後一秒的救援
+Subject: two close friends racing on skateboards through the sky above the clouds
+Environment: bright open sky, fluffy cloud pathways, floating cloud banks, distant sunlight, then a darker storm-cloud zone with wind, rain and lightning
+Mood: playful, adventurous, fast, funny, suspenseful for a moment, then uplifting and triumphant
+Sequence: during a fun cloud-skate race, one friend accidentally drifts into dangerous storm clouds and loses control, then the other friend makes a last-second rescue
 
-節拍：
-1. 廣角建立鏡頭。兩位朋友在滑板上在雲端之上衝浪，並肩而行，在天空中俏皮地競賽。
-2. 側面跟隨鏡頭。比賽加速。一位朋友向前傾斜並取得一點領先，而另一位緊隨其後。
-3. 3/4 正面角度。領先的朋友在專注於比賽時，不小心轉向前方黑暗的雷雨雲區域。
-4. 高角度俯拍。雷雨雲吞沒了領先的朋友。強風箭頭、雨和閃電。滑板劇烈晃動。
-5. 特寫 / 中景動作鏡頭。第二位朋友注意到危險，在千鈞一髮之際急煞，然後轉向並衝向風暴。
-6. 動態低角度。救援者踩著滑板衝進雷雨雲中，在風和閃電中向被困的朋友伸出手。
-7. 英雄側面鏡頭。最後一秒救援。救援者抓住另一位朋友的手臂或連帽衫，將他們從雷雨雲中拉出，就在閃電在他們身後擊中時。
-8. 廣角回報鏡頭。兩位朋友衝回陽光明媚的雲層中，恢復平衡，繼續一起騎行並笑著繼續比賽，現在並肩而行。
+Beats:
+1. Wide establishing shot. Two friends on skateboards surf above the clouds, side by side, racing playfully through the sky.
+2. Side tracking shot. The race speeds up. One friend leans forward and gains a little lead while the other follows close behind.
+3. 3/4 front angle. The leading friend accidentally veers toward a dark storm-cloud area ahead while still focused on the race.
+4. Overhead shot. The storm cloud swallows the lead friend. Strong wind arrows, rain and lightning. The skateboard wobbles violently.
+5. Close-up / medium action shot. The second friend notices the danger, brakes hard for a split second, then pivots and dives toward the storm.
+6. Dynamic low angle. The rescuer shoots into the storm clouds on the skateboard, reaching forward through wind and lightning toward the trapped friend.
+7. Hero side shot. Last-second rescue. The rescuer grabs the other friend by the arm or hoodie and pulls them free from the storm cloud just as lightning strikes behind them.
+8. Wide payoff shot. Both friends burst back into the sunny clouds, regain balance, keep riding together and continue the race laughing, now side by side.
 
-使用多樣化的攝影機角度：特寫、廣角、低角度、俯拍、側面輪廓、後方、3/4。
-在面板附近添加簡短的手寫筆記。
-保持主題、道具、環境和運動方向的清晰連續性。
+Use varied camera angles: close-up, wide, low angle, overhead, side profile, rear, 3/4.
+Add short handwritten notes near panels.
+Maintain clear continuity of subject, props, environment and movement direction.
 
-專注於舞台設計、攝影機、運動、時機和連續性。
-優先考慮可讀性而非繪畫品質。
-避免詳細的插圖、乾淨的 UI 和資訊圖表設計。
+Focus on staging, camera, motion, timing and continuity.
+Prioritize readability over drawing quality.
+Avoid detailed illustration, clean UI and infographic design.
 
-目標基調：有趣的家庭動畫能量，清晰的視覺敘事，適合 15 秒動畫序列的簡單易讀動作節拍。
+Tone target: fun family-animation energy, clear visual storytelling, simple readable action beats for a 15-second animated sequence.
 
-建立於
+Created on
 ```
 
 **🎬 影片提示詞**
 
 ```
-意圖：創造一個俏皮、高能量的友誼冒險，當一名騎手被捲入雷雨雲時會短暫變得緊張，然後以勝利的救援和快樂的回歸來解決。
+INTENT: Create a playful, high-energy friendship adventure that briefly turns tense when one rider is pulled into storm clouds, then resolves with a triumphant rescue and joyful return.
 
-風格：風格化的家庭長片 3D 動畫感，圓潤且富有表現力的輪廓，清晰易讀的形式，柔軟且雲層豐富的氛圍，明亮的天空藍轉變為充滿電力的風暴灰，振奮人心的精緻成品。
+STYLE: stylized family-feature 3D animation feel, rounded expressive silhouettes, clean readable forms, soft cloud-rich atmosphere, bright sky blues shifting into charged storm grays, uplifting polished finish.
 
-世界：一個高空雲景，滑板狀的板子在蓬鬆的雲路徑上滑行，上方有開闊的陽光，還有一個危險的風暴口袋，感覺充滿了風、雨和閃電。
+WORLD: a sky-high cloudscape where skateboard-like boards glide across fluffy cloud paths, with open sunlight above and a dangerous storm pocket that feels alive with wind, rain, and lightning.
 
-參考：
+REFERENCES:
 
-使用提供的預覽分鏡腳本頁面 @[storyboard_image] 作為主要參考。
+Use the provided previs storyboard page @[storyboard_image] as the main reference.
 
-不要將該頁面視為單一圖像。
+Do not treat the page as one single image.
 
-將面板視為連續的鏡頭關鍵影格，並將它們擴展為一個具有清晰連續性的連貫短場景。
+Treat the panels as sequential shot keyframes and expand them into a coherent short scene with clear continuity.
 
-使用 @[character_sheet_image] 作為角色參考。
+Use the @[character_sheet_image] as characters reference.
 
-視覺方法：
+VISUAL APPROACH:
 
-匹配分鏡腳本的空間多樣性和情感節奏。
+Match the storyboard's spatial variety and emotional pacing.
 
-優先考慮可讀性、螢幕方向以及跨節拍的動作連續性。
+Prioritize readability, screen direction, and continuity of action across beats.
 
-保持視覺運動冷靜且有目的，而不是焦躁不安。
+Keep visual motion calm and intentional rather than restless.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -2523,48 +2498,48 @@ SFX：球拍擊球聲，球落地聲，呼吸聲
 
 ---
 
-### 36. 廚師大戰蟑螂：廚房追逐戰
+### 36. Chef vs Cockroach Kitchen Chase
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="廚師大戰蟑螂：廚房追逐戰"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050154597340287143_0_poster.jpg" width="480" alt="Chef vs Cockroach Kitchen Chase"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主體
-糕點師：成年人，身穿廚師服，位於地面，手持一把大型不鏽鋼蛋糕抹刀沿著檯面邊緣追逐，動作從受控的揮舞逐漸演變為完全失控的猛擊（角色參考 @ image1）
-蟑螂：小型，始終在檯面上移動，低姿態快速爬行，沿檯面單向向右推進，同時進行左右閃避和急停變向（角色參考 @ image2）
-環境
-家庭廚房，具有清晰縱深感的連續長檯面
-檯面上散佈著常見的廚房用品（碗、盤子、打蛋器、量杯等）
-窗戶關閉
-風格
-逼真3D動畫，強烈的物理反饋
-攝影機細節
-POV為緊跟蟑螂後方的視角，低角度沿檯面向前移動；攻擊主要從上方和側面壓迫，僅有一次短暫的正面交鋒
-時間軸
-0:00-0:02：
-中景，35mm鏡頭，緩慢推入。廚師站在檯面左側，一邊整理一邊輕聲吹口哨，嘴部動作與口哨聲完美同步（口型同步）；檯面物品擺放整齊；蟑螂在角落爬行發出細微聲響，廚師逐漸停下並鎖定目標。
-音效：口哨聲（僅此階段出現），細微爬行聲
-0:02-0:04：
-低角度追蹤鏡頭，28mm鏡頭，向前移動。蟑螂沿檯面加速向右並開始閃避；廚師猛撲向前開始揮擊，動作開始瞬間口哨聲完全停止；第一擊擊中檯面邊緣，導致物品因震動而移位。
-音效：腳步聲，沉重的金屬撞擊聲
-0:04-0:10：
-POV鏡頭，20mm鏡頭，緊跟高速向前移動。攝影機持續推進不回頭；蟑螂進行蛇形閃避；廚師的攻擊從上方和側面壓迫，每次揮擊都意外且逼真地撞擊沿途物品，逐漸製造並維持混亂狀態。
-音效：持續的沉重撞擊聲，物體碰撞聲
-0:10-0:12：
-POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚師，露出狡黠的笑容並做出挑釁動作。
-音效：短暫暫停
-0:12-0:14：
-中景推入。廚師將抹刀扔向蟑螂；出手後手中無工具；抹刀落空擊中窗戶，玻璃破碎；蟑螂持續跳出破碎的開口。
-音效：破空聲，玻璃破碎聲
-0:14-0:15：
-廣角固定鏡頭。廚師雙手空空，轉身看到整個檯面一片狼藉（所有被擊中的物品依然散亂、翻倒且髒亂），短暫暫停後發出崩潰的尖叫。
-音效：靜音 → 崩潰尖叫
+SUBJECTS
+Pastry Chef: adult, wearing a chef uniform, positioned on the ground level, using a large stainless steel cake spatula to chase along the edge of the countertop, escalating from controlled swings to fully uncontrolled strikes (character reference @ image1)
+Cockroach: small-sized, always moving on the countertop, low-position rapid crawling, advancing unidirectionally to the right along the countertop while performing left-right dodges and abrupt stops with direction changes (character reference @ image2)
+ENVIRONMENT
+Home kitchen, continuous long countertop with clear depth
+Common kitchen objects distributed across the countertop (bowls, plates, whisk, measuring cups, etc.)
+Window is closed
+STYLE
+Realistic 3D animation, strong physical feedback
+CAMERA DETAILS
+POV is a close-following rear perspective behind the cockroach, low angle moving forward along the countertop; attacks primarily press in from above and from the sides, with only one brief frontal confrontation
+Timeline
+0:00-0:02:
+Medium shot, 35mm, slow push-in. The chef stands on the left side of the countertop, lightly whistling while organizing, mouth movement perfectly synchronized with the whistling sound (lip-sync); countertop objects are neatly arranged; the cockroach crawls in the corner making subtle noise, the chef gradually stops and locks onto the target.
+SFX: whistling (only present in this phase), subtle crawling
+0:02-0:04:
+Low-angle tracking shot, 28mm, forward movement. The cockroach accelerates to the right along the countertop and begins dodging; the chef lunges forward and starts striking, the whistling sound completely stops the moment the action begins; the first hit strikes the countertop edge, causing objects to shift from vibration.
+SFX: footsteps, heavy metal impact
+0:04-0:10:
+POV shot, 20mm, close-follow high-speed forward movement. The camera continuously advances without looking back; the cockroach performs serpentine dodging; the chef’s attacks press in from above and the sides, each strike accidentally and realistically hitting objects along the way, gradually creating and maintaining a chaotic state.
+SFX: continuous heavy impacts, object collisions
+0:10-0:12:
+POV slows down. A window appears ahead; the cockroach stops on the countertop inside the window, turns to face the chef directly, shows a smug smile and makes a provocative gesture.
+SFX: brief pause
+0:12-0:14:
+Medium shot push-in. The chef throws the spatula toward the cockroach; after release, no tool remains in hand; the spatula misses and hits the window, shattering the glass; the cockroach continuously jumps out through the broken opening.
+SFX: air slice, glass shatter
+0:14-0:15:
+Wide static shot. The chef’s hands are empty, turns to see the entire countertop in complete chaos (all struck objects remain scattered, overturned, and dirty), brief pause followed by a breakdown scream.
+SFX: silence → breakdown scream
 ```
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
@@ -2589,7 +2564,14 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 **📝 提示詞**
 
 ```
-經典復古迪士尼動畫風格。 場景一：在埃及宮殿內，威武的胡狼神阿努比斯正慵懶地坐在王座上，雙臂自然地垂在身側，露出腋窩。他面前的人類顧問正遞給他一份關於新稅法的文檔，恭敬地勸他簽字，阿努比斯卻一臉不耐煩，表示自己對這種瑣事毫無興趣。 場景二：顧問一臉不耐煩地扔掉文檔，掏出一根羽毛，走到阿努比斯面前，用羽毛輕輕拂過他的腋窩，這讓阿努比斯有些摸不著頭腦。 場景三：鏡頭特寫，人類的手用羽毛輕輕地在阿努比斯的腋窩上來回拂動，動作反覆，背景中傳來阿努比斯壓抑的笑聲，顯然他非常怕癢。 場景4：特寫鏡頭展現阿努比斯的上半身，人類的手用羽毛輕輕地在他腋下來回拂動，阿努比斯咧嘴一笑，閉著眼睛，發出悶悶的笑聲，而顧問則繼續用羽毛搔他的腋窩。 場景5：顧問繼續用羽毛搔阿努比斯的腋窩，阿努比斯閉著眼睛大聲笑著。阿努比斯不由自主地抬起手臂，讓腋窩更多地暴露在搔癢的羽毛下。阿努比斯繼續大聲笑著，顧問則繼續用羽毛搔他的腋窩。 場景6：顧問繼續用羽毛搔阿努比斯的腋窩，阿努比斯閉著眼睛大聲笑著。他笑著說他會簽名，然後又繼續笑個不停。顧問對這個回答很滿意，停了下來，點了點頭。 第七幕：阿努比斯在事後忍不住輕笑了幾聲，隨即恢復了鎮定，說道他的顧問應該慶幸自己如此怕癢。 阿努比斯肌肉發達，手臂和脖子上都戴著環。他的聲音低沉沙啞。阿努比斯的腋窩被搔癢。對話為英文。
+經典復古迪士尼動畫風格。 
+場景一：在埃及宮殿內，威武的胡狼神阿努比斯正慵懶地坐在王座上，雙臂自然地垂在身側，露出腋窩。他面前的人類顧問正遞給他一份關於新稅法的文檔，恭敬地勸他簽字，阿努比斯卻一臉不耐煩，表示自己對這種瑣事毫無興趣。 
+場景二：顧問一臉不耐煩地扔掉文檔，掏出一根羽毛，走到阿努比斯面前，用羽毛輕輕拂過他的腋窩，這讓阿努比斯有些摸不著頭腦。 
+場景三：鏡頭特寫，人類的手用羽毛輕輕地在阿努比斯的腋窩上來回拂動，動作反覆，背景中傳來阿努比斯壓抑的笑聲，顯然他非常怕癢。 
+場景4：特寫鏡頭展現阿努比斯的上半身，人類的手用羽毛輕輕地在他腋下來回拂動，阿努比斯咧嘴一笑，閉著眼睛，發出悶悶的笑聲，而顧問則繼續用羽毛搔他的腋窩。 
+場景5：顧問繼續用羽毛搔阿努比斯的腋窩，阿努比斯閉著眼睛大聲笑著。阿努比斯不由自主地抬起手臂，讓腋窩更多地暴露在搔癢的羽毛下。阿努比斯繼續大聲笑著，顧問則繼續用羽毛搔他的腋窩。 
+場景6：顧問繼續用羽毛搔阿努比斯的腋窩，阿努比斯閉著眼睛大聲笑著。他笑著說他會簽名，然後又繼續笑個不停。顧問對這個回答很滿意，停了下來，點了點頭。 
+第七幕：阿努比斯在事後忍不住輕笑了幾聲，隨即恢復了鎮定，說道他的顧問應該慶幸自己如此怕癢。 阿努比斯肌肉發達，手臂和脖子上都戴著環。他的聲音低沉沙啞。阿努比斯的腋窩被搔癢。對話為英文。
 ```
 
 **作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 追蹤者
@@ -2602,135 +2584,135 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 38. 電影級角色介紹與參考表
+### 38. Cinematic Character Introduction and Reference Sheet
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="電影級角色介紹與參考表"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Cinematic Character Introduction and Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **🖼️ 圖像提示詞**
 
 ```
-請根據以下輸入內容，建立一張統一的「角色參考表 (MASTER CHARACTER REFERENCE SHEET)」：
+Create a single unified MASTER CHARACTER REFERENCE SHEET from these inputs:
 
-[STYLE]：[動漫 / 風格化 3D / 寫實 3D / 真人實拍 / 電影級寫實 / 黑色電影 / 定格動畫 / 其他風格]
-[SUBJECT_DESCRIPTION]：[角色或人物描述]
+[STYLE]: [anime / stylized 3d / realistic 3d / live-action / cinematic realism / noir / stop-motion / any other style]
+[SUBJECT_DESCRIPTION]: [character or person description]
 
-請以 4:3 的橫向佈局製作。版面配置、背景、字體與間距必須保持乾淨、中性、極簡且具備技術感，背景需為純白或乾淨的米白色。使用清晰的章節標題、易讀的英文標籤、平衡的間距，避免雜亂、浮水印或標誌。僅將 [STYLE] 應用於角色與視覺元素，而非版面配置或 UI。所有文字在正常觀看尺寸下必須清晰易讀。避免使用過小或過於密集的文字。
+Create the board in a 4:3 horizontal layout. The board layout, background, typography and spacing must be clean, neutral, minimal and technical, on a pure white or clean off-white background. Use clear section titles, readable English labels, balanced spacing, no clutter, no watermark, no logo. Apply [STYLE] only to the character and visual elements, not to the board layout or UI. All text must be clearly readable at normal viewing size. Avoid tiny or dense text.
 
-根據角色描述推斷所有缺失細節，包括姓名、別名（若適用）、角色定位、年齡、個性、核心主題、口音、服裝細節、配件、關鍵道具（若相關）、視覺筆記及合適的配色方案。
+Infer all missing details from the subject description, including name, alias if suitable, role, age, personality, core theme, accent, wardrobe details, accessories, key prop if clearly relevant, visual notes and a fitting color palette.
 
-請使用以下佈局：
-頂部 = 左側：標題 + 水平資訊區塊，右側：配色方案 (COLOR PALETTE)
-中央 = 大型「主要身份與比例表 (MAIN IDENTITY + SCALE SHEET)」作為最大區塊
-右側 = 表情演變 + 頭部細節表 + 中性基準 + 姿勢變化 + 特寫姿勢
-底部 = 服裝/配件細節 + 道具 + 手部動作
+Use this layout:
+top row = left: title + horizontal info block, right: COLOR PALETTE
+center = large MAIN IDENTITY + SCALE SHEET as the biggest section
+right = EXPRESSION PROGRESSION + HEAD DETAIL SHEET + NEUTRAL BASELINE + POSTURE VARIATION + CLOSE-UP POSE
+bottom = WARDROBE / ACCESSORIES DETAILS + PROP + HAND GESTURES
 
-包含內容：
+Include:
 
-標題：CHARACTER REFERENCE SHEET
+Title: CHARACTER REFERENCE SHEET
 
-1. 頂部資訊區塊
-姓名、別名、角色定位、年齡、個性、核心主題、口音
+1. TOP INFO BLOCK
+Name, Alias, Role, Age, Personality, Core Theme, Speech Accent
 
-2. 配色方案 (COLOR PALETTE)
-放置於右上角標題區。
-展示 6 到 8 個與角色風格、服裝、世界觀及氛圍相符的極簡乾淨色塊。無需添加標籤。
+2. COLOR PALETTE
+Place this in the top-right header area.
+Show 6 to 8 minimal clean color swatches that match the subject’s style, wardrobe, world and mood. Don't add labels.
 
-3. 主要身份與比例表 (MAIN IDENTITY + SCALE SHEET)
-此為最大且最顯眼的區塊。
-僅展示角色本身，不包含道具、包包、手持物品或與額外物品的互動。
-展示：
-正面、3/4 視角、側面、背面
+3. MAIN IDENTITY + SCALE SHEET
+This must be the largest and most prominent section.
+Show the subject only, with no prop, no bag, no handheld object, no extra item interaction.
+Show:
+Front, 3/4 View, Side, Back
 
-將角色視圖放置在細緻的測量參考線上，如同帶有高度標記的乾淨模型比例背景。
+Place the character views over subtle measurement guide lines, like a clean model sheet scale background with height marks.
 
-在同一區塊內包含一個小型「剪影指南 (SILHOUETTE GUIDE)」：
-2 個小型乾淨的剪影縮圖，分別為中性站姿與側面剪影。
-剪影應保持小型且作為輔助，放置於「主要身份與比例表」的角落。
+Also include a small SILHOUETTE GUIDE inside this same section:
+2 small clean silhouette thumbnails, Neutral Stance and Profile Silhouette.
+Keep the silhouettes small and secondary, placed in a corner of the MAIN IDENTITY + SCALE SHEET.
 
-角色應以乾淨、中性的方式呈現，僅專注於身份、體型、服裝、剪影與比例。
-添加少量關於剪影、姿勢、特殊特徵與視覺識別的筆記。
+The subject should appear in a clean neutral presentation focused only on identity, body shape, outfit, silhouette and proportions.
+Add a few small notes for silhouette, posture, special traits, visual identity.
 
-4. 表情演變 (EXPRESSION PROGRESSION)
-展示同一角色的 8 個面板：
-中性、好奇、擔憂、驚訝、恐懼、悲傷、堅定、釋懷
+4. EXPRESSION PROGRESSION
+Show exactly 8 panels of the same subject:
+Neutral, Curious, Worried, Surprised, Afraid, Sad, Determined, Relieved
 
-微表情 (MICRO EXPRESSIONS)
-展示同一角色的 5 個面板：
-細微眼部緊張、輕微冷笑、唇部緊張、微恐懼、控制呼吸
+MICRO EXPRESSIONS
+Show exactly 5 panels of the same subject:
+subtle eye tension, slight smirk, lip tension, micro fear, controlled breath
 
-這些面板應同時具備表情表與輕微情緒演變的功能。
+These panels should function as both an expression sheet and a light emotional progression.
 
-5. 頭部細節表 (HEAD DETAIL SHEET)
-展示同一角色不同角度的頭部特寫參考：
-3/4 頭像、側面頭像、俯視角、仰視角、對角線視角
+5. HEAD DETAIL SHEET
+Show several close-up head references of the same subject from different angles:
+3/4 Headshot, Side Headshot, Top Angle, Low Angle, Diagonal Angle
 
-保持臉部結構、髮型、眼睛、比例與身份的一致性。
+Keep facial structure, hairstyle, eyes, proportions and identity fully consistent.
 
-6. 中性基準 (NEUTRAL BASELINE)
-1 個面板：完全放鬆，無表情
+6. NEUTRAL BASELINE
+1 panel: fully relaxed, no emotion
 
-7. 姿勢變化 (POSTURE VARIATION)
-2–3 個面板：放鬆、緊張、自信
+7. POSTURE VARIATION
+2–3 panels: relaxed, tense, confident
 
-8. 特寫姿勢 (CLOSE-UP POSE)
-展示 1 個該角色的電影級胸部以上或肩部以上特寫姿勢。
-使用最符合角色個性與故事基調的自然表情姿勢。
-此特寫應清晰展示臉部身份、髮型、表情、上身服裝細節與情緒張力。
+8. CLOSE-UP POSE
+Show exactly 1 cinematic close-up pose of the same subject from chest-up or shoulder-up.
+Use a natural expressive pose that best fits the subject’s personality and story tone.
+This close-up should clearly show facial identity, hairstyle, expression, upper wardrobe detail and emotional presence.
 
-9. 服裝/配件細節 (WARDROBE / ACCESSORIES DETAILS)
-展示 4 個關於重要造型細節的特寫標註，例如髮型、外套、鞋類、配件、布料或材質細節。
+9. WARDROBE / ACCESSORIES DETAILS
+Show exactly 4 close-up callouts for important styling details such as hairstyle, outerwear, footwear, accessories, fabric or material detail.
 
-10. 道具 (PROP)
-僅在道具對角色至關重要時包含此區塊。
-展示 1 個乾淨、獨立的道具圖像。
-添加小型資訊區塊：
-物品名稱、類型、特徵
+10. PROP
+Only include this section if a prop is clearly important to the subject.
+Show exactly 1 single clean isolated image of the prop only.
+Add a small info block:
+Object Name, Type, Traits
 
-11. 手部動作 (HAND GESTURES)
-放鬆的手、緊張的手指、指向、抓握、臉部附近的細微動作
+11. HAND GESTURES
+relaxed hand, tense fingers, pointing, gripping, subtle gesture near face
 
-確保角色在所有面板中保持高度一致。「主要身份與比例表」必須在視覺上主導整個版面。最終圖像應看起來像是一本高品質的製作視覺聖經/角色連續性參考表，並符合所選的 [STYLE]。
+Keep the subject fully consistent across all panels. The MAIN IDENTITY + SCALE SHEET must visually dominate the board. The final image should look like a premium production visual bible / character continuity sheet matching the selected [STYLE].
 ```
 
 **🎬 影片提示詞**
 
 ```
-使用提供的角色參考表 @[image1] 作為參考。
+Use the provided character sheet @[image1] as reference.
 
-製作一部電影級的角色介紹影片。
+Create a cinematic character introduction video.
 
-開場時角色看向鏡頭並自然地說話，以自己的口吻介紹自己。
+Open with the character looking into camera and speaking naturally, introducing herself in her own words.
 
-不要將參考表視為單一圖像，請將其元素作為獨立鏡頭使用。
+Do not treat the sheet as a single image. Use its elements as separate shots.
 
-結構：
-細節 → 身份 → 存在感 → 全貌揭露
+Structure:
+detail → identity → presence → full reveal
 
-讓角色動起來：
-她在說話時移動、反應、與環境及道具互動
-短促、自然的動作、細微的位移、有目的的動作
+Make the character active:
+she moves, reacts, interacts with her environment and prop while talking
+short, natural gestures, small shifts, purposeful motion
 
-展示演技範圍：
-說話時細微的情緒轉換（自信、猶豫、好奇、強烈）
-透過微表情、眼神、語氣與肢體語言進行表達
+Show acting range:
+subtle emotional shifts while speaking (confidence, hesitation, curiosity, intensity)
+express through micro-expressions, eyes, tone, and body language
 
-包含：
-臉部特寫、服裝/材質細節、道具使用、具表現力的表演時刻
+Include:
+face close-ups, outfit/material details, prop usage, expressive performance moments
 
-保持一切真實且紮實。
+Keep everything grounded and realistic.
 
-攝影：
-受控、極簡的運鏡（柔和的推鏡、輕微的跟拍、細膩的手持感）
+Camera:
+controlled, minimal movement (soft push-ins, light tracking, subtle handheld)
 
-燈光：
-電影級且保持一致
+Lighting:
+cinematic and consistent
 
-結尾定格在自信的中景或全景鏡頭，角色形象完全確立。
+End on a confident mid or full shot, character fully established.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
@@ -2743,12 +2725,12 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 39. 3D 角色動作參考表
+### 39. 3D Character Movement Reference Sheet
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D 角色動作參考表"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D Character Movement Reference Sheet"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -2756,39 +2738,39 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ```
 [STYLE]
-單色灰階插圖，3D 渲染角色，乾淨的教學參考表，白色背景，漫畫風格網格佈局，技術圖表美學。
+Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.
 
 [LAYOUT]
-4×4 網格佈局，總共 16 個面板。每個面板由細黑邊線分隔。單元格編號從 1 到 16，面板尺寸一致。
+4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.
 
 [CHARACTER]
- image1（同一個角色在所有面板中保持一致）
+ image1 (the same character appears consistently in all panels)
 
 [PANEL STRUCTURE – per cell]
 
-左上角：粗體數字徽章 + 英文標題文字
+Top-left: bold number badge + English title text
 
-中心：全身角色姿勢插圖
+Center: full-body character pose illustration
 
-左下角：英文說明文字（3–4 行）
+Bottom-left: English description text (3–4 lines)
 
-疊加層：指示動作的方向箭頭
+Overlay: directional arrows indicating movement
 
 [ARROWS / MOTION INDICATORS]
-放置在角色周圍的彎曲箭頭、直線箭頭和圓形旋轉指示器，用於顯示動作流向與方向。
+Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.
 
 [RENDERING STYLE]
-高度細緻的 3D 雕塑風格，柔和的攝影棚燈光，細微的陰影，無顏色，灰階陰影，乾淨的線條，遊戲概念藝術品質。
+Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.
 
 [NEGATIVE]
-無背景風景，無色調，無額外角色，無複雜背景。
+No background scenery, no color tones, no additional characters, no complex background.
 ```
 
 **🎬 影片提示詞**
 
 ```
-建立 img2，使其遵循 img1 中所示步驟 1–16 的確切順序與動作。音樂應為 aud1。
-不應包含任何對話、文字或旁白。
+Create img2 that follows the exact sequence and movements from steps 1–16 shown in img1. The music should be aud1.
+There should be no dialogue, text, or narration.
 ```
 
 **作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K 追蹤者
@@ -2801,21 +2783,21 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 40. 高辛烷值一級方程式賽車場景
+### 40. High-octane Formula 1 racing scene
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="高辛烷值一級方程式賽車場景"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="High-octane Formula 1 racing scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-這才是我們應得的 F1，而不是規則變更後那種像 Mario Kart 一樣的胡鬧。
+This is the F1 we deserve, not the Mario Kart bullshit the regulations turned it into.
 
-下方為 Seedance 2.0 提示詞 👇
+Seedance 2.0 prompt below 👇
 ```
 
 **作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K 追蹤者
@@ -2828,31 +2810,31 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 41. 時間凍結：電影感運動酒吧場景
+### 41. Time-Freeze Cinematic Sports Bar Scene
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="時間凍結：電影感運動酒吧場景"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045616722883829861_0_poster.jpg" width="480" alt="Time-Freeze Cinematic Sports Bar Scene"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-提示詞：使用 @ Reference Image 作為主角，保持面部特徵與身體比例一致。他是一位 30 歲的男子。電影感時間凍結短片，15 秒，超寫實，使用 Arri Alexa Mini 拍攝，35mm 鏡頭，昏暗運動酒吧室內燈光搭配霓虹燈點綴，體積霧，動態硬陰影，淺景深。
+Prompt: Use @ Reference Image as the main character, keeping facial features and body proportions consistent throughout. He is a 30-year-old man. Cinematic time-freeze short film, 15 seconds, ultra-realistic, shot on Arri Alexa Mini, 35mm lens, moody sports bar interior lighting with neon accents, volumetric haze, dynamic hard shadows, shallow depth of field.
 
-[0:00–0:03] 一間擁擠、燈光昏暗的運動酒吧，時間正常流動。Steadicam 正面中景鏡頭追蹤他自信地穿過混亂的人群。背景模糊的電視上，Yankees 剛剛贏得世界大賽。人群爆發出純粹的狂喜。他一邊走，一邊舉起右手彈指。
+[0:00–0:03] A packed, dimly lit sports bar, time flowing normally. Steadicam frontal medium shot tracking him walking confidently through absolute chaos. On the blurred TVs in the background, the Yankees have just clinched the World Series. The crowd is erupting in pure euphoria. As he walks, he raises his right hand and snaps.
 
-[0:03–0:06] 彈指瞬間，指尖爆發出細微的球形衝擊波，伴隨空氣扭曲與光線折射向外擴散。所有事物在爆發中凍結。厚重的金色啤酒弧線懸浮在空中，清晰可見每一滴閃爍的液體。爆米花粒靜止漂浮。人們在歡呼與跳躍擁抱的瞬間被凍結。體積霓虹光捕捉到懸浮的灰塵與液體。絕對寂靜。
+[0:03–0:06] At the snap, a subtle spherical shockwave bursts from his fingertips with air distortion and light refraction, expanding outward. Everything freezes mid-explosion. Thick arcs of golden beer suspend in the air, with individual glistening droplets visible. Popcorn kernels float motionless. People are frozen mid-cheer and mid-air in leaping embraces. Volumetric neon light catches the suspended dust and liquid. Absolute silence.
 
-[0:06–0:09] 只有他在移動。他的腳步聲輕微迴盪。攝影機後退，跟隨他穿過凍結的慶祝場景，冷靜地觀察。他隨意地低頭閃過一道凍結的啤酒飛濺弧線。他注意到一團漂浮的爆米花，伸手從空中摘下一顆。
+[0:06–0:09] Only he moves. His footsteps echo slightly. The camera moves backward as he walks through the frozen celebration, observing calmly. He casually ducks under an arc of frozen, splashing beer. He notices a cluster of floating popcorn, reaches out, and plucks a single kernel from the air.
 
-[0:09–0:11] 他停在一名穿著 Yankees 球衣的凍結男子面前，那人的臉鎖定在狂喜、含淚的尖叫表情中，雙手高舉準備擊掌。主角歪著頭，輕輕調整那名凍結男子 Yankees 帽子的帽簷，微微點頭，輕聲說：「完美。」
+[0:09–0:11] He stops in front of a frozen man wearing a Yankees jersey, his face locked in an ecstatic, tearful scream, arms raised for a high-five. The main character tilts his head, gently adjusts the brim of the frozen man's Yankees cap, nods slightly, and softly says: “perfect.”
 
-[0:11–0:15] 他轉身，將爆米花丟進嘴裡，咬碎。他面對鏡頭，露出冷笑，再次彈指。更強的反向衝擊波恢復了動作。啤酒完成飛濺，歡呼聲瞬間回歸，球迷落地。他走開，攝影機穿過瘋狂慶祝的人群。淡出至黑色。
+[0:11–0:15] He turns, tosses the popcorn kernel into his mouth, and crunches it. He faces the camera, smirks, and snaps again. A stronger reverse shockwave restores motion. The beer completes its splash, the cheering roar instantly returns, and fans land their jumps. He walks away as the camera pushes through the wildly celebrating crowd. Fade to black.
 
-音效：震耳欲聾的酒吧歡呼聲 → 彈指 → 深沉衝擊波/低音下潛 → 絕對寂靜 → 腳步聲 → 清脆的爆米花咀嚼聲 → 「完美」 → 彈指 → 反向衝擊波 → 震耳欲聾的慶祝聲回歸。
+Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → absolute silence → footsteps → sharp popcorn crunch → “perfect” → snap → reverse shockwave → deafening celebration returns.
 ```
 
 **作者** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 追蹤者
@@ -2865,12 +2847,12 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 42. 鬧劇風格冰淇淋戲法動畫
+### 42. Slapstick Ice Cream Trick Animation
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="鬧劇風格冰淇淋戲法動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Slapstick Ice Cream Trick Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -2878,31 +2860,31 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ```
 {
-  "style": "風格化 3D 動畫, 超現實流行風格, 擠壓與拉伸 (squash-and-stretch)",
-  "mood": "帶有虛假勝利與結局的快節奏鬧劇惡作劇",
+  "style": "stylized 3D animation, hyperreal pop, squash-and-stretch",
+  "mood": "fast slapstick mischief with fake wins and payoff",
   "characters": {
-    "child": "圓臉, 大眼睛, 金色馬尾辮, 粉紅色條紋連身裙",
-    "vendor": "高個子男人, 捲翹鬍鬚, 深紅色背心, 斜戴帽子, 黃銅冰淇淋勺"
+    "child": "round-faced, huge eyes, golden-blond ponytail, pink striped dress",
+    "vendor": "tall man, curled mustache, crimson vest, tilted cap, brass ice cream paddle"
   },
   "environment": {
-    "location": "山坡小鎮陽光充足的石造庭院",
-    "details": "花卉拱門, 馬賽克噴泉, 黃銅推車, 鵝卵石路, 溫暖的午後陽光"
+    "location": "sunlit stone courtyard in hillside town",
+    "details": "flower archways, mosaic fountain, brass cart, cobblestones, warm late-afternoon light"
   },
   "timeline": [
     {
       "time": "0:00-0:04",
-      "action": "冰淇淋戲法揭露假動作；甜筒出現又消失，快速的落空笑料",
-      "sfx": "驚呼聲, 咻咻聲, 輕笑聲, 鈴聲"
+      "action": "Ice cream trick reveals fake outs; cone appears and disappears, quick miss gag",
+      "sfx": "gasp, whoosh, chuckle, bell"
     },
     {
       "time": "0:04-0:09",
-      "action": "調換戲法、混亂追逐、假裝勝利後甜筒被拿走",
-      "sfx": "刷刷聲, 急煞聲, 笑聲, 鈴聲中斷"
+      "action": "Switch trick, scramble chase, fake victory then cone removed",
+      "sfx": "swish, skid, laughter, chime cut"
     },
     {
       "time": "0:09-0:15",
-      "action": "公開戲弄後，給予真正的甜筒；平靜的結局與品嚐時刻",
-      "sfx": "群眾笑聲, 鈴聲, 柔和鐘聲, 掌聲"
+      "action": "Public tease, then real cone given; calm payoff and taste moment",
+      "sfx": "crowd laugh, bell, soft chime, applause"
     }
   ]
 }
@@ -2918,65 +2900,65 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 43. 快節奏晨間日常剪輯
+### 43. Fast-Paced Morning Routine Montage
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="快節奏晨間日常剪輯"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2042840039378542846_0_poster.jpg" width="480" alt="Fast-Paced Morning Routine Montage"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-格式：15秒 / 145 BPM / 15個鏡頭 / 節拍同步日常
+FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine
 
-主體：@[image1] < 附上您的圖片。
+SUBJECT: @[image1] < ATTACH YOUR IMAGE.
 
-服裝：在家穿著睡衣T恤和休閒短褲。在外穿著剪裁合身的夾克、貼身上衣、長褲和綁帶鞋。
+WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 
-環境：狹小的公寓、明亮的冰箱光、佈滿雨水的走廊、金屬質感的捷運、乾淨的辦公室，最後是冷色窗光下的臥室。一切都顯得光鮮亮麗且充滿生活氣息。
+ENVIRONMENT: Tiny apartment, bright fridge glow, rain-dusted hallway, chrome metro, clean office, then a bedroom in cool window light. Everything feels glossy and lived-in.
 
-氛圍：上班遲到的恐慌、急促的節奏、喘不過氣的緊迫感，隨後是精疲力竭的呼氣。
+MOOD: Late-for-work panic, clipped momentum, breathless urgency, then an exhausted exhale.
 
-音樂：快節奏打擊樂電子流行音樂
+MUSIC: Fast percussive electro-pop
 
-色彩邏輯：超現實流行風格
+COLOR LOGIC: Hyperreal Pop Look
 
-風格：超寫實。
+STYLE: Ultra-Realistic.
 
-邏輯規則：在所有鏡頭中保持服裝、道具、場景和動作連續性的一致性。
+LOGIC RULE: Keep logical consistency in wardrobe, props, locations, and action continuity across all shots.
 
-鏡頭 1：ECU，85mm 推鏡 / 手機螢幕顯示 06:50，在皺褶的床單上震動。 / 音效：鬧鐘聲、床單摩擦聲。
+SHOT 1: ECU, 85mm push-in / 06:50 on the phone screen as it shakes on rumpled sheets. / SFX: alarm, sheet rustle.
 
-鏡頭 2：WS，35mm 手持晃動 / 節奏性剪輯，她從側光中猛然坐起，掀開毯子，一氣呵成地將腳踩在地板上，仍穿著柔軟的睡衣T恤和休閒短褲。 / 音效：床墊彈跳聲、毯子甩動聲、急促呼吸聲。
+SHOT 2: WS, 35mm handheld jolt / Rhythmic cut into her jolting upright through side light, throwing the blanket aside, and planting her feet on the floor in one rushed motion, still in a soft sleep tee and lounge shorts. / SFX: mattress bounce, blanket whip, sharp breath.
 
-鏡頭 3：MCU，50mm 滑動鏡頭 / 動作剪輯，在洗手台洗臉，水珠捕捉到頂光。 / 音效：水龍頭流水聲、潑水聲。
+SHOT 3: MCU, 50mm slide / Cut on action into face wash at the sink, droplets catching the top light. / SFX: faucet rush, water slap.
 
-鏡頭 4：插入鏡頭，85mm 焦點變換 / 匹配剪輯，牙刷以自然的向前刷牙角度抵住前牙，手部放鬆且垂直，薄荷泡沫與鏡中眼神。 / 音效：刷毛摩擦聲、水槽滴水聲。
+SHOT 4: Insert shot, 85mm rack focus / Match cut into the toothbrush held at a natural forward brushing angle against the front teeth, hand relaxed and upright, mint foam and mirror eye. / SFX: bristle scrape, sink drip.
 
-鏡頭 5：冰箱內部視角，24mm 廣角 / 物體穿過鏡頭，從冰箱內部向外看，門猛然打開，她的手伸進來，藍色冰箱光勾勒出她匆忙抓取早餐食材的動作。 / 音效：冰箱嗡嗡聲、瓶子碰撞聲、架子晃動聲。
+SHOT 5: Interior fridge view, 24mm wide / Object pass into the camera inside the fridge looking out as the door snaps open and her hand darts in, blue fridge light framing a hurried grab for breakfast ingredients. / SFX: fridge hum, bottle clink, shelf rattle.
 
-鏡頭 6：插入鏡頭，50mm 手持 / 節奏性剪輯，雞蛋和吐司在溫暖的實用光下放入平底鍋。 / 音效：奶油滋滋聲、切菜聲。
+SHOT 6: Insert shot, 50mm handheld / Rhythmic cut into eggs and toast hitting the pan under warm practical light. / SFX: butter sizzle, chop tap.
 
-鏡頭 7：MCU，居中 50mm 推鏡 / 匹配剪輯，匆忙咬下一口，快速看一眼時鐘，隨即從椅子上起身。 / 音效：咀嚼聲、陶瓷碰撞聲、椅子摩擦聲。
+SHOT 7: MCU, centered 50mm push-in / Match cut into one rushed bite, a quick clock glance, and an immediate rise from the chair. / SFX: crunch, ceramic clink, chair scrape.
 
-鏡頭 8：鳥瞰插入鏡頭，35mm 俯拍 / 動作剪輯，穿上條紋襪子。 / 音效：布料拉伸聲、腳跟著地聲。
+SHOT 8: Bird's-eye insert, 35mm overhead / Cut on action into striped socks snapping on. / SFX: fabric stretch, heel tap.
 
-鏡頭 9：MS，35mm 旋轉 / 鏡頭擦拭轉場，匆忙更換服裝，睡衣T恤消失在貼身上衣和剪裁夾克下，然後將托特包、鑰匙和交通卡一把抓起。 / 音效：布料甩動聲、鑰匙叮噹聲、拉鍊拉動聲、包包摩擦聲。
+SHOT 9: MS, 35mm pivot / Camera wipe into a rushed outfit change as the sleep tee disappears under a fitted top and tailored jacket, then her tote, keys, and transit card get scooped up in one messy grab. / SFX: fabric whip, key jingle, zipper pull, bag rustle.
 
-鏡頭 10：插入鏡頭，50mm 俯拍 / 匹配剪輯，穿上綁帶鞋，不耐煩地猛力拉緊鞋帶。 / 音效：鞋底落地聲、拉扯鞋帶聲、短促呼吸聲。
+SHOT 10: Insert shot, 50mm overhead / Match cut into lace-up shoes slamming on as the laces yank tight in one impatient pull. / SFX: sole thump, lace tug, short breath.
 
-鏡頭 11：WS，24mm 視差鏡頭 / 快速平移轉場，她穿著剪裁合身的戶外服裝，未減速地衝出公寓門進入走廊光線中。 / 音效：門鎖聲、急促腳步聲、走廊空氣聲。
+SHOT 11: WS, 24mm parallax / Whip pan transition into her, now in the tailored outside outfit, rushing through the apartment door into corridor light without breaking stride. / SFX: latch click, rapid footsteps, hallway air.
 
-鏡頭 12：MS 到 CU，35mm 滑動轉 85mm 推鏡 / 聲音橋接，進入捷運車廂內部，她握住扶手，隨車廂搖晃，檢查經過的車站燈光，緊張地瞥向即將關閉的車門，反射的金屬光澤在她周圍流動，城市景觀在窗外模糊。 / 音效：軌道碰撞聲、車廂尖銳摩擦聲、車門警示音、緊繃呼吸聲。
+SHOT 12: MS to CU, 35mm glide into 85mm push-in / Sound bridge into the metro car interior only as she grips the pole, shifts with the carriage sway, checks the passing station lights, and snaps a tense glance toward the closing doors, reflected chrome streaking around her and the city smearing outside the window. / SFX: rail clatter, carriage screech, door warning chime, tight breath.
 
-鏡頭 13：插入鏡頭到 MCU，50mm 快速變焦 / 猛烈剪輯到辦公室入口，門禁卡刷過讀卡機，玻璃門解鎖，她在椅子滑動和筆電打開前迅速溜進去。 / 音效：刷卡聲、門鎖聲、筆電提示音。
+SHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to the office entrance as her access card hits the reader, the glass door unlocks, and she slips through fast before the chair roll and laptop open. / SFX: badge beep, door click, laptop chime.
 
-鏡頭 14：OTS，35mm 手持 / 節奏性剪輯，手指在鍵盤上飛快敲擊，聊天視窗閃爍，觸控板旁的咖啡，通知堆疊的速度比她清除的速度還快。 / 音效：鍵盤敲擊聲、通知提示音、滑鼠點擊聲。
+SHOT 14: OTS, 35mm handheld / Rhythmic cut into fingers racing across keys, chat windows blinking, coffee by the trackpad, and notifications stacking faster than she clears them. / SFX: keyboard burst, notification ticks, mouse click.
 
-鏡頭 15：WS，50mm 拉遠 / L型剪輯，從筆電關閉匹配到回到公寓，脫下夾克，換下工作服，在回到開場的床鋪姿勢前換回睡衣。 / 音效：關門聲、放下包包聲、布料摩擦聲、毯子摩擦聲、房間環境音。
+SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment re-entry as the jacket drops, work clothes peel away, and she changes back into sleepwear before collapsing into bed in the opening frame shape. / SFX: door shut, bag drop, fabric rustle, blanket rustle, room tone.
 ```
 
 **作者** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K 追蹤者
@@ -2989,19 +2971,19 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 44. 華爾街商務人士跌倒的子彈時間
+### 44. 華爾街商務人士的子彈時間跌倒
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="華爾街商務人士跌倒的子彈時間"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="華爾街商務人士的子彈時間跌倒"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-子彈時間效果。一名穿著白襯衫和黑領帶的商務人士在紐約華爾街結冰潮濕的街道上滑倒並向後跌落。地上的咖啡杯，液體向外噴濺並凍結在半空中。冰塊、水滴和咖啡飛濺物完全懸浮——時間靜止。兩側的高樓大廈營造出峽谷效應。攝影機在低角度平滑地繞著跌倒的男子進行 360 度環繞拍攝，只有攝影機在移動，而其他一切都保持完全靜止。電影級陰天戲劇性光影，廣角鏡頭畸變。
+子彈時間效果。一位穿著白襯衫和黑領帶的商務人士在紐約華爾街結冰潮濕的街道上滑倒並向後跌落。地上的咖啡杯中，液體向外噴濺並凍結在半空中。冰塊、水滴和咖啡飛濺物完全懸浮——時間彷彿靜止。兩側的高樓大廈營造出峽谷效應。攝影機以低角度平滑地繞著跌倒的男子進行 360 度環繞拍攝，只有攝影機在移動，而其他一切都保持完全靜止。電影般的戲劇性陰天光影，廣角鏡頭畸變。
 ```
 
 **作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K 追蹤者
@@ -3014,27 +2996,27 @@ POV減速。前方出現窗戶；蟑螂停在窗內檯面上，轉身直面廚�
 
 ---
 
-### 45. F16機翼特技追蹤鏡頭
+### 45. F16 Wing Stunt Tracking Shot
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16機翼特技追蹤鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 Wing Stunt Tracking Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-aesthetic: 原始35mm手持拍攝，高空太陽霧霾。一個不間斷的連續追蹤鏡頭。無剪輯。全即時。audio: 持續的噴射引擎轟鳴聲，強風聲，無其他聲音。
+aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. 
 
 timeline: 
-- 0-3s: 一個穿著寬鬆工裝短褲和夾腳拖的普通男子，在高度10,000英尺、時速350英里的F16機翼上，完全放鬆地保持平衡。
-- 3-7s: 飛行員從座艙探出頭，向機翼上的男子豎起大拇指。男子微微前傾，微笑並回以大拇指。
-- 7-12s: 他完成了一個非常隨意、動作完美的後空翻。沒用手。他沒有抓住任何東西。準確地落回機翼上的原位。甚至沒有踉蹌。
-- 12-15s: 他拍掉短褲上的一點灰塵。對著鏡頭無聊地豎起大拇指。硬切。
+- 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly relaxed balancing on top of the wing of an F16 doing 350mph at 10,000 feet. 
+- 3-7s: The pilot leans out of the canopy, gives a thumbs up towards the guy on the wing. The guy leans forward slightly, smiles and returns the thumbs up. 
+- 7-12s: He does a completely casual, perfectly clean full backflip. No hands. He doesn't grab anything. Lands exactly back on the exact same spot on the wing. He doesn't even stumble. 
+- 12-15s: He brushes a tiny bit of dust off his shorts. Gives a bored little thumbs up straight to the camera. Hard cut. 
 
-quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖谷效應，無偽影。
+quality: 8K photorealistic, correct fabric motion blur, natural physics, no uncanny valley, no artifacts.
 ```
 
 **作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
@@ -3047,29 +3029,29 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 46. VR 生存轉場：從荒野到家
+### 46. VR Survival Transition: Wilderness to Home
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR 生存轉場：從荒野到家"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR Survival Transition: Wilderness to Home"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-格式：15秒 / 自由節奏 / 1 次匹配剪輯 / 匹配剪輯前保持連續移動 + 第一幀即刻動作
+FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMMEDIATE ACTION FROM FIRST FRAME
 
-主體：一名身穿破舊皮草和皮革的持劍女子，正以絕望的雙手生存動作與一隻巨大的北極熊搏鬥。同一名女子隨後出現在家中，身穿寬鬆的家居服，VR 頭顯僅在匹配剪輯後出現，並被她以一個清晰的動作摘下。
-環境：強日光下的冰封荒野，風捲著雪花掠過藍白色的冰面，隨後透過精確的視覺匹配切換到一個溫馨的居家環境。冬日的強光和可見的呼吸聲讓位於柔和的雜亂感、室內日光和微弱的遊戲光影。
-氛圍：生存的緊張感瞬間轉入現實，且不破壞物理連續性。
-色彩邏輯：自然主義膠片模擬
+SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate, two-handed survival movement. The same woman is later revealed at home in loose indoor clothes, where a VR headset appears only after the match cut and is pulled off in one clear motion.
+ENVIRONMENT: Frozen wilderness under hard daylight, wind dragging snow across blue-white ice, then a modest lived-in home reached through a precise visual match. Winter glare and visible breath give way to soft clutter, indoor daylight, and a faint game-lit glow.
+MOOD: Visceral survival tension snaps into grounded reality without breaking physical continuity.
+COLOR LOGIC: Naturalistic Film Print Emulation
 
-時間軸：
-0:00-0:07：一個不間斷的手持鏡頭，從全景推向中近景，女子在冰面上後退，北極熊穿過風雪撲來。鏡頭在視線高度跟隨跳躍，28mm 鏡頭切換至 35mm，略有不穩定，距離足夠近以保持兩個主體的重量感和清晰度。北極熊迅速逼近，她站穩腳跟、後仰，並將刀刃擋在兩者之間。音效：(呼嘯的風聲、靴子摩擦冰面的聲音、低沉的野獸咆哮、布料拉扯聲、刀刃劃破空氣聲、刮雪聲)。冬日的強光從側面照亮冰面，投下銳利的藍色陰影。
-0:07-0:11：同一不間斷鏡頭，無剪輯，緊縮至特寫，北極熊撲到最後幾英寸，爪子靠近她的肩膀，大嘴填滿畫面邊緣。就在攻擊正中，一個男人的聲音喊道：Karla... 然後更急促地喊：KARLA。她疲憊地回答“別煩我”，在這一反應下，世界進入慢動作。雪花幾乎靜止，北極熊懸在攻擊動作中，只有她保持正常速度移動，鏡頭繞向她的臉。她感到厭煩而非恐懼，放下劍，雙手平滑地舉向太陽穴，做出一個中斷動作。在冰封世界中看不到頭顯、面罩或設備。保持連續性直到匹配剪輯，保持相同的臉部大小、手部高度、頭部角度、鏡頭距離和順時針漂移。音效：(布料拉扯聲增強至近乎撞擊，男人喊Karla... KARLA，她疲憊的回答，隨後拉長的風聲逐漸歸於寂靜)。冬日的強光捕捉到她臉部周圍減速的雪花。
-0:11-0:15：匹配剪輯。特寫轉中景。動作中無縫轉場，她抬起的手穿過相同的屏幕位置，冰封的特寫變為室內場景，構圖和順時針漂移保持一致。動作不間斷，此時 VR 頭顯第一次清晰地戴在她的眼睛上。她抓住兩側，將其完全從臉上摘下，鏡頭拉開至中景，她將頭顯推到額頭上，穿著寬鬆的家居服走進小客廳。手持鏡頭的環繞繼續，露出沙發邊緣、散亂的毯子和冷冽的窗光，她的姿態流露出輕微的煩躁。她轉向聲音來源，翻了個白眼，說道：What is it。35mm 自然鏡頭，球面。音效：(頭顯帶拉伸聲、塑料摩擦聲、安靜的室內氛圍音、襪子摩擦地面的聲音、微弱的遊戲音頻、她平復的呼吸聲、她乾巴巴的聲音說 What is it)。室內日光取代了冬日的對比度。
+TIMELINE:
+0:00-0:07: One unbroken handheld move, WS collapsing into MCU as the woman backpedals across the ice and the bear launches through blowing snow. The camera runs beside the leap at eye level, 28mm shifting to 35mm, slightly unstable and close enough to keep both bodies heavy and readable. The bear closes fast while she plants, recoils, and keeps the blade between them. SFX: (howling wind, boots grinding ice, low animal roar, cloth strain, blade cutting air, snow scrape). Hard winter sun side-lights the ice and throws sharp blue shadows.
+0:07-0:11: Same unbroken move, no cut, tightening into a dead-on CU as the bear surges into the last inches, claws near her shoulders, jaws filling the frame edge. Right in the middle of the attack, a man's voice calls, Karla... then sharper, KARLA. She answers with a tired off, and on that reaction the world drops into slow motion. Snow drifts almost still, the bear hangs in its strike, and only she keeps moving at normal speed as the camera orbits into her face. Bored, not afraid, she drops the sword and brings both empty hands toward her temples in one smooth interrupt gesture. No headset, visor, or device is visible in the frozen world. Stay continuous until the match cut, keeping the same face size, hand height, head angle, lens distance, and clockwise drift. SFX: (cloth strain building to near impact, a man's voice calling Karla... KARLA, her tired off, then stretched wind fading toward silence). Hard winter sun catches the slowed snow around her face.
+0:11-0:15: MATCH CUT. CU to MS. Seamless mid-motion transition as her rising hands cross the same screen position and the frozen close-up becomes the home interior with the same framing and clockwise drift. The motion continues uninterrupted, and now a VR headset is visibly strapped over her eyes for the first time. She grips both sides, pulls it fully off her face, and the camera opens into a medium shot as she drops it above her forehead and steps into a small living room in loose home clothes. The handheld orbit continues, revealing couch edges, scattered blankets, and cold window light as her posture falls into mild annoyance. She turns toward the voice, rolls her eyes upward, and says, What is it. 35mm natural lens, spherical. SFX: (headset strap stretch, plastic rub, quiet room tone, socked foot scrape, faint game audio, her breath settling, her dry voice saying What is it). Indoor daylight replaces the winter contrast.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 追蹤者
@@ -3082,28 +3064,28 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 47. 高空火箭衝浪
+### 47. Rocket Surfing at High Altitude
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="高空火箭衝浪"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Rocket Surfing at High Altitude"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-火箭衝浪。 
-風格：粗獷的電影真實主義 (Cine Verité)，35mm 手持拍攝，自然抖動。連續追蹤鏡頭。無剪輯。全即時。 
+ROCKET SURF. 
+STYLE: Gritty Cine Verité,  35mm handheld, natural shake. Continuous tracking shot. No cuts. All real-time. 
 
-光照：明亮的高空陽光，純淨的藍天。 
+LIGHTING: Bright, high-altitude sun, pure blue sky. 
 
-音訊：火箭引擎轟鳴聲、風聲、玻璃纖維的吱吱聲。 
+AUDIO:  Rocket engine roar, wind, fiberglass creak.  
 
-時間軸：0-3秒：一名穿著牛仔褲和黑色 T 恤的男子在 12,000 英尺高空勉強抓住正在上升的 SpaceX 火箭側面。火箭正在攀升。3-7秒：快速推鏡頭特寫他的臉。他的頭髮被風吹得向後緊貼。地面在下方迅速遠去。7-12秒：火箭達到最大動壓點 (Max Q)。整個助推器劇烈震動。他緊緊抓住，膝蓋完美地吸收了震動。12-15秒：他從連帽衫口袋裡掏出一罐啤酒，拉開拉環。喝了一口，舉杯大喊：「值了！」。硬切。 
+TIMELINE: 0-3s:  Guy in jeans and a black t-shirt is barely holding on the side of an active SpaceX rocket at 12,000 feet. The rocket is climbing. 3-7s:  Hard zoom in cut on his face. His hair is plastered straight back. The ground is falling away below. 7-12s: The rocket hits max Q. The whole booster shakes violently.  He grips tightly, his knees absorb it perfectly. 12-15s: He pulls a  beer can out of his hoodie pocket, cracks it open. Takes one sip, cheers and yells: "Worth it!". Hard cut. 
 
-品質：8K 照片級真實感，物理效果準確，織物運動模糊，無偽影。
+QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 ```
 
 **作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
@@ -3116,35 +3098,35 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 48. 電影感懸崖跳躍跟拍鏡頭
+### 48. Cinematic cliff jump tracking shot
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="電影感懸崖跳躍跟拍鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2038698494970433787_0_poster.jpg" width="480" alt="Cinematic cliff jump tracking shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-粗獷、原始的手持 35mm 底片美學，帶有自然底片顆粒感。強烈、直射的陽光創造出高對比度的陰影。手持跟拍鏡頭（第三人稱視角/肩後視角）。氛圍：塵土飛揚、沿海強風、真實物理效果。
+Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh, direct sunlight creating high-contrast shadows. Handheld tracking shot (3rd person POV/Over-the-shoulder). Atmosphere: dusty, coastal wind, realistic physics.
 
-音效：沈重且有節奏的呼吸聲、腳下碎石摩擦聲、強烈的風嘯聲、跳躍瞬間的突然沈寂，隨後是沈重的塑料撞擊聲。
+Audio: Heavy rhythmic breathing, gravel crunching under feet, intense wind howl, sudden silence during the jump, followed by a heavy "thud" impact on plastic.
 
-[逐秒時間軸]
+[TIMELINE SECOND BY SECOND]
 
-0-4秒：[跟拍鏡頭] 手持攝影機緊跟在一名穿著灰色皺褶運動服、體型微胖的男子身後，朝懸崖邊奔跑。細緻的布料物理效果：運動服隨每一步擺動。地面揚起塵土。
+0-4s: [Tracking Shot] Handheld camera follows closely behind a slightly obese man in a grey wrinkled tracksuit running towards a cliff edge. Detailed fabric physics: the tracksuit ripples with every step. Dust kicks up from the ground.
 
-4-7秒：[跳躍] 男子到達懸崖邊並全力跳下。當他離開地面時，攝影機隨之輕微下沈。實時過渡到快速的向下跟拍鏡頭。
+4-7s: [The Leap] The man reaches the precipice and jumps with full force. The camera dips slightly with him as he leaves the ground. Real-time transition to a fast downward tracking shot.
 
-7-12秒：[自由落體] 主體高速墜落。攝影機鎖定在他的背部/側面。物理效果：風使運動服布料和皮膚變形。地面迅速逼近，帶有真實的動態模糊。
+7-12s: [Freefall] Subject falls at high velocity. Camera stays locked on his back/side. Physics: wind distorts the fabric of the tracksuit and his skin. Ground approaches rapidly with realistic motion blur.
 
-12-15秒：[著陸] 主體猛烈撞擊到底部巨大的彩色充氣氣墊上。物理效果：充氣墊在撞擊時深度變形並回彈。攝影機因著陸的衝擊力而晃動。空氣排出的聲音。
+12-15s: [The Landing] Subject slams into a massive colorful inflatable air-bag at the bottom. Physics: the inflatable deforms deeply upon impact and bounces back. Camera shakes from the force of the landing. Sound of air rushing out.
 
-[風格與品質增強]
+[STYLE & QUALITY BOOSTERS]
 
-照片級真實感 8K，超細緻紋理，電影級燈光，完美的動態模糊，高動態範圍，無偽影，連貫的多模態物理效果，電影級穩定性。
+Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion blur, high dynamic range, no artifacts, coherent mult-modal physics, movie-level stability.
 ```
 
 **作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.4K 追蹤者
@@ -3157,28 +3139,28 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 49. 辦公室職員心理恐怖變身
+### 49. 辦公室職員的心理恐怖變身
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="辦公室職員心理恐怖變身"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="辦公室職員的心理恐怖變身"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-格式：15秒 / 單一連續鏡頭
-主體：一位迷人且極具吸引力的女性形象。她穿著細節豐富的辦公室風格百褶迷你裙和深V領白色襯衫，可見織物紋理、皮膚毛孔和淡淡的汗水。
-環境：光線明亮的展會現場。背景是霓虹燈展位和過往剪影的模糊影像，具有強烈的寫實紋理感。
-氛圍：從觀察性和親密的展示開始，急劇扭轉為令人不安的心理恐怖。
-色彩邏輯：自然主義電影膠片模擬
+格式: 15秒 / 一鏡到底
+主體: 一位迷人且極具吸引力的女性。她穿著細節豐富的辦公室風格百褶迷你裙和深V領白色襯衫，可見織物紋理、皮膚毛孔和淡淡的汗水。
+環境: 燈火通明的會展中心。背景是霓虹燈展位和過往人影的模糊影像，具有強烈的寫實紋理。
+氛圍: 開場是觀察性和親密的展示，隨後急轉直下，變為令人不安的心理恐怖。
+色彩邏輯: 自然主義電影膠片模擬
 
-時間軸：
-0:00-0:07：中景。攝影機從低側角開始，側面觀察她，一隻赤腳完全著地，另一隻赤腳優雅地踮起腳尖。隨著她輕微變換重心，鏡頭緩慢升降並弧形移動，欣賞她勻稱的雙腿和百褶辦公室迷你裙。50mm鏡頭，淺景深。音效：(模糊的群眾環境音，近距離織物摩擦聲)。
-0:07-0:12：中近景。隨著弧形移動完成，連續的鏡頭滑過她深V領的白色襯衫，停在她正前方。攝影機精準地對準她的下巴，將她的整張臉保持在畫面之外。50mm鏡頭，緩慢推近。音效：(房間環境音淡出，低頻轟鳴聲增強)。
-0:12-0:15：特寫。無需剪輯，她柔和的微笑顫抖並扭曲，她的皮膚平滑且瞬間扭曲成一張蒼白、恐怖的超自然面孔，帶有濕潤的深色縫隙。她將嘴張開到不可思議的程度，並向鏡頭伸出一條長而濕潤的舌頭。50mm鏡頭，微距近焦。音效：(突然的死寂，隨後是內臟般的濕潤聲和刺耳的音訊故障聲)。
+時間軸:
+0:00-0:07: 中景。攝影機從低側角開始，觀察她的側面，一隻赤腳穩穩地踩在地上，另一隻赤腳輕盈地踮起腳尖。攝影機緩慢升降並弧形移動，欣賞她勻稱的雙腿和百褶迷你裙，同時她微微變換重心。50mm鏡頭，淺景深。音效: (低沉的群雜環境音，近距離的布料摩擦聲)。
+0:07-0:12: 中近景。隨著弧形移動完成，攝影機滑過她深V領的白色襯衫，來到她的正前方。攝影機精準地停在她的下巴處，使她的整張臉剛好處於畫面之外。50mm鏡頭，緩慢推進。音效: (環境音淡出，低頻轟鳴聲增強)。
+0:12-0:15: 特寫。無需剪輯，她柔和的微笑開始顫抖並扭曲，皮膚順滑且瞬間轉變為一張蒼白、恐怖的超自然面孔，帶有濕潤的深色縫隙。她將嘴張開到不可思議的程度，並向鏡頭伸出一條長而閃亮的舌頭。50mm鏡頭，微距近焦。音效: (突然的死寂，隨後是內臟般的濕潤聲和刺耳的音訊故障聲)。
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 追蹤者
@@ -3191,39 +3173,39 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 50. 功夫廚師麵條製作
+### 50. Kung Fu Chef Noodle Preparation
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="功夫廚師麵條製作"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Kung Fu Chef Noodle Preparation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-主體：
-主體 1：身材精瘦的功夫廚師，留著俐落的短髮，下顎線條分明。身穿融合武術服飾的現代化中式廚師服：合身無袖上衣，立領設計，深色啞光布料帶有細微光澤；前臂纏繞布帶以增加抓力；寬鬆錐形褲便於寬步站立；軟底鞋確保腳步無聲。四肢長度略顯誇張；手腕極度靈活，肘部動作爆發力強。動作遵循清晰的武術節奏（停頓 → 爆發 → 鎖定），腳步紮實且轉向迅速。
+SUBJECTS:
+Subject 1: Lean kung fu chef with short, sharp-cut hair and defined jawline. Wears a modernized Chinese chef outfit fused with martial arts attire: fitted sleeveless upper garment with mandarin collar, dark matte fabric with subtle sheen; forearms wrapped with cloth bands for grip; loose tapered pants allowing wide stances; soft-soled shoes for silent footwork. Limbs slightly exaggerated in length; wrists highly flexible, elbows explosive. Movements follow clear martial rhythm (pause → burst → lock), with grounded footwork and fast pivots.
 
-環境：
-傳統中式明火爐灶；爐上固定著鐵鍋；反光金屬檯面；前景中央放置著青花瓷碗。溫暖的頂光結合強烈的動態火光；帶有輕微油煙與明顯的熱空氣扭曲。
+ENVIRONMENT:
+Traditional Chinese open-fire stove setup; iron wok fixed on stove; reflective metal counter; blue-and-white porcelain bowl placed in foreground center. Warm overhead light combined with intense dynamic firelight; light oil smoke and visible heat distortion.
 
-氛圍：
-高張力、激進，但受控且精準；表演給人一種刻意且優雅的感覺，而非混亂。
+MOOD:
+High tension, aggressive, but controlled and precise; performance feels intentional and elegant rather than chaotic.
 
-時間軸：
-0:00-0:02：極端特寫，廣角 POV。廚師站在檯面後的地面上（檯面始終位於攝影機與廚師之間），跨步上前，壓縮姿勢，隨後猛然抬頭與攝影機對視。雙手抓起麵團——他乾淨俐落地拉伸，摺疊一次，然後再次拉伸。麵團從一團變成少量均勻的麵條。
+TIMELINE:
+0:00-0:02: Extreme close-up, wide-angle POV. The chef stands on the ground behind the counter (counter always between camera and chef), steps in, compresses posture, then snaps his head up to lock eyes with camera. Both hands grip dough—he stretches it in one clean pull, folds once, then pulls again. The dough transitions from a single mass into a small number of even strands.
 
-0:02-0:05：剪接。輕微的手持晃動。廚師雙手完全掌控麵條束，透過「摺疊 → 對齊 → 拉伸」的循環，將麵條拉伸並對齊成整齊平行的線條。約 8-12 條細麵條以平滑的弧線延伸，在清晰可見的動作中掠過鏡頭。他完成拉伸，將對齊好的麵條束整齊地放在面前的檯面上。
+0:02-0:05: Cut. Slight handheld motion. The chef keeps full control of the noodle bundle in both hands, stretching and aligning the strands into clean, parallel lines through fold → align → stretch cycles. Around 8–12 thin strands extend in smooth arcs, passing close to the lens in clean, readable motion. He finishes the pull and places the aligned noodle bundle neatly onto the counter in front of him.
 
-0:05-0:07：移動（輕微後座力後穩定）。廚師以滑步降低重心至檯面後方。一隻手掌掃過檯面——蝦仁與青菜被帶起，以受控的弧線飛入鍋中。鍋子保持在爐上；廚師僅握住鍋柄。任何散落的食材都被清晰地捕捉並導向鍋中。
+0:05-0:07: Move (slight recoil then stabilize). The chef lowers into a sliding step behind the counter. One palm sweeps across the surface—shrimp and greens lift and travel in a controlled arc into the wok. The wok remains on the stove; the chef grips only the handle. Any stray ingredient is clearly caught and redirected into the wok.
 
-0:07-0:10：連續鏡頭。廚師僅透過鍋柄動作與氣勁控制鍋子——手部不進入鍋內。他利用腕力提起、傾斜並甩動鍋子；食材上升、旋轉並落回鍋中。他的手肘撞擊爐邊——火花四濺。他將鍋子壓向火焰，隨後反向拉動，引導火焰向上形成第二次受控的噴發。
+0:07-0:10: Continuous shot. The chef controls the wok only through handle movement and qi force—no hands enter the wok. He lifts, tilts, and snaps the wok using wrist power; ingredients rise, rotate, and fall back into the wok. His elbow strikes the stove edge—sparks burst. He compresses the wok into the flame, then reverses to pull the flame upward into a second controlled flare.
 
-0:10-0:12：匹配動作追蹤。廚師握住鍋柄轉身。另一隻手從檯面上拿起剛才的麵條束，以一個受控的動作直接放入鍋中。他立即恢復翻炒——三個乾淨的翻炒循環（快 → 更快 → 停止）。蝦仁、青菜與麵條明顯融合；醬汁均勻包裹。
+0:10-0:12: Match move tracking. The chef pivots while holding the wok handle. With the other hand, he picks up the same noodle bundle from the counter and feeds it directly into the wok in one controlled motion. He immediately resumes tossing using the wok—three clean toss cycles (fast → faster → stop). Shrimp, greens, and noodles integrate visibly; sauce coats evenly.
 
-0:12-0:15：切換至穩定 POV。突然完全停止。廚師傾斜鍋子，將成品滑入瓷碗中——可見：均勻裹醬的麵條、飽滿的蝦仁、油亮的青菜。他舉起碗並直接向鏡頭展示，直到填滿畫面。一根手指輕敲碗緣——產生細微震動。蒸汽迅速上升，擴散直到完全覆蓋鏡頭，實現乾淨的淡出效果。
+0:12-0:15: Cut to stabilized POV. Sudden full stop. The chef tilts the wok and slides the finished dish into the porcelain bowl—visible: evenly coated noodles, plump shrimp, glossy greens. He lifts and presents the bowl directly toward the camera until it fills the frame. A finger taps the rim—subtle vibration. Steam rises rapidly, expanding until it fully covers the lens for a clean fade-out.
 ```
 
 **作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
@@ -3236,32 +3218,32 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 51. 鬧劇冰淇淋喜劇動畫
+### 51. Slapstick Ice Cream Comedy Animation
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="鬧劇冰淇淋喜劇動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Slapstick Ice Cream Comedy Animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-格式：15秒 / 多鏡頭剪輯 / 6個節拍 / 高病毒式喜劇效果
+FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF
 
-主體：一個圓臉、大眼睛、銅紅色雙馬尾、穿著黃色波點連衣裙，具有誇張卡通比例的小人物。一位留著捲翹鬍鬚、穿著深紅色背心、戴著歪斜帽子的高個子冰淇淋小販，手持長柄黃銅勺，拿著有彈性的白色冰淇淋。具有圓潤形狀和擠壓與拉伸（squash-and-stretch）效果的風格化 3D 動畫。
-環境：古老山城中陽光明媚的石砌庭院，有掛滿鮮花的拱門、馬賽克噴泉、陶瓷碗和帶有銅鈴的黃銅冰淇淋車。午後的陽光在鵝卵石上營造出溫暖的亮點。
-氛圍：快速的鬧劇惡作劇，帶有即時的吸引力、虛假的勝利和討喜的結局。
-色彩邏輯：超現實流行風格
+SUBJECTS: A small round-faced figure with huge eyes, copper-red pigtails, a yellow polka-dot dress, and exaggerated cartoon proportions. A tall ice cream vendor with a curled mustache, crimson vest, tilted cap, and a long brass paddle carrying elastic white ice cream. Stylized 3D animation with rounded shapes and squash-and-stretch.
+ENVIRONMENT: A sunlit stone courtyard in an old hillside town with flower-draped archways, a mosaic fountain, ceramic bowls, and a brass ice cream cart with copper bells. Late afternoon light creates warm highlights on cobblestone.
+MOOD: Fast slapstick mischief with instant hooks, fake wins, and a crowd-pleasing payoff.
+COLOR LOGIC: Hyperreal Pop Look
 
-時間軸：
-0:00-0:02：吸睛瞬間。極端特寫，50mm鏡頭。巨大的眼睛反射出旋轉的白色冰淇淋球，隨後快速拉至廣角，35mm鏡頭，顯示人物在滑倒中凍結，小販像表演魔術一樣展示黃銅勺。音效：尖銳的喘息聲、鈴鐺聲、噴泉水聲。
-0:02-0:04：切入「第一次落空」。特寫，50mm鏡頭。雙手在空氣中合攏，冰淇淋筒向上彈起。臉部保持凍結，瞳孔向上轉動。音效：快速的呼嘯聲、輕柔的拍手聲、細小的吱吱聲、人群的竊笑聲。
-0:04-0:07：動作剪輯至「側身切換」。中廣角鏡頭，35mm。小販將勺子滑到背後，從另一側彈出冰淇淋筒。人物向左猛撲，向右亂竄，原地打轉。附近桌上的茶杯發出響聲。音效：勺子揮動聲、鞋子摩擦聲、玻璃碰撞聲、越來越大的笑聲。
-0:07-0:09：反應剪輯至「虛假勝利」。中特寫，50mm鏡頭。冰淇淋筒落在等待的手中，臉上爆發出勝利的喜悅，隨後小販以一個流暢的動作將有彈性的冰淇淋球拉走，讓冰淇淋筒空了一拍。音效：勝利鐘聲中斷、拉扯晃動聲、笑聲爆發、受挫的吸氣聲。
-0:09-0:11：插入剪輯至「公開羞辱」。插入一隻陶瓷貓從架子上盯著看的鏡頭。快速切換到中景，35mm，人物像麵條一樣癱軟，然後鼓起雙頰並交叉雙臂，旁觀者在無聲的笑聲中跳動。音效：細小的哼聲、人群笑聲高漲、車鈴叮噹聲。
-0:11-0:15：快速轉場至「真正的勝利」。中特寫，50mm鏡頭。小販跪下，這次沒有任何花招，溫柔地將冰淇淋筒放入等待的手中。靜止一拍。人物低頭，眼睛閃閃發光，隨後鏡頭拉回廣角，35mm，人物湊近準備品嚐第一口，庭院爆發出掌聲。音效：輕柔的交接、屏住呼吸的停頓、明亮的鐘聲、掌聲爆發、溫暖的音樂升起。
+TIMELINE:
+0:00-0:02: The Scroll Stop. Extreme close-up, 50mm. Huge eyes reflect a spinning white scoop, then pull fast to a wide shot, 35mm, revealing the figure frozen mid-skid as the vendor presents the brass paddle like a stage trick. SFX: sharp gasp, bell flutter, fountain splash.
+0:02-0:04: Match cut into The First Miss. Close-up, 50mm. Hands clap shut on empty air as the cone snaps upward. The face stays frozen while the pupils tilt up. SFX: quick whoosh, soft clap, tiny squeak, crowd chuckle.
+0:04-0:07: Cut on action into The Side Switch. Medium wide shot, 35mm. The vendor slides the paddle behind his back and pops the cone out on the other side. The figure lunges left, scrambles right, and pinwheels in place. A tea glass rattles on a nearby table. SFX: paddle swishes, shoe skids, glass clink, growing laughter.
+0:07-0:09: Reaction cut into The Fake Victory. Medium close-up, 50mm. The cone lands in the waiting hand and the face bursts into victory, then the vendor peels the stretchy scoop away in one smooth move, leaving the cone bare for a beat. SFX: victory chime cut short, peel wobble, laughter pop, offended inhale.
+0:09-0:11: Insert cut into The Public Humiliation. Insert shot of a ceramic cat staring from a shelf. Smash cut to a medium shot, 35mm, as the figure sags into noodle posture, then puffs both cheeks and folds both arms while onlookers bounce with silent laughter. SFX: tiny huff, crowd laughter swell, cart bell tinkle.
+0:11-0:15: Whip pan transition into The Real Win. Medium close-up, 50mm. The vendor kneels and places the cone gently into the waiting hand with no trick this time. One still beat. The figure looks down, eyes sparkle, then the camera pulls back to a wide shot, 35mm, as the figure leans in for the first taste and the courtyard breaks into applause. SFX: soft handoff, held-breath pause, bright chime bloom, applause burst, warm music lift.
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 追蹤者
@@ -3274,25 +3256,25 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 52. 戲劇性的海岸高爾夫揮桿
+### 52. Dramatic Coastal Golf Drive
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="戲劇性的海岸高爾夫揮桿"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Dramatic Coastal Golf Drive"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-一段戲劇性的運動序列在狂風肆虐、綠意盎然的海岸懸崖上展開，當時正值猛烈的暴風雨。一名身穿鮮黃色雨具的高爾夫球手站在發球台上，緊握著開球木桿。他站姿穩健，雙眼鎖定著橫跨波濤洶湧海灣的遠處果嶺。
+"A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His stance is planted firmly, eyes locked on a distant green across a churning ocean cove.
 
-隨著他揮桿，桿頭發出響亮的擊球聲，將那顆帶有凹痕的白色高爾夫球射入暴風雨的天空中。攝影機立即加速並鎖定飛行中的高爾夫球。
+As he swings, the clubhead connects with a resounding crack, launching the dimpled white ball into the stormy sky. The camera immediately accelerates and locks onto the golf ball mid-flight.
 
-攝影機直接跟隨在旋轉的球體後方，在穿過傾盆大雨時保持完美的對齊。海浪與烏雲化為流動的動態模糊，而球體始終保持清晰並位於畫面中心。
+The camera tracks directly behind the spinning sphere, maintaining perfect alignment as it cuts through the driving rain. The ocean waves and dark clouds become a streaking motion blur while the ball remains sharp and centered.
 
-呼嘯的狂風怒吼著，球體筆直且精準地飛行。修剪整齊的果嶺迅速放大。在最後幾秒鐘，攝影機緊密拉近，捕捉球擊中草皮的瞬間。畫面以球體撕裂濕潤草地、濺起泥土噴霧，隨後完美落入球洞的極致特寫鏡頭結束。
+The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
 ```
 
 **作者** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.6K 追蹤者
@@ -3305,60 +3287,60 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 53. 電影感中世紀市集連續鏡頭
+### 53. Cinematic Medieval Market Continuous Shot
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="電影感中世紀市集連續鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Cinematic Medieval Market Continuous Shot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-格式：電影感連續鏡頭 / 具備動機的攝影機運鏡 / 15秒
+FORMAT: cinematic continuous shot / motivated camera movement / 15s
 
-場景
-黃昏時分，石造城市內擁擠的中世紀市集街道。狹窄的鵝卵石路、木製攤位、懸掛的旗幟、在人群中穿梭的牲畜。溫暖的火把光映照在潮濕的石板上，建築物之間飄散著輕微的霧氣。
+SCENE
+A crowded medieval market street inside a stone city at dusk. Narrow cobblestone road, wooden stalls, hanging banners, livestock moving through the crowd. Warm torchlight reflects on damp stones while light mist drifts between buildings.
 
-攝影機概念
-一種連續且具備動機的攝影機運鏡，每個進入畫面的新移動主體都會重新引導攝影機的注意力。每一個動作都自然地將焦點轉移到下一個主體。
+CAMERA CONCEPT
+A continuous motivated camera move where each new moving subject entering the frame redirects the camera’s attention. Every motion naturally hands the focus to the next subject.
 
-序列
+SEQUENCE
 
-0:00–0:03
-市集攤位的街道視角近景。
-攝影機焦點：一位女性正在與商人討價還價，同時從木籃中挑選水果。她將硬幣交給商人。
+0:00–0:03  
+Close street-level view of a market stall.  
+CAMERA FOCUS: a woman bargaining with a merchant while selecting fruit from a wooden basket. She hands coins to the merchant.
 
-0:03–0:05
-一匹拉著沉重木車的馬突然從對向穿過前景，短暫地遮擋了畫面。
-攝影機轉移：攝影機捕捉到馬車，並開始跟隨它在市集中移動。
+0:03–0:05  
+A horse pulling a heavy wooden cart suddenly crosses the foreground from the opposite direction, briefly blocking the frame.  
+CAMERA SHIFT: the camera catches the cart and begins tracking it as it moves through the market.
 
-0:05–0:07
-馬車在攤位間擠過，擦過一面懸掛的旗幟。旗幟在畫面中劇烈擺動。
-攝影機轉移：當旗幟移開視線時，露出在鵝卵石街道上四散奔逃的雞群。
+0:05–0:07  
+The cart squeezes between stalls and brushes past a hanging banner. The banner swings violently across the frame.  
+CAMERA SHIFT: as the banner clears the view it reveals chickens scattering across the cobblestone street.
 
-0:07–0:09
-一名街頭男孩追趕著逃跑的雞群，在人群中穿梭。
-攝影機轉移：攝影機開始跟隨男孩，看著他在村民之間奔跑。
+0:07–0:09  
+A street boy runs after the escaping chickens, chasing them through the crowd.  
+CAMERA SHIFT: the camera begins following the boy as he runs between villagers.
 
-0:09–0:12
-男孩衝過酒館入口，消失在人群中。
-攝影機轉移：酒館門突然打開，有人走了出來。
+0:09–0:12  
+The boy rushes past a tavern entrance and disappears into the crowd.  
+CAMERA SHIFT: the tavern door suddenly swings open as someone exits.
 
-0:12–0:15
-攝影機滑過敞開的門口，進入昏暗的酒館內部。燈籠光在木桌上閃爍，煙霧繚繞。
-攝影機最終焦點：一位身穿盔甲的騎士安靜地坐在角落的桌旁，長凳旁靠著一把巨大的劍，騎士緩緩抬起頭。
+0:12–0:15  
+The camera glides through the open doorway into the dim tavern interior. Lantern light flickers across wooden tables and drifting smoke.  
+CAMERA FINAL FOCUS: a lone armored knight sitting quietly at a corner table, a massive sword leaning beside the bench as the knight slowly lifts his gaze.
 
-風格
-層次豐富的中世紀街頭生活、自然的群眾編排、連續且具備動機的攝影機運鏡。
+STYLE
+Layered medieval street life, natural crowd choreography, continuous motivated camera movement.
 
-燈光
-室外溫暖的火把光、酒館內昏暗的燈籠光、捕捉光線的煙霧與灰塵。
+LIGHTING
+Warm torchlight outside, dim lantern glow inside the tavern, smoke and dust catching the light.
 
-品質
-寫實、電影感燈光、穩定的攝影機運鏡、豐富的中世紀氛圍、高度細節
+QUALITY
+photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosphere, highly detailed
 ```
 
 **作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 追蹤者
@@ -3371,19 +3353,19 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 54. 高速FPV無人機追逐與季節變換
+### 54. High-speed FPV drone chase with seasonal transition
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="高速FPV無人機追逐與季節變換"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2028068177436176429_0_poster.jpg" width="480" alt="High-speed FPV drone chase with seasonal transition"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-從後方拍攝的快節奏FPV無人機追蹤鏡頭，緊跟一名有著白髮的3D動漫風格女孩，她正以極高的速度在陡峭蜿蜒的山路上滑板。極強的前進動量，廣角視角，風吹過的效果。影片開始於充滿活力的夏季場景，有鬱鬱蔥蔥的綠色山脈、明亮的晴空、遠處的海洋，以及從鏡頭前飛過的棕色葉子。在第3秒時，一股神奇的霜凍波從滑板處向前掃過：環境無縫轉變為冰冷的冬季景觀。綠草瞬間變成厚厚的白雪，大雪開始飄落，遠處的山脈變成了雪峰。攝影機始終保持著強烈、平滑、連續的下坡追蹤運動。高強度動作，大師級3D動畫，照片級真實光影。
+Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, and brown leaves flying past the camera. At the 3-second mark, a magical wave of frost sweeps forward from the skateboard: the environment seamlessly transforms into a freezing winter landscape. The green grass instantly turns to deep white snow, heavy snowflakes start falling, and the distant mountains become snow-capped peaks. The camera never breaks the intense, smooth, continuous downhill tracking motion. High-octane action, masterpiece 3D animation, photorealistic lighting.
 ```
 
 **作者** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K 追蹤者
@@ -3396,19 +3378,19 @@ quality: 8K寫實，正確的織物運動模糊，自然物理效果，無恐怖
 
 ---
 
-### 55. Androgenic 的復仇計畫
+### 55. Androgenic's Vengeful Plot
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic 的復仇計畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic's Vengeful Plot"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升。
+Androgenic plots his revenge after getting his wig snatched. Make my cortisol spike.
 ```
 
 **作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 追蹤者
@@ -3433,7 +3415,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 **📝 提示詞**
 
 ```
-製作一部關於 Punch 的皮克斯電影。我想要為他流淚並愛上他。
+製作一部關於 Punch 的皮克斯電影。我希望能被感動落淚，並深深愛上這個角色。
 ```
 
 **作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 追蹤者
@@ -3446,21 +3428,21 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 57. 龍騎士視角空中戰鬥
+### 57. 龍騎士視角空中戰
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="龍騎士視角空中戰鬥"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="龍騎士視角空中戰"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-第一人稱龍騎士視角，15秒，原始未調色電影素材感。
-巨龍向前傾斜並俯衝向燃燒的艦隊，騎手的雙手緊緊抓住佈滿傷痕的龍皮，風雨猛烈地拍打著鏡頭，隨著俯衝加劇，海洋和船隻迅速變大。巨龍張開大嘴，噴出一股巨大的火焰，吞沒了下方的一艘戰艦，戰艦的桅杆折斷並爆炸成燃燒的碎片，從鏡頭前飛過。巨龍猛地拉升，穿過黑煙和殘骸牆，能見度幾乎降為零，餘燼和燃燒的木頭在鏡頭前翻滾。穿過煙霧後，第二條巨龍直接出現在前方，尖叫著衝向鏡頭，騎手的龍進行桶滾動作以躲避，整個畫面旋轉，先是海洋，然後是天空，再是海洋，騎手的雙手幾乎抓不住濕滑的龍皮。從翻滾中恢復後，巨龍在暴雨中急劇爬升，雙翼猛烈拍打，水流從翼膜上流下，穿過雲層，在風暴上方短暫地進入了一片寒冷的灰色光線中，隨後又俯衝回下方的混亂之中。
-持續的手持攝影機感，快速移動時有強烈的動態模糊，鏡頭上始終有雨水，濃煙不時遮擋視線，柔和的低飽和度色調，膠片顆粒感，沒有乾淨的數位感。畫面感覺危險且真實，就像一位戰地記者被綁在這隻生物身上一樣。
+龍騎士第一人稱視角（POV），15秒，未經調色的原始電影膠卷質感。
+龍向前猛衝並俯衝向燃燒的艦隊，騎士的手緊緊抓著佈滿傷痕的龍皮，風雨猛烈地拍打著攝影機鏡頭，隨著俯衝角度變陡，海洋和船隻迅速放大。龍張開大嘴，噴出巨大的火焰吞噬了下方的軍艦，船桅折斷並爆炸成燃燒的碎片，從鏡頭前飛過。龍猛地穿過黑煙與殘骸之牆向上拉升，能見度降至幾乎為零，灰燼與燃燒的木塊在鏡頭前翻滾。穿過煙霧後，第二條龍直接出現在前方並尖叫著衝向鏡頭，騎士的龍進行桶滾動作以閃避，整個畫面旋轉，先是海洋，接著是天空，然後又是海洋，騎士的手幾乎抓不住濕滑的龍皮。從翻滾中恢復後，龍在暴雨中急速爬升，翅膀用力拍打，水珠從翼膜上流下，並衝破雲層，在風暴上方短暫地進入冷冽的灰色光線中，隨後又俯衝回下方的混亂之中。
+持續的手持攝影機感，快速移動時帶有強烈的動態模糊，全程鏡頭上有雨水，濃煙不時遮蔽視線，色調柔和且飽和度低，帶有膠卷顆粒感，沒有乾淨的數位影像感。畫面感覺危險且真實，就像是一名戰地記者被綁在這隻生物身上拍攝一樣。
 ```
 
 **作者** [Atul Khola 💊](https://x.com/pixelandpump) (@pixelandpump) · 6.8K 追蹤者
@@ -3473,19 +3455,19 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 58. 無限想像的時代
+### 58. 無限想像力的時代
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="無限想像的時代"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022996066472513856_0_poster.jpg" width="480" alt="無限想像力的時代"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-既然擁有創造全新世界的力量與自由，又何必追隨好萊塢？這是一個無限想像的新時代。
+既然擁有創造全新世界的力量與自由，何必追隨好萊塢？這是一個無限想像力的新時代。
 ```
 
 **作者** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K 追蹤者
@@ -3498,19 +3480,20 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 59. 懸崖城市中的高速飛車追逐
+### 59. 懸崖之城的高速飛車追逐
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="懸崖城市中的高速飛車追逐"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022593118055334090_0_poster.jpg" width="480" alt="懸崖之城的高速飛車追逐"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-懸崖城市中的飛車追逐（單一連續鏡頭）從一座刻在岩石上的宏偉懸崖城市開始，攝影機俯衝向一條沿著狹窄岩架路面飛馳的微小光束。鎖定：一輛以極高速度緊貼牆壁的飛車。攝影機向前彈射、甩回，然後緊貼後方推進器：熱浪、從岩架上崩落的碎石、閃爍的警示燈。一個崩塌的陽台落下碎片；騎手在墜落的拱門下進行最後一刻的轉向，然後在一個流暢的線條中穿過懸掛的衣物線和敞開的窗戶。攝影機穿過相同的開口，緊貼著動作。最後一個彎道後突然平靜：攝影機向外衝出，展現出城市通向無邊無際的瀑布山谷，霧氣轉化為彩虹。
+懸崖之城的飛車追逐（單鏡頭連續拍攝）
+從一座雕刻在岩石上的宏偉懸崖城市開始，鏡頭俯衝向一條在狹窄岩架道路上疾馳的微小光影。鎖定目標：一輛以驚人速度緊貼牆壁飛行的飛車。鏡頭向前彈射、回旋，然後緊貼後方推進器：熱浪翻滾、岩架碎石飛濺、警示燈閃爍。一座坍塌的陽台落下碎片；騎手在最後時刻閃避過墜落的拱門，隨後流暢地穿過懸掛的衣物和敞開的窗戶。鏡頭穿過同樣的開口，緊跟動作。最後一個轉彎後突然平靜：鏡頭向外爆裂，展現出城市通向廣闊瀑布山谷的景象，水霧化作彩虹。
 ```
 
 **作者** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K 追蹤者
@@ -3535,7 +3518,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 **📝 提示詞**
 
 ```
-魯夫與悟空在千陽號上進行一場史詩般的戰鬥場景。
+魯夫與悟空在千陽號上進行史詩般的戰鬥場景。
 ```
 
 **作者** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K 追蹤者
@@ -3548,25 +3531,19 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 ---
 
-### 61. SWAT 人質救援動作序列
+### 61. SWAT Hostage Rescue Action Sequence
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="SWAT 人質救援動作序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021509569831170072_0_poster.jpg" width="480" alt="SWAT Hostage Rescue Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
 **📝 提示詞**
 
 ```
-[鏡頭 1：正面威脅鏡頭] 中景鏡頭，一名身穿全套戰術裝備、戴著防毒面具與頭盔的 SWAT 特警。他將突擊步槍直接指向鏡頭（打破第四面牆）。他神情激動地大喊：「放開人質！馬上放下武器！」
-
-[鏡頭 2：威脅] 切換至中景鏡頭，兇手穿著髒污的背心，正勒住一名女性的脖子。他用手槍抵住她的頭。他滿頭大汗、神情狂亂，對著鏡頭外的特警尖叫：「退後！我會殺了她！我發誓我會這麼做！」
-
-[鏡頭 3：肩後視角解決] 攝影機位於 SWAT 特警右肩後方。我們在前景看到他的頭盔後部與步槍。在遠處（中景），兇手仍抓著女孩。兇手最後一次尖叫：「我要動手了！」隨後特警的步槍後座力一震，單發射擊擊中敵方頭部。兇手瞬間倒地。女孩站在原地，雖然震驚但平安無事。
-
-技術風格：高快門速度動作、寫實槍口閃光、手持攝影機晃動、24fps、英語對話。
+[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity: "LET THE HOSTAGE GO! DROP THE WEAPON NOW!" [Shot 2: The Threat] Cut to a medium shot of the killer in a dirty tank top, holding a woman in a chokehold. He has a pistol pressed to her head. He is sweating and manic, screaming at the off-screen officer: "STAY BACK! I'LL KILL HER! I SWEAR I'LL DO IT!" [Shot 3: Over-the-Shoulder Resolution] The camera is positioned directly behind the SWAT officer's right shoulder. We see the back of his helmet and his rifle in the foreground. In the distance (mid-ground), the killer is still visible holding the girl. The killer screams one last time: "I'M GONNA DO IT!" after The officer's rifle kicks back with a single sho and hit head enemy. The killer falls instantly. The girl is left standing, shocked but safe. Technical Style: High-shutter speed action, realistic muzzle flashes, handheld camera shake, 24fps, English dialogue.
 ```
 
 **作者** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K 追蹤者
