@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-13 14:06:27.683 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-13 17:26:27.607 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 用一個迷因來總結 AI 討論——確保它夠白癡且能獲得 50 個讚。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K 追蹤者
 
 ❤️ 69.1K · 🔁 6.3K · 🔖 20.7K · 👁 14.8M
 
@@ -164,9 +164,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 魯夫在千陽號上用 Macbook 寫程式，暴怒，然後把它扔到船外。
 ```
 
-**作者** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K 追蹤者
+**作者** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.5K 追蹤者
 
-❤️ 19K · 🔁 1.3K · 🔖 6.8K · 👁 7.2M
+❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -189,9 +189,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 超寫實體育賽事轉播靜態畫面，一位迷人的女性坐在夜間足球賽擁擠的觀眾席中，身穿深棕色無袖高領緞面背心，佩戴黑色方形耳環，留著及肩淺棕色/金色波浪捲髮。她正隨意地喝著一罐高大的藍色鋁罐飲料，另一隻手拿著吃了一半的起司漢堡。周圍是穿著亮黃色和藍色足球球衣與圍巾的球迷，形成了強烈的球隊色彩對比。場景感覺自然且具有電影感，以電視轉播攝影機角度拍攝，具有淺景深效果。包含寫實的體育場座位、擁擠的觀眾氛圍，左上角有顯示即時足球比分和比賽計時器的轉播疊加圖形，右上角有體育頻道浮水印。自然競技場燈光，細膩的皮膚紋理，焦點清晰地對準該女性，背景人群略微模糊，真實的現場體育轉播美學，16:9 構圖。
 ```
 
-**作者** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K 追蹤者
+**作者** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.7K 追蹤者
 
-❤️ 10.5K · 🔁 982 · 🔖 8.8K · 👁 2.6M
+❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
 <sub>📅 May 12, 2026</sub>
 
@@ -201,7 +201,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 4. Punch the Monkey 的反擊
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 的反擊"></a>
@@ -214,9 +214,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Punch the Monkey 進行反擊。讓女孩們感到驕傲。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K 追蹤者
 
-❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -239,7 +239,7 @@ Punch the Monkey 進行反擊。讓女孩們感到驕傲。
 AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K 追蹤者
 
 ❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.8K
 
@@ -359,9 +359,9 @@ P17：低角度最後弧線；頭頂掃描變為毀滅性的白色閃光，擦�
 P18：綠色日間回歸；葉子復甦，鳥兒回歸，無生物殘留，C1 放下法杖。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 551 · 🔁 54 · 🔖 387 · 👁 19.6K
+❤️ 552 · 🔁 55 · 🔖 388 · 👁 20.1K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -476,9 +476,9 @@ P20：搖臂廣角最終；當她握住插入的光劍柄時，蒼白的環在�
 6. 從生成的視頻中導出音頻，上傳到 suno 並生成音樂。使用 capcut 將它們組合起來。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 3.6K · 🔁 380 · 🔖 2.7K · 👁 236K
+❤️ 3.6K · 🔁 381 · 🔖 2.7K · 👁 238.9K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -525,7 +525,7 @@ P20：搖臂廣角最終；當她握住插入的光劍柄時，蒼白的環在�
 
 **作者** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 追蹤者
 
-❤️ 572 · 🔁 65 · 🔖 60 · 👁 51.7K
+❤️ 568 · 🔁 65 · 🔖 60 · 👁 51.8K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -631,9 +631,9 @@ P09：插入手機點擊，然後傾斜至窗戶，當房間引爆時，伴隨�
 P10：最終街道廣角保持：煙霧從上方湧出，當 Karma 進入夜間陰霾並消失時。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 774 · 🔁 80 · 🔖 715 · 👁 32.3K
+❤️ 776 · 🔁 80 · 🔖 722 · 👁 32.9K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -796,7 +796,7 @@ Sharon 大笑：
 
 **作者** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 追蹤者
 
-❤️ 733 · 🔁 76 · 🔖 156 · 👁 54.1K
+❤️ 731 · 🔁 76 · 🔖 159 · 👁 54.3K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -907,9 +907,9 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 你可以在下方找到提示詞。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 751 · 🔁 91 · 🔖 639 · 👁 31.8K
+❤️ 753 · 🔁 91 · 🔖 642 · 👁 32K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -1397,9 +1397,9 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 場景3：阿努比斯慢慢恢復了鎮定，對著人類咧嘴一笑，帶著一絲頑皮的笑容說：「哦，你真狠心。」然後，阿努比斯摟住人類的肩膀，將他擁入懷中。阿努比斯將頭湊近人類，說道：「但如果你撓我，我就不介意了。」人類咧嘴一笑，緊張地輕笑。
 ```
 
-**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 追蹤者
+**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K 追蹤者
 
-❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+❤️ 1.1K · 🔁 63 · 🔖 402 · 👁 44.6K
 
 <sub>📅 May 23, 2026</sub>
 
@@ -1788,9 +1788,9 @@ Jūran 冷靜。
 音效：球拍擊球聲，球落地聲，呼吸聲
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 追蹤者
 
-❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.2K
+❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.4K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -2005,9 +2005,9 @@ Jūran 冷靜。
 結尾鏡頭。中特寫，50mm，緩慢推鏡後穩定定格 / 完成最後動作後，少年緩緩停下，灰塵、衣角與竹葉自然落下，木人樁輕微搖晃，緩緩抬眼看向鏡頭，單手保持詠春起手式，穩穩站在庭院中央 / SFX: 一聲深沉悶響後，恢復自然的環境風聲
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 追蹤者
 
-❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 161.7K
+❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 162.2K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2091,9 +2091,9 @@ Jūran 冷靜。
 音樂的最後節奏點，細微的快門定格聲，持續的觀眾掌聲。
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 追蹤者
 
-❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.6K
+❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.7K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2224,9 +2224,9 @@ Jūran 冷靜。
 流動：紮根站姿與精準打擊時受限，空中動作、旋轉布料與元素釋放時自由
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.9K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.1K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2249,9 +2249,9 @@ Jūran 冷靜。
 高畫質、寫實的轉播鏡頭，拍攝一名年輕女子在 Real Madrid 對陣 Barcelona 的比賽期間坐在擁擠的足球場內。她留著一頭長直黑髮，皮膚白皙帶有淡淡雀斑，擁有一雙迷人的藍色眼睛和貓眼眼線。她身穿白色 Real Madrid 主場球衣。場景捕捉到她若有所思地坐著，手托著下巴，不時環顧四周並將頭髮撥到耳後。電影級燈光，淺景深效果，背景中的人群模糊處理。在右上角，一個寫實的體育記分牌顯示「64:30 RMA 2-1 BAR」，並帶有「bein SPORTS 1 LIVE」標誌。影片具有專業電視攝影機轉播的輕微顆粒感和動態感。
 ```
 
-**作者** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K 追蹤者
+**作者** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.4K 追蹤者
 
-❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 716.9K
+❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 717.7K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2499,9 +2499,9 @@ Jūran 冷靜。
 保持視覺運動平靜且有目的，而不是躁動不安。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 1.1K · 🔁 165 · 🔖 1.4K · 👁 58.3K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.4K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2553,9 +2553,9 @@ SFX：破風聲、玻璃碎裂聲
 SFX：寂靜 → 崩潰尖叫
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 追蹤者
 
-❤️ 3.2K · 🔁 394 · 🔖 4.1K · 👁 302.5K
+❤️ 3.2K · 🔁 393 · 🔖 4.1K · 👁 302.7K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2585,9 +2585,9 @@ SFX：寂靜 → 崩潰尖叫
 第七幕：阿努比斯在事後忍不住輕笑了幾聲，隨即恢復了鎮定，說道他的顧問應該慶幸自己如此怕癢。 阿努比斯肌肉發達，手臂和脖子上都戴著環。他的聲音低沉沙啞。阿努比斯的腋窩被搔癢。對話為英文。
 ```
 
-**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K 追蹤者
+**作者** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K 追蹤者
 
-❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.7K
+❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.8K
 
 <sub>📅 Apr 28, 2026</sub>
 
@@ -2726,9 +2726,9 @@ SFX：寂靜 → 崩潰尖叫
 以自信的中景或全景結束，角色形象完全確立。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 2.1K · 🔁 273 · 🔖 3K · 👁 155.2K
+❤️ 2.2K · 🔁 273 · 🔖 3K · 👁 155.3K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2786,7 +2786,7 @@ SFX：寂靜 → 崩潰尖叫
 
 **作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K 追蹤者
 
-❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.8K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.1K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2974,7 +2974,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 
 **作者** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K 追蹤者
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.8K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.9K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3101,7 +3101,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 
 **作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
 
-❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.2K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -3219,9 +3219,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 0:12-0:15：切換至穩定 POV。突然完全靜止。廚師傾斜鍋子，將成品滑入瓷碗中——可見：均勻裹上醬汁的麵條、飽滿的蝦仁、油亮的青菜。他將碗舉起並直接呈現在攝影機前，直到填滿畫面。手指輕敲碗緣——產生細微震動。蒸氣迅速升起並擴散，直到完全覆蓋鏡頭，隨後乾淨地淡出。
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 追蹤者
 
-❤️ 3.2K · 🔁 245 · 🔖 2.2K · 👁 365.4K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.4K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3379,9 +3379,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 從後方拍攝的高速 FPV 無人機跟拍鏡頭，緊跟著一名白髮的 3D 動漫風格女孩，以極快的速度在陡峭蜿蜒的山路上滑板。強烈的前進動能、廣角透視、風吹效果。影片開始於充滿活力的夏季場景，有鬱鬱蔥蔥的綠色山脈、明亮的晴空、遠處的海洋，以及飛過鏡頭的褐色落葉。在第 3 秒時，一股魔法般的霜凍波浪從滑板前方掃過：環境無縫轉變為冰凍的冬季景觀。綠草瞬間變為深厚的白雪，大雪開始落下，遠處的山脈變成了白雪皚皚的頂峰。攝影機始終保持著激烈、流暢且連續的下坡跟拍動作。高強度動作、3D 動畫傑作、寫實光影。
 ```
 
-**作者** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K 追蹤者
+**作者** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.2K 追蹤者
 
-❤️ 1.8K · 🔁 198 · 🔖 665 · 👁 157.3K
+❤️ 1.8K · 🔁 198 · 🔖 664 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -3406,7 +3406,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 **作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 追蹤者
 
-❤️ 1.2K · 🔁 113 · 🔖 359 · 👁 108.2K
+❤️ 1.2K · 🔁 113 · 🔖 358 · 👁 108.3K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -3431,7 +3431,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 **作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 追蹤者
 
-❤️ 4.6K · 🔁 619 · 🔖 1K · 👁 285.6K
+❤️ 4.6K · 🔁 618 · 🔖 1K · 👁 285.6K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -3456,9 +3456,9 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 持續的手持攝影機感，快速移動時帶有強烈的動態模糊，全程鏡頭上有雨水，濃煙不時遮蔽視線，色調柔和且飽和度低，帶有膠卷顆粒感，沒有乾淨的數位影像感。畫面感覺危險且真實，就像是一名戰地記者被綁在這隻生物身上拍攝一樣。
 ```
 
-**作者** [Atul Khola 💊](https://x.com/pixelandpump) (@pixelandpump) · 6.8K 追蹤者
+**作者** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K 追蹤者
 
-❤️ 3.7K · 🔁 273 · 🔖 1.4K · 👁 471K
+❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -3483,7 +3483,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 **作者** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K 追蹤者
 
-❤️ 3.1K · 🔁 315 · 🔖 938 · 👁 198.3K
+❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3509,7 +3509,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 
 **作者** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K 追蹤者
 
-❤️ 2K · 🔁 178 · 🔖 960 · 👁 247.9K
+❤️ 2K · 🔁 178 · 🔖 958 · 👁 247.9K
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -3582,9 +3582,9 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 泰勒·德頓向《咒術迴戰》角色解釋鬥陣俱樂部規則。真人電影風格。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K 追蹤者
 
-❤️ 2.5K · 🔁 188 · 🔖 806 · 👁 189K
+❤️ 2.5K · 🔁 188 · 🔖 802 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 

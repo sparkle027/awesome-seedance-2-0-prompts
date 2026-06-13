@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Curated prompts | 📚 Total prompts | 🎬 Model | 🔄 Last updated |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-13 14:06:27.683 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-13 17:26:27.607 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K followers
 
 ❤️ 69.1K · 🔁 6.3K · 🔖 20.7K · 👁 14.8M
 
@@ -164,9 +164,9 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
-**By** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.4K followers
+**By** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 49.5K followers
 
-❤️ 19K · 🔁 1.3K · 🔖 6.8K · 👁 7.2M
+❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -189,9 +189,9 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans in bright yellow and blue football jerseys and scarves, creating strong team-color contrast. The scene feels candid and cinematic, captured mid-game from a TV broadcast camera angle with shallow depth of field. Include realistic stadium seating, crowded audience atmosphere, broadcast overlay graphics in the top-left corner showing a live football score and match timer, and a sports network watermark in the top-right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
 ```
 
-**By** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.6K followers
+**By** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.7K followers
 
-❤️ 10.5K · 🔁 982 · 🔖 8.8K · 👁 2.6M
+❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
 <sub>📅 May 12, 2026</sub>
 
@@ -201,7 +201,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 ### 4. Punch the Monkey's Retaliation
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.9K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey's Retaliation"></a>
@@ -214,9 +214,9 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 Punch the Monkey punches back. Make the girls proud.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K followers
 
-❤️ 13.9K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -239,7 +239,7 @@ Punch the Monkey punches back. Make the girls proud.
 AI goes woke. Make it really offensive - like really offensive.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.7K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 82.9K followers
 
 ❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.8K
 
@@ -359,9 +359,9 @@ P17: Low final arc; overhead sweep becomes a destroying white flash, erasing eve
 P18: Green daylight returns; leaves revive, birds return, no creatures remain, C1 lowers the staff.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 551 · 🔁 54 · 🔖 387 · 👁 19.6K
+❤️ 552 · 🔁 55 · 🔖 388 · 👁 20.1K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -476,9 +476,9 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 6. Exported the audio from generated video, uploaded it to suno and generated music with it. Used capcut to combine them.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 3.6K · 🔁 380 · 🔖 2.7K · 👁 236K
+❤️ 3.6K · 🔁 381 · 🔖 2.7K · 👁 238.9K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -525,7 +525,7 @@ Style: Realistic vertical livestream / mukbang vlog, slight natural camera shake
 
 **By** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K followers
 
-❤️ 572 · 🔁 65 · 🔖 60 · 👁 51.7K
+❤️ 568 · 🔁 65 · 🔖 60 · 👁 51.8K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -631,9 +631,9 @@ P09: Insert phone tap, then tilt to the window as the room detonates with orange
 P10: Final wide street hold: smoke pours from above while Karma moves into night haze and disappears.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 774 · 🔁 80 · 🔖 715 · 👁 32.3K
+❤️ 776 · 🔁 80 · 🔖 722 · 👁 32.9K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -798,7 +798,7 @@ High-end brand commercial quality.
 
 **By** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K followers
 
-❤️ 733 · 🔁 76 · 🔖 156 · 👁 54.1K
+❤️ 731 · 🔁 76 · 🔖 159 · 👁 54.3K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -909,9 +909,9 @@ Final style: stylized fantasy, sculpted anime-fantasy character faithful to the 
 You can find the prompts below.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 751 · 🔁 91 · 🔖 639 · 👁 31.8K
+❤️ 753 · 🔁 91 · 🔖 642 · 👁 32K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -1399,9 +1399,9 @@ Scene 2: The human continues to tickle Anubis's armpits, and this time Anubis la
 Scene 3: Anubis slowly regains his composure, grins at the human, and says with a playful smile, "Oh, you are cruel." Then, Anubis puts his arm around the human's shoulder and pulls him into an embrace. Anubis leans his head close to the human and says, "But if you tickle me, I don't mind." The human grins and lets out a nervous chuckle.
 ```
 
-**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K followers
+**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K followers
 
-❤️ 1.1K · 🔁 63 · 🔖 399 · 👁 44.5K
+❤️ 1.1K · 🔁 63 · 🔖 402 · 👁 44.6K
 
 <sub>📅 May 23, 2026</sub>
 
@@ -1793,9 +1793,9 @@ Character A delivers the final finishing shot, with the tennis ball flying at hi
 SFX: Racket hit sound, ball landing sound, breathing sound
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K followers
 
-❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.2K
+❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.4K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -2010,9 +2010,9 @@ SHOT 7:
 Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After completing the final movement, the boy slowly stops, dust, clothing corners, and bamboo leaves naturally settling back down, the wooden dummy lightly swaying, slowly raising his eyes toward the camera, one hand maintaining a Wing Chun starting stance, standing steadily at the center of the courtyard / SFX: one deep muffled impact followed by the return of natural ambient wind sounds
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K followers
 
-❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 161.7K
+❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 162.2K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2096,9 +2096,9 @@ SFX:
 Final rhythmic beat of the music, subtle shutter freeze sound, continuing audience applause.
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K followers
 
-❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.6K
+❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.7K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2229,9 +2229,9 @@ space: direct during attacks, blocks and lunges, indirect during spinning turns 
 flow: bound during rooted stances and precise strikes, free during aerial motion, spinning fabric movement and elemental release
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 1.2K · 🔁 147 · 🔖 1.1K · 👁 81.9K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.1K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2254,9 +2254,9 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with cat-eye eyeliner. She is wearing a white Real Madrid home jersey. The scene captures her sitting pensively with her hand on her chin, occasionally looking around and tucking her hair behind her ear. Cinematic lighting, shallow depth of field with the crowd blurred in the background. In the top corner, a realistic sports scoreboard displays '64:30 RMA 2-1 BAR' with a 'bein SPORTS 1 LIVE' logo. The video has the slight grain and motion of a professional TV camera broadcast."
 ```
 
-**By** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.3K followers
+**By** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.4K followers
 
-❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 716.9K
+❤️ 4.6K · 🔁 399 · 🔖 4.2K · 👁 717.7K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2490,9 +2490,9 @@ Prioritize readability, screen direction, and continuity of action across beats.
 Keep visual motion calm and intentional rather than restless.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 1.1K · 🔁 165 · 🔖 1.4K · 👁 58.3K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.4K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2544,9 +2544,9 @@ Wide static shot. The chef’s hands are empty, turns to see the entire countert
 SFX: silence → breakdown scream
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K followers
 
-❤️ 3.2K · 🔁 394 · 🔖 4.1K · 👁 302.5K
+❤️ 3.2K · 🔁 393 · 🔖 4.1K · 👁 302.7K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2577,9 +2577,9 @@ Scene 7: Anubis cannot help but chuckle a few times afterward, then regains his 
 Anubis is muscular, wearing rings on his arms and neck. His voice is deep and raspy. Anubis's armpits are being tickled. Dialogue is in English.
 ```
 
-**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.9K followers
+**By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K followers
 
-❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.7K
+❤️ 4.2K · 🔁 290 · 🔖 1.9K · 👁 143.8K
 
 <sub>📅 Apr 28, 2026</sub>
 
@@ -2718,9 +2718,9 @@ cinematic and consistent
 End on a confident mid or full shot, character fully established.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 2.1K · 🔁 273 · 🔖 3K · 👁 155.2K
+❤️ 2.2K · 🔁 273 · 🔖 3K · 👁 155.3K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2778,7 +2778,7 @@ There should be no dialogue, text, or narration.
 
 **By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K followers
 
-❤️ 3.1K · 🔁 431 · 🔖 4.1K · 👁 346.8K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.1K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2966,7 +2966,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 **By** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K followers
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.8K
+❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 148.9K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3093,7 +3093,7 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 
 **By** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K followers
 
-❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.1K
+❤️ 1.3K · 🔁 111 · 🔖 469 · 👁 266.2K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -3211,9 +3211,9 @@ TIMELINE:
 0:12-0:15: Cut to stabilized POV. Sudden full stop. The chef tilts the wok and slides the finished dish into the porcelain bowl—visible: evenly coated noodles, plump shrimp, glossy greens. He lifts and presents the bowl directly toward the camera until it fills the frame. A finger taps the rim—subtle vibration. Steam rises rapidly, expanding until it fully covers the lens for a clean fade-out.
 ```
 
-**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.5K followers
+**By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K followers
 
-❤️ 3.2K · 🔁 245 · 🔖 2.2K · 👁 365.4K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.4K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3371,9 +3371,9 @@ photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosp
 Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect. The video starts in a vibrant summer setting with lush green mountains, a bright sunny sky, a distant ocean, and brown leaves flying past the camera. At the 3-second mark, a magical wave of frost sweeps forward from the skateboard: the environment seamlessly transforms into a freezing winter landscape. The green grass instantly turns to deep white snow, heavy snowflakes start falling, and the distant mountains become snow-capped peaks. The camera never breaks the intense, smooth, continuous downhill tracking motion. High-octane action, masterpiece 3D animation, photorealistic lighting.
 ```
 
-**By** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.1K followers
+**By** [Lex ✓](https://x.com/lexx_aura) (@lexx_aura) · 17.2K followers
 
-❤️ 1.8K · 🔁 198 · 🔖 665 · 👁 157.3K
+❤️ 1.8K · 🔁 198 · 🔖 664 · 👁 157.3K
 
 <sub>📅 Mar 1, 2026</sub>
 
@@ -3398,7 +3398,7 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 **By** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K followers
 
-❤️ 1.2K · 🔁 113 · 🔖 359 · 👁 108.2K
+❤️ 1.2K · 🔁 113 · 🔖 358 · 👁 108.3K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -3423,7 +3423,7 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 **By** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K followers
 
-❤️ 4.6K · 🔁 619 · 🔖 1K · 👁 285.6K
+❤️ 4.6K · 🔁 618 · 🔖 1K · 👁 285.6K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -3448,9 +3448,9 @@ The dragon lurches forward and nosedives toward the burning fleet, the rider's h
 Continuous handheld camera feel, heavy motion blur on fast movements, rain on the lens throughout, thick smoke obscuring visibility at times, muted desaturated color palette, film grain, no clean digital look. The footage feels dangerous and real, like a war correspondent strapped to this creature.
 ```
 
-**By** [Atul Khola 💊](https://x.com/pixelandpump) (@pixelandpump) · 6.8K followers
+**By** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K followers
 
-❤️ 3.7K · 🔁 273 · 🔖 1.4K · 👁 471K
+❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -3475,7 +3475,7 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 **By** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K followers
 
-❤️ 3.1K · 🔁 315 · 🔖 938 · 👁 198.3K
+❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3500,7 +3500,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 **By** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K followers
 
-❤️ 2K · 🔁 178 · 🔖 960 · 👁 247.9K
+❤️ 2K · 🔁 178 · 🔖 958 · 👁 247.9K
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -3573,9 +3573,9 @@ Luffy and Goku having an epic fight scene on the sunny.
 tyler durden explains fight club rules to jujutsu kaisen characters. live action style.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18.7K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.1K followers
 
-❤️ 2.5K · 🔁 188 · 🔖 806 · 👁 189K
+❤️ 2.5K · 🔁 188 · 🔖 802 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 
