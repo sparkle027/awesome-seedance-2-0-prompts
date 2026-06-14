@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 
 ### 6. Nox Lumos Poi 森林儀式
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi 森林儀式"></a>
@@ -371,7 +371,7 @@ P18：綠色日間回歸；葉子復甦，鳥兒回歸，無生物殘留，C1 �
 
 ### 7. 森林光劍流星錘儀式分鏡
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="森林光劍流星錘儀式分鏡"></a>
@@ -535,7 +535,7 @@ P20：搖臂廣角最終；當她握住插入的光劍柄時，蒼白的環在�
 
 ### 9. Karma 逃脫網路動作序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃脫網路動作序列"></a>
@@ -687,7 +687,7 @@ P10：最終街道廣角保持：煙霧從上方湧出，當 Karma 進入夜間�
 
 ### 11. Fanta 夏季廣告活動
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Fanta 夏季廣告活動"></a>
@@ -806,7 +806,7 @@ Sharon 大笑：
 
 ### 12. 夢魘覺醒：時間墜落電影序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="夢魘覺醒：時間墜落電影序列"></a>
@@ -1030,7 +1030,7 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 
 ### 16. Felicita 森林追逐跑酷序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita 森林追逐跑酷序列"></a>
@@ -1295,7 +1295,7 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 
 ### 19. 深海漁夫紀錄片電影感
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="深海漁夫紀錄片電影感"></a>
@@ -1376,12 +1376,12 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 
 ---
 
-### 21. 場景接續[video1]結尾，沿用相同的畫面設計和旁白，描繪阿努比斯和人類的互動。 場景1：人類繼續用手指撓阿努比斯的腋窩，阿努比斯先是發…
+### 21. 阿努比斯與人類的互動場景
 
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="場景接續[video1]結尾，沿用相同的畫面設計和旁白，描繪阿努比斯和人類的互動。 場景1：人類繼續用手指撓阿努比斯的腋窩，阿努比斯先是發…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="阿努比斯與人類的互動場景"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -1464,7 +1464,7 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 
 ### 23. 高速度動漫武術訓練分鏡腳本
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速度動漫武術訓練分鏡腳本"></a>
@@ -1839,7 +1839,7 @@ Jūran 冷靜。
 
 ### 26. 電影級功夫表演分鏡腳本
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="電影級功夫表演分鏡腳本"></a>
@@ -2103,7 +2103,7 @@ Jūran 冷靜。
 
 ### 29. Cinematic Kung Fu Performance Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
@@ -2419,7 +2419,7 @@ Jūran 冷靜。
 
 ### 35. 雲端滑板救援分鏡腳本
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="雲端滑板救援分鏡腳本"></a>
@@ -2597,7 +2597,7 @@ SFX：寂靜 → 崩潰尖叫
 
 ### 38. 電影級角色介紹與參考表
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="電影級角色介紹與參考表"></a>
@@ -2738,7 +2738,7 @@ SFX：寂靜 → 崩潰尖叫
 
 ### 39. 3D 角色動作參考表
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D 角色動作參考表"></a>

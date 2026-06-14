@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ AI变得政治正确（woke）了。把它做得非常有攻击性——真的�
 
 ### 6. Nox Lumos Poi 森林仪式
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi 森林仪式"></a>
@@ -371,7 +371,7 @@ P18：绿色日光返回；树叶复苏，鸟儿返回，没有生物留下，C1
 
 ### 7. 森林光剑流星锤仪式分镜
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="森林光剑流星锤仪式分镜"></a>
@@ -535,7 +535,7 @@ P20：摇臂广角最终；当她握住插入的光剑柄时，苍白的环在�
 
 ### 9. Karma 逃脱网络动作序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃脱网络动作序列"></a>
@@ -687,7 +687,7 @@ P10：最终街道广角保持：烟雾从上方涌出，当 Karma 进入夜间�
 
 ### 11. 芬达夏季广告宣传片
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="芬达夏季广告宣传片"></a>
@@ -806,7 +806,7 @@ Sharon 大笑：
 
 ### 12. 梦魇觉醒：时间坠落电影序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="梦魇觉醒：时间坠落电影序列"></a>
@@ -1030,7 +1030,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ### 16. Felicita 森林追逐跑酷序列
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita 森林追逐跑酷序列"></a>
@@ -1295,7 +1295,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ### 19. 深海渔夫纪录片电影感
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="深海渔夫纪录片电影感"></a>
@@ -1386,12 +1386,12 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 21. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…
+### 21. 阿努比斯与人类的互动场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="阿努比斯与人类的互动场景"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
 </div>
 
@@ -1474,7 +1474,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ### 23. 高速动漫武术训练分镜
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速动漫武术训练分镜"></a>
@@ -1849,7 +1849,7 @@ Jūran 冷静。
 
 ### 26. 电影级功夫表演分镜
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="电影级功夫表演分镜"></a>
@@ -2113,7 +2113,7 @@ Jūran 冷静。
 
 ### 29. 电影级功夫表演分镜脚本
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="电影级功夫表演分镜脚本"></a>
@@ -2430,7 +2430,7 @@ Jūran 冷静。
 
 ### 35. 云端滑板救援分镜脚本
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="云端滑板救援分镜脚本"></a>
@@ -2608,7 +2608,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ### 38. 电影级角色介绍与参考表
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="电影级角色介绍与参考表"></a>
@@ -2749,7 +2749,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ### 39. 3D角色动作参考表
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D角色动作参考表"></a>

@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts curados | 📚 Total prompts | 🎬 Modelo | 🔄 Última atualização |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ IA torna-se woke. Torne isso realmente ofensivo - tipo, muito ofensivo mesmo.
 
 ### 6. Ritual da Floresta Nox Lumos Poi
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Ritual da Floresta Nox Lumos Poi"></a>
@@ -371,7 +371,7 @@ P18: Luz do dia verde retorna; folhas revivem, pássaros retornam, nenhuma criat
 
 ### 7. Forest Saber Poi Ritual Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Forest Saber Poi Ritual Storyboard"></a>
@@ -535,7 +535,7 @@ Estilo: Transmissão ao vivo vertical realista / vlog de mukbang, leve tremor na
 
 ### 9. Sequência de Cyber-Ação: Fuga de Karma
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Sequência de Cyber-Ação: Fuga de Karma"></a>
@@ -687,7 +687,7 @@ QUADRO FINAL: Revelação elegante do logotipo. Brilho suave. Fade-out orquestra
 
 ### 11. Comercial da Campanha de Verão da Fanta
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Comercial da Campanha de Verão da Fanta"></a>
@@ -806,7 +806,7 @@ Qualidade de comercial de marca de alto nível.
 
 ### 12. Despertar do Pesadelo: Sequência Cinematográfica de Queda no Tempo
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Despertar do Pesadelo: Sequência Cinematográfica de Queda no Tempo"></a>
@@ -1030,7 +1030,7 @@ A linha vermelha desenhada não deve aparecer no vídeo; é apenas uma referênc
 
 ### 16. Sequência de Parkour na Floresta de Felicita
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Sequência de Parkour na Floresta de Felicita"></a>
@@ -1295,7 +1295,7 @@ Envie DM para o prompt completo
 
 ### 19. Documentário Cinematográfico de Pescador de Alto Mar
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Documentário Cinematográfico de Pescador de Alto Mar"></a>
@@ -1376,25 +1376,25 @@ Estilo de animação 3D chinesa moderna. Cena 1: Em uma grande biblioteca egípc
 
 ---
 
-### 21. A cena continua a partir do final de [video1], mantendo o mesmo desig…
+### 21. Cena de interação entre Anúbis e um humano
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="A cena continua a partir do final de [video1], mantendo o mesmo desig…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Cena de interação entre Anúbis e um humano"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-A cena continua a partir do final de [video1], mantendo o mesmo design visual e narração, retratando a interação entre Anubis e o humano.
+A cena continua após o final de [video1], mantendo o mesmo design visual e narração, retratando a interação entre Anúbis e o humano.
 
-Cena 1: O humano continua a fazer cócegas nas axilas de Anubis com os dedos; Anubis primeiro solta uma risada abafada, mas logo cai na gargalhada por causa das cócegas.
+Cena 1: O humano continua a fazer cócegas nas axilas de Anúbis com os dedos; Anúbis primeiro solta uma risada abafada, mas logo começa a rir alto por causa das cócegas.
 
-Cena 2: O humano continua a fazer cócegas nas axilas de Anubis, e desta vez Anubis ri ainda mais alto. Então, Anubis abraça a si mesmo com os dois braços para proteger as axilas e impedir as cócegas. Enquanto se abraça, ele solta mais algumas risadas.
+Cena 2: O humano continua a fazer cócegas nas axilas de Anúbis, e desta vez Anúbis ri ainda mais alto. Em seguida, Anúbis cruza os braços sobre o peito para proteger as axilas e impedir as cócegas. Ele se abraça e solta mais algumas risadas.
 
-Cena 3: Anubis recupera lentamente a calma, sorri para o humano com um ar travesso e diz: "Oh, você é muito cruel". Em seguida, Anubis envolve os ombros do humano e o puxa para um abraço. Anubis aproxima a cabeça do humano e diz: "Mas se você me fizer cócegas, eu não me importo". O humano sorri e solta uma risadinha nervosa.
+Cena 3: Anúbis recupera a calma lentamente, abre um sorriso para o humano e, com um ar travesso, diz: "Oh, você é muito cruel". Então, Anúbis coloca o braço ao redor dos ombros do humano e o puxa para um abraço. Anúbis aproxima o rosto do humano e diz: "Mas se for você quem me faz cócegas, eu não me importo". O humano sorri e solta uma risadinha nervosa.
 ```
 
 **Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K seguidores
@@ -1464,7 +1464,7 @@ Cinema de ação coreano, cinematografia ultrarrealista, ação cinematográfica
 
 ### 23. Storyboard de Treino de Artes Marciais em Anime de Alta Velocidade
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Storyboard de Treino de Artes Marciais em Anime de Alta Velocidade"></a>
@@ -1839,7 +1839,7 @@ iluminação cinematográfica limpa
 
 ### 26. Storyboard de Performance Cinematográfica de Kung Fu
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Storyboard de Performance Cinematográfica de Kung Fu"></a>
@@ -2103,7 +2103,7 @@ Batida rítmica final da música, som sutil de obturador congelado, aplausos con
 
 ### 29. Storyboard de Performance Cinematográfica de Kung Fu
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Storyboard de Performance Cinematográfica de Kung Fu"></a>
@@ -2419,7 +2419,7 @@ Ele caminha até um fã e assina uma foto impressa que ela está segurando de (I
 
 ### 35. Storyboard de Resgate de Skate nas Nuvens
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Storyboard de Resgate de Skate nas Nuvens"></a>
@@ -2598,7 +2598,7 @@ Anúbis é musculoso e usa anéis nos braços e no pescoço. Sua voz é grave e 
 
 ### 38. Introdução Cinematográfica de Personagem e Folha de Referência
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Introdução Cinematográfica de Personagem e Folha de Referência"></a>
@@ -2739,7 +2739,7 @@ Termine com um plano médio ou geral confiante, com o personagem totalmente esta
 
 ### 39. Folha de Referência de Movimento de Personagem 3D
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="Folha de Referência de Movimento de Personagem 3D"></a>

@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ Yapay zeka woke oluyor. Bunu gerçekten saldırgan yap, yani gerçekten çok sal
 
 ### 6. Nox Lumos Poi Orman Ritüeli
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi Orman Ritüeli"></a>
@@ -371,7 +371,7 @@ P18: Yeşil gün ışığı geri döner; yapraklar canlanır, kuşlar geri döne
 
 ### 7. Orman Saber Poi Ritüeli Taslak Panosu
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Orman Saber Poi Ritüeli Taslak Panosu"></a>
@@ -535,7 +535,7 @@ Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsın
 
 ### 9. Karma Escape Cyber-Action Sequence
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
@@ -687,7 +687,7 @@ SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşç
 
 ### 11. Fanta Yaz Kampanyası Reklamı
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Fanta Yaz Kampanyası Reklamı"></a>
@@ -806,7 +806,7 @@ Altyazı yok.
 
 ### 12. Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı"></a>
@@ -1027,7 +1027,7 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, altın saa
 
 ### 16. Felicita Orman Takibi Parkur Sekansı
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Felicita Orman Takibi Parkur Sekansı"></a>
@@ -1292,7 +1292,7 @@ Tam istem için DM atın
 
 ### 19. Derin Deniz Balıkçısı Belgesel Sinematik
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Derin Deniz Balıkçısı Belgesel Sinematik"></a>
@@ -1372,25 +1372,25 @@ Modern Çin 3D animasyon tarzı. Sahne 1: Büyük bir Mısır kütüphanesinde, 
 
 ---
 
-### 21. Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasında…
+### 21. Anubis ve İnsan Etkileşimi Sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasında…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Anubis ve İnsan Etkileşimi Sahnesi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Sahne, [video1]'in sonundan devam ediyor ve Anubis ile insan arasındaki etkileşimi tasvir etmek için aynı görsel tasarımı ve anlatımı kullanıyor.
+Sahne [video1]'in sonundan devam eder, aynı görsel tasarımı ve dış sesi kullanarak Anubis ile insanın etkileşimini betimler.
 
-Sahne 1: İnsan, parmaklarıyla Anubis'in koltuk altlarını gıdıklamaya devam eder. Anubis önce boğuk bir kahkaha atar, ancak çok gıdıklandığı için kısa sürede kahkahalara boğulur.
+Sahne 1: İnsan, Anubis'i koltuk altlarından gıdıklamaya devam eder. Anubis önce boğuk bir kahkaha atar, ancak çok gıdıklandığı için kısa sürede kahkahalara boğulur.
 
-Sahne 2: İnsan, Anubis'in koltuk altlarını gıdıklamaya devam eder ve Anubis bu sefer daha yüksek sesle güler. Ardından Anubis, koltuk altlarını korumak ve gıdıklanmayı durdurmak için kollarını göğsünde kavuşturur. Kendine sarılır ve birkaç kez daha güler.
+Sahne 2: İnsan, Anubis'i koltuk altlarından gıdıklamaya devam eder ve Anubis bu sefer daha yüksek sesle güler. Ardından Anubis, koltuk altlarını korumak ve gıdıklanmayı durdurmak için kollarını kendine dolar. Kendine sarılır ve birkaç kıkırdama daha çıkarır.
 
-Sahne 3: Anubis yavaşça sakinleşir, insana sırıtır ve muzip bir gülümsemeyle şöyle der: "Oh, gerçekten çok acımasızsın." Sonra Anubis, insanın omzuna kolunu atar ve onu kucaklar. Anubis, insanın yanına eğilerek şöyle der: "Ama beni gıdıklarsan, buna aldırmam." İnsan sırıtır ve gergin bir şekilde kıkırdar.
+Sahne 3: Anubis yavaşça sakinleşir, insana doğru sırıtır ve muzip bir gülümsemeyle "Ah, çok acımasızsın" der. Sonra Anubis, insanın omzuna kolunu atar ve onu kucaklar. Anubis başını insana yaklaştırır ve "Ama beni gıdıklarsan buna aldırmam" der. İnsan sırıtır ve gergin bir şekilde kıkırdar.
 ```
 
 **Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K takipçi
@@ -1460,7 +1460,7 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 
 ### 23. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u"></a>
@@ -1835,7 +1835,7 @@ temiz sinematik aydınlatma
 
 ### 26. Sinematik Kung Fu Performansı Storyboard'u
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Sinematik Kung Fu Performansı Storyboard'u"></a>
@@ -2099,7 +2099,7 @@ Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci a
 
 ### 29. Sinematik Kung Fu Performansı Storyboard'u
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Sinematik Kung Fu Performansı Storyboard'u"></a>
@@ -2415,7 +2415,7 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) baskılı 
 
 ### 35. Bulut Kaykayı Kurtarma Storyboard'u
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Bulut Kaykayı Kurtarma Storyboard'u"></a>
@@ -2593,7 +2593,7 @@ Sahne 7: Anubis sonrasında birkaç kez kıkırdamaktan kendini alamıyor, ardı
 
 ### 38. Sinematik Karakter Tanıtımı ve Referans Sayfası
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Sinematik Karakter Tanıtımı ve Referans Sayfası"></a>
@@ -2734,7 +2734,7 @@ Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şeki
 
 ### 39. 3D Karakter Hareket Referans Sayfası
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D Karakter Hareket Referans Sayfası"></a>

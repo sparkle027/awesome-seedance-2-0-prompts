@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격
 
 ### 6. Nox Lumos Poi 숲의 의식
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi 숲의 의식"></a>
@@ -371,7 +371,7 @@ P18: 녹색 낮 복귀; 잎이 되살아나고, 새들이 돌아오고, 생명�
 
 ### 7. 숲속 세이버 포이 의식 스토리보드
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="숲속 세이버 포이 의식 스토리보드"></a>
@@ -535,7 +535,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 
 ### 9. 카르마 탈출 사이버 액션 시퀀스
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="카르마 탈출 사이버 액션 시퀀스"></a>
@@ -687,7 +687,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 ### 11. 환타 여름 캠페인 광고
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="환타 여름 캠페인 광고"></a>
@@ -806,7 +806,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 ### 12. 악몽의 각성: 타임-폴 시네마틱 시퀀스
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="악몽의 각성: 타임-폴 시네마틱 시퀀스"></a>
@@ -1030,7 +1030,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ### 16. 펠리치타 숲 추격 파쿠르 시퀀스
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="펠리치타 숲 추격 파쿠르 시퀀스"></a>
@@ -1295,7 +1295,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ### 19. 심해 어부 다큐멘터리 시네마틱
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="심해 어부 다큐멘터리 시네마틱"></a>
@@ -1376,25 +1376,25 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 21. [video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다. 장면 1:…
+### 21. 아누비스와 인간의 상호작용 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="[video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다. 장면 1:…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="아누비스와 인간의 상호작용 장면"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **📝 프롬프트**
 
 ```
-[video1]의 결말에 이어, 동일한 화면 디자인과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사한다.
+장면은 [video1]의 끝부분에서 이어지며, 동일한 화면 구성과 내레이션을 사용하여 아누비스와 인간의 상호작용을 묘사합니다.
 
-장면 1: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽힌다. 아누비스는 처음에는 억눌린 웃음소리를 내지만, 곧 너무 간지러워 크게 웃음을 터뜨린다.
+장면 1: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽히자, 아누비스는 처음에는 억눌린 웃음을 터뜨리다가 곧 너무 간지러운 나머지 크게 웃음을 터뜨립니다.
 
-장면 2: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽힌다. 아누비스는 이번에는 더 크게 웃는다. 그러고 나서 아누비스는 두 팔로 자신을 감싸 안아 겨드랑이를 보호하며 간지럼을 막는다. 그는 자신을 감싸 안은 채 몇 번 더 웃음소리를 낸다.
+장면 2: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽히자, 아누비스는 이번에는 더 크게 웃습니다. 그러고 나서 아누비스는 양팔로 자신의 몸을 감싸 겨드랑이를 보호하며 간지럼을 막습니다. 그는 몸을 감싼 채 몇 번 더 웃음을 터뜨립니다.
 
-장면 3: 아누비스는 천천히 진정하고 인간을 향해 씨익 웃으며 장난기 어린 미소를 띠고 "오, 너 정말 짓궂구나."라고 말한다. 그러고 나서 아누비스는 인간의 어깨를 감싸 안아 품에 안는다. 아누비스는 얼굴을 인간에게 가까이 대고 "하지만 네가 나를 간지럽히는 거라면, 괜찮아."라고 말한다. 인간은 씨익 웃으며 긴장한 듯 작게 웃는다.
+장면 3: 아누비스는 천천히 진정하고 인간을 향해 씨익 웃으며 장난기 섞인 미소로 "오, 정말 짓궂군."이라고 말합니다. 그러고 나서 아누비스는 인간의 어깨를 감싸 안으며 품으로 끌어당깁니다. 아누비스는 인간에게 얼굴을 가까이 대고 "하지만 네가 나를 간지럽히는 거라면, 괜찮아."라고 말합니다. 인간은 씨익 웃으며 긴장한 듯 가볍게 웃음을 터뜨립니다.
 ```
 
 **작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K 팔로워
@@ -1464,7 +1464,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ### 23. 고속 애니메이션 무술 훈련 스토리보드
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="고속 애니메이션 무술 훈련 스토리보드"></a>
@@ -1839,7 +1839,7 @@ Jūran은 차분함.
 
 ### 26. 영화적 쿵푸 퍼포먼스 스토리보드
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="영화적 쿵푸 퍼포먼스 스토리보드"></a>
@@ -2103,7 +2103,7 @@ VFX 스타일의 스토리보드 강조 요소로 선택적인 원소 에너지 
 
 ### 29. 시네마틱 쿵푸 퍼포먼스 스토리보드
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="시네마틱 쿵푸 퍼포먼스 스토리보드"></a>
@@ -2419,7 +2419,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ### 35. 구름 스케이트보드 구조 스토리보드
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="구름 스케이트보드 구조 스토리보드"></a>
@@ -2598,7 +2598,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 ### 38. 영화 같은 캐릭터 소개 및 참조 시트
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="영화 같은 캐릭터 소개 및 참조 시트"></a>
@@ -2739,7 +2739,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 ### 39. 3D 캐릭터 동작 참조 시트
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3D 캐릭터 동작 참조 시트"></a>

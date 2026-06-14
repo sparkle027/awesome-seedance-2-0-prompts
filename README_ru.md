@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Курируемых промптов | 📚 Total prompts | 🎬 Модель | 🔄 Последнее обновление |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 6. Ритуал в лесу Nox Lumos Poi
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Ритуал в лесу Nox Lumos Poi"></a>
@@ -371,7 +371,7 @@ P18: Возвращение зеленого дневного света; лис
 
 ### 7. Раскадровка ритуала с лесным световым мечом
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Раскадровка ритуала с лесным световым мечом"></a>
@@ -535,7 +535,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 ### 9. Кибер-экшен сцена: Побег Кармы
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Кибер-экшен сцена: Побег Кармы"></a>
@@ -687,7 +687,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ### 11. Рекламная кампания Fanta Summer
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="Рекламная кампания Fanta Summer"></a>
@@ -806,7 +806,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ### 12. Пробуждение от кошмара: Кинематографическая последовательность падени…
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="Пробуждение от кошмара: Кинематографическая последовательность падени…"></a>
@@ -1030,7 +1030,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ### 16. Паркур-погоня в лесу Феличита
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="Паркур-погоня в лесу Феличита"></a>
@@ -1295,7 +1295,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ### 19. Документальный фильм о глубоководных рыбаках
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="Документальный фильм о глубоководных рыбаках"></a>
@@ -1376,25 +1376,25 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 21. Сцена продолжает окончание [video1], используя тот же дизайн кадра и…
+### 21. Сцена взаимодействия Анубиса с человеком
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Сцена продолжает окончание [video1], используя тот же дизайн кадра и…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Сцена взаимодействия Анубиса с человеком"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
 
 ```
-Сцена продолжает окончание [video1], используя тот же дизайн кадра и закадровый голос, изображая взаимодействие Анубиса и человека.
+Сцена продолжает финал [video1], сохраняя тот же дизайн кадра и закадровый голос, изображая взаимодействие Анубиса и человека.
 
-Сцена 1: Человек продолжает щекотать Анубиса под мышками, Анубис сначала издает приглушенный смех, но вскоре начинает громко смеяться, потому что ему слишком щекотно.
+Сцена 1: Человек продолжает щекотать Анубиса под мышками. Анубис сначала издает приглушенный смех, но вскоре начинает громко смеяться, так как ему очень щекотно.
 
-Сцена 2: Человек продолжает щекотать Анубиса под мышками, на этот раз Анубис смеется еще громче. Затем Анубис обхватывает себя руками, защищая подмышки и предотвращая щекотку. Он обнимает себя и снова издает несколько смешков.
+Сцена 2: Человек продолжает щекотать Анубиса под мышками, и в этот раз Анубис смеется еще громче. Затем Анубис обхватывает себя руками, защищая подмышки и пытаясь остановить щекотку. Он обнимает себя и издает еще несколько смешков.
 
-Сцена 3: Анубис медленно успокаивается, ухмыляется человеку и с озорной улыбкой говорит: «О, ты такой жестокий». Затем Анубис обнимает человека за плечи и притягивает его к себе. Анубис приближает голову к человеку и говорит: «Но если ты щекочешь меня, я не против». Человек ухмыляется и нервно хихикает.
+Сцена 3: Анубис постепенно успокаивается, ухмыляется человеку и с озорной улыбкой говорит: «О, ты такой жестокий». Затем Анубис обнимает человека за плечи и притягивает к себе. Анубис наклоняется к человеку и говорит: «Но если ты щекочешь меня, я не против». Человек ухмыляется и нервно хихикает.
 ```
 
 **Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K подписчиков
@@ -1464,7 +1464,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ### 23. Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…"></a>
@@ -1839,7 +1839,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ### 26. Раскадровка кинематографического выступления в стиле кунг-фу
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Раскадровка кинематографического выступления в стиле кунг-фу"></a>
@@ -2103,7 +2103,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ### 29. Cinematic Kung Fu Performance Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
@@ -2420,7 +2420,7 @@ Style:
 
 ### 35. Раскадровка спасения на облачном скейтборде
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="Раскадровка спасения на облачном скейтборде"></a>
@@ -2607,7 +2607,7 @@ SFX: тишина → крик отчаяния
 
 ### 38. Кинематографическое представление персонажа и справочный лист
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Кинематографическое представление персонажа и справочный лист"></a>
@@ -2748,7 +2748,7 @@ SFX: тишина → крик отчаяния
 
 ### 39. Справочный лист движений 3D-персонажа
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="Справочный лист движений 3D-персонажа"></a>

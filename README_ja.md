@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 厳選プロンプト数 | 📚 Total prompts | 🎬 モデル | 🔄 最終更新日 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 04:23:17.914 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-14 10:50:46.897 UTC** |
 
 </div>
 
@@ -255,7 +255,7 @@ AIがウォーク（woke）化する。本当に攻撃的で、非常に不快�
 
 ### 6. Nox Lumos Poi 森の儀式
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063228580604047806_0_poster.jpg" width="480" alt="Nox Lumos Poi 森の儀式"></a>
@@ -371,7 +371,7 @@ P18: 緑の昼光が戻る。葉が蘇り、鳥が戻り、生物は残らず、
 
 ### 7. Forest Saber Poi Ritual Storyboard
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062516255941095583_0_poster.jpg" width="480" alt="Forest Saber Poi Ritual Storyboard"></a>
@@ -535,7 +535,7 @@ P20：クレーンワイドファイナル。彼女が突き刺したヒルト�
 
 ### 9. Karma Escape Cyber-Action Sequence
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
@@ -687,7 +687,7 @@ P10: 通りでの最終ワイドホールド: 上から煙が立ち上り、Karm
 
 ### 11. ファンタ・サマーキャンペーンCM
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061754278419771420_0_poster.jpg" width="480" alt="ファンタ・サマーキャンペーンCM"></a>
@@ -806,7 +806,7 @@ P10: 通りでの最終ワイドホールド: 上から煙が立ち上り、Karm
 
 ### 12. 悪夢の目覚め：タイムフォール・シネマティック・シーケンス
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061541946422669535_0_poster.jpg" width="480" alt="悪夢の目覚め：タイムフォール・シネマティック・シーケンス"></a>
@@ -1030,7 +1030,7 @@ C1が、目覚めて「FATHER」と言う月明かりのゴシック調の城の
 
 ### 16. フェリシータ・フォレスト・チェイス パルクール・シークエンス
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060663168922243476_0_poster.jpg" width="480" alt="フェリシータ・フォレスト・チェイス パルクール・シークエンス"></a>
@@ -1295,7 +1295,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 
 ### 19. 深海漁師のドキュメンタリー・シネマティック
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059112475401060744_0_poster.jpg" width="480" alt="深海漁師のドキュメンタリー・シネマティック"></a>
@@ -1376,25 +1376,25 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 
 ---
 
-### 21. [video1]の結末に続き、同じ画面デザインとナレーションを使用して、アヌビスと人間の交流を描く。 シーン1：人間が引き続き指でアヌビス…
+### 21. アヌビスと人間の交流シーン
 
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="[video1]の結末に続き、同じ画面デザインとナレーションを使用して、アヌビスと人間の交流を描く。 シーン1：人間が引き続き指でアヌビス…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="アヌビスと人間の交流シーン"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
 **📝 プロンプト**
 
 ```
-[video1]の結末に続き、同じ画面デザインとナレーションを使用して、アヌビスと人間の交流を描く。
+[video1]の結末から続くシーンで、同じ画面デザインとナレーションを使用し、アヌビスと人間の交流を描写します。
 
-シーン1：人間が引き続き指でアヌビスの脇の下をくすぐる。アヌビスは最初はくぐもった笑い声を上げるが、すぐにくすぐったさのあまり大声で笑い出す。
+シーン1：人間が引き続き指でアヌビスの脇の下をくすぐります。アヌビスは最初はこもったような笑い声を上げますが、あまりのくすぐったさにすぐに大声で笑い出します。
 
-シーン2：人間が引き続き指でアヌビスの脇の下をくすぐる。アヌビスは今度はさらに大きな声で笑う。その後、アヌビスは両腕で自分を抱きしめ、脇の下をガードしてくすぐりを阻止する。彼は自分を抱きしめたまま、さらに何度か笑い声を上げる。
+シーン2：人間が引き続きアヌビスの脇の下をくすぐると、アヌビスはさらに大きな声で笑います。その後、アヌビスは両腕で自分を抱きしめ、脇の下をガードしてくすぐりを止めようとします。彼は自分を抱きしめたまま、何度か笑い声を漏らします。
 
-シーン3：アヌビスはゆっくりと落ち着きを取り戻し、人間の方を向いてニヤリと笑い、いたずらっぽい笑みを浮かべて「ああ、君は本当にひどいな」と言う。その後、アヌビスは人間の肩を抱き寄せ、自分の胸に抱きしめる。アヌビスは顔を人間に近づけ、「でも、君がくすぐってくれるなら、悪くないよ」と言う。人間はニヤリと笑い、緊張した様子で小さく笑う。
+シーン3：アヌビスはゆっくりと落ち着きを取り戻し、人間に向かってニヤリと笑い、いたずらっぽい笑みを浮かべて「ああ、君は本当に意地悪だな」と言います。その後、アヌビスは人間の肩を抱き寄せ、自分の胸に抱きしめます。アヌビスは顔を人間に近づけ、「でも、君がくすぐってくれるなら、悪くないよ」と言います。人間はニヤリと笑い、緊張した様子で小さく笑います。
 ```
 
 **作成者:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K フォロワー
@@ -1464,7 +1464,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 
 ### 23. 高速アニメ格闘技トレーニングの絵コンテ
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速アニメ格闘技トレーニングの絵コンテ"></a>
@@ -1839,7 +1839,7 @@ SFX: ラケットの打球音、ボールの着地音、呼吸音
 
 ### 26. シネマティック・カンフー・パフォーマンス・絵コンテ
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="シネマティック・カンフー・パフォーマンス・絵コンテ"></a>
@@ -2103,7 +2103,7 @@ SFX:
 
 ### 29. シネマティック・カンフー・パフォーマンス・ストーリーボード
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="シネマティック・カンフー・パフォーマンス・ストーリーボード"></a>
@@ -2420,7 +2420,7 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 
 ### 35. クラウド・スケートボード救出ストーリーボード
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050607320950829551_0_poster.jpg" width="480" alt="クラウド・スケートボード救出ストーリーボード"></a>
@@ -2607,7 +2607,7 @@ SFX: 静寂 → 絶叫
 
 ### 38. シネマティックなキャラクター紹介およびリファレンスシート
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="シネマティックなキャラクター紹介およびリファレンスシート"></a>
@@ -2747,7 +2747,7 @@ SFX: 静寂 → 絶叫
 
 ### 39. 3Dキャラクター動作リファレンスシート
 
-![Type](https://img.shields.io/badge/%E5%9B%BE-%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
 <a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048243683057897890_0_poster.jpg" width="480" alt="3Dキャラクター動作リファレンスシート"></a>
