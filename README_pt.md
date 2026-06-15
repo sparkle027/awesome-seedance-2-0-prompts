@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts curados | 📚 Total prompts | 🎬 Modelo | 🔄 Última atualização |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 21:18:37.908 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-15 04:46:09.525 UTC** |
 
 </div>
 
@@ -2787,7 +2787,7 @@ Não deve haver diálogo, texto ou narração.
 
 **Por** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K seguidores
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.1K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.2K
 
 <sub>📅 Apr 26, 2026</sub>
 

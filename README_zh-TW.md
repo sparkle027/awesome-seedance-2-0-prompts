@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-14 21:18:37.908 UTC** |
+| **62** | **62** | **Seedance 2.0** | **2026-06-15 04:46:09.525 UTC** |
 
 </div>
 
@@ -2786,7 +2786,7 @@ SFX：寂靜 → 崩潰尖叫
 
 **作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K 追蹤者
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.1K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.2K
 
 <sub>📅 Apr 26, 2026</sub>
 

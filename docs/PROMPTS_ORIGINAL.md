@@ -2635,7 +2635,7 @@ There should be no dialogue, text, or narration.
 
 **By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K followers
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.1K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.2K
 
 <sub>📅 Apr 26, 2026</sub>
 
