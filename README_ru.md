@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Курируемых промптов | 📚 Total prompts | 🎬 Модель | 🔄 Последнее обновление |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-17 04:24:08.712 UTC** |
+| **63** | **63** | **Seedance 2.0** | **2026-06-17 12:19:47.365 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обобщи дискуссии об ИИ в виде мема — сделай его максимально абсурдным, чтобы он набрал 50 лайков.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -164,7 +164,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Луффи программирует на Macbook на «Таузенд Санни», В ЯРОСТИ, а затем выбрасывает его за борт.
 ```
 
-**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.1K подписчиков
+**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K подписчиков
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -189,7 +189,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Ультрареалистичный кадр спортивной трансляции: гламурная женщина сидит в толпе на переполненном футбольном стадионе во время ночного матча. На ней темно-коричневый атласный топ без рукавов с высоким воротом и черные квадратные серьги, светло-каштановые/русые волосы до плеч уложены мягкими волнами. Она непринужденно пьет из высокой синей алюминиевой банки, держа в другой руке надкушенный чизбургер. Вокруг нее болельщики в ярко-желтых и синих футбольных майках и шарфах, создающих сильный контраст командных цветов. Сцена выглядит естественной и кинематографичной, снята в середине игры с ракурса телевизионной камеры с малой глубиной резкости. В кадре реалистичные трибуны, атмосфера переполненного стадиона, графический оверлей трансляции в левом верхнем углу с текущим счетом и таймером матча, а также водяной знак спортивного канала в правом верхнем углу. Естественное освещение арены, детализированная текстура кожи, резкий фокус на женщине, слегка размытая толпа на заднем плане, аутентичная эстетика прямой спортивной трансляции, композиция 16:9.
 ```
 
-**Автор:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.7K подписчиков
+**Автор:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K подписчиков
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -214,7 +214,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обезьяна наносит ответный удар. Заставь девушек гордиться.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,7 +239,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 ИИ становится «повесточным» (woke). Сделайте это по-настоящему оскорбительным — прямо очень оскорбительным.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
 
 ❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
 
@@ -253,7 +253,116 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ## 📋 Все промпты
 
-### 6. Ритуал в лесу Nox Lumos Poi
+### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**🖼️ Промпт для изображения**
+
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: BAD TASTE
+META LINE: absurd dread -> slapstick horror-comedy / locked-off single take
+PRIORITY: identical fixed framing across all panels; the gag reads through change inside one unmoving frame
+MICRO BRIEF: a girl stands alone in a locked frame; a giant plush monster rises behind her, swallows her whole, fails to digest her, and spits her back out drenched in drool.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: GULP-01
+REFERENCE PRIORITY: identity reference controls character identity; this storyboard controls staging, motion, geography, continuity.
+
+[SCENE PACKET]
+PREMISE: a locked camera watches a girl get swallowed whole by a giant patchwork plush monster and spat back out when his stomach rebels.
+LOCATION: flat open cracked stone ground, empty flat backdrop, no walls, no props; usable surfaces are ground plane only; the monster occupies the full background when present.
+START -> END: C1 stands alone at frame center, bored posture, monster absent -> C2 slumps queasy in background, C1 sprawled in foreground center soaked in thick drool strands, frame otherwise unchanged.
+ACTION CHAIN: empty calm -> C2 rises from behind ground line filling background -> jaws lunge down and engulf C1 in one gulp -> mouth closed, throat and belly bulge as C2 works to swallow -> C2's face sours, cheeks balloon, body heaves with nausea -> C2 retches and ejects C1 forward; C1 lands dripping, drool strands connecting her to the open mouth.
+PROP / EFFECT STATE: drool/saliva is the key effect: absent P01-P02, strands inside jaws P03, dribble from sealed lips P04, leaking heavily P05, massive spray plus strands and puddle around C1 in P06; C1's clothing dry P01-P03, soaked and matted P06.
+MUST READ: the camera never moves; only the monster and the girl change inside one identical fixed frame.
+
+[CHARACTER SANITIZATION]
+C1: young woman, slim small silhouette, very long twin-tail hair, oversized boxy graphic tee over shorts, mismatched tall socks, chunky platform sneakers, adhesive bandages on face and legs, slouched deadpan posture, light loose movement.
+C2: colossal round patchwork plush monster, body wider than frame, mismatched stitched fabric patches, two stubby striped horns, one flat button left eye, one wide slit-pupil right eye, enormous mouth of large blunt jagged teeth, stubby clawed paws, heavy lumbering movement.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls face, body, wardrobe, and proportions for both characters; keep C1 and C2 IDs, silhouettes, wardrobe, key props, and screen positions consistent across all panels; C1 stays frame center, C2 fills the background; do not redesign or merge characters.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+Panel 01 is the master: full geography of the locked frame, C1 small at center on the ground line, empty background, generous headroom where C2 will later rise. Every later panel keeps this exact geography.
+
+[EMOTIONAL ARC]
+bored stillness -> looming dread -> violent engulfment -> uneasy strained swallowing -> rising disgust and nausea -> messy comic rejection; read through C1's slack posture vanishing into scale contrast, C2's eye and cheek changes, and the growing drool state in an unchanging frame.
+
+[STYLE LOCKS]
+STYLE LOCK: final video style is vibrant patchwork anime illustration: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat solid cyan backdrop, flat graphic lighting with minimal shading.
+EFFECT LOCK: drool reads as thick glossy viscous strands and ropes with soft highlights, stretchy and heavy, never mist or spray particles; consistent thickness and stringy behavior across panels.
+ENVIRONMENT LOCK: flat cracked stone ground plane and plain flat backdrop only; no set redesign, no added props, no horizon change; same ground cracks in every panel.
+
+[SPATIAL CONTINUITY LOCK]
+P01 through P06 share one identical locked-off camera setup: same low wide frontal angle, same lens, same framing, same ground line, same crack pattern, zero camera movement, zero cuts. No panel is a new establishing shot. Locked anchors: C1's center floor mark, ground cracks, flat backdrop, frame edges. Only allowed changes: C2 entering/filling the background, character poses, mouth open/closed state, drool state, C1 visible/inside/ejected, damage and wetness on C1.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Empty master -> P02 / 24mm wide / Monster rises -> P03 / 24mm wide / One-gulp swallow -> P04 / 24mm wide / Straining to digest -> P05 / 24mm wide / Nausea turn -> P06 / 24mm wide / Spit-out finale
+CAMERA + LENS PLAN: P01 locked-off low wide, same-lens -> P02 same locked frame, hold -> P03 same locked frame, hold -> P04 same locked frame, hold -> P05 same locked frame, hold -> P06 same locked frame, final hold
+ACTION PATH: P01 C1 stands slack at center, alone -> P02 C2 looms up from behind ground line, filling background above C1, jaws parting -> P03 C2's open jaws crash down over C1, swallowing her in one gulp, drool strands snapping -> P04 mouth sealed, C2 upright, throat and belly bulging as he gulps and grinds -> P05 C2's cheeks balloon, eyes wince and water, body buckles forward in nausea, drool leaking through teeth -> P06 C2 retches and ejects C1 forward; C1 lands sprawled at center foreground coated in drool, thick strands stretching back to C2's hanging-open mouth
+RHYTHM TRACK: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
+ESCALATION MAP: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
+STATE TRACK: P01 C1 dry, frame empty behind -> P02 C2 enters background, C1 unaware -> P03 C1 inside jaws, drool strands active -> P04 C1 hidden, bulge state, lip dribble -> P05 bulge high, heavy leak, queasy face -> P06 C1 ejected soaked, drool puddle, C2 slumped sick
+STYLE TRACK: P01 flat cyan calm -> P02 looming patchwork mass -> P03 jaw spike -> P04 strained bulge -> P05 queasy green tint cue -> P06 glossy drool finale
+
+[SEQUENCE]
+Grid: 6 panels in a 3x2 grid; one locked-off continuous single take sampled at six phases, identical framing in every panel, no cuts.
+```
+
+**🎬 Промпт для видео**
+
+```
+Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+The entire video is one continuous locked-off shot with no visible cuts; the camera never moves, pans, zooms, or shakes; each panel is a sampled phase of the same unmoving frame.
+Use one virtual lens / same-lens locked camera.
+Use @[ref image] as the authoritative character reference for C1, the cyan twin-tail girl, and C2, the giant patchwork plush monster.
+
+ENVIRONMENT: flat cracked stone ground, plain solid cyan backdrop, no props; C1's floor mark stays at frame center, same ground cracks throughout; C2 fills the background when present.
+
+EMOTIONAL GUIDANCE: Valence: bored neutral to threatening to disgusted comic relief. Arousal: low and still, spiking at the swallow, simmering through digestion, surging at the nausea, releasing into deadpan calm; shown through posture, C2's eye and cheek changes, bulge motion, and drool state while the frame stays still.
+
+VISUAL STYLE: vibrant patchwork anime illustration matching @[ref image]: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat graphic lighting, minimal shading; drool is thick glossy viscous strands with soft highlights.
+
+AUDIO: No background music or score. Only diegetic ambience, foley, impacts, texture, and silence: faint wind, fabric thumps, wet gulps, gurgles, a huge retch, splattering drool.
+
+PANEL BEATS:
+P01: Locked low wide frame; C1 stands alone at center, slouched and idle, weight shifting slightly; empty backdrop; soft wind.
+P02: Same frame; C2 rises silently from behind the ground line, his patchwork mass filling the background above C1; jaws begin to part; C1 does not react; low fabric creak.
+P03: C2's open jaws crash down over C1 and he swallows her whole in one fast gulp; drool strands snap; mouth slams shut; heavy wet impact.
+P04: C2 sits upright, mouth sealed, throat and belly bulging and shifting as he gulps and grinds; muffled gurgles; drool dribbles from his lips.
+P05: His cheeks balloon, eyes wince and water, body buckles forward heaving with nausea; drool leaks through his teeth; rising groan.
+P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground soaked in drool, thick strands stretching back to his hanging-open mouth as he slumps queasy behind her; splatter, then still silence.
+```
+
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+
+❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+
+<sub>📅 Jun 11, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 7. Ритуал в лесу Nox Lumos Poi
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -359,9 +468,9 @@ P17: Низкая финальная дуга; взмах сверху стан�
 P18: Возвращение зеленого дневного света; листья оживают, птицы возвращаются, существ не остается, C1 опускает посох.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.7K
+❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -369,7 +478,7 @@ P18: Возвращение зеленого дневного света; лис
 
 ---
 
-### 7. Раскадровка ритуала с лесным световым мечом
+### 8. Раскадровка ритуала с лесным световым мечом
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -476,9 +585,9 @@ P20: Общий план с крана, финал; бледные кольца 
 6. Экспортировал аудио из созданного видео, загрузил его в Suno и сгенерировал музыку. Использовал CapCut для их объединения.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 242.4K
+❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -486,7 +595,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 ---
 
-### 8. Ночной мукбанг-стрим из Сеула
+### 9. Ночной мукбанг-стрим из Сеула
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -523,9 +632,9 @@ P20: Общий план с крана, финал; бледные кольца 
 Стиль: Реалистичный вертикальный стрим / мукбанг-влог, легкое естественное дрожание камеры и плавные движения, теплое уютное ресторанное освещение с неоновыми акцентами, яркие аппетитные цвета, искренняя дружба и молодежная энергия, ощущение непрерывной повседневной встречи, высокая детализация, реалистично, кинематографично 4K.
 ```
 
-**Автор:** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K подписчиков
+**Автор:** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K подписчиков
 
-❤️ 568 · 🔁 65 · 🔖 60 · 👁 51.8K
+❤️ 565 · 🔁 65 · 🔖 60 · 👁 51.9K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -533,7 +642,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 ---
 
-### 9. Кибер-экшен сцена: Побег Кармы
+### 10. Кибер-экшен сцена: Побег Кармы
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -631,9 +740,9 @@ P09: Вставка нажатия на телефон, затем наклон 
 P10: Финальное широкое удержание на улице: дым валит сверху, пока Карма движется в ночную дымку и исчезает.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 790 · 🔁 82 · 🔖 732 · 👁 34.4K
+❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -641,7 +750,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 10. Tiffany Blue Book 2026: Глава «Бабочка»
+### 11. Tiffany Blue Book 2026: Глава «Бабочка»
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -675,9 +784,9 @@ P10: Финальное широкое удержание на улице: ды�
 ФИНАЛЬНЫЙ КАДР: Элегантное появление логотипа. Мягкое мерцание. Оркестровое затухание.
 ```
 
-**Автор:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K подписчиков
+**Автор:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K подписчиков
 
-❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
+❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -685,7 +794,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 11. Рекламная кампания Fanta Summer
+### 12. Рекламная кампания Fanta Summer
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -796,7 +905,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 **Автор:** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K подписчиков
 
-❤️ 729 · 🔁 76 · 🔖 160 · 👁 54.6K
+❤️ 729 · 🔁 76 · 🔖 161 · 👁 54.7K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -804,7 +913,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 12. Пробуждение от кошмара: Кинематографическая последовательность падени…
+### 13. Пробуждение от кошмара: Кинематографическая последовательность падени…
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -917,7 +1026,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 13. Кинематографичная экшн-сцена в стиле киберпанк
+### 14. Кинематографичная экшн-сцена в стиле киберпанк
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -955,7 +1064,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 **Автор:** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K подписчиков
 
-❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
+❤️ 562 · 🔁 17 · 🔖 17 · 👁 52K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -963,7 +1072,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 14. Стиль Disney 90-х: Тайный дар Анубиса
+### 15. Стиль Disney 90-х: Тайный дар Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -992,9 +1101,9 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 Анубис мускулистый, на руках, шее и ушах у него кольца и серьги. Его торс обнажен. Его голос низкий и магнетический. Озвучка на английском языке.
 ```
 
-**Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K подписчиков
+**Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K подписчиков
 
-❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1002,7 +1111,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 15. Кинематографичный полет дрона над Стамбулом на закате
+### 16. Кинематографичный полет дрона над Стамбулом на закате
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1020,7 +1129,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 **Автор:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K подписчиков
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.4K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1028,7 +1137,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 16. Паркур-погоня в лесу Феличита
+### 17. Паркур-погоня в лесу Феличита
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1181,9 +1290,9 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 10. Она отпускает лиану, проносится сквозь туннель из листьев, оглядывается с яростной ухмылкой, делает свободный жест «пистолет» двумя пальцами, затем взрывается вверх.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 614 · 🔁 83 · 🔖 534 · 👁 29.8K
+❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1191,7 +1300,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 ---
 
-### 17. Кинематографичный рекламный ролик элитного шоколада
+### 18. Кинематографичный рекламный ролик элитного шоколада
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1256,7 +1365,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 ---
 
-### 18. Трогательный акт доброты
+### 19. Трогательный акт доброты
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1293,7 +1402,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 19. Документальный фильм о глубоководных рыбаках
+### 20. Документальный фильм о глубоководных рыбаках
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1341,7 +1450,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 Стиль: Ультрареалистичный документальный фильм National Geographic об океане в сочетании с энергией премиальной спортивной рекламы. Холодные обесцвеченные тона. Тяжелая океаническая атмосфера. Настоящая человеческая сила и присутствие.
 ```
 
-**Автор:** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K подписчиков
+**Автор:** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.4K подписчиков
 
 ❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
@@ -1351,7 +1460,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 20. Щекотливый момент Анубиса
+### 21. Щекотливый момент Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1366,9 +1475,9 @@ POV: Один маленький акт доброты изменил ВСЁ
 Стиль современной китайской 3D-анимации. Сцена 1: В большой египетской библиотеке мы видим величественного бога-шакала Анубиса, который стоит, заложив руки за спину, и небрежно осматривает книжные полки с величественным видом. В этот момент он замечает, что молодой человек тянется к книге о ритуалах на соседнем столе. Увидев это, Анубис быстро хватает книгу, поднимает её высоко над головой одной рукой, обнажая подмышку, и говорит своим мягким, но твердым тоном: Эта книга не для таких, как он. Сцена 2: Молодой человек выглядит разочарованным, но затем хитро улыбается и спрашивает Анубиса, боится ли тот щекотки, одновременно протягивая руку, чтобы пощекотать Анубиса под поднятой рукой, что приводит бога в некоторое замешательство. Сцена 3: Крупный план, рука человека водит пальцами вверх-вниз под мышкой Анубиса, повторяя это движение. На фоне слышны сдавленные хихиканья Анубиса, что доказывает, что он очень боится щекотки. Сцена 4: Крупный план, верхняя часть тела Анубиса, рука человека продолжает водить пальцами под мышкой Анубиса. Анубис закрывает глаза, широко улыбается и издает сдавленные смешки. Сцена 5: Человек продолжает щекотать Анубиса под мышкой, а тот хихикает с закрытыми глазами. Смех Анубиса подтверждает, что он очень боится щекотки, и он снова начинает хихикать, пока человек продолжает его щекотать. Сцена 6: Анубис продолжает хихикать, наконец бросает книгу на пол и обхватывает себя руками, прикрывая подмышки. Человек перестает щекотать и поднимает книгу. Анубис хихикает, все еще погруженный в смех, и сквозь смех говорит, что ненавидит, когда его щекочут. Человек улыбается и забирает книгу. Анубис мускулистый, на руках и шее надеты кольца. Его голос низкий, магнетический и харизматичный. Анубиса щекочут под мышкой.
 ```
 
-**Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K подписчиков
+**Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K подписчиков
 
-❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+❤️ 557 · 🔁 37 · 🔖 262 · 👁 36.2K
 
 <sub>📅 May 25, 2026</sub>
 
@@ -1376,7 +1485,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 21. Сцена взаимодействия Анубиса с человеком
+### 22. Сцена взаимодействия Анубиса с человеком
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1407,7 +1516,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 22. Корейская школьная экшн-драма
+### 23. Корейская школьная экшн-драма
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1462,7 +1571,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 23. Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…
+### 24. Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1749,7 +1858,7 @@ Jūran спокоен.
 
 ---
 
-### 24. Цифровая живопись: напряженный теннисный матч
+### 25. Цифровая живопись: напряженный теннисный матч
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1788,9 +1897,9 @@ SFX: Звук удара ракетки, звук отскока мяча
 SFX: Звук удара ракетки, звук приземления мяча, звук дыхания
 ```
 
-**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K подписчиков
+**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
 
-❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.4K
+❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 121.7K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1798,7 +1907,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 25. Кинематографичное исполнение бейсбольного отбивания
+### 26. Кинематографичное исполнение бейсбольного отбивания
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1837,7 +1946,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 26. Раскадровка кинематографического выступления в стиле кунг-фу
+### 27. Раскадровка кинематографического выступления в стиле кунг-фу
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1970,7 +2079,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 27. Цифровая живопись: тренировка Вин-Чунь
+### 28. Цифровая живопись: тренировка Вин-Чунь
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2005,9 +2114,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 Финальный кадр. Средний план, 50 мм, медленный наезд с последующей фиксацией / После завершения последнего движения мальчик медленно останавливается, пыль, края одежды и бамбуковые листья естественно оседают, деревянный манекен слегка покачивается, он медленно поднимает глаза к камере, одна рука сохраняет стартовую стойку Вин-Чунь, стоя твердо в центре двора / SFX: один глубокий приглушенный удар, за которым следует возвращение естественных звуков окружающего ветра
 ```
 
-**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K подписчиков
+**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
 
-❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 162.2K
+❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 163.4K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2015,7 +2124,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 28. Анимация цифровой живописи прыгуна в воду
+### 29. Анимация цифровой живописи прыгуна в воду
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2091,9 +2200,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 Финальный ритмичный удар музыки, тонкий звук затвора камеры, продолжающиеся аплодисменты зрителей.
 ```
 
-**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K подписчиков
+**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
 
-❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.7K
+❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.9K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2101,7 +2210,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 29. Cinematic Kung Fu Performance Storyboard
+### 30. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2234,7 +2343,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 30. Футбольный болельщик в трансляции со стадиона
+### 31. Футбольный болельщик в трансляции со стадиона
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2251,7 +2360,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 **Автор:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.5K подписчиков
 
-❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.3K
+❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.8K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2259,7 +2368,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 31. Случайный кадр с фанатской камеры на бейсбольном матче
+### 32. Случайный кадр с фанатской камеры на бейсбольном матче
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2287,7 +2396,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 32. Соревновательная боевая последовательность в стиле файтинг
+### 33. Соревновательная боевая последовательность в стиле файтинг
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2336,7 +2445,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 33. Кинематографичное выступление со скакалкой
+### 34. Кинематографичное выступление со скакалкой
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2376,7 +2485,7 @@ Style:
 
 ---
 
-### 34. Прибытие знаменитости в Нью-Йорк
+### 35. Прибытие знаменитости в Нью-Йорк
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2418,7 +2527,7 @@ Style:
 
 ---
 
-### 35. Раскадровка спасения на облачном скейтборде
+### 36. Раскадровка спасения на облачном скейтборде
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2510,7 +2619,7 @@ Style:
 
 ---
 
-### 36. Шеф-повар против таракана: Погоня на кухне
+### 37. Шеф-повар против таракана: Погоня на кухне
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2564,7 +2673,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 37. В стиле ретро-Диснея: забавное щекотание Анубиса
+### 38. В стиле ретро-Диснея: забавное щекотание Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2605,7 +2714,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 38. Кинематографическое представление персонажа и справочный лист
+### 39. Кинематографическое представление персонажа и справочный лист
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2736,9 +2845,9 @@ SFX: тишина → крик отчаяния
 Закончите уверенным средним или общим планом, персонаж полностью представлен.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.7K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2746,7 +2855,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 39. Справочный лист движений 3D-персонажа
+### 40. Справочный лист движений 3D-персонажа
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2804,7 +2913,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 40. Высокооктановая сцена гонок Формулы-1
+### 41. Высокооктановая сцена гонок Формулы-1
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2831,7 +2940,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 41. Сцена в спортбаре с остановкой времени
+### 42. Сцена в спортбаре с остановкой времени
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2868,7 +2977,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 42. Анимация с трюком с мороженым в стиле слэпстик
+### 43. Анимация с трюком с мороженым в стиле слэпстик
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2921,7 +3030,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 43. Динамичный монтаж утренней рутины
+### 44. Динамичный монтаж утренней рутины
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2992,7 +3101,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 44. Эффект Bullet time: бизнесмен падает на Уолл-стрит
+### 45. Эффект Bullet time: бизнесмен падает на Уолл-стрит
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3017,7 +3126,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 45. Съемка трюка на крыле F16
+### 46. Съемка трюка на крыле F16
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3050,7 +3159,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 46. VR-переход: Из дикой природы домой
+### 47. VR-переход: Из дикой природы домой
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3085,7 +3194,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 47. Серфинг на ракете на большой высоте
+### 48. Серфинг на ракете на большой высоте
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3119,7 +3228,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 48. Кинематографичный трекинг-шот прыжка со скалы
+### 49. Кинематографичный трекинг-шот прыжка со скалы
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3152,7 +3261,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 **Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
 
-❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.4K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3160,7 +3269,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 49. Психологический хоррор: трансформация офисного работника
+### 50. Психологический хоррор: трансформация офисного работника
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3194,7 +3303,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 50. Приготовление лапши в стиле кунг-фу
+### 51. Приготовление лапши в стиле кунг-фу
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3239,7 +3348,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 51. Комедийная анимация в стиле слэпстик про мороженое
+### 52. Комедийная анимация в стиле слэпстик про мороженое
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3277,7 +3386,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 52. Драматичный удар в гольфе на побережье
+### 53. Драматичный удар в гольфе на побережье
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3308,7 +3417,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 53. Кинематографичный непрерывный кадр средневекового рынка
+### 54. Кинематографичный непрерывный кадр средневекового рынка
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3374,7 +3483,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 54. Высокоскоростная погоня FPV-дрона с сезонным переходом
+### 55. Высокоскоростная погоня FPV-дрона с сезонным переходом
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3399,7 +3508,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 55. Мстительный план Андродженика
+### 56. Мстительный план Андродженика
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3424,7 +3533,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 56. Эмоциональное путешествие Панча в стиле Pixar
+### 57. Эмоциональное путешествие Панча в стиле Pixar
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3449,7 +3558,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 57. Вид от первого лица: воздушный бой верхом на драконе
+### 58. Вид от первого лица: воздушный бой верхом на драконе
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3476,7 +3585,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 58. Эра безграничного воображения
+### 59. Эра безграничного воображения
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3501,7 +3610,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 59. Скоростная погоня на спидерах через город в скалах
+### 60. Скоростная погоня на спидерах через город в скалах
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3526,7 +3635,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 60. Эпическая битва Луффи и Гоку
+### 61. Эпическая битва Луффи и Гоку
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3541,9 +3650,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Луффи и Гоку в эпической сцене боя на корабле Sunny.
 ```
 
-**Автор:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K подписчиков
+**Автор:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K подписчиков
 
-❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
+❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3551,7 +3660,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 61. Сцена спасения заложника спецназом
+### 62. Сцена спасения заложника спецназом
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3568,7 +3677,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 **Автор:** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K подписчиков
 
-❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3576,7 +3685,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 62. Тайлер Дёрден обучает персонажей Jujutsu Kaisen
+### 63. Тайлер Дёрден обучает персонажей Jujutsu Kaisen
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3591,9 +3700,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Тайлер Дёрден объясняет правила Бойцовского клуба персонажам Jujutsu Kaisen. Стиль игрового кино.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 2.5K · 🔁 188 · 🔖 801 · 👁 189K
+❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 

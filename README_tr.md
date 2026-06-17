@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-17 04:24:08.712 UTC** |
+| **63** | **63** | **Seedance 2.0** | **2026-06-17 12:19:47.365 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Yapay zeka söylemini bir mem ile özetle - saçma sapan olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -164,7 +164,7 @@ Yapay zeka söylemini bir mem ile özetle - saçma sapan olduğundan ve 50 beğe
 Luffy, Thousand Sunny'de Macbook üzerinde kod yazıyor, ÖFKELENİYOR ve ardından onu denize fırlatıyor.
 ```
 
-**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.1K takipçi
+**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K takipçi
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -189,7 +189,7 @@ Luffy, Thousand Sunny'de Macbook üzerinde kod yazıyor, ÖFKELENİYOR ve ardın
 Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının, ultra gerçekçi spor yayını karesi. Koyu kahverengi kolsuz, balıkçı yaka saten bir üst ve siyah kare küpeler takıyor; omuz hizasında, hafif dalgalı, açık kahverengi/sarı saçları var. Bir elinde yarısı yenmiş bir çizburger tutarken diğer eliyle uzun mavi bir alüminyum kutudan içeceğini içiyor. Etrafında parlak sarı ve mavi futbol formaları ve atkıları giymiş taraftarlar var, bu da güçlü bir takım rengi kontrastı yaratıyor. Sahne, TV yayın kamerası açısından, sığ alan derinliğiyle yakalanmış, doğal ve sinematik hissettiriyor. Gerçekçi stadyum koltukları, kalabalık seyirci atmosferi, sol üst köşede canlı futbol skorunu ve maç süresini gösteren yayın grafikleri ve sağ üst köşede bir spor kanalı filigranı içeriyor. Doğal arena aydınlatması, detaylı cilt dokusu, kadına odaklanmış keskin netlik, hafif bulanık arka plan kalabalığı, otantik canlı spor yayını estetiği, 16:9 kompozisyon.
 ```
 
-**Gönderen** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.7K takipçi
+**Gönderen** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K takipçi
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -214,7 +214,7 @@ Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının
 Maymun karşılık veriyor. Kızları gururlandır.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,7 +239,7 @@ Maymun karşılık veriyor. Kızları gururlandır.
 Yapay zeka woke oluyor. Bunu gerçekten saldırgan yap, yani gerçekten çok saldırgan.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
 
 ❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
 
@@ -253,7 +253,116 @@ Yapay zeka woke oluyor. Bunu gerçekten saldırgan yap, yani gerçekten çok sal
 
 ## 📋 Tüm İstemler
 
-### 6. Nox Lumos Poi Orman Ritüeli
+### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
+</div>
+
+**🖼️ Görsel istemi**
+
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: BAD TASTE
+META LINE: absurd dread -> slapstick horror-comedy / locked-off single take
+PRIORITY: identical fixed framing across all panels; the gag reads through change inside one unmoving frame
+MICRO BRIEF: a girl stands alone in a locked frame; a giant plush monster rises behind her, swallows her whole, fails to digest her, and spits her back out drenched in drool.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: GULP-01
+REFERENCE PRIORITY: identity reference controls character identity; this storyboard controls staging, motion, geography, continuity.
+
+[SCENE PACKET]
+PREMISE: a locked camera watches a girl get swallowed whole by a giant patchwork plush monster and spat back out when his stomach rebels.
+LOCATION: flat open cracked stone ground, empty flat backdrop, no walls, no props; usable surfaces are ground plane only; the monster occupies the full background when present.
+START -> END: C1 stands alone at frame center, bored posture, monster absent -> C2 slumps queasy in background, C1 sprawled in foreground center soaked in thick drool strands, frame otherwise unchanged.
+ACTION CHAIN: empty calm -> C2 rises from behind ground line filling background -> jaws lunge down and engulf C1 in one gulp -> mouth closed, throat and belly bulge as C2 works to swallow -> C2's face sours, cheeks balloon, body heaves with nausea -> C2 retches and ejects C1 forward; C1 lands dripping, drool strands connecting her to the open mouth.
+PROP / EFFECT STATE: drool/saliva is the key effect: absent P01-P02, strands inside jaws P03, dribble from sealed lips P04, leaking heavily P05, massive spray plus strands and puddle around C1 in P06; C1's clothing dry P01-P03, soaked and matted P06.
+MUST READ: the camera never moves; only the monster and the girl change inside one identical fixed frame.
+
+[CHARACTER SANITIZATION]
+C1: young woman, slim small silhouette, very long twin-tail hair, oversized boxy graphic tee over shorts, mismatched tall socks, chunky platform sneakers, adhesive bandages on face and legs, slouched deadpan posture, light loose movement.
+C2: colossal round patchwork plush monster, body wider than frame, mismatched stitched fabric patches, two stubby striped horns, one flat button left eye, one wide slit-pupil right eye, enormous mouth of large blunt jagged teeth, stubby clawed paws, heavy lumbering movement.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls face, body, wardrobe, and proportions for both characters; keep C1 and C2 IDs, silhouettes, wardrobe, key props, and screen positions consistent across all panels; C1 stays frame center, C2 fills the background; do not redesign or merge characters.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+Panel 01 is the master: full geography of the locked frame, C1 small at center on the ground line, empty background, generous headroom where C2 will later rise. Every later panel keeps this exact geography.
+
+[EMOTIONAL ARC]
+bored stillness -> looming dread -> violent engulfment -> uneasy strained swallowing -> rising disgust and nausea -> messy comic rejection; read through C1's slack posture vanishing into scale contrast, C2's eye and cheek changes, and the growing drool state in an unchanging frame.
+
+[STYLE LOCKS]
+STYLE LOCK: final video style is vibrant patchwork anime illustration: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat solid cyan backdrop, flat graphic lighting with minimal shading.
+EFFECT LOCK: drool reads as thick glossy viscous strands and ropes with soft highlights, stretchy and heavy, never mist or spray particles; consistent thickness and stringy behavior across panels.
+ENVIRONMENT LOCK: flat cracked stone ground plane and plain flat backdrop only; no set redesign, no added props, no horizon change; same ground cracks in every panel.
+
+[SPATIAL CONTINUITY LOCK]
+P01 through P06 share one identical locked-off camera setup: same low wide frontal angle, same lens, same framing, same ground line, same crack pattern, zero camera movement, zero cuts. No panel is a new establishing shot. Locked anchors: C1's center floor mark, ground cracks, flat backdrop, frame edges. Only allowed changes: C2 entering/filling the background, character poses, mouth open/closed state, drool state, C1 visible/inside/ejected, damage and wetness on C1.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Empty master -> P02 / 24mm wide / Monster rises -> P03 / 24mm wide / One-gulp swallow -> P04 / 24mm wide / Straining to digest -> P05 / 24mm wide / Nausea turn -> P06 / 24mm wide / Spit-out finale
+CAMERA + LENS PLAN: P01 locked-off low wide, same-lens -> P02 same locked frame, hold -> P03 same locked frame, hold -> P04 same locked frame, hold -> P05 same locked frame, hold -> P06 same locked frame, final hold
+ACTION PATH: P01 C1 stands slack at center, alone -> P02 C2 looms up from behind ground line, filling background above C1, jaws parting -> P03 C2's open jaws crash down over C1, swallowing her in one gulp, drool strands snapping -> P04 mouth sealed, C2 upright, throat and belly bulging as he gulps and grinds -> P05 C2's cheeks balloon, eyes wince and water, body buckles forward in nausea, drool leaking through teeth -> P06 C2 retches and ejects C1 forward; C1 lands sprawled at center foreground coated in drool, thick strands stretching back to C2's hanging-open mouth
+RHYTHM TRACK: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
+ESCALATION MAP: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
+STATE TRACK: P01 C1 dry, frame empty behind -> P02 C2 enters background, C1 unaware -> P03 C1 inside jaws, drool strands active -> P04 C1 hidden, bulge state, lip dribble -> P05 bulge high, heavy leak, queasy face -> P06 C1 ejected soaked, drool puddle, C2 slumped sick
+STYLE TRACK: P01 flat cyan calm -> P02 looming patchwork mass -> P03 jaw spike -> P04 strained bulge -> P05 queasy green tint cue -> P06 glossy drool finale
+
+[SEQUENCE]
+Grid: 6 panels in a 3x2 grid; one locked-off continuous single take sampled at six phases, identical framing in every panel, no cuts.
+```
+
+**🎬 Video istemi**
+
+```
+Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+The entire video is one continuous locked-off shot with no visible cuts; the camera never moves, pans, zooms, or shakes; each panel is a sampled phase of the same unmoving frame.
+Use one virtual lens / same-lens locked camera.
+Use @[ref image] as the authoritative character reference for C1, the cyan twin-tail girl, and C2, the giant patchwork plush monster.
+
+ENVIRONMENT: flat cracked stone ground, plain solid cyan backdrop, no props; C1's floor mark stays at frame center, same ground cracks throughout; C2 fills the background when present.
+
+EMOTIONAL GUIDANCE: Valence: bored neutral to threatening to disgusted comic relief. Arousal: low and still, spiking at the swallow, simmering through digestion, surging at the nausea, releasing into deadpan calm; shown through posture, C2's eye and cheek changes, bulge motion, and drool state while the frame stays still.
+
+VISUAL STYLE: vibrant patchwork anime illustration matching @[ref image]: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat graphic lighting, minimal shading; drool is thick glossy viscous strands with soft highlights.
+
+AUDIO: No background music or score. Only diegetic ambience, foley, impacts, texture, and silence: faint wind, fabric thumps, wet gulps, gurgles, a huge retch, splattering drool.
+
+PANEL BEATS:
+P01: Locked low wide frame; C1 stands alone at center, slouched and idle, weight shifting slightly; empty backdrop; soft wind.
+P02: Same frame; C2 rises silently from behind the ground line, his patchwork mass filling the background above C1; jaws begin to part; C1 does not react; low fabric creak.
+P03: C2's open jaws crash down over C1 and he swallows her whole in one fast gulp; drool strands snap; mouth slams shut; heavy wet impact.
+P04: C2 sits upright, mouth sealed, throat and belly bulging and shifting as he gulps and grinds; muffled gurgles; drool dribbles from his lips.
+P05: His cheeks balloon, eyes wince and water, body buckles forward heaving with nausea; drool leaks through his teeth; rising groan.
+P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground soaked in drool, thick strands stretching back to his hanging-open mouth as he slumps queasy behind her; splatter, then still silence.
+```
+
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
+
+❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+
+<sub>📅 Jun 11, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 7. Nox Lumos Poi Orman Ritüeli
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -359,9 +468,9 @@ P17: Düşük son yay; tepe süpürmesi her yaratığı silen yok edici bir beya
 P18: Yeşil gün ışığı geri döner; yapraklar canlanır, kuşlar geri döner, yaratık kalmaz, C1 asayı indirir.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.7K
+❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -369,7 +478,7 @@ P18: Yeşil gün ışığı geri döner; yapraklar canlanır, kuşlar geri döne
 
 ---
 
-### 7. Orman Saber Poi Ritüeli Taslak Panosu
+### 8. Orman Saber Poi Ritüeli Taslak Panosu
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -476,9 +585,9 @@ P20: Vinç geniş final; o saplanmış kabzayı tutarken göl boyunca soluk halk
 6. Oluşturulan videodan sesi dışa aktardım, suno'ya yükledim ve onunla müzik oluşturdum. Birleştirmek için capcut kullandım.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 242.4K
+❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -486,7 +595,7 @@ P20: Vinç geniş final; o saplanmış kabzayı tutarken göl boyunca soluk halk
 
 ---
 
-### 8. Gece Yarısı Seul Mukbang Canlı Yayını
+### 9. Gece Yarısı Seul Mukbang Canlı Yayını
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -523,9 +632,9 @@ Video boyunca ekranın HER İKİ tarafında görünen canlı yayın katmanları:
 Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsıntısı ve yumuşak hareketler, neon vurgulu sıcak samimi restoran aydınlatması, canlı iştah açıcı renkler, gerçek dostluk ve gençlik enerjisi, kesintisiz gündelik takılma hissi, yüksek detay, gerçekçi, sinematik 4K.
 ```
 
-**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K takipçi
+**Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K takipçi
 
-❤️ 568 · 🔁 65 · 🔖 60 · 👁 51.8K
+❤️ 565 · 🔁 65 · 🔖 60 · 👁 51.9K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -533,7 +642,7 @@ Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsın
 
 ---
 
-### 9. Karma Escape Cyber-Action Sequence
+### 10. Karma Escape Cyber-Action Sequence
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -631,9 +740,9 @@ P09: Telefon dokunuşu ekle, sonra oda turuncu flaş, enkaz, duman ve darbeyle p
 P10: Sokakta final geniş tutuş: Karma gece pusuna doğru hareket edip kaybolurken yukarıdan dumanlar yükselir.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 790 · 🔁 82 · 🔖 732 · 👁 34.4K
+❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -641,7 +750,7 @@ P10: Sokakta final geniş tutuş: Karma gece pusuna doğru hareket edip kaybolur
 
 ---
 
-### 10. Tiffany Blue Book 2026 Kelebek Bölümü
+### 11. Tiffany Blue Book 2026 Kelebek Bölümü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -675,9 +784,9 @@ SES: “Kelebek kanatlarını taklit etmek için tasarlandı…” (duraklama) �
 SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşça azalması.
 ```
 
-**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K takipçi
+**Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K takipçi
 
-❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
+❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -685,7 +794,7 @@ SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşç
 
 ---
 
-### 11. Fanta Yaz Kampanyası Reklamı
+### 12. Fanta Yaz Kampanyası Reklamı
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -796,7 +905,7 @@ Altyazı yok.
 
 **Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K takipçi
 
-❤️ 729 · 🔁 76 · 🔖 160 · 👁 54.6K
+❤️ 729 · 🔁 76 · 🔖 161 · 👁 54.7K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -804,7 +913,7 @@ Altyazı yok.
 
 ---
 
-### 12. Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı
+### 13. Kabus Uyanışı: Zaman-Düşüşü Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -914,7 +1023,7 @@ Nihai stil: stilize fantezi, referansa sadık heykelsi anime-fantezi karakteri, 
 
 ---
 
-### 13. Cyberpunk Aksiyon Kahramanı Sinematik Sekansı
+### 14. Cyberpunk Aksiyon Kahramanı Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -952,7 +1061,7 @@ Sinematik aydınlatma, dramatik kenar ışığı, yoğun duman ve kıvılcımlar
 
 **Gönderen** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K takipçi
 
-❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
+❤️ 562 · 🔁 17 · 🔖 17 · 👁 52K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -960,7 +1069,7 @@ Sinematik aydınlatma, dramatik kenar ışığı, yoğun duman ve kıvılcımlar
 
 ---
 
-### 14. 90'lar Disney Tarzı: Anubis'in Gizli Hediyesi
+### 15. 90'lar Disney Tarzı: Anubis'in Gizli Hediyesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -989,9 +1098,9 @@ Sahne 6: Anubis hizmetkarın gidişini izler, yüzünde hala umursamaz bir ifade
 Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler vardır. Üstü çıplaktır. Sesi derin ve etkileyicidir. Seslendirme İngilizcedir.
 ```
 
-**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K takipçi
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K takipçi
 
-❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -999,7 +1108,7 @@ Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler v
 
 ---
 
-### 15. Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu
+### 16. Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1017,7 +1126,7 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, altın saa
 
 **Gönderen** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K takipçi
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.4K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1025,7 +1134,7 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, altın saa
 
 ---
 
-### 16. Felicita Orman Takibi Parkur Sekansı
+### 17. Felicita Orman Takibi Parkur Sekansı
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1178,9 +1287,9 @@ Kesintisiz arkadan takip kamerası, kesinti yok. Kamera, el tipi FPV momentumu i
 10. Sarmaşığı bırakır, yaprak tünelinden fırlar, vahşi bir sırıtışla arkasına bakar, gevşek iki parmaklı silah işareti yapar, sonra yukarı doğru patlar.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 614 · 🔁 83 · 🔖 534 · 👁 29.8K
+❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1188,7 +1297,7 @@ Kesintisiz arkadan takip kamerası, kesinti yok. Kamera, el tipi FPV momentumu i
 
 ---
 
-### 17. Lüks Çikolata Reklamı Sinematik Sekansı
+### 18. Lüks Çikolata Reklamı Sinematik Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1253,7 +1362,7 @@ Lüks reklam, sinematik gerçekçilik, karamsar apartman, yemek sinematografisi,
 
 ---
 
-### 18. İç Isıtan Bir İyilik Hareketi
+### 19. İç Isıtan Bir İyilik Hareketi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1290,7 +1399,7 @@ Tam istem için DM atın
 
 ---
 
-### 19. Derin Deniz Balıkçısı Belgesel Sinematik
+### 20. Derin Deniz Balıkçısı Belgesel Sinematik
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1337,7 +1446,7 @@ Sinematik okyanus belgeseli. Konu: 27 yaşında, son derece yakışıklı ve atl
 → ÇEKİM 6 — Final çekimi. Devasa bir dalga gövdeye çarparak onu tamamen çevreliyor. Serpinti, köpük ve hareket izleri güverteye yayılıyor. Sert ve geniş bir duruşa geçiyor, yavaşça doğruluyor ve sert okyanus ışığı altında tamamen hareketsiz bir final pozuna kilitleniyor. Ses aniden kesiliyor. Kamera, tamamen sakin ve korkusuz yüzüne odaklanıp donuyor. Kararma.
 ```
 
-**Gönderen** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K takipçi
+**Gönderen** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.4K takipçi
 
 ❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
@@ -1347,7 +1456,7 @@ Sinematik okyanus belgeseli. Konu: 27 yaşında, son derece yakışıklı ve atl
 
 ---
 
-### 20. Anubis'in gıdıklanma anı
+### 21. Anubis'in gıdıklanma anı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1362,9 +1471,9 @@ Sinematik okyanus belgeseli. Konu: 27 yaşında, son derece yakışıklı ve atl
 Modern Çin 3D animasyon tarzı. Sahne 1: Büyük bir Mısır kütüphanesinde, elleri arkasında, görkemli çakal tanrı Anubis'i rafları dalgın bir ifadeyle incelerken ve heybetli bir duruş sergilerken görüyoruz. O sırada, bir gencin yakındaki bir masada duran ritüellerle ilgili bir kitaba uzandığını fark eder. Anubis bunu görünce kitabı hızla kapar, bir koluyla başının üzerine kaldırır, koltuk altını açığa çıkarır ve nazik ama kararlı bir tonla şöyle der: Bu kitap onun gibiler için değil. Sahne 2: Genç hayal kırıklığına uğramış görünür ama hemen ardından kurnaz bir gülümseme takınır ve Anubis'e gıdıklanıp gıdıklanmadığını sorar, aynı zamanda havaya kaldırdığı kolunun altına doğru elini uzatır; bu durum Anubis'i biraz şaşkına çevirir. Sahne 3: Yakın çekim, insan eli Anubis'in koltuk altının altında parmaklarını yukarı aşağı hareket ettirir, bu hareketi sürekli tekrarlar. Arka plandan Anubis'in bastırılmış kıkırdamaları duyulur, bu da onun gerçekten çok gıdıklandığını gösterir. Sahne 4: Yakın çekim, Anubis'in üst gövdesi, insan eli Anubis'in koltuk altının altında parmaklarını yukarı aşağı hareket ettirmeye devam eder. Anubis gözlerini kapatır, kocaman sırıtır ve bastırılmış kıkırdamalar çıkarır. Sahne 5: İnsan, Anubis'in koltuk altını gıdıklamaya devam eder, Anubis gözleri kapalı bir şekilde kıkırdar. Anubis'in gülüşü, gerçekten çok gıdıklandığını doğrular, ardından tekrar kıkırdamaya başlar ve insan koltuk altını gıdıklamaya devam eder. Sahne 6: Anubis kıkırdamaya devam eder, sonunda kitabı yere atar ve kollarını kendine sararak koltuk altlarını kapatır. İnsan gıdıklamayı bırakır ve kitabı alır. Anubis kıkırdar, sanki az önceki gülüşün etkisinden çıkamamış gibidir, gülerken gıdıklanmaktan nefret ettiğini söyler. İnsan gülerek kitabı alır. Anubis kaslıdır, kollarında ve boynunda halkalar vardır. Sesi derin, manyetik ve etkileyicidir. Anubis'in koltuk altları gıdıklanmaktadır.
 ```
 
-**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K takipçi
+**Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K takipçi
 
-❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+❤️ 557 · 🔁 37 · 🔖 262 · 👁 36.2K
 
 <sub>📅 May 25, 2026</sub>
 
@@ -1372,7 +1481,7 @@ Modern Çin 3D animasyon tarzı. Sahne 1: Büyük bir Mısır kütüphanesinde, 
 
 ---
 
-### 21. Anubis ve İnsan Etkileşimi Sahnesi
+### 22. Anubis ve İnsan Etkileşimi Sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1403,7 +1512,7 @@ Sahne 3: Anubis yavaşça sakinleşir, insana doğru sırıtır ve muzip bir gü
 
 ---
 
-### 22. Kore Okul Aksiyon Draması Sekansı
+### 23. Kore Okul Aksiyon Draması Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1458,7 +1567,7 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 
 ---
 
-### 23. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
+### 24. Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1745,7 +1854,7 @@ Metin yok. Filigran yok. Arayüz yok. Storyboard'un ötesinde ekstra aksiyon yok
 
 ---
 
-### 24. Yoğun Tenis Maçı Dijital Tablosu
+### 25. Yoğun Tenis Maçı Dijital Tablosu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1784,9 +1893,9 @@ Karakter A, tenis topunun Karakter B'ye doğru yüksek hızla uçtuğu son bitir
 SFX: Raket vuruş sesi, top iniş sesi, nefes alma sesi
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K takipçi
 
-❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.4K
+❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 121.7K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1794,7 +1903,7 @@ SFX: Raket vuruş sesi, top iniş sesi, nefes alma sesi
 
 ---
 
-### 25. Sinematik Beyzbol Vuruş Performansı
+### 26. Sinematik Beyzbol Vuruş Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -1833,7 +1942,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 26. Sinematik Kung Fu Performansı Storyboard'u
+### 27. Sinematik Kung Fu Performansı Storyboard'u
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1966,7 +2075,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, havada hareke
 
 ---
 
-### 27. Wing Chun Antrenmanı Dijital Resim
+### 28. Wing Chun Antrenmanı Dijital Resim
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2001,9 +2110,9 @@ SAHNE 7:
 Bitiş sahnesi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit duruş / Son hareketi tamamladıktan sonra çocuk yavaşça durur, toz, kıyafet köşeleri ve bambu yaprakları doğal bir şekilde yerine oturur, ahşap kukla hafifçe sallanır, gözlerini yavaşça kameraya doğru kaldırır, bir el Wing Chun başlangıç duruşunu korur, avlunun merkezinde sabit bir şekilde durur / SFX: bir derin boğuk darbe ve ardından doğal ortam rüzgar seslerinin geri dönüşü
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K takipçi
 
-❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 162.2K
+❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 163.4K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2011,7 +2120,7 @@ Bitiş sahnesi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit 
 
 ---
 
-### 28. Olimpik Dalgıç Dijital Boyama Animasyonu
+### 29. Olimpik Dalgıç Dijital Boyama Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2087,9 +2196,9 @@ SFX:
 Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci alkışı.
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K takipçi
 
-❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.7K
+❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.9K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2097,7 +2206,7 @@ Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci a
 
 ---
 
-### 29. Sinematik Kung Fu Performansı Storyboard'u
+### 30. Sinematik Kung Fu Performansı Storyboard'u
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2230,7 +2339,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, hava hareketi
 
 ---
 
-### 30. Stadyum yayın çekiminde futbol taraftarı
+### 31. Stadyum yayın çekiminde futbol taraftarı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2247,7 +2356,7 @@ Real Madrid ile Barcelona arasındaki maç sırasında kalabalık bir futbol sta
 
 **Gönderen** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.5K takipçi
 
-❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.3K
+❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.8K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2255,7 +2364,7 @@ Real Madrid ile Barcelona arasındaki maç sırasında kalabalık bir futbol sta
 
 ---
 
-### 31. Beyzbol Maçında Doğal Fan Kamerası Görüntüsü
+### 32. Beyzbol Maçında Doğal Fan Kamerası Görüntüsü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2283,7 +2392,7 @@ Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik ayd�
 
 ---
 
-### 32. Rekabetçi Dövüş Oyunu Savaş Sekansı
+### 33. Rekabetçi Dövüş Oyunu Savaş Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2332,7 +2441,7 @@ Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlat
 
 ---
 
-### 33. Sinematik İp Atlama Performansı
+### 34. Sinematik İp Atlama Performansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2372,7 +2481,7 @@ temiz sinematik aydınlatma
 
 ---
 
-### 34. New York City'de Ünlülerin Gelişi
+### 35. New York City'de Ünlülerin Gelişi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2413,7 +2522,7 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) baskılı 
 
 ---
 
-### 35. Bulut Kaykayı Kurtarma Storyboard'u
+### 36. Bulut Kaykayı Kurtarma Storyboard'u
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2505,7 +2614,7 @@ Görsel hareketi huzursuz değil, sakin ve kasıtlı tutun.
 
 ---
 
-### 36. Şef ve Hamam Böceği Mutfak Kovalamacası
+### 37. Şef ve Hamam Böceği Mutfak Kovalamacası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2559,7 +2668,7 @@ SFX: sessizlik → yıkım çığlığı
 
 ---
 
-### 37. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
+### 38. Retro Disney Tarzı: Anubis'in Gıdıklanma Macerası
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2591,7 +2700,7 @@ Sahne 7: Anubis sonrasında birkaç kez kıkırdamaktan kendini alamıyor, ardı
 
 ---
 
-### 38. Sinematik Karakter Tanıtımı ve Referans Sayfası
+### 39. Sinematik Karakter Tanıtımı ve Referans Sayfası
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2722,9 +2831,9 @@ sinematik ve tutarlı
 Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şekilde bitirin.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.7K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2732,7 +2841,7 @@ Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şeki
 
 ---
 
-### 39. 3D Karakter Hareket Referans Sayfası
+### 40. 3D Karakter Hareket Referans Sayfası
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2790,7 +2899,7 @@ Diyalog, metin veya anlatım olmamalıdır.
 
 ---
 
-### 40. Yüksek oktanlı Formula 1 yarış sahnesi
+### 41. Yüksek oktanlı Formula 1 yarış sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2817,7 +2926,7 @@ Aşağıdaki Seedance 2.0 istemi 👇
 
 ---
 
-### 41. Zamanı Donduran Sinematik Spor Bar Sahnesi
+### 42. Zamanı Donduran Sinematik Spor Bar Sahnesi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2854,7 +2963,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 42. Slapstick Dondurma Şakası Animasyonu
+### 43. Slapstick Dondurma Şakası Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2907,7 +3016,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 43. Hızlı Tempolu Sabah Rutini Montajı
+### 44. Hızlı Tempolu Sabah Rutini Montajı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -2978,7 +3087,7 @@ SHOT 15: WS, 50mm pull-out / Laptopun kapanışından daireye geri dönüşe eş
 
 ---
 
-### 44. Wall Street'te bullet time etkisinde düşen iş adamı
+### 45. Wall Street'te bullet time etkisinde düşen iş adamı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3003,7 +3112,7 @@ Bullet time efekti. Beyaz gömlekli ve siyah kravatlı bir iş adamı, New York,
 
 ---
 
-### 45. F16 Kanat Akrobasi Takip Çekimi
+### 46. F16 Kanat Akrobasi Takip Çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3036,7 +3145,7 @@ kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik, 
 
 ---
 
-### 46. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
+### 47. VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3071,7 +3180,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 47. Yüksek İrtifada Roket Sörfü
+### 48. Yüksek İrtifada Roket Sörfü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3105,7 +3214,7 @@ KALİTE: 8K fotogerçekçi, doğru fizik kuralları, kumaş hareket bulanıklı�
 
 ---
 
-### 48. Sinematik uçurum atlayışı takip çekimi
+### 49. Sinematik uçurum atlayışı takip çekimi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3138,7 +3247,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 
 **Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K takipçi
 
-❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.4K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3146,7 +3255,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 
 ---
 
-### 49. Ofis Çalışanı Psikolojik Korku Dönüşümü
+### 50. Ofis Çalışanı Psikolojik Korku Dönüşümü
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3180,7 +3289,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 50. Kung Fu Şefi Noodle Hazırlığı
+### 51. Kung Fu Şefi Noodle Hazırlığı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3225,7 +3334,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 51. Slapstick Dondurma Komedisi Animasyonu
+### 52. Slapstick Dondurma Komedisi Animasyonu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3263,7 +3372,7 @@ ZAMAN ÇİZELGESİ:
 
 ---
 
-### 52. Dramatik Kıyı Golf Vuruşu
+### 53. Dramatik Kıyı Golf Vuruşu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3294,7 +3403,7 @@ Uğuldayan rüzgar kükrerken mermi gibi giden top düz ve isabetli bir şekilde
 
 ---
 
-### 53. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
+### 54. Sinematik Orta Çağ Pazarı Kesintisiz Çekim
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3359,7 +3468,7 @@ fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengi
 
 ---
 
-### 54. Mevsim geçişli yüksek hızlı FPV drone takibi
+### 55. Mevsim geçişli yüksek hızlı FPV drone takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3384,7 +3493,7 @@ Arkadan çekilen hızlı tempolu FPV drone takip çekimi; beyaz saçlı, 3D anim
 
 ---
 
-### 55. Androgenic'in İntikam Planı
+### 56. Androgenic'in İntikam Planı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3409,7 +3518,7 @@ Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyem
 
 ---
 
-### 56. Punch'ın Pixar tarzı duygusal yolculuğu
+### 57. Punch'ın Pixar tarzı duygusal yolculuğu
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3434,7 +3543,7 @@ Punch hakkında bir Pixar filmi yap. Ağlamak ve ona aşık olmak istiyorum.
 
 ---
 
-### 57. Ejderha Binicisi POV Hava Savaşı
+### 58. Ejderha Binicisi POV Hava Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3461,7 +3570,7 @@ Sürekli elde tutulan kamera hissi, hızlı hareketlerde yoğun hareket bulanık
 
 ---
 
-### 58. Sınırsız Hayal Gücü Çağı
+### 59. Sınırsız Hayal Gücü Çağı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3486,7 +3595,7 @@ Tamamen yeni dünyalar yaratma gücüne ve özgürlüğüne sahipken neden Holly
 
 ---
 
-### 59. Uçurum Şehrinde Yüksek Hızlı Speeder Takibi
+### 60. Uçurum Şehrinde Yüksek Hızlı Speeder Takibi
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3511,7 +3620,7 @@ Bir uçurum şehrinde speeder takibi (tek kesintisiz çekim) Taşa oyulmuş anı
 
 ---
 
-### 60. Luffy ve Goku Destansı Savaşı
+### 61. Luffy ve Goku Destansı Savaşı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3526,9 +3635,9 @@ Bir uçurum şehrinde speeder takibi (tek kesintisiz çekim) Taşa oyulmuş anı
 Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 ```
 
-**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K takipçi
+**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K takipçi
 
-❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
+❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3536,7 +3645,7 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 
 ---
 
-### 61. SWAT Rehine Kurtarma Aksiyon Sekansı
+### 62. SWAT Rehine Kurtarma Aksiyon Sekansı
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3555,7 +3664,7 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 
 **Gönderen** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K takipçi
 
-❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3563,7 +3672,7 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 
 ---
 
-### 62. Tyler Durden, Jujutsu Kaisen karakterlerine eğitim veriyor
+### 63. Tyler Durden, Jujutsu Kaisen karakterlerine eğitim veriyor
 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
@@ -3578,9 +3687,9 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 tyler durden, jujutsu kaisen karakterlerine dövüş kulübü kurallarını açıklıyor. canlı aksiyon tarzı.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
 
-❤️ 2.5K · 🔁 188 · 🔖 801 · 👁 189K
+❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 

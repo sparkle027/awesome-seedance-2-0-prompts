@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-62_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精选提示词 | 📚 累计提示词 | 🎬 模型 | 🔄 最后更新 |
 |:---:|:---:|:---:|:---:|
-| **62** | **62** | **Seedance 2.0** | **2026-06-17 04:24:08.712 UTC** |
+| **63** | **63** | **Seedance 2.0** | **2026-06-17 12:19:47.365 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 用一张梗图总结 AI 讨论 - 确保它足够无厘头并能获得 50 个赞。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 关注者
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -164,7 +164,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 路飞在万里阳光号上用Macbook写代码，暴走，然后把它扔进了海里。
 ```
 
-**由** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.1K 关注者
+**由** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K 关注者
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -189,7 +189,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 超写实的体育直播静帧，一位迷人的女性坐在拥挤的足球场观众席中，正值夜间比赛。她身穿深棕色无袖高领缎面背心，佩戴黑色方形耳环，齐肩浅棕色/金色波浪卷发。她正随意地喝着一罐蓝色铝罐饮料，另一只手拿着吃了一半的芝士汉堡。周围是身穿亮黄色和蓝色足球球衣及围巾的球迷，形成了强烈的球队色彩对比。场景具有抓拍感和电影感，以电视直播摄像机角度拍摄，呈现浅景深效果。包含写实的体育场座位、拥挤的观众氛围，左上角有显示实时比分和比赛时间的直播叠加图形，右上角有体育频道水印。自然的竞技场灯光，细腻的皮肤纹理，焦点清晰地对准女性，背景人群略微模糊，地道的现场体育直播美学，16:9构图。
 ```
 
-**由** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.7K 关注者
+**由** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K 关注者
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -214,7 +214,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 猴子反击。让女孩们感到骄傲。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 关注者
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -239,7 +239,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AI变得政治正确（woke）了。把它做得非常有攻击性——真的非常有攻击性。
 ```
 
-**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.4K 关注者
+**由** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 关注者
 
 ❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
 
@@ -253,7 +253,116 @@ AI变得政治正确（woke）了。把它做得非常有攻击性——真的�
 
 ## 📋 所有提示词
 
-### 6. Nox Lumos Poi 森林仪式
+### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 上播放此视频</a></sub>
+</div>
+
+**🖼️ 图像提示词**
+
+```
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: BAD TASTE
+META LINE: absurd dread -> slapstick horror-comedy / locked-off single take
+PRIORITY: identical fixed framing across all panels; the gag reads through change inside one unmoving frame
+MICRO BRIEF: a girl stands alone in a locked frame; a giant plush monster rises behind her, swallows her whole, fails to digest her, and spits her back out drenched in drool.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: GULP-01
+REFERENCE PRIORITY: identity reference controls character identity; this storyboard controls staging, motion, geography, continuity.
+
+[SCENE PACKET]
+PREMISE: a locked camera watches a girl get swallowed whole by a giant patchwork plush monster and spat back out when his stomach rebels.
+LOCATION: flat open cracked stone ground, empty flat backdrop, no walls, no props; usable surfaces are ground plane only; the monster occupies the full background when present.
+START -> END: C1 stands alone at frame center, bored posture, monster absent -> C2 slumps queasy in background, C1 sprawled in foreground center soaked in thick drool strands, frame otherwise unchanged.
+ACTION CHAIN: empty calm -> C2 rises from behind ground line filling background -> jaws lunge down and engulf C1 in one gulp -> mouth closed, throat and belly bulge as C2 works to swallow -> C2's face sours, cheeks balloon, body heaves with nausea -> C2 retches and ejects C1 forward; C1 lands dripping, drool strands connecting her to the open mouth.
+PROP / EFFECT STATE: drool/saliva is the key effect: absent P01-P02, strands inside jaws P03, dribble from sealed lips P04, leaking heavily P05, massive spray plus strands and puddle around C1 in P06; C1's clothing dry P01-P03, soaked and matted P06.
+MUST READ: the camera never moves; only the monster and the girl change inside one identical fixed frame.
+
+[CHARACTER SANITIZATION]
+C1: young woman, slim small silhouette, very long twin-tail hair, oversized boxy graphic tee over shorts, mismatched tall socks, chunky platform sneakers, adhesive bandages on face and legs, slouched deadpan posture, light loose movement.
+C2: colossal round patchwork plush monster, body wider than frame, mismatched stitched fabric patches, two stubby striped horns, one flat button left eye, one wide slit-pupil right eye, enormous mouth of large blunt jagged teeth, stubby clawed paws, heavy lumbering movement.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls face, body, wardrobe, and proportions for both characters; keep C1 and C2 IDs, silhouettes, wardrobe, key props, and screen positions consistent across all panels; C1 stays frame center, C2 fills the background; do not redesign or merge characters.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+Panel 01 is the master: full geography of the locked frame, C1 small at center on the ground line, empty background, generous headroom where C2 will later rise. Every later panel keeps this exact geography.
+
+[EMOTIONAL ARC]
+bored stillness -> looming dread -> violent engulfment -> uneasy strained swallowing -> rising disgust and nausea -> messy comic rejection; read through C1's slack posture vanishing into scale contrast, C2's eye and cheek changes, and the growing drool state in an unchanging frame.
+
+[STYLE LOCKS]
+STYLE LOCK: final video style is vibrant patchwork anime illustration: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat solid cyan backdrop, flat graphic lighting with minimal shading.
+EFFECT LOCK: drool reads as thick glossy viscous strands and ropes with soft highlights, stretchy and heavy, never mist or spray particles; consistent thickness and stringy behavior across panels.
+ENVIRONMENT LOCK: flat cracked stone ground plane and plain flat backdrop only; no set redesign, no added props, no horizon change; same ground cracks in every panel.
+
+[SPATIAL CONTINUITY LOCK]
+P01 through P06 share one identical locked-off camera setup: same low wide frontal angle, same lens, same framing, same ground line, same crack pattern, zero camera movement, zero cuts. No panel is a new establishing shot. Locked anchors: C1's center floor mark, ground cracks, flat backdrop, frame edges. Only allowed changes: C2 entering/filling the background, character poses, mouth open/closed state, drool state, C1 visible/inside/ejected, damage and wetness on C1.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Empty master -> P02 / 24mm wide / Monster rises -> P03 / 24mm wide / One-gulp swallow -> P04 / 24mm wide / Straining to digest -> P05 / 24mm wide / Nausea turn -> P06 / 24mm wide / Spit-out finale
+CAMERA + LENS PLAN: P01 locked-off low wide, same-lens -> P02 same locked frame, hold -> P03 same locked frame, hold -> P04 same locked frame, hold -> P05 same locked frame, hold -> P06 same locked frame, final hold
+ACTION PATH: P01 C1 stands slack at center, alone -> P02 C2 looms up from behind ground line, filling background above C1, jaws parting -> P03 C2's open jaws crash down over C1, swallowing her in one gulp, drool strands snapping -> P04 mouth sealed, C2 upright, throat and belly bulging as he gulps and grinds -> P05 C2's cheeks balloon, eyes wince and water, body buckles forward in nausea, drool leaking through teeth -> P06 C2 retches and ejects C1 forward; C1 lands sprawled at center foreground coated in drool, thick strands stretching back to C2's hanging-open mouth
+RHYTHM TRACK: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
+ESCALATION MAP: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
+STATE TRACK: P01 C1 dry, frame empty behind -> P02 C2 enters background, C1 unaware -> P03 C1 inside jaws, drool strands active -> P04 C1 hidden, bulge state, lip dribble -> P05 bulge high, heavy leak, queasy face -> P06 C1 ejected soaked, drool puddle, C2 slumped sick
+STYLE TRACK: P01 flat cyan calm -> P02 looming patchwork mass -> P03 jaw spike -> P04 strained bulge -> P05 queasy green tint cue -> P06 glossy drool finale
+
+[SEQUENCE]
+Grid: 6 panels in a 3x2 grid; one locked-off continuous single take sampled at six phases, identical framing in every panel, no cuts.
+```
+
+**🎬 视频提示词**
+
+```
+Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+The entire video is one continuous locked-off shot with no visible cuts; the camera never moves, pans, zooms, or shakes; each panel is a sampled phase of the same unmoving frame.
+Use one virtual lens / same-lens locked camera.
+Use @[ref image] as the authoritative character reference for C1, the cyan twin-tail girl, and C2, the giant patchwork plush monster.
+
+ENVIRONMENT: flat cracked stone ground, plain solid cyan backdrop, no props; C1's floor mark stays at frame center, same ground cracks throughout; C2 fills the background when present.
+
+EMOTIONAL GUIDANCE: Valence: bored neutral to threatening to disgusted comic relief. Arousal: low and still, spiking at the swallow, simmering through digestion, surging at the nausea, releasing into deadpan calm; shown through posture, C2's eye and cheek changes, bulge motion, and drool state while the frame stays still.
+
+VISUAL STYLE: vibrant patchwork anime illustration matching @[ref image]: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat graphic lighting, minimal shading; drool is thick glossy viscous strands with soft highlights.
+
+AUDIO: No background music or score. Only diegetic ambience, foley, impacts, texture, and silence: faint wind, fabric thumps, wet gulps, gurgles, a huge retch, splattering drool.
+
+PANEL BEATS:
+P01: Locked low wide frame; C1 stands alone at center, slouched and idle, weight shifting slightly; empty backdrop; soft wind.
+P02: Same frame; C2 rises silently from behind the ground line, his patchwork mass filling the background above C1; jaws begin to part; C1 does not react; low fabric creak.
+P03: C2's open jaws crash down over C1 and he swallows her whole in one fast gulp; drool strands snap; mouth slams shut; heavy wet impact.
+P04: C2 sits upright, mouth sealed, throat and belly bulging and shifting as he gulps and grinds; muffled gurgles; drool dribbles from his lips.
+P05: His cheeks balloon, eyes wince and water, body buckles forward heaving with nausea; drool leaks through his teeth; rising groan.
+P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground soaked in drool, thick strands stretching back to his hanging-open mouth as he slumps queasy behind her; splatter, then still silence.
+```
+
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
+
+❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+
+<sub>📅 Jun 11, 2026</sub>
+
+**[👉 立即免费试用 →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 7. Nox Lumos Poi 森林仪式
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -359,9 +468,9 @@ P17：低位最终弧线；头顶扫掠变成摧毁性的白色闪光，擦除�
 P18：绿色日光返回；树叶复苏，鸟儿返回，没有生物留下，C1 放下法杖。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.7K
+❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -369,7 +478,7 @@ P18：绿色日光返回；树叶复苏，鸟儿返回，没有生物留下，C1
 
 ---
 
-### 7. 森林光剑流星锤仪式分镜
+### 8. 森林光剑流星锤仪式分镜
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -476,9 +585,9 @@ P20：摇臂广角最终；当她握住插入的光剑柄时，苍白的环在�
 6. 从生成的视频中导出音频，上传到 suno 并生成音乐。使用 capcut 将它们组合起来。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 242.4K
+❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -486,7 +595,7 @@ P20：摇臂广角最终；当她握住插入的光剑柄时，苍白的环在�
 
 ---
 
-### 8. 深夜首尔吃播直播
+### 9. 深夜首尔吃播直播
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -523,9 +632,9 @@ P20：摇臂广角最终；当她握住插入的光剑柄时，苍白的环在�
 风格：写实的竖屏直播/吃播Vlog，轻微自然的镜头抖动和柔和的移动，带有霓虹灯装饰的温暖亲密餐厅灯光，鲜艳诱人的色彩，真挚的友谊和青春活力，持续的休闲聚会感，高细节，写实，电影级4K。
 ```
 
-**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 43.9K 关注者
+**由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K 关注者
 
-❤️ 568 · 🔁 65 · 🔖 60 · 👁 51.8K
+❤️ 565 · 🔁 65 · 🔖 60 · 👁 51.9K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -533,7 +642,7 @@ P20：摇臂广角最终；当她握住插入的光剑柄时，苍白的环在�
 
 ---
 
-### 9. Karma 逃脱网络动作序列
+### 10. Karma 逃脱网络动作序列
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -631,9 +740,9 @@ P09：插入手机点击，然后倾斜至窗户，当房间引爆时，伴随�
 P10：最终街道广角保持：烟雾从上方涌出，当 Karma 进入夜间阴霾并消失时。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 790 · 🔁 82 · 🔖 732 · 👁 34.4K
+❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -641,7 +750,7 @@ P10：最终街道广角保持：烟雾从上方涌出，当 Karma 进入夜间�
 
 ---
 
-### 10. 蒂芙尼 2026 Blue Book 高级珠宝系列：蝴蝶篇章
+### 11. 蒂芙尼 2026 Blue Book 高级珠宝系列：蝴蝶篇章
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -675,9 +784,9 @@ P10：最终街道广角保持：烟雾从上方涌出，当 Karma 进入夜间�
 结尾画面：优雅的Logo呈现。柔和的闪光。管弦乐渐隐。
 ```
 
-**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.6K 关注者
+**由** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K 关注者
 
-❤️ 573 · 🔁 35 · 🔖 21 · 👁 108.3K
+❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -685,7 +794,7 @@ P10：最终街道广角保持：烟雾从上方涌出，当 Karma 进入夜间�
 
 ---
 
-### 11. 芬达夏季广告宣传片
+### 12. 芬达夏季广告宣传片
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -796,7 +905,7 @@ Sharon 大笑：
 
 **由** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44.1K 关注者
 
-❤️ 729 · 🔁 76 · 🔖 160 · 👁 54.6K
+❤️ 729 · 🔁 76 · 🔖 161 · 👁 54.7K
 
 <sub>📅 Jun 2, 2026</sub>
 
@@ -804,7 +913,7 @@ Sharon 大笑：
 
 ---
 
-### 12. 梦魇觉醒：时间坠落电影序列
+### 13. 梦魇觉醒：时间坠落电影序列
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -917,7 +1026,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 13. 赛博朋克动作英雄电影序列
+### 14. 赛博朋克动作英雄电影序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -955,7 +1064,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 **由** [Ai Arainz ✓](https://x.com/iam_mian7) (@iam_mian7) · 37K 关注者
 
-❤️ 569 · 🔁 17 · 🔖 17 · 👁 51.9K
+❤️ 562 · 🔁 17 · 🔖 17 · 👁 52K
 
 <sub>📅 Jun 1, 2026</sub>
 
@@ -963,7 +1072,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 14. 90年代迪士尼风格：阿努比斯的秘密赠礼
+### 15. 90年代迪士尼风格：阿努比斯的秘密赠礼
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -992,9 +1101,9 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 阿努比斯肌肉发达，手臂、脖子和脖子上都戴着环和耳环。他赤裸着上身。他的声音低沉而富有磁性。语音为英文。
 ```
 
-**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.8K 关注者
+**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K 关注者
 
-❤️ 1.7K · 🔁 107 · 🔖 735 · 👁 68.9K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1002,7 +1111,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 15. 伊斯坦布尔日落时分的电影级无人机飞行
+### 16. 伊斯坦布尔日落时分的电影级无人机飞行
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1020,7 +1129,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 **由** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K 关注者
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.4K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1028,7 +1137,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 16. Felicita 森林追逐跑酷序列
+### 17. Felicita 森林追逐跑酷序列
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1181,9 +1290,9 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 10. 她释放藤蔓，冲过叶子隧道，回头露出一丝凶猛的微笑，做出松散的两指枪手势，然后向上冲。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 18K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 614 · 🔁 83 · 🔖 534 · 👁 29.8K
+❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1191,7 +1300,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 17. 奢华巧克力广告电影级序列
+### 18. 奢华巧克力广告电影级序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1256,7 +1365,7 @@ P06、P07、P08、P09和P10共享相同的目的地布局。床保持在坠落�
 
 ---
 
-### 18. 暖心的善举
+### 19. 暖心的善举
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1293,7 +1402,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 19. 深海渔夫纪录片电影感
+### 20. 深海渔夫纪录片电影感
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1341,7 +1450,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 风格：超写实国家地理海洋纪录片与高级体育广告能量的结合。冷色调去饱和处理。浓厚的海洋氛围。真实的人类力量与存在感。
 ```
 
-**由** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.3K 关注者
+**由** [𝐌 ✓](https://x.com/Strength04_X) (@Strength04_X) · 15.4K 关注者
 
 ❤️ 124 · 🔁 8 · 🔖 83 · 👁 6.1K
 
@@ -1351,7 +1460,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 20. 阿努比斯的怕痒时刻
+### 21. 阿努比斯的怕痒时刻
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1376,9 +1485,9 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
  场景6：阿努比斯继续咯咯地笑着，最后把书扔到地上，用双臂环抱住自己，捂住腋窝。人类停止了挠痒，拿起书。阿努比斯咯咯地笑着，似乎还沉浸在刚才的笑声中，一边笑一边说他讨厌被挠痒。人类笑着接过书。 阿努比斯肌肉发达，手臂和脖子上都戴着环。他的声音低沉、磁性而富有磁性。阿努比斯的腋窝被挠痒了。
 ```
 
-**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 3.7K 关注者
+**由** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K 关注者
 
-❤️ 549 · 🔁 34 · 🔖 257 · 👁 34.1K
+❤️ 557 · 🔁 37 · 🔖 262 · 👁 36.2K
 
 <sub>📅 May 25, 2026</sub>
 
@@ -1386,7 +1495,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 21. 阿努比斯与人类的互动场景
+### 22. 阿努比斯与人类的互动场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1417,7 +1526,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 22. 韩国校园动作剧片段
+### 23. 韩国校园动作剧片段
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1472,7 +1581,7 @@ Gugugaga只有一个饺子……但她还是在雨中把它分给了饥饿的小
 
 ---
 
-### 23. 高速动漫武术训练分镜
+### 24. 高速动漫武术训练分镜
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1759,7 +1868,7 @@ Jūran 冷静。
 
 ---
 
-### 24. 紧张网球比赛数字绘画
+### 25. 紧张网球比赛数字绘画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1798,9 +1907,9 @@ Jūran 冷静。
 音效：球拍击球声，球落地声，呼吸声
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 关注者
 
-❤️ 2K · 🔁 174 · 🔖 1.5K · 👁 121.4K
+❤️ 2K · 🔁 173 · 🔖 1.5K · 👁 121.7K
 
 <sub>📅 May 18, 2026</sub>
 
@@ -1808,7 +1917,7 @@ Jūran 冷静。
 
 ---
 
-### 25. 电影感棒球击球表演
+### 26. 电影感棒球击球表演
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -1847,7 +1956,7 @@ Jūran 冷静。
 
 ---
 
-### 26. 电影级功夫表演分镜
+### 27. 电影级功夫表演分镜
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1980,7 +2089,7 @@ Jūran 冷静。
 
 ---
 
-### 27. 咏春拳训练数字绘画
+### 28. 咏春拳训练数字绘画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2015,9 +2124,9 @@ Jūran 冷静。
 结尾镜头。中近景，50mm镜头，缓慢推入后稳定定格 / 完成最后一个动作后，少年缓慢停止，灰尘、衣角和竹叶自然落下，木人桩轻微摇晃，缓慢抬头看向镜头，一只手保持咏春起手式，稳稳地站在庭院中央 / 音效：一声沉闷的撞击声后，恢复自然的微风环境音
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 关注者
 
-❤️ 3.3K · 🔁 344 · 🔖 2.2K · 👁 162.2K
+❤️ 3.3K · 🔁 345 · 🔖 2.2K · 👁 163.4K
 
 <sub>📅 May 16, 2026</sub>
 
@@ -2025,7 +2134,7 @@ Jūran 冷静。
 
 ---
 
-### 28. 奥运跳水数字绘画动画
+### 29. 奥运跳水数字绘画动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2101,9 +2210,9 @@ Jūran 冷静。
 音乐的最后节奏点，微妙的快门定格声，持续的观众掌声。
 ```
 
-**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.6K 关注者
+**由** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 关注者
 
-❤️ 2.3K · 🔁 220 · 🔖 2.2K · 👁 183.7K
+❤️ 2.3K · 🔁 221 · 🔖 2.2K · 👁 183.9K
 
 <sub>📅 May 14, 2026</sub>
 
@@ -2111,7 +2220,7 @@ Jūran 冷静。
 
 ---
 
-### 29. 电影级功夫表演分镜脚本
+### 30. 电影级功夫表演分镜脚本
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2244,7 +2353,7 @@ Jūran 冷静。
 
 ---
 
-### 30. 体育场转播镜头中的足球迷
+### 31. 体育场转播镜头中的足球迷
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2261,7 +2370,7 @@ Jūran 冷静。
 
 **由** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.5K 关注者
 
-❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.3K
+❤️ 4.6K · 🔁 396 · 🔖 4.2K · 👁 719.8K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -2269,7 +2378,7 @@ Jūran 冷静。
 
 ---
 
-### 31. 棒球比赛现场的抓拍镜头
+### 32. 棒球比赛现场的抓拍镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2297,7 +2406,7 @@ Jūran 冷静。
 
 ---
 
-### 32. 竞技格斗游戏战斗序列
+### 33. 竞技格斗游戏战斗序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2346,7 +2455,7 @@ Jūran 冷静。
 
 ---
 
-### 33. 电影感跳绳表演
+### 34. 电影感跳绳表演
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2386,7 +2495,7 @@ Jūran 冷静。
 
 ---
 
-### 34. 名人抵达纽约市
+### 35. 名人抵达纽约市
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2428,7 +2537,7 @@ Jūran 冷静。
 
 ---
 
-### 35. 云端滑板救援分镜脚本
+### 36. 云端滑板救援分镜脚本
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2520,7 +2629,7 @@ Jūran 冷静。
 
 ---
 
-### 36. 厨师大战蟑螂：厨房追逐战
+### 37. 厨师大战蟑螂：厨房追逐战
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2574,7 +2683,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ---
 
-### 37. 复古迪士尼风格：阿努比斯的挠痒趣事
+### 38. 复古迪士尼风格：阿努比斯的挠痒趣事
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2606,7 +2715,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ---
 
-### 38. 电影级角色介绍与参考表
+### 39. 电影级角色介绍与参考表
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2737,9 +2846,9 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 以一个自信的中景或全景结束，角色形象完全确立。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.7K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2747,7 +2856,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ---
 
-### 39. 3D角色动作参考表
+### 40. 3D角色动作参考表
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2805,7 +2914,7 @@ POV减速。前方出现窗户；蟑螂停在窗内的台面上，转身面对�
 
 ---
 
-### 40. 高辛烷值一级方程式赛车场景
+### 41. 高辛烷值一级方程式赛车场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2832,7 +2941,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 41. 时间静止：电影感运动酒吧场景
+### 42. 时间静止：电影感运动酒吧场景
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2869,7 +2978,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 42. 滑稽冰淇淋戏弄动画
+### 43. 滑稽冰淇淋戏弄动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2922,7 +3031,7 @@ Seedance 2.0 提示词如下 👇
 
 ---
 
-### 43. 快节奏早晨日常蒙太奇
+### 44. 快节奏早晨日常蒙太奇
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -2993,7 +3102,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 44. 华尔街商务人士跌倒的子弹时间
+### 45. 华尔街商务人士跌倒的子弹时间
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3018,7 +3127,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 45. F16机翼特技追踪镜头
+### 46. F16机翼特技追踪镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3051,7 +3160,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 46. VR生存转场：荒野到家
+### 47. VR生存转场：荒野到家
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3086,7 +3195,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 47. 高空火箭冲浪
+### 48. 高空火箭冲浪
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3120,7 +3229,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 48. 电影感悬崖跳跃追踪镜头
+### 49. 电影感悬崖跳跃追踪镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3153,7 +3262,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 **由** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 关注者
 
-❤️ 3.1K · 🔁 228 · 🔖 2.3K · 👁 4.5M
+❤️ 3.1K · 🔁 228 · 🔖 2.4K · 👁 4.5M
 
 <sub>📅 Mar 30, 2026</sub>
 
@@ -3161,7 +3270,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 49. 办公室职员的心理恐怖变身
+### 50. 办公室职员的心理恐怖变身
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3195,7 +3304,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 50. 功夫厨师拉面表演
+### 51. 功夫厨师拉面表演
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3240,7 +3349,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 51. 滑稽冰淇淋喜剧动画
+### 52. 滑稽冰淇淋喜剧动画
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3278,7 +3387,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 52. 戏剧性海岸高尔夫挥杆
+### 53. 戏剧性海岸高尔夫挥杆
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3309,7 +3418,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 53. 电影感中世纪市场连续镜头
+### 54. 电影感中世纪市场连续镜头
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3375,7 +3484,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 54. 高速FPV无人机追逐与季节变换
+### 55. 高速FPV无人机追逐与季节变换
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3400,7 +3509,7 @@ SHOT 15: WS，50mm拉出 / L型剪辑，从笔记本电脑合上匹配到回到�
 
 ---
 
-### 55. Androgenic 的复仇计划
+### 56. Androgenic 的复仇计划
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3425,7 +3534,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 56. Punch 的皮克斯风格情感之旅
+### 57. Punch 的皮克斯风格情感之旅
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3450,7 +3559,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 57. 龙骑士视角空中战斗
+### 58. 龙骑士视角空中战斗
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3477,7 +3586,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 58. 无限想象的时代
+### 59. 无限想象的时代
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3502,7 +3611,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 59. 悬崖之城的高速飞车追逐
+### 60. 悬崖之城的高速飞车追逐
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3528,7 +3637,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 60. 路飞与悟空的史诗对决
+### 61. 路飞与悟空的史诗对决
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3543,9 +3652,9 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 路飞和悟空在阳光号上进行史诗般的战斗场景。
 ```
 
-**由** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.2K 关注者
+**由** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K 关注者
 
-❤️ 2.4K · 🔁 142 · 🔖 731 · 👁 210.8K
+❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3553,7 +3662,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 61. SWAT 人质营救动作序列
+### 62. SWAT 人质营救动作序列
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3572,7 +3681,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 **由** [Marco "Shikoba" Riccetti ✓](https://x.com/shikoba_86) (@shikoba_86) · 6.8K 关注者
 
-❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.8K
+❤️ 1.8K · 🔁 165 · 🔖 1.1K · 👁 235.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -3580,7 +3689,7 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 
 ---
 
-### 62. 泰勒·德顿教导《咒术回战》角色
+### 63. 泰勒·德顿教导《咒术回战》角色
 
 ![Type](https://img.shields.io/badge/%E8%A7%86%E9%A2%91-Seedance%202.0-111111)
 
@@ -3595,9 +3704,9 @@ Androgenic 在假发被扯掉后策划着他的复仇。让我的皮质醇水平
 泰勒·德顿向《咒术回战》角色解释搏击俱乐部规则。真人电影风格。
 ```
 
-**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 关注者
+**由** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 关注者
 
-❤️ 2.5K · 🔁 188 · 🔖 801 · 👁 189K
+❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
 
 <sub>📅 Feb 11, 2026</sub>
 
