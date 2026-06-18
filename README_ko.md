@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-70_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **63** | **63** | **Seedance 2.0** | **2026-06-17 22:03:27.810 UTC** |
+| **70** | **70** | **Seedance 2.0** | **2026-06-18 04:17:14.380 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개를 받을 수 있는 것으로.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K 팔로워
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -149,7 +149,32 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 
 ---
 
-### 2. 사우전드 써니호에서 코딩하다 분노하는 루피
+### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="An average shift at Waffle House - make sure it's retarded and gets 5…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+```
+
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K 팔로워
+
+❤️ 24.3K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+
+<sub>📅 Feb 12, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 3. 사우전드 써니호에서 코딩하다 분노하는 루피
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
@@ -164,7 +189,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 사우전드 써니호에서 Macbook으로 코딩하는 루피, 분노하며 바다로 던져버림.
 ```
 
-**작성자:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K 팔로워
+**작성자:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.6K 팔로워
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -174,7 +199,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 
 ---
 
-### 3. 생생한 스포츠 중계 경기장 장면
+### 4. 생생한 스포츠 중계 경기장 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
@@ -189,7 +214,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 야간 경기 중 관중으로 가득 찬 축구 경기장에 앉아 있는 매력적인 여성의 초현실적인 스포츠 중계 스틸 컷. 어두운 갈색 민소매 하이넥 새틴 탑을 입고 검은색 사각 귀걸이를 착용했으며, 어깨 길이의 밝은 갈색/금발 머리는 부드러운 웨이브 스타일입니다. 그녀는 한 손에는 반쯤 먹은 치즈버거를 들고 다른 한 손으로는 키 큰 파란색 알루미늄 캔 음료를 자연스럽게 마시고 있습니다. 주변에는 밝은 노란색과 파란색 축구 유니폼과 스카프를 두른 팬들이 있어 강렬한 팀 컬러 대비를 이룹니다. 이 장면은 TV 중계 카메라 각도에서 얕은 피사계 심도로 촬영되어 자연스럽고 영화 같은 느낌을 줍니다. 사실적인 경기장 좌석, 붐비는 관중 분위기, 왼쪽 상단에 실시간 축구 점수와 경기 타이머가 표시된 중계 오버레이 그래픽, 오른쪽 상단에 스포츠 네트워크 워터마크를 포함하세요. 자연스러운 경기장 조명, 디테일한 피부 질감, 여성에게 맞춰진 선명한 초점, 약간 흐릿한 배경 관중, 정통 라이브 스포츠 중계 미학, 16:9 구도.
 ```
 
-**작성자:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K 팔로워
+**작성자:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 9K 팔로워
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -199,7 +224,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 
 ---
 
-### 4. 원숭이의 반격
+### 5. 원숭이의 반격
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -214,7 +239,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 원숭이가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K 팔로워
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -224,137 +249,112 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 
 ---
 
-### 5. 풍자적인 AI 사회 논평
-
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="풍자적인 AI 사회 논평"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
-</div>
-
-**📝 프롬프트**
-
-```
-AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격적으로.
-```
-
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
-
-<sub>📅 Feb 19, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
 <a id="all-prompts"></a>
 
 ## 📋 모든 프롬프트
 
-### 6. Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…
+### 6. 16:9 이미지를 생성하세요. [프로젝트 카드] 표가 아닌 간결한 디자인의 마스트헤드를 생성하세요. 제목: BAD TASTE…
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Create a 16:9 image. [PROJECT CARD] Create a compact designed masthea…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="16:9 이미지를 생성하세요. [프로젝트 카드] 표가 아닌 간결한 디자인의 마스트헤드를 생성하세요. 제목: BAD TASTE…"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
 **🖼️ 이미지 프롬프트**
 
 ```
-Create a 16:9 image.
+16:9 이미지를 생성하세요.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: BAD TASTE
-META LINE: absurd dread -> slapstick horror-comedy / locked-off single take
-PRIORITY: identical fixed framing across all panels; the gag reads through change inside one unmoving frame
-MICRO BRIEF: a girl stands alone in a locked frame; a giant plush monster rises behind her, swallows her whole, fails to digest her, and spits her back out drenched in drool.
+[프로젝트 카드]
+표가 아닌 간결한 디자인의 마스트헤드를 생성하세요.
+제목: BAD TASTE
+메타 라인: 부조리한 공포 -> 슬랩스틱 호러 코미디 / 고정된 단일 샷
+우선순위: 모든 패널에서 동일한 고정 프레임 유지; 움직이지 않는 하나의 프레임 안에서 변화를 통해 개그가 전달됨
+마이크로 브리프: 소녀가 고정된 프레임 안에 홀로 서 있습니다. 거대한 봉제 괴물이 그녀 뒤에서 나타나 그녀를 통째로 삼키고, 소화에 실패하여 침범벅이 된 채로 다시 뱉어냅니다.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: GULP-01
-REFERENCE PRIORITY: identity reference controls character identity; this storyboard controls staging, motion, geography, continuity.
+[연속성 헤더]
+시퀀스 ID: GULP-01
+참조 우선순위: ID 참조는 캐릭터의 정체성을 제어하며, 이 스토리보드는 연출, 동작, 지리, 연속성을 제어합니다.
 
-[SCENE PACKET]
-PREMISE: a locked camera watches a girl get swallowed whole by a giant patchwork plush monster and spat back out when his stomach rebels.
-LOCATION: flat open cracked stone ground, empty flat backdrop, no walls, no props; usable surfaces are ground plane only; the monster occupies the full background when present.
-START -> END: C1 stands alone at frame center, bored posture, monster absent -> C2 slumps queasy in background, C1 sprawled in foreground center soaked in thick drool strands, frame otherwise unchanged.
-ACTION CHAIN: empty calm -> C2 rises from behind ground line filling background -> jaws lunge down and engulf C1 in one gulp -> mouth closed, throat and belly bulge as C2 works to swallow -> C2's face sours, cheeks balloon, body heaves with nausea -> C2 retches and ejects C1 forward; C1 lands dripping, drool strands connecting her to the open mouth.
-PROP / EFFECT STATE: drool/saliva is the key effect: absent P01-P02, strands inside jaws P03, dribble from sealed lips P04, leaking heavily P05, massive spray plus strands and puddle around C1 in P06; C1's clothing dry P01-P03, soaked and matted P06.
-MUST READ: the camera never moves; only the monster and the girl change inside one identical fixed frame.
+[장면 패킷]
+전제: 고정된 카메라가 거대한 패치워크 봉제 괴물에게 통째로 삼켜졌다가 위장이 거부 반응을 일으켜 다시 뱉어지는 소녀를 관찰합니다.
+위치: 평평하고 갈라진 돌바닥, 빈 평면 배경, 벽이나 소품 없음; 사용 가능한 표면은 지면뿐이며, 괴물이 있을 때는 배경 전체를 차지합니다.
+시작 -> 끝: C1이 프레임 중앙에 홀로 서 있고 지루한 자세, 괴물 없음 -> C2가 배경에서 메스꺼워하며 쓰러지고, C1이 끈적한 침 가닥에 젖은 채 전경 중앙에 뻗어 있음, 프레임은 그 외 변함없음.
+액션 체인: 빈 평온함 -> C2가 지면 뒤에서 솟아올라 배경을 채움 -> 턱이 내려와 C1을 한입에 집어삼킴 -> 입을 닫고, C2가 삼키려고 애쓰면서 목과 배가 불룩해짐 -> C2의 얼굴이 일그러지고, 볼이 부풀어 오르며, 구역질로 몸이 들썩임 -> C2가 구토하며 C1을 앞으로 뱉어냄; C1이 침을 흘리며 착지하고, 침 가닥이 열린 입과 연결됨.
+소품 / 효과 상태: 침/타액이 핵심 효과임: P01-P02에는 없음, P03에는 턱 안쪽에 가닥, P04에는 닫힌 입술에서 흘러내림, P05에는 심하게 흘러내림, P06에는 거대한 분사 및 가닥과 C1 주변의 웅덩이; C1의 옷은 P01-P03에는 건조, P06에는 젖고 뭉쳐 있음.
+필독: 카메라는 절대 움직이지 않음; 동일한 고정 프레임 안에서 괴물과 소녀만 변화함.
 
-[CHARACTER SANITIZATION]
-C1: young woman, slim small silhouette, very long twin-tail hair, oversized boxy graphic tee over shorts, mismatched tall socks, chunky platform sneakers, adhesive bandages on face and legs, slouched deadpan posture, light loose movement.
-C2: colossal round patchwork plush monster, body wider than frame, mismatched stitched fabric patches, two stubby striped horns, one flat button left eye, one wide slit-pupil right eye, enormous mouth of large blunt jagged teeth, stubby clawed paws, heavy lumbering movement.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[캐릭터 정리]
+C1: 젊은 여성, 날씬하고 작은 실루엣, 매우 긴 트윈테일 머리, 반바지 위에 입은 박시한 그래픽 티셔츠, 짝짝이 긴 양말, 두꺼운 플랫폼 스니커즈, 얼굴과 다리에 붙인 반창고, 구부정한 무표정한 자세, 가볍고 느슨한 움직임.
+C2: 거대하고 둥근 패치워크 봉제 괴물, 프레임보다 넓은 몸, 짝짝이로 꿰맨 천 조각, 두 개의 짧은 줄무늬 뿔, 왼쪽의 평평한 단추 눈, 오른쪽의 넓은 세로 동공 눈, 무디고 들쭉날쭉한 이빨이 가득한 거대한 입, 짧은 발톱이 있는 앞발, 무겁고 둔한 움직임.
+모순된 특성, 보이지 않는 심리, 과도한 의상 디테일, 패널에 나타날 수 없는 배경 이야기를 제거하세요.
 
-[IDENTITY CONSISTENCY]
-Identity reference controls face, body, wardrobe, and proportions for both characters; keep C1 and C2 IDs, silhouettes, wardrobe, key props, and screen positions consistent across all panels; C1 stays frame center, C2 fills the background; do not redesign or merge characters.
+[정체성 일관성]
+ID 참조는 두 캐릭터의 얼굴, 신체, 의상, 비율을 제어합니다. 모든 패널에서 C1과 C2의 ID, 실루엣, 의상, 주요 소품, 화면 위치를 일관되게 유지하세요. C1은 프레임 중앙에 머물고, C2는 배경을 채웁니다. 캐릭터를 재설계하거나 합치지 마세요.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[스토리보드 순수성]
+패널 이미지는 시각 전용의 저세부 흑백 연한 회색 러프 스케치입니다. 패널 번호, 비트 이름, 렌즈 태그를 각 패널 이미지 외부의 헤더 스트립에 넣으세요. 패널 내부에 색상, 라벨, 화살표, 캡션, 자막, 로고, 워터마크, 타이밍 표시, 다이어그램, UI, 고스트 포즈, 중복 신체 또는 기술적 오버레이를 넣지 마세요.
 
-[MASTER SHOT RULE]
-Panel 01 is the master: full geography of the locked frame, C1 small at center on the ground line, empty background, generous headroom where C2 will later rise. Every later panel keeps this exact geography.
+[마스터 샷 규칙]
+패널 01은 마스터입니다: 고정 프레임의 전체 지리, 지면 라인 중앙에 작게 있는 C1, 빈 배경, 나중에 C2가 솟아오를 공간을 위한 충분한 헤드룸. 이후 모든 패널은 이 정확한 지리를 유지합니다.
 
-[EMOTIONAL ARC]
-bored stillness -> looming dread -> violent engulfment -> uneasy strained swallowing -> rising disgust and nausea -> messy comic rejection; read through C1's slack posture vanishing into scale contrast, C2's eye and cheek changes, and the growing drool state in an unchanging frame.
+[감정 곡선]
+지루한 정지 상태 -> 다가오는 공포 -> 격렬한 집어삼킴 -> 불편하고 힘겨운 삼킴 -> 커지는 혐오감과 메스꺼움 -> 지저분한 코믹한 거부; C1의 느슨한 자세가 규모 대비 속으로 사라지는 것, C2의 눈과 볼의 변화, 변하지 않는 프레임 속에서 커지는 침 상태를 통해 읽어내세요.
 
-[STYLE LOCKS]
-STYLE LOCK: final video style is vibrant patchwork anime illustration: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat solid cyan backdrop, flat graphic lighting with minimal shading.
-EFFECT LOCK: drool reads as thick glossy viscous strands and ropes with soft highlights, stretchy and heavy, never mist or spray particles; consistent thickness and stringy behavior across panels.
-ENVIRONMENT LOCK: flat cracked stone ground plane and plain flat backdrop only; no set redesign, no added props, no horizon change; same ground cracks in every panel.
+[스타일 고정]
+스타일 고정: 최종 비디오 스타일은 생동감 넘치는 패치워크 애니메이션 일러스트입니다: 굵고 어두운 선, 채도가 높은 시안-마젠타-퍼플-옐로우 팔레트, 괴물의 꿰맨 천 질감, 지저분하고 낡은 디테일, 평평한 단색 시안 배경, 최소한의 음영이 있는 평면 그래픽 조명.
+효과 고정: 침은 부드러운 하이라이트가 있는 두껍고 광택 있는 점성 가닥과 밧줄로 읽히며, 신축성이 있고 무겁습니다. 안개나 분사 입자가 아닙니다. 패널 전체에서 일관된 두께와 끈적한 동작을 유지하세요.
+환경 고정: 평평하고 갈라진 돌바닥과 평면 배경만 사용; 세트 재설계 없음, 추가 소품 없음, 지평선 변화 없음; 모든 패널에서 동일한 지면 균열.
 
-[SPATIAL CONTINUITY LOCK]
-P01 through P06 share one identical locked-off camera setup: same low wide frontal angle, same lens, same framing, same ground line, same crack pattern, zero camera movement, zero cuts. No panel is a new establishing shot. Locked anchors: C1's center floor mark, ground cracks, flat backdrop, frame edges. Only allowed changes: C2 entering/filling the background, character poses, mouth open/closed state, drool state, C1 visible/inside/ejected, damage and wetness on C1.
+[공간 연속성 고정]
+P01부터 P06까지는 하나의 동일한 고정 카메라 설정을 공유합니다: 동일한 낮은 와이드 정면 각도, 동일한 렌즈, 동일한 프레임, 동일한 지면 라인, 동일한 균열 패턴, 카메라 움직임 없음, 컷 없음. 새로운 설정 샷은 없습니다. 고정 앵커: C1의 중앙 바닥 표시, 지면 균열, 평면 배경, 프레임 가장자리. 허용된 유일한 변화: C2가 배경으로 들어오거나 채우는 것, 캐릭터 포즈, 입 열림/닫힘 상태, 침 상태, C1이 보이거나/안에 있거나/뱉어짐, C1의 손상 및 젖음 상태.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 24mm wide / Empty master -> P02 / 24mm wide / Monster rises -> P03 / 24mm wide / One-gulp swallow -> P04 / 24mm wide / Straining to digest -> P05 / 24mm wide / Nausea turn -> P06 / 24mm wide / Spit-out finale
-CAMERA + LENS PLAN: P01 locked-off low wide, same-lens -> P02 same locked frame, hold -> P03 same locked frame, hold -> P04 same locked frame, hold -> P05 same locked frame, hold -> P06 same locked frame, final hold
-ACTION PATH: P01 C1 stands slack at center, alone -> P02 C2 looms up from behind ground line, filling background above C1, jaws parting -> P03 C2's open jaws crash down over C1, swallowing her in one gulp, drool strands snapping -> P04 mouth sealed, C2 upright, throat and belly bulging as he gulps and grinds -> P05 C2's cheeks balloon, eyes wince and water, body buckles forward in nausea, drool leaking through teeth -> P06 C2 retches and ejects C1 forward; C1 lands sprawled at center foreground coated in drool, thick strands stretching back to C2's hanging-open mouth
-RHYTHM TRACK: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
-ESCALATION MAP: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
-STATE TRACK: P01 C1 dry, frame empty behind -> P02 C2 enters background, C1 unaware -> P03 C1 inside jaws, drool strands active -> P04 C1 hidden, bulge state, lip dribble -> P05 bulge high, heavy leak, queasy face -> P06 C1 ejected soaked, drool puddle, C2 slumped sick
-STYLE TRACK: P01 flat cyan calm -> P02 looming patchwork mass -> P03 jaw spike -> P04 strained bulge -> P05 queasy green tint cue -> P06 glossy drool finale
+[디렉터 스트립]
+패널 열에 정렬된 하단 애니매틱 트랙 보드. 트랙: 비트 라인, 카메라 경로, 액션 경로, 리듬 트랙, 에스컬레이션 맵, 상태 트랙, 스타일 트랙. 샷 칩, 가는 선, 리듬 블록, 작은 강도 막대, 1~3단어 라벨을 사용하세요. 초나 타임스탬프는 없습니다.
+리듬 트랙 형식: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+에스컬레이션 맵 형식: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+패널 헤더: P01 / 24mm wide / Empty master -> P02 / 24mm wide / Monster rises -> P03 / 24mm wide / One-gulp swallow -> P04 / 24mm wide / Straining to digest -> P05 / 24mm wide / Nausea turn -> P06 / 24mm wide / Spit-out finale
+카메라 + 렌즈 계획: P01 locked-off low wide, same-lens -> P02 same locked frame, hold -> P03 same locked frame, hold -> P04 same locked frame, hold -> P05 same locked frame, hold -> P06 same locked frame, final hold
+액션 경로: P01 C1 stands slack at center, alone -> P02 C2 looms up from behind ground line, filling background above C1, jaws parting -> P03 C2's open jaws crash down over C1, swallowing her in one gulp, drool strands snapping -> P04 mouth sealed, C2 upright, throat and belly bulging as he gulps and grinds -> P05 C2's cheeks balloon, eyes wince and water, body buckles forward in nausea, drool leaking through teeth -> P06 C2 retches and ejects C1 forward; C1 lands sprawled at center foreground coated in drool, thick strands stretching back to C2's hanging-open mouth
+리듬 트랙: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
+에스컬레이션 맵: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
+상태 트랙: P01 C1 dry, frame empty behind -> P02 C2 enters background, C1 unaware -> P03 C1 inside jaws, drool strands active -> P04 C1 hidden, bulge state, lip dribble -> P05 bulge high, heavy leak, queasy face -> P06 C1 ejected soaked, drool puddle, C2 slumped sick
+스타일 트랙: P01 flat cyan calm -> P02 looming patchwork mass -> P03 jaw spike -> P04 strained bulge -> P05 queasy green tint cue -> P06 glossy drool finale
 
-[SEQUENCE]
-Grid: 6 panels in a 3x2 grid; one locked-off continuous single take sampled at six phases, identical framing in every panel, no cuts.
+[시퀀스]
+그리드: 3x2 그리드의 6개 패널; 6단계로 샘플링된 고정된 연속 단일 테이크, 모든 패널에서 동일한 프레임, 컷 없음.
 ```
 
 **🎬 영상 프롬프트**
 
 ```
-Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-The entire video is one continuous locked-off shot with no visible cuts; the camera never moves, pans, zooms, or shakes; each panel is a sampled phase of the same unmoving frame.
-Use one virtual lens / same-lens locked camera.
-Use @[ref image] as the authoritative character reference for C1, the cyan twin-tail girl, and C2, the giant patchwork plush monster.
+@[storyboard ref]를 시퀀스에 대한 감독 승인 스토리보드 청사진으로 사용하세요. 모든 스토리보드 패널을 단일 영화 시퀀스 내의 연속적인 샷으로 취급하세요. 패널 순서를 정확히 따르고 대체 샷을 만들지 마세요. 스토리보드 시트 자체를 렌더링하지 마세요. 스토리보드에 표시된 카메라 배치, 프레임, 렌즈 의도, 샷 규모, 캐릭터 연출, 화면 방향, 환경 지리, 소품 배치, 액션 안무, 연속성 및 감정 고조를 유지하세요. 스토리보드는 시각적 스토리텔링의 주요 진실 소스입니다. 물리적인 스토리보드 아트워크가 아닌 패널이 암시하는 촬영된 시퀀스를 재현하세요.
+전체 비디오는 눈에 띄는 컷이 없는 하나의 연속적인 고정 샷입니다. 카메라는 절대 움직이거나, 팬하거나, 줌하거나, 흔들리지 않습니다. 각 패널은 동일한 움직이지 않는 프레임의 샘플링된 단계입니다.
+하나의 가상 렌즈 / 동일한 렌즈 고정 카메라를 사용하세요.
+@[ref image]를 C1(시안색 트윈테일 소녀)과 C2(거대한 패치워크 봉제 괴물)에 대한 권위 있는 캐릭터 참조로 사용하세요.
 
-ENVIRONMENT: flat cracked stone ground, plain solid cyan backdrop, no props; C1's floor mark stays at frame center, same ground cracks throughout; C2 fills the background when present.
+환경: 평평하고 갈라진 돌바닥, 평범한 단색 시안 배경, 소품 없음; C1의 바닥 표시는 프레임 중앙에 유지되며, 전체적으로 동일한 지면 균열이 있습니다; C2는 있을 때 배경을 채웁니다.
 
-EMOTIONAL GUIDANCE: Valence: bored neutral to threatening to disgusted comic relief. Arousal: low and still, spiking at the swallow, simmering through digestion, surging at the nausea, releasing into deadpan calm; shown through posture, C2's eye and cheek changes, bulge motion, and drool state while the frame stays still.
+감정 지도: 가치: 지루한 중립에서 위협적인 상태, 혐오스러운 코믹한 안도감으로. 각성: 낮고 정지된 상태에서 삼킴 시 급증하고, 소화 과정에서 서서히 진행되며, 메스꺼움에서 치솟고, 무표정한 평온함으로 해소됩니다. 프레임이 정지된 상태에서 자세, C2의 눈과 볼의 변화, 불룩한 움직임, 침 상태를 통해 보여줍니다.
 
-VISUAL STYLE: vibrant patchwork anime illustration matching @[ref image]: bold dark linework, saturated cyan-magenta-purple-yellow palette, stitched-fabric texture on the monster, grungy distressed detail, flat graphic lighting, minimal shading; drool is thick glossy viscous strands with soft highlights.
+시각적 스타일: @[ref image]와 일치하는 생동감 넘치는 패치워크 애니메이션 일러스트: 굵고 어두운 선, 채도가 높은 시안-마젠타-퍼플-옐로우 팔레트, 괴물의 꿰맨 천 질감, 지저분하고 낡은 디테일, 평면 그래픽 조명, 최소한의 음영; 침은 부드러운 하이라이트가 있는 두껍고 광택 있는 점성 가닥입니다.
 
-AUDIO: No background music or score. Only diegetic ambience, foley, impacts, texture, and silence: faint wind, fabric thumps, wet gulps, gurgles, a huge retch, splattering drool.
+오디오: 배경 음악이나 스코어는 없습니다. 오직 다이에게틱 앰비언스, 폴리, 충격음, 질감, 침묵만 사용하세요: 희미한 바람, 천이 부딪히는 소리, 젖은 삼킴 소리, 꼬르륵 소리, 거대한 구토 소리, 침이 튀는 소리.
 
-PANEL BEATS:
-P01: Locked low wide frame; C1 stands alone at center, slouched and idle, weight shifting slightly; empty backdrop; soft wind.
-P02: Same frame; C2 rises silently from behind the ground line, his patchwork mass filling the background above C1; jaws begin to part; C1 does not react; low fabric creak.
-P03: C2's open jaws crash down over C1 and he swallows her whole in one fast gulp; drool strands snap; mouth slams shut; heavy wet impact.
-P04: C2 sits upright, mouth sealed, throat and belly bulging and shifting as he gulps and grinds; muffled gurgles; drool dribbles from his lips.
-P05: His cheeks balloon, eyes wince and water, body buckles forward heaving with nausea; drool leaks through his teeth; rising groan.
-P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground soaked in drool, thick strands stretching back to his hanging-open mouth as he slumps queasy behind her; splatter, then still silence.
+패널 비트:
+P01: 고정된 낮은 와이드 프레임; C1이 중앙에 홀로 서 있고, 구부정하며 유휴 상태이며, 무게 중심이 약간 이동합니다; 빈 배경; 부드러운 바람.
+P02: 동일한 프레임; C2가 지면 뒤에서 조용히 솟아오르고, 그의 패치워크 덩어리가 C1 위의 배경을 채웁니다; 턱이 벌어지기 시작합니다; C1은 반응하지 않습니다; 낮은 천 삐걱거리는 소리.
+P03: C2의 벌어진 턱이 C1 위로 내려와 한 번의 빠른 삼킴으로 그녀를 통째로 삼킵니다; 침 가닥이 끊어집니다; 입이 쾅 닫힙니다; 무겁고 젖은 충격음.
+P04: C2가 똑바로 앉아 입을 닫고, 삼키고 갈아내면서 목과 배가 불룩해지고 움직입니다; 억눌린 꼬르륵 소리; 입술에서 침이 흘러내립니다.
+P05: 볼이 부풀어 오르고, 눈이 찡그려지며 눈물이 고이고, 메스꺼움으로 몸이 앞으로 구부러집니다; 이빨 사이로 침이 샙니다; 커지는 신음 소리.
+P06: C2가 구토하며 C1을 앞으로 뱉어냅니다; 그녀는 침에 젖은 채 전경 중앙에 뻗어 있고, 그가 뒤에서 메스꺼워하며 쓰러질 때 침 가닥이 그의 벌어진 입으로 길게 늘어집니다; 튀는 소리, 그리고 정적.
 ```
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+❤️ 865 · 🔁 79 · 🔖 617 · 👁 48.6K
 
 <sub>📅 Jun 11, 2026</sub>
 
@@ -362,7 +362,122 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 ---
 
-### 7. Nox Lumos Poi 숲의 의식
+### 7. GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**🖼️ 이미지 프롬프트**
+
+```
+GPT Image 2 Prompt for storyboard:
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: WHITE SABER SHORELINE DUEL
+META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
+PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
+MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
+REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+
+[SCENE PACKET]
+PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
+LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
+START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
+ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
+PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
+MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+
+[CHARACTER SANITIZATION]
+C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
+C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+
+[EMOTIONAL ARC]
+Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
+EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
+ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
+CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
+ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
+RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / clean beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: impact / short block / smash beat -> P06 RHY P06: burst / short block / clean beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / medium block / held beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: impact / short block / smash beat -> P11 RHY P11: pause / short block / held beat -> P12 RHY P12: pause / medium block / held beat -> P13 RHY P13: impact / medium block / match beat -> P14 RHY P14: burst / short block / whip beat -> P15 RHY P15: final hit / long block / smash beat
+ESCALATION MAP: P01 ESC P01: L3 rise / rise -> P02 ESC P02: L4 surge / rise -> P03 ESC P03: L5 peak / spike -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / rise -> P07 ESC P07: L5 peak / rise -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L5 peak / rise -> P10 ESC P10: L5 peak / drop -> P11 ESC P11: L4 surge / drop -> P12 ESC P12: L3 rise / drop -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L5 peak / release
+STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography clear -> P03 twin cannon fire -> P04 first volley closing -> P05 deflect sparks -> P06 barrage angle changes -> P07 repeated saber redirects -> P08 overhead deflection storm -> P09 C2 forward, fire sustained -> P10 armor hit, not stopped -> P11 water hiss/reflection -> P12 stillness before clash -> P13 one-direction bolt wall from C2, white saber cage -> P14 C1 flank entry -> P15 underside cut, C2 collapse
+STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
+
+[SEQUENCE]
+Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
+
+You can find the prompts below.
+```
+
+**🎬 영상 프롬프트**
+
+```
+Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+Use @[Char ref]  as C1 reference.
+Use @[Droideka ref] as C2 combat droid reference.
+
+EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
+AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+
+BEATS:
+1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
+2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
+3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
+4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
+5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
+6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
+7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
+8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
+9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
+10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
+11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
+12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
+13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
+14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
+15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+```
+
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
+
+❤️ 2.1K · 🔁 241 · 🔖 1.6K · 👁 97.6K
+
+<sub>📅 Jun 10, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 8. Nox Lumos Poi 숲의 의식
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -470,7 +585,7 @@ P18: 녹색 낮 복귀; 잎이 되살아나고, 새들이 돌아오고, 생명�
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
+❤️ 554 · 🔁 56 · 🔖 392 · 👁 20.9K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -478,7 +593,7 @@ P18: 녹색 낮 복귀; 잎이 되살아나고, 새들이 돌아오고, 생명�
 
 ---
 
-### 8. 숲속 세이버 포이 의식 스토리보드
+### 9. 숲속 세이버 포이 의식 스토리보드
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -587,7 +702,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
+❤️ 3.6K · 🔁 385 · 🔖 2.8K · 👁 244.1K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -595,7 +710,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 
 ---
 
-### 9. 서울 심야 먹방 라이브 스트리밍
+### 10. 서울 심야 먹방 라이브 스트리밍
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -642,7 +757,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 
 ---
 
-### 10. 카르마 탈출 사이버 액션 시퀀스
+### 11. 카르마 탈출 사이버 액션 시퀀스
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -742,7 +857,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
+❤️ 793 · 🔁 82 · 🔖 738 · 👁 35K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -750,7 +865,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 ---
 
-### 11. 티파니 블루 북 2026 버터플라이 챕터
+### 12. 티파니 블루 북 2026 버터플라이 챕터
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -784,7 +899,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 엔딩 프레임: 우아한 로고 공개. 부드러운 반짝임. 오케스트라 페이드 아웃.
 ```
 
-**작성자:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K 팔로워
+**작성자:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K 팔로워
 
 ❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
@@ -794,7 +909,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 ---
 
-### 12. 환타 여름 캠페인 광고
+### 13. 환타 여름 캠페인 광고
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -913,7 +1028,7 @@ P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카
 
 ---
 
-### 13. 악몽의 각성: 타임-폴 시네마틱 시퀀스
+### 14. 악몽의 각성: 타임-폴 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1026,7 +1141,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 14. 사이버펑크 액션 히어로 시네마틱 시퀀스
+### 15. 사이버펑크 액션 히어로 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1072,7 +1187,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 15. 90년대 디즈니 스타일: 아누비스의 비밀 선물
+### 16. 90년대 디즈니 스타일: 아누비스의 비밀 선물
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1103,7 +1218,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 **작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K 팔로워
 
-❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.5K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1111,7 +1226,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 16. 일몰의 이스탄불을 가로지르는 영화 같은 드론 비행
+### 17. 일몰의 이스탄불을 가로지르는 영화 같은 드론 비행
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1129,7 +1244,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 **작성자:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K 팔로워
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.8K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1137,7 +1252,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 17. 펠리치타 숲 추격 파쿠르 시퀀스
+### 18. 펠리치타 숲 추격 파쿠르 시퀀스
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1292,7 +1407,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
+❤️ 624 · 🔁 85 · 🔖 539 · 👁 31.8K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1300,7 +1415,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 18. 럭셔리 초콜릿 광고 시네마틱 시퀀스
+### 19. 럭셔리 초콜릿 광고 시네마틱 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1357,7 +1472,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 **작성자:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K 팔로워
 
-❤️ 526 · 🔁 87 · 🔖 86 · 👁 34.2K
+❤️ 526 · 🔁 86 · 🔖 86 · 👁 34.2K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1365,7 +1480,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 
 ---
 
-### 19. 마음을 따뜻하게 하는 친절한 행동
+### 20. 마음을 따뜻하게 하는 친절한 행동
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1402,7 +1517,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 20. 심해 어부 다큐멘터리 시네마틱
+### 21. 심해 어부 다큐멘터리 시네마틱
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1460,7 +1575,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 21. 아누비스의 간지럼 타는 순간
+### 22. 아누비스의 간지럼 타는 순간
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1485,7 +1600,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 22. 아누비스와 인간의 상호작용 장면
+### 23. 아누비스와 인간의 상호작용 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1501,9 +1616,9 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 장면 1: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽히자, 아누비스는 처음에는 억눌린 웃음을 터뜨리다가 곧 너무 간지러운 나머지 크게 웃음을 터뜨립니다.
 
-장면 2: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽히자, 아누비스는 이번에는 더 크게 웃습니다. 그러고 나서 아누비스는 양팔로 자신의 몸을 감싸 겨드랑이를 보호하며 간지럼을 막습니다. 그는 몸을 감싼 채 몇 번 더 웃음을 터뜨립니다.
+장면 2: 인간이 계속해서 손가락으로 아누비스의 겨드랑이를 간지럽히자, 아누비스는 이번에는 더 크게 웃습니다. 그러고 나서 아누비스는 두 팔로 자신을 감싸 안아 겨드랑이를 보호하며 간지럼을 막습니다. 그는 자신을 감싸 안은 채 몇 번 더 웃음을 터뜨립니다.
 
-장면 3: 아누비스는 천천히 진정하고 인간을 향해 씨익 웃으며 장난기 섞인 미소로 "오, 정말 짓궂군."이라고 말합니다. 그러고 나서 아누비스는 인간의 어깨를 감싸 안으며 품으로 끌어당깁니다. 아누비스는 인간에게 얼굴을 가까이 대고 "하지만 네가 나를 간지럽히는 거라면, 괜찮아."라고 말합니다. 인간은 씨익 웃으며 긴장한 듯 가볍게 웃음을 터뜨립니다.
+장면 3: 아누비스는 천천히 진정하고 인간을 향해 씨익 웃으며 장난기 어린 미소를 띠고 말합니다. "오, 정말 짓궂군." 그러고 나서 아누비스는 인간의 어깨를 감싸 안으며 품으로 끌어당깁니다. 아누비스는 인간에게 얼굴을 가까이 대고 말합니다. "하지만 네가 나를 간지럽히는 거라면, 상관없어." 인간은 씨익 웃으며 긴장한 듯 가볍게 웃음을 터뜨립니다.
 ```
 
 **작성자:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K 팔로워
@@ -1516,7 +1631,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 23. 한국 학원 액션 드라마 시퀀스
+### 24. 한국 학원 액션 드라마 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1571,7 +1686,32 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 
 ---
 
-### 24. 고속 애니메이션 무술 훈련 스토리보드
+### 25. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Female Olympic diver from platform takeoff to mid-air perfect dive in…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+```
+
+**작성자:** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 팔로워
+
+❤️ 574 · 🔁 32 · 🔖 231 · 👁 455.2K
+
+<sub>📅 May 20, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. 고속 애니메이션 무술 훈련 스토리보드
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1848,9 +1988,9 @@ Jūran은 차분함.
 텍스트 없음. 워터마크 없음. UI 없음. 스토리보드 이외의 추가 액션 없음.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 657 · 🔁 93 · 🔖 609 · 👁 29.9K
+❤️ 660 · 🔁 93 · 🔖 610 · 👁 30K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1858,7 +1998,7 @@ Jūran은 차분함.
 
 ---
 
-### 25. 강렬한 테니스 경기 디지털 페인팅
+### 27. 강렬한 테니스 경기 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1907,7 +2047,7 @@ Jūran은 차분함.
 
 ---
 
-### 26. 영화 같은 야구 타격 퍼포먼스
+### 28. 영화 같은 야구 타격 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -1936,9 +2076,9 @@ Jūran은 차분함.
 깔끔한 영화적 조명
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.6K
+❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1946,140 +2086,7 @@ Jūran은 차분함.
 
 ---
 
-### 27. 영화적 쿵푸 퍼포먼스 스토리보드
-
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="영화적 쿵푸 퍼포먼스 스토리보드"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
-</div>
-
-**🖼️ 이미지 프롬프트**
-
-```
-극단적인 신체 액션에 초점을 맞춘 거친 쿵푸 퍼포먼스 스토리보드를 만드세요. 캐릭터는 참조 이미지를 사용하세요.
-
-16:9 스토리보드 시트, 12개의 영화적 패널. 실제 스토리보드 드로잉은 흑백으로만 구성되어야 합니다: 거친 연필 선, 최소한의 디테일, 빠른 제스처 드로잉 에너지, 단순한 해부학적 구조 및 강한 실루엣 가독성. 아트워크는 초기 격투 안무 프리비즈처럼 가볍고 역동적이며 미완성된 느낌을 유지하세요.
-
-시작부터 바로 액션으로 들어가세요. 차분한 자세, 준비 동작 또는 느린 도입부로 시작하지 마세요.
-
-고독한 여성 수행자가 광활한 고대 사원 내부에서 공격적인 티베트 쿵푸 마스터 스타일의 루틴을 수행합니다. 안무는 과장되고 폭발적이며 끊임없이 고조됩니다: 비행 대각선 발차기, 승려 스타일의 낮은 자세, 빠른 손바닥 타격, 천처럼 회전하는 몸놀림, 동물 형태의 손 모양, 깊은 런지, 공중 트위스트, 바닥 쓸기, 갑작스러운 낙하, 갈고리 같은 블록, 허리를 젖힌 점프, 미끄러지듯 일어서기 및 폭력적인 조각 같은 임팩트 포즈.
-
-모든 패널에는 눈에 띄는 움직임과 강한 신체 모멘텀이 포함되어야 합니다. 정적인 서 있는 자세는 피하세요. 수행자는 규율, 분노, 영적 압박감, 완벽한 신체 제어를 가지고 움직이는 의식적인 전사처럼 느껴져야 합니다.
-
-액션 진행:
-1. 이미 움직임이 시작된 비행 대각선 발차기로 공중에서 시작
-2. 공기를 가르는 핸드헬드 클로즈업 손바닥 쓸기
-3. 전신 회전의 궤도 와이드 샷
-4. 충격파가 동반된 로우 앵글 임팩트 손바닥 타격
-5. 망원 렌즈 측면 프로필 회전 발차기
-6. 몸, 머리카락, 옷감이 밖으로 퍼지는 탑다운 공중 회전
-7. 사원 돌바닥을 깨뜨리는 강한 발구르기
-8. 바닥을 가로지르는 미끄러지는 낮은 쓸기
-9. 팔꿈치, 손바닥, 백피스트 타격의 공격적인 클로즈업 난타
-10. 에너지가 상승하는 극단적인 낮은 승려 스타일의 짐승 자세
-11. 몸 주위의 회전하는 원소 소용돌이
-12. 사원 바닥 위에 떠 있는 최종 공중 액션 포즈, 강력한 쿵푸 타격으로 비틀린 몸, 충격 직전 그녀 주위로 모든 원소가 수렴됨
-
-VFX 스타일의 스토리보드 강조 요소로 선택적인 원소 에너지 효과를 추가하세요. 효과는 슈퍼히어로 같지 않고 영적이고 의식적이며 영화적인 느낌이어야 합니다:
-회전과 비행 발차기 주위의 공기 폭발,
-발구르기에서 솟아오르는 먼지와 돌 파편,
-슬라이딩 중 바닥의 물결 모양,
-폭발적인 타격 주위의 불 같은 궤적,
-고강도 움직임 주위의 열 왜곡,
-절정 근처의 원소 소용돌이.
-
-원소 진행:
-초기 패널: 미묘한 바람, 먼지 및 압력 선
-중간 패널: 더 강한 돌 파편, 바닥 물결 및 공기 충격파
-후기 패널: 제어된 불 궤적 및 에너지 나선
-최종 패널: 수행자가 공중에 떠 있는 동안 가장 강력한 결합 원소 급증
-
-영화적 아트하우스 액션 카메라 워크를 사용하세요:
-핸드헬드 에너지,
-휩팬 느낌,
-궤도 카메라 이동,
-오버헤드 샷,
-측면 실루엣,
-공격적인 클로즈업,
-망원 렌즈 압축,
-극단적인 로우 앵글,
-넓은 네거티브 공간,
-강한 시차.
-
-사원 환경은 최소한으로 유지하고 분위기를 살리세요:
-우뚝 솟은 돌기둥,
-낡은 사원 바닥,
-피어오르는 향 연기,
-매달린 천,
-거친 빛줄기,
-공기 중의 희미한 먼지,
-미묘한 젖은 바닥 반사.
-프레임을 너무 꽉 채우지 마세요.
-
-주석 색상 시스템:
-빨간색 화살표 = 신체 움직임
-파란색 화살표 = 카메라 움직임
-녹색 표시 = 프레이밍 / 구성 노트
-주황색 표시 = 조명 방향
-노란색 표시 = 원소 VFX / 에너지 효과
-검은색 텍스트 = 짧은 렌즈 노트 및 패널 라벨
-
-타임스탬프 없음. 대사 없음. 노래 없음. 추가 캐릭터 없음. 적 없음. 로고 없음. 워터마크 없음.
-```
-
-**🎬 영상 프롬프트**
-
-```
-15초 분량의 영화적 쿵푸 퍼포먼스 영상을 만드세요.
-
-@[image1]을 고정된 캐릭터 시트 참조로 사용하세요. 캐릭터는 캐릭터 시트와 엄격하게 일치해야 합니다.
-@[image2]를 스토리보드 참조로 사용하세요.
-
-액션 순서, 카메라 리듬, 신체 움직임, 프레이밍, 움직임 방향, 카메라 앵글 및 시각적 진행의 주요 소스로 스토리보드 샷을 샷별로 따르세요. 각 스토리보드 패널을 순차적인 키프레임으로 취급하세요. 샷 순서를 유지하고 영상이 스토리보드가 연속적인 실사 동작으로 변환된 것처럼 느껴지게 하세요. 시퀀스는 수행자가 공중에 떠 있는 상태에서 정지된 마지막 프레임으로 끝나야 합니다.
-
-텍스트, 캡션, 스토리보드 라벨, 화살표, UI, 로고 또는 워터마크를 추가하지 마세요. 스토리보드를 단일 이미지로 취급하지 마세요. 캐릭터를 재설계하거나 의상을 변경하거나 얼굴을 바꾸지 마세요. 차분한 자세, 준비 포즈 또는 느린 도입부로 시작하지 마세요. 원소 효과를 슈퍼히어로 능력이나 과도한 판타지 빛처럼 보이게 하지 마세요.
-
-시각적 스타일:
-양식화된 영화적 사실주의, 고급 3D 페인터리 애니메이션 품질, 역동적인 천 시뮬레이션, 표현력이 풍부한 실루엣 디자인, 풍부한 영화적 조명, 제어된 색상 팔레트, 자연스러운 모션 블러, 극적인 스케일, 아름답지만 공격적인 신체성, 프리미엄 장편 애니메이션 미학.
-
-환경:
-광활한 고대 사원, 우뚝 솟은 돌기둥, 낡은 사원 바닥, 피어오르는 향 연기, 매달린 천, 거친 빛줄기, 공기 중의 희미한 먼지, 미묘한 젖은 바닥 반사, 높은 대비의 그림자.
-
-퍼포먼스는 광활한 고대 사원 내부에서 펼쳐지는 고독한 여성 쿵푸 루틴입니다. 루틴은 차분한 자세, 준비 포즈, 느린 도입부 없이 즉시 액션으로 시작됩니다. 움직임은 공격적이고 의식적이며 규율 있고 신체적으로 극단적이며 영적으로 충만하게 느껴져야 합니다.
-
-이것은 적과의 싸움이 아닙니다. 힘, 통제력, 피로, 분노, 해방의 솔로 퍼포먼스입니다.
-
-안무 방향은 스토리보드를 따르세요.
-
-원소 진행:
-초기 시퀀스: 움직임에 반응하는 미묘한 바람, 먼지 및 압력 선.
-중간 시퀀스: 더 강한 공기 충격파, 돌 파편, 바닥 균열 및 사원 바닥을 가로지르는 물결 모양.
-후기 시퀀스: 폭발적인 타격과 발차기 주위의 제어된 불 궤적, 열 왜곡 및 에너지 나선.
-절정: 바람, 먼지, 돌, 물결 및 불 강조 요소가 더 강력한 원소 소용돌이로 결합됨.
-최종 비트: 수행자가 강력한 쿵푸 타격으로 사원 바닥 위 공중에 떠 있고, 몸은 공중에서 비틀려 있으며, 머리카락과 옷감이 밖으로 퍼지고, 충격 직전 모든 원소가 그녀 주위로 수렴됨.
-
-원소 VFX는 영적이고 의식적이며 영화적인 느낌이어야 합니다. 효과는 안무와 통합되어야 하며 신체적 움직임에 의해 동기가 부여되어야 합니다. 에너지를 거칠고 원소적이며 분위기 있고 사원 환경에 기반을 두도록 유지하세요.
-
-전반에 걸쳐 라반 움직임 논리를 사용하세요:
-무게: 임팩트 시 강하고 무겁고 접지된 느낌, 점프와 공중 트위스트 시 짧은 가벼움
-시간: 타격, 발차기, 낙하 및 회전 시 빠르고, 공중 정지 및 회복 전환 시 지속됨
-공간: 공격, 블록 및 런지 시 직접적이고, 회전 및 원소 소용돌이 순간에는 간접적임
-흐름: 뿌리 깊은 자세와 정확한 타격 시 구속되고, 공중 동작, 회전하는 천 움직임 및 원소 방출 시 자유로움
-```
-
-**작성자:** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K 팔로워
-
-❤️ 1.3K · 🔁 202 · 🔖 1.5K · 👁 127.5K
-
-<sub>📅 May 16, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 28. 영춘권 훈련 디지털 페인팅
+### 29. 영춘권 훈련 디지털 페인팅
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2124,7 +2131,32 @@ VFX 스타일의 스토리보드 강조 요소로 선택적인 원소 에너지 
 
 ---
 
-### 29. 올림픽 다이빙 선수 디지털 페인팅 애니메이션
+### 30. Use the provided character reference for the facial features and body…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Use the provided character reference for the facial features and body…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+```
+
+**작성자:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K 팔로워
+
+❤️ 991 · 🔁 98 · 🔖 1.1K · 👁 98.7K
+
+<sub>📅 May 15, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 31. 올림픽 다이빙 선수 디지털 페인팅 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2210,7 +2242,7 @@ VFX 스타일의 스토리보드 강조 요소로 선택적인 원소 에너지 
 
 ---
 
-### 30. 시네마틱 쿵푸 퍼포먼스 스토리보드
+### 32. 시네마틱 쿵푸 퍼포먼스 스토리보드
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2333,9 +2365,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 흐름: 뿌리 깊은 자세와 정밀한 타격 시 제한적, 공중 동작, 회전하는 천 움직임 및 원소 방출 시 자유로움
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 82.4K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.7K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2343,7 +2375,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 31. 경기장 중계 화면 속 축구 팬
+### 33. 경기장 중계 화면 속 축구 팬
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2368,7 +2400,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 32. 야구 경기장 팬캠
+### 34. 야구 경기장 팬캠
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2396,7 +2428,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 33. 경쟁 격투 게임 전투 시퀀스
+### 35. 경쟁 격투 게임 전투 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2435,9 +2467,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 포토리얼리스틱 8K, 키트의 초정밀 직물 질감, 시네마틱 조명, 전투 동작을 위한 완벽한 모션 블러, 높은 다이내믹 레인지, 아티팩트 없음. 전체적으로 [player1] 및 [player2]와 정확히 동일한 얼굴과 의상, 영화 수준의 안정적인 얼굴 특징.
 ```
 
-**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 팔로워
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K 팔로워
 
-❤️ 661 · 🔁 89 · 🔖 410 · 👁 121.5K
+❤️ 668 · 🔁 89 · 🔖 410 · 👁 121.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2445,7 +2477,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 34. 영화 같은 줄넘기 퍼포먼스
+### 36. 영화 같은 줄넘기 퍼포먼스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2475,9 +2507,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 깔끔한 영화적 조명
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.6K
+❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2485,7 +2517,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 35. 뉴욕시 셀러브리티 도착
+### 37. 뉴욕시 셀러브리티 도착
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2526,7 +2558,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 36. 구름 스케이트보드 구조 스토리보드
+### 38. 구름 스케이트보드 구조 스토리보드
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2608,9 +2640,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 시각적 움직임을 불안정하게 만들기보다 차분하고 의도적으로 유지하세요.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.5K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.6K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2618,7 +2650,76 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 
 ---
 
-### 37. 셰프 vs 바퀴벌레: 주방 추격전
+### 39. story = a beautiful woman in a white dress enjoying a amazing sunset…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="story = a beautiful woman in a white dress enjoying a amazing sunset…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**🖼️ 이미지 프롬프트**
+
+```
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+
+Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+
+Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+
+Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+
+Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+
+Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+
+Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+
+Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+ 
+The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+```
+
+**🎬 영상 프롬프트**
+
+```
+follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+```
+
+**작성자:** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K 팔로워
+
+❤️ 748 · 🔁 99 · 🔖 1.1K · 👁 72.3K
+
+<sub>📅 May 2, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 40. 셰프 vs 바퀴벌레: 주방 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2664,7 +2765,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 **작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 팔로워
 
-❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303K
+❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303.1K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2672,7 +2773,62 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 ---
 
-### 38. 빈티지 디즈니 스타일: 아누비스의 간지럼 소동
+### 41. Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**🖼️ 이미지 프롬프트**
+
+```
+Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+
+Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+
+Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+
+Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+```
+
+**🎬 영상 프롬프트**
+
+```
+Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+
+Character: Use IMG1 as the character we're following in the scene.
+
+Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+
+The scene starts at IMG1.
+
+Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+
+The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+
+The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+
+The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+
+Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+
+SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+```
+
+**작성자:** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K 팔로워
+
+❤️ 779 · 🔁 76 · 🔖 1.1K · 👁 48K
+
+<sub>📅 Apr 29, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 42. 빈티지 디즈니 스타일: 아누비스의 간지럼 소동
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2705,7 +2861,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 ---
 
-### 39. 영화 같은 캐릭터 소개 및 참조 시트
+### 43. 영화 같은 캐릭터 소개 및 참조 시트
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2838,7 +2994,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 **작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2846,7 +3002,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 
 ---
 
-### 40. 3D 캐릭터 동작 참조 시트
+### 44. 3D 캐릭터 동작 참조 시트
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2894,9 +3050,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 대사, 텍스트 또는 내레이션은 없어야 합니다.
 ```
 
-**작성자:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K 팔로워
+**작성자:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K 팔로워
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.3K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.6K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2904,7 +3060,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 41. 고옥탄 포뮬러 1 레이싱 장면
+### 45. 고옥탄 포뮬러 1 레이싱 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2921,7 +3077,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 아래는 Seedance 2.0 프롬프트입니다 👇
 ```
 
-**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 팔로워
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K 팔로워
 
 ❤️ 8.9K · 🔁 761 · 🔖 1.7K · 👁 1.9M
 
@@ -2931,7 +3087,32 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 42. 시간 정지 시네마틱 스포츠 바 장면
+### 46. The child walks left to right along the playground path, holding a ha…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="The child walks left to right along the playground path, holding a ha…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+```
+
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
+
+❤️ 675 · 🔁 67 · 🔖 740 · 👁 37.3K
+
+<sub>📅 Apr 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 47. 시간 정지 시네마틱 스포츠 바 장면
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -2968,7 +3149,48 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 43. 슬랩스틱 아이스크림 장난 애니메이션
+### 48. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Film Style: Authentic 2010s-era NBA TV broadcast, TNT &quot;NBA on TNT&quot; gr…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+
+[IMAGE REFERENCES / LEGEND]
+
+[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+
+3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+
+7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+
+11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+
+[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+```
+
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K 팔로워
+
+❤️ 996 · 🔁 87 · 🔖 381 · 👁 154.3K
+
+<sub>📅 Apr 18, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 49. 슬랩스틱 아이스크림 장난 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3021,7 +3243,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 44. 빠르게 진행되는 아침 루틴 몽타주
+### 50. 빠르게 진행되는 아침 루틴 몽타주
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3084,7 +3306,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 **작성자:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K 팔로워
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 149K
+❤️ 1.7K · 🔁 131 · 🔖 1.8K · 👁 149.1K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3092,7 +3314,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 45. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
+### 51. 월스트리트에서 넘어지는 비즈니스맨의 불릿 타임
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3117,7 +3339,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 46. F16 날개 스턴트 트래킹 샷
+### 52. F16 날개 스턴트 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3150,7 +3372,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 47. VR 서바이벌 전환: 황야에서 집으로
+### 53. VR 서바이벌 전환: 황야에서 집으로
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3185,7 +3407,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 48. 고고도 로켓 서핑
+### 54. 고고도 로켓 서핑
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3219,7 +3441,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 49. 영화 같은 절벽 점프 트래킹 샷
+### 55. 영화 같은 절벽 점프 트래킹 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3260,7 +3482,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 50. 오피스 워커 심리 공포 변신
+### 56. 오피스 워커 심리 공포 변신
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3294,7 +3516,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 51. 쿵푸 셰프의 면 요리 준비
+### 57. 쿵푸 셰프의 면 요리 준비
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3331,7 +3553,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 **작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 팔로워
 
-❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.5K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.6K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3339,7 +3561,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 52. 슬랩스틱 아이스크림 코미디 애니메이션
+### 58. 슬랩스틱 아이스크림 코미디 애니메이션
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3377,7 +3599,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 53. 드라마틱한 해안 골프 드라이브
+### 59. 드라마틱한 해안 골프 드라이브
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3398,7 +3620,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 세차게 부는 바람 소리와 함께 공은 곧고 정확하게 날아간다. 잘 관리된 그린이 빠르게 커진다. 마지막 몇 초 동안 카메라는 공이 잔디에 닿는 순간을 타이트하게 잡는다. 젖은 잔디를 가르며 흙을 튀기고 컵 속으로 완벽하게 떨어지는 공의 극단적인 클로즈업으로 마무리된다.
 ```
 
-**작성자:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K 팔로워
+**작성자:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K 팔로워
 
 ❤️ 674 · 🔁 45 · 🔖 518 · 👁 128.1K
 
@@ -3408,7 +3630,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 54. 영화 같은 중세 시장 연속 샷
+### 60. 영화 같은 중세 시장 연속 샷
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3474,7 +3696,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 55. 계절 변화가 포함된 고속 FPV 드론 추격전
+### 61. 계절 변화가 포함된 고속 FPV 드론 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3499,7 +3721,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 56. 안드로제닉의 복수극
+### 62. 안드로제닉의 복수극
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3524,7 +3746,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 ---
 
-### 57. 픽사 스타일로 그려낸 Punch의 감동적인 여정
+### 63. 픽사 스타일로 그려낸 Punch의 감동적인 여정
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3549,7 +3771,32 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 58. 드래곤 라이더 POV 공중전
+### 64. 풍자적인 AI 사회 논평
+
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="풍자적인 AI 사회 논평"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
+</div>
+
+**📝 프롬프트**
+
+```
+AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격적으로.
+```
+
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K 팔로워
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
+
+<sub>📅 Feb 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 65. 드래곤 라이더 POV 공중전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3576,7 +3823,7 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 59. 무한한 상상력의 시대
+### 66. 무한한 상상력의 시대
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3591,9 +3838,9 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 완전히 새로운 세계를 창조할 힘과 자유가 있는데 왜 할리우드를 따라야 할까요? 지금은 무한한 상상력의 새로운 시대입니다.
 ```
 
-**작성자:** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K 팔로워
+**작성자:** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.3K 팔로워
 
-❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
+❤️ 3.1K · 🔁 312 · 🔖 936 · 👁 198.8K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3601,7 +3848,7 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 60. 절벽 도시를 가로지르는 고속 스피더 추격전
+### 67. 절벽 도시를 가로지르는 고속 스피더 추격전
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3626,7 +3873,7 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 61. 루피와 손오공의 에픽 배틀
+### 68. 루피와 손오공의 에픽 배틀
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3651,7 +3898,7 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 62. SWAT 인질 구출 액션 시퀀스
+### 69. SWAT 인질 구출 액션 시퀀스
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
@@ -3676,7 +3923,7 @@ Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나
 
 ---
 
-### 63. 주술회전 캐릭터들을 가르치는 타일러 더든
+### 70. 주술회전 캐릭터들을 가르치는 타일러 더든
 
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 

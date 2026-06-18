@@ -7,68 +7,75 @@ This file lists **source-layer** prompts only (`text` / `image` / `video` from t
 ## Prompt index
 
 - [1. Sum up the AI discourse in a meme - make sure it’s retarded and gets…](#prompt-95f4c71a-48bb-4f7c-ba4a-6f19d6639860)
-- [2. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…](#prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d)
-- [3. Ultra-realistic sports broadcast still of a glamorous woman sitting i…](#prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3)
-- [4. Punch the Monkey punches back. Make the girls proud.](#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
-- [5. AI goes woke. Make it really offensive - like really offensive.](#prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5)
+- [2. An average shift at Waffle House - make sure it's retarded and gets 5…](#prompt-79a5f6d4-ff3e-4cb4-bb95-aa6fc33e9df2)
+- [3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…](#prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d)
+- [4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…](#prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3)
+- [5. Punch the Monkey punches back. Make the girls proud.](#prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6)
 - [6. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-2c920370-75f0-45f6-9486-f7607299d8cf)
-- [7. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-377a0df9-9738-4426-b5ab-9a97400a60ec)
-- [8. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…](#prompt-0c68718f-7b40-45ba-97cc-f9577219d5ad)
-- [9. Continuous livestream-style video of three young women (early-mid 20s…](#prompt-23f9d280-9687-445d-883b-395fa806fb5c)
-- [10. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-e432f9bf-6a00-4653-9ffd-e900a4e33c26)
-- [11. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…](#prompt-2057a789-db49-456e-8e35-bea0e6ab1336)
-- [12. Main Character: Photorealistic 25-year-old Western woman named Sharon…](#prompt-a4a1dfd7-b17f-4d69-be4d-68706e0238ec)
-- [13. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…](#prompt-051634e2-6d34-4525-aebc-e476525251bf)
-- [14. A high-octane 15-second cinematic action sequence featuring a stylish…](#prompt-c23113e8-d0db-4d83-93d4-1d2e976dc0d6)
-- [15. 经典的90年代迪士尼动画风格。 场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士…](#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
-- [16. Create a cinematic realistic high-speed drone video over Istanbul at…](#prompt-439fca40-e2ac-4b80-b4df-8d70ffd0101d)
-- [17. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…](#prompt-6378a76c-2a9a-43d9-b4bb-db3bbff3adb7)
-- [18. Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…](#prompt-6cf861c5-1925-4a74-995e-7a68840194e9)
-- [19. POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…](#prompt-40810c23-c549-4bc0-a179-84dfa7b66801)
-- [20. Cinematic ocean documentary film. Subject: A 27-year-old extremely ha…](#prompt-ce70f4bd-3e20-4b1d-889e-f7f83603c5ae)
-- [21. 现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时…](#prompt-76a2e3a6-b78a-4f9f-af3e-ec0d7b97a9df)
-- [22. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…](#prompt-17e7c2b0-07ed-4bb3-a77f-69eb16b91a56)
-- [23. Main Character: A beautiful Korean high school girl wearing a realist…](#prompt-26f1ab37-3583-4095-898f-700449fbba68)
-- [24. Use storyboard @[image1] as the exact sequential visual keyframe refe…](#prompt-87ba9fbe-aee4-4fe9-a222-8f899a81b7e5)
-- [25. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…](#prompt-6224ee08-a0e1-4fb4-ba11-294518293acb)
-- [26. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…](#prompt-badcb208-9e33-4435-aa95-a7b5345523e6)
-- [27. Create a 15-second cinematic kung fu performance video. Use @[image1]…](#prompt-73091505-616e-4ee8-97f5-d9a0e5f8f52c)
-- [28. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…](#prompt-e736da3b-b791-4102-96af-ca895c4cba5f)
-- [29. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…](#prompt-8f6977a0-7cc8-4d34-96ef-baf2b8933a0c)
-- [30. Create a 15-second cinematic kung fu performance video. Use @[image1]…](#prompt-ac7da655-edaf-48c0-ad7b-bc3cc6c3d550)
-- [31. A high-definition, realistic broadcast shot of a young woman sitting…](#prompt-cc01d30e-084f-4b78-a694-e3dc68daf9dc)
-- [32. A young Korean woman sits naturally in the audience during a live bas…](#prompt-70167adb-b0ea-405c-9a46-aef57f89fc46)
-- [33. Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…](#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
-- [34. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…](#prompt-7905f90d-a8e0-49b1-b8c7-208ac7d0c1f6)
-- [35. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…](#prompt-35a9ad3f-d241-4d0b-8797-991f74440eb2)
-- [36. INTENT: Create a playful, high-energy friendship adventure that brief…](#prompt-48506edd-539b-4f54-b89f-60bfb1edc6d3)
-- [37. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…](#prompt-dabd98c8-447a-4a41-9ce9-319dbada744c)
-- [38. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…](#prompt-41cdb412-be8c-4a35-bf48-decddeec727f)
-- [39. Use the provided character sheet @[image1] as reference. Create a cin…](#prompt-32785bf8-0296-4d6b-b3c7-b9024e85c07d)
-- [40. Create img2 that follows the exact sequence and movements from steps…](#prompt-2059acc6-8133-4513-8206-02314451f976)
-- [41. This is the F1 we deserve, not the Mario Kart bullshit the regulation…](#prompt-162d7e90-a53c-4381-b1d6-cfedd405423a)
-- [42. Prompt: Use @ Reference Image as the main character, keeping facial f…](#prompt-3ecccc99-fa4a-4f6a-90f5-4e659529db7a)
-- [43. { "style": "stylized 3D animation, hyperreal pop, squash-and-stretch"…](#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
-- [44. FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…](#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
-- [45. Bullet time effect. A businessman in white shirt and black tie slippi…](#prompt-90180b5e-8048-498c-bbf5-17290e65adbf)
-- [46. aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…](#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
-- [47. FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…](#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
-- [48. ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…](#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
-- [49. Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…](#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
-- [50. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…](#prompt-f2a27e62-49fb-4b4b-8c7a-2ed7e34ef0a4)
-- [51. SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…](#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
-- [52. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…](#prompt-644673e8-d100-4ff2-ab06-bac1cbed9e87)
-- [53. "A dramatic sports sequence begins on a lush, windswept coastal cliff…](#prompt-62e39e14-a305-459d-8a07-b951604d0437)
-- [54. FORMAT: cinematic continuous shot / motivated camera movement / 15s S…](#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
-- [55. Fast-paced FPV drone tracking shot from behind, closely following a 3…](#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
-- [56. Androgenic plots his revenge after getting his wig snatched. Make my…](#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
-- [57. Make a Pixar film about Punch. I want to cry and fall in love with hi…](#prompt-ef4d6f90-c07c-4472-8c24-7bc47a8cdeb4)
-- [58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…](#prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4)
-- [59. Why follow Hollywood when you have the power and freedom to create en…](#prompt-147656c1-6c95-4468-94a0-de701a83011e)
-- [60. Speeder chase across a cliff city (single continuous shot) From a mon…](#prompt-f03e21bc-8eb4-4e97-9339-c193ef117911)
-- [61. Luffy and Goku having an epic fight scene on the sunny.](#prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059)
-- [62. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…](#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
-- [63. tyler durden explains fight club rules to jujutsu kaisen characters.…](#prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697)
+- [7. Use @[Storyboard Ref] as the storyboard for the sequence. Treat every…](#prompt-18edbe5c-c639-4eb5-8607-39f794f897f7)
+- [8. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-377a0df9-9738-4426-b5ab-9a97400a60ec)
+- [9. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…](#prompt-0c68718f-7b40-45ba-97cc-f9577219d5ad)
+- [10. Continuous livestream-style video of three young women (early-mid 20s…](#prompt-23f9d280-9687-445d-883b-395fa806fb5c)
+- [11. Use @[storyboard ref] as the authoritative director-approved storyboa…](#prompt-e432f9bf-6a00-4653-9ffd-e900a4e33c26)
+- [12. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…](#prompt-2057a789-db49-456e-8e35-bea0e6ab1336)
+- [13. Main Character: Photorealistic 25-year-old Western woman named Sharon…](#prompt-a4a1dfd7-b17f-4d69-be4d-68706e0238ec)
+- [14. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…](#prompt-051634e2-6d34-4525-aebc-e476525251bf)
+- [15. A high-octane 15-second cinematic action sequence featuring a stylish…](#prompt-c23113e8-d0db-4d83-93d4-1d2e976dc0d6)
+- [16. 经典的90年代迪士尼动画风格。 场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士…](#prompt-95bc8679-3b0b-4245-b336-7056639e0b0b)
+- [17. Create a cinematic realistic high-speed drone video over Istanbul at…](#prompt-439fca40-e2ac-4b80-b4df-8d70ffd0101d)
+- [18. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…](#prompt-6378a76c-2a9a-43d9-b4bb-db3bbff3adb7)
+- [19. Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…](#prompt-6cf861c5-1925-4a74-995e-7a68840194e9)
+- [20. POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…](#prompt-40810c23-c549-4bc0-a179-84dfa7b66801)
+- [21. Cinematic ocean documentary film. Subject: A 27-year-old extremely ha…](#prompt-ce70f4bd-3e20-4b1d-889e-f7f83603c5ae)
+- [22. 现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时…](#prompt-76a2e3a6-b78a-4f9f-af3e-ec0d7b97a9df)
+- [23. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…](#prompt-17e7c2b0-07ed-4bb3-a77f-69eb16b91a56)
+- [24. Main Character: A beautiful Korean high school girl wearing a realist…](#prompt-26f1ab37-3583-4095-898f-700449fbba68)
+- [25. Female Olympic diver from platform takeoff to mid-air perfect dive in…](#prompt-9efd897b-e33d-4baa-958a-9c319fc350b3)
+- [26. Use storyboard @[image1] as the exact sequential visual keyframe refe…](#prompt-87ba9fbe-aee4-4fe9-a222-8f899a81b7e5)
+- [27. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…](#prompt-6224ee08-a0e1-4fb4-ba11-294518293acb)
+- [28. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…](#prompt-badcb208-9e33-4435-aa95-a7b5345523e6)
+- [29. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…](#prompt-e736da3b-b791-4102-96af-ca895c4cba5f)
+- [30. Use the provided character reference for the facial features and body…](#prompt-60355ee7-f4bf-400d-ac7f-2131f894fde4)
+- [31. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…](#prompt-8f6977a0-7cc8-4d34-96ef-baf2b8933a0c)
+- [32. Create a 15-second cinematic kung fu performance video. Use @[image1]…](#prompt-ac7da655-edaf-48c0-ad7b-bc3cc6c3d550)
+- [33. A high-definition, realistic broadcast shot of a young woman sitting…](#prompt-cc01d30e-084f-4b78-a694-e3dc68daf9dc)
+- [34. A young Korean woman sits naturally in the audience during a live bas…](#prompt-70167adb-b0ea-405c-9a46-aef57f89fc46)
+- [35. Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…](#prompt-f90d955b-df6a-4b82-9259-0424be5be39c)
+- [36. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…](#prompt-7905f90d-a8e0-49b1-b8c7-208ac7d0c1f6)
+- [37. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…](#prompt-35a9ad3f-d241-4d0b-8797-991f74440eb2)
+- [38. INTENT: Create a playful, high-energy friendship adventure that brief…](#prompt-48506edd-539b-4f54-b89f-60bfb1edc6d3)
+- [39. follow this Story Board to create a AD. dynamic camera movement, no c…](#prompt-fe481a18-3cea-48dc-b438-ca360bfa6d01)
+- [40. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…](#prompt-dabd98c8-447a-4a41-9ce9-319dbada744c)
+- [41. Scene: One continuous shot - Hand-held YouTube-style video showing a…](#prompt-0e756f68-3c10-4b3a-bb03-67a61061f598)
+- [42. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…](#prompt-41cdb412-be8c-4a35-bf48-decddeec727f)
+- [43. Use the provided character sheet @[image1] as reference. Create a cin…](#prompt-32785bf8-0296-4d6b-b3c7-b9024e85c07d)
+- [44. Create img2 that follows the exact sequence and movements from steps…](#prompt-2059acc6-8133-4513-8206-02314451f976)
+- [45. This is the F1 we deserve, not the Mario Kart bullshit the regulation…](#prompt-162d7e90-a53c-4381-b1d6-cfedd405423a)
+- [46. The child walks left to right along the playground path, holding a ha…](#prompt-0ac5654e-3eb7-4cbb-b975-9276b6febfbf)
+- [47. Prompt: Use @ Reference Image as the main character, keeping facial f…](#prompt-3ecccc99-fa4a-4f6a-90f5-4e659529db7a)
+- [48. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…](#prompt-bb83b21d-5be1-463d-9a10-7035c2f61f5d)
+- [49. { "style": "stylized 3D animation, hyperreal pop, squash-and-stretch"…](#prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea)
+- [50. FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…](#prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5)
+- [51. Bullet time effect. A businessman in white shirt and black tie slippi…](#prompt-90180b5e-8048-498c-bbf5-17290e65adbf)
+- [52. aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…](#prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829)
+- [53. FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…](#prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a)
+- [54. ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…](#prompt-5ff009c5-a020-405b-9541-3dff09db396e)
+- [55. Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…](#prompt-6dfc8149-29c6-4407-93ac-825816d1966a)
+- [56. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…](#prompt-f2a27e62-49fb-4b4b-8c7a-2ed7e34ef0a4)
+- [57. SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…](#prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598)
+- [58. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…](#prompt-644673e8-d100-4ff2-ab06-bac1cbed9e87)
+- [59. "A dramatic sports sequence begins on a lush, windswept coastal cliff…](#prompt-62e39e14-a305-459d-8a07-b951604d0437)
+- [60. FORMAT: cinematic continuous shot / motivated camera movement / 15s S…](#prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea)
+- [61. Fast-paced FPV drone tracking shot from behind, closely following a 3…](#prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17)
+- [62. Androgenic plots his revenge after getting his wig snatched. Make my…](#prompt-fceb18ce-3548-4d63-b6b3-f217a286303a)
+- [63. Make a Pixar film about Punch. I want to cry and fall in love with hi…](#prompt-ef4d6f90-c07c-4472-8c24-7bc47a8cdeb4)
+- [64. AI goes woke. Make it really offensive - like really offensive.](#prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5)
+- [65. First-person POV dragon rider, 15 seconds, raw ungraded film footage…](#prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4)
+- [66. Why follow Hollywood when you have the power and freedom to create en…](#prompt-147656c1-6c95-4468-94a0-de701a83011e)
+- [67. Speeder chase across a cliff city (single continuous shot) From a mon…](#prompt-f03e21bc-8eb4-4e97-9339-c193ef117911)
+- [68. Luffy and Goku having an epic fight scene on the sunny.](#prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059)
+- [69. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…](#prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6)
+- [70. tyler durden explains fight club rules to jujutsu kaisen characters.…](#prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697)
 
 ---
 
@@ -84,7 +91,7 @@ This file lists **source-layer** prompts only (`text` / `image` / `video` from t
 Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K followers
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -95,9 +102,30 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ---
 
+<a id="prompt-79a5f6d4-ff3e-4cb4-bb95-aa6fc33e9df2"></a>
+
+### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+
+**📝 Prompt (source)**
+
+```
+An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+```
+
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K followers
+
+❤️ 24.3K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+
+<sub>📅 Feb 12, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-d37f4c01-2a9f-4306-aa9b-4325b24d258d"></a>
 
-### 2. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
+### 3. Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwin…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -107,7 +135,7 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
-**By** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K followers
+**By** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.6K followers
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -120,7 +148,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 <a id="prompt-be8319a5-71bb-4841-bef2-a9c09393d6a3"></a>
 
-### 3. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
+### 4. Ultra-realistic sports broadcast still of a glamorous woman sitting i…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -130,7 +158,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light brown/blonde hair styled in soft waves. She is casually drinking from a tall blue aluminum can while holding a half-eaten cheeseburger in the other hand. Around her are fans in bright yellow and blue football jerseys and scarves, creating strong team-color contrast. The scene feels candid and cinematic, captured mid-game from a TV broadcast camera angle with shallow depth of field. Include realistic stadium seating, crowded audience atmosphere, broadcast overlay graphics in the top-left corner showing a live football score and match timer, and a sports network watermark in the top-right. Natural arena lighting, detailed skin texture, sharp focus on the woman, slightly blurred background crowd, authentic live sports broadcast aesthetic, 16:9 composition.
 ```
 
-**By** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K followers
+**By** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 9K followers
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -143,7 +171,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 <a id="prompt-7a1fdbaf-be88-43ef-a3a1-9e9a833044f6"></a>
 
-### 4. Punch the Monkey punches back. Make the girls proud.
+### 5. Punch the Monkey punches back. Make the girls proud.
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -153,7 +181,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 Punch the Monkey punches back. Make the girls proud.
 ```
 
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K followers
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K followers
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
@@ -164,32 +192,11 @@ Punch the Monkey punches back. Make the girls proud.
 
 ---
 
-<a id="prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5"></a>
-
-### 5. AI goes woke. Make it really offensive - like really offensive.
-
-![Source locale](https://img.shields.io/badge/en-source-555555)
-
-**📝 Prompt (source)**
-
-```
-AI goes woke. Make it really offensive - like really offensive.
-```
-
-**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K followers
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
-
-<sub>📅 Feb 19, 2026</sub>
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
 <a id="prompt-2c920370-75f0-45f6-9486-f7607299d8cf"></a>
 
 ### 6. Use @[storyboard ref] as the authoritative director-approved storyboa…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -283,7 +290,7 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+❤️ 865 · 🔁 79 · 🔖 617 · 👁 48.6K
 
 <sub>📅 Jun 11, 2026</sub>
 
@@ -292,9 +299,120 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 ---
 
+<a id="prompt-18edbe5c-c639-4eb5-8607-39f794f897f7"></a>
+
+### 7. Use @[Storyboard Ref] as the storyboard for the sequence. Treat every…
+
+**🖼️ Image prompt (source)**
+
+```
+GPT Image 2 Prompt for storyboard:
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: WHITE SABER SHORELINE DUEL
+META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
+PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
+MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
+REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+
+[SCENE PACKET]
+PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
+LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
+START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
+ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
+PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
+MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+
+[CHARACTER SANITIZATION]
+C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
+C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+
+[EMOTIONAL ARC]
+Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
+EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
+ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
+CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
+ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
+RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / clean beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: impact / short block / smash beat -> P06 RHY P06: burst / short block / clean beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / medium block / held beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: impact / short block / smash beat -> P11 RHY P11: pause / short block / held beat -> P12 RHY P12: pause / medium block / held beat -> P13 RHY P13: impact / medium block / match beat -> P14 RHY P14: burst / short block / whip beat -> P15 RHY P15: final hit / long block / smash beat
+ESCALATION MAP: P01 ESC P01: L3 rise / rise -> P02 ESC P02: L4 surge / rise -> P03 ESC P03: L5 peak / spike -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / rise -> P07 ESC P07: L5 peak / rise -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L5 peak / rise -> P10 ESC P10: L5 peak / drop -> P11 ESC P11: L4 surge / drop -> P12 ESC P12: L3 rise / drop -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L5 peak / release
+STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography clear -> P03 twin cannon fire -> P04 first volley closing -> P05 deflect sparks -> P06 barrage angle changes -> P07 repeated saber redirects -> P08 overhead deflection storm -> P09 C2 forward, fire sustained -> P10 armor hit, not stopped -> P11 water hiss/reflection -> P12 stillness before clash -> P13 one-direction bolt wall from C2, white saber cage -> P14 C1 flank entry -> P15 underside cut, C2 collapse
+STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
+
+[SEQUENCE]
+Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
+
+You can find the prompts below.
+```
+
+**🎬 Video prompt (source)**
+
+```
+Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+Use @[Char ref]  as C1 reference.
+Use @[Droideka ref] as C2 combat droid reference.
+
+EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
+AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+
+BEATS:
+1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
+2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
+3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
+4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
+5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
+6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
+7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
+8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
+9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
+10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
+11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
+12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
+13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
+14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
+15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+```
+
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
+
+❤️ 2.1K · 🔁 241 · 🔖 1.6K · 👁 97.6K
+
+<sub>📅 Jun 10, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-377a0df9-9738-4426-b5ab-9a97400a60ec"></a>
 
-### 7. Use @[storyboard ref] as the authoritative director-approved storyboa…
+### 8. Use @[storyboard ref] as the authoritative director-approved storyboa…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -397,7 +515,7 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
+❤️ 554 · 🔁 56 · 🔖 392 · 👁 20.9K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -408,7 +526,7 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 
 <a id="prompt-0c68718f-7b40-45ba-97cc-f9577219d5ad"></a>
 
-### 8. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…
+### 9. Use @[storyboard ref] as the storyboard blueprint for the sequence. T…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -512,7 +630,7 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
+❤️ 3.6K · 🔁 385 · 🔖 2.8K · 👁 244.1K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -523,7 +641,7 @@ P20: Crane wide final; pale rings spread across the lake as she holds the plante
 
 <a id="prompt-23f9d280-9687-445d-883b-395fa806fb5c"></a>
 
-### 9. Continuous livestream-style video of three young women (early-mid 20s…
+### 10. Continuous livestream-style video of three young women (early-mid 20s…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -568,7 +686,7 @@ Style: Realistic vertical livestream / mukbang vlog, slight natural camera shake
 
 <a id="prompt-e432f9bf-6a00-4653-9ffd-e900a4e33c26"></a>
 
-### 10. Use @[storyboard ref] as the authoritative director-approved storyboa…
+### 11. Use @[storyboard ref] as the authoritative director-approved storyboa…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -663,7 +781,7 @@ P10: Final wide street hold: smoke pours from above while Karma moves into night
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
+❤️ 793 · 🔁 82 · 🔖 738 · 👁 35K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -674,7 +792,7 @@ P10: Final wide street hold: smoke pours from above while Karma moves into night
 
 <a id="prompt-2057a789-db49-456e-8e35-bea0e6ab1336"></a>
 
-### 11. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…
+### 12. TITLE: TIFFANY BLUE BOOK 2026 — BUTTERFLY CHAPTER STYLE: Luxury fashi…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -705,7 +823,7 @@ VOICE: “Designed to mimic butterfly wings…” (pause) “…suspended in fli
 END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 ```
 
-**By** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K followers
+**By** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K followers
 
 ❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
@@ -718,7 +836,7 @@ END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 
 <a id="prompt-a4a1dfd7-b17f-4d69-be4d-68706e0238ec"></a>
 
-### 12. Main Character: Photorealistic 25-year-old Western woman named Sharon…
+### 13. Main Character: Photorealistic 25-year-old Western woman named Sharon…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -835,7 +953,7 @@ High-end brand commercial quality.
 
 <a id="prompt-051634e2-6d34-4525-aebc-e476525251bf"></a>
 
-### 13. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
+### 14. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -946,7 +1064,7 @@ You can find the prompts below.
 
 <a id="prompt-c23113e8-d0db-4d83-93d4-1d2e976dc0d6"></a>
 
-### 14. A high-octane 15-second cinematic action sequence featuring a stylish…
+### 15. A high-octane 15-second cinematic action sequence featuring a stylish…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -990,7 +1108,7 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 <a id="prompt-95bc8679-3b0b-4245-b336-7056639e0b0b"></a>
 
-### 15. 经典的90年代迪士尼动画风格。 场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士…
+### 16. 经典的90年代迪士尼动画风格。 场景一：在埃及的一座宫殿里，镜头切换到王座厅内部，我们看到：威严的胡狼神阿努比斯端坐在王座上，一群下属（士…
 
 ![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
 
@@ -1016,7 +1134,7 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 **By** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K followers
 
-❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.5K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1027,7 +1145,7 @@ Cinematic lighting, dramatic rim lighting, heavy smoke and sparks, realistic phy
 
 <a id="prompt-439fca40-e2ac-4b80-b4df-8d70ffd0101d"></a>
 
-### 16. Create a cinematic realistic high-speed drone video over Istanbul at…
+### 17. Create a cinematic realistic high-speed drone video over Istanbul at…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1040,7 +1158,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 **By** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K followers
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.8K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1051,7 +1169,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 
 <a id="prompt-6378a76c-2a9a-43d9-b4bb-db3bbff3adb7"></a>
 
-### 17. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
+### 18. Use @[storyboard ref] as the authoritative shot blueprint. Do not ren…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1201,7 +1319,7 @@ One continuous rear-chase camera, no cuts. The camera chases her breathlessly wi
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
+❤️ 624 · 🔁 85 · 🔖 539 · 👁 31.8K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1212,7 +1330,7 @@ One continuous rear-chase camera, no cuts. The camera chases her breathlessly wi
 
 <a id="prompt-6cf861c5-1925-4a74-995e-7a68840194e9"></a>
 
-### 18. Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…
+### 19. Fully Prepared Cinematic AI Video Prompt (15s) High-contrast cinemati…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1264,7 +1382,7 @@ Luxury commercial, cinematic realism, moody apartment, food cinematography, shal
 
 **By** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K followers
 
-❤️ 526 · 🔁 87 · 🔖 86 · 👁 34.2K
+❤️ 526 · 🔁 86 · 🔖 86 · 👁 34.2K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1275,7 +1393,7 @@ Luxury commercial, cinematic realism, moody apartment, food cinematography, shal
 
 <a id="prompt-40810c23-c549-4bc0-a179-84dfa7b66801"></a>
 
-### 19. POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…
+### 20. POV: One tiny act of kindness changed EVERYTHING Gugugaga only had on…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -1310,7 +1428,7 @@ DM for full Prompt
 
 <a id="prompt-ce70f4bd-3e20-4b1d-889e-f7f83603c5ae"></a>
 
-### 20. Cinematic ocean documentary film. Subject: A 27-year-old extremely ha…
+### 21. Cinematic ocean documentary film. Subject: A 27-year-old extremely ha…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -1366,7 +1484,7 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 <a id="prompt-76a2e3a6-b78a-4f9f-af3e-ec0d7b97a9df"></a>
 
-### 21. 现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时…
+### 22. 现代中国3D动画风格。 场景一：在一座大型埃及图书馆里，我们看到威严的胡狼神阿努比斯双手背在身后，神情漫不经心地审视着书架，姿态威严。这时…
 
 ![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
 
@@ -1389,7 +1507,7 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 <a id="prompt-17e7c2b0-07ed-4bb3-a77f-69eb16b91a56"></a>
 
-### 22. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…
+### 23. 场景接续[video1]结尾，沿用相同的画面设计和旁白，描绘阿努比斯和人类的互动。 场景1：人类继续用手指挠阿努比斯的腋窝，阿努比斯先是发…
 
 ![Source locale](https://img.shields.io/badge/zh-Hans-source-555555)
 
@@ -1418,7 +1536,7 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 
 <a id="prompt-26f1ab37-3583-4095-898f-700449fbba68"></a>
 
-### 23. Main Character: A beautiful Korean high school girl wearing a realist…
+### 24. Main Character: A beautiful Korean high school girl wearing a realist…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -1472,9 +1590,30 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 
 ---
 
+<a id="prompt-9efd897b-e33d-4baa-958a-9c319fc350b3"></a>
+
+### 25. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+
+**📝 Prompt (source)**
+
+```
+Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+```
+
+**By** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 followers
+
+❤️ 574 · 🔁 32 · 🔖 231 · 👁 455.2K
+
+<sub>📅 May 20, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-87ba9fbe-aee4-4fe9-a222-8f899a81b7e5"></a>
 
-### 24. Use storyboard @[image1] as the exact sequential visual keyframe refe…
+### 26. Use storyboard @[image1] as the exact sequential visual keyframe refe…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1746,9 +1885,9 @@ Create a 15-second high-speed anime martial arts training scene with rough cinem
 No text. No watermark. No UI. No extra action beyond storyboard.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 657 · 🔁 93 · 🔖 609 · 👁 29.9K
+❤️ 660 · 🔁 93 · 🔖 610 · 👁 30K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1759,7 +1898,7 @@ No text. No watermark. No UI. No extra action beyond storyboard.
 
 <a id="prompt-6224ee08-a0e1-4fb4-ba11-294518293acb"></a>
 
-### 25. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…
+### 27. SUBJECTS: Character A @ image1: Light-skinned white-haired 18-year-ol…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1806,7 +1945,7 @@ SFX: Racket hit sound, ball landing sound, breathing sound
 
 <a id="prompt-badcb208-9e33-4435-aa95-a7b5345523e6"></a>
 
-### 26. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 28. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -1830,9 +1969,9 @@ semi-realistic anatomy
 clean cinematic lighting
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.6K
+❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1841,140 +1980,9 @@ clean cinematic lighting
 
 ---
 
-<a id="prompt-73091505-616e-4ee8-97f5-d9a0e5f8f52c"></a>
-
-### 27. Create a 15-second cinematic kung fu performance video. Use @[image1]…
-
-![Source locale](https://img.shields.io/badge/en-US-source-555555)
-
-**🖼️ Image prompt (source)**
-
-```
-Create a raw kung fu performance storyboard focused on extreme physical action. Use reference image for the character.
-
-16:9 storyboard sheet, 12 cinematic panels. The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early fight choreography previs.
-
-Start directly in action. Do not begin with a calm stance, preparation shot or slow introduction.
-
-A solitary female performer executes an aggressive Tibetan kung fu master-style routine inside a vast ancient temple. The choreography is exaggerated, explosive and constantly escalating: flying diagonal kicks, monk-style low stances, rapid palm strikes, spinning cloth-like body turns, animal-form hand shapes, deep lunges, aerial twists, floor-level sweeps, sudden drops, claw-like blocks, back-arched jumps, sliding recoveries and violent sculptural impact poses.
-
-Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel like a ritual warrior moving with discipline, fury, spiritual pressure and total body control.
-
-Action progression:
-1. begin mid-air with a flying diagonal kick already in motion
-2. handheld close-up palm sweep cutting through air
-3. orbiting wide shot of a full-body spin
-4. low-angle impact palm strike with shockwave
-5. long-lens side profile spinning kick
-6. top-down aerial turn with body, hair and fabric flaring outward
-7. hard floor stomp cracking the temple stone
-8. sliding low sweep across the floor
-9. aggressive close-up flurry of elbows, palms and backfist strikes
-10. extreme low monk-style beast stance with energy rising
-11. spinning elemental vortex around the body
-12. final airborne action pose, suspended above the temple floor, body twisted in a powerful kung fu strike, all elements converging around her before impact
-
-Add selective elemental energy effects as VFX-style storyboard accents. The effects should feel spiritual, ritualistic and cinematic, not superhero-like:
-air bursts around spins and flying kicks,
-dust and stone fragments lifting from stomps,
-water-like floor ripples during slides,
-fire-like trails around explosive strikes,
-heat distortion around high-intensity movement,
-elemental vortex near the climax.
-
-Element progression:
-early panels: subtle wind, dust and pressure lines
-middle panels: stronger stone fragments, floor ripples and air shockwaves
-late panels: controlled fire trails and energy spirals
-final panel: the strongest combined elemental surge while the performer is still airborne
-
-Use cinematic arthouse action camerawork:
-handheld energy,
-whip-pan feeling,
-orbiting camera moves,
-overhead shots,
-side silhouettes,
-aggressive close-ups,
-long-lens compression,
-extreme low angles,
-wide negative space,
-strong parallax.
-
-Keep the temple environment minimal and atmospheric:
-towering stone columns,
-worn temple floor,
-drifting incense smoke,
-hanging fabric,
-harsh light shafts,
-faint dust in the air,
-subtle wet floor reflections.
-Do not overcrowd the frames.
-
-Annotation color system:
-red arrows = body movement
-blue arrows = camera movement
-green marks = framing / composition notes
-orange marks = lighting direction
-yellow marks = elemental VFX / energy effects
-black text = short lens notes and panel labels
-
-No timestamps. No dialogue. No singing. No extra characters. No enemies. No logos. No watermark.
-```
-
-**🎬 Video prompt (source)**
-
-```
-Create a 15-second cinematic kung fu performance video.
-
-Use @[image1]  as the fixed character sheet reference. The character must strictly match the character sheet.
-Use @[image2]  as the storyboard reference.
-
-Follow the storyboard shot by shot as the main source for action order, camera rhythm, body movement, framing, movement direction, camera angles and visual progression. Treat each storyboard panel as a sequential keyframe. Preserve the shot order and make the video feel like the storyboard has been translated into continuous live-action motion. The sequence must end on a frozen final frame while the performer is still airborne.
-
-Do not add text, captions, storyboard labels, arrows, UI, logos or watermarks. Do not treat the storyboard as a single image. Do not redesign the character, change the costume or alter the face. Do not begin with a calm stance, preparation pose or slow introduction. Do not make the elemental effects look like superhero powers or excessive fantasy glow.
-
-Visual style:
-stylized cinematic realism, high-end 3D painterly animation quality, dynamic cloth simulation, expressive silhouette design, rich cinematic lighting, controlled color palette, natural motion blur, dramatic scale, beautiful but aggressive physicality, premium feature-animation aesthetic.
-
-Environment:
-vast ancient temple, towering stone columns, worn temple floor, drifting incense smoke, hanging fabric, harsh light shafts, faint dust in the air, subtle wet floor reflections, high contrast shadows.
-
-The performance is a solitary female kung fu routine inside a vast ancient temple. The routine starts immediately in action, with no calm stance, no preparation pose and no slow introduction. The movement should feel aggressive, ritualistic, disciplined, physically extreme and spiritually charged.
-
-This is not a fight against an enemy. It is a solo performance of force, control, exhaustion, fury and release.
-
-Follow story board for choreography direction.
-
-Element progression:
-early sequence: subtle wind, dust and pressure lines responding to movement.
-middle sequence: stronger air shockwaves, stone fragments, floor cracks and water-like ripples across the temple floor.
-late sequence: controlled fire trails, heat distortion and energy spirals around explosive strikes and kicks.
-climax: wind, dust, stone, water ripple and fire accents combine into a stronger elemental vortex.
-final beat: the performer is airborne above the temple floor in a powerful kung fu strike, body twisted mid-air, hair and fabric flaring outward, with all elements converging around her before impact.
-
-Elemental VFX must feel spiritual, ritualistic and cinematic. The effects should be integrated with the choreography and motivated by physical movement. Keep the energy raw, elemental, atmospheric and grounded in the temple environment.
-
-Use Laban movement logic throughout:
-weight: strong, heavy, grounded during impacts, with brief lightness during jumps and aerial twists
-time: quick during strikes, kicks, drops and turns, sustained during suspended holds and recovery transitions
-space: direct during attacks, blocks and lunges, indirect during spinning turns and elemental vortex moments
-flow: bound during rooted stances and precise strikes, free during aerial motion, spinning fabric movement and elemental release
-```
-
-**By** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K followers
-
-❤️ 1.3K · 🔁 202 · 🔖 1.5K · 👁 127.5K
-
-<sub>📅 May 16, 2026</sub>
-
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
 <a id="prompt-e736da3b-b791-4102-96af-ca895c4cba5f"></a>
 
-### 28. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…
+### 29. SUBJECTS: Asian teenage boy @ image1, slim build, sharp eyes, calm an…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2015,9 +2023,30 @@ Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After comp
 
 ---
 
+<a id="prompt-60355ee7-f4bf-400d-ac7f-2131f894fde4"></a>
+
+### 30. Use the provided character reference for the facial features and body…
+
+**📝 Prompt (source)**
+
+```
+Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+```
+
+**By** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K followers
+
+❤️ 991 · 🔁 98 · 🔖 1.1K · 👁 98.7K
+
+<sub>📅 May 15, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-8f6977a0-7cc8-4d34-96ef-baf2b8933a0c"></a>
 
-### 29. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…
+### 31. SUBJECTS: Female Olympic-level diver @ image 1. Slightly stylized car…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2101,7 +2130,7 @@ Final rhythmic beat of the music, subtle shutter freeze sound, continuing audien
 
 <a id="prompt-ac7da655-edaf-48c0-ad7b-bc3cc6c3d550"></a>
 
-### 30. Create a 15-second cinematic kung fu performance video. Use @[image1]…
+### 32. Create a 15-second cinematic kung fu performance video. Use @[image1]…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2219,9 +2248,9 @@ space: direct during attacks, blocks and lunges, indirect during spinning turns 
 flow: bound during rooted stances and precise strikes, free during aerial motion, spinning fabric movement and elemental release
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 82.4K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.7K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2232,7 +2261,7 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 <a id="prompt-cc01d30e-084f-4b78-a694-e3dc68daf9dc"></a>
 
-### 31. A high-definition, realistic broadcast shot of a young woman sitting…
+### 33. A high-definition, realistic broadcast shot of a young woman sitting…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2255,7 +2284,7 @@ A high-definition, realistic broadcast shot of a young woman sitting in a crowde
 
 <a id="prompt-70167adb-b0ea-405c-9a46-aef57f89fc46"></a>
 
-### 32. A young Korean woman sits naturally in the audience during a live bas…
+### 34. A young Korean woman sits naturally in the audience during a live bas…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2282,7 +2311,7 @@ No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow m
 
 <a id="prompt-f90d955b-df6a-4b82-9259-0424be5be39c"></a>
 
-### 33. Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…
+### 35. Film stock / Lens: Digital 4K game engine render, fixed wide-side-vie…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2316,9 +2345,9 @@ STYLE & QUALITY BOOSTERS
 Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lighting, perfect motion blur for the fight moves, high dynamic range, no artifacts. Exact same faces and outfits as [player1] and [player2] throughout, movie-level stable facial features.
 ```
 
-**By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K followers
+**By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K followers
 
-❤️ 661 · 🔁 89 · 🔖 410 · 👁 121.5K
+❤️ 668 · 🔁 89 · 🔖 410 · 👁 121.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2329,7 +2358,7 @@ Photorealistic 8K, ultra-detailed fabric textures on the kits, cinematic lightin
 
 <a id="prompt-7905f90d-a8e0-49b1-b8c7-208ac7d0c1f6"></a>
 
-### 34. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
+### 36. Use the storyboard sheet @[storyboard ref] as the exact sequential vi…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2354,9 +2383,9 @@ semi-realistic anatomy
 clean cinematic lighting
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.6K
+❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2367,7 +2396,7 @@ clean cinematic lighting
 
 <a id="prompt-35a9ad3f-d241-4d0b-8797-991f74440eb2"></a>
 
-### 35. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…
+### 37. Style: Ultra-realistic mass celebrity arrival scene. Single continuou…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2392,7 +2421,7 @@ Calm, controlled presence. Subtle confident smile. Face identity must remain per
 
 <a id="prompt-48506edd-539b-4f54-b89f-60bfb1edc6d3"></a>
 
-### 36. INTENT: Create a playful, high-energy friendship adventure that brief…
+### 38. INTENT: Create a playful, high-energy friendship adventure that brief…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2469,9 +2498,74 @@ Prioritize readability, screen direction, and continuity of action across beats.
 Keep visual motion calm and intentional rather than restless.
 ```
 
-**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K followers
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.5K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.6K
+
+<sub>📅 May 2, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+<a id="prompt-fe481a18-3cea-48dc-b438-ca360bfa6d01"></a>
+
+### 39. follow this Story Board to create a AD. dynamic camera movement, no c…
+
+**🖼️ Image prompt (source)**
+
+```
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+
+Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+
+Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+
+Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+
+Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+
+Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+
+Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+
+Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+ 
+The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+```
+
+**🎬 Video prompt (source)**
+
+```
+follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+```
+
+**By** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K followers
+
+❤️ 748 · 🔁 99 · 🔖 1.1K · 👁 72.3K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2482,7 +2576,7 @@ Keep visual motion calm and intentional rather than restless.
 
 <a id="prompt-dabd98c8-447a-4a41-9ce9-319dbada744c"></a>
 
-### 37. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…
+### 40. SUBJECTS Pastry Chef: adult, wearing a chef uniform, positioned on th…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2523,7 +2617,7 @@ SFX: silence → breakdown scream
 
 **By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K followers
 
-❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303K
+❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303.1K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2532,9 +2626,60 @@ SFX: silence → breakdown scream
 
 ---
 
+<a id="prompt-0e756f68-3c10-4b3a-bb03-67a61061f598"></a>
+
+### 41. Scene: One continuous shot - Hand-held YouTube-style video showing a…
+
+**🖼️ Image prompt (source)**
+
+```
+Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+
+Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+
+Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+
+Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+```
+
+**🎬 Video prompt (source)**
+
+```
+Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+
+Character: Use IMG1 as the character we're following in the scene.
+
+Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+
+The scene starts at IMG1.
+
+Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+
+The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+
+The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+
+The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+
+Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+
+SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+```
+
+**By** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K followers
+
+❤️ 779 · 🔁 76 · 🔖 1.1K · 👁 48K
+
+<sub>📅 Apr 29, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-41cdb412-be8c-4a35-bf48-decddeec727f"></a>
 
-### 38. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…
+### 42. 经典复古迪士尼动画风格。 场景一：在埃及宫殿内，威武的胡狼神阿努比斯正慵懒地坐在王座上，双臂自然地垂在身侧，露出腋窝。他面前的人类顾问正递…
 
 ![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
 
@@ -2557,7 +2702,7 @@ SFX: silence → breakdown scream
 
 <a id="prompt-32785bf8-0296-4d6b-b3c7-b9024e85c07d"></a>
 
-### 39. Use the provided character sheet @[image1] as reference. Create a cin…
+### 43. Use the provided character sheet @[image1] as reference. Create a cin…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2685,7 +2830,7 @@ End on a confident mid or full shot, character fully established.
 
 **By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2696,7 +2841,7 @@ End on a confident mid or full shot, character fully established.
 
 <a id="prompt-2059acc6-8133-4513-8206-02314451f976"></a>
 
-### 40. Create img2 that follows the exact sequence and movements from steps…
+### 44. Create img2 that follows the exact sequence and movements from steps…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2739,9 +2884,9 @@ Create img2 that follows the exact sequence and movements from steps 1–16 show
 There should be no dialogue, text, or narration.
 ```
 
-**By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K followers
+**By** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K followers
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.3K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.6K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2752,7 +2897,7 @@ There should be no dialogue, text, or narration.
 
 <a id="prompt-162d7e90-a53c-4381-b1d6-cfedd405423a"></a>
 
-### 41. This is the F1 we deserve, not the Mario Kart bullshit the regulation…
+### 45. This is the F1 we deserve, not the Mario Kart bullshit the regulation…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2764,7 +2909,7 @@ This is the F1 we deserve, not the Mario Kart bullshit the regulations turned it
 Seedance 2.0 prompt below 👇
 ```
 
-**By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K followers
+**By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K followers
 
 ❤️ 8.9K · 🔁 761 · 🔖 1.7K · 👁 1.9M
 
@@ -2775,9 +2920,30 @@ Seedance 2.0 prompt below 👇
 
 ---
 
+<a id="prompt-0ac5654e-3eb7-4cbb-b975-9276b6febfbf"></a>
+
+### 46. The child walks left to right along the playground path, holding a ha…
+
+**📝 Prompt (source)**
+
+```
+The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+```
+
+**By** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K followers
+
+❤️ 675 · 🔁 67 · 🔖 740 · 👁 37.3K
+
+<sub>📅 Apr 19, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-3ecccc99-fa4a-4f6a-90f5-4e659529db7a"></a>
 
-### 42. Prompt: Use @ Reference Image as the main character, keeping facial f…
+### 47. Prompt: Use @ Reference Image as the main character, keeping facial f…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2810,9 +2976,46 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ---
 
+<a id="prompt-bb83b21d-5be1-463d-9a10-7035c2f61f5d"></a>
+
+### 48. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+
+**📝 Prompt (source)**
+
+```
+Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+
+[IMAGE REFERENCES / LEGEND]
+
+[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+
+3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+
+7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+
+11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+
+[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+```
+
+**By** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K followers
+
+❤️ 996 · 🔁 87 · 🔖 381 · 👁 154.3K
+
+<sub>📅 Apr 18, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-7aa6fd64-10b8-460c-85d8-acf54533c4ea"></a>
 
-### 43. { "style": "stylized 3D animation, hyperreal pop, squash-and-stretch"…
+### 49. { "style": "stylized 3D animation, hyperreal pop, squash-and-stretch"…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2863,7 +3066,7 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 <a id="prompt-c062ccf8-949d-41b5-9bc6-51f6fb50c7e5"></a>
 
-### 44. FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…
+### 50. FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine SUBJECT: @[ima…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2921,7 +3124,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 **By** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K followers
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 149K
+❤️ 1.7K · 🔁 131 · 🔖 1.8K · 👁 149.1K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -2932,7 +3135,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from laptop close to apartment r
 
 <a id="prompt-90180b5e-8048-498c-bbf5-17290e65adbf"></a>
 
-### 45. Bullet time effect. A businessman in white shirt and black tie slippi…
+### 51. Bullet time effect. A businessman in white shirt and black tie slippi…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -2955,7 +3158,7 @@ Bullet time effect. A businessman in white shirt and black tie slipping and fall
 
 <a id="prompt-7c9d6b78-418f-4bc9-80fc-673ae9e8e829"></a>
 
-### 46. aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…
+### 52. aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken co…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -2986,7 +3189,7 @@ quality: 8K photorealistic, correct fabric motion blur, natural physics, no unca
 
 <a id="prompt-63b4b91d-4bce-41fd-ad02-8937a105cc4a"></a>
 
-### 47. FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…
+### 53. FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3019,7 +3222,7 @@ TIMELINE:
 
 <a id="prompt-5ff009c5-a020-405b-9541-3dff09db396e"></a>
 
-### 48. ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…
+### 54. ROCKET SURF. STYLE: Gritty Cine Verité, 35mm handheld, natural shake.…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3051,7 +3254,7 @@ QUALITY: 8K photorealistic, correct physics, fabric motion blur, no artifacts.
 
 <a id="prompt-6dfc8149-29c6-4407-93ac-825816d1966a"></a>
 
-### 49. Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…
+### 55. Gritty, raw handheld 35mm film aesthetic with natural film grain. Har…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3090,7 +3293,7 @@ Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion b
 
 <a id="prompt-f2a27e62-49fb-4b4b-8c7a-2ed7e34ef0a4"></a>
 
-### 50. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…
+### 56. FORMAT: 15s / ONE CONTINUOUS SHOT SUBJECTS: An alluring, highly attra…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3122,7 +3325,7 @@ TIMELINE:
 
 <a id="prompt-e2390302-fc1a-4d77-8fa2-4f6bd49cf598"></a>
 
-### 51. SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…
+### 57. SUBJECTS: Subject 1: Lean kung fu chef with short, sharp-cut hair and…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3154,7 +3357,7 @@ TIMELINE:
 
 **By** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K followers
 
-❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.5K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.6K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3165,7 +3368,7 @@ TIMELINE:
 
 <a id="prompt-644673e8-d100-4ff2-ab06-bac1cbed9e87"></a>
 
-### 52. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…
+### 58. FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECT…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3201,7 +3404,7 @@ TIMELINE:
 
 <a id="prompt-62e39e14-a305-459d-8a07-b951604d0437"></a>
 
-### 53. "A dramatic sports sequence begins on a lush, windswept coastal cliff…
+### 59. "A dramatic sports sequence begins on a lush, windswept coastal cliff…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3217,7 +3420,7 @@ The camera tracks directly behind the spinning sphere, maintaining perfect align
 The howling wind roars as the projectile travels straight and true. The manicured green grows rapidly larger. In the final seconds, the camera closes in tightly as the ball strikes the turf. End on an extreme close-up of the ball ripping through the wet grass, throwing up a spray of dirt before dropping perfectly into the cup."
 ```
 
-**By** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K followers
+**By** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K followers
 
 ❤️ 674 · 🔁 45 · 🔖 518 · 👁 128.1K
 
@@ -3230,7 +3433,7 @@ The howling wind roars as the projectile travels straight and true. The manicure
 
 <a id="prompt-92c72c8f-4ff2-4c88-af52-3c345f4059ea"></a>
 
-### 54. FORMAT: cinematic continuous shot / motivated camera movement / 15s S…
+### 60. FORMAT: cinematic continuous shot / motivated camera movement / 15s S…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3294,7 +3497,7 @@ photorealistic, cinematic lighting, grounded camera motion, rich medieval atmosp
 
 <a id="prompt-83241a36-fcb8-42e8-b968-8f7b58d2ae17"></a>
 
-### 55. Fast-paced FPV drone tracking shot from behind, closely following a 3…
+### 61. Fast-paced FPV drone tracking shot from behind, closely following a 3…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3317,7 +3520,7 @@ Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-sty
 
 <a id="prompt-fceb18ce-3548-4d63-b6b3-f217a286303a"></a>
 
-### 56. Androgenic plots his revenge after getting his wig snatched. Make my…
+### 62. Androgenic plots his revenge after getting his wig snatched. Make my…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3340,7 +3543,7 @@ Androgenic plots his revenge after getting his wig snatched. Make my cortisol sp
 
 <a id="prompt-ef4d6f90-c07c-4472-8c24-7bc47a8cdeb4"></a>
 
-### 57. Make a Pixar film about Punch. I want to cry and fall in love with hi…
+### 63. Make a Pixar film about Punch. I want to cry and fall in love with hi…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3361,9 +3564,32 @@ Make a Pixar film about Punch. I want to cry and fall in love with him.
 
 ---
 
+<a id="prompt-ef46b281-eb4b-4ae8-930e-a752c8567da5"></a>
+
+### 64. AI goes woke. Make it really offensive - like really offensive.
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
+**📝 Prompt (source)**
+
+```
+AI goes woke. Make it really offensive - like really offensive.
+```
+
+**By** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K followers
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
+
+<sub>📅 Feb 19, 2026</sub>
+
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
 <a id="prompt-52e49bf1-79d8-4203-9be4-0a8d17375bf4"></a>
 
-### 58. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
+### 65. First-person POV dragon rider, 15 seconds, raw ungraded film footage…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3388,7 +3614,7 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 
 <a id="prompt-147656c1-6c95-4468-94a0-de701a83011e"></a>
 
-### 59. Why follow Hollywood when you have the power and freedom to create en…
+### 66. Why follow Hollywood when you have the power and freedom to create en…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3398,9 +3624,9 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 Why follow Hollywood when you have the power and freedom to create entirely new worlds? This is a new era of limitless imagination.
 ```
 
-**By** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K followers
+**By** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.3K followers
 
-❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
+❤️ 3.1K · 🔁 312 · 🔖 936 · 👁 198.8K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3411,7 +3637,7 @@ Why follow Hollywood when you have the power and freedom to create entirely new 
 
 <a id="prompt-f03e21bc-8eb4-4e97-9339-c193ef117911"></a>
 
-### 60. Speeder chase across a cliff city (single continuous shot) From a mon…
+### 67. Speeder chase across a cliff city (single continuous shot) From a mon…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3434,7 +3660,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 
 <a id="prompt-8effccf2-42b8-4003-a1e0-d6abf14a3059"></a>
 
-### 61. Luffy and Goku having an epic fight scene on the sunny.
+### 68. Luffy and Goku having an epic fight scene on the sunny.
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
@@ -3457,7 +3683,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 <a id="prompt-d3137a8a-2e4b-41fe-8a1c-8767932a63c6"></a>
 
-### 62. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…
+### 69. [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in fu…
 
 ![Source locale](https://img.shields.io/badge/en-source-555555)
 
@@ -3480,7 +3706,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 <a id="prompt-b194436c-9dd4-4c47-8f4e-99c0f1e1e697"></a>
 
-### 63. tyler durden explains fight club rules to jujutsu kaisen characters.…
+### 70. tyler durden explains fight club rules to jujutsu kaisen characters.…
 
 ![Source locale](https://img.shields.io/badge/en-US-source-555555)
 

@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-70_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Курируемых промптов | 📚 Total prompts | 🎬 Модель | 🔄 Последнее обновление |
 |:---:|:---:|:---:|:---:|
-| **63** | **63** | **Seedance 2.0** | **2026-06-17 22:03:27.810 UTC** |
+| **70** | **70** | **Seedance 2.0** | **2026-06-18 04:17:14.380 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обобщи дискуссии об ИИ в виде мема — сделай его максимально абсурдным, чтобы он набрал 50 лайков.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K подписчиков
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -149,7 +149,32 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 2. Луффи в ярости программирует на «Таузенд Санни»
+### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="An average shift at Waffle House - make sure it's retarded and gets 5…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+```
+
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K подписчиков
+
+❤️ 24.3K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+
+<sub>📅 Feb 12, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 3. Луффи в ярости программирует на «Таузенд Санни»
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
@@ -164,7 +189,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Луффи программирует на Macbook на «Таузенд Санни», В ЯРОСТИ, а затем выбрасывает его за борт.
 ```
 
-**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K подписчиков
+**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.6K подписчиков
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -174,7 +199,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 3. Репортажная сцена на стадионе
+### 4. Репортажная сцена на стадионе
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
@@ -189,7 +214,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Ультрареалистичный кадр спортивной трансляции: гламурная женщина сидит в толпе на переполненном футбольном стадионе во время ночного матча. На ней темно-коричневый атласный топ без рукавов с высоким воротом и черные квадратные серьги, светло-каштановые/русые волосы до плеч уложены мягкими волнами. Она непринужденно пьет из высокой синей алюминиевой банки, держа в другой руке надкушенный чизбургер. Вокруг нее болельщики в ярко-желтых и синих футбольных майках и шарфах, создающих сильный контраст командных цветов. Сцена выглядит естественной и кинематографичной, снята в середине игры с ракурса телевизионной камеры с малой глубиной резкости. В кадре реалистичные трибуны, атмосфера переполненного стадиона, графический оверлей трансляции в левом верхнем углу с текущим счетом и таймером матча, а также водяной знак спортивного канала в правом верхнем углу. Естественное освещение арены, детализированная текстура кожи, резкий фокус на женщине, слегка размытая толпа на заднем плане, аутентичная эстетика прямой спортивной трансляции, композиция 16:9.
 ```
 
-**Автор:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K подписчиков
+**Автор:** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 9K подписчиков
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -199,7 +224,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ---
 
-### 4. Ответный удар обезьяны
+### 5. Ответный удар обезьяны
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -214,36 +239,11 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обезьяна наносит ответный удар. Заставь девушек гордиться.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K подписчиков
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 5. Сатирический социальный комментарий об ИИ
-
-![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Сатирический социальный комментарий об ИИ"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
-</div>
-
-**📝 Промпт**
-
-```
-ИИ становится «повесточным» (woke). Сделайте это по-настоящему оскорбительным — прямо очень оскорбительным.
-```
-
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
-
-<sub>📅 Feb 19, 2026</sub>
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
@@ -354,7 +354,7 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+❤️ 865 · 🔁 79 · 🔖 617 · 👁 48.6K
 
 <sub>📅 Jun 11, 2026</sub>
 
@@ -362,7 +362,122 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 ---
 
-### 7. Ритуал в лесу Nox Lumos Poi
+### 7. GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**🖼️ Промпт для изображения**
+
+```
+GPT Image 2 Prompt for storyboard:
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: WHITE SABER SHORELINE DUEL
+META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
+PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
+MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
+REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+
+[SCENE PACKET]
+PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
+LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
+START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
+ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
+PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
+MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+
+[CHARACTER SANITIZATION]
+C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
+C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+
+[EMOTIONAL ARC]
+Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
+EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
+ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
+CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
+ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
+RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / clean beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: impact / short block / smash beat -> P06 RHY P06: burst / short block / clean beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / medium block / held beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: impact / short block / smash beat -> P11 RHY P11: pause / short block / held beat -> P12 RHY P12: pause / medium block / held beat -> P13 RHY P13: impact / medium block / match beat -> P14 RHY P14: burst / short block / whip beat -> P15 RHY P15: final hit / long block / smash beat
+ESCALATION MAP: P01 ESC P01: L3 rise / rise -> P02 ESC P02: L4 surge / rise -> P03 ESC P03: L5 peak / spike -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / rise -> P07 ESC P07: L5 peak / rise -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L5 peak / rise -> P10 ESC P10: L5 peak / drop -> P11 ESC P11: L4 surge / drop -> P12 ESC P12: L3 rise / drop -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L5 peak / release
+STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography clear -> P03 twin cannon fire -> P04 first volley closing -> P05 deflect sparks -> P06 barrage angle changes -> P07 repeated saber redirects -> P08 overhead deflection storm -> P09 C2 forward, fire sustained -> P10 armor hit, not stopped -> P11 water hiss/reflection -> P12 stillness before clash -> P13 one-direction bolt wall from C2, white saber cage -> P14 C1 flank entry -> P15 underside cut, C2 collapse
+STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
+
+[SEQUENCE]
+Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
+
+You can find the prompts below.
+```
+
+**🎬 Промпт для видео**
+
+```
+Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+Use @[Char ref]  as C1 reference.
+Use @[Droideka ref] as C2 combat droid reference.
+
+EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
+AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+
+BEATS:
+1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
+2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
+3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
+4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
+5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
+6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
+7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
+8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
+9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
+10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
+11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
+12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
+13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
+14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
+15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+```
+
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+
+❤️ 2.1K · 🔁 241 · 🔖 1.6K · 👁 97.6K
+
+<sub>📅 Jun 10, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 8. Ритуал в лесу Nox Lumos Poi
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -470,7 +585,7 @@ P18: Возвращение зеленого дневного света; лис
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
+❤️ 554 · 🔁 56 · 🔖 392 · 👁 20.9K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -478,7 +593,7 @@ P18: Возвращение зеленого дневного света; лис
 
 ---
 
-### 8. Раскадровка ритуала с лесным световым мечом
+### 9. Раскадровка ритуала с лесным световым мечом
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -587,7 +702,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
+❤️ 3.6K · 🔁 385 · 🔖 2.8K · 👁 244.1K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -595,7 +710,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 ---
 
-### 9. Ночной мукбанг-стрим из Сеула
+### 10. Ночной мукбанг-стрим из Сеула
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -642,7 +757,7 @@ P20: Общий план с крана, финал; бледные кольца 
 
 ---
 
-### 10. Кибер-экшен сцена: Побег Кармы
+### 11. Кибер-экшен сцена: Побег Кармы
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -742,7 +857,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
+❤️ 793 · 🔁 82 · 🔖 738 · 👁 35K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -750,7 +865,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 11. Tiffany Blue Book 2026: Глава «Бабочка»
+### 12. Tiffany Blue Book 2026: Глава «Бабочка»
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -784,7 +899,7 @@ P10: Финальное широкое удержание на улице: ды�
 ФИНАЛЬНЫЙ КАДР: Элегантное появление логотипа. Мягкое мерцание. Оркестровое затухание.
 ```
 
-**Автор:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K подписчиков
+**Автор:** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K подписчиков
 
 ❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
@@ -794,7 +909,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 12. Рекламная кампания Fanta Summer
+### 13. Рекламная кампания Fanta Summer
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -913,7 +1028,7 @@ P10: Финальное широкое удержание на улице: ды�
 
 ---
 
-### 13. Пробуждение от кошмара: Кинематографическая последовательность падени…
+### 14. Пробуждение от кошмара: Кинематографическая последовательность падени…
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1026,7 +1141,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 14. Кинематографичная экшн-сцена в стиле киберпанк
+### 15. Кинематографичная экшн-сцена в стиле киберпанк
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1072,7 +1187,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 15. Стиль Disney 90-х: Тайный дар Анубиса
+### 16. Стиль Disney 90-х: Тайный дар Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1103,7 +1218,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 **Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K подписчиков
 
-❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.5K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1111,7 +1226,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 16. Кинематографичный полет дрона над Стамбулом на закате
+### 17. Кинематографичный полет дрона над Стамбулом на закате
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1129,7 +1244,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 **Автор:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K подписчиков
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.8K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1137,7 +1252,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 
 ---
 
-### 17. Паркур-погоня в лесу Феличита
+### 18. Паркур-погоня в лесу Феличита
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1292,7 +1407,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
+❤️ 624 · 🔁 85 · 🔖 539 · 👁 31.8K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1300,7 +1415,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 ---
 
-### 18. Кинематографичный рекламный ролик элитного шоколада
+### 19. Кинематографичный рекламный ролик элитного шоколада
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1357,7 +1472,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 **Автор:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K подписчиков
 
-❤️ 526 · 🔁 87 · 🔖 86 · 👁 34.2K
+❤️ 526 · 🔁 86 · 🔖 86 · 👁 34.2K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1365,7 +1480,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 
 ---
 
-### 19. Трогательный акт доброты
+### 20. Трогательный акт доброты
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1402,7 +1517,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 20. Документальный фильм о глубоководных рыбаках
+### 21. Документальный фильм о глубоководных рыбаках
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1460,7 +1575,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 21. Щекотливый момент Анубиса
+### 22. Щекотливый момент Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1485,25 +1600,25 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 22. Сцена взаимодействия Анубиса с человеком
+### 23. Сцены взаимодействия Анубиса и человека
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Сцена взаимодействия Анубиса с человеком"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058166128451444746_0_poster.jpg" width="480" alt="Сцены взаимодействия Анубиса и человека"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
 **📝 Промпт**
 
 ```
-Сцена продолжает финал [video1], сохраняя тот же дизайн кадра и закадровый голос, изображая взаимодействие Анубиса и человека.
+Сцена продолжает окончание [video1], используя тот же визуальный дизайн и закадровый голос для изображения взаимодействия Анубиса и человека.
 
-Сцена 1: Человек продолжает щекотать Анубиса под мышками. Анубис сначала издает приглушенный смех, но вскоре начинает громко смеяться, так как ему очень щекотно.
+Сцена 1: Человек продолжает щекотать Анубиса пальцами под мышками. Анубис сначала издает приглушенный смех, но вскоре начинает громко смеяться, потому что ему слишком щекотно.
 
-Сцена 2: Человек продолжает щекотать Анубиса под мышками, и в этот раз Анубис смеется еще громче. Затем Анубис обхватывает себя руками, защищая подмышки и пытаясь остановить щекотку. Он обнимает себя и издает еще несколько смешков.
+Сцена 2: Человек продолжает щекотать Анубиса под мышками, и в этот раз Анубис смеется еще громче. Затем Анубис обхватывает себя руками, чтобы защитить подмышки и остановить щекотку. Он обнимает себя и издает еще несколько смешков.
 
-Сцена 3: Анубис постепенно успокаивается, ухмыляется человеку и с озорной улыбкой говорит: «О, ты такой жестокий». Затем Анубис обнимает человека за плечи и притягивает к себе. Анубис наклоняется к человеку и говорит: «Но если ты щекочешь меня, я не против». Человек ухмыляется и нервно хихикает.
+Сцена 3: Анубис медленно успокаивается, ухмыляется человеку и с озорной улыбкой говорит: «О, ты действительно жесток». Затем Анубис обнимает человека за плечи и притягивает к себе. Анубис наклоняется к человеку и говорит: «Но если ты щекочешь меня, я не против». Человек ухмыляется и нервно хихикает.
 ```
 
 **Автор:** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K подписчиков
@@ -1516,7 +1631,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 23. Корейская школьная экшн-драма
+### 24. Корейская школьная экшн-драма
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1571,7 +1686,32 @@ POV: Один маленький акт доброты изменил ВСЁ
 
 ---
 
-### 24. Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…
+### 25. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Female Olympic diver from platform takeoff to mid-air perfect dive in…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+```
+
+**Автор:** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 подписчиков
+
+❤️ 574 · 🔁 32 · 🔖 231 · 👁 455.2K
+
+<sub>📅 May 20, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1848,9 +1988,9 @@ Jūran спокоен.
 Без текста. Без водяного знака. Без интерфейса. Никаких дополнительных действий, кроме раскадровки.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 657 · 🔁 93 · 🔖 609 · 👁 29.9K
+❤️ 660 · 🔁 93 · 🔖 610 · 👁 30K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1858,7 +1998,7 @@ Jūran спокоен.
 
 ---
 
-### 25. Цифровая живопись: напряженный теннисный матч
+### 27. Цифровая живопись: напряженный теннисный матч
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1907,7 +2047,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 26. Кинематографичное исполнение бейсбольного отбивания
+### 28. Кинематографичное исполнение бейсбольного отбивания
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -1936,9 +2076,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 чистое кинематографичное освещение
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.6K
+❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1946,140 +2086,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 27. Раскадровка кинематографического выступления в стиле кунг-фу
-
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Раскадровка кинематографического выступления в стиле кунг-фу"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
-</div>
-
-**🖼️ Промпт для изображения**
-
-```
-Создайте раскадровку выступления в стиле кунг-фу, сфокусированную на экстремальном физическом действии. Используйте референсное изображение для персонажа.
-
-Лист раскадровки 16:9, 12 кинематографических панелей. Рисунки раскадровки должны быть только черно-белыми: грубые карандашные линии, минимум деталей, энергия быстрого наброска, простая анатомическая конструкция и четкая читаемость силуэтов. Сохраняйте рисунок легким, динамичным и незавершенным, как в раннем превизуализационном видео боевой хореографии.
-
-Начинайте сразу с действия. Не начинайте со спокойной стойки, подготовительного кадра или медленного вступления.
-
-Одинокая женщина-исполнитель выполняет агрессивный комплекс в стиле тибетского мастера кунг-фу внутри огромного древнего храма. Хореография преувеличенная, взрывная и постоянно нарастающая: диагональные удары в прыжке, низкие стойки в стиле монахов, быстрые удары ладонями, вращательные движения тела, напоминающие развевающуюся ткань, формы рук в стиле животных, глубокие выпады, воздушные повороты, подсечки на уровне пола, резкие падения, блоки в стиле когтей, прыжки с прогибом спины, скользящие восстановления и агрессивные скульптурные позы после ударов.
-
-Каждая панель должна содержать видимое движение и мощный импульс тела. Избегайте статических стоячих поз. Исполнительница должна ощущаться как ритуальный воин, движущийся с дисциплиной, яростью, духовным давлением и полным контролем над телом.
-
-Развитие действия:
-1. начало в воздухе с диагонального удара в прыжке, уже находящегося в движении
-2. ручной крупный план удара ладонью, рассекающего воздух
-3. орбитальный общий план полного вращения тела
-4. удар ладонью с низкого угла с ударной волной
-5. боковой профиль удара ногой с вращением, снятый длиннофокусным объективом
-6. вид сверху на воздушный поворот с развевающимися волосами и тканью
-7. жесткий топот, раскалывающий камень храма
-8. скользящая низкая подсечка по полу
-9. агрессивный крупный план серии ударов локтями, ладонями и тыльной стороной кулака
-10. экстремально низкая стойка зверя в стиле монаха с нарастающей энергией
-11. вращающийся стихийный вихрь вокруг тела
-12. финальная поза в воздухе, зависшая над полом храма, тело скручено в мощном ударе кунг-фу, все элементы сходятся вокруг нее перед ударом
-
-Добавьте выборочные эффекты стихийной энергии в качестве акцентов раскадровки в стиле VFX. Эффекты должны ощущаться духовными, ритуальными и кинематографичными, а не как у супергероев:
-всплески воздуха вокруг вращений и ударов в прыжке,
-пыль и каменные осколки, поднимающиеся от топота,
-рябь на полу, похожая на воду, во время скольжений,
-огненные шлейфы вокруг взрывных ударов,
-искажение тепла вокруг высокоинтенсивного движения,
-стихийный вихрь ближе к кульминации.
-
-Развитие элементов:
-ранние панели: тонкий ветер, пыль и линии давления
-средние панели: более сильные каменные осколки, рябь на полу и воздушные ударные волны
-поздние панели: контролируемые огненные шлейфы и энергетические спирали
-финальная панель: мощнейший комбинированный стихийный всплеск, пока исполнительница все еще находится в воздухе
-
-Используйте кинематографическую артхаусную операторскую работу:
-ручная камера,
-эффект резкого панорамирования,
-орбитальные движения камеры,
-виды сверху,
-боковые силуэты,
-агрессивные крупные планы,
-сжатие длиннофокусным объективом,
-экстремально низкие углы,
-широкое негативное пространство,
-сильный параллакс.
-
-Сохраняйте окружение храма минималистичным и атмосферным:
-возвышающиеся каменные колонны,
-потертый пол храма,
-клубящийся дым благовоний,
-висящая ткань,
-резкие лучи света,
-слабая пыль в воздухе,
-тонкие отражения на влажном полу.
-Не перегружайте кадры.
-
-Система аннотаций цветом:
-красные стрелки = движение тела
-синие стрелки = движение камеры
-зеленые отметки = примечания по кадрированию / композиции
-оранжевые отметки = направление освещения
-желтые отметки = стихийные VFX / энергетические эффекты
-черный текст = краткие примечания к объективу и метки панелей
-
-Без временных меток. Без диалогов. Без пения. Без дополнительных персонажей. Без врагов. Без логотипов. Без водяных знаков.
-```
-
-**🎬 Промпт для видео**
-
-```
-Создайте 15-секундное кинематографическое видео выступления в стиле кунг-фу.
-
-Используйте @[image1] как фиксированный референс листа персонажа. Персонаж должен строго соответствовать листу персонажа.
-Используйте @[image2] как референс раскадровки.
-
-Следуйте раскадровке кадр за кадром как основному источнику порядка действий, ритма камеры, движения тела, кадрирования, направления движения, углов камеры и визуального развития. Относитесь к каждой панели раскадровки как к последовательному ключевому кадру. Сохраняйте порядок кадров и сделайте так, чтобы видео ощущалось как раскадровка, переведенная в непрерывное живое действие. Последовательность должна заканчиваться на застывшем финальном кадре, пока исполнительница все еще находится в воздухе.
-
-Не добавляйте текст, подписи, метки раскадровки, стрелки, интерфейс, логотипы или водяные знаки. Не рассматривайте раскадровку как единое изображение. Не переделывайте персонажа, не меняйте костюм и не изменяйте лицо. Не начинайте со спокойной стойки, подготовительной позы или медленного вступления. Не делайте стихийные эффекты похожими на супергеройские способности или чрезмерное фэнтезийное свечение.
-
-Визуальный стиль:
-стилизованный кинематографический реализм, высококачественная 3D-анимация с живописным качеством, динамическая симуляция ткани, выразительный дизайн силуэта, богатое кинематографическое освещение, контролируемая цветовая палитра, естественное размытие движения, драматический масштаб, красивая, но агрессивная физичность, эстетика анимации премиум-класса.
-
-Окружение:
-огромный древний храм, возвышающиеся каменные колонны, потертый пол храма, клубящийся дым благовоний, висящая ткань, резкие лучи света, слабая пыль в воздухе, тонкие отражения на влажном полу, контрастные тени.
-
-Выступление представляет собой одиночный комплекс кунг-фу внутри огромного древнего храма. Комплекс начинается немедленно с действия, без спокойной стойки, без подготовительной позы и без медленного вступления. Движение должно ощущаться агрессивным, ритуальным, дисциплинированным, физически экстремальным и духовно заряженным.
-
-Это не бой против врага. Это сольное выступление силы, контроля, истощения, ярости и освобождения.
-
-Следуйте раскадровке для направления хореографии.
-
-Развитие элементов:
-ранняя последовательность: тонкий ветер, пыль и линии давления, реагирующие на движение.
-средняя последовательность: более сильные воздушные ударные волны, каменные осколки, трещины на полу и рябь, похожая на воду, по полу храма.
-поздняя последовательность: контролируемые огненные шлейфы, искажение тепла и энергетические спирали вокруг взрывных ударов и пинков.
-кульминация: ветер, пыль, камень, рябь на воде и огненные акценты объединяются в более сильный стихийный вихрь.
-финальный такт: исполнительница находится в воздухе над полом храма в мощном ударе кунг-фу, тело скручено в воздухе, волосы и ткань развеваются, все элементы сходятся вокруг нее перед ударом.
-
-Стихийные VFX должны ощущаться духовными, ритуальными и кинематографичными. Эффекты должны быть интегрированы с хореографией и мотивированы физическим движением. Сохраняйте энергию сырой, стихийной, атмосферной и приземленной в окружении храма.
-
-Используйте логику движения Лабана на протяжении всего видео:
-вес: сильный, тяжелый, приземленный во время ударов, с кратковременной легкостью во время прыжков и воздушных поворотов
-время: быстрое во время ударов, пинков, падений и поворотов, устойчивое во время зависаний и переходов восстановления
-пространство: прямое во время атак, блоков и выпадов, косвенное во время вращательных поворотов и моментов стихийного вихря
-поток: скованный во время укорененных стоек и точных ударов, свободный во время движения в воздухе, вращательного движения ткани и стихийного высвобождения
-```
-
-**Автор:** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K подписчиков
-
-❤️ 1.3K · 🔁 202 · 🔖 1.5K · 👁 127.5K
-
-<sub>📅 May 16, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 28. Цифровая живопись: тренировка Вин-Чунь
+### 29. Цифровая живопись: тренировка Вин-Чунь
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2124,7 +2131,32 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 29. Анимация цифровой живописи прыгуна в воду
+### 30. Use the provided character reference for the facial features and body…
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Use the provided character reference for the facial features and body…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+```
+
+**Автор:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K подписчиков
+
+❤️ 991 · 🔁 98 · 🔖 1.1K · 👁 98.7K
+
+<sub>📅 May 15, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 31. Анимация цифровой живописи прыгуна в воду
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2210,7 +2242,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 30. Cinematic Kung Fu Performance Storyboard
+### 32. Cinematic Kung Fu Performance Storyboard
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2333,9 +2365,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 поток: связанный во время укорененных стоек и точных ударов, свободный во время воздушного движения, вращающегося движения ткани и элементального освобождения
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 82.4K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.7K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2343,7 +2375,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 31. Футбольный болельщик в трансляции со стадиона
+### 33. Футбольный болельщик в трансляции со стадиона
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2368,7 +2400,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 32. Случайный кадр с фанатской камеры на бейсбольном матче
+### 34. Случайный кадр с фанатской камеры на бейсбольном матче
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2396,7 +2428,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 33. Соревновательная боевая последовательность в стиле файтинг
+### 35. Соревновательная боевая последовательность в стиле файтинг
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2435,9 +2467,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 Фотореализм 8K, ультрадетализированные текстуры ткани на форме, кинематографичное освещение, идеальное размытие в движении для боевых приемов, высокий динамический диапазон, отсутствие артефактов. Точно такие же лица и одежда, как у [player1] и [player2] на протяжении всего видео, стабильные черты лица уровня кино.
 ```
 
-**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K подписчиков
 
-❤️ 661 · 🔁 89 · 🔖 410 · 👁 121.5K
+❤️ 668 · 🔁 89 · 🔖 410 · 👁 121.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2445,7 +2477,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 
 ---
 
-### 34. Кинематографичное выступление со скакалкой
+### 36. Кинематографичное выступление со скакалкой
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2475,9 +2507,9 @@ Style:
 чистое кинематографичное освещение
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.6K
+❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2485,7 +2517,7 @@ Style:
 
 ---
 
-### 35. Прибытие знаменитости в Нью-Йорк
+### 37. Прибытие знаменитости в Нью-Йорк
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2527,7 +2559,7 @@ Style:
 
 ---
 
-### 36. Раскадровка спасения на облачном скейтборде
+### 38. Раскадровка спасения на облачном скейтборде
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2609,9 +2641,9 @@ Style:
 Сохраняйте визуальное движение спокойным и намеренным, а не беспокойным.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.5K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.6K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2619,7 +2651,76 @@ Style:
 
 ---
 
-### 37. Шеф-повар против таракана: Погоня на кухне
+### 39. story = a beautiful woman in a white dress enjoying a amazing sunset…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="story = a beautiful woman in a white dress enjoying a amazing sunset…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**🖼️ Промпт для изображения**
+
+```
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+
+Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+
+Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+
+Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+
+Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+
+Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+
+Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+
+Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+ 
+The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+```
+
+**🎬 Промпт для видео**
+
+```
+follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+```
+
+**Автор:** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K подписчиков
+
+❤️ 748 · 🔁 99 · 🔖 1.1K · 👁 72.3K
+
+<sub>📅 May 2, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 40. Шеф-повар против таракана: Погоня на кухне
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2665,7 +2766,7 @@ SFX: тишина → крик отчаяния
 
 **Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
 
-❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303K
+❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303.1K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2673,7 +2774,62 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 38. В стиле ретро-Диснея: забавное щекотание Анубиса
+### 41. Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**🖼️ Промпт для изображения**
+
+```
+Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+
+Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+
+Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+
+Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+```
+
+**🎬 Промпт для видео**
+
+```
+Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+
+Character: Use IMG1 as the character we're following in the scene.
+
+Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+
+The scene starts at IMG1.
+
+Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+
+The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+
+The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+
+The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+
+Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+
+SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+```
+
+**Автор:** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K подписчиков
+
+❤️ 779 · 🔁 76 · 🔖 1.1K · 👁 48K
+
+<sub>📅 Apr 29, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 42. В стиле ретро-Диснея: забавное щекотание Анубиса
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2714,7 +2870,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 39. Кинематографическое представление персонажа и справочный лист
+### 43. Кинематографическое представление персонажа и справочный лист
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2847,7 +3003,7 @@ SFX: тишина → крик отчаяния
 
 **Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2855,7 +3011,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 40. Справочный лист движений 3D-персонажа
+### 44. Справочный лист движений 3D-персонажа
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2903,9 +3059,9 @@ SFX: тишина → крик отчаяния
 Не должно быть диалогов, текста или закадрового голоса.
 ```
 
-**Автор:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K подписчиков
+**Автор:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K подписчиков
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.3K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.6K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2913,7 +3069,7 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 41. Высокооктановая сцена гонок Формулы-1
+### 45. Высокооктановая сцена гонок Формулы-1
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2930,7 +3086,7 @@ SFX: тишина → крик отчаяния
 Промпт для Seedance 2.0 ниже 👇
 ```
 
-**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K подписчиков
 
 ❤️ 8.9K · 🔁 761 · 🔖 1.7K · 👁 1.9M
 
@@ -2940,7 +3096,32 @@ SFX: тишина → крик отчаяния
 
 ---
 
-### 42. Сцена в спортбаре с остановкой времени
+### 46. The child walks left to right along the playground path, holding a ha…
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="The child walks left to right along the playground path, holding a ha…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+```
+
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+
+❤️ 675 · 🔁 67 · 🔖 740 · 👁 37.3K
+
+<sub>📅 Apr 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 47. Сцена в спортбаре с остановкой времени
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -2977,7 +3158,48 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 43. Анимация с трюком с мороженым в стиле слэпстик
+### 48. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Film Style: Authentic 2010s-era NBA TV broadcast, TNT &quot;NBA on TNT&quot; gr…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+
+[IMAGE REFERENCES / LEGEND]
+
+[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+
+3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+
+7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+
+11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+
+[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+```
+
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K подписчиков
+
+❤️ 996 · 🔁 87 · 🔖 381 · 👁 154.3K
+
+<sub>📅 Apr 18, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 49. Анимация с трюком с мороженым в стиле слэпстик
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3030,7 +3252,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 44. Динамичный монтаж утренней рутины
+### 50. Динамичный монтаж утренней рутины
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3093,7 +3315,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 **Автор:** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K подписчиков
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 149K
+❤️ 1.7K · 🔁 131 · 🔖 1.8K · 👁 149.1K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3101,7 +3323,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 45. Эффект Bullet time: бизнесмен падает на Уолл-стрит
+### 51. Эффект Bullet time: бизнесмен падает на Уолл-стрит
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3126,7 +3348,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 46. Съемка трюка на крыле F16
+### 52. Съемка трюка на крыле F16
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3159,7 +3381,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 47. VR-переход: Из дикой природы домой
+### 53. VR-переход: Из дикой природы домой
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3194,7 +3416,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 48. Серфинг на ракете на большой высоте
+### 54. Серфинг на ракете на большой высоте
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3228,7 +3450,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 49. Кинематографичный трекинг-шот прыжка со скалы
+### 55. Кинематографичный трекинг-шот прыжка со скалы
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3269,7 +3491,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 50. Психологический хоррор: трансформация офисного работника
+### 56. Психологический хоррор: трансформация офисного работника
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3303,7 +3525,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 51. Приготовление лапши в стиле кунг-фу
+### 57. Приготовление лапши в стиле кунг-фу
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3340,7 +3562,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 **Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
 
-❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.5K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.6K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3348,7 +3570,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 52. Комедийная анимация в стиле слэпстик про мороженое
+### 58. Комедийная анимация в стиле слэпстик про мороженое
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3386,7 +3608,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 53. Драматичный удар в гольфе на побережье
+### 59. Драматичный удар в гольфе на побережье
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3407,7 +3629,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Завывающий ветер ревет, пока снаряд летит прямо и точно. Ухоженный грин быстро увеличивается. В последние секунды камера приближается, когда мяч ударяется о газон. Завершение экстремальным крупным планом: мяч прорезает мокрую траву, поднимая брызги грязи, прежде чем идеально упасть в лунку.
 ```
 
-**Автор:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K подписчиков
+**Автор:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K подписчиков
 
 ❤️ 674 · 🔁 45 · 🔖 518 · 👁 128.1K
 
@@ -3417,7 +3639,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 54. Кинематографичный непрерывный кадр средневекового рынка
+### 60. Кинематографичный непрерывный кадр средневекового рынка
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3483,7 +3705,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 55. Высокоскоростная погоня FPV-дрона с сезонным переходом
+### 61. Высокоскоростная погоня FPV-дрона с сезонным переходом
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3508,7 +3730,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 56. Мстительный план Андродженика
+### 62. Мстительный план Андродженика
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3533,7 +3755,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 57. Эмоциональное путешествие Панча в стиле Pixar
+### 63. Эмоциональное путешествие Панча в стиле Pixar
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3558,7 +3780,32 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 58. Вид от первого лица: воздушный бой верхом на драконе
+### 64. Сатирический социальный комментарий об ИИ
+
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="Сатирический социальный комментарий об ИИ"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
+</div>
+
+**📝 Промпт**
+
+```
+ИИ становится «повесточным» (woke). Сделайте это по-настоящему оскорбительным — прямо очень оскорбительным.
+```
+
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K подписчиков
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
+
+<sub>📅 Feb 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 65. Вид от первого лица: воздушный бой верхом на драконе
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3585,7 +3832,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 59. Эра безграничного воображения
+### 66. Эра безграничного воображения
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3600,9 +3847,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Зачем следовать за Голливудом, если у вас есть сила и свобода создавать совершенно новые миры? Это новая эра безграничного воображения.
 ```
 
-**Автор:** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K подписчиков
+**Автор:** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.3K подписчиков
 
-❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
+❤️ 3.1K · 🔁 312 · 🔖 936 · 👁 198.8K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3610,7 +3857,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 60. Скоростная погоня на спидерах через город в скалах
+### 67. Скоростная погоня на спидерах через город в скалах
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3635,7 +3882,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 61. Эпическая битва Луффи и Гоку
+### 68. Эпическая битва Луффи и Гоку
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3660,7 +3907,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 62. Сцена спасения заложника спецназом
+### 69. Сцена спасения заложника спецназом
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
@@ -3685,7 +3932,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 ---
 
-### 63. Тайлер Дёрден обучает персонажей Jujutsu Kaisen
+### 70. Тайлер Дёрден обучает персонажей Jujutsu Kaisen
 
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 

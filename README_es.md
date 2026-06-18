@@ -20,7 +20,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Prompts](https://img.shields.io/badge/Prompts-63_Curated-111111.svg)](#all-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-70_Curated-111111.svg)](#all-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/sparkle027/awesome-seedance-2-0-prompts?style=social)](https://github.com/sparkle027/awesome-seedance-2-0-prompts)
 
@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts seleccionados | 📚 Total prompts | 🎬 Modelo | 🔄 Última actualización |
 |:---:|:---:|:---:|:---:|
-| **63** | **63** | **Seedance 2.0** | **2026-06-17 22:03:27.810 UTC** |
+| **70** | **70** | **Seedance 2.0** | **2026-06-18 04:17:14.380 UTC** |
 
 </div>
 
@@ -139,7 +139,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Resume el discurso sobre la IA en un meme; asegúrate de que sea absurdo y consiga 50 likes.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K seguidores
 
 ❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
 
@@ -149,7 +149,32 @@ Resume el discurso sobre la IA en un meme; asegúrate de que sea absurdo y consi
 
 ---
 
-### 2. Luffy enfurecido programando en el Thousand Sunny
+### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="An average shift at Waffle House - make sure it's retarded and gets 5…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+```
+
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K seguidores
+
+❤️ 24.3K · 🔁 2.1K · 🔖 7.8K · 👁 2.3M
+
+<sub>📅 Feb 12, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 3. Luffy enfurecido programando en el Thousand Sunny
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
 
@@ -164,7 +189,7 @@ Resume el discurso sobre la IA en un meme; asegúrate de que sea absurdo y consi
 Luffy programando en una Macbook en el Thousand Sunny, ENFURECIDO, y luego lanzándola por la borda.
 ```
 
-**Por** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.5K seguidores
+**Por** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 50.6K seguidores
 
 ❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
 
@@ -174,7 +199,7 @@ Luffy programando en una Macbook en el Thousand Sunny, ENFURECIDO, y luego lanz�
 
 ---
 
-### 3. Escena de estadio en transmisión deportiva espontánea
+### 4. Escena de estadio en transmisión deportiva espontánea
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-10.5K-e0245e)
 
@@ -189,7 +214,7 @@ Luffy programando en una Macbook en el Thousand Sunny, ENFURECIDO, y luego lanz�
 Imagen fija de transmisión deportiva ultrarrealista de una mujer glamurosa sentada entre la multitud en un estadio de fútbol lleno durante un partido nocturno, vistiendo un top de satén sin mangas de cuello alto marrón oscuro y pendientes cuadrados negros, con cabello castaño claro/rubio hasta los hombros peinado en ondas suaves. Ella está bebiendo casualmente de una lata de aluminio azul alta mientras sostiene una hamburguesa a medio comer en la otra mano. A su alrededor hay fanáticos con camisetas y bufandas de fútbol de colores amarillo y azul brillantes, creando un fuerte contraste de colores de equipo. La escena se siente espontánea y cinematográfica, capturada a mitad del juego desde un ángulo de cámara de transmisión de TV con poca profundidad de campo. Incluye asientos de estadio realistas, atmósfera de audiencia abarrotada, gráficos de superposición de transmisión en la esquina superior izquierda que muestran un marcador de fútbol en vivo y el cronómetro del partido, y una marca de agua de red deportiva en la esquina superior derecha. Iluminación natural de arena, textura de piel detallada, enfoque nítido en la mujer, multitud de fondo ligeramente borrosa, estética auténtica de transmisión deportiva en vivo, composición 16:9.
 ```
 
-**Por** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 8.9K seguidores
+**Por** [Ciri ✓](https://x.com/Ciri_ai) (@Ciri_ai) · 9K seguidores
 
 ❤️ 10.5K · 🔁 980 · 🔖 8.8K · 👁 2.6M
 
@@ -199,7 +224,7 @@ Imagen fija de transmisión deportiva ultrarrealista de una mujer glamurosa sent
 
 ---
 
-### 4. La represalia del mono
+### 5. La represalia del mono
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
@@ -214,36 +239,11 @@ Imagen fija de transmisión deportiva ultrarrealista de una mujer glamurosa sent
 El mono golpea de vuelta. Haz que las chicas se sientan orgullosas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K seguidores
 
 ❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 5. Comentario social satírico sobre la IA
-
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-12.4K-e0245e)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="640" alt="Comentario social satírico sobre la IA"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
-</div>
-
-**📝 Prompt**
-
-```
-La IA se vuelve woke. Hazlo realmente ofensivo, muy ofensivo.
-```
-
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
-
-❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
-
-<sub>📅 Feb 19, 2026</sub>
 
 **[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
 
@@ -354,7 +354,7 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 862 · 🔁 79 · 🔖 616 · 👁 48.3K
+❤️ 865 · 🔁 79 · 🔖 617 · 👁 48.6K
 
 <sub>📅 Jun 11, 2026</sub>
 
@@ -362,7 +362,122 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 ---
 
-### 7. Ritual del Bosque Nox Lumos Poi
+### 7. GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**🖼️ Prompt de imagen**
+
+```
+GPT Image 2 Prompt for storyboard:
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: WHITE SABER SHORELINE DUEL
+META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
+PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
+MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
+REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+
+[SCENE PACKET]
+PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
+LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
+START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
+ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
+PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
+MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+
+[CHARACTER SANITIZATION]
+C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
+C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+
+[EMOTIONAL ARC]
+Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
+EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
+ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
+CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
+ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
+RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / clean beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: impact / short block / smash beat -> P06 RHY P06: burst / short block / clean beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / medium block / held beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: impact / short block / smash beat -> P11 RHY P11: pause / short block / held beat -> P12 RHY P12: pause / medium block / held beat -> P13 RHY P13: impact / medium block / match beat -> P14 RHY P14: burst / short block / whip beat -> P15 RHY P15: final hit / long block / smash beat
+ESCALATION MAP: P01 ESC P01: L3 rise / rise -> P02 ESC P02: L4 surge / rise -> P03 ESC P03: L5 peak / spike -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / rise -> P07 ESC P07: L5 peak / rise -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L5 peak / rise -> P10 ESC P10: L5 peak / drop -> P11 ESC P11: L4 surge / drop -> P12 ESC P12: L3 rise / drop -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L5 peak / release
+STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography clear -> P03 twin cannon fire -> P04 first volley closing -> P05 deflect sparks -> P06 barrage angle changes -> P07 repeated saber redirects -> P08 overhead deflection storm -> P09 C2 forward, fire sustained -> P10 armor hit, not stopped -> P11 water hiss/reflection -> P12 stillness before clash -> P13 one-direction bolt wall from C2, white saber cage -> P14 C1 flank entry -> P15 underside cut, C2 collapse
+STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
+
+[SEQUENCE]
+Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
+
+You can find the prompts below.
+```
+
+**🎬 Prompt de video**
+
+```
+Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
+Use @[Char ref]  as C1 reference.
+Use @[Droideka ref] as C2 combat droid reference.
+
+EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
+AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+
+BEATS:
+1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
+2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
+3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
+4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
+5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
+6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
+7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
+8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
+9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
+10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
+11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
+12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
+13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
+14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
+15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+```
+
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
+
+❤️ 2.1K · 🔁 241 · 🔖 1.6K · 👁 97.6K
+
+<sub>📅 Jun 10, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 8. Ritual del Bosque Nox Lumos Poi
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -470,7 +585,7 @@ P18: Regresa la luz del día verde; las hojas reviven, los pájaros regresan, no
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 554 · 🔁 55 · 🔖 391 · 👁 20.8K
+❤️ 554 · 🔁 56 · 🔖 392 · 👁 20.9K
 
 <sub>📅 Jun 6, 2026</sub>
 
@@ -478,7 +593,7 @@ P18: Regresa la luz del día verde; las hojas reviven, los pájaros regresan, no
 
 ---
 
-### 8. Guion gráfico del ritual de sable poi en el bosque
+### 9. Guion gráfico del ritual de sable poi en el bosque
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -587,7 +702,7 @@ P20: Grúa amplia final; anillos pálidos se extienden por el lago mientras ella
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 3.6K · 🔁 384 · 🔖 2.8K · 👁 243.2K
+❤️ 3.6K · 🔁 385 · 🔖 2.8K · 👁 244.1K
 
 <sub>📅 Jun 4, 2026</sub>
 
@@ -595,7 +710,7 @@ P20: Grúa amplia final; anillos pálidos se extienden por el lago mientras ella
 
 ---
 
-### 9. Livestream de Mukbang en Seúl a altas horas de la noche
+### 10. Livestream de Mukbang en Seúl a altas horas de la noche
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -642,7 +757,7 @@ Estilo: Transmisión en vivo vertical realista / vlog de mukbang, ligero movimie
 
 ---
 
-### 10. Secuencia de ciber-acción de escape de Karma
+### 11. Secuencia de ciber-acción de escape de Karma
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -742,7 +857,7 @@ P10: Gran angular final en la calle: el humo sale de arriba mientras Karma se mu
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 791 · 🔁 82 · 🔖 735 · 👁 34.6K
+❤️ 793 · 🔁 82 · 🔖 738 · 👁 35K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -750,7 +865,7 @@ P10: Gran angular final en la calle: el humo sale de arriba mientras Karma se mu
 
 ---
 
-### 11. Tiffany Blue Book 2026 Capítulo Mariposa
+### 12. Tiffany Blue Book 2026 Capítulo Mariposa
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -784,7 +899,7 @@ VOZ: “Diseñada para imitar las alas de mariposa…” (pausa) “…suspendid
 CUADRO FINAL: Elegante revelación del logotipo. Brillo suave. Desvanecimiento orquestal.
 ```
 
-**Por** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.7K seguidores
+**Por** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K seguidores
 
 ❤️ 569 · 🔁 35 · 🔖 22 · 👁 108.4K
 
@@ -794,7 +909,7 @@ CUADRO FINAL: Elegante revelación del logotipo. Brillo suave. Desvanecimiento o
 
 ---
 
-### 12. Comercial de la campaña de verano de Fanta
+### 13. Comercial de la campaña de verano de Fanta
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -913,7 +1028,7 @@ Calidad comercial de marca de alta gama.
 
 ---
 
-### 13. Despertar de pesadilla: Secuencia cinemática de caída en el tiempo
+### 14. Despertar de pesadilla: Secuencia cinemática de caída en el tiempo
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1023,7 +1138,7 @@ Estilo final: fantasía estilizada, personaje de fantasía anime esculpido fiel 
 
 ---
 
-### 14. Secuencia cinemática de héroe de acción cyberpunk
+### 15. Secuencia cinemática de héroe de acción cyberpunk
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1069,7 +1184,7 @@ Iluminación cinemática, iluminación de contorno dramática, humo y chispas in
 
 ---
 
-### 15. Estilo Disney de los 90: El regalo secreto de Anubis
+### 16. Estilo Disney de los 90: El regalo secreto de Anubis
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1100,7 +1215,7 @@ Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las ore
 
 **Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.1K seguidores
 
-❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.3K
+❤️ 1.7K · 🔁 110 · 🔖 746 · 👁 71.5K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1108,7 +1223,7 @@ Anubis es musculoso, con anillos y pendientes en los brazos, el cuello y las ore
 
 ---
 
-### 16. Vuelo cinematográfico de dron sobre Estambul al atardecer
+### 17. Vuelo cinematográfico de dron sobre Estambul al atardecer
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1126,7 +1241,7 @@ La línea roja trazada no debe aparecer en el video; es solo una referencia ocul
 
 **Por** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.8K seguidores
 
-❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.6K
+❤️ 1.6K · 🔁 263 · 🔖 1.7K · 👁 178.8K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -1134,7 +1249,7 @@ La línea roja trazada no debe aparecer en el video; es solo una referencia ocul
 
 ---
 
-### 17. Secuencia de parkour en el bosque de Felicita
+### 18. Secuencia de parkour en el bosque de Felicita
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1289,7 +1404,7 @@ Una cámara de persecución trasera continua, sin cortes. La cámara la persigue
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 625 · 🔁 85 · 🔖 540 · 👁 31.7K
+❤️ 624 · 🔁 85 · 🔖 539 · 👁 31.8K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1297,7 +1412,7 @@ Una cámara de persecución trasera continua, sin cortes. La cámara la persigue
 
 ---
 
-### 18. Secuencia cinematográfica de anuncio de chocolate de lujo
+### 19. Secuencia cinematográfica de anuncio de chocolate de lujo
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1354,7 +1469,7 @@ Anuncio de lujo, realismo cinematográfico, apartamento melancólico, cinematogr
 
 **Por** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K seguidores
 
-❤️ 526 · 🔁 87 · 🔖 86 · 👁 34.2K
+❤️ 526 · 🔁 86 · 🔖 86 · 👁 34.2K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -1362,7 +1477,7 @@ Anuncio de lujo, realismo cinematográfico, apartamento melancólico, cinematogr
 
 ---
 
-### 19. Un conmovedor acto de bondad
+### 20. Un conmovedor acto de bondad
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1399,7 +1514,7 @@ Envíame un DM para el prompt completo
 
 ---
 
-### 20. Documental cinematográfico de pescador de alta mar
+### 21. Documental cinematográfico de pescador de alta mar
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1457,7 +1572,7 @@ Estilo: Documental oceánico de National Geographic ultra realista combinado con
 
 ---
 
-### 21. El momento de cosquillas de Anubis
+### 22. El momento de cosquillas de Anubis
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1482,7 +1597,7 @@ Estilo de animación 3D china moderna. Escena 1: En una gran biblioteca egipcia,
 
 ---
 
-### 22. Escena de interacción entre Anubis y un humano
+### 23. Escena de interacción entre Anubis y un humano
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1494,13 +1609,13 @@ Estilo de animación 3D china moderna. Escena 1: En una gran biblioteca egipcia,
 **📝 Prompt**
 
 ```
-La escena continúa desde el final de [video1], utilizando el mismo diseño visual y narración, representando la interacción entre Anubis y el humano.
+La escena continúa desde el final de [video1], utilizando el mismo diseño visual y narración para representar la interacción entre Anubis y el humano.
 
-Escena 1: El humano continúa haciendo cosquillas en las axilas de Anubis con los dedos; Anubis primero emite una risa ahogada, pero pronto comienza a reír a carcajadas porque le da demasiada risa.
+Escena 1: El humano continúa haciendo cosquillas en las axilas de Anubis con los dedos; Anubis primero emite una risa ahogada, pero pronto estalla en carcajadas porque le da mucha risa.
 
-Escena 2: El humano sigue haciendo cosquillas en las axilas de Anubis, y esta vez Anubis se ríe aún más fuerte. Luego, Anubis se abraza a sí mismo con ambos brazos para proteger sus axilas y detener las cosquillas. Mientras se abraza, suelta un par de risas más.
+Escena 2: El humano sigue haciendo cosquillas en las axilas de Anubis, y esta vez Anubis se ríe aún más fuerte. Luego, Anubis se abraza a sí mismo con ambos brazos para proteger sus axilas y detener las cosquillas. Mientras se abraza, suelta unas cuantas risas más.
 
-Escena 3: Anubis recupera la calma lentamente, sonríe al humano con picardía y dice: "Oh, eres muy cruel". Luego, Anubis rodea los hombros del humano con su brazo y lo atrae hacia sí. Anubis acerca su cabeza al humano y dice: "Pero si me haces cosquillas, no me importa". El humano sonríe y suelta una risita nerviosa.
+Escena 3: Anubis recupera lentamente la calma, sonríe al humano con un gesto travieso y dice: "Oh, eres muy cruel". Luego, Anubis rodea los hombros del humano con su brazo y lo atrae hacia un abrazo. Anubis acerca su cabeza al humano y dice: "Pero si me haces cosquillas, no me importa". El humano sonríe y suelta una risita nerviosa.
 ```
 
 **Por** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4K seguidores
@@ -1513,7 +1628,7 @@ Escena 3: Anubis recupera la calma lentamente, sonríe al humano con picardía y
 
 ---
 
-### 23. Secuencia de drama de acción escolar coreana
+### 24. Secuencia de drama de acción escolar coreana
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1568,7 +1683,32 @@ Cine de acción coreano, cinematografía ultrarrealista, acción cinematográfic
 
 ---
 
-### 24. Storyboard de entrenamiento de artes marciales anime de alta velocidad
+### 25. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Female Olympic diver from platform takeoff to mid-air perfect dive in…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+```
+
+**Por** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 seguidores
+
+❤️ 574 · 🔁 32 · 🔖 231 · 👁 455.2K
+
+<sub>📅 May 20, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 26. Storyboard de entrenamiento de artes marciales anime de alta velocidad
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -1845,9 +1985,9 @@ Crea una escena de entrenamiento de artes marciales anime de alta velocidad de 1
 Sin texto. Sin marca de agua. Sin interfaz de usuario. Sin acción adicional más allá del storyboard.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 657 · 🔁 93 · 🔖 609 · 👁 29.9K
+❤️ 660 · 🔁 93 · 🔖 610 · 👁 30K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -1855,7 +1995,7 @@ Sin texto. Sin marca de agua. Sin interfaz de usuario. Sin acción adicional má
 
 ---
 
-### 25. Pintura digital de un intenso partido de tenis
+### 27. Pintura digital de un intenso partido de tenis
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1904,7 +2044,7 @@ SFX: Sonido de golpe de raqueta, sonido de aterrizaje de pelota, sonido de respi
 
 ---
 
-### 26. Actuación cinematográfica de bateo de béisbol
+### 28. Actuación cinematográfica de bateo de béisbol
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -1933,9 +2073,9 @@ anatomía semirrealista
 iluminación cinematográfica limpia
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.6K
+❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -1943,140 +2083,7 @@ iluminación cinematográfica limpia
 
 ---
 
-### 27. Storyboard de actuación cinematográfica de Kung Fu
-
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
-
-<div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055636095736709190_0_poster.jpg" width="480" alt="Storyboard de actuación cinematográfica de Kung Fu"></a>
-<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
-</div>
-
-**🖼️ Prompt de imagen**
-
-```
-Crea un storyboard de actuación de kung fu crudo centrado en la acción física extrema. Usa la imagen de referencia para el personaje.
-
-Hoja de storyboard 16:9, 12 paneles cinematográficos. Los dibujos del storyboard deben ser solo en blanco y negro: líneas de lápiz rugosas, detalle mínimo, energía de dibujo gestual rápido, construcción anatómica simple y fuerte legibilidad de silueta. Mantén la obra de arte ligera, dinámica e inacabada como una previsión de coreografía de lucha temprana.
-
-Comienza directamente en acción. No empieces con una postura tranquila, una toma de preparación o una introducción lenta.
-
-Una artista solitaria ejecuta una rutina agresiva al estilo de un maestro de kung fu tibetano dentro de un vasto templo antiguo. La coreografía es exagerada, explosiva y en constante escalada: patadas diagonales voladoras, posturas bajas al estilo monje, golpes rápidos con la palma, giros corporales giratorios similares a la tela, formas de mano de estilo animal, estocadas profundas, giros aéreos, barridos a nivel del suelo, caídas repentinas, bloqueos tipo garra, saltos con la espalda arqueada, recuperaciones deslizantes y poses de impacto escultórico violentas.
-
-Cada panel debe contener movimiento visible y un fuerte impulso corporal. Evita las poses estáticas de pie. La artista debe sentirse como una guerrera ritual que se mueve con disciplina, furia, presión espiritual y control total del cuerpo.
-
-Progresión de la acción:
-1. comienza en el aire con una patada diagonal voladora ya en movimiento
-2. primer plano manual de un barrido de palma cortando el aire
-3. toma amplia orbital de un giro de cuerpo completo
-4. golpe de palma de impacto en ángulo bajo con onda de choque
-5. patada giratoria de perfil lateral con lente larga
-6. giro aéreo de arriba hacia abajo con el cuerpo, el cabello y la tela ondeando hacia afuera
-7. pisotón fuerte en el suelo agrietando la piedra del templo
-8. barrido bajo deslizante por el suelo
-9. primer plano agresivo de una ráfaga de codos, palmas y golpes de revés
-10. postura de bestia extrema al estilo monje bajo con energía ascendente
-11. vórtice elemental giratorio alrededor del cuerpo
-12. pose de acción aérea final, suspendida sobre el suelo del templo, cuerpo retorcido en un poderoso golpe de kung fu, todos los elementos convergiendo a su alrededor antes del impacto
-
-Agrega efectos de energía elemental selectivos como acentos de storyboard estilo VFX. Los efectos deben sentirse espirituales, ritualistas y cinematográficos, no como superhéroes:
-ráfagas de aire alrededor de giros y patadas voladoras,
-polvo y fragmentos de piedra levantándose de los pisotones,
-ondas en el suelo similares al agua durante los deslizamientos,
-rastros similares al fuego alrededor de golpes explosivos,
-distorsión por calor alrededor del movimiento de alta intensidad,
-vórtice elemental cerca del clímax.
-
-Progresión de elementos:
-paneles iniciales: viento sutil, polvo y líneas de presión
-paneles intermedios: fragmentos de piedra más fuertes, ondas en el suelo y ondas de choque de aire
-paneles finales: rastros de fuego controlados y espirales de energía
-panel final: la oleada elemental combinada más fuerte mientras la artista aún está en el aire
-
-Usa trabajo de cámara de acción de cine de autor:
-energía de cámara en mano,
-sensación de látigo,
-movimientos de cámara orbitales,
-tomas cenitales,
-siluetas laterales,
-primeros planos agresivos,
-compresión de lente larga,
-ángulos bajos extremos,
-espacio negativo amplio,
-paralaje fuerte.
-
-Mantén el entorno del templo minimalista y atmosférico:
-columnas de piedra imponentes,
-suelo del templo desgastado,
-humo de incienso a la deriva,
-tela colgante,
-haces de luz intensos,
-polvo tenue en el aire,
-reflejos sutiles en el suelo mojado.
-No satures los marcos.
-
-Sistema de color de anotación:
-flechas rojas = movimiento corporal
-flechas azules = movimiento de cámara
-marcas verdes = notas de encuadre / composición
-marcas naranjas = dirección de iluminación
-marcas amarillas = VFX elementales / efectos de energía
-texto negro = notas breves de lente y etiquetas de panel
-
-Sin marcas de tiempo. Sin diálogo. Sin canto. Sin personajes adicionales. Sin enemigos. Sin logotipos. Sin marca de agua.
-```
-
-**🎬 Prompt de video**
-
-```
-Crea un video de actuación de kung fu cinematográfico de 15 segundos.
-
-Usa @[image1] como referencia fija de la hoja de personaje. El personaje debe coincidir estrictamente con la hoja de personaje.
-Usa @[image2] como referencia del storyboard.
-
-Sigue el storyboard toma por toma como fuente principal para el orden de la acción, el ritmo de la cámara, el movimiento corporal, el encuadre, la dirección del movimiento, los ángulos de cámara y la progresión visual. Trata cada panel del storyboard como un fotograma clave secuencial. Conserva el orden de las tomas y haz que el video se sienta como si el storyboard se hubiera traducido en movimiento continuo de acción real. La secuencia debe terminar en un fotograma final congelado mientras la artista aún está en el aire.
-
-No agregues texto, subtítulos, etiquetas de storyboard, flechas, interfaz de usuario, logotipos o marcas de agua. No trates el storyboard como una sola imagen. No rediseñes el personaje, cambies el disfraz ni alteres el rostro. No comiences con una postura tranquila, una pose de preparación o una introducción lenta. No hagas que los efectos elementales parezcan poderes de superhéroe o un brillo de fantasía excesivo.
-
-Estilo visual:
-realismo cinematográfico estilizado, calidad de animación pictórica 3D de alta gama, simulación de tela dinámica, diseño de silueta expresivo, iluminación cinematográfica rica, paleta de colores controlada, desenfoque de movimiento natural, escala dramática, fisicalidad hermosa pero agresiva, estética de animación de largometraje premium.
-
-Entorno:
-vasto templo antiguo, columnas de piedra imponentes, suelo del templo desgastado, humo de incienso a la deriva, tela colgante, haces de luz intensos, polvo tenue en el aire, reflejos sutiles en el suelo mojado, sombras de alto contraste.
-
-La actuación es una rutina de kung fu femenina solitaria dentro de un vasto templo antiguo. La rutina comienza inmediatamente en acción, sin postura tranquila, sin pose de preparación y sin introducción lenta. El movimiento debe sentirse agresivo, ritualista, disciplinado, físicamente extremo y espiritualmente cargado.
-
-Esta no es una pelea contra un enemigo. Es una actuación en solitario de fuerza, control, agotamiento, furia y liberación.
-
-Sigue el storyboard para la dirección de la coreografía.
-
-Progresión de elementos:
-secuencia inicial: viento sutil, polvo y líneas de presión que responden al movimiento.
-secuencia intermedia: ondas de choque de aire más fuertes, fragmentos de piedra, grietas en el suelo y ondas similares al agua a través del suelo del templo.
-secuencia final: rastros de fuego controlados, distorsión por calor y espirales de energía alrededor de golpes y patadas explosivas.
-clímax: viento, polvo, piedra, ondas de agua y acentos de fuego se combinan en un vórtice elemental más fuerte.
-ritmo final: la artista está en el aire sobre el suelo del templo en un poderoso golpe de kung fu, cuerpo retorcido en el aire, cabello y tela ondeando hacia afuera, con todos los elementos convergiendo a su alrededor antes del impacto.
-
-Los VFX elementales deben sentirse espirituales, ritualistas y cinematográficos. Los efectos deben integrarse con la coreografía y estar motivados por el movimiento físico. Mantén la energía cruda, elemental, atmosférica y arraigada en el entorno del templo.
-
-Usa la lógica de movimiento de Laban en todo momento:
-peso: fuerte, pesado, arraigado durante los impactos, con una breve ligereza durante los saltos y giros aéreos
-tiempo: rápido durante golpes, patadas, caídas y giros, sostenido durante las retenciones suspendidas y las transiciones de recuperación
-espacio: directo durante ataques, bloqueos y estocadas, indirecto durante giros giratorios y momentos de vórtice elemental
-flujo: limitado durante posturas arraigadas y golpes precisos, libre durante el movimiento aéreo, el movimiento de tela giratoria y la liberación elemental
-```
-
-**Por** [Abdul Șhakoor ✓](https://x.com/abxxai) (@abxxai) · 18.9K seguidores
-
-❤️ 1.3K · 🔁 202 · 🔖 1.5K · 👁 127.5K
-
-<sub>📅 May 16, 2026</sub>
-
-**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
-
----
-
-### 28. Pintura digital de entrenamiento de Wing Chun
+### 29. Pintura digital de entrenamiento de Wing Chun
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2121,7 +2128,32 @@ Plano final. Plano medio corto, 50mm, empuje lento y luego retención estable / 
 
 ---
 
-### 29. Animación de pintura digital de una clavadista olímpica
+### 30. Use the provided character reference for the facial features and body…
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Use the provided character reference for the facial features and body…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+```
+
+**Por** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K seguidores
+
+❤️ 991 · 🔁 98 · 🔖 1.1K · 👁 98.7K
+
+<sub>📅 May 15, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 31. Animación de pintura digital de una clavadista olímpica
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2207,7 +2239,7 @@ Beat rítmico final de la música, sonido sutil de obturador congelado, aplausos
 
 ---
 
-### 30. Guion gráfico de actuación cinematográfica de Kung Fu
+### 32. Guion gráfico de actuación cinematográfica de Kung Fu
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2330,9 +2362,9 @@ espacio: directo durante los ataques, bloqueos y estocadas, indirecto durante lo
 flujo: ligado durante las posturas arraigadas y golpes precisos, libre durante el movimiento aéreo, el movimiento de tela giratoria y la liberación elemental
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 82.4K
+❤️ 1.2K · 🔁 146 · 🔖 1.1K · 👁 82.7K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -2340,7 +2372,7 @@ flujo: ligado durante las posturas arraigadas y golpes precisos, libre durante e
 
 ---
 
-### 31. Aficionada al fútbol en una toma de transmisión de estadio
+### 33. Aficionada al fútbol en una toma de transmisión de estadio
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2365,7 +2397,7 @@ Una toma de transmisión realista y de alta definición de una joven sentada en 
 
 ---
 
-### 32. Cámara de aficionados espontánea en un partido de béisbol
+### 34. Cámara de aficionados espontánea en un partido de béisbol
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2393,7 +2425,7 @@ Sin aspecto cinematográfico, sin poses, sin filtros de belleza, sin iluminació
 
 ---
 
-### 33. Secuencia de combate de juego de lucha competitivo
+### 35. Secuencia de combate de juego de lucha competitivo
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2432,9 +2464,9 @@ ESTILO Y POTENCIADORES DE CALIDAD
 Fotorrealista 8K, texturas de tela ultra detalladas en los uniformes, iluminación cinematográfica, desenfoque de movimiento perfecto para los movimientos de lucha, alto rango dinámico, sin artefactos. Exactamente las mismas caras y atuendos que [player1] y [player2] en todo momento, rasgos faciales estables de nivel cinematográfico.
 ```
 
-**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K seguidores
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K seguidores
 
-❤️ 661 · 🔁 89 · 🔖 410 · 👁 121.5K
+❤️ 668 · 🔁 89 · 🔖 410 · 👁 121.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2442,7 +2474,7 @@ Fotorrealista 8K, texturas de tela ultra detalladas en los uniformes, iluminaci�
 
 ---
 
-### 34. Actuación cinematográfica de salto a la cuerda
+### 36. Actuación cinematográfica de salto a la cuerda
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2472,9 +2504,9 @@ anatomía semirrealista
 iluminación cinematográfica limpia
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.6K
+❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -2482,7 +2514,7 @@ iluminación cinematográfica limpia
 
 ---
 
-### 35. Llegada de una celebridad a la ciudad de Nueva York
+### 37. Llegada de una celebridad a la ciudad de Nueva York
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2523,7 +2555,7 @@ Flujo de la escena
 
 ---
 
-### 36. Storyboard de rescate en monopatín sobre las nubes
+### 38. Storyboard de rescate en monopatín sobre las nubes
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2605,9 +2637,9 @@ Prioriza la legibilidad, la dirección de pantalla y la continuidad de la acció
 Mantén el movimiento visual tranquilo e intencional en lugar de inquieto.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.5K
+❤️ 1.1K · 🔁 164 · 🔖 1.4K · 👁 58.6K
 
 <sub>📅 May 2, 2026</sub>
 
@@ -2615,7 +2647,76 @@ Mantén el movimiento visual tranquilo e intencional en lugar de inquieto.
 
 ---
 
-### 37. Persecución en la cocina: Chef vs Cucaracha
+### 39. story = a beautiful woman in a white dress enjoying a amazing sunset…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="story = a beautiful woman in a white dress enjoying a amazing sunset…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**🖼️ Prompt de imagen**
+
+```
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+
+Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+
+Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+
+Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+
+Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+
+Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+
+Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+
+Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+ 
+The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+```
+
+**🎬 Prompt de video**
+
+```
+follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+```
+
+**Por** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K seguidores
+
+❤️ 748 · 🔁 99 · 🔖 1.1K · 👁 72.3K
+
+<sub>📅 May 2, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 40. Persecución en la cocina: Chef vs Cucaracha
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2661,7 +2762,7 @@ SFX: silencio → grito de colapso
 
 **Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K seguidores
 
-❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303K
+❤️ 3.2K · 🔁 392 · 🔖 4.1K · 👁 303.1K
 
 <sub>📅 May 1, 2026</sub>
 
@@ -2669,7 +2770,62 @@ SFX: silencio → grito de colapso
 
 ---
 
-### 38. Estilo Disney vintage: Las cosquillas de Anubis
+### 41. Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…
+
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**🖼️ Prompt de imagen**
+
+```
+Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+
+Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+
+Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+
+Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+```
+
+**🎬 Prompt de video**
+
+```
+Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+
+Character: Use IMG1 as the character we're following in the scene.
+
+Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+
+The scene starts at IMG1.
+
+Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+
+The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+
+The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+
+The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+
+Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+
+SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+```
+
+**Por** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K seguidores
+
+❤️ 779 · 🔁 76 · 🔖 1.1K · 👁 48K
+
+<sub>📅 Apr 29, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 42. Estilo Disney vintage: Las cosquillas de Anubis
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2701,7 +2857,7 @@ Escena 7: Anubis suelta unas risitas después del incidente, luego recupera la c
 
 ---
 
-### 39. Introducción cinematográfica de personaje y hoja de referencia
+### 43. Introducción cinematográfica de personaje y hoja de referencia
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2834,7 +2990,7 @@ Termina con una toma media o completa segura, con el personaje completamente est
 
 **Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
 
-❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.8K
+❤️ 2.2K · 🔁 272 · 🔖 3K · 👁 155.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -2842,7 +2998,7 @@ Termina con una toma media o completa segura, con el personaje completamente est
 
 ---
 
-### 40. Hoja de referencia de movimiento de personaje 3D
+### 44. Hoja de referencia de movimiento de personaje 3D
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
@@ -2890,9 +3046,9 @@ Crea la img2 que siga la secuencia y los movimientos exactos de los pasos 1–16
 No debe haber diálogos, texto ni narración.
 ```
 
-**Por** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.9K seguidores
+**Por** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K seguidores
 
-❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.3K
+❤️ 3.1K · 🔁 432 · 🔖 4.1K · 👁 347.6K
 
 <sub>📅 Apr 26, 2026</sub>
 
@@ -2900,7 +3056,7 @@ No debe haber diálogos, texto ni narración.
 
 ---
 
-### 41. Escena de carreras de Fórmula 1 de alto octanaje
+### 45. Escena de carreras de Fórmula 1 de alto octanaje
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2917,7 +3073,7 @@ Esta es la F1 que nos merecemos, no la basura de Mario Kart en la que la convirt
 Prompt de Seedance 2.0 a continuación 👇
 ```
 
-**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K seguidores
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K seguidores
 
 ❤️ 8.9K · 🔁 761 · 🔖 1.7K · 👁 1.9M
 
@@ -2927,7 +3083,32 @@ Prompt de Seedance 2.0 a continuación 👇
 
 ---
 
-### 42. Escena de bar deportivo con tiempo congelado
+### 46. The child walks left to right along the playground path, holding a ha…
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="The child walks left to right along the playground path, holding a ha…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+```
+
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
+
+❤️ 675 · 🔁 67 · 🔖 740 · 👁 37.3K
+
+<sub>📅 Apr 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 47. Escena de bar deportivo con tiempo congelado
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -2964,7 +3145,48 @@ Sonido: rugido ensordecedor del bar/celebración → chasquido → onda de choqu
 
 ---
 
-### 43. Animación de truco de helado al estilo slapstick
+### 48. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Film Style: Authentic 2010s-era NBA TV broadcast, TNT &quot;NBA on TNT&quot; gr…"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+
+[IMAGE REFERENCES / LEGEND]
+
+[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+
+3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+
+7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+
+11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+
+[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+```
+
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.6K seguidores
+
+❤️ 996 · 🔁 87 · 🔖 381 · 👁 154.3K
+
+<sub>📅 Apr 18, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 49. Animación de truco de helado al estilo slapstick
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3017,7 +3239,7 @@ Sonido: rugido ensordecedor del bar/celebración → chasquido → onda de choqu
 
 ---
 
-### 44. Montaje de rutina matutina acelerada
+### 50. Montaje de rutina matutina acelerada
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3080,7 +3302,7 @@ TOMA 15: WS, 50mm alejamiento / Corte en L con una coincidencia desde el cierre 
 
 **Por** [Sarah ✓](https://x.com/AIwithSarah_) (@AIwithSarah_) · 4.3K seguidores
 
-❤️ 1.7K · 🔁 130 · 🔖 1.8K · 👁 149K
+❤️ 1.7K · 🔁 131 · 🔖 1.8K · 👁 149.1K
 
 <sub>📅 Apr 11, 2026</sub>
 
@@ -3088,7 +3310,7 @@ TOMA 15: WS, 50mm alejamiento / Corte en L con una coincidencia desde el cierre 
 
 ---
 
-### 45. Hombre de negocios cayendo en Wall Street con efecto bullet time
+### 51. Hombre de negocios cayendo en Wall Street con efecto bullet time
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3113,7 +3335,7 @@ Efecto bullet time. Un hombre de negocios con camisa blanca y corbata negra resb
 
 ---
 
-### 46. Toma de seguimiento de acrobacia en ala de F16
+### 52. Toma de seguimiento de acrobacia en ala de F16
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3146,7 +3368,7 @@ calidad: 8K fotorrealista, desenfoque de movimiento de tela correcto, física na
 
 ---
 
-### 47. Transición de supervivencia en RV: De la naturaleza al hogar
+### 53. Transición de supervivencia en RV: De la naturaleza al hogar
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3181,7 +3403,7 @@ LÍNEA DE TIEMPO:
 
 ---
 
-### 48. Surf en cohete a gran altitud
+### 54. Surf en cohete a gran altitud
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3215,7 +3437,7 @@ CALIDAD: 8K fotorrealista, física correcta, desenfoque de movimiento en la tela
 
 ---
 
-### 49. Toma de seguimiento cinematográfica de salto desde un acantilado
+### 55. Toma de seguimiento cinematográfica de salto desde un acantilado
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3256,7 +3478,7 @@ Fotorrealista 8K, texturas ultra detalladas, iluminación cinematográfica, dese
 
 ---
 
-### 50. Transformación de terror psicológico de una oficinista
+### 56. Transformación de terror psicológico de una oficinista
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3290,7 +3512,7 @@ LÍNEA DE TIEMPO:
 
 ---
 
-### 51. Preparación de fideos al estilo Kung Fu
+### 57. Preparación de fideos al estilo Kung Fu
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3327,7 +3549,7 @@ CRONOLOGÍA:
 
 **Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K seguidores
 
-❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.5K
+❤️ 3.2K · 🔁 244 · 🔖 2.2K · 👁 365.6K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -3335,7 +3557,7 @@ CRONOLOGÍA:
 
 ---
 
-### 52. Animación de comedia slapstick con helado
+### 58. Animación de comedia slapstick con helado
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3373,7 +3595,7 @@ LÍNEA DE TIEMPO:
 
 ---
 
-### 53. Dramático golpe de golf en la costa
+### 59. Dramático golpe de golf en la costa
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3394,7 +3616,7 @@ La cámara sigue directamente detrás de la esfera giratoria, manteniendo una al
 El viento aullante ruge mientras el proyectil viaja recto y preciso. El green perfectamente cuidado crece rápidamente. En los segundos finales, la cámara se acerca mucho mientras la pelota golpea el césped. Termina con un primer plano extremo de la pelota atravesando la hierba mojada, levantando una estela de tierra antes de caer perfectamente en el hoyo.
 ```
 
-**Por** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.7K seguidores
+**Por** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K seguidores
 
 ❤️ 674 · 🔁 45 · 🔖 518 · 👁 128.1K
 
@@ -3404,7 +3626,7 @@ El viento aullante ruge mientras el proyectil viaja recto y preciso. El green pe
 
 ---
 
-### 54. Toma continua cinematográfica de mercado medieval
+### 60. Toma continua cinematográfica de mercado medieval
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3470,7 +3692,7 @@ fotorrealista, iluminación cinematográfica, movimiento de cámara realista, ri
 
 ---
 
-### 55. Persecución de dron FPV de alta velocidad con transición estacional
+### 61. Persecución de dron FPV de alta velocidad con transición estacional
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3495,7 +3717,7 @@ Toma de seguimiento de dron FPV de ritmo rápido desde atrás, siguiendo de cerc
 
 ---
 
-### 56. El plan vengativo de Androgenic
+### 62. El plan vengativo de Androgenic
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3520,7 +3742,7 @@ Androgenic planea su venganza después de que le arrancaran la peluca. Haz que m
 
 ---
 
-### 57. Un viaje emocional al estilo Pixar de Punch
+### 63. Un viaje emocional al estilo Pixar de Punch
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3545,7 +3767,32 @@ Haz una película de Pixar sobre Punch. Quiero llorar y enamorarme de él.
 
 ---
 
-### 58. Combate aéreo desde la perspectiva de un jinete de dragón
+### 64. Comentario social satírico sobre la IA
+
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
+
+<div align="center">
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024585477148627118_0_poster.jpg" width="480" alt="Comentario social satírico sobre la IA"></a>
+<br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproducir este video en gptproto.com</a></sub>
+</div>
+
+**📝 Prompt**
+
+```
+La IA se vuelve woke. Hazlo realmente ofensivo, muy ofensivo.
+```
+
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 84K seguidores
+
+❤️ 12.4K · 🔁 1.2K · 🔖 4.3K · 👁 868.9K
+
+<sub>📅 Feb 19, 2026</sub>
+
+**[👉 Try it now — free trial →](https://gptproto.com?utm_source=github&utm_medium=cta&utm_campaign=awesome-seedance-2-0-prompts)**
+
+---
+
+### 65. Combate aéreo desde la perspectiva de un jinete de dragón
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3572,7 +3819,7 @@ Sensación de cámara en mano continua, fuerte desenfoque de movimiento en los m
 
 ---
 
-### 59. La era de la imaginación sin límites
+### 66. La era de la imaginación sin límites
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3587,9 +3834,9 @@ Sensación de cámara en mano continua, fuerte desenfoque de movimiento en los m
 ¿Por qué seguir a Hollywood cuando tienes el poder y la libertad de crear mundos completamente nuevos? Esta es una nueva era de imaginación sin límites.
 ```
 
-**Por** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.4K seguidores
+**Por** [padphone ✓](https://x.com/lepadphone) (@lepadphone) · 6.3K seguidores
 
-❤️ 3.1K · 🔁 313 · 🔖 937 · 👁 198.3K
+❤️ 3.1K · 🔁 312 · 🔖 936 · 👁 198.8K
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -3597,7 +3844,7 @@ Sensación de cámara en mano continua, fuerte desenfoque de movimiento en los m
 
 ---
 
-### 60. Persecución a alta velocidad en la ciudad de los acantilados
+### 67. Persecución a alta velocidad en la ciudad de los acantilados
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3622,7 +3869,7 @@ Persecución en speeder a través de una ciudad en un acantilado (plano continuo
 
 ---
 
-### 61. Batalla épica entre Luffy y Goku
+### 68. Batalla épica entre Luffy y Goku
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3647,7 +3894,7 @@ Luffy y Goku teniendo una escena de pelea épica en el Sunny.
 
 ---
 
-### 62. Secuencia de acción de rescate de rehenes SWAT
+### 69. Secuencia de acción de rescate de rehenes SWAT
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
@@ -3674,7 +3921,7 @@ Luffy y Goku teniendo una escena de pelea épica en el Sunny.
 
 ---
 
-### 63. Tyler Durden enseñando a personajes de Jujutsu Kaisen
+### 70. Tyler Durden enseñando a personajes de Jujutsu Kaisen
 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
