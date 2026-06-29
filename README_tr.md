@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-06-29 12:37:59.695 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-06-29 18:10:52.849 UTC** |
 
 </div>
 
@@ -149,19 +149,19 @@ Yapay zeka söylemini bir mem ile özetle - saçma sapan olduğundan ve 50 beğe
 
 ---
 
-### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+### 2. Waffle House'ta kaotik bir vardiya
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="An average shift at Waffle House - make sure it's retarded and gets 5…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Waffle House'ta kaotik bir vardiya"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+Waffle House'ta sıradan bir vardiya - saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
@@ -253,60 +253,59 @@ Maymun karşılık veriyor. Kızları gururlandır.
 
 ## 📋 Tüm İstemler
 
-### 6. Act as a senior game developer. Build a technically impressive Backro…
+### 6. Backrooms Korku Oyun Motoru
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066996493257408639_0_poster.jpg" width="480" alt="Act as a senior game developer. Build a technically impressive Backro…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066996493257408639_0_poster.jpg" width="480" alt="Backrooms Korku Oyun Motoru"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Act as a senior game developer. Build a technically impressive Backrooms horror game in a single self-contained HTML file. Embed all CSS and JavaScript, no external libraries or assets.
-Priorities: atmosphere, smooth 60 FPS performance, procedural generation, visual quality.
-Engine
+Kıdemli bir oyun geliştiricisi gibi davran. Tek bir HTML dosyası içinde teknik açıdan etkileyici bir Backrooms korku oyunu oluştur. Tüm CSS ve JavaScript'i göm, harici kütüphane veya varlık kullanma.
+Öncelikler: atmosfer, akıcı 60 FPS performansı, prosedürel üretim, görsel kalite.
+Motor
 
-Raycaster (DDA) with textured walls plus per-row floor and ceiling casting.
-Internal render buffer 480×270, upscaled to the screen with image-rendering: pixelated for performance.
-Infinite world on 16×16 chunks, deterministic generation from value-noise / fBm, with a guaranteed open "street" grid so every chunk stays traversable; unload distant chunks (LRU).
-Procedural textures (yellow wallpaper with damp stains/seams, wet carpet, ceiling tiles) sampled from typed arrays for speed.
-First-person controls: WASD + arrows to move, mouse look, F toggles a flashlight, Esc releases pointer lock.
+Dokulu duvarlar ve satır bazlı zemin/tavan çizimi ile Raycaster (DDA).
+Performans için image-rendering: pixelated ile ekrana ölçeklenen 480×270 dahili render arabelleği.
+16×16 parçalar (chunk) üzerinde sonsuz dünya, değer gürültüsü / fBm'den deterministik üretim, her parçanın geçilebilir kalmasını sağlayan garantili açık "sokak" ızgarası; uzak parçaları bellekten boşalt (LRU).
+Hız için yazılmış dizilerden (typed arrays) örneklenen prosedürel dokular (nemli lekeleri/dikişleri olan sarı duvar kağıdı, ıslak halı, tavan karoları).
+Birinci şahıs kontrolleri: Hareket için WASD + ok tuşları, fare ile bakış, F el fenerini açıp kapatır, Esc imleç kilidini serbest bırakır.
 
-Atmosphere & lighting
+Atmosfer ve aydınlatma
 
-Dynamic lighting: fluorescent fixtures placed across chunks with inverse-square-style falloff.
-The lights are ON by default and the world stays clearly, brightly lit — the scene must never be hard to see. Distance fades into a warm yellow fog (haze), never to black. Lights only flicker slightly and occasionally.
-Flashlight (F): a cone source in front of the player adding extra light.
-Vignette, film grain, and subtle VHS effects (scanlines, slight chromatic edges).
-Web Audio synthesis: constant low hum (58/116 Hz + saw grit), high-frequency fluorescent whine, footsteps (filtered noise), electrical buzz that rises around flickering lights.
-Pop-up atmospheric subtitles tied to events.
-Save player position/heading in localStorage. Modern-browser compatible.
+Dinamik aydınlatma: Parçalara yerleştirilmiş, ters kare yasası tarzı sönümlenmeye sahip floresan armatürler.
+Işıklar varsayılan olarak AÇIKtır ve dünya her zaman net, parlak bir şekilde aydınlatılır; sahne asla görülmesi zor olmamalıdır. Mesafe, siyaha değil, sıcak sarı bir sise (haze) dönüşür. Işıklar sadece hafifçe ve nadiren titrer.
+El feneri (F): Oyuncunun önünde ekstra ışık sağlayan konik bir kaynak.
+Vinyet, film greni ve ince VHS efektleri (tarama çizgileri, hafif renk sapmaları).
+Web Audio sentezi: sürekli düşük uğultu (58/116 Hz + testere dişi gürültüsü), yüksek frekanslı floresan vızıltısı, ayak sesleri (filtrelenmiş gürültü), titreyen ışıkların etrafında yükselen elektriksel vızıltı.
+Olaylara bağlı açılır atmosferik altyazılar.
+Oyuncu konumunu/yönünü localStorage'a kaydet. Modern tarayıcılarla uyumlu.
 
-Horror mechanics — psychological, dread over jumpscares
+Korku mekanikleri — psikolojik, jumpscare yerine gerilim
+Oyuncu asla gerçekten yalnız değildir, ancak bundan asla emin olamaz. Gerilim ve belirsizlik yarat; çoğu olay oyuncunun gördüğünü sorgulamasına neden olmalıdır. Sürekli canavarlardan veya kovalamaca sekanslarından kaçın. Olaylar:
 
-The player is never truly alone, but is almost never sure of it. Build tension and uncertainty; most events should make the player question what they saw. Avoid constant monsters or chase sequences. Events:
+Doğrudan kameranın arkasında, HRTF ile uzamsallaştırılmış, oyuncunun kendi temposuyla hafifçe uyumsuz, oyuncu arkasına döndüğü anda duran hayali ayak sesleri. Oyuncunun yürüme ritmiyle eşleşen bir varyant ekle.
+Floresan ışıklar kısaca titrer ve vızıldar, ardından tam parlaklığa geri döner; kısa, ince, asla tamamen kararmayan.
+Oyuncunun arkasında sönen tek bir ışık, oyuncu bakmak için döndüğünde tekrar yanar.
+Uzak bir koridorun sonunda veya bir köşeyi dönerken görülen, oyuncu net bir şekilde bakamadan veya ulaşamadan kaybolan silik bir insansı silüet; asla yaklaşmaz veya saldırmaz. İlk 10 saniye içinde bir kez, sonrasında rastgele tetikle. Titreme sırasında saniyelik bir "göz kırpma" versiyonu ekle.
+Çok nadir görülen uzak mesafe gölge varlıkları.
+Uzaktan gelen ayak sesleri ve gürültüler.
+Nadir uzamsal anomaliler: daha önce orada olmayan bir kapı/oda (görünmediğinde açılır, bakılmadığında eski haline döner), imkansız koridorlar.
+Oturum başına sadece bir kez duyulan uzak bir çığlık.
+Son derece nadir bir jumpscare (dakikada %1'den az şans).
 
-Disembodied footsteps directly behind the camera, HRTF-spatialized, slightly out of sync with the player's own pace; they stop the instant the player turns around. Include a variant that matches the player's walking rhythm.
-Fluorescent lights briefly flicker and buzz, then settle back to full brightness — short, subtle, never going dark.
-A single light turning off behind the player, back on when they turn to look.
-A faint humanoid silhouette glimpsed at the end of a far corridor or just past a corner, that vanishes before the player gets a clear look or can reach it — it never approaches or attacks. Trigger once within the first 10 seconds, then randomly afterward. Include a sub-second "glimpse" version during a flicker.
-Very rare shadow entities at long distance.
-Distant footsteps and noises.
-Rare spatial anomalies: a door/room that wasn't there before (opens while unseen, reverts when not looked at), impossible hallways.
-A distant scream heard only once per session.
-An extremely rare jumpscare (less than 1% chance per minute).
+Olay kuralları
 
-Event rules
+Sabit bir döngü değil, rastgele bir zamanlayıcı/olasılık ile tetikle, olayların üst üste binmemesi veya arka arkaya tekrarlanmaması için bir bekleme süresi (cooldown) kullan.
+Bunları ince ve belirsiz tut.
+Her olayı mevcut ses ve aydınlatma sistemlerine bağla, böylece dünyaya ait hissettirsinler, betiklenmiş katmanlar gibi durmasınlar.
+Oyuncu yürüdükçe olayların sıklığını/yoğunluğunu yavaşça artır.
 
-Trigger on a randomized timer/probability, never a fixed loop, with a cooldown so events never overlap or repeat back-to-back.
-Keep them subtle and ambiguous.
-Tie each event to the existing audio and lighting systems so they feel native to the world, not scripted overlays.
-Slowly escalate frequency/intensity the longer the player keeps walking.
-
-Return only the complete HTML source code. No explanations.
+Sadece eksiksiz HTML kaynak kodunu döndür. Açıklama yapma.
 ```
 
 **Gönderen** [AI/ML API ✓](https://x.com/aimlapi) (@aimlapi) · 1.9K takipçi
@@ -319,40 +318,40 @@ Return only the complete HTML source code. No explanations.
 
 ---
 
-### 7. character sheet: premium anime character design sheet, professional b…
+### 7. Luna Sörf Anime Aksiyon Sekansı
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="character sheet: premium anime character design sheet, professional b…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Luna Sörf Anime Aksiyon Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-character sheet:
+karakter sayfası:
 
-premium anime character design sheet,
-professional beach girl character bible,
-surfer girl reference sheet,
-summer lifestyle mascot design,
-Japanese light novel illustration,
-high-end anime visual development,
-commercial IP character presentation,
-official artbook character profile,
-cute beach heroine concept art,
-fashion illustration character turnaround,
-modern anime promotional artwork,
-ultra detailed anime rendering,
-bright tropical aesthetic,
-AAA game character sheet
+premium anime karakter tasarım sayfası,
+profesyonel plaj kızı karakter incili,
+sörfçü kız referans sayfası,
+yaz yaşam tarzı maskot tasarımı,
+Japon hafif roman illüstrasyonu,
+üst düzey anime görsel geliştirme,
+ticari IP karakter sunumu,
+resmi sanat kitabı karakter profili,
+sevimli plaj kahramanı konsept sanatı,
+moda illüstrasyonu karakter dönüşü,
+modern anime tanıtım çalışması,
+ultra detaylı anime render,
+parlak tropikal estetik,
+AAA oyun karakter sayfası
 
-ASPECT RATIO:
+EN-BOY ORANI:
 
 16:9
 
-PROJECT:
+PROJE:
 
 SURFING GIRL
 
@@ -360,340 +359,340 @@ LUNA
 
 "Ride the Wave. Feel the Freedom."
 
-CHARACTER:
+KARAKTER:
 
 Luna
 
-female surfer,
-19 years old,
-Hawaii USA,
-beach influencer,
-ocean lover,
-cheerful and adventurous,
-free-spirited personality,
-energetic and outgoing,
-summer sports girl,
-social media icon
+kadın sörfçü,
+19 yaşında,
+Havai ABD,
+plaj influencer'ı,
+okyanus aşığı,
+neşeli ve maceracı,
+özgür ruhlu kişilik,
+enerjik ve dışa dönük,
+yaz sporları kızı,
+sosyal medya ikonu
 
-APPEARANCE:
+GÖRÜNÜM:
 
-long blonde hair,
-high ponytail,
-bright blue eyes,
-sun-kissed skin,
-pink hibiscus flower hair accessory,
-sunglasses resting on head,
-slim athletic beach body,
-cute youthful face,
-radiant smile,
-healthy surfer physique
+uzun sarı saç,
+yüksek at kuyruğu,
+parlak mavi gözler,
+güneş öpücüğü almış ten,
+pembe ebegümeci çiçeği saç aksesuarı,
+başın üzerinde duran güneş gözlüğü,
+ince atletik plaj vücudu,
+sevimli genç yüz,
+ışıltılı gülümseme,
+sağlıklı sörfçü fiziği
 
-OUTFIT:
+KIYAFET:
 
-pastel tropical bikini,
-pink and aqua color palette,
-light beach cover-up jacket,
-transparent oversized shirt,
-ankle surf leash,
-shell necklace,
-beaded bracelets,
-summer sandals,
-Hawaiian beach accessories
+pastel tropikal bikini,
+pembe ve su rengi paleti,
+hafif plaj üstü ceketi,
+şeffaf büyük boy gömlek,
+ayak bileği sörf tasması,
+deniz kabuğu kolye,
+boncuklu bilezikler,
+yaz sandaletleri,
+Havai plaj aksesuarları
 
-MAIN HERO ILLUSTRATION:
+ANA KAHRAMAN İLLÜSTRASYONU:
 
-large character artwork occupying left side,
-holding colorful surfboard,
-looking back over shoulder,
-bright smile,
-ocean splash effects,
-tropical beach background,
-blue sky,
-palm trees,
-summer sunlight,
-vacation atmosphere,
-dynamic wind-blown hair
+sol tarafta yer alan büyük karakter çalışması,
+renkli sörf tahtası tutuyor,
+omuz üzerinden geriye bakıyor,
+parlak gülümseme,
+okyanus sıçrama efektleri,
+tropikal plaj arka planı,
+mavi gökyüzü,
+palmiye ağaçları,
+yaz güneş ışığı,
+tatil atmosferi,
+dinamik rüzgarda uçuşan saçlar
 
-TURNAROUND SECTION:
+DÖNÜŞ BÖLÜMÜ:
 
-front view,
-side view,
-back view,
-3/4 view,
+önden görünüm,
+yandan görünüm,
+arkadan görünüm,
+3/4 görünüm,
 
-full body character turnaround,
-professional model sheet presentation,
-clean reference layout,
-consistent proportions,
-official character design documentation
+tüm vücut karakter dönüşü,
+profesyonel model sayfası sunumu,
+temiz referans düzeni,
+tutarlı oranlar,
+resmi karakter tasarımı dokümantasyonu
 
-PROFILE SECTION:
+PROFİL BÖLÜMÜ:
 
-Name: Luna
+İsim: Luna
 
-Age: 19
+Yaş: 19
 
-Height: 168cm
+Boy: 168cm
 
-Birthday: June 21
+Doğum Günü: 21 Haziran
 
-Nationality: Hawaii, USA
+Uyruk: Havai, ABD
 
-Occupation: Surfer / Beach Influencer
+Meslek: Sörfçü / Plaj Influencer'ı
 
-PERSONALITY:
+KİŞİLİK:
 
-Cheerful,
-Free-spirited,
-Energetic,
-Loves the ocean,
-Adventurous,
-Optimistic,
-Friendly,
-Carefree
+Neşeli,
+Özgür ruhlu,
+Enerjik,
+Okyanusu sever,
+Maceracı,
+İyimser,
+Dost canlısı,
+Kaygısız
 
-EXPRESSION SHEET:
+İFADE SAYFASI:
 
-happy smile,
-excited expression,
-playful wink,
-surprised face,
-relaxed beach mood,
-cute cheerful portrait
+mutlu gülümseme,
+heyecanlı ifade,
+oyuncu göz kırpma,
+şaşkın yüz,
+rahat plaj havası,
+sevimli neşeli portre
 
-DETAIL PANELS:
+DETAY PANELLERİ:
 
-surfboard front and back design,
-tropical graphic artwork,
-wave logo branding,
-shell earrings,
-starfish jewelry,
-bracelets,
-surf leash close-up,
-beach accessories breakdown
+sörf tahtası ön ve arka tasarımı,
+tropikal grafik çalışması,
+dalga logosu markalama,
+deniz kabuğu küpeler,
+deniz yıldızı takıları,
+bilezikler,
+sörf tasması yakın çekim,
+plaj aksesuarları dökümü
 
-ACTION PANEL:
+AKSİYON PANELİ:
 
-professional surfing pose,
-riding a large ocean wave,
-water spray effects,
-dynamic movement,
-sunlit tropical ocean,
-cinematic action composition
+profesyonel sörf pozu,
+büyük bir okyanus dalgasında sörf,
+su sıçrama efektleri,
+dinamik hareket,
+güneşli tropikal okyanus,
+sinematik aksiyon kompozisyonu
 
-COLOR PALETTE:
+RENK PALETİ:
 
-ocean blue,
-turquoise,
-aqua,
-sky blue,
-pink coral,
-soft peach,
-sand beige,
-summer white
+okyanus mavisi,
+turkuaz,
+su yeşili,
+gök mavisi,
+pembe mercan,
+yumuşak şeftali,
+kum beji,
+yaz beyazı
 
-VISUAL ELEMENTS:
+GÖRSEL ELEMENTLER:
 
-hibiscus flowers,
-ocean splashes,
-palm tree graphics,
-wave motifs,
-tropical vacation branding,
-summer stickers,
-handwritten beach notes,
-cute decorative icons
+ebegümeci çiçekleri,
+okyanus sıçramaları,
+palmiye ağacı grafikleri,
+dalga motifleri,
+tropikal tatil markalaması,
+yaz çıkartmaları,
+el yazısı plaj notları,
+sevimli dekoratif ikonlar
 
-LAYOUT:
+DÜZEN:
 
-large hero illustration on left,
-character profile section,
-turnaround lineup,
-detail studies,
-expression sheet,
-color palette swatches,
-surfboard design showcase,
-accessories breakdown,
-action pose panel,
-clean editorial layout,
-official anime artbook format,
-white background design sheet
+solda büyük kahraman illüstrasyonu,
+karakter profil bölümü,
+dönüş dizilimi,
+detay çalışmaları,
+ifade sayfası,
+renk paleti örnekleri,
+sörf tahtası tasarım vitrini,
+aksesuar dökümü,
+aksiyon pozu paneli,
+temiz editoryal düzen,
+resmi anime sanat kitabı formatı,
+beyaz arka plan tasarım sayfası
 
-MOOD:
+RUH HALİ:
 
-bright,
-summer,
-tropical,
-playful,
-cute,
-energetic,
-beach lifestyle,
-ocean freedom,
-vacation vibes,
-sunshine aesthetic
+parlak,
+yaz,
+tropikal,
+oyuncu,
+sevimli,
+enerjik,
+plaj yaşam tarzı,
+okyanus özgürlüğü,
+tatil havası,
+güneş ışığı estetiği
 
-LIGHTING:
+AYDINLATMA:
 
-warm sunlight,
-golden tropical glow,
-soft ocean reflections,
-bright summer atmosphere,
-clean commercial illustration lighting
+sıcak güneş ışığı,
+altın tropikal parıltı,
+yumuşak okyanus yansımaları,
+parlak yaz atmosferi,
+temiz ticari illüstrasyon aydınlatması
 
-QUALITY:
+KALİTE:
 
-masterpiece,
-best quality,
-ultra detailed,
-official character design sheet,
-anime artbook illustration,
-commercial character presentation,
-AAA visual development document,
-highly polished rendering,
-professional reference sheet,
+başyapıt,
+en iyi kalite,
+ultra detaylı,
+resmi karakter tasarım sayfası,
+anime sanat kitabı illüstrasyonu,
+ticari karakter sunumu,
+AAA görsel geliştirme dokümanı,
+yüksek cilalı render,
+profesyonel referans sayfası,
 8k
 ```
 
 **🎬 Video istemi**
 
 ```
-video prompt:
+video istemi:
 
-image1 is the strict character reference.
+görüntü1 kesin karakter referansıdır.
 
-Preserve her exact identity, face, hairstyle, eye color, body proportions, outfit, accessories, flower hair ornament, sunglasses on head, translucent beach jacket, pink-and-blue bikini, jewelry, ankle accessories, and the exact surfboard design shown in the reference sheet.
+Onun tam kimliğini, yüzünü, saç stilini, göz rengini, vücut oranlarını, kıyafetini, aksesuarlarını, çiçek saç süsünü, başındaki güneş gözlüğünü, şeffaf plaj ceketini, pembe-mavi bikinisini, takılarını, ayak bileği aksesuarlarını ve referans sayfasında gösterilen tam sörf tahtası tasarımını koruyun.
 
-She must remain the same anime character throughout the entire video with perfect character consistency. No outfit changes, no hairstyle changes, no accessory changes, no surfboard redesigns.
+Video boyunca mükemmel karakter tutarlılığı ile aynı anime karakteri olarak kalmalıdır. Kıyafet değişikliği yok, saç stili değişikliği yok, aksesuar değişikliği yok, sörf tahtası yeniden tasarımı yok.
 
-CHARACTER:
-Luna, energetic Hawaiian surfer girl, cheerful, adventurous, confident, athletic, beach-inspired anime heroine. Long blonde ponytail, bright blue eyes, sun-kissed skin, playful smile, professional surfing skills.
+KARAKTER:
+Luna, enerjik Havai sörfçü kız, neşeli, maceracı, kendine güvenen, atletik, plaj esintili anime kahramanı. Uzun sarı at kuyruğu, parlak mavi gözler, güneş öpücüğü almış ten, oyuncu gülümseme, profesyonel sörf becerileri.
 
-STYLE:
-Ultra-high-quality Japanese anime film.
-Makoto Shinkai-level ocean lighting.
-Detailed anime character animation.
-Beautiful hair physics.
-Dynamic water simulation.
-Vibrant tropical colors.
-Premium anime movie quality.
-Stylized but physically believable surfing movement.
+STİL:
+Ultra yüksek kaliteli Japon anime filmi.
+Makoto Shinkai seviyesinde okyanus aydınlatması.
+Detaylı anime karakter animasyonu.
+Güzel saç fiziği.
+Dinamik su simülasyonu.
+Canlı tropikal renkler.
+Premium anime film kalitesi.
+Stilize ama fiziksel olarak inandırıcı sörf hareketi.
 
-SETTING:
-Bright tropical ocean during a sunny afternoon.
+ORTAM:
+Güneşli bir öğleden sonra parlak tropikal okyanus.
 
-Crystal-clear blue water.
-Turquoise wave faces.
-Strong sunlight reflections.
-Flying sea birds.
-Ocean spray.
-White foam trails.
-Warm tropical atmosphere.
-Hawaiian paradise aesthetic.
+Kristal berraklığında mavi su.
+Turkuaz dalga yüzleri.
+Güçlü güneş ışığı yansımaları.
+Uçan deniz kuşları.
+Okyanus serpintisi.
+Beyaz köpük izleri.
+Sıcak tropikal atmosfer.
+Havai cenneti estetiği.
 
-VIDEO FORMAT:
-15-second continuous single-take shot.
-No cuts.
-No transitions.
-No scene changes.
-No montage.
-One uninterrupted camera movement from start to finish.
+VİDEO FORMATI:
+15 saniyelik sürekli tek çekim.
+Kesinti yok.
+Geçiş yok.
+Sahne değişikliği yok.
+Montaj yok.
+Baştan sona kesintisiz bir kamera hareketi.
 
-OPENING SHOT:
-The video begins with Luna already riding a large ocean wave.
+AÇILIŞ ÇEKİMİ:
+Video, Luna'nın zaten büyük bir okyanus dalgasında sörf yapmasıyla başlar.
 
-The camera starts very close in front of her face and upper body.
+Kamera, yüzünün ve üst vücudunun çok yakınında başlar.
 
-Her blonde ponytail flows dramatically in the sea breeze.
-The pink flower in her hair remains clearly visible.
-Her expression is confident, excited, and full of freedom.
-Sunlight sparkles across the ocean behind her.
+Sarı at kuyruğu deniz esintisinde dramatik bir şekilde akar.
+Saçındaki pembe çiçek net bir şekilde görünür kalır.
+İfadesi kendine güvenen, heyecanlı ve özgürlük doludur.
+Güneş ışığı arkasındaki okyanusta parlar.
 
-CAMERA MOVEMENT:
-The camera smoothly circles around her in one uninterrupted movement.
+KAMERA HAREKETİ:
+Kamera, kesintisiz bir hareketle etrafında yumuşak bir şekilde döner.
 
-It transitions from the front of her body to behind her.
+Vücudunun önünden arkasına geçer.
 
-Once behind her, the camera lowers to surfboard height and remains there for the rest of the video.
+Arkasına geçtiğinde, kamera sörf tahtası yüksekliğine iner ve videonun geri kalanında orada kalır.
 
-The camera follows extremely close behind the surfboard near the tail.
+Kamera, sörf tahtasının hemen arkasında, kuyruğa yakın bir şekilde çok yakından takip eder.
 
-It skims just above the water surface.
+Su yüzeyinin hemen üzerinde kayar.
 
-Never rise to a high angle.
+Asla yüksek bir açıya yükselme.
 
-Maintain an immersive surf-level perspective for the remainder of the shot.
+Çekimin geri kalanı için sürükleyici bir sörf seviyesi perspektifini koruyun.
 
-ACTION FLOW:
-As the camera settles behind her, Luna lowers into an athletic surfing stance.
+AKSİYON AKIŞI:
+Kamera arkasına yerleştiğinde, Luna atletik bir sörf duruşuna geçer.
 
-She accelerates rapidly across the wave face.
+Dalga yüzü boyunca hızla hızlanır.
 
-Her free hand reaches toward the ocean.
+Boş eli okyanusa doğru uzanır.
 
-Her fingertips skim across the water surface, creating sparkling trails of spray.
+Parmak uçları su yüzeyinde kayarak ışıltılı serpinti izleri oluşturur.
 
-Her surfboard carves aggressively through the wave.
+Sörf tahtası dalga boyunca agresif bir şekilde oyulur.
 
-Water droplets fly toward the camera.
+Su damlacıkları kameraya doğru uçar.
 
-Her jacket and ponytail stream dramatically behind her.
+Ceketi ve at kuyruğu arkasında dramatik bir şekilde akar.
 
-She gains speed and approaches a larger section of the wave.
+Hız kazanır ve dalganın daha büyük bir bölümüne yaklaşır.
 
-Without any cut, she launches into a stylish aerial maneuver.
+Hiçbir kesinti olmadan, şık bir hava manevrasına başlar.
 
-The camera remains close behind and slightly below surfboard level.
+Kamera, sörf tahtası seviyesinin hemen arkasında ve biraz altında kalır.
 
-Time briefly enters dramatic anime-style slow motion.
+Zaman kısaca dramatik anime tarzı ağır çekime girer.
 
-Ocean droplets float in the air like sparkling crystals.
+Okyanus damlacıkları havada ışıltılı kristaller gibi yüzer.
 
-Sunlight shines through the spray.
+Güneş ışığı serpintinin içinden parlar.
 
-While airborne, Luna rotates slightly toward the camera.
+Havadayken, Luna hafifçe kameraya doğru döner.
 
-She smiles confidently.
+Kendine güvenerek gülümser.
 
-One hand grabs the rail of the surfboard.
+Bir el sörf tahtasının rayını tutar.
 
-Her flower accessory, blonde ponytail, and jacket flutter dramatically in the wind.
+Çiçek aksesuarı, sarı at kuyruğu ve ceketi rüzgarda dramatik bir şekilde dalgalanır.
 
-The surfboard graphics remain clearly visible.
+Sörf tahtası grafikleri net bir şekilde görünür kalır.
 
-She completes the aerial movement and lands smoothly back onto the wave.
+Hava hareketini tamamlar ve dalganın üzerine yumuşak bir şekilde iner.
 
-A massive burst of water erupts around the board.
+Tahtanın etrafında devasa bir su patlaması oluşur.
 
-The camera remains low and close behind.
+Kamera alçak ve arkada yakın kalır.
 
-FINAL MOMENT:
-After landing, Luna immediately accelerates again.
+SON AN:
+İndikten sonra, Luna hemen tekrar hızlanır.
 
-She races toward larger waves on the horizon.
+Ufuktaki daha büyük dalgalara doğru yarışır.
 
-Ocean spray explodes around the lens.
+Okyanus serpintisi lensin etrafında patlar.
 
-Sunlight flashes through airborne droplets.
+Güneş ışığı havadaki damlacıkların içinden parlar.
 
-The camera continues chasing closely behind the surfboard.
+Kamera sörf tahtasının hemen arkasında kovalamaya devam eder.
 
-The video ends while she is still surfing at full speed toward the next wave.
+Video, o bir sonraki dalgaya doğru tam hızla sörf yaparken sona erer.
 
-anime feature film quality,
-perfect character consistency,
-stable face,
-stable outfit,
-stable surfboard design,
-beautiful hair physics,
-dynamic ocean simulation,
-no extra limbs,
-no duplicate character,
-no face distortion,
-no accessory changes,
-no camera cuts,
-no text,
-no logos,
-no subtitles,
-no watermark.
+anime uzun metrajlı film kalitesi,
+mükemmel karakter tutarlılığı,
+stabil yüz,
+stabil kıyafet,
+stabil sörf tahtası tasarımı,
+güzel saç fiziği,
+dinamik okyanus simülasyonu,
+ekstra uzuv yok,
+kopya karakter yok,
+yüz bozulması yok,
+aksesuar değişikliği yok,
+kamera kesintisi yok,
+yazı yok,
+logo yok,
+altyazı yok,
+filigran yok.
 ```
 
 **Gönderen** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K takipçi
@@ -706,46 +705,46 @@ no watermark.
 
 ---
 
-### 8. Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Ey…
+### 8. Jax Çöl Yüzleşmesi Storyboard Izgarası
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066518695070019962_0_poster.jpg" width="480" alt="Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Ey…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066518695070019962_0_poster.jpg" width="480" alt="Jax Çöl Yüzleşmesi Storyboard Izgarası"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Eye, Jax (random). Grid 2: confrontation in the desert, Push In, Dutch Tilt, Dutch 30°, Jax (random).   Grid 3: confrontation in the desert, Push In, Worms Eye, High Angle, Jax (random).  Grid 4: confrontation in the desert, Steadicam, Dutch Tilt, Low Angle, Jax (random).  Grid 5: confrontation in the desert, Static, Worms Eye, High Angle, Jax (random).  Grid 6: confrontation in the desert, Crane Up, Medium Close, Birds Eye, Jax (random).  Grid 7: confrontation in the desert, 360 Orbit, High Angle, Dutch 15°, Jax (random).  Grid 8: confrontation in the desert, Steadicam, Medium, Low Angle, Jax (random).  Grid 9: confrontation in the desert, Dolly Out, Over Shoulder, High Angle, Jax (random).  Master Settings: dead valley desert, Golden Hour, Storm, Epic, shot on ARRI Alexa 65, Vintage Helios, 50mm Standard, Vignette, Music: Cinematic trailer score, cinematic 8K, film grain, anamorphic, shallow depth of field, doodle nft   --ar 16:9
+Izgara 1: çölde yüzleşme, Push In, Aşırı Yakın Çekim, Kurbağa Gözü, Jax (rastgele). Izgara 2: çölde yüzleşme, Push In, Dutch Tilt, Dutch 30°, Jax (rastgele). Izgara 3: çölde yüzleşme, Push In, Kurbağa Gözü, Yüksek Açı, Jax (rastgele). Izgara 4: çölde yüzleşme, Steadicam, Dutch Tilt, Düşük Açı, Jax (rastgele). Izgara 5: çölde yüzleşme, Statik, Kurbağa Gözü, Yüksek Açı, Jax (rastgele). Izgara 6: çölde yüzleşme, Crane Up, Orta Yakın, Kuş Bakışı, Jax (rastgele). Izgara 7: çölde yüzleşme, 360 Orbit, Yüksek Açı, Dutch 15°, Jax (rastgele). Izgara 8: çölde yüzleşme, Steadicam, Orta, Düşük Açı, Jax (rastgele). Izgara 9: çölde yüzleşme, Dolly Out, Omuz Üstü, Yüksek Açı, Jax (rastgele). Ana Ayarlar: Dead Valley çölü, Altın Saat, Fırtına, Epik, ARRI Alexa 65 ile çekildi, Vintage Helios, 50mm Standart, Vinyet, Müzik: Sinematik fragman müziği, sinematik 8K, film greni, anamorfik, sığ alan derinliği, doodle nft --ar 16:9
 ```
 
 **🎬 Video istemi**
 
 ```
-Create a cinematic 3x3 storyboard grid in 16:9 aspect ratio, featuring an original character named Jax in a dramatic desert confrontation.
+16:9 en boy oranında, Jax adında orijinal bir karakterin dramatik bir çöl yüzleşmesini içeren sinematik bir 3x3 storyboard ızgarası oluşturun.
 
-Jax is a stylized doodle desert drifter / gunslinger with a rugged wide-brim hat, stitched cartoon-like face, large expressive eyes, worn leather outfit, scarf, belts, charms, dusty boots, and a mysterious western outlaw vibe. Keep Jax visually consistent in all 9 panels.
+Jax, sağlam geniş kenarlı şapkası, dikişli çizgi film benzeri yüzü, büyük etkileyici gözleri, yıpranmış deri kıyafeti, atkısı, kemerleri, tılsımları, tozlu botları ve gizemli bir western kanun kaçağı havası olan stilize bir doodle çöl serserisi / silahşordur. Jax'i 9 panelin tamamında görsel olarak tutarlı tutun.
 
-Environment: dead valley desert, golden hour, incoming storm, dramatic clouds, dust in the air, rocky desert floor, distant mountains, epic confrontation atmosphere.
+Ortam: Dead Valley çölü, altın saat, yaklaşan fırtına, dramatik bulutlar, havada toz, kayalık çöl zemini, uzak dağlar, epik yüzleşme atmosferi.
 
-Visual style: cinematic 8K, ARRI Alexa 65 look, Vintage Helios lens character, 50mm standard lens, anamorphic, shallow depth of field, film grain, vignette, high contrast, epic trailer mood, premium director storyboard style.
+Görsel stil: sinematik 8K, ARRI Alexa 65 görünümü, Vintage Helios lens karakteri, 50mm standart lens, anamorfik, sığ alan derinliği, film greni, vinyet, yüksek kontrast, epik fragman havası, birinci sınıf yönetmen storyboard stili.
 
-Create a 3x3 grid with thin black borders and small labels “Grid 1” to “Grid 9”. Each panel must show a different camera shot:
+İnce siyah kenarlıklı ve “Grid 1” ile “Grid 9” arasında küçük etiketlere sahip 3x3'lük bir ızgara oluşturun. Her panel farklı bir kamera çekimi göstermelidir:
 
-Grid 1: Push In, Extreme Close-Up, Worm’s Eye View, Jax staring intensely, gun blurred in foreground.
-Grid 2: Push In, Dutch Tilt, Dutch 30°, close shot of Jax in the stormy desert.
-Grid 3: Push In, Worm’s Eye + High Angle experimental blend, Jax looking upward on dusty ground.
-Grid 4: Steadicam, Dutch Tilt, Low Angle, Jax pointing revolver dramatically.
-Grid 5: Static shot, Worm’s Eye + High Angle experimental blend, Jax standing on circular desert markings.
-Grid 6: Crane Up, Medium Close-Up, Bird’s Eye View, Jax looking up at camera.
-Grid 7: 360 Orbit, High Angle, Dutch 15°, wide shot with Jax centered in circular desert terrain.
-Grid 8: Steadicam, Medium Shot, Low Angle, heroic Jax standing against storm clouds.
-Grid 9: Dolly Out, Over Shoulder, High Angle, Jax looking at a distant opponent in the desert.
-Mood: epic, tense, cinematic, western fantasy, stormy golden hour, film trailer energy.
-No logos, no watermark, no extra text except grid labels and optional short shot notes.
-Aspect ratio: 16:9
+Grid 1: Push In, Aşırı Yakın Çekim, Kurbağa Gözü Açısı, Jax yoğun bir şekilde bakıyor, ön planda silah bulanık.
+Grid 2: Push In, Dutch Tilt, Dutch 30°, fırtınalı çölde Jax'in yakın çekimi.
+Grid 3: Push In, Kurbağa Gözü + Yüksek Açı deneysel karışımı, Jax tozlu zeminde yukarı bakıyor.
+Grid 4: Steadicam, Dutch Tilt, Düşük Açı, Jax dramatik bir şekilde altıpatları doğrultuyor.
+Grid 5: Statik çekim, Kurbağa Gözü + Yüksek Açı deneysel karışımı, Jax dairesel çöl işaretlerinin üzerinde duruyor.
+Grid 6: Crane Up, Orta Yakın Çekim, Kuş Bakışı, Jax kameraya doğru bakıyor.
+Grid 7: 360 Orbit, Yüksek Açı, Dutch 15°, dairesel çöl arazisinde ortalanmış Jax ile geniş çekim.
+Grid 8: Steadicam, Orta Çekim, Düşük Açı, fırtına bulutlarına karşı duran kahraman Jax.
+Grid 9: Dolly Out, Omuz Üstü, Yüksek Açı, Jax çölde uzak bir rakibe bakıyor.
+Hava: epik, gergin, sinematik, western fantezi, fırtınalı altın saat, film fragmanı enerjisi.
+Logo yok, filigran yok, ızgara etiketleri ve isteğe bağlı kısa çekim notları dışında ekstra metin yok.
+En boy oranı: 16:9
 ```
 
 **Gönderen** [Feyber | Learn AI ✓](https://x.com/woleswoosh) (@woleswoosh) · 17.4K takipçi
@@ -758,57 +757,57 @@ Aspect ratio: 16:9
 
 ---
 
-### 9. Photoreal cinematic night sequence on Easter Island, mysterious eerie…
+### 9. Samanyolu Altında Yürüyen Moai Heykelleri
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066287079122710984_0_poster.jpg" width="480" alt="Photoreal cinematic night sequence on Easter Island, mysterious eerie…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066287079122710984_0_poster.jpg" width="480" alt="Samanyolu Altında Yürüyen Moai Heykelleri"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-Photoreal cinematic night sequence on Easter Island, mysterious eerie atmosphere, walking Moai statues, deep indigo sky, Milky Way overhead, cool blue moonlight, silvery starlight, dark volcanic earth, weathered stone texture. Minimum 8K quality, ultra sharp, high detail, clean textures, stable statue forms, no blur, no compression artifacts. Clean cinematic audio, distant wind, low stone rumble, no distortion.
+Paskalya Adası'nda fotogerçekçi sinematik gece sekansı, gizemli ürkütücü atmosfer, yürüyen Moai heykelleri, derin çivit mavisi gökyüzü, tepede Samanyolu, soğuk mavi ay ışığı, gümüşi yıldız ışığı, karanlık volkanik toprak, aşınmış taş dokusu. Minimum 8K kalite, ultra keskin, yüksek detay, temiz dokular, sabit heykel formları, bulanıklık yok, sıkıştırma hatası yok. Temiz sinematik ses, uzaktan gelen rüzgar, düşük taş gürültüsü, bozulma yok.
 
-00:00–00:02: Begin with an extreme wide ground-level shot across the barren Easter Island landscape. Towering Moai statues stand in silhouette beneath a dense star-filled sky and clear Milky Way arc. Cool moonlight washes over their volcanic stone faces. The camera is handheld but controlled, with only slight natural shake.
+00:00–00:02: Paskalya Adası'nın çorak manzarasında, yerden çekilmiş aşırı geniş bir açıyla başlayın. Devasa Moai heykelleri, yıldızlarla dolu yoğun bir gökyüzü ve net Samanyolu yayı altında silüet halinde duruyor. Soğuk ay ışığı volkanik taş yüzlerini yıkıyor. Kamera elde tutuluyor ancak kontrollü, sadece hafif doğal bir titreme var.
 
-00:02–00:04: The first Moai shifts with ancient weight. One massive stone foot lifts slowly from the dry earth and settles forward. Dust rises around the base. Camera begins a slow tracking move at ground level, gliding between the statues. Low stone grinding, distant wind.
+00:02–00:04: İlk Moai antik bir ağırlıkla hareket ediyor. Devasa bir taş ayak kuru topraktan yavaşça kalkıyor ve ileriye doğru yerleşiyor. Tabanın etrafında toz yükseliyor. Kamera, heykeller arasında süzülerek yerden yavaş bir takip hareketine başlıyor. Düşük taş gürültüsü, uzaktan gelen rüzgar.
 
-00:04–00:06: More Moai begin walking in procession. Their movements are deliberate and heavy, not fast, not human-like. Camera tracks alongside them, revealing long shifting shadows across the moonlit ground. Earth trembles subtly with each step.
+00:04–00:06: Daha fazla Moai alay halinde yürümeye başlıyor. Hareketleri kasıtlı ve ağır, hızlı değil, insan benzeri değil. Kamera, ay ışığı altındaki zeminde uzun değişen gölgeleri ortaya çıkararak yanlarında takip ediyor. Her adımda dünya hafifçe titriyor.
 
-00:06–00:08: Low-angle close pass near a stone foot. The foot lifts, drags slightly, then lands with a muted impact. Dust and small pebbles scatter naturally. Weathered volcanic rock surfaces catch faint starlight, showing cracks, lichen, and erosion.
+00:06–00:08: Bir taş ayağın yakınında düşük açılı yakın geçiş. Ayak kalkıyor, hafifçe sürükleniyor, sonra sessiz bir darbeyle yere iniyor. Toz ve küçük çakıllar doğal bir şekilde dağılıyor. Aşınmış volkanik kaya yüzeyleri, çatlakları, likenleri ve erozyonu göstererek soluk yıldız ışığını yakalıyor.
 
-00:08–00:10: Camera weaves through the moving procession at waist-to-ground level, surrounded by dark monolithic silhouettes. Moai pass close on both sides, their massive torsos blocking and revealing the Milky Way as they move. Handheld motion remains smooth and intentional.
+00:08–00:10: Kamera, karanlık monolitik silüetlerle çevrili, belden yere kadar olan seviyede hareket eden alayın içinden geçiyor. Moai'ler her iki taraftan yakından geçiyor, devasa gövdeleri hareket ederken Samanyolu'nu kapatıp açıyor. Elde tutulan hareket pürüzsüz ve kasıtlı kalıyor.
 
-00:10–00:12: Wider tracking shot reveals the procession stretching across the island. Multiple statues step in slow rhythm, their shadows sliding over the terrain. Cool moonlight and blue-white starlight define their edges. The low rumble deepens.
+00:10–00:12: Daha geniş takip çekimi, alayın ada boyunca uzandığını ortaya koyuyor. Birden fazla heykel yavaş bir ritimle adım atıyor, gölgeleri arazi üzerinde kayıyor. Soğuk ay ışığı ve mavi-beyaz yıldız ışığı kenarlarını tanımlıyor. Düşük gürültü derinleşiyor.
 
-00:12–00:15: Follow from slightly behind as the Moai continue walking into the night. Camera maintains their forward direction and gently slows, letting the statues drift farther ahead beneath the stars. End on eerie wonder: ancient silhouettes moving under the Milky Way, dust fading in moonlight.
+00:12–00:15: Moai'ler geceye doğru yürümeye devam ederken hafif arkadan takip edin. Kamera ileri yönlerini koruyor ve yavaşça yavaşlıyor, heykellerin yıldızların altında daha ileriye sürüklenmesine izin veriyor. Ürkütücü bir merakla bitirin: Samanyolu altında hareket eden antik silüetler, ay ışığında solan toz.
 
-Camera: ground-level handheld tracking, slight natural shake, slow weave between statues, low-angle close detail, no chaotic movement. Motion: heavy believable stone steps, subtle tremors, dust rising naturally. Negative: no daylight, no tourists, no modern structures, no vehicles, no cartoon style, no glowing eyes, no broken anatomy, no rubbery stone, no fast running statues, no random camera spins, no blur, no compression artifacts.
+Kamera: yerden elde takip, hafif doğal titreme, heykeller arasında yavaş dokuma, düşük açılı yakın detay, kaotik hareket yok. Hareket: ağır inandırıcı taş adımları, hafif titremeler, doğal olarak yükselen toz. Negatif: gün ışığı yok, turist yok, modern yapılar yok, araç yok, çizgi film stili yok, parlayan gözler yok, kırık anatomi yok, lastik gibi taş yok, hızlı koşan heykeller yok, rastgele kamera dönüşleri yok, bulanıklık yok, sıkıştırma hatası yok.
 ```
 
 **🎬 Video istemi**
 
 ```
-Photoreal cinematic night sequence on Easter Island, mysterious eerie atmosphere, walking Moai statues, deep indigo sky, Milky Way overhead, cool blue moonlight, silvery starlight, dark volcanic earth, weathered stone texture. Minimum 8K quality, ultra sharp, high detail, clean textures, stable statue forms, no blur, no compression artifacts. Clean cinematic audio, distant wind, low stone rumble, no distortion.
+Paskalya Adası'nda fotogerçekçi sinematik gece sekansı, gizemli ürkütücü atmosfer, yürüyen Moai heykelleri, derin çivit mavisi gökyüzü, tepede Samanyolu, soğuk mavi ay ışığı, gümüşi yıldız ışığı, karanlık volkanik toprak, aşınmış taş dokusu. Minimum 8K kalite, ultra keskin, yüksek detay, temiz dokular, sabit heykel formları, bulanıklık yok, sıkıştırma hatası yok. Temiz sinematik ses, uzaktan gelen rüzgar, düşük taş gürültüsü, bozulma yok.
 
-00:00–00:02: Begin with an extreme wide ground-level shot across the barren Easter Island landscape. Towering Moai statues stand in silhouette beneath a dense star-filled sky and clear Milky Way arc. Cool moonlight washes over their volcanic stone faces. The camera is handheld but controlled, with only slight natural shake.
+00:00–00:02: Paskalya Adası'nın çorak manzarasında, yerden çekilmiş aşırı geniş bir açıyla başlayın. Devasa Moai heykelleri, yıldızlarla dolu yoğun bir gökyüzü ve net Samanyolu yayı altında silüet halinde duruyor. Soğuk ay ışığı volkanik taş yüzlerini yıkıyor. Kamera elde tutuluyor ancak kontrollü, sadece hafif doğal bir titreme var.
 
-00:02–00:04: The first Moai shifts with ancient weight. One massive stone foot lifts slowly from the dry earth and settles forward. Dust rises around the base. Camera begins a slow tracking move at ground level, gliding between the statues. Low stone grinding, distant wind.
+00:02–00:04: İlk Moai antik bir ağırlıkla hareket ediyor. Devasa bir taş ayak kuru topraktan yavaşça kalkıyor ve ileriye doğru yerleşiyor. Tabanın etrafında toz yükseliyor. Kamera, heykeller arasında süzülerek yerden yavaş bir takip hareketine başlıyor. Düşük taş gürültüsü, uzaktan gelen rüzgar.
 
-00:04–00:06: More Moai begin walking in procession. Their movements are deliberate and heavy, not fast, not human-like. Camera tracks alongside them, revealing long shifting shadows across the moonlit ground. Earth trembles subtly with each step.
+00:04–00:06: Daha fazla Moai alay halinde yürümeye başlıyor. Hareketleri kasıtlı ve ağır, hızlı değil, insan benzeri değil. Kamera, ay ışığı altındaki zeminde uzun değişen gölgeleri ortaya çıkararak yanlarında takip ediyor. Her adımda dünya hafifçe titriyor.
 
-00:06–00:08: Low-angle close pass near a stone foot. The foot lifts, drags slightly, then lands with a muted impact. Dust and small pebbles scatter naturally. Weathered volcanic rock surfaces catch faint starlight, showing cracks, lichen, and erosion.
+00:06–00:08: Bir taş ayağın yakınında düşük açılı yakın geçiş. Ayak kalkıyor, hafifçe sürükleniyor, sonra sessiz bir darbeyle yere iniyor. Toz ve küçük çakıllar doğal bir şekilde dağılıyor. Aşınmış volkanik kaya yüzeyleri, çatlakları, likenleri ve erozyonu göstererek soluk yıldız ışığını yakalıyor.
 
-00:08–00:10: Camera weaves through the moving procession at waist-to-ground level, surrounded by dark monolithic silhouettes. Moai pass close on both sides, their massive torsos blocking and revealing the Milky Way as they move. Handheld motion remains smooth and intentional.
+00:08–00:10: Kamera, karanlık monolitik silüetlerle çevrili, belden yere kadar olan seviyede hareket eden alayın içinden geçiyor. Moai'ler her iki taraftan yakından geçiyor, devasa gövdeleri hareket ederken Samanyolu'nu kapatıp açıyor. Elde tutulan hareket pürüzsüz ve kasıtlı kalıyor.
 
-00:10–00:12: Wider tracking shot reveals the procession stretching across the island. Multiple statues step in slow rhythm, their shadows sliding over the terrain. Cool moonlight and blue-white starlight define their edges. The low rumble deepens.
+00:10–00:12: Daha geniş takip çekimi, alayın ada boyunca uzandığını ortaya koyuyor. Birden fazla heykel yavaş bir ritimle adım atıyor, gölgeleri arazi üzerinde kayıyor. Soğuk ay ışığı ve mavi-beyaz yıldız ışığı kenarlarını tanımlıyor. Düşük gürültü derinleşiyor.
 
-00:12–00:15: Follow from slightly behind as the Moai continue walking into the night. Camera maintains their forward direction and gently slows, letting the statues drift farther ahead beneath the stars. End on eerie wonder: ancient silhouettes moving under the Milky Way, dust fading in moonlight.
+00:12–00:15: Moai'ler geceye doğru yürümeye devam ederken hafif arkadan takip edin. Kamera ileri yönlerini koruyor ve yavaşça yavaşlıyor, heykellerin yıldızların altında daha ileriye sürüklenmesine izin veriyor. Ürkütücü bir merakla bitirin: Samanyolu altında hareket eden antik silüetler, ay ışığında solan toz.
 
-Camera: ground-level handheld tracking, slight natural shake, slow weave between statues, low-angle close detail, no chaotic movement. Motion: heavy believable stone steps, subtle tremors, dust rising naturally. Negative: no daylight, no tourists, no modern structures, no vehicles, no cartoon style, no glowing eyes, no broken anatomy, no rubbery stone, no fast running statues, no random camera spins, no blur, no compression artifacts.
+Kamera: yerden elde takip, hafif doğal titreme, heykeller arasında yavaş dokuma, düşük açılı yakın detay, kaotik hareket yok. Hareket: ağır inandırıcı taş adımları, hafif titremeler, doğal olarak yükselen toz. Negatif: gün ışığı yok, turist yok, modern yapılar yok, araç yok, çizgi film stili yok, parlayan gözler yok, kırık anatomi yok, lastik gibi taş yok, hızlı koşan heykeller yok, rastgele kamera dönüşleri yok, bulanıklık yok, sıkıştırma hatası yok.
 ```
 
 **Gönderen** [Kaan Alper ✓](https://x.com/kaan_alper) (@kaan_alper) · 23.7K takipçi
@@ -821,71 +820,71 @@ Camera: ground-level handheld tracking, slight natural shake, slow weave between
 
 ---
 
-### 10. Create a single vertical anime animation development board for an ori…
+### 10. Anime Film Yapım Öncesi Geliştirme Panosu
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Create a single vertical anime animation development board for an ori…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Anime Film Yapım Öncesi Geliştirme Panosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-Create a single vertical anime animation development board for an original emotional summer short film titled “The Lost Wind Chime.”
-The output must be ONE combined image with two sections: an anime character design sheet and a cinematic storyboard page.
-IMPORTANT: Create fully original anime characters. Do not imitate Studio Ghibli characters directly. Avoid any copyrighted anime character resemblance. Keep the designs unique, but inspired by soft nostalgic anime films.
-STYLE: Premium anime pre-production board mixing hand-drawn pencil storyboard sketches with beautiful semi-rendered anime keyframes. Use watercolor-style lighting, soft summer colors, blue sky tones, warm sunlight, soft shadows, handwritten production notes, red storyboard borders, blue camera arrows, and timing notes. The board should feel like a real anime studio planning sheet.
-LAYOUT: Clean vertical composition with 2 sections.
-SECTION A — CHARACTER DESIGN SHEET
-Girl: A cheerful but slightly lonely anime girl with soft black hair tied into a short ponytail, large expressive brown eyes, and soft round facial features. She wears an oversized light yellow summer dress, small crossbody satchel, white socks, and brown shoes. Her mood should feel gentle, curious, nostalgic, peaceful, and emotionally warm.
-Show the girl in front view, side profile, 3/4 angle, expressions of curiosity, happiness, emotion, and thoughtfulness, plus poses holding a wind chime and reaching toward sunlight.
-Kitten: A tiny fluffy gray-and-white kitten with large anime-style eyes, soft fur, tiny paws, and playful expressions. The kitten should feel curious, innocent, playful, and comforting.
-Show the kitten in front view, side profile, 3/4 view, expressions of curiosity, happiness, sleepiness, and trust, plus sitting, playful, and sleeping poses.
-Add tiny handwritten notes and soft pastel color swatches.
-SECTION B — STORYBOARD
-Create 8 cinematic anime storyboard frames arranged in a clean grid. Keep character designs consistent across all panels. Every panel should include handwritten camera notes, blue movement arrows, timing notes, and lens notes.
+“The Lost Wind Chime” (Kayıp Rüzgar Çanı) adlı duygusal bir yaz kısa filmi için dikey bir anime geliştirme panosu oluşturun.
+Çıktı, iki bölümden oluşan tek bir birleşik görsel olmalıdır: bir anime karakter tasarım sayfası ve bir sinematik storyboard sayfası.
+ÖNEMLİ: Tamamen orijinal anime karakterleri oluşturun. Studio Ghibli karakterlerini doğrudan taklit etmeyin. Telif hakkı olan herhangi bir anime karakterine benzerlikten kaçının. Tasarımları benzersiz tutun ancak yumuşak, nostaljik anime filmlerinden ilham alın.
+STİL: Elle çizilmiş kurşun kalem storyboard eskizlerini güzel, yarı işlenmiş anime anahtar kareleriyle karıştıran birinci sınıf bir anime yapım öncesi panosu. Suluboya tarzı aydınlatma, yumuşak yaz renkleri, mavi gökyüzü tonları, sıcak güneş ışığı, yumuşak gölgeler, el yazısı üretim notları, kırmızı storyboard kenarlıkları, mavi kamera okları ve zamanlama notları kullanın. Pano, gerçek bir anime stüdyosu planlama sayfası gibi hissettirmelidir.
+LAYOUT: 2 bölümlü temiz dikey kompozisyon.
+BÖLÜM A — KARAKTER TASARIM SAYFASI
+Kız: Kısa bir at kuyruğuna bağlanmış yumuşak siyah saçlı, büyük etkileyici kahverengi gözlü ve yumuşak yuvarlak yüz hatlarına sahip, neşeli ama biraz yalnız bir anime kızı. Büyük boy açık sarı bir yazlık elbise, küçük çapraz çanta, beyaz çoraplar ve kahverengi ayakkabılar giyiyor. Hali nazik, meraklı, nostaljik, huzurlu ve duygusal olarak sıcak hissettirmelidir.
+Kızı önden, yandan, 3/4 açıyla, merak, mutluluk, duygu ve düşüncelilik ifadeleriyle ve ayrıca rüzgar çanını tutarken ve güneş ışığına doğru uzanırken gösterin.
+Kedi Yavrusu: Büyük anime tarzı gözleri, yumuşak tüyleri, minik patileri ve oyuncu ifadeleri olan minik, kabarık, gri-beyaz bir kedi yavrusu. Kedi yavrusu meraklı, masum, oyuncu ve rahatlatıcı hissettirmelidir.
+Kedi yavrusunu önden, yandan, 3/4 açıyla, merak, mutluluk, uykululuk ve güven ifadeleriyle ve ayrıca otururken, oynarken ve uyurken gösterin.
+Küçük el yazısı notları ve yumuşak pastel renk örnekleri ekleyin.
+BÖLÜM B — STORYBOARD
+Temiz bir ızgara şeklinde düzenlenmiş 8 sinematik anime storyboard karesi oluşturun. Karakter tasarımlarını tüm panellerde tutarlı tutun. Her panel el yazısı kamera notları, mavi hareket okları, zamanlama notları ve lens notları içermelidir.
 STORY BEATS:
-1. The girl discovers a beautiful glass wind chime hanging on an old countryside porch.
-2. A tiny kitten watches her from nearby flowers.
-3. Wind softly blows through the chime under bright summer sunlight.
-4. The girl gently lowers the wind chime toward the kitten.
-5. The kitten begins playing with the paper strip attached to the chime.
-6. The girl laughs softly while holding the kitten.
-7. Both sit together peacefully listening to the wind chime sounds.
-8. Wide emotional sunset shot with golden sky, countryside hills, and the wind chime moving in the breeze.
-ENVIRONMENT: Bright Japanese countryside during summer with blue skies, soft clouds, green grass, sunflowers, wooden porch, warm sunset glow, and a peaceful nostalgic anime atmosphere.
-FINAL GOAL: Make this feel like a beautiful anime film development board with emotional summer nostalgia and cinematic storytelling.
+1. Kız, eski bir köy verandasında asılı duran güzel bir cam rüzgar çanı keşfeder.
+2. Minik bir kedi yavrusu onu yakındaki çiçeklerin arasından izler.
+3. Rüzgar, parlak yaz güneş ışığı altında çanın içinden yumuşakça eser.
+4. Kız, rüzgar çanını kedi yavrusuna doğru nazikçe indirir.
+5. Kedi yavrusu, çana bağlı kağıt şeritle oynamaya başlar.
+6. Kız, kedi yavrusunu tutarken hafifçe güler.
+7. İkisi birlikte huzur içinde oturup rüzgar çanının seslerini dinlerler.
+8. Altın rengi gökyüzü, köy tepeleri ve esintide hareket eden rüzgar çanı ile geniş, duygusal bir gün batımı çekimi.
+ÇEVRE: Mavi gökyüzü, yumuşak bulutlar, yeşil çimenler, ayçiçekleri, ahşap veranda, sıcak gün batımı parıltısı ve huzurlu, nostaljik bir anime atmosferi ile yaz aylarında parlak bir Japon kırsalı.
+NİHAİ HEDEF: Bunun duygusal bir yaz nostaljisi ve sinematik hikaye anlatımı ile güzel bir anime filmi geliştirme panosu gibi hissettirmesini sağlayın.
 ```
 
 **🎬 Video istemi**
 
 ```
-Create a single vertical anime animation development board for an original emotional summer short film titled “The Lost Wind Chime.”
-The output must be ONE combined image with two sections: an anime character design sheet and a cinematic storyboard page.
-IMPORTANT: Create fully original anime characters. Do not imitate Studio Ghibli characters directly. Avoid any copyrighted anime character resemblance. Keep the designs unique, but inspired by soft nostalgic anime films.
-STYLE: Premium anime pre-production board mixing hand-drawn pencil storyboard sketches with beautiful semi-rendered anime keyframes. Use watercolor-style lighting, soft summer colors, blue sky tones, warm sunlight, soft shadows, handwritten production notes, red storyboard borders, blue camera arrows, and timing notes. The board should feel like a real anime studio planning sheet.
-LAYOUT: Clean vertical composition with 2 sections.
-SECTION A — CHARACTER DESIGN SHEET
-Girl: A cheerful but slightly lonely anime girl with soft black hair tied into a short ponytail, large expressive brown eyes, and soft round facial features. She wears an oversized light yellow summer dress, small crossbody satchel, white socks, and brown shoes. Her mood should feel gentle, curious, nostalgic, peaceful, and emotionally warm.
-Show the girl in front view, side profile, 3/4 angle, expressions of curiosity, happiness, emotion, and thoughtfulness, plus poses holding a wind chime and reaching toward sunlight.
-Kitten: A tiny fluffy gray-and-white kitten with large anime-style eyes, soft fur, tiny paws, and playful expressions. The kitten should feel curious, innocent, playful, and comforting.
-Show the kitten in front view, side profile, 3/4 view, expressions of curiosity, happiness, sleepiness, and trust, plus sitting, playful, and sleeping poses.
-Add tiny handwritten notes and soft pastel color swatches.
-SECTION B — STORYBOARD
-Create 8 cinematic anime storyboard frames arranged in a clean grid. Keep character designs consistent across all panels. Every panel should include handwritten camera notes, blue movement arrows, timing notes, and lens notes.
+“The Lost Wind Chime” (Kayıp Rüzgar Çanı) adlı duygusal bir yaz kısa filmi için dikey bir anime geliştirme panosu oluşturun.
+Çıktı, iki bölümden oluşan tek bir birleşik görsel olmalıdır: bir anime karakter tasarım sayfası ve bir sinematik storyboard sayfası.
+ÖNEMLİ: Tamamen orijinal anime karakterleri oluşturun. Studio Ghibli karakterlerini doğrudan taklit etmeyin. Telif hakkı olan herhangi bir anime karakterine benzerlikten kaçının. Tasarımları benzersiz tutun ancak yumuşak, nostaljik anime filmlerinden ilham alın.
+STİL: Elle çizilmiş kurşun kalem storyboard eskizlerini güzel, yarı işlenmiş anime anahtar kareleriyle karıştıran birinci sınıf bir anime yapım öncesi panosu. Suluboya tarzı aydınlatma, yumuşak yaz renkleri, mavi gökyüzü tonları, sıcak güneş ışığı, yumuşak gölgeler, el yazısı üretim notları, kırmızı storyboard kenarlıkları, mavi kamera okları ve zamanlama notları kullanın. Pano, gerçek bir anime stüdyosu planlama sayfası gibi hissettirmelidir.
+LAYOUT: 2 bölümlü temiz dikey kompozisyon.
+BÖLÜM A — KARAKTER TASARIM SAYFASI
+Kız: Kısa bir at kuyruğuna bağlanmış yumuşak siyah saçlı, büyük etkileyici kahverengi gözlü ve yumuşak yuvarlak yüz hatlarına sahip, neşeli ama biraz yalnız bir anime kızı. Büyük boy açık sarı bir yazlık elbise, küçük çapraz çanta, beyaz çoraplar ve kahverengi ayakkabılar giyiyor. Hali nazik, meraklı, nostaljik, huzurlu ve duygusal olarak sıcak hissettirmelidir.
+Kızı önden, yandan, 3/4 açıyla, merak, mutluluk, duygu ve düşüncelilik ifadeleriyle ve ayrıca rüzgar çanını tutarken ve güneş ışığına doğru uzanırken gösterin.
+Kedi Yavrusu: Büyük anime tarzı gözleri, yumuşak tüyleri, minik patileri ve oyuncu ifadeleri olan minik, kabarık, gri-beyaz bir kedi yavrusu. Kedi yavrusu meraklı, masum, oyuncu ve rahatlatıcı hissettirmelidir.
+Kedi yavrusunu önden, yandan, 3/4 açıyla, merak, mutluluk, uykululuk ve güven ifadeleriyle ve ayrıca otururken, oynarken ve uyurken gösterin.
+Küçük el yazısı notları ve yumuşak pastel renk örnekleri ekleyin.
+BÖLÜM B — STORYBOARD
+Temiz bir ızgara şeklinde düzenlenmiş 8 sinematik anime storyboard karesi oluşturun. Karakter tasarımlarını tüm panellerde tutarlı tutun. Her panel el yazısı kamera notları, mavi hareket okları, zamanlama notları ve lens notları içermelidir.
 STORY BEATS:
-1. The girl discovers a beautiful glass wind chime hanging on an old countryside porch.
-2. A tiny kitten watches her from nearby flowers.
-3. Wind softly blows through the chime under bright summer sunlight.
-4. The girl gently lowers the wind chime toward the kitten.
-5. The kitten begins playing with the paper strip attached to the chime.
-6. The girl laughs softly while holding the kitten.
-7. Both sit together peacefully listening to the wind chime sounds.
-8. Wide emotional sunset shot with golden sky, countryside hills, and the wind chime moving in the breeze.
-ENVIRONMENT: Bright Japanese countryside during summer with blue skies, soft clouds, green grass, sunflowers, wooden porch, warm sunset glow, and a peaceful nostalgic anime atmosphere.
-FINAL GOAL: Make this feel like a beautiful anime film development board with emotional summer nostalgia and cinematic storytelling.
+1. Kız, eski bir köy verandasında asılı duran güzel bir cam rüzgar çanı keşfeder.
+2. Minik bir kedi yavrusu onu yakındaki çiçeklerin arasından izler.
+3. Rüzgar, parlak yaz güneş ışığı altında çanın içinden yumuşakça eser.
+4. Kız, rüzgar çanını kedi yavrusuna doğru nazikçe indirir.
+5. Kedi yavrusu, çana bağlı kağıt şeritle oynamaya başlar.
+6. Kız, kedi yavrusunu tutarken hafifçe güler.
+7. İkisi birlikte huzur içinde oturup rüzgar çanının seslerini dinlerler.
+8. Altın rengi gökyüzü, köy tepeleri ve esintide hareket eden rüzgar çanı ile geniş, duygusal bir gün batımı çekimi.
+ÇEVRE: Mavi gökyüzü, yumuşak bulutlar, yeşil çimenler, ayçiçekleri, ahşap veranda, sıcak gün batımı parıltısı ve huzurlu, nostaljik bir anime atmosferi ile yaz aylarında parlak bir Japon kırsalı.
+NİHAİ HEDEF: Bunun duygusal bir yaz nostaljisi ve sinematik hikaye anlatımı ile güzel bir anime filmi geliştirme panosu gibi hissettirmesini sağlayın.
 ```
 
 **Gönderen** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K takipçi
@@ -898,193 +897,193 @@ FINAL GOAL: Make this feel like a beautiful anime film development board with em
 
 ---
 
-### 11. 1. Midjourney prompts: two characters in a post apoc city with guns a…
+### 11. Kıyamet Sonrası Bazuka Iskalama ve Kovan Kaçışı
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="1. Midjourney prompts: two characters in a post apoc city with guns a…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Kıyamet Sonrası Bazuka Iskalama ve Kovan Kaçışı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-1. Midjourney prompts:
-two characters in a post apoc city with guns and a cat --ar 3:4 --raw --sref 1984477158 --profile q9waadp --stylize 1000 --niji 7
-zombie with bee wings --ar 3:4 --raw --sref 316595908 --profile q9waadp --stylize 1000 --niji 7
+1. Midjourney istemleri:
+silahlı ve kedili kıyamet sonrası bir şehirde iki karakter --ar 3:4 --raw --sref 1984477158 --profile q9waadp --stylize 1000 --niji 7
+arı kanatlı zombi --ar 3:4 --raw --sref 316595908 --profile q9waadp --stylize 1000 --niji 7
 
-2. This time I didn't create a character sheet. I went straight from the generated images to the storyboards. First storyboard generated with v2 of my skill, I'm still testing it. Second part is generated with the version I shared with subscribers.
+2. Bu sefer bir karakter sayfası oluşturmadım. Doğrudan oluşturulan görüntülerden storyboard'lara geçtim. İlk storyboard yeteneğimin v2'si ile oluşturuldu, hala test ediyorum. İkinci kısım abonelerle paylaştığım sürümle oluşturuldu.
 
-3. After that, I generated the scenes using the Seedance 2.0 prompts produced by the same skills. At first I tried extending the footage, but it generated a completely different scene, so I ended up creating it as two separate clips instead.
+3. Ondan sonra, aynı yeteneklerle üretilen Seedance 2.0 istemlerini kullanarak sahneleri oluşturdum. İlk başta görüntüleri genişletmeyi denedim, ancak tamamen farklı bir sahne oluşturdu, bu yüzden sonunda iki ayrı klip olarak oluşturdum.
 
-GPT Image 2 Prompts For Storyboards:
+Storyboard için GPT Image 2 İstemleri:
 
-Create a 16:9 image.
+16:9 bir görüntü oluştur.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: CLOSE ENOUGH
-META LINE: deadpan / post-apocalyptic action comedy / restrained
-PRIORITY: Make the leftward shot, intact target building, near-ground miss, and dry final reaction instantly readable.
-MICRO BRIEF: Two seated friends test a bazooka against a distant ruined building; the rocket lands beside it and neither overreacts.
+[PROJE KARTI]
+Tablo değil, kompakt tasarlanmış bir masthead oluştur.
+BAŞLIK: CLOSE ENOUGH
+META SATIRI: ifadesiz / kıyamet sonrası aksiyon komedisi / kontrollü
+ÖNCELİK: Sola doğru atış, sağlam hedef bina, yere yakın ıskalama ve kuru final tepkisinin anında okunabilir olmasını sağla.
+KISA ÖZET: İki oturan arkadaş uzak bir yıkık binaya karşı bir bazuka test eder; roket yanına düşer ve ikisi de aşırı tepki vermez.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: BUILDING_BAZOOKA_MISS_01
-REFERENCE PRIORITY: @[characters] controls both characters' identity, faces, bodies, wardrobe, and proportions; this storyboard controls staging, motion, geography, bazooka state, and continuity.
+[SÜREKLİLİK BAŞLIĞI]
+SEKANS KİMLİĞİ: BUILDING_BAZOOKA_MISS_01
+REFERANS ÖNCELİĞİ: @[characters] her iki karakterin kimliğini, yüzlerini, vücutlarını, gardırobunu ve oranlarını kontrol eder; bu storyboard sahnelemeyi, hareketi, coğrafyayı, bazuka durumunu ve sürekliliği kontrol eder.
 
-[SCENE PACKET]
-PREMISE: C1 asks, "Can I hit it?" C2 replies, "I think you can." C1 shoulders one bazooka, fires toward a distant building at screen-left, misses into the ground beside it, then says, "I think I missed." C2 answers, "Yeah."
-LOCATION: Daylight on a broken concrete rooftop ledge above a ruined city; the seated pair occupy the right half, while one clearly readable target building and its adjacent open ground sit far screen-left.
-START -> END: C1 and C2 sit shoulder-to-shoulder facing left with the loaded bazooka resting between C1's knees -> the target building remains intact behind a compact dust plume beside it, then both remain seated in dry silence.
-ACTION CHAIN: casual question and reply -> bazooka lift and aim -> one leftward launch -> rocket drops short beside the building -> dust clears enough to prove the miss -> understated exchange.
-PROP / EFFECT STATE: Exactly one bazooka and one rocket; loaded at start, empty after firing; straight leftward exhaust trail; compact ground impact immediately screen-right of the target building; no building strike or collapse.
-MUST READ: Both characters always look screen-left. The rocket visibly misses the intact building and hits only the open ground beside it. Dialogue is audio context only; never draw speech bubbles, subtitles, captions, or dialogue inside panels.
+[SAHNE PAKETİ]
+ÖN BİLGİ: C1 sorar, "Vurabilir miyim?" C2 cevaplar, "Bence vurabilirsin." C1 bir bazukayı omzuna alır, ekranın solundaki uzak bir binaya doğru ateş eder, ıskalar ve yanındaki yere vurur, sonra der ki, "Sanırım ıskaladım." C2 cevaplar, "Evet."
+KONUM: Yıkık bir şehrin üzerindeki kırık beton çatı kenarında gün ışığı; oturan çift sağ yarıyı kaplar, net bir şekilde okunabilen hedef bina ve bitişiğindeki açık zemin ekranın uzak solunda yer alır.
+BAŞLANGIÇ -> BİTİŞ: C1 ve C2, dolu bazuka C1'in dizleri arasında olacak şekilde sola dönük omuz omuza otururlar -> hedef bina yanındaki kompakt toz bulutunun arkasında sağlam kalır, sonra ikisi de kuru bir sessizlik içinde oturmaya devam eder.
+EYLEM ZİNCİRİ: gündelik soru ve cevap -> bazukayı kaldırma ve nişan alma -> sola doğru bir fırlatma -> roket binanın yanına kısa düşer -> toz ıskalamayı kanıtlayacak kadar dağılır -> abartısız alışveriş.
+PROP / ETKİ DURUMU: Tam olarak bir bazuka ve bir roket; başlangıçta dolu, ateşledikten sonra boş; sola doğru düz egzoz izi; hedef binanın hemen sağında kompakt zemin etkisi; bina çarpması veya çökmesi yok.
+OKUNMASI GEREKENLER: Her iki karakter de her zaman ekranın soluna bakar. Roket sağlam binayı gözle görülür şekilde ıskalar ve sadece yanındaki açık zemine çarpar. Diyalog sadece ses bağlamıdır; panellerin içine asla konuşma balonları, altyazılar, başlıklar veya diyalog çizme.
 
-[CHARACTER SANITIZATION]
-C1: Blonde young woman from @[characters], seated screen-left of the pair, compact silhouette, same face and wardrobe, handling the single bazooka with controlled movements.
-C2: Skull-helmeted dark-haired young woman from @[characters], seated screen-right of the pair, same face and wardrobe, relaxed posture and minimal reaction.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[KARAKTER TEMİZLİĞİ]
+C1: @[characters]'ten sarışın genç kadın, çiftin ekran solunda oturuyor, kompakt siluet, aynı yüz ve gardırop, tek bazukayı kontrollü hareketlerle kullanıyor.
+C2: @[characters]'ten kuru kafa kasklı esmer genç kadın, çiftin ekran sağında oturuyor, aynı yüz ve gardırop, rahat duruş ve minimum tepki.
+Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detaylarını ve bir panelde görünemeyecek geçmiş hikayeleri kaldır.
 
-[IDENTITY CONSISTENCY]
-@[characters] controls face, body, hair, helmet, wardrobe, footwear, materials, and proportions; storyboard controls staging only. Keep C1 left of C2, preserve silhouettes and clothing, and do not redesign, merge, age-shift, or copy extra firearms from the reference. Show only the single story bazooka.
+[KİMLİK TUTARLILIĞI]
+@[characters] yüzü, vücudu, saçı, kaskı, gardırobu, ayakkabıları, malzemeleri ve oranları kontrol eder; storyboard sadece sahnelemeyi kontrol eder. C1'i C2'nin solunda tut, siluetleri ve kıyafetleri koru ve referanstan fazladan ateşli silahları yeniden tasarlama, birleştirme, yaş değiştirme veya kopyalama. Sadece tek hikaye bazukasını göster.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[STORYBOARD SAFLIĞI]
+Panel görüntüleri sadece görsel, düşük detaylı, monokrom, açık gri kaba eskizlerdir. Panel numaralarını, vuruş isimlerini ve lens etiketlerini her panel görüntüsünün dışındaki başlık şeridine koy. Panellerin içinde renk, etiket, ok, başlık, altyazı, logo, filigran, zamanlama işareti, diyagram, UI, hayalet pozlar, kopya vücutlar veya teknik kaplamalar yok.
 
-[MASTER SHOT RULE]
-P01 is a 24mm side-wide master showing C1 left of C2 on the rooftop, both facing left, the bazooka between C1's knees, the distant target building at far screen-left, and the open miss zone immediately screen-right of that building.
+[ANA ÇEKİM KURALI]
+P01, çatıdaki C1'i C2'nin solunda gösteren, her ikisi de sola dönük, bazuka C1'in dizleri arasında, uzak hedef bina ekranın uzak solunda ve açık ıskalama bölgesi o binanın hemen sağında olan 24mm'lik bir yan geniş ana çekimdir.
 
-[EMOTIONAL ARC]
-Loose stillness -> casual confidence -> controlled commitment -> brief explosive focus -> dry disappointment, shown through small head turns, steady shoulders, restrained recoil, and minimal final movement.
+[DUYGUSAL YAY]
+Gevşek durgunluk -> gündelik güven -> kontrollü bağlılık -> kısa patlayıcı odak -> kuru hayal kırıklığı, küçük kafa dönüşleri, sabit omuzlar, kontrollü geri tepme ve minimum final hareketi ile gösterilir.
 
-[STYLE LOCKS]
-STYLE LOCK: Clean monochrome editorial storyboard, thin graphite-gray lines, simplified readable anatomy, mostly white paper, sparse light-gray depth, restrained accent color only outside panel art.
-EFFECT LOCK: One narrow straight exhaust trail, small launch flash, compact pale dust plume at ground impact, minimal debris, no oversized fireball.
-ENVIRONMENT LOCK: Broken rooftop ledge, distant ruined skyline, fixed target-building silhouette, open ground beside it, stable horizon, clear daylight, sparse architectural contours.
+[STİL KİLİTLERİ]
+STİL KİLİDİ: Temiz monokrom editoryal storyboard, ince grafit gri çizgiler, basitleştirilmiş okunabilir anatomi, çoğunlukla beyaz kağıt, seyrek açık gri derinlik, sadece panel sanatının dışında kısıtlı vurgu rengi.
+ETKİ KİLİDİ: Bir dar düz egzoz izi, küçük fırlatma flaşı, zemin etkisinde kompakt soluk toz bulutu, minimum enkaz, aşırı büyük ateş topu yok.
+ÇEVRE KİLİDİ: Kırık çatı kenarı, uzak yıkık silüet, sabit hedef bina silueti, yanındaki açık zemin, sabit ufuk, net gün ışığı, seyrek mimari konturlar.
 
-[SPATIAL CONTINUITY LOCK]
-P01, P02, P03, and P05 preserve the same side-view axis and seating order: C1 left of C2, both facing screen-left. The target building remains far screen-left with the miss zone immediately to its screen-right. P04 is a telephoto view of those same distant anchors, not a redesigned location. Only pose, bazooka state, rocket position, dust, and camera distance may change; the building stays intact.
+[MEKANSAL SÜREKLİLİK KİLİDİ]
+P01, P02, P03 ve P05 aynı yan görünüm eksenini ve oturma sırasını korur: C1, C2'nin solunda, her ikisi de ekranın soluna dönük. Hedef bina, ıskalama bölgesi hemen sağında olacak şekilde ekranın uzak solunda kalır. P04, yeniden tasarlanmış bir konum değil, aynı uzak çapaların telefoto görünümüdür. Sadece poz, bazuka durumu, roket konumu, toz ve kamera mesafesi değişebilir; bina sağlam kalır.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 24mm wide / Rooftop master -> P02 / 50mm / Lift and aim -> P03 / 35mm side / Fire left -> P04 / telephoto / Miss beside building -> P05 / 50mm two-shot / Dry verdict
-CAMERA + LENS PLAN: P01 locked side-wide geography -> P02 closer side medium -> P03 side profile cut on action -> P04 telephoto target view -> P05 return to same-axis seated two-shot
-ACTION PATH: P01 ask and reply -> P02 C1 shoulders bazooka -> P03 one rocket exits left -> P04 rocket hits ground beside intact building -> P05 C1 lowers empty launcher, C2 barely turns
-RHYTHM TRACK: P01 RHY P01: hold / long block / held beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: impact / short block / clean beat -> P05 RHY P05: pause / long block / held beat
-ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L4 surge / spike -> P04 ESC P04: L3 rise / drop -> P05 ESC P05: L1 calm / release
-STATE TRACK: P01 loaded / seated / face left -> P02 loaded / shoulder aim -> P03 fired once / launcher empty -> P04 building intact / dust beside -> P05 empty launcher / seated / face left
-STYLE TRACK: P01 sparse graphite -> P02 clean contours -> P03 sharp motion line -> P04 pale dust shape -> P05 quiet white space
+[YÖNETMEN ŞERİDİ]
+Panel sütunlarına hizalanmış alt animatik iz panosu. İzler: VURUŞ HATTI, KAMERA YOLU, EYLEM YOLU, RİTİM İZİ, TIRMANIŞ HARİTASI, DURUM İZİ, STİL İZİ. Çekim çipleri, ince çizgiler, ritim blokları, küçük yoğunluk çubukları, bir-üç kelimelik etiketler kullan. Saniye veya zaman damgası yok.
+RİTİM İZİ formatı: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+TIRMANIŞ HARİTASI formatı: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL BAŞLIKLARI: P01 / 24mm geniş / Çatı ana -> P02 / 50mm / Kaldır ve nişan al -> P03 / 35mm yan / Sola ateş et -> P04 / telefoto / Binanın yanına ıskala -> P05 / 50mm iki çekim / Kuru karar
+KAMERA + LENS PLANI: P01 kilitli yan geniş coğrafya -> P02 daha yakın yan orta -> P03 eylemde yan profil kesimi -> P04 telefoto hedef görünümü -> P05 aynı eksenli oturan iki çekime dönüş
+EYLEM YOLU: P01 soru ve cevap -> P02 C1 bazukayı omzuna alır -> P03 bir roket sola çıkar -> P04 roket sağlam binanın yanındaki zemine çarpar -> P05 C1 boş fırlatıcıyı indirir, C2 zar zor döner
+RİTİM İZİ: P01 RHY P01: hold / long block / held beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: impact / short block / clean beat -> P05 RHY P05: pause / long block / held beat
+TIRMANIŞ HARİTASI: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L4 surge / spike -> P04 ESC P04: L3 rise / drop -> P05 ESC P05: L1 calm / release
+DURUM İZİ: P01 dolu / oturan / sola bak -> P02 dolu / omuz nişanı -> P03 bir kez ateşlendi / fırlatıcı boş -> P04 bina sağlam / yanında toz -> P05 boş fırlatıcı / oturan / sola bak
+STİL İZİ: P01 seyrek grafit -> P02 temiz konturlar -> P03 keskin hareket çizgisi -> P04 soluk toz şekli -> P05 sessiz beyaz alan
 
-[SEQUENCE]
-Grid: 5 panels in a clean 3-over-2 layout with generous gutters and outside header strips, moving from shared geography through launch and miss to the same seated axis for the final deadpan hold.
+[SEKANS]
+Izgara: Cömert boşluklar ve dış başlık şeritleri ile temiz bir 3-üzeri-2 düzeninde 5 panel, ortak coğrafyadan fırlatma ve ıskalamaya, final ifadesiz duruş için aynı oturan eksene geçiş.
 
-Create a 16:9 image.
+16:9 bir görüntü oluştur.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: THE HIVE WAKES
-META LINE: creature chase / post-apocalyptic comedy horror / accelerating
-PRIORITY: Hide the target building completely in P01, reveal its eruption in P02, then make the unified swarm pursuit, rightward escape, and storm-drain hiding place readable.
-MICRO BRIEF: The missed shot wakes hundreds of zombie bees, forcing two friends and their cat off the rooftop and into a dark drainage tunnel.
+[PROJE KARTI]
+Tablo değil, kompakt tasarlanmış bir masthead oluştur.
+BAŞLIK: THE HIVE WAKES
+META SATIRI: yaratık kovalamacası / kıyamet sonrası komedi korku / hızlanan
+ÖNCELİK: P01'de hedef binayı tamamen gizle, P02'de patlamasını ortaya çıkar, ardından birleşik sürü takibini, sağa doğru kaçışı ve fırtına kanalı saklanma yerini okunabilir hale getir.
+KISA ÖZET: Iskalayan atış yüzlerce zombi arıyı uyandırır, iki arkadaşı ve kedilerini çatıdan karanlık bir drenaj tüneline girmeye zorlar.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: BUILDING_BAZOOKA_MISS_02
-REFERENCE PRIORITY: Image A controls C1, C2, and their cat C3; Image B controls zombie bees C4; this storyboard controls staging, scale, swarm motion, pursuit geography, and continuity. This begins immediately after BUILDING_BAZOOKA_MISS_01.
+[SÜREKLİLİK BAŞLIĞI]
+SEKANS KİMLİĞİ: BUILDING_BAZOOKA_MISS_02
+REFERANS ÖNCELİĞİ: Görüntü A, C1, C2 ve kedileri C3'ü kontrol eder; Görüntü B, zombi arıları C4'ü kontrol eder; bu storyboard sahnelemeyi, ölçeği, sürü hareketini, takip coğrafyasını ve sürekliliği kontrol eder. Bu, BUILDING_BAZOOKA_MISS_01'den hemen sonra başlar.
 
-[SCENE PACKET]
-PREMISE: As C1, C2, and their cat C3 rest on the rooftop, hundreds of human-sized zombie bees fly from the hidden target building, merge into an airborne swarm, chase them to street level, and force all three into a storm-drain tunnel.
-LOCATION: Clear daylight across one ruined-city route: starting rooftop at screen-left, connected service roof and metal stairs toward screen-right, debris alley below, then a large round storm-drain opening in a cracked retaining wall at far right.
-START -> END: C1 and C2 sit with C3 beside them and the empty bazooka after the miss -> both crouch inside the dark drain with C3 held safely between them while the swarm searches outside.
-ACTION CHAIN: offscreen wing noise turns both heads and C3's ears left -> building reveal and swarm eruption -> close undead anatomy -> C1 drops the bazooka as C2 scoops up C3 -> both sprint right -> descend stairs -> cross alley -> enter drain -> pull grate and freeze.
-PROP / EFFECT STATE: Empty bazooka begins with C1 and is abandoned in P04; C3 is carried by C2 from P04 through P08 and ends unharmed; every bee is human-sized and continuously airborne from P02 onward; the flying swarm becomes one directional crowd-cloud; grate begins open and ends partly closed.
-MUST READ: P01 must not show any part of the target building; it first appears in P02. C3 is the single small black cat from Image A and must never disappear, duplicate, transform, or join the swarm. Hundreds of human-sized bees emerge and chase from left to right; C1, C2, and C3 enter the drain unseen.
+[SAHNE PAKETİ]
+ÖN BİLGİ: C1, C2 ve kedileri C3 çatıda dinlenirken, yüzlerce insan boyutunda zombi arı gizli hedef binadan uçar, havada bir sürüye dönüşür, onları sokak seviyesine kadar kovalar ve üçünü de bir fırtına kanalı tüneline girmeye zorlar.
+KONUM: Yıkık bir şehir rotasında net gün ışığı: ekranın solunda başlangıç çatısı, sağa doğru bağlı servis çatısı ve metal merdivenler, aşağıda enkaz sokağı, sonra uzak sağda çatlak bir istinat duvarında büyük yuvarlak bir fırtına kanalı açıklığı.
+BAŞLANGIÇ -> BİTİŞ: C1 ve C2, ıskalamadan sonra boş bazuka ve yanlarında C3 ile otururlar -> ikisi de karanlık drenajın içinde, C3'ü güvenli bir şekilde aralarında tutarken sürü dışarıda arama yapar.
+EYLEM ZİNCİRİ: ekran dışı kanat sesi her iki kafayı ve C3'ün kulaklarını sola çevirir -> bina ortaya çıkışı ve sürü patlaması -> yakın ölü anatomi -> C1 bazukayı düşürürken C2 C3'ü kucaklar -> ikisi de sağa koşar -> merdivenlerden iner -> sokağı geçer -> drenaja girer -> ızgarayı çeker ve donar.
+PROP / ETKİ DURUMU: Boş bazuka C1 ile başlar ve P04'te terk edilir; C3, P04'ten P08'e kadar C2 tarafından taşınır ve zarar görmeden biter; her arı insan boyutundadır ve P02'den itibaren sürekli havadadır; uçan sürü tek yönlü bir kalabalık bulutu haline gelir; ızgara açık başlar ve kısmen kapalı biter.
+OKUNMASI GEREKENLER: P01 hedef binanın hiçbir kısmını göstermemelidir; ilk olarak P02'de görünür. C3, Görüntü A'daki tek küçük siyah kedidir ve asla kaybolmamalı, çoğalmamalı, dönüşmemeli veya sürüye katılmamalıdır. Yüzlerce insan boyutunda arı ortaya çıkar ve soldan sağa kovalar; C1, C2 ve C3 drenaja görünmeden girer.
 
-[CHARACTER SANITIZATION]
-C1: Blonde young woman from Image A, same compact silhouette, face, wardrobe, and footwear; quick forward lean, drops the empty bazooka, then runs screen-right.
-C2: Skull-helmeted dark-haired young woman from Image A, same face, wardrobe, and proportions; reacts first, scoops C3 under one arm, and leads toward the drain.
-C3: The single small black cat from Image A; pointed ears, yellow eyes, simple dark silhouette; sits beside the pair, then remains securely carried by C2 until safe inside the drain.
-C4: Human-sized flying zombie bee species from Image B, each roughly as tall as C1 and C2; corpse-pale round head, huge tired eyes, dark ragged thorax cloth, thin bandaged limbs, torn translucent wings, antennae; render hundreds continuously flying with legs hanging below.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[KARAKTER TEMİZLİĞİ]
+C1: Görüntü A'dan sarışın genç kadın, aynı kompakt siluet, yüz, gardırop ve ayakkabı; hızlı ileri eğilme, boş bazukayı düşürür, sonra ekran sağına koşar.
+C2: Görüntü A'dan kuru kafa kasklı esmer genç kadın, aynı yüz, gardırop ve oranlar; önce tepki verir, C3'ü bir kolunun altına alır ve drenaja doğru yönlendirir.
+C3: Görüntü A'dan tek küçük siyah kedi; sivri kulaklar, sarı gözler, basit karanlık siluet; çiftin yanında oturur, sonra drenajın içinde güvende olana kadar C2 tarafından güvenli bir şekilde taşınmaya devam eder.
+C4: Görüntü B'den insan boyutunda uçan zombi arı türü, her biri kabaca C1 ve C2 boyunda; ceset solgunluğunda yuvarlak kafa, kocaman yorgun gözler, koyu yırtık göğüs kumaşı, ince bandajlı uzuvlar, yırtık yarı saydam kanatlar, antenler; yüzlercesini bacakları aşağıda sallanarak sürekli uçarken işle.
+Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detaylarını ve bir panelde görünemeyecek geçmiş hikayeleri kaldır.
 
-[IDENTITY CONSISTENCY]
-Image A controls C1, C2, and C3 identity and appearance. Image B controls every C4 bee's anatomy. All C4 bees fly by beating their wings; never show them running, walking, crawling, standing, or pursuing on the ground. Keep exactly one cat near or carried by C2. Do not retain the bazooka after P04.
+[KİMLİK TUTARLILIĞI]
+Görüntü A, C1, C2 ve C3 kimliğini ve görünümünü kontrol eder. Görüntü B, her C4 arısının anatomisini kontrol eder. Tüm C4 arıları kanatlarını çırparak uçar; onları asla koşarken, yürürken, sürünürken, ayakta dururken veya yerde kovalarken gösterme. C2'nin yanında veya kucağında tam olarak bir kedi tut. Bazukayı P04'ten sonra tutma.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate character bodies, or technical overlays inside panels.
+[STORYBOARD SAFLIĞI]
+Panel görüntüleri sadece görsel, düşük detaylı, monokrom, açık gri kaba eskizlerdir. Panel numaralarını, vuruş isimlerini ve lens etiketlerini her panel görüntüsünün dışındaki başlık şeridine koy. Panellerin içinde renk, etiket, ok, başlık, altyazı, logo, filigran, zamanlama işareti, diyagram, UI, hayalet pozlar, kopya karakter vücutları veya teknik kaplamalar yok.
 
-[MASTER SHOT RULE]
-P01 is a 35mm rooftop group shot framing seated C1, C2, C3 beside them, and the escape route on screen-right. The target building lies beyond the left frame edge and is invisible. P02 first reveals the building, broken windows, swarm origin, and rooftop gap.
+[ANA ÇEKİM KURALI]
+P01, oturan C1, C2, yanlarındaki C3 ve ekranın sağındaki kaçış rotasını çerçeveleyen 35mm'lik bir çatı grup çekimidir. Hedef bina sol çerçeve kenarının ötesinde yatar ve görünmezdir. P02 ilk olarak binayı, kırık pencereleri, sürü kökenini ve çatı boşluğunu ortaya çıkarır.
 
-[EMOTIONAL ARC]
-Dry stillness -> uneasy attention -> instant recognition -> full sprint -> compressed panic -> desperate entry -> breath-held concealment, shown through eye-lines, forward lean, widening spacing, fast foot placement, lowered heads, and final rigid crouches.
+[DUYGUSAL YAY]
+Kuru durgunluk -> huzursuz dikkat -> anında tanıma -> tam sprint -> sıkışmış panik -> çaresiz giriş -> nefes tutulan gizlenme, göz hatları, ileri eğilme, genişleyen boşluk, hızlı ayak yerleşimi, düşük başlar ve final sert çökmeler ile gösterilir.
 
-[STYLE LOCKS]
-STYLE LOCK: Clean monochrome editorial storyboard, thin graphite-gray contours, simplified readable anatomy, mostly white paper, sparse light-gray depth, restrained accent color only outside panel art.
-EFFECT LOCK: Swarm reads as hundreds of overlapping human-sized airborne figures, wings visibly beating, legs suspended, with a soft graphite crowd edge and clear leading front. P03 shows three sharp flying bees with many airborne figures behind. No grounded pursuit, smoke transformation, or solid black mass.
-ENVIRONMENT LOCK: Preserve the starting rooftop. Keep the target building fully offscreen in P01; reveal and preserve its silhouette only from P02 onward. Maintain the rightward route through service roof, metal stairs, debris alley, retaining wall, circular drain, grate, and dark tunnel.
+[STİL KİLİTLERİ]
+STİL KİLİDİ: Temiz monokrom editoryal storyboard, ince grafit gri konturlar, basitleştirilmiş okunabilir anatomi, çoğunlukla beyaz kağıt, seyrek açık gri derinlik, sadece panel sanatının dışında kısıtlı vurgu rengi.
+ETKİ KİLİDİ: Sürü, yüzlerce üst üste binen insan boyutunda uçan figür, kanatları gözle görülür şekilde çırpan, bacakları asılı, yumuşak grafit kalabalık kenarı ve net önde gelen ön kısım olarak okunur. P03, arkasında birçok uçan figür ile üç keskin uçan arı gösterir. Yerde takip, duman dönüşümü veya katı siyah kütle yok.
+ÇEVRE KİLİDİ: Başlangıç çatısını koru. Hedef binayı P01'de tamamen ekran dışı tut; siluetini sadece P02'den itibaren ortaya çıkar ve koru. Servis çatısı, metal merdivenler, enkaz sokağı, istinat duvarı, dairesel drenaj, ızgara ve karanlık tünel boyunca sağa doğru rotayı koru.
 
-[SPATIAL CONTINUITY LOCK]
-P01 faces C1, C2, C3, and the rightward escape route, cropping the building beyond the left edge. P02-P03 reverse to the threat. P04 returns as C2 lifts C3; C3 stays under C2's arm through P05-P08. P06 continues down the same stairs. P07-P09 preserve the alley wall and drain; P09 shows C3 safely between both girls inside.
+[MEKANSAL SÜREKLİLİK KİLİDİ]
+P01, C1, C2, C3 ve sağa doğru kaçış rotasına bakar, binayı sol kenarın ötesinde kırpar. P02-P03 tehdide geri döner. P04, C2 C3'ü kaldırdığında geri döner; C3, P05-P08 boyunca C2'nin kolu altında kalır. P06 aynı merdivenlerden aşağı devam eder. P07-P09 sokak duvarını ve drenajı korur; P09, C3'ü içeride her iki kızın arasında güvenli bir şekilde gösterir.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 35mm two-shot / Offscreen buzz -> P02 / telephoto reverse / Hive eruption -> P03 / 85mm close / Undead faces -> P04 / 35mm / Drop and run -> P05 / 24mm side / Rooftop pursuit -> P06 / 28mm high angle / Stair descent -> P07 / 35mm track / Alley sprint -> P08 / 24mm low wide / Drain dive -> P09 / 50mm interior / Hold breath
-CAMERA + LENS PLAN: P01 locked two-shot facing away from hidden building -> P02 reverse telephoto reveal -> P03 threat close-up -> P04 reaction medium -> P05 fast side track -> P06 high-angle continuation -> P07 low side track -> P08 low wide crash-in -> P09 locked interior hold
-ACTION PATH: P01 buzz turns heads and C3's ears -> P02 bees fly from windows -> P03 flying leaders fill frame -> P04 swarm crosses gap in air as C2 scoops C3 -> P05 airborne chase over roof -> P06 swarm flies down stairwell -> P07 swarm dives through alley -> P08 all enter, pull grate -> P09 bees hover outside
-RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / held beat -> P02 RHY P02: burst / short block / smash beat -> P03 RHY P03: impact / short block / held beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: build / medium block / match beat -> P06 RHY P06: burst / short block / whip beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / long block / held beat
-ESCALATION MAP: P01 ESC P01: L2 tension / rise -> P02 ESC P02: L4 surge / spike -> P03 ESC P03: L5 peak / rise -> P04 ESC P04: L5 peak / unresolved -> P05 ESC P05: L5 peak / unresolved -> P06 ESC P06: L5 peak / unresolved -> P07 ESC P07: L5 peak / unresolved -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L3 rise / drop
-STATE TRACK: P01 seated / C3 beside pair / threat offscreen -> P02-P09 C4 swarm continuously airborne -> P04 launcher abandoned / C3 carried -> P05-P08 C3 under C2's arm -> P09 all three hidden / C3 safe / flying swarm outside
-STYLE TRACK: P01 sparse unease -> P02 broken silhouettes -> P03 sharp undead detail -> P04 sharp gesture -> P05 streaked graphite -> P06 angular descent -> P07 debris motion -> P08 dark threshold -> P09 quiet gray shadow
+[YÖNETMEN ŞERİDİ]
+Panel sütunlarına hizalanmış alt animatik iz panosu. İzler: VURUŞ HATTI, KAMERA YOLU, EYLEM YOLU, RİTİM İZİ, TIRMANIŞ HARİTASI, DURUM İZİ, STİL İZİ. Çekim çipleri, ince çizgiler, ritim blokları, küçük yoğunluk çubukları, bir-üç kelimelik etiketler kullan. Saniye veya zaman damgası yok.
+RİTİM İZİ formatı: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+TIRMANIŞ HARİTASI formatı: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL BAŞLIKLARI: P01 / 35mm iki çekim / Ekran dışı vızıltı -> P02 / telefoto ters / Kovan patlaması -> P03 / 85mm yakın / Ölü yüzler -> P04 / 35mm / Bırak ve koş -> P05 / 24mm yan / Çatı takibi -> P06 / 28mm yüksek açı / Merdiven inişi -> P07 / 35mm iz / Sokak sprinti -> P08 / 24mm düşük geniş / Drenaj dalışı -> P09 / 50mm iç / Nefesini tut
+KAMERA + LENS PLANI: P01 gizli binadan uzağa bakan kilitli iki çekim -> P02 telefoto ters ortaya çıkarma -> P03 tehdit yakın çekimi -> P04 tepki orta -> P05 hızlı yan iz -> P06 yüksek açılı devam -> P07 düşük yan iz -> P08 düşük geniş çarpışma -> P09 kilitli iç tutuş
+EYLEM YOLU: P01 vızıltı kafaları ve C3'ün kulaklarını çevirir -> P02 arılar pencerelerden uçar -> P03 uçan liderler çerçeveyi doldurur -> P04 sürü havada boşluğu geçerken C2 C3'ü kucaklar -> P05 çatı üzerinde hava takibi -> P06 sürü merdiven boşluğundan aşağı uçar -> P07 sürü sokaktan dalar -> P08 hepsi girer, ızgarayı çeker -> P09 arılar dışarıda süzülür
+RİTİM İZİ: P01 RHY P01: slow reveal / medium block / held beat -> P02 RHY P02: burst / short block / smash beat -> P03 RHY P03: impact / short block / held beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: build / medium block / match beat -> P06 RHY P06: burst / short block / whip beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / long block / held beat
+TIRMANIŞ HARİTASI: P01 ESC P01: L2 tension / rise -> P02 ESC P02: L4 surge / spike -> P03 ESC P03: L5 peak / rise -> P04 ESC P04: L5 peak / unresolved -> P05 ESC P05: L5 peak / unresolved -> P06 ESC P06: L5 peak / unresolved -> P07 ESC P07: L5 peak / unresolved -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L3 rise / drop
+DURUM İZİ: P01 oturan / C3 çiftin yanında / tehdit ekran dışı -> P02-P09 C4 sürü sürekli havada -> P04 fırlatıcı terk edildi / C3 taşınıyor -> P05-P08 C3 C2'nin kolu altında -> P09 üçü de gizli / C3 güvende / uçan sürü dışarıda
+STİL İZİ: P01 seyrek huzursuzluk -> P02 kırık siluetler -> P03 keskin ölü detay -> P04 keskin jest -> P05 çizgili grafit -> P06 açılı iniş -> P07 enkaz hareketi -> P08 karanlık eşik -> P09 sessiz gri gölge
 
-[SEQUENCE]
-Grid: 9 panels in a clean 3x3 layout with outside header strips; P01 hides the target building, P02 reveals it, P03 gives the zombie-bee close-up, then the board follows the rightward chase to concealment.
+[SEKANS]
+Izgara: Dış başlık şeritleri ile temiz bir 3x3 düzeninde 9 panel; P01 hedef binayı gizler, P02 ortaya çıkarır, P03 zombi-arı yakın çekimini verir, sonra tahta sağa doğru kovalamacayı gizlenmeye kadar takip eder.
 ```
 
 **🎬 Video istemi**
 
 ```
-First Part:
-Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[characters ref] as the authoritative character reference for C1 and C2; preserve their faces, bodies, hair, skull helmet, wardrobe, proportions, materials, and likeness, while using only the single story bazooka.
+Birinci Kısım:
+Sekans için yönetmen onaylı yetkili storyboard planı olarak @[storyboard ref]'i kullan. Her storyboard panelini tek bir sinematik sekans içindeki ardışık bir çekim olarak ele al. Panel sırasını tam olarak takip et ve alternatif kapsam icat etme. Storyboard sayfasının kendisini oluşturma. Kamera yerleşimini, çerçevelemeyi, lens niyetini, çekim ölçeğini, karakter sahnelemesini, ekran yönünü, çevre coğrafyasını, prop yerleşimini, eylem koreografisini, sürekliliği ve storyboard tarafından gösterilen duygusal tırmanışı koru. Storyboard, görsel hikaye anlatımı için birincil gerçeklik kaynağıdır. Fiziksel storyboard sanat eseri yerine panellerin ima ettiği çekilmiş sekansı yeniden oluştur.
+C1 ve C2 için yetkili karakter referansı olarak @[characters ref]'i kullan; sadece tek hikaye bazukasını kullanırken yüzlerini, vücutlarını, saçlarını, kuru kafa kasklarını, gardıroplarını, oranlarını, malzemelerini ve benzerliklerini koru.
 
-ENVIRONMENT: Daylight on a broken rooftop above a ruined city. C1 sits left of C2, both facing screen-left. A damaged but standing target building sits far left; open ground immediately screen-right of it is the fixed miss zone. Preserve ledge, skyline, building silhouette, horizon, light, and side-view axis.
-EMOTIONAL GUIDANCE: Valence: relaxed confidence -> mild disappointment -> dry acceptance. Arousal: stillness -> controlled lift -> sharp launch -> brief impact -> quiet release. Use small head turns, restrained recoil, steady seated posture, and a long understated final hold.
-VISUAL STYLE: Polished cinematic anime matching @[characters], crisp linework, bright cel shading, tactile concrete, restrained depth, stable character detail, coherent rocket motion, compact dust, and deadpan timing.
-AUDIO: No background music or score. Use only rooftop wind, distant city ambience, cloth and metal handling, a mechanical click, launch blast, fading rocket hiss, remote ground impact, falling grit, and silence. Dialogue exactly: C1: "Can I hit it?" C2: "I think you can." Later C1: "I think I missed." C2, dry: "Yeah." No subtitles or on-screen text.
+ÇEVRE: Yıkık bir şehrin üzerinde bir çatı kenarında gün ışığı. C1, C2'nin solunda oturur, her ikisi de ekranın soluna dönük. Hasarlı ama ayakta duran bir hedef bina uzak solda; hemen sağındaki açık zemin sabit ıskalama bölgesidir. Çıkıntıyı, silüeti, bina siluetini, ufku, ışığı ve yan görünüm eksenini koru.
+DUYGUSAL REHBERLİK: Değer: rahat güven -> hafif hayal kırıklığı -> kuru kabul. Uyarılma: durgunluk -> kontrollü kaldırma -> keskin fırlatma -> kısa etki -> sessiz bırakma. Küçük kafa dönüşleri, kontrollü geri tepme, sabit oturan duruş ve uzun abartısız bir final tutuşu kullan.
+STİL: @[characters] ile eşleşen cilalı sinematik anime, net çizgi çalışması, parlak cel gölgeleme, dokunsal beton, kısıtlı derinlik, sabit karakter detayı, tutarlı roket hareketi, kompakt toz ve ifadesiz zamanlama.
+SES: Arka plan müziği veya skor yok. Sadece çatı rüzgarı, uzak şehir ortamı, kumaş ve metal kullanımı, mekanik bir tıklama, fırlatma patlaması, sönen roket tıslaması, uzak zemin etkisi, düşen kum ve sessizlik kullan. Diyalog tam olarak: C1: "Vurabilir miyim?" C2: "Bence vurabilirsin." Daha sonra C1: "Sanırım ıskaladım." C2, kuru: "Evet." Altyazı veya ekran metni yok.
 
-PANEL BEATS:
-P01: Locked 24mm side-wide master. C1 sits left of C2, shoulder-to-shoulder facing screen-left, with one loaded bazooka between C1's knees. The distant target building and adjacent open miss zone are readable at far left. C1 asks, "Can I hit it?" C2 replies, "I think you can," without changing her relaxed pose. SFX: wind, distant city.
-P02: 50mm side medium. C1 lifts the single bazooka onto her shoulder and aims at the target building; C2 remains seated, eyes left. No duplicate weapon or rocket. SFX: metal handling, cloth shift, click.
-P03: 35mm side profile. C1 fires exactly one rocket straight screen-left. A short straight exhaust trail follows it; recoil moves C1's shoulder back and C2 gives one small flinch. The launcher is now empty. SFX: hard launch, hiss traveling left.
-P04: Telephoto view of the fixed target geography. The same rocket drops short and strikes only the open ground immediately screen-right of the building. A compact dust plume rises while the building remains fully standing and visibly untouched. SFX: distant impact, grit.
-P05: Return to the same seated side axis in a 50mm two-shot. C1 lowers the empty launcher slightly, watches the dust beside the intact building, and says, "Close enough." C2 barely turns her eyes and answers, "Yeah." Hold on their still posture. SFX: wind, settling debris, silence.
+PANEL VURUŞLARI:
+P01: Kilitli 24mm yan geniş ana. C1, C2'nin solunda, omuz omuza ekranın soluna dönük oturur, C1'in dizleri arasında dolu bir bazuka vardır. Uzak hedef bina ve bitişik açık ıskalama bölgesi uzak solda okunabilir. C1 sorar, "Vurabilir miyim?" C2 cevaplar, "Bence vurabilirsin," rahat pozunu değiştirmeden. SFX: rüzgar, uzak şehir.
+P02: 50mm yan orta. C1 tek bazukayı omzuna kaldırır ve hedef binaya nişan alır; C2 oturmaya devam eder, gözler solda. Çift silah veya roket yok. SFX: metal kullanımı, kumaş değişimi, tıklama.
+P03: 35mm yan profil. C1 tam olarak bir roketi düz ekranın soluna ateşler. Kısa düz bir egzoz izi onu takip eder; geri tepme C1'in omzunu geriye iter ve C2 küçük bir irkilme yapar. Fırlatıcı artık boş. SFX: sert fırlatma, sola doğru tıslama.
+P04: Sabit hedef coğrafyanın telefoto görünümü. Aynı roket kısa düşer ve sadece binanın hemen sağındaki açık zemine çarpar. Kompakt bir toz bulutu yükselirken bina tamamen ayakta ve gözle görülür şekilde dokunulmamış kalır. SFX: uzak etki, kum.
+P05: 50mm iki çekimde aynı oturan yan eksene dönüş. C1 boş fırlatıcıyı hafifçe indirir, sağlam binanın yanındaki tozu izler ve der ki, "Close enough." C2 zar zor gözlerini çevirir ve cevaplar, "Evet." Sabit duruşlarında tut. SFX: rüzgar, yerleşen enkaz, sessizlik.
 
 ----
 
-Second Part:
-Use @[storyboard2 ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[characters ref] as the authoritative C1, C2, and single black cat C3 reference, and @[zombee ref] as the human-sized zombie-bee C4 reference.
+İkinci Kısım:
+Sekans için yönetmen onaylı yetkili storyboard planı olarak @[storyboard2 ref]'i kullan. Her storyboard panelini tek bir sinematik sekans içindeki ardışık bir çekim olarak ele al. Panel sırasını tam olarak takip et ve alternatif kapsam icat etme. Storyboard sayfasının kendisini oluşturma. Kamera yerleşimini, çerçevelemeyi, lens niyetini, çekim ölçeğini, karakter sahnelemesini, ekran yönünü, çevre coğrafyasını, prop yerleşimini, eylem koreografisini, sürekliliği ve storyboard tarafından gösterilen duygusal tırmanışı koru. Storyboard, görsel hikaye anlatımı için birincil gerçeklik kaynağıdır. Fiziksel storyboard sanat eseri yerine panellerin ima ettiği çekilmiş sekansı yeniden oluştur.
+Yetkili C1, C2 ve tek siyah kedi C3 referansı olarak @[characters ref]'i ve insan boyutunda zombi arı C4 referansı olarak @[zombee ref]'i kullan.
 
-ENVIRONMENT: Continue after the daylight bazooka miss. In P01 the target building is completely outside the left frame and invisible; P02 reveals it for the first time. A rooftop route, stairs, alley, and round storm drain extend right. The swarm pursues left to right. The drain is dark with daylight at its grate.
-EMOTIONAL GUIDANCE: Valence: dry calm -> alarm -> relief. Arousal: stillness -> eruption -> sustained peak -> held breath. Keep C3 close to C2 throughout the escape.
-VISUAL STYLE: Polished cinematic anime matching @[characters], crisp cel shading, tactile ruins, and hundreds of human-sized undead bees matching @[zombee] flying continuously with beating wings and suspended legs. Never show bees running, walking, crawling, or grounded in pursuit.
-AUDIO: No background music or score. Use wind, distant city, first wing scratches, a rapidly multiplying diseased buzz, window debris, dropped metal, running feet, rattling stairs, swarm rush, grate scrape, tunnel drips, muffled buzzing, and silence. No dialogue, subtitles, or on-screen text.
+ÇEVRE: Gün ışığında bazuka ıskalamasından sonra devam et. P01'de hedef bina sol çerçevenin tamamen dışındadır ve görünmezdir; P02 onu ilk kez ortaya çıkarır. Bir çatı rotası, merdivenler, sokak ve yuvarlak fırtına kanalı sağa doğru uzanır. Sürü soldan sağa kovalar. Drenaj karanlıktır, ızgarasında gün ışığı vardır.
+DUYGUSAL REHBERLİK: Değer: kuru sakinlik -> alarm -> rahatlama. Uyarılma: durgunluk -> patlama -> sürekli zirve -> tutulan nefes. Kaçış boyunca C3'ü C2'ye yakın tut.
+STİL: @[characters] ile eşleşen cilalı sinematik anime, net cel gölgeleme, dokunsal kalıntılar ve @[zombee] ile eşleşen, çırpan kanatlar ve asılı bacaklarla sürekli uçan yüzlerce insan boyutunda ölü arı. Asla koşan, yürüyen, sürünen veya takipte yerde olan arılar gösterme.
+SES: Arka plan müziği veya skor yok. Rüzgar, uzak şehir, ilk kanat çizikleri, hızla çoğalan hastalıklı bir vızıltı, pencere enkazı, düşen metal, koşan ayaklar, tıkırdayan merdivenler, sürü hücumu, ızgara kazıma, tünel damlaları, boğuk vızıltı ve sessizlik kullan. Diyalog, altyazı veya ekran metni yok.
 
-PANEL BEATS:
-P01: Locked 35mm rooftop group shot. C3, the single black cat from @[characters], sits beside C1 and C2. The target building is fully beyond the left edge and invisible. Offscreen wings turn both heads and C3's ears left. SFX: scratching wings.
-P02: Reverse telephoto reveal. The building first appears as hundreds of human-sized zombie bees fly from its windows on beating wings and surge right. SFX: explosive buzz, glass.
-P03: 85mm threat close-up. Three flying leaders fill frame: corpse-pale faces, huge dead eyes, antennae, ragged cloth, bandaged limbs, and torn wings match @[zombee]; hundreds remain behind. Each is human-sized, not insect-sized or kaiju-sized. SFX: diseased wing buzz.
-P04: 35mm medium. C1 drops the bazooka as C2 scoops C3; both run while the airborne swarm flies across the rooftop gap. SFX: clatter, wing roar.
-P05: Fast 24mm side track. They sprint right with C3 secure; the swarm flies above the roof behind them. SFX: boots, buzz.
-P06: High-angle 28mm. They race down metal stairs as the swarm flies downward through the open stairwell. SFX: stair rattle, wings.
-P07: Low 35mm alley track. All three race toward the drain while the flying swarm dives through the alley air behind. SFX: footfalls, rubble.
-P08: Low 24mm wide. C2 enters carrying C3, C1 follows, and they pull the grate partly shut. SFX: scrape, rushing buzz.
-P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hover and search outside without seeing them. SFX: drips, muffled buzz, silence.
+PANEL VURUŞLARI:
+P01: Kilitli 35mm çatı grup çekimi. @[characters]'ten tek siyah kedi C3, C1 ve C2'nin yanında oturur. Hedef bina sol kenarın tamamen ötesindedir ve görünmezdir. Ekran dışı kanatlar her iki kafayı ve C3'ün kulaklarını sola çevirir. SFX: kanat kazıma.
+P02: Ters telefoto ortaya çıkarma. Bina, yüzlerce insan boyutunda zombi arı pencerelerden çırpan kanatlarla uçup sağa doğru hücum ettiğinde ilk kez görünür. SFX: patlayıcı vızıltı, cam.
+P03: 85mm tehdit yakın çekimi. Üç uçan lider çerçeveyi doldurur: ceset solgunluğunda yüzler, kocaman ölü gözler, antenler, yırtık kumaş, bandajlı uzuvlar ve yırtık kanatlar @[zombee] ile eşleşir; yüzlercesi arkada kalır. Her biri insan boyutundadır, böcek boyutunda veya kaiju boyutunda değildir. SFX: hastalıklı kanat vızıltısı.
+P04: 35mm orta. C1 bazukayı düşürürken C2 C3'ü kucaklar; ikisi de koşarken uçan sürü çatı boşluğundan geçer. SFX: şakırtı, kanat kükremesi.
+P05: Hızlı 24mm yan iz. C3 güvende olarak sağa sprint yaparlar; sürü arkalarındaki çatının üzerinde uçar. SFX: botlar, vızıltı.
+P06: Yüksek açı 28mm. Sürü açık merdiven boşluğundan aşağı uçarken metal merdivenlerden aşağı yarışırlar. SFX: merdiven tıkırtısı, kanatlar.
+P07: Düşük 35mm sokak izi. Uçan sürü arkalarındaki sokak havasından dalarken üçü de drenaja doğru yarışır. SFX: ayak sesleri, enkaz.
+P08: Düşük 24mm geniş. C2 C3'ü taşıyarak girer, C1 takip eder ve ızgarayı kısmen kapatırlar. SFX: kazıma, acele vızıltı.
+P09: Kilitli 50mm iç. C1 ve C2 C3'ü aralarında güvenli bir şekilde tutarak çömelirler; arılar onları görmeden dışarıda süzülür ve arar. SFX: damlalar, boğuk vızıltı, sessizlik.
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
@@ -1097,19 +1096,19 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 12. 精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们…
+### 12. Anubis ve Sobek'in Rekabetçi Mücadelesi
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065932892753326503_0_poster.jpg" width="480" alt="精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065932892753326503_0_poster.jpg" width="480" alt="Anubis ve Sobek'in Rekabetçi Mücadelesi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们神情紧绷，全神贯注地努力保持巨石在头顶上方。一位人类法老缓缓走在他们面前，双手背在身后，注视着他们，观察着谁能将巨石举得更久。法老说道：“你们之中只有一人能陪我执行下一个任务，只有最强者。”阿努比斯和索贝克相距一米，法老站在他们面前。场景二：索贝克突然灵光一闪，脸上浮现出一丝狡黠的笑容。他微微侧头看向阿努比斯，脸上带着一丝狡黠的微笑，尾巴尖伸向阿努比斯的腋窝。阿努比斯依然目视前方，全然不顾周围的一切，一心只想举起头顶的巨石。场景3：特写镜头展现索贝克的尾巴尖轻柔地、流畅地拂过阿努比斯的腋窝，背景中传来阿努比斯压抑的笑声，表明他非常怕痒。场景4：特写镜头展现阿努比斯的上半身，索贝克的尾巴尖持续轻柔地拂过阿努比斯的腋窝，阿努比斯闭着眼睛，咧嘴大笑，发出压抑的笑声，竭尽全力地举起头顶的巨石。场景5：索贝克的尾巴尖继续挠着阿努比斯的腋窝，阿努比斯闭着眼睛，发出响亮的笑声。腋下挠痒痒的戏码还在继续，阿努比斯哈哈大笑，然后扔掉身后的巨石，抱紧自己，挠痒痒的感觉就此消失。阿努比斯跌倒在地，仍然因为刚才的笑声而捧腹大笑，抱紧自己。索贝克头顶还举着巨石，满意地看着这一切。场景6：人类法老向索贝克点点头，说道：“看来你就是那个人。”此时阿努比斯还躺在地上，因为刚才的笑声而咯咯地笑着。索贝克和阿努比斯都肌肉发达。他们都戴着臂环。阿努比斯还戴着颈环。他们的声音都浑厚有力。语音为英文。
+Detaylı el çizimi animasyon, 80'ler retro OVA tarzı. Sahne 1: Mısır kraliyet sarayının içinde, güçlü çakal tanrı Anubis ve güçlü timsah tanrı Sobek yan yana duruyor ve birlikte dev bir taşı kaldırıyorlar. Gergin bir şekilde, taşı başlarının üzerinde tutmaya odaklanmış durumdalar. İnsan bir Firavun, elleri arkasında, kimin taşı daha uzun süre tutabileceğini gözlemleyerek önlerinde yavaşça yürüyor. Firavun şöyle diyor: 'Sizden sadece biri bir sonraki görevde bana eşlik edebilir, sadece en güçlü olan.' Anubis ve Sobek bir metre arayla duruyor, Firavun önlerinde. Sahne 2: Sobek'in aklına aniden bir fikir gelir, yüzünde kurnaz bir gülümseme belirir. Hafifçe başını Anubis'e doğru çevirir, yüzünde muzip bir gülümseme vardır ve kuyruğunun ucu Anubis'in koltuk altına doğru uzanır. Anubis, çevresindeki her şeyi görmezden gelerek, sadece başının üzerindeki taşı tutmaya odaklanmış bir şekilde ileriye bakmaya devam eder. Sahne 3: Yakın çekim, Sobek'in kuyruğunun ucunun Anubis'in koltuk altına yumuşak ve akıcı bir şekilde dokunduğunu gösterir; arka planda Anubis'in bastırılmış kahkahaları duyulur, bu da onun gıdıklanmaya karşı çok hassas olduğunu gösterir. Sahne 4: Anubis'in üst gövdesinin yakın çekimi; Sobek'in kuyruğunun ucu Anubis'in koltuk altına hafifçe dokunmaya devam eder, Anubis gözlerini kapatmış, sırıtarak gülmekte ve bastırılmış kahkahalar atarak taşı tutmak için elinden geleni yapmaktadır. Sahne 5: Sobek'in kuyruğunun ucu Anubis'in koltuk altını gıdıklamaya devam eder, Anubis gözlerini kapatmış yüksek sesle gülmektedir. Gıdıklama sahnesi devam eder, Anubis kahkahalar atar, taşı arkasına bırakır, kendine sarılır ve gıdıklanma hissi sona erer. Anubis yere düşer, hala az önceki kahkahalar yüzünden karnını tutarak gülmektedir. Sobek hala taşı başının üzerinde tutmakta ve her şeyi memnuniyetle izlemektedir. Sahne 6: İnsan Firavun Sobek'e başıyla onay verir ve 'Görünüşe göre o kişi sensin' der. Bu sırada Anubis hala yerde, az önceki kahkahalar yüzünden kıkırdamaktadır. Sobek ve Anubis kaslıdır. İkisi de kol bandı takmaktadır. Anubis ayrıca bir boyun bandı takmaktadır. Sesleri derin ve güçlüdür. Seslendirme İngilizcedir.
 ```
 
 **Gönderen** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.2K takipçi
@@ -1122,93 +1121,93 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 13. 【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Mat…
+### 13. Dünya Kupası Heyecan Verici Tanıtım Filmi Flash Kurgusu
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065808507912229305_0_poster.jpg" width="480" alt="【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Mat…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065808507912229305_0_poster.jpg" width="480" alt="Dünya Kupası Heyecan Verici Tanıtım Filmi Flash Kurgusu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Match Cut），电视演播室级画质，8K超清，高帧率
+【Stil】Dünya Kupası Heyecan Verici Tanıtım Filmi (FIFA Hype Reel), dinamik hızlı flash kurgu (Kinetic Typography + Whip-Pan Match Cut), TV stüdyosu kalitesinde görüntü, 8K ultra net, yüksek kare hızı
 
-【时长】15秒
+【Süre】15 saniye
 
-【场景】新闻演播室开场，随后依次切入六张国家主题海报场景，每个场景严格还原参考图对应分格的人物、服装、配色与背景版式，全程满幅单画面输出，禁止出现分屏、网格、白色边框
+【Sahne】Haber stüdyosu açılışı, ardından sırasıyla altı ulusal temalı poster sahnesine geçiş; her sahne referans görseldeki karakterleri, kıyafetleri, renkleri ve arka plan düzenini tam olarak yansıtmalıdır. Tüm süreç boyunca tam ekran tek görüntü kullanılmalı, bölünmüş ekran, ızgara veya beyaz kenarlıklar kesinlikle olmamalıdır.
 
-【角色】@ 为七格拼图参考：第一行左=主持人、第一行右=巴西；第二行左=美国、中=阿根廷、右=法国；第三行左=加拿大、右=墨西哥。每个镜头只取对应一格
+【Karakter】@ Yedi karelik referans için: Birinci satır sol=Sunucu, sağ=Brezilya; ikinci satır sol=ABD, orta=Arjantin, sağ=Fransa; üçüncü satır sol=Kanada, sağ=Meksika. Her çekim sadece ilgili kareyi almalıdır.
 
-[00:00-00:03] 镜头1：演播室开场
+[00:00-00:03] Çekim 1: Stüdyo açılışı
 
-中景：主持人格。她抬头看向镜头，手持平板抬手一挥，笑容展开，身后大屏体育场画面缓缓推近。
+Orta plan: Sunucu karesi. Kameraya bakar, elinde bir tabletle elini sallar, gülümser; arkasındaki dev ekranda stadyum görüntüleri yavaşça yaklaşır.
 
-【台词/对白口型指导】英文播报，口型清晰："The World Cup has begun — choose your hero team!"
+【Diyalog/Dudak Senkronizasyonu Rehberi】İngilizce sunum, net dudak hareketleri: "The World Cup has begun — choose your hero team!"
 
-特效：金色粒子从大屏中喷涌而出汇聚成"FIFA WORLD CUP"立体字悬浮在她身前，镜头猛然向右甩动（Whip Pan），粒子拉成光轨带入下一场景。
+Efekt: Altın parçacıklar ekrandan fışkırır ve önünde asılı duran "FIFA WORLD CUP" üç boyutlu yazılarını oluşturur, kamera aniden sağa savrulur (Whip Pan), parçacıklar ışık izi oluşturarak bir sonraki sahneye geçer.
 
-[00:03-00:05] 镜头2：巴西
+[00:03-00:05] Çekim 2: Brezilya
 
-中景：巴西格。人物双手合十后猛然展开，肩膀随桑巴节奏摆动，辫子甩动，碎金亮片从她指尖炸开。
+Orta plan: Brezilya karesi. Karakter ellerini birleştirip aniden açar, omuzları samba ritmiyle sallanır, saç örgüleri savrulur, parmak uçlarından altın pullar patlar.
 
-特效：背景"BRAZIL"立体大字带运动模糊从纵深处冲向镜头（3D Text Fly-through），黄绿颜料在空中泼洒成流体拖尾。
+Efekt: Arka planda "BRAZIL" üç boyutlu yazısı hareket bulanıklığıyla derinlikten kameraya doğru uçar (3D Text Fly-through), sarı-yeşil boyalar havada sıvı izleri oluşturarak saçılır.
 
-【旁白】"Brazil!"
+【Dış Ses】"Brazil!"
 
-转场：她向镜头抛出一道黄绿光带，光带缠绕镜头旋转一周（Lens Roll）甩入下一格。
+Geçiş: Kameraya sarı-yeşil bir ışık şeridi fırlatır, ışık şeridi kameranın etrafında bir tur döner (Lens Roll) ve bir sonraki kareye savrulur.
 
-[00:05-00:07] 镜头3：美国
+[00:05-00:07] Çekim 3: ABD
 
-中景：美国格。光带落下化作足球进入她手中，她将球向上抛起又稳稳接住，抬手敬礼眨眼。
+Orta plan: ABD karesi. Işık şeridi düşer ve futbol topuna dönüşerek eline geçer, topu havaya atıp güvenle yakalar, elini kaldırıp selam verir ve göz kırpar.
 
-特效：背景"USA"与"SOCCER"红白立体字分别从左右两侧呼啸交错而过（Crossing Kinetic Text），尾部拖出星条火花流。
+Efekt: Arka planda "USA" ve "SOCCER" kırmızı-beyaz üç boyutlu yazıları soldan ve sağdan hızla çapraz geçiş yapar (Crossing Kinetic Text), kuyruklarında yıldız ve çizgili kıvılcımlar bırakır.
 
-【旁白】"USA!"
+【Dış Ses】"USA!"
 
-转场：足球被她轻轻一拨飞向镜头，球面占满画面瞬间切换（Match Cut on Ball）。
+Geçiş: Futbol topu hafifçe vurularak kameraya doğru uçar, topun yüzeyi ekranı kapladığı anda geçiş yapılır (Match Cut on Ball).
 
-[00:07-00:09] 镜头4：阿根廷
+[00:07-00:09] Çekim 4: Arjantin
 
-中景：阿根廷格。镜头从球面拉开，球已在她怀中，她低头亲吻足球再抬头举球，王冠折射出星芒。
+Orta plan: Arjantin karesi. Kamera topun yüzeyinden uzaklaşır, top kucağındadır, başını eğip topu öper, sonra başını kaldırıp topu havaya kaldırır, tacı yıldız ışıkları saçar.
 
-特效：背景"ARGENTINA"蓝白立体字逐字母弹跳落位（Letter-by-Letter Bounce），每个字母落地激起蓝白光尘，金色彩带螺旋飘落。
+Efekt: Arka planda "ARGENTINA" mavi-beyaz üç boyutlu yazıları harf harf zıplayarak yerleşir (Letter-by-Letter Bounce), her harf yere çarptığında mavi-beyaz ışık tozu saçar, altın kurdeleler spiral şeklinde düşer.
 
-【旁白】"Argentina!"
+【Dış Ses】"Argentina!"
 
-转场：彩带在镜头前汇成漩涡，漩涡转白化作漫天飞雪（Particle Morph）。
+Geçiş: Kurdeleler kameranın önünde bir girdap oluşturur, girdap beyaza dönüşerek kar yağışına dönüşür (Particle Morph).
 
-[00:09-00:11] 镜头5：加拿大
+[00:09-00:11] Çekim 5: Kanada
 
-中景：加拿大格。雪花飘落，人物抱球转身，抬手拍掉帽檐积雪，呼出白气，雪粒在逆光中闪烁。
+Orta plan: Kanada karesi. Kar taneleri düşer, karakter topu kucaklayıp döner, şapkasının kenarındaki karları silker, beyaz bir nefes verir, kar taneleri arkadan gelen ışıkta parlar.
 
-特效：背景"CANADA"红色立体字破雪而出向前推进，巨型枫叶旋转着掠过前景带起雪雾。
+Efekt: Arka planda "CANADA" kırmızı üç boyutlu yazısı karları yararak öne doğru ilerler, dev bir akçaağaç yaprağı dönerek ön plandan geçer ve kar sisi oluşturur.
 
-【旁白】"Canada!"
+【Dış Ses】"Canada!"
 
-转场：枫叶旋转放大占满画面，红色化为烈焰火星（Color Morph）。
+Geçiş: Akçaağaç yaprağı dönerek büyür ve ekranı kaplar, kırmızı renk alevli kıvılcımlara dönüşür (Color Morph).
 
-[00:11-00:13] 镜头6：墨西哥
+[00:11-00:13] Çekim 6: Meksika
 
-中景：墨西哥格。火星散开，人物单手托球，另一只手潇洒压草帽帽檐致意，咧嘴大笑。
+Orta plan: Meksika karesi. Kıvılcımlar dağılır, karakter tek eliyle topu tutar, diğer eliyle şık bir şekilde hasır şapkasının kenarını selamlamak için bastırır, kahkaha atar.
 
-特效：背景"MEXICO"绿白红立体字带故障抖动逐层撞入（Glitch Slam），每次撞击伴随画面轻微震屏，红色火星粒子四溅。
+Efekt: Arka planda "MEXICO" yeşil-beyaz-kırmızı üç boyutlu yazıları hata efektiyle (Glitch Slam) katman katman çarparak girer, her çarpışma ekranın hafifçe sarsılmasına ve kırmızı kıvılcımların saçılmasına neden olur.
 
-【旁白】"Mexico!"
+【Dış Ses】"Mexico!"
 
-转场：草帽边缘扬起的金色尘粒在镜头前散开化作香槟色光斑（Bokeh Bloom）。
+Geçiş: Hasır şapkanın kenarından kalkan altın tozları kameranın önünde dağılarak şampanya rengi ışık noktalarına (Bokeh Bloom) dönüşür.
 
-[00:13-00:15] 镜头7：法国收尾
+[00:13-00:15] Çekim 7: Fransa finali
 
-中景：法国格。光斑落定，人物优雅举起红酒杯向镜头轻轻致意微笑，埃菲尔铁塔灯光闪烁。
+Orta plan: Fransa karesi. Işık noktaları yerleşir, karakter zarif bir şekilde kırmızı şarap kadehini kaldırıp kameraya selam verir ve gülümser, Eyfel Kulesi'nin ışıkları yanıp söner.
 
-特效：背景"FRANCE"立体字缓滑入定，金色大力神杯从画面右下升起绽放光芒，六国国名化作环形光带绕杯旋转一周后定格。
+Efekt: Arka planda "FRANCE" üç boyutlu yazısı yavaşça kayarak yerleşir, altın Dünya Kupası kupası ekranın sağ altından yükselerek ışık saçar, altı ülkenin ismi halka şeklinde bir ışık şeridine dönüşerek kupanın etrafında bir tur döner ve sabitlenir.
 
-【旁白】"France! ...Who's your hero?"
+【Dış Ses】"France! ...Who's your hero?"
 
-结尾：画面定格，金色字幕"2026 FIFA WORLD CUP"浮现，配观众欢呼声浪。
+Bitiş: Görüntü sabitlenir, altın renkli "2026 FIFA WORLD CUP" yazısı belirir, seyirci tezahürat sesleri eşlik eder.
 ```
 
 **Gönderen** [John ✓](https://x.com/johnAGI168) (@johnAGI168) · 9.1K takipçi
@@ -1221,252 +1220,252 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 14. FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT…
+### 14. FIFA Dünya Kupası 2026 Sinematik Yayın
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065367937616339052_0_poster.jpg" width="480" alt="FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065367937616339052_0_poster.jpg" width="480" alt="FIFA Dünya Kupası 2026 Sinematik Yayın"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT
-"ONE WORLD. ONE GAME."
+FIFA DÜNYA KUPASI 2026, 60 SANİYELİK SİNEMATİK YAYIN VİDEOSU İSTEMİ
+"TEK DÜNYA. TEK OYUN."
 
-Aspect Ratio: 16:9 | Ultra-realistic FIFA broadcast style | Camp Nou packed stadium | Live TV sports cinematography
-GLOBAL STYLE RULES (APPLY THROUGHOUT)
-Ultra-realistic FIFA World Cup 2026 live broadcast
-Camp Nou stadium fully packed (90,000+ crowd)
+En-Boy Oranı: 16:9 | Ultra gerçekçi FIFA yayın stili | Camp Nou dolu stadyum | Canlı TV spor sinematografisi
+KÜRESEL STİL KURALLARI (BAŞTAN SONA UYGULAYIN)
+Ultra gerçekçi FIFA Dünya Kupası 2026 canlı yayını
+Camp Nou stadyumu tamamen dolu (90.000+ kalabalık)
 
-Authentic national teams on pitch during anthem ceremony
-Real stadium acoustics: chants, roars, drums, whistles
-FIFA/UEFA-level broadcast camera movement (drone, crane, telephoto, handheld broadcast cams)
-Natural skin texture, realistic lighting, sweat, fabric detail
-No CGI look — must feel like real TV broadcast
-SCENE 1 (0:00–0:05)
-Drone Dive Into Camp Nou
-Ultra-wide aerial drone shot over Barcelona at sunset.
+Marş töreni sırasında sahada otantik milli takımlar
+Gerçek stadyum akustiği: tezahüratlar, kükremeler, davullar, ıslıklar
+FIFA/UEFA seviyesinde yayın kamera hareketi (drone, vinç, teleobjektif, el tipi yayın kameraları)
+Doğal cilt dokusu, gerçekçi aydınlatma, ter, kumaş detayı
+CGI görünümü yok — gerçek TV yayını gibi hissettirmeli
+SAHNE 1 (0:00–0:05)
+Camp Nou'ya Drone Dalışı
+Gün batımında Barselona üzerinde ultra geniş hava drone çekimi.
 
-Action:
-Drone dives rapidly toward Camp Nou glowing under stadium lights
+Eylem:
+Drone, stadyum ışıkları altında parlayan Camp Nou'ya doğru hızla dalar
 
-Enters stadium roof opening into roaring crowd
+Stadyum çatı açıklığından kükreyen kalabalığın içine girer
 
-Massive energy eruption from fans
+Taraftarlardan devasa enerji patlaması
 
-Camera:
-FPV drone descent
-Fast cinematic motion
+Kamera:
+FPV drone inişi
+Hızlı sinematik hareket
 
-Broadcast stabilization
+Yayın stabilizasyonu
 
-Sound:
-Thunderous crowd roar
-Wind rush
+Ses:
+Gök gürültüsü gibi kalabalık kükremesi
+Rüzgar uğultusu
 
-Stadium anthem beginning
+Stadyum marşının başlangıcı
 
-SCENE 2 (0:05–0:10)
-World Teams on Pitch
-Wide cinematic stadium shot.
-Action:
-ALL World Cup 2026 national teams lined up on pitch
+SAHNE 2 (0:05–0:10)
+Sahada Dünya Takımları
+Geniş sinematik stadyum çekimi.
+Eylem:
+2026 Dünya Kupası'ndaki TÜM milli takımlar sahada dizilmiş
 
-Players standing for national anthem
+Oyuncular milli marş için ayakta
 
-Flags held by children walking across field
+Çocuklar tarafından tutulan ve sahada yürütülen bayraklar
 
-Confetti cannons ready
-Camera:
-Slow crane pan
-Broadcast zoom-in
+Konfeti topları hazır
+Kamera:
+Yavaş vinç kaydırması
+Yayın yakınlaştırması
 
-Sound:
+Ses:
 
-National anthem
-Crowd singing emotionally
+Milli marş
+Duygusal bir şekilde şarkı söyleyen kalabalık
 
-SCENE 3 (0:10–0:15)
+SAHNE 3 (0:10–0:15)
 
-Argentina Fan Introduction
-Medium close-up.
-Appearance:
-Argentinian woman
+Arjantinli Taraftar Tanıtımı
+Orta yakın çekim.
+Görünüm:
+Arjantinli kadın
 
-Argentina jersey
+Arjantin forması
 
-Flag face paint (cheeks)
+Bayrak yüz boyası (yanaklar)
 
-Lanyard accreditation card
-Sitting cross-legged
-Action:
-Looking upward, slightly right
-Subtle hair touch
+Boyun askılı akreditasyon kartı
+Bağdaş kurmuş oturuyor
+Eylem:
+Yukarıya, hafif sağa bakıyor
+Saça hafif dokunuş
 
-Emotional gaze tracking match
+Maçı takip eden duygusal bakış
 
-Camera:
-Slow push-in
-Shallow depth of field
+Kamera:
+Yavaşça yaklaşma (push-in)
+Sığ alan derinliği
 
-Sound:
+Ses:
 
-Anthem + crowd hum
-SCENE 4 (0:15–0:20)
+Marş + kalabalık uğultusu
+SAHNE 4 (0:15–0:20)
 
-Germany Fan Reaction
+Alman Taraftar Tepkisi
 
-Action:
-Blonde German fan takes sip of beer
-Watches match calmly
+Eylem:
+Sarışın Alman taraftar bir yudum bira alıyor
+Maçı sakin bir şekilde izliyor
 
-Lowers cup reacting slightly
+Bardağı indirip hafifçe tepki veriyor
 
-Camera:
-Broadcast telephoto shot
-Dialogue:
+Kamera:
+Yayın teleobjektif çekimi
+Diyalog:
 
-"That was a close one…"
+"Çok yakındı…"
 
-SCENE 5 (0:20–0:25)
+SAHNE 5 (0:20–0:25)
 
-Mexico Fan + Boyfriend
-Action:
+Meksikalı Taraftar + Erkek Arkadaşı
+Eylem:
 
-Eating sandwich
-Reacts while watching field
+Sandviç yiyor
+Sahayı izlerken tepki veriyor
 
-Turns to boyfriend
+Erkek arkadaşına dönüyor
 
-Dialogue:
-"Mexico is playing so well today."
-Boyfriend: "We’ve got this!"
+Diyalog:
+"Meksika bugün çok iyi oynuyor."
+Erkek arkadaşı: "Bunu başaracağız!"
 
-SCENE 6 (0:25–0:30)
-Netherlands Fan
-Action:
+SAHNE 6 (0:25–0:30)
+Hollandalı Taraftar
+Eylem:
 
-Eating waffle
-Fully focused on match
+Waffle yiyor
+Tamamen maça odaklanmış
 
-Subtle anticipation
+Hafif beklenti
 
-No camera awareness
-SCENE 7 (0:30–0:35)
-South Africa Fan
+Kamera farkındalığı yok
+SAHNE 7 (0:30–0:35)
+Güney Afrikalı Taraftar
 
-Action:
+Eylem:
 
-Holding drink cup
-Adjusts hair near ear
+İçecek bardağı tutuyor
+Kulağının yanındaki saçını düzeltiyor
 
-Thoughtful expression
+Düşünceli ifade
 
-SCENE 8 (0:35–0:40)
-England Fan
-Action:
-Eating crispy chicken nugget
-Reacts to near chance
+SAHNE 8 (0:35–0:40)
+İngiliz Taraftar
+Eylem:
+Çıtır tavuk nugget yiyor
+Yakın pozisyona tepki veriyor
 
-Slight lean forward
+Hafifçe öne eğiliyor
 
-SCENE 9 (0:40–0:45)
-Brazil Fan Explosion
-Action:
-Sudden emotional reaction
-Mouth open cheering
+SAHNE 9 (0:40–0:45)
+Brezilyalı Taraftar Patlaması
+Eylem:
+Ani duygusal tepki
+Ağzı açık tezahürat yapıyor
 
-Dialogue:
+Diyalog:
 
-"BRAZIL!! BRAZIL IS WINNING!"
-Camera:
+"BREZİLYA!! BREZİLYA KAZANIYOR!"
+Kamera:
 
-Fast push-in
-High energy shake
+Hızlı yaklaşma
+Yüksek enerjili sarsıntı
 
-SCENE 10 (0:45–0:49)
+SAHNE 10 (0:45–0:49)
 
-USA Fan Reaction
-Action:
-Points toward field
-Excited reaction
+ABD'li Taraftar Tepkisi
+Eylem:
+Sahayı işaret ediyor
+Heyecanlı tepki
 
-Dialogue:
+Diyalog:
 
-"Did you see that?"
-Friend: "That was incredible!"
+"Bunu gördün mü?"
+Arkadaşı: "İnanılmazdı!"
 
-SCENE 11 (0:49–0:52)
-Belgium Fan (NEW CUT)
-Action:
+SAHNE 11 (0:49–0:52)
+Belçikalı Taraftar (YENİ KESİM)
+Eylem:
 
-Shock reaction to near goal
-Hand over mouth
+Kaçan gole şok tepkisi
+El ağızda
 
-Then stunned smile
+Sonra şaşkın bir gülümseme
 
-Whispers:
-"No way… that was so close!"
-Camera:
+Fısıldar:
+"Olamaz… çok yakındı!"
+Kamera:
 
-Tight emotional close-up
-SCENE 12 (0:52–0:56)
+Sıkı duygusal yakın çekim
+SAHNE 12 (0:52–0:56)
 
-Global Montage Burst
+Küresel Montaj Patlaması
 
-Rapid cuts:
-Argentina cheering
-Germany raising cup
+Hızlı kesimler:
+Tezahürat yapan Arjantin
+Kupayı kaldıran Almanya
 
-Mexico flags waving
+Sallanan Meksika bayrakları
 
-Netherlands applause
-South Africa smiling
-England reacting
-Brazil chanting
-USA celebrating
-Stadium-wide crowd wave
-Camera:
-Fast broadcast cuts
-Slow-motion flashes
+Alkışlayan Hollanda
+Gülümseyen Güney Afrika
+Tepki veren İngiltere
+Tezahürat yapan Brezilya
+Kutlayan ABD
+Stadyum çapında dalga
+Kamera:
+Hızlı yayın kesimleri
+Ağır çekim flaşlar
 
-Aerial stadium sweep
+Stadyumun havadan taranması
 
-Sound:
-Crowd reaches peak roar
-SCENE 13 (0:56–1:00)
+Ses:
+Kalabalık kükremesinin zirveye ulaşması
+SAHNE 13 (0:56–1:00)
 
-Portugal Fan Finale
+Portekizli Taraftar Finali
 
-Ultra-cinematic close-up.
-Action:
-Sitting cross-legged
+Ultra sinematik yakın çekim.
+Eylem:
+Bağdaş kurmuş oturuyor
 
-Ties hair into ponytail
+Saçını at kuyruğu yapıyor
 
-Refocuses intensely on match
+Maça yoğun bir şekilde yeniden odaklanıyor
 
-Calm, determined expression
-Camera:
-Slow push-in
-Golden stadium glow
+Sakin, kararlı ifade
+Kamera:
+Yavaşça yaklaşma
+Altın stadyum parıltısı
 
-Lens flare
+Lens parlaması
 
-Final Text:
-FOOTBALL SPEAKS EVERY LANGUAGE
-FIFA WORLD CUP 2026
+Final Metni:
+FUTBOL HER DİLİ KONUŞUR
+FIFA DÜNYA KUPASI 2026
 
-ONE WORLD. ONE GAME.
+TEK DÜNYA. TEK OYUN.
 
-Sound:
-Orchestral crescendo
-Stadium roar unity
+Ses:
+Orkestral kreşendo
+Birlik içindeki stadyum kükremesi
 
-FADE OUT.
+KARARARAK ÇIKIŞ.
 ```
 
 **Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K takipçi
@@ -1479,103 +1478,103 @@ FADE OUT.
 
 ---
 
-### 15. “SUBJECTS Painter: adult painter wearing a paint-stained apron, posit…
+### 15. Ressam ve Canlı Boya Damlası
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065303182432170349_0_poster.jpg" width="480" alt="“SUBJECTS Painter: adult painter wearing a paint-stained apron, posit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065303182432170349_0_poster.jpg" width="480" alt="Ressam ve Canlı Boya Damlası"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-“SUBJECTS
-Painter: adult painter wearing a paint-stained apron, positioned beside a long wooden art table, using a large flat paint brush and palette knife to trap a living paint blob. Starts calm and controlled, then becomes increasingly panicked and messy.
+“KONULAR
+Ressam: Uzun ahşap bir sanat masasının yanında duran, boya lekeli bir önlük giymiş yetişkin ressam; canlı bir boya damlasını yakalamak için büyük düz bir boya fırçası ve palet bıçağı kullanıyor. Sakin ve kontrollü başlar, ardından giderek paniğe kapılır ve etrafı dağıtır.
 
-Paint Blob: palm-sized living blob made of glossy blue and orange paint, always moving low across the art table, sliding and hopping forward to the right while performing stretch-and-squash dodges, sudden stops, quick direction changes, and smug gestures. Leaves realistic wet paint trails.
+Boya Damlası: Parlak mavi ve turuncu boyadan yapılmış, avuç içi büyüklüğünde canlı bir damla; her zaman sanat masası üzerinde alçaktan hareket eder, sağa doğru kayıp zıplarken esneme-ve-sıkışma hareketleriyle kaçar, ani duruşlar yapar, hızlı yön değişiklikleri sergiler ve küstah jestler yapar. Gerçekçi ıslak boya izleri bırakır.
 
-ENVIRONMENT
-Messy art studio with one long wooden worktable showing clear depth.
-Objects on the table: paint tubes, glass jars, brushes, water cup, sketchbooks, color palette, small canvas frames, cloth rags.
-Large blank canvas standing at the far end of the table.
-Window is closed.
-All mess and damage should accumulate naturally through the scene.
+ORTAM
+Derinliği belirgin, uzun ahşap bir çalışma masasına sahip dağınık sanat stüdyosu.
+Masadaki nesneler: boya tüpleri, cam kavanozlar, fırçalar, su kabı, eskiz defterleri, renk paleti, küçük tuval çerçeveleri, bez parçaları.
+Masanın uzak ucunda duran büyük boş bir tuval.
+Pencere kapalı.
+Tüm dağınıklık ve hasar sahne boyunca doğal bir şekilde birikmelidir.
 
-STYLE
-Realistic 3D animated short film.
-Playful physical comedy.
-Strong object physics.
-Glossy wet paint material.
-Fast but readable action.
-Cinematic lighting with colorful paint splashes.
+STİL
+Gerçekçi 3D kısa animasyon filmi.
+Eğlenceli fiziksel komedi.
+Güçlü nesne fiziği.
+Parlak ıslak boya malzemesi.
+Hızlı ama anlaşılır aksiyon.
+Renkli boya sıçramalarıyla sinematik aydınlatma.
 
-CAMERA DETAILS
-Main POV is a low close-following rear perspective behind the paint blob, moving forward across the table.
-The painter’s brush attacks mostly enter from above and from the sides.
-Only one brief frontal confrontation near the end.
-Use wide-angle lens feeling during the chase for speed and chaos.
+KAMERA DETAYLARI
+Ana POV, boya damlasının hemen arkasından onu takip eden, masanın üzerinde ileriye doğru hareket eden alçak bir yakın plandır.
+Ressamın fırça saldırıları çoğunlukla yukarıdan ve yanlardan gelir.
+Sonuna doğru sadece bir kısa cepheleşme vardır.
+Kovalamaca sırasında hız ve kaos hissi için geniş açılı lens hissi kullanın.
 
-TIMELINE
+ZAMAN ÇİZELGESİ
 
 0:00-0:02
-Medium shot, 35mm, slow push-in.
-The painter calmly paints on a canvas while softly humming.
-A small paint blob quietly forms inside an open paint cup on the table.
-The blob blinks, looks around, then slides out.
-The painter notices the movement and slowly stops humming.
+Orta çekim, 35mm, yavaşça yaklaşma.
+Ressam hafifçe mırıldanarak tuval üzerinde sakin bir şekilde resim yapar.
+Masadaki açık bir boya kabının içinde küçük bir boya damlası sessizce oluşur.
+Damla göz kırpar, etrafına bakar ve sonra dışarı kayar.
+Ressam hareketi fark eder ve mırıltısını yavaşça keser.
 
-SFX: soft humming, tiny wet paint movement, quiet studio ambience.
+SFX: hafif mırıltı, minik ıslak boya hareketi, sessiz stüdyo ortamı.
 
 0:02-0:04
-Low-angle tracking shot, 28mm.
-The paint blob suddenly accelerates to the right across the table.
-The painter lunges forward and makes the first controlled brush swipe.
-The brush misses and smacks a paint tube, making it squeeze paint across the table.
-The blob dodges by stretching flat and sliding under the brush.
+Alçak açı takip çekimi, 28mm.
+Boya damlası aniden masanın üzerinde sağa doğru hızlanır.
+Ressam öne atılır ve ilk kontrollü fırça darbesini yapar.
+Fırça ıskalar ve bir boya tüpüne çarparak boyanın masaya yayılmasına neden olur.
+Damla, düzleşip fırçanın altından kayarak kaçar.
 
-SFX: wet slide, brush slap, paint tube squeeze, quick gasp.
+SFX: ıslak kayma, fırça şapırtısı, boya tüpü sıkılması, hızlı nefes alış.
 
 0:04-0:10
-POV shot, 20mm, close-follow high-speed movement behind the paint blob.
-The camera continuously advances forward without looking back.
-The blob performs serpentine dodges, sudden stops, hops over brushes, slides around jars, and leaves colorful trails.
-The painter’s brush and palette knife keep attacking from above and the sides.
-Every missed hit realistically strikes table objects:
-paint jars roll,
-brushes scatter,
-water cup spills,
-paint tubes burst,
-sketchbook pages flip open,
-canvas frames shake.
-The chaos should keep building and stay visible.
+POV çekimi, 20mm, boya damlasının arkasında yüksek hızlı yakın takip.
+Kamera arkasına bakmadan sürekli ileri doğru ilerler.
+Damla yılan gibi kıvrılarak kaçar, ani duruşlar yapar, fırçaların üzerinden atlar, kavanozların etrafından kayar ve renkli izler bırakır.
+Ressamın fırçası ve palet bıçağı yukarıdan ve yanlardan saldırmaya devam eder.
+Her ıskalanan vuruş masadaki nesnelere gerçekçi bir şekilde çarpar:
+boya kavanozları yuvarlanır,
+fırçalar dağılır,
+su kabı dökülür,
+boya tüpleri patlar,
+eskiz defteri sayfaları açılır,
+tuval çerçeveleri sarsılır.
+Kaos giderek artmalı ve görünür kalmalıdır.
 
-SFX: rapid wet sliding, brush impacts, glass rolling, paint splats, water spill, object collisions.
+SFX: hızlı ıslak kayma, fırça darbeleri, yuvarlanan cam, boya sıçramaları, su dökülmesi, nesne çarpışmaları.
 
 0:10-0:12
-POV slows down.
-The large blank canvas appears ahead.
-The paint blob stops at the edge of the table, turns to face the painter directly, forms a tiny smug face, and waves with a little paint arm.
-The painter freezes for half a second, furious and breathless.
+POV yavaşlar.
+Büyük boş tuval ileride görünür.
+Boya damlası masanın kenarında durur, doğrudan ressama döner, minik küstah bir yüz ifadesi oluşturur ve küçük bir boya koluyla el sallar.
+Ressam yarım saniyeliğine donar, öfkeli ve nefes nefesedir.
 
-SFX: sudden silence, tiny sticky blob sound, breath pause.
+SFX: ani sessizlik, minik yapışkan damla sesi, nefes molası.
 
 0:12-0:14
-Medium push-in shot.
-The painter throws the large brush toward the blob.
-After release, the painter’s hand is clearly empty.
-The brush misses the blob and hits the canvas frame.
-A paint bucket tips over, creating a huge colorful splash.
-The blob dives into the blank canvas and becomes a tiny painted character inside the artwork.
+Orta çekim, yaklaşma.
+Ressam büyük fırçayı damlaya doğru fırlatır.
+Fırlatmadan sonra ressamın eli açıkça boştur.
+Fırça damlayı ıskalar ve tuval çerçevesine çarpar.
+Bir boya kovası devrilir ve devasa renkli bir sıçrama yaratır.
+Damla boş tuvalin içine dalar ve sanat eserinin içinde minik boyalı bir karaktere dönüşür.
 
-SFX: air whoosh, brush impact, bucket tip, huge paint splash.
+SFX: hava ıslığı, fırça darbesi, kova devrilmesi, devasa boya sıçraması.
 
 0:14-0:15
-Wide static shot.
-The painter stands with empty hands, staring at the entire studio table now covered in spilled paint, scattered brushes, overturned jars, and ruined sketches.
-On the canvas, the little paint blob smiles from inside the painting.
-The painter pauses, then lets out a frustrated breakdown scream.”
+Geniş sabit çekim.
+Ressam elleri boş bir şekilde durur, artık dökülmüş boyalar, dağılmış fırçalar, devrilmiş kavanozlar ve mahvolmuş eskizlerle kaplı tüm stüdyo masasına bakar.
+Tuvalin üzerinde, küçük boya damlası tablonun içinden gülümser.
+Ressam duraksar, sonra hüsran dolu bir çığlık atar.”
 ```
 
 **Gönderen** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K takipçi
@@ -1588,12 +1587,12 @@ The painter pauses, then lets out a frustrated breakdown scream.”
 
 ---
 
-### 16. 16:9 bir görsel oluşturun. [PROJE KARTI] Tablo değil, kompakt tasarla…
+### 16. Kötü Tat: Canavar Yutma Sekansı
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="16:9 bir görsel oluşturun. [PROJE KARTI] Tablo değil, kompakt tasarla…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Kötü Tat: Canavar Yutma Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -1603,88 +1602,88 @@ The painter pauses, then lets out a frustrated breakdown scream.”
 16:9 bir görsel oluşturun.
 
 [PROJE KARTI]
-Tablo değil, kompakt tasarlanmış bir masthead oluşturun.
+Tablo değil, kompakt tasarlanmış bir başlık oluşturun.
 BAŞLIK: BAD TASTE
-META SATIRI: absürt dehşet -> slapstick korku-komedi / sabit tek çekim
-ÖNCELİK: tüm panellerde aynı sabit çerçeveleme; espri, hareket etmeyen tek bir çerçeve içindeki değişimle okunur
-KISA ÖZET: bir kız sabit bir çerçevede tek başına durur; dev bir peluş canavar arkasında yükselir, onu bütün olarak yutar, sindiremez ve salyalar içinde geri tükürür.
+BİLGİ SATIRI: absürt dehşet -> slapstick korku-komedi / sabit tek çekim
+ÖNCELİK: tüm panellerde aynı sabit çerçeveleme; şaka, hareket etmeyen tek bir kare içindeki değişimle okunur
+KISA ÖZET: bir kız sabit bir karede tek başına durur; dev bir peluş canavar arkasında yükselir, onu bütün olarak yutar, sindiremez ve salyalar içinde geri tükürür.
 
 [SÜREKLİLİK BAŞLIĞI]
 SEKANS KİMLİĞİ: GULP-01
 REFERANS ÖNCELİĞİ: kimlik referansı karakter kimliğini kontrol eder; bu storyboard sahnelemeyi, hareketi, coğrafyayı ve sürekliliği kontrol eder.
 
 [SAHNE PAKETİ]
-ÖNEMLİ: sabit bir kamera, bir kızın dev bir patchwork peluş canavar tarafından bütün olarak yutulmasını ve midesi isyan ettiğinde geri tükürülmesini izler.
+ÖN BİLGİ: sabit bir kamera, bir kızın dev bir yama işi peluş canavar tarafından bütün olarak yutulmasını ve midesi isyan ettiğinde geri tükürülmesini izler.
 KONUM: düz açık çatlak taş zemin, boş düz arka plan, duvar yok, aksesuar yok; kullanılabilir yüzeyler sadece zemin düzlemidir; canavar mevcut olduğunda tüm arka planı kaplar.
-BAŞLANGIÇ -> BİTİŞ: C1 çerçeve merkezinde tek başına durur, sıkılmış duruş, canavar yok -> C2 arka planda mide bulantısıyla çöker, C1 ön plan merkezinde kalın salya şeritleriyle ıslanmış halde uzanır, çerçeve aksi takdirde değişmez.
-EYLEM ZİNCİRİ: boş sakinlik -> C2 zemin çizgisinin arkasından yükselir ve arka planı doldurur -> çeneler aşağı iner ve C1'i tek bir yudumda yutar -> ağız kapalı, C2 yutmaya çalışırken boğaz ve karın şişer -> C2'nin yüzü ekşir, yanaklar şişer, vücut mide bulantısıyla sarsılır -> C2 öğürür ve C1'i ileri doğru fırlatır; C1 damlayarak iner, salya şeritleri onu açık ağza bağlar.
-AKSESUAR / ETKİ DURUMU: salya/tükürük ana etkidir: P01-P02'de yok, P03'te çenelerin içinde şeritler, P04'te kapalı dudaklardan sızıntı, P05'te yoğun sızıntı, P06'da C1 çevresinde devasa sprey artı şeritler ve su birikintisi; C1'in kıyafetleri P01-P03'te kuru, P06'da ıslanmış ve keçeleşmiş.
+BAŞLANGIÇ -> BİTİŞ: C1 çerçeve merkezinde tek başına durur, sıkılmış duruş, canavar yok -> C2 arka planda mide bulantısıyla çöker, C1 ön plan merkezinde kalın salya şeritleriyle sırılsıklam, çerçeve aksi takdirde değişmez.
+EYLEM ZİNCİRİ: boş sakinlik -> C2 zemin çizgisinin arkasından yükselir ve arka planı doldurur -> çeneler aşağı iner ve C1'i tek lokmada yutar -> ağız kapalı, boğaz ve karın C2 yutmaya çalışırken şişer -> C2'nin yüzü ekşir, yanaklar balon gibi şişer, vücut mide bulantısıyla sarsılır -> C2 öğürür ve C1'i ileri fırlatır; C1 sırılsıklam yere düşer, salya şeritleri onu açık ağza bağlar.
+AKSESUAR / ETKİ DURUMU: salya ana etkidir: P01-P02'de yok, P03'te çenelerin içinde şeritler, P04'te kapalı dudaklardan sızıntı, P05'te yoğun sızıntı, P06'da C1 çevresinde devasa sprey artı şeritler ve su birikintisi; C1'in kıyafetleri P01-P03'te kuru, P06'da sırılsıklam ve yapış yapış.
 OKUNMASI GEREKEN: kamera asla hareket etmez; sadece canavar ve kız aynı sabit çerçeve içinde değişir.
 
 [KARAKTER TEMİZLİĞİ]
-C1: genç kadın, ince küçük siluet, çok uzun ikiz kuyruklu saç, şort üzerine büyük kutu grafik tişört, uyumsuz uzun çoraplar, kalın platform spor ayakkabılar, yüzünde ve bacaklarında yapışkan bandajlar, kambur ifadesiz duruş, hafif gevşek hareket.
-C2: devasa yuvarlak patchwork peluş canavar, vücut çerçeveden daha geniş, uyumsuz dikilmiş kumaş yamaları, iki kısa çizgili boynuz, bir düz düğme sol göz, bir geniş yarık gözbebeği sağ göz, büyük künt dişli devasa ağız, kısa pençeli patiler, ağır hantal hareket.
-Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detayını ve bir panelde görünemeyecek geçmiş hikayesini kaldırın.
+C1: genç kadın, ince küçük siluet, çok uzun ikiz kuyruklu saç, şort üzerine büyük boy kutu grafik tişört, uyumsuz uzun çoraplar, kalın platform spor ayakkabılar, yüzde ve bacaklarda yara bantları, kambur ifadesiz duruş, hafif gevşek hareket.
+C2: devasa yuvarlak yama işi peluş canavar, gövde çerçeveden daha geniş, uyumsuz dikişli kumaş yamalar, iki kısa çizgili boynuz, bir düz düğme sol göz, bir geniş yarık gözbebekli sağ göz, büyük küt dişli devasa ağız, kısa pençeli patiler, ağır hantal hareket.
+Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detayını ve bir panelde görünemeyecek geçmiş hikayeleri kaldırın.
 
 [KİMLİK TUTARLILIĞI]
-Kimlik referansı her iki karakter için yüzü, vücudu, gardırobu ve oranları kontrol eder; C1 ve C2 kimliklerini, siluetlerini, gardıroplarını, ana aksesuarlarını ve ekran konumlarını tüm panellerde tutarlı tutun; C1 çerçeve merkezinde kalır, C2 arka planı doldurur; karakterleri yeniden tasarlamayın veya birleştirmeyin.
+Kimlik referansı her iki karakter için de yüzü, vücudu, gardırobu ve oranları kontrol eder; C1 ve C2 kimliklerini, siluetlerini, gardıroplarını, ana aksesuarlarını ve ekran konumlarını tüm panellerde tutarlı tutun; C1 çerçeve merkezinde kalır, C2 arka planı doldurur; karakterleri yeniden tasarlamayın veya birleştirmeyin.
 
 [STORYBOARD SAFLIĞI]
-Panel görselleri sadece görsel, düşük detaylı, monokrom açık gri kaba eskizlerdir. Panel numaralarını, vuruş isimlerini ve lens etiketlerini her panel görselinin dışındaki başlık şeridine koyun. Panellerin içinde renk, etiket, ok, altyazı, logo, filigran, zamanlama işareti, diyagram, arayüz, hayalet poz, kopya vücut veya teknik katman olmasın.
+Panel görselleri sadece görsel, düşük detaylı monokrom açık gri kaba eskizlerdir. Panel numaralarını, ritim isimlerini ve lens etiketlerini her panel görselinin dışındaki başlık şeridine koyun. Panellerin içinde renk, etiket, ok, altyazı, logo, filigran, zamanlama işareti, diyagram, arayüz, hayalet pozlar, kopya vücutlar veya teknik katmanlar olmasın.
 
 [ANA ÇEKİM KURALI]
-Panel 01 ana çekimdir: sabit çerçevenin tam coğrafyası, C1 zemin çizgisinde merkezde küçük, boş arka plan, C2'nin daha sonra yükseleceği geniş tavan boşluğu. Her sonraki panel bu tam coğrafyayı korur.
+Panel 01 ana çekimdir: sabit çerçevenin tam coğrafyası, zemin çizgisinde merkezde küçük C1, boş arka plan, C2'nin daha sonra yükseleceği geniş baş boşluğu. Sonraki her panel bu tam coğrafyayı korur.
 
 [DUYGUSAL YAY]
-sıkılmış durgunluk -> yaklaşan dehşet -> şiddetli yutulma -> huzursuz gergin yutkunma -> yükselen iğrenme ve mide bulantısı -> dağınık komik reddedilme; C1'in ölçek kontrastında kaybolan gevşek duruşu, C2'nin göz ve yanak değişimleri ve değişmeyen bir çerçevede büyüyen salya durumu ile okunur.
+sıkılmış durgunluk -> yaklaşan dehşet -> şiddetli yutulma -> huzursuz gergin yutkunma -> artan iğrenme ve mide bulantısı -> dağınık komik reddedilme; C1'in gevşek duruşunun ölçek kontrastı içinde kaybolması, C2'nin göz ve yanak değişimleri ve değişmeyen bir çerçevede büyüyen salya durumu ile okunur.
 
 [STİL KİLİTLERİ]
-STİL KİLİDİ: nihai video stili canlı patchwork anime illüstrasyonudur: cesur koyu çizgi çalışması, doygun camgöbeği-macenta-mor-sarı paleti, canavar üzerinde dikilmiş kumaş dokusu, kirli yıpranmış detay, düz katı camgöbeği arka plan, minimum gölgelendirmeli düz grafik aydınlatma.
-ETKİ KİLİDİ: salya, yumuşak vurgulara sahip kalın parlak viskoz şeritler ve ipler olarak okunur, esnek ve ağır, asla sis veya sprey parçacıkları değil; paneller arasında tutarlı kalınlık ve ipliksi davranış.
+STİL KİLİDİ: nihai video stili canlı yama işi anime illüstrasyonudur: kalın koyu çizgi çalışması, doygun camgöbeği-macenta-mor-sarı paleti, canavar üzerinde dikişli kumaş dokusu, kirli yıpranmış detay, düz katı camgöbeği arka plan, minimal gölgelendirmeli düz grafik aydınlatma.
+ETKİ KİLİDİ: salya, yumuşak vurgulara sahip, esnek ve ağır, asla sis veya sprey parçacıkları olmayan kalın parlak yapışkan şeritler olarak okunur; paneller boyunca tutarlı kalınlık ve ipliksi davranış.
 ÇEVRE KİLİDİ: sadece düz çatlak taş zemin düzlemi ve düz arka plan; set yeniden tasarımı yok, ek aksesuar yok, ufuk değişimi yok; her panelde aynı zemin çatlakları.
 
 [MEKANSAL SÜREKLİLİK KİLİDİ]
-P01'den P06'ya kadar hepsi aynı sabit kamera kurulumunu paylaşır: aynı düşük geniş ön açı, aynı lens, aynı çerçeveleme, aynı zemin çizgisi, aynı çatlak deseni, sıfır kamera hareketi, sıfır kesim. Hiçbir panel yeni bir kuruluş çekimi değildir. Sabbit çapalar: C1'in merkez zemin işareti, zemin çatlakları, düz arka plan, çerçeve kenarları. İzin verilen tek değişiklikler: C2'nin arka plana girmesi/doldurması, karakter pozları, ağız açık/kapalı durumu, salya durumu, C1'in görünür/içeride/fırlatılmış olması, C1 üzerindeki hasar ve ıslaklık.
+P01'den P06'ya kadar aynı sabit kamera kurulumunu paylaşır: aynı düşük geniş ön açı, aynı lens, aynı çerçeveleme, aynı zemin çizgisi, aynı çatlak deseni, sıfır kamera hareketi, sıfır kesme. Hiçbir panel yeni bir kuruluş çekimi değildir. Sabit çapalar: C1'in merkez zemin işareti, zemin çatlakları, düz arka plan, çerçeve kenarları. İzin verilen tek değişiklikler: C2'nin arka plana girmesi/doldurması, karakter pozları, ağız açık/kapalı durumu, salya durumu, C1'in görünür/içeride/dışarı atılmış olması, C1 üzerindeki hasar ve ıslaklık.
 
 [YÖNETMEN ŞERİDİ]
-Panel sütunlarına hizalanmış alt animatik iz panosu. İzler: VURUŞ HATTI, KAMERA YOLU, EYLEM YOLU, RİTİM İZİ, TIRMANDIRMA HARİTASI, DURUM İZİ, STİL İZİ. Çekim çipleri, ince çizgiler, ritim blokları, küçük yoğunluk çubukları, bir-üç kelimelik etiketler kullanın. Saniye veya zaman damgası yok.
-RİTİM İZİ formatı: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-TIRMANDIRMA HARİTASI formatı: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL BAŞLIKLARI: P01 / 24mm geniş / Boş ana -> P02 / 24mm geniş / Canavar yükselir -> P03 / 24mm geniş / Tek yudumda yutma -> P04 / 24mm geniş / Sindirmek için zorlanma -> P05 / 24mm geniş / Mide bulantısı dönüşü -> P06 / 24mm geniş / Tükürme finali
-KAMERA + LENS PLANI: P01 sabit düşük geniş, aynı lens -> P02 aynı sabit çerçeve, tut -> P03 aynı sabit çerçeve, tut -> P04 aynı sabit çerçeve, tut -> P05 aynı sabit çerçeve, tut -> P06 aynı sabit çerçeve, final tutuşu
-EYLEM YOLU: P01 C1 merkezde gevşek duruyor, yalnız -> P02 C2 zemin çizgisinin arkasından beliriyor, C1'in üzerinde arka planı dolduruyor, çeneler ayrılıyor -> P03 C2'nin açık çeneleri C1'in üzerine çarpıyor, onu tek yudumda yutuyor, salya şeritleri kopuyor -> P04 ağız kapalı, C2 dik, yutkunup öğütürken boğaz ve karın şişiyor -> P05 C2'nin yanakları şişiyor, gözler acıyla kısılıyor ve sulanıyor, vücut mide bulantısıyla öne doğru bükülüyor, dişlerin arasından salya sızıyor -> P06 C2 öğürür ve C1'i ileri fırlatır; C1 ön plan merkezinde salyaya bulanmış halde uzanır, kalın şeritler C2'nin açık duran ağzına kadar uzanır
-RİTİM İZİ: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
-TIRMANDIRMA HARİTASI: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
-DURUM İZİ: P01 C1 kuru, arkadaki çerçeve boş -> P02 C2 arka plana girer, C1 habersiz -> P03 C1 çenelerin içinde, salya şeritleri aktif -> P04 C1 gizli, şişkinlik durumu, dudak sızıntısı -> P05 şişkinlik yüksek, ağır sızıntı, mide bulantılı yüz -> P06 C1 fırlatılmış ıslanmış, salya birikintisi, C2 çökmüş hasta
-STİL İZİ: P01 düz camgöbeği sakin -> P02 yaklaşan patchwork kütlesi -> P03 çene sivri -> P04 gergin şişkinlik -> P05 mide bulantılı yeşil ton ipucu -> P06 parlak salya finali
+Panel sütunlarına hizalanmış alt animatik iz panosu. İzler: RİTİM HATTI, KAMERA YOLU, EYLEM YOLU, TEMPO İZİ, YÜKSELİŞ HARİTASI, DURUM İZİ, STİL İZİ. Çekim çipleri, ince çizgiler, tempo blokları, küçük yoğunluk çubukları, bir-üç kelimelik etiketler kullanın. Saniye veya zaman damgası yok.
+TEMPO İZİ formatı: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+YÜKSELİŞ HARİTASI formatı: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL BAŞLIKLARI: P01 / 24mm geniş / Boş ana çekim -> P02 / 24mm geniş / Canavar yükselir -> P03 / 24mm geniş / Tek lokmada yutma -> P04 / 24mm geniş / Sindirmek için zorlanma -> P05 / 24mm geniş / Mide bulantısı dönüşü -> P06 / 24mm geniş / Tükürme finali
+KAMERA + LENS PLANI: P01 sabit düşük geniş, aynı lens -> P02 aynı sabit çerçeve, bekle -> P03 aynı sabit çerçeve, bekle -> P04 aynı sabit çerçeve, bekle -> P05 aynı sabit çerçeve, bekle -> P06 aynı sabit çerçeve, son bekle
+EYLEM YOLU: P01 C1 merkezde gevşek duruyor, yalnız -> P02 C2 zemin çizgisinin arkasından yükseliyor, C1'in üzerinde arka planı dolduruyor, çeneler ayrılıyor -> P03 C2'nin açık çeneleri C1'in üzerine çöküyor, onu tek lokmada yutuyor, salya şeritleri kopuyor -> P04 ağız kapalı, C2 dik, boğaz ve karın yutkunup öğütürken şişiyor -> P05 C2'nin yanakları şişiyor, gözler acıyla kısılıyor ve sulanıyor, vücut mide bulantısıyla öne doğru bükülüyor, salya dişlerin arasından sızıyor -> P06 C2 öğürür ve C1'i ileri fırlatır; C1 salyaya bulanmış şekilde ön plan merkezinde yere serilir, kalın şeritler C2'nin açık duran ağzına kadar uzanır
+TEMPO İZİ: P01 RHY: hold / medium block / held beat -> P02 RHY: slow reveal / medium block / held beat -> P03 RHY: burst / short block / smash beat -> P04 RHY: pause / long block / held beat -> P05 RHY: build / medium block / match beat -> P06 RHY: final hit / short block / smash beat
+YÜKSELİŞ HARİTASI: P01 ESC: L1 calm / flat -> P02 ESC: L2 tension / rise -> P03 ESC: L4 surge / spike -> P04 ESC: L3 rise / flat -> P05 ESC: L4 surge / rise -> P06 ESC: L5 peak / release
+DURUM İZİ: P01 C1 kuru, arkadaki çerçeve boş -> P02 C2 arka plana girer, C1 habersiz -> P03 C1 çenelerin içinde, salya şeritleri aktif -> P04 C1 gizli, şişkinlik durumu, dudak sızıntısı -> P05 şişkinlik yüksek, yoğun sızıntı, mide bulantılı yüz -> P06 C1 sırılsıklam dışarı atıldı, salya birikintisi, C2 hasta çökmüş
+STİL İZİ: P01 düz camgöbeği sakinlik -> P02 yaklaşan yama işi kütlesi -> P03 çene sivri ucu -> P04 gergin şişkinlik -> P05 mide bulantılı yeşil ton işareti -> P06 parlak salya finali
 
 [SEKANS]
-Izgara: 3x2 ızgarada 6 panel; altı aşamada örneklenmiş sabit sürekli tek çekim, her panelde aynı çerçeveleme, kesim yok.
+Izgara: 3x2 ızgarada 6 panel; altı aşamada örneklenmiş tek bir sabit sürekli çekim, her panelde aynı çerçeveleme, kesme yok.
 ```
 
 **🎬 Video istemi**
 
 ```
-Sekans için yönetmen onaylı yetkili storyboard planı olarak @[storyboard ref] kullanın. Her storyboard panelini tek bir sinematik sekans içindeki ardışık çekim olarak ele alın. Panel sırasını tam olarak takip edin ve alternatif kapsamlar icat etmeyin. Storyboard sayfasının kendisini oluşturmayın. Storyboard tarafından gösterilen kamera yerleşimini, çerçevelemeyi, lens niyetini, çekim ölçeğini, karakter sahnelemesini, ekran yönünü, çevresel coğrafyayı, aksesuar yerleşimini, eylem koreografisini, sürekliliği ve duygusal tırmanışı koruyun. Storyboard, görsel hikaye anlatımı için birincil gerçeklik kaynağıdır. Fiziksel storyboard çizimi yerine panellerin ima ettiği çekilmiş sekansı yeniden oluşturun.
-Tüm video, görünür kesintiler olmayan tek bir sürekli sabit çekimdir; kamera asla hareket etmez, kaydırmaz, yakınlaştırmaz veya sarsılmaz; her panel, aynı hareket etmeyen çerçevenin örneklenmiş bir aşamasıdır.
-Sanal bir lens / aynı lensli sabit kamera kullanın.
-C1, camgöbeği ikiz kuyruklu kız ve C2, dev patchwork peluş canavar için yetkili karakter referansı olarak @[ref image] kullanın.
+Sekans için yönetmen onaylı storyboard taslağı olarak @[storyboard ref] kullanın. Her storyboard panelini tek bir sinematik sekans içindeki ardışık bir çekim olarak ele alın. Panel sırasını tam olarak takip edin ve alternatif kapsamlar icat etmeyin. Storyboard sayfasının kendisini oluşturmayın. Kamera yerleşimini, çerçevelemeyi, lens niyetini, çekim ölçeğini, karakter sahnelemesini, ekran yönünü, çevresel coğrafyayı, aksesuar yerleşimini, eylem koreografisini, sürekliliği ve storyboard tarafından gösterilen duygusal yükselişi koruyun. Storyboard, görsel hikaye anlatımı için birincil doğruluk kaynağıdır. Fiziksel storyboard çiziminden ziyade panellerin ima ettiği filme alınmış sekansı yeniden yaratın.
+Tüm video, görünür kesintiler olmayan tek bir sürekli sabit çekimdir; kamera asla hareket etmez, kaydırmaz, yakınlaştırmaz veya sarsılmaz; her panel, hareket etmeyen aynı çerçevenin örneklenmiş bir aşamasıdır.
+Tek bir sanal lens / aynı lensli sabit kamera kullanın.
+C1, camgöbeği ikiz kuyruklu kız ve C2, dev yama işi peluş canavar için yetkili karakter referansı olarak @[ref image] kullanın.
 
 ÇEVRE: düz çatlak taş zemin, düz katı camgöbeği arka plan, aksesuar yok; C1'in zemin işareti çerçeve merkezinde kalır, baştan sona aynı zemin çatlakları; C2 mevcut olduğunda arka planı doldurur.
 
-DUYGUSAL REHBERLİK: Değer: sıkılmış nötrden tehditkar ve iğrenmiş komik rahatlamaya. Uyarılma: düşük ve hareketsiz, yutkunmada zirve yapan, sindirim boyunca kaynayan, mide bulantısında yükselen, ifadesiz sakinliğe serbest kalan; duruş, C2'nin göz ve yanak değişimleri, şişkinlik hareketi ve çerçeve sabit kalırken salya durumu ile gösterilir.
+DUYGUSAL REHBERLİK: Değer: sıkılmış nötrden tehditkar olana, oradan iğrenç komik rahatlamaya. Uyarılma: düşük ve hareketsiz, yutkunmada zirveye çıkıyor, sindirim boyunca kaynıyor, mide bulantısında yükseliyor, ifadesiz sakinliğe bırakıyor; duruş, C2'nin göz ve yanak değişimleri, şişkinlik hareketi ve çerçeve sabit kalırken salya durumu ile gösterilir.
 
-GÖRSEL STİL: @[ref image] ile eşleşen canlı patchwork anime illüstrasyonu: cesur koyu çizgi çalışması, doygun camgöbeği-macenta-mor-sarı paleti, canavar üzerinde dikilmiş kumaş dokusu, kirli yıpranmış detay, düz grafik aydınlatma, minimum gölgelendirme; salya, yumuşak vurgulara sahip kalın parlak viskoz şeritlerdir.
+GÖRSEL STİL: @[ref image] ile eşleşen canlı yama işi anime illüstrasyonu: kalın koyu çizgi çalışması, doygun camgöbeği-macenta-mor-sarı paleti, canavar üzerinde dikişli kumaş dokusu, kirli yıpranmış detay, düz grafik aydınlatma, minimal gölgelendirme; salya, yumuşak vurgulara sahip kalın parlak yapışkan şeritlerdir.
 
-SES: Arka plan müziği veya skor yok. Sadece diegetik ortam, foley, darbeler, doku ve sessizlik: hafif rüzgar, kumaş çarpmaları, ıslak yutkunmalar, gurultular, dev bir öğürme, sıçrayan salya.
+SES: Arka plan müziği veya skor yok. Sadece diegetik ortam, foley, darbeler, doku ve sessizlik: hafif rüzgar, kumaş çarpmaları, ıslak yutkunmalar, gurultular, büyük bir öğürme, sıçrayan salya.
 
-PANEL VURUŞLARI:
-P01: Sabit düşük geniş çerçeve; C1 merkezde yalnız duruyor, kambur ve boşta, ağırlık hafifçe kayıyor; boş arka plan; hafif rüzgar.
-P02: Aynı çerçeve; C2 zemin çizgisinin arkasından sessizce yükseliyor, patchwork kütlesi C1'in üzerinde arka planı dolduruyor; çeneler ayrılmaya başlıyor; C1 tepki vermiyor; hafif kumaş gıcırtısı.
-P03: C2'nin açık çeneleri C1'in üzerine çarpıyor ve onu tek hızlı yudumda bütün olarak yutuyor; salya şeritleri kopuyor; ağız çarpılarak kapanıyor; ağır ıslak darbe.
-P04: C2 dik oturuyor, ağız kapalı, boğaz ve karın şişiyor ve yutkunup öğütürken hareket ediyor; boğuk gurultular; dudaklarından salya damlıyor.
-P05: Yanakları şişiyor, gözler acıyla kısılıyor ve sulanıyor, vücut mide bulantısıyla öne doğru bükülüyor; dişlerinin arasından salya sızıyor; yükselen inilti.
-P06: C2 öğürür ve C1'i ileri fırlatır; o, salyaya bulanmış halde ön plan merkezinde uzanır, kalın şeritler C2'nin açık duran ağzına kadar uzanır, o ise arkasında mide bulantısıyla çöker; sıçrama, sonra sessizlik.
+PANEL RİTİMLERİ:
+P01: Sabit düşük geniş çerçeve; C1 merkezde tek başına duruyor, kambur ve boşta, ağırlık hafifçe kayıyor; boş arka plan; hafif rüzgar.
+P02: Aynı çerçeve; C2 zemin çizgisinin arkasından sessizce yükseliyor, yama işi kütlesi C1'in üzerinde arka planı dolduruyor; çeneler ayrılmaya başlıyor; C1 tepki vermiyor; hafif kumaş gıcırtısı.
+P03: C2'nin açık çeneleri C1'in üzerine çöküyor ve onu tek hızlı lokmada bütün olarak yutuyor; salya şeritleri kopuyor; ağız sertçe kapanıyor; ağır ıslak darbe.
+P04: C2 dik oturuyor, ağız kapalı, boğaz ve karın yutkunup öğütürken şişiyor ve kayıyor; boğuk gurultular; dudaklarından salya sızıyor.
+P05: Yanakları şişiyor, gözler acıyla kısılıyor ve sulanıyor, vücut mide bulantısıyla öne doğru bükülüyor; salya dişlerinin arasından sızıyor; yükselen inilti.
+P06: C2 öğürür ve C1'i ileri fırlatır; o, salyaya bulanmış şekilde ön plan merkezinde yere serilir, kalın şeritler, o arkasında mide bulantısıyla çökerken açık duran ağzına kadar uzanır; sıçrama, ardından sessizlik.
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
@@ -1697,69 +1696,69 @@ P06: C2 öğürür ve C1'i ileri fırlatır; o, salyaya bulanmış halde ön pla
 
 ---
 
-### 17. GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…
+### 17. Beyaz Işın Kılıcı Kıyı Düellosu Taslak Panosu
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Beyaz Işın Kılıcı Kıyı Düellosu Taslak Panosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-GPT Image 2 Prompt for storyboard:
-Create a 16:9 image.
+Taslak panosu için GPT Image 2 İstemi:
+16:9 bir görsel oluştur.
 
 [PROJECT CARD]
-Create a compact designed masthead, not a table.
+Tablo değil, kompakt tasarlanmış bir başlık oluştur.
 TITLE: WHITE SABER SHORELINE DUEL
-META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
-PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
-MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+META LINE: gece ormanı / bilim kurgu kılıç aksiyonu / sisli kıyı çatışması tırmanışı
+PRIORITY: C1 kimliğini, yerdeki gemi coğrafyasını, C2 droid siluetini, beyaz kılıç savunmasını, kırmızı blaster yörüngelerini, ıslak kıyı yansımalarını, tekrarlanan kılıç saptırmalarını ve nihai şasi çöküşünü koru.
+MICRO BRIEF: C1'in beyaz kılıcını ateşlemesiyle başla, ardından Droideka tipi bir droidin blaster fırtınası arasında ilerleyişini, gelen birçok atışı saptırmasını ve droidi şasisinin altından kesip geçmesini göster.
 
 [CONTINUITY HEADER]
 SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
-REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+REFERENCE PRIORITY: İlk sağlanan görsel C1'in yüzünü, vücudunu, kıyafetini, oranlarını, siluetini, saçını, tavrını ve beyaz kılıç rolünü kontrol eder. İkinci sağlanan görsel gece ormanı kıyısını, yerdeki beyaz gemiyi, gövdeleri, su kenarını, pratik ışıkları, ıslak yansımaları ve oynanabilir coğrafyayı kontrol eder. Üçüncü sağlanan görsel C2 Droideka tipi savaş droidi şeklini, kırmızı kabuğu, siyah optik kümeyi, tripod bacaklarını, ikiz blasterleri, açık alt mekanizmaları ve agresif mekanik duruşu kontrol eder. Bu taslak panosu sahnelemeyi, hareketi, kamerayı, sürekliliği, çatışma ritmini ve efekt mantığını kontrol eder.
 
 [SCENE PACKET]
-PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
-LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
-START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
-ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
-PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
-MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+PREMISE: Yerdeki bir geminin yanındaki sisli bir orman kıyısında, C1 bir droid pususunu kırmızı blaster ateşi boyunca hassas bir beyaz kılıç ilerleyişine dönüştürür.
+LOCATION: Karanlık orman gölü kenarı, arkada uzun gövdeler, ekranın sağında yerdeki beyaz gemi, ön planda sığ su, merkezde ıslak kum, kıyı sisi, geminin düşük pratik ışıkları, C2 giriş hattı olarak orman kenarı, C1 ve C2 arasında açık çatışma şeridi.
+START -> END: C1 su hattı yakınında beyaz kılıcını ateşler -> C2 açılır, ateş eder, ilerler, yansıyan vuruşları emer ve C1 açıkta kalan alt kısmını kestikten sonra kıyıya çöker.
+ACTION CHAIN: beyaz kılıç ateşlemesi -> droid açılır ve ateş açar -> ilk yaylım ateşi kapanır -> C1 sığ suya döner -> beyaz kılıç atışları saptırır -> C2 açıyı değiştirir ve bombardımanı yoğunlaştırır -> C1 ateşi sürekli yönlendirirken ilerler -> tepeden atış fırtınası -> C2 ileri atılır -> yansıyan plazma zırhı sarsar -> kılıç yansımaları suyu işaretler -> portre duraklaması -> C2'den tek yönlü bombardıman C1'in savunma kılıç kafesiyle buluşur -> yan patlama -> nihai alt kesim ve çöküş.
+PROP / EFFECT STATE: C1'in elinde bir beyaz enerji kılıcı; kırmızı blaster atışları C2'nin ikiz toplarından kaynaklanır; C1 atışları beyaz kılıcıyla sürekli saptırır; yansıyan atışlar savaş alanında geri seker; kıvılcımlar, kıyı serpintisi, sis izleri, su tıslaması ve parçalanmış droid bileşenleri görsel olarak okunabilir kalır.
+MUST READ: Sakin bir beyaz kılıç savaşçısı, mesafeyi kapatmak ve droidi yakın mesafede bitirmek için tekrarlanan savunma yaylarını kullanarak kırmızı bir blaster fırtınasının merkezinde kalır.
 
 [CHARACTER SANITIZATION]
-C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
-C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+C1: genç yetişkin kadın, kısa dağınık sarı saç, kompakt atletik siluet, sarılı üst üzerinde kırpılmış beyaz panço benzeri manto, bej sarkan kuşak, koyu renkli bol kırpılmış pantolon, botlar, parmaksız eldivenler, kemer teçhizatı, tek beyaz enerji kılıcı, hızlı ayak hareketlerine ve sıkı bıçak kontrolüne dönüşen şiddetli durgunluk.
+C2: Droideka tipi savaş droidi, yuvarlak kırmızı-krem zırhlı üst gövde, kırmızı gözlü parlak siyah optik küme, tripod bacaklar, ikiz yan blasterler, açıkta kalan merkezi alt mekanizmalar, mekanik atılma duruşu, yüz değişikliği veya insansı yeniden tasarım yok.
+Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detayını ve bir panelde görünemeyecek geçmiş hikayesini kaldır.
 
 [IDENTITY CONSISTENCY]
-Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+Sağlanan C1 referansı yüzü, vücudu, kıyafeti, oranları, saçı ve silueti kontrol eder; sağlanan çevre referansı ayar çapalarını kontrol eder; sağlanan droid referansı C2 siluetini ve mekanik tasarımını kontrol eder. C1'in beyaz mantosunu, bej kuşağını, koyu pantolonunu, botlarını, eldivenlerini, kemerini ve tek beyaz kılıcını tutarlı tut. C2'nin yuvarlak üst kabuğunu, siyah optik kümesini, tripod duruşunu, ikiz toplarını ve açık alt kısmını tutarlı tut. Yeniden tasarlama, yaşlandırma, güzelleştirme, birleştirme, çoğaltma veya ekstra kılıçlar veya ekstra droidler ekleme.
 
 [STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+Panel görselleri sadece görsel, düşük detaylı monokrom açık gri kaba taslaklardır. Panel numaralarını, vuruş isimlerini ve lens etiketlerini her panel görselinin dışındaki başlık şeridine koy. Panellerin içinde renk, etiket, ok, altyazı, logo, filigran, zamanlama işareti, diyagram, UI, hayalet pozlar, kopya vücutlar veya teknik kaplamalar yok.
 
 [MASTER SHOT RULE]
-P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+P02 tam oynanabilir coğrafyayı gösterir: C1 ıslak kıyı ön planı/sol-merkez yakınında, ekranın sağında yerdeki gemi, ön planda göl, arka planda orman kenarı, kıyının ötesinde açılan C2 ve aralarında net bir çatışma şeridi.
 
 [EMOTIONAL ARC]
-Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+Ateşleme kararı -> mekanik tehdit ortaya çıkışı -> ilk tehlike artışı -> kontrollü savunma -> tekrarlanan kılıç saptırmaları -> artan baskı -> yakın mesafe kararlılığı -> C1'in göz hizası, bıçak yüksekliği, ayak hareketi, pelerin hareketi, droid duruşu, kapanan mesafe ve çöküş yoluyla gösterilen nihai etki.
 
 [STYLE LOCKS]
-STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
-EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
-ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+STYLE LOCK: kırık beyaz kağıt üzerinde temiz monokrom kaba taslak panoları, açık gri jest çizgileri, basitleştirilmiş orman/gemi/su/droid formları, net panel hiyerarşisi, sadece panel çiziminin dışında kısıtlanmış beyaz kılıç ve kırmızı blaster vurgusu.
+EFFECT LOCK: panellerin içinde, beyaz kılıç yayları, kırmızı blaster atışları, saptırma kıvılcımları, serpinti, sis, yansımalar ve parçalanmış parçalar sadece basit monokrom parlak şekillerdir; nihai video efekti, doymuş kırmızı atışlara, ıslak yansımalara, plazma kıvılcımlarına, kıyı serpintisine ve duman izlerine karşı beyaz kılıç parlaması kullanır.
+ENVIRONMENT LOCK: uzun dikey gövdeler, ekranın sağında yerdeki beyaz gemi, ön planda sığ göl, merkezde ıslak kum ve su hattı, karanlık yaprak cepleri, sis katmanı, geminin pratik ışıkları ve orman kenarı giriş yolu geniş ve tepeden görünümlerde sabit kalır.
 
 [SPATIAL CONTINUITY LOCK]
-P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+P01, P02, P04, P07, P08, P09, P13, P14 ve P15 aynı kıyı çatışma düzenini paylaşır. C1 sığ suyun yanında merkez-solda başlar ve şeridin orman kenarı tarafındaki C2'ye doğru ilerler. C2 arka planda/orman kenarında başlar, açılır, C1'e doğru ateş eder, ardından yan bitişe kadar C1'in karşısında kalarak daha yakına atılır. P13, gelen tüm kırmızı atışların sadece bir yönden, şeridin C2 tarafındaki C1'in beyaz kılıcına doğru geldiğini göstermelidir. Gemi ekranın sağında, göl/ıslak kum ön planda, gövdeler arka planda, orman kenarı C2'nin arkasında kalır. İzin verilen değişiklikler kamera mesafesi, kamera açısı, C1 pozu, C2 bacak/top konumu, kılıç izi yoğunluğu, atış yönü, yansıma durumu, zırh hasarı, serpinti, kıvılcımlar ve nihai çöküştür.
 
 [DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+Panel sütunlarıyla hizalanmış alt animatik iz panosu. İzler: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Çekim çipleri, ince çizgiler, ritim blokları, küçük yoğunluk çubukları, bir ila üç kelimelik etiketler kullan. Saniye veya zaman damgası yok.
+RHYTHM TRACK formatı: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP formatı: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
 PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
 CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
 ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
@@ -1769,37 +1768,37 @@ STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography 
 STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
 
 [SEQUENCE]
-Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
+Grid: Kompakt 5x3 sinematik taslak panosu sayfasında 15 panel; panel çizimi monokrom kaba taslak olarak kalırken, yönetmen şeridi beyaz kılıç ateşlemesinden tekrarlanan blaster saptırmalarına, tek yönlü P13 bombardımanına, yan geçişe ve nihai droid çöküşüne kadar tüm aksiyon tırmanışını taşır.
 
-You can find the prompts below.
+İstemleri aşağıda bulabilirsin.
 ```
 
 **🎬 Video istemi**
 
 ```
-Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[Char ref]  as C1 reference.
-Use @[Droideka ref] as C2 combat droid reference.
+Sekans için taslak panosu olarak @[Storyboard Ref] kullan. Her taslak panosu panelini tek bir sinematik sekans içindeki ardışık bir çekim olarak ele al. Panel sırasını tam olarak takip et ve alternatif kapsam icat etme. Fiziksel taslak panosu çizimi yerine panellerin ima ettiği çekilmiş sekansı yeniden oluştur.
+C1 referansı olarak @[Char ref] kullan.
+C2 savaş droidi referansı olarak @[Droideka ref] kullan.
 
-EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
-AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+EMOTIONAL GUIDANCE: Değer: odaklanmış sakinlikten kontrollü tehlikeye ve kararlı serbest bırakmaya. Uyarılma: ateşleme -> ortaya çıkış -> blaster artışı -> tekrarlanan saptırmalar -> fırtına baskısı -> duraklama -> tek yönlü bombardıman -> yan patlama -> etki, göz hizası, ayak hareketi, beyaz bıçak yüksekliği, pelerin hareketi, droid sürüşü, kıvılcımlar, serpinti, çöküş yoluyla gösterilir.
+AUDIO: Arka plan müziği veya skor yok. Sadece diegetik ortam, foley, etkiler, doku ve sessizlik kullan: göl şıpıltıları, servolar, beyaz kılıç vızıltısı, blasterler, saptırmalar, su tıslaması, botlar, pelerin hareketi, metal çöküşü.
 
 BEATS:
-1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
-2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
-3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
-4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
-5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
-6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
-7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
-8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
-9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
-10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
-11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
-12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
-13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
-14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
-15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+1: Profil itişi. C1 beyaz kılıcı ateşler; ışık ıslak kum, su ve yerdeki gemi üzerinde yansır.
+2: Düşük geniş. C2 orman kenarında tripod savaş duruşuna açılır, ikiz blasterler C1'e doğru döner.
+3: Makro patlama. Kırmızı atışlar sis ve kıyı serpintisi boyunca her iki toptan fırlar.
+4: Düşük patlama. C1 döner, ilk yaylım ateşi kapanırken botları sığ suyu keser.
+5: Çatışma. Beyaz kılıç atışları yakalar; kıvılcımlar ve yansıyan plazma kıyıya saçılır.
+6: Sıkı. C2 açıyı değiştirip ateşi yoğunlaştırırken C1'in göz hizası değişir.
+7: Geniş akış. C1 ilerler, kırmızı atışları beyaz kılıç yaylarıyla sürekli geri saptırır.
+8: Tepeden. Kırmızı atışlar birleşirken C1 merkezde kalır, fırtınayı C2'ye doğru geri saptırır.
+9: Yan takip. C2 tripod bacakları üzerinde atılır, baskıcı ateş altında mesafeyi kapatır.
+10: Etki. Yansıyan plazma C2 zırhına çarpar, durdurmadan kısa bir sarsıntıya zorlar.
+11: Su girişi. Atışlar sekerken ve tıslarken beyaz kılıç izi göl yansıması boyunca kıvrılır.
+12: Portre duraklaması. C1 ve C2 hareketsiz kalır; kılıç vızıltısı, su damlaması ve servolar havayı doldurur.
+13: Yörünge. Gelen tüm kırmızı atışlar sadece bir yönden, C2'nin tarafından gelir; C1'in beyaz kılıcı ateş duvarını saptıran aydınlık bir kafes sarar.
+14: Patlama yakın. C1 son yaylım ateşini geçer, C2'nin yanına ulaştığında pelerini hareket eder.
+15: Kahraman bitişi. Beyaz kılıç C2'nin altındaki açık mekanizmaları keser; droid kıyıya çökerken kıvılcımlar ve parçalar dışarı doğru patlar.
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
@@ -1812,94 +1811,94 @@ BEATS:
 
 ---
 
-### 18. SUBJECT: < <<<image_1>>>> WARDROBE: Stylish artist outfit consisting…
+### 18. Lionel Messi Portresi Çizen Sanatçı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064545143693382061_0_poster.jpg" width="480" alt="SUBJECT: < <<<image_1>>>> WARDROBE: Stylish artist outfit consisting…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064545143693382061_0_poster.jpg" width="480" alt="Lionel Messi Portresi Çizen Sanatçı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-SUBJECT: < <<<image_1>>>>
-WARDROBE: Stylish artist outfit consisting of paint-splattered denim overalls over a fitted white tank top. Colorful paint marks scattered naturally across the fabric. Hair tied into a messy creative bun with loose face-framing strands. The front bib of the overalls features a clearly visible embroidered "Zara" patch throughout the video.
+KONU: < <<<image_1>>>>
+KIYAFET: Üzerine oturan beyaz bir atletin üzerine giyilmiş, boya sıçramış kot tulumdan oluşan şık sanatçı kıyafeti. Kumaşın üzerine doğal bir şekilde dağılmış renkli boya izleri. Dağınık, yaratıcı bir topuz yapılmış saçlar ve yüzden sarkan gevşek tutamlar. Tulumun ön cebinde video boyunca net bir şekilde görünen işlemeli bir "Zara" yaması bulunur.
 
-ENVIRONMENT: Bright contemporary art studio with large floor-to-ceiling windows. Wooden easel centered with a blank white canvas. Worktable covered with acrylic paints, brushes, palettes, palette knives, paint jars, sketchbooks, and colorful paint splatters. Sports magazines and football posters subtly decorate the background. Natural daylight fills the room.
+ORTAM: Yerden tavana kadar büyük pencereleri olan aydınlık, çağdaş bir sanat stüdyosu. Ortada boş beyaz bir tuval bulunan ahşap şövale. Akrilik boyalar, fırçalar, paletler, palet bıçakları, boya kavanozları, eskiz defterleri ve renkli boya sıçramalarıyla kaplı çalışma masası. Arka planda spor dergileri ve futbol posterleri incelikle dekore edilmiştir. Odayı doğal gün ışığı doldurur.
 
-MOOD: Creative obsession, intense focus, artistic flow state, passionate admiration for a football legend, energetic craftsmanship.
+RUH HALİ: Yaratıcı takıntı, yoğun odaklanma, sanatsal akış hali, bir futbol efsanesine duyulan tutkulu hayranlık, enerjik işçilik.
 
-MUSIC: Fast-paced orchestral percussion mixed with rhythmic drums, building momentum throughout the creation process.
+MÜZİK: Yaratım süreci boyunca ivme kazanan, ritmik davullarla harmanlanmış hızlı tempolu orkestral perküsyon.
 
-COLOR LOGIC: Blank white canvas evolves into a vibrant, highly detailed portrait of Lionel Messi. Bright studio neutrals contrasted against rich blues, whites, golds, skin tones, and colorful paint pigments.
+RENK MANTIĞI: Boş beyaz tuval, Lionel Messi'nin canlı, son derece detaylı bir portresine dönüşür. Parlak stüdyo nötrleri; zengin maviler, beyazlar, altın tonları, ten renkleri ve renkli boya pigmentleriyle kontrast oluşturur.
 
-STYLE: Ultra-realistic cinematic art documentary, high-speed kinetic editing, satisfying creative process visuals, dynamic camera movement, Edgar Wright-inspired pacing.
+STİL: Ultra gerçekçi sinematik sanat belgeseli, yüksek hızlı kinetik kurgu, tatmin edici yaratıcı süreç görselleri, dinamik kamera hareketi, Edgar Wright esintili tempo.
 
-LOGIC RULE: Blank canvas progressively transforms into a realistic painted portrait of Lionel Messi. Every stroke contributes logically to the final artwork. The "Zara" patch remains visible whenever the artist is shown.
+MANTIK KURALI: Boş tuval giderek Lionel Messi'nin gerçekçi bir boyalı portresine dönüşür. Her fırça darbesi nihai sanat eserine mantıksal olarak katkıda bulunur. Sanatçı her göründüğünde "Zara" yaması görünür kalır.
 
 ---
 
-SHOT 1:
+SAHNE 1:
 
-MCU, 35mm handheld / Girl stands before a blank canvas. A Messi reference photo is clipped beside the easel. She studies both intensely and cracks her knuckles. / SFX: room ambience, knuckle crack.
+MCU, 35mm el kamerası / Kız boş bir tuvalin önünde duruyor. Şövalenin yanında Messi'nin bir referans fotoğrafı asılı. İkisini de yoğun bir şekilde inceliyor ve parmaklarını çıtlatıyor. / SFX: oda ambiyansı, parmak çıtlatma.
 
-SHOT 2:
+SAHNE 2:
 
-Insert, 85mm macro / Paint tubes slam onto the table in rapid succession. Blue, white, black, gold, and skin-tone colors scatter across the workspace. / SFX: quick thumps.
+Insert, 85mm makro / Boya tüpleri masaya hızla arka arkaya vuruluyor. Mavi, beyaz, siyah, altın ve ten rengi tonları çalışma alanına dağılıyor. / SFX: hızlı vuruşlar.
 
-SHOT 3:
+SAHNE 3:
 
-ECU, 100mm macro / Thick ribbons of paint are squeezed dramatically onto a palette. / SFX: paint squish.
+ECU, 100mm makro / Kalın boya şeritleri dramatik bir şekilde paletin üzerine sıkılıyor. / SFX: boya ezilme sesi.
 
-SHOT 4:
+SAHNE 4:
 
-Insert, 50mm / Brushes are grabbed rapidly from a jar like selecting tools before battle. / SFX: brush clatter.
+Insert, 50mm / Fırçalar, savaştan önce alet seçer gibi bir kavanozdan hızla alınıyor. / SFX: fırça tıkırtısı.
 
-SHOT 5:
+SAHNE 5:
 
-MS, 24mm push-in / First sketch lines appear on the blank canvas, outlining Messi's face and shoulders. The Zara patch is clearly visible. / SFX: pencil scratch.
+MS, 24mm push-in / Boş tuval üzerinde Messi'nin yüzünü ve omuzlarını ana hatlarıyla belirten ilk eskiz çizgileri beliriyor. Zara yaması net bir şekilde görülüyor. / SFX: kalem karalama sesi.
 
-SHOT 6:
+SAHNE 6:
 
-ECU, 85mm tracking / Rapid brush strokes establish facial structure, hair, and beard contours. / SFX: paint swishes.
+ECU, 85mm takip / Hızlı fırça darbeleri yüz yapısını, saç ve sakal hatlarını oluşturuyor. / SFX: boya sürtünme sesleri.
 
-SHOT 7:
+SAHNE 7:
 
-Insert, 100mm macro / Palette knife spreads textured paint across key areas of the portrait. / SFX: scrape.
+Insert, 100mm makro / Palet bıçağı, dokulu boyayı portrenin kilit bölgelerine yayıyor. / SFX: kazıma sesi.
 
-SHOT 8:
+SAHNE 8:
 
-Overhead WS, 24mm / Timelapse burst as the portrait rapidly takes shape. Messi's recognizable features emerge. / SFX: layered artistic sounds.
+Üstten WS, 24mm / Portre hızla şekillenirken hızlandırılmış çekim (timelapse). Messi'nin tanınabilir özellikleri ortaya çıkıyor. / SFX: katmanlı sanatsal sesler.
 
-SHOT 9:
+SAHNE 9:
 
-MCU, 35mm handheld / Girl steps back, compares the painting to the reference photo, nods, then jumps back into action. Zara patch visible. / SFX: footsteps.
+MCU, 35mm el kamerası / Kız geri adım atıyor, tabloyu referans fotoğrafıyla karşılaştırıyor, başını sallıyor ve ardından tekrar işe koyuluyor. Zara yaması görünüyor. / SFX: ayak sesleri.
 
-SHOT 10:
+SAHNE 10:
 
-Insert, 85mm macro / Detailed brushwork refines Messi's eyes, beard, and facial expression. / SFX: brush flicks.
+Insert, 85mm makro / Detaylı fırça çalışması Messi'nin gözlerini, sakalını ve yüz ifadesini iyileştiriyor. / SFX: fırça darbeleri.
 
-SHOT 11:
+SAHNE 11:
 
-MS, 35mm tracking / Rapid layering of highlights and shadows adds realism and depth. / SFX: rhythmic brush strokes.
+MS, 35mm takip / Vurguların ve gölgelerin hızlı katmanlanması gerçekçilik ve derinlik katıyor. / SFX: ritmik fırça darbeleri.
 
-SHOT 12:
+SAHNE 12:
 
-ECU, 100mm macro / Tiny highlights are added to the eyes, bringing the portrait to life. / SFX: delicate strokes.
+ECU, 100mm makro / Gözlere küçük vurgular eklenerek portreye hayat veriliyor. / SFX: narin darbeler.
 
-SHOT 13:
+SAHNE 13:
 
-Overhead Timelapse / The artwork evolves into a polished, gallery-worthy portrait of Messi. / SFX: artistic montage.
+Üstten hızlandırılmış çekim / Sanat eseri, Messi'nin cilalı, galeriye layık bir portresine dönüşüyor. / SFX: sanatsal montaj.
 
-SHOT 14:
+SAHNE 14:
 
-MCU, 50mm / Girl signs the bottom corner of the painting with one confident brush stroke. / SFX: signature brush.
+MCU, 50mm / Kız, tablonun alt köşesini tek bir kendinden emin fırça darbesiyle imzalıyor. / SFX: imza fırçası.
 
-SHOT 15:
+SAHNE 15:
 
-MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fills the frame. Bright colors glow in the daylight. She folds her arms, smiles proudly, and nods toward the artwork. The Zara patch is clearly visible. / SFX: triumphant musical climax, music end.
+MS, 35mm ortaya çıkış / Lionel Messi'nin tamamlanmış portresi çerçeveyi doldururken kenara çekiliyor. Parlak renkler gün ışığında parlıyor. Kollarını kavuşturuyor, gururla gülümsüyor ve sanat eserine doğru başını sallıyor. Zara yaması net bir şekilde görülüyor. / SFX: zafer dolu müzikal zirve, müzik sonu.
 ```
 
 **Gönderen** [Zara ✓](https://x.com/ZaraIrahh) (@ZaraIrahh) · 14.3K takipçi
@@ -1912,19 +1911,19 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 
 ---
 
-### 19. @ Img use attached photo as the main character, preserve exact face a…
+### 19. Ekstrem Çatı Dublörlüğü Viral Videosu
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064221412420948212_0_poster.jpg" width="480" alt="@ Img use attached photo as the main character, preserve exact face a…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064221412420948212_0_poster.jpg" width="480" alt="Ekstrem Çatı Dublörlüğü Viral Videosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-@ Img use attached photo as the main character, preserve exact face and identity throughout. Vertical 9:16 raw smartphone UGC footage, handheld, no stabilization, nighttime in São Paulo, Brazil, dense high-rise skyline with hundreds of lit apartment windows, blinking red tower lights, deep navy-black sky. Rooftop helipad 25 floors high with olive-green surface, white H and yellow circle. Main character stands near the edge while 3–4 male friends cheer and film on phones. He suddenly jumps from the rooftop and enters a fast freefall, camera tracking from above as building facades blur past and the street rushes closer. Aerial view looking straight down reveals a giant rectangular elastic stunt pad on the street surrounded by bright blue and rainbow LED lights; he falls directly toward its center. Massive impact: the elastic surface stretches dramatically downward, LEDs flare, camera shakes, then launches him explosively back upward. Tracking shot follows him soaring alongside the building past floor after floor of lit windows, face visible, exhilarated expression, arms spread, clothes and hair whipping in the wind. He reaches rooftop height and silhouettes briefly against the night sky before landing back on the helipad. Friends rush toward him celebrating, jumping, shouting, filming on phones, ending in a chaotic group hug full of genuine excitement and laughter. Style: authentic viral thrill-seeking UGC, realistic physics, low-light sensor grain, handheld shake in every shot, natural motion blur, dangerous spontaneous energy, no color grading, no filters, no cinematic look, no VFX, no slow motion, no AI faces, no unrealistic physics.
+@ Img ekteki fotoğrafı ana karakter olarak kullan, yüzü ve kimliği boyunca tam olarak koru. Dikey 9:16 ham akıllı telefon UGC görüntüleri, elde çekim, sabitleme yok, gece vakti São Paulo, Brezilya, yüzlerce ışıklı apartman penceresiyle yoğun gökdelen silüeti, yanıp sönen kırmızı kule ışıkları, koyu lacivert-siyah gökyüzü. 25 kat yüksekliğinde zeytin yeşili yüzeyli, beyaz H ve sarı daireli çatı helikopter pisti. Ana karakter kenarın yakınında dururken 3-4 erkek arkadaşı tezahürat yapıyor ve telefonlarıyla çekim yapıyor. Aniden çatıdan atlıyor ve hızlı bir serbest düşüşe geçiyor, kamera yukarıdan takip ederken bina cepheleri bulanıklaşıyor ve sokak hızla yaklaşıyor. Doğrudan aşağıya bakan hava görünümü, sokakta parlak mavi ve gökkuşağı LED ışıklarıyla çevrili dev dikdörtgen elastik bir dublör pedi ortaya çıkarıyor; doğrudan merkezine düşüyor. Devasa darbe: elastik yüzey dramatik bir şekilde aşağı doğru esniyor, LED'ler parlıyor, kamera sarsılıyor, ardından onu patlayıcı bir şekilde tekrar yukarı fırlatıyor. Takip çekimi, binanın yanında, ışıklı pencerelerin kat kat yanından süzülürken onu takip ediyor, yüzü görünür, coşkulu ifade, kollar açık, kıyafetler ve saçlar rüzgarda savruluyor. Çatı yüksekliğine ulaşıyor ve gece gökyüzüne karşı kısaca silüeti beliriyor, ardından helikopter pistine geri iniyor. Arkadaşlar ona doğru koşup kutluyor, zıplıyor, bağırıyor, telefonlarla çekim yapıyor, gerçek bir heyecan ve kahkahayla dolu kaotik bir grup sarılmasıyla bitiyor. Stil: otantik viral heyecan arayan UGC, gerçekçi fizik, düşük ışık sensörü greni, her çekimde elde sarsıntı, doğal hareket bulanıklığı, tehlikeli spontane enerji, renk düzenlemesi yok, filtre yok, sinematik görünüm yok, VFX yok, ağır çekim yok, AI yüzleri yok, gerçekçi olmayan fizik yok.
 ```
 
 **Gönderen** [WasifAI ✓](https://x.com/doctorwasif) (@doctorwasif) · 7.9K takipçi
@@ -1937,12 +1936,12 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 
 ---
 
-### 20. monster --ar 16:9 --profile 71b4wk5 --stylize 1000 Then used my chara…
+### 20. Ash ve Borg: Sinematik Şehir Düellosu
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063565204848324825_0_poster.jpg" width="480" alt="monster --ar 16:9 --profile 71b4wk5 --stylize 1000 Then used my chara…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063565204848324825_0_poster.jpg" width="480" alt="Ash ve Borg: Sinematik Şehir Düellosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -1951,103 +1950,104 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 ```
 monster --ar 16:9 --profile 71b4wk5 --stylize 1000
 
-Then used my character identity board prompt to create sheets for them. You can find it in my posts. 
+Ardından karakter kimliği panosu istemimi kullanarak onlar için sayfalar oluşturdum. Bunu gönderilerimde bulabilirsiniz.
 
-Then I created character sheets and a storyboard. I shared the storyboard skill file with my subscribers recently.
+Sonrasında karakter sayfaları ve bir storyboard hazırladım. Storyboard beceri dosyasını yakın zamanda abonelerimle paylaştım.
 
-This wasn't a single generation of the storyboard. I experimented with a few different approaches, including fast cuts, speed ramps and continuous one-shot ideas. Eventually, I hand wrote every panel and used the skill to generate the storyboard and video prompts.
+Bu, storyboard'un tek seferlik bir üretimi değildi. Hızlı kesimler, hız rampaları ve sürekli tek çekim fikirleri dahil olmak üzere birkaç farklı yaklaşım denedim. Sonunda her paneli elle yazdım ve storyboard ile video istemlerini oluşturmak için bu beceriyi kullandım.
 
-This version isn't a one-shot generation. It's actually the second generation. The first one had some problems, and this one still doesn't follow the prompt perfectly but I was happy enough with the final result. If you try to fit too much into 15 seconds, the model sometimes cuts corners and skips parts of the sequence.
+Bu sürüm tek seferlik bir üretim değil. Aslında ikinci üretim. İlkinin bazı sorunları vardı ve bu da istemi mükemmel bir şekilde takip etmiyor ancak nihai sonuçtan yeterince memnun kaldım. 15 saniyeye çok fazla şey sığdırmaya çalışırsanız, model bazen kestirmeden gider ve sekansın bazı kısımlarını atlar.
 
-GPT Image 2 Storyboard Prompt:
+GPT Görsel 2 Storyboard İstemi:
 
-Create a 16:9 image.
+16:9 bir görsel oluştur.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: ASH VS BORG / SHADOW FEINT, MOLTEN COUNTER
-META LINE: hidden-cut cinematic action / sunlit city duel / lava-hand weapon choreography
-PRIORITY: 10-shot hidden-cut long-take illusion; Ash uses hand-born lava weapons and shadow disappearance, Borg uses fire-resistant brute force, high jumps, grabs, and close-range punches.
-MICRO BRIEF: Ash stands calm as lava leaks from his hands; Borg rushes him, pulls the fight upward, tanks molten attacks, and drives Ash into a building before Ash fires one last lava counter.
+[PROJE KARTI]
+Tablo değil, kompakt tasarımlı bir künye oluştur.
+BAŞLIK: ASH VS BORG / GÖLGE ÇALIMI, ERİMİŞ KARŞILIK
+META SATIRI: gizli kesimli sinematik aksiyon / güneşli şehir düellosu / lav-el silah koreografisi
+ÖNCELİK: 10 çekimlik gizli kesimli uzun çekim illüzyonu; Ash el yapımı lav silahları ve gölgede kaybolma kullanır, Borg ateşe dayanıklı kaba kuvvet, yüksek zıplamalar, yakalamalar ve yakın mesafe yumrukları kullanır.
+KISA ÖZET: Ash ellerinden lav sızarken sakin durur; Borg ona doğru atılır, kavgayı yukarı taşır, erimiş saldırıları göğüsler ve Ash'i bir binaya sürükler, ardından Ash son bir lav karşılığı ateşler.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: ASH_BORG_HIDDENCUT_LAVA_COUNTER_V04
-REFERENCE PRIORITY: Use image1 as ASH identity reference and image2 as BORG identity reference; references control face, body, wardrobe, proportions, silhouettes, head shapes, surface details; storyboard controls staging, motion, geography, continuity.
+[SÜREKLİLİK BAŞLIĞI]
+SEKANS KİMLİĞİ: ASH_BORG_HIDDENCUT_LAVA_COUNTER_V04
+REFERANS ÖNCELİĞİ: Ash kimlik referansı olarak image1'i ve Borg kimlik referansı olarak image2'yi kullanın; referanslar yüzü, vücudu, kıyafeti, oranları, silüetleri, kafa şekillerini, yüzey detaylarını kontrol eder; storyboard sahnelemeyi, hareketi, coğrafyayı, sürekliliği kontrol eder.
 
-[SCENE PACKET]
-PREMISE: Ash and Borg fight across a bright city block in a seamless hidden-cut flow, not a strict one-shot; every transition is motivated by shadow, body occlusion, lava passing the lens, impact dust, or wall debris.
-LOCATION: sunlit city street; yellow taxi, blue bus stop, glass storefront, red awnings, white crosswalk, hard shadows under vehicles, building facade at rear, scattered barriers and street debris.
-START -> END: close on Ash's hand as lava drips while he stands still -> Borg charges again after punching Ash into a building, and Ash fires lava from both hands as the scene ends mid-counter.
-ACTION CHAIN: lava-hand close-up -> Borg rushes -> Ash vanishes into ground shadow and appears behind Borg on the same attack line -> Ash catches Borg's legs -> Borg uses the grip as leverage, jumps anyway, and drags Ash upward -> Borg punches Ash in air -> Ash passes lens in motion blur, recovers enough to fire lava back -> Borg cross-blocks, brief suspended dialogue beat -> Ash answers -> Borg jumps after Ash and targets the shadow escape point -> Ash teleports away -> Borg breaks the ground shadow Ash used -> Ash attacks with lava again -> Borg blocks one-handed -> close fist exchange with banter -> Borg lands heavy punch -> Ash crashes into building, catches himself, plants feet -> Borg charges -> Ash fires final lava counter.
-PROP / EFFECT STATE: Ash's lava leaks only from his palms and fingers as liquid weapon matter: whips, blades, hooks, bands, molten droplets, cutting arcs. Lava never carries Ash for movement. Ash moves by footwork and shadow disappearance/reappearance. Borg is fire-resistant and never emits fire, flame, embers, smoke, or heat glow of his own; lava steams on his armor only because Ash's lava touches him.
-MUST READ: Ash's lava is a hand-born weapon system; Borg resists heat and answers with physical force; hidden cuts keep the flow cinematic without forcing impossible camera physics.
+[SAHNE PAKETİ]
+ÖN BİLGİ: Ash ve Borg, katı bir tek çekim değil, kesintisiz bir gizli kesim akışıyla parlak bir şehir bloğunda savaşır; her geçiş gölge, vücut tıkanıklığı, lensin önünden geçen lav, darbe tozu veya duvar enkazı ile motive edilir.
+KONUM: güneşli şehir sokağı; sarı taksi, mavi otobüs durağı, cam vitrin, kırmızı tenteler, beyaz yaya geçidi, araçların altında sert gölgeler, arkada bina cephesi, dağınık bariyerler ve sokak enkazı.
+BAŞLANGIÇ -> BİTİŞ: Ash'in eli lav damlarken hareketsiz durduğu yakın çekim -> Borg'un Ash'i bir binaya yumrukladıktan sonra tekrar saldırması ve sahne karşı saldırı ortasında biterken Ash'in her iki elinden lav ateşlemesi.
+AKSİYON ZİNCİRİ: lav-el yakın çekimi -> Borg atılır -> Ash yer gölgesine karışır ve aynı saldırı hattında Borg'un arkasında belirir -> Ash Borg'un bacaklarını yakalar -> Borg tutuşu kaldıraç olarak kullanır, yine de zıplar ve Ash'i yukarı sürükler -> Borg havada Ash'i yumruklar -> Ash hareket bulanıklığı içinde lensin önünden geçer, lav ateşleyecek kadar toparlanır -> Borg çapraz blok yapar, kısa askıda diyalog anı -> Ash cevap verir -> Borg Ash'in peşinden zıplar ve gölge kaçış noktasını hedefler -> Ash ışınlanır -> Borg Ash'in kullandığı yer gölgesini kırar -> Ash tekrar lavla saldırır -> Borg tek elle bloklar -> şakalarla yakın yumruk değişimi -> Borg ağır yumruk indirir -> Ash binaya çarpar, kendini yakalar, ayaklarını yere basar -> Borg atılır -> Ash son lav karşılığını ateşler.
+DONANIM / ETKİ DURUMU: Ash'in lavı sadece avuç içlerinden ve parmaklarından sıvı silah maddesi olarak sızar: kırbaçlar, bıçaklar, kancalar, bantlar, erimiş damlacıklar, kesici yaylar. Lav, Ash'i hareket için asla taşımaz. Ash ayak çalışması ve gölgede kaybolma/belirme ile hareket eder. Borg ateşe dayanıklıdır ve asla kendi başına ateş, alev, köz, duman veya ısı parıltısı yaymaz; lav sadece Ash'in lavı ona değdiği için zırhında buharlaşır.
+OKUNMALI: Ash'in lavı el yapımı bir silah sistemidir; Borg ısıya direnir ve fiziksel güçle cevap verir; gizli kesimler, imkansız kamera fiziğini zorlamadan akışı sinematik tutar.
 
-[CHARACTER SANITIZATION]
-C1 ASH: adult male-coded fighter, tall lean jagged silhouette, black spiked hair, dark face, torn fitted black suit, lava-stone cracks, orange eyes, one eye flame, clawed hands, calm stance, sudden shadow disappearance, aggressive hand-weapon strikes.
-C2 BORG: adult male-coded fighter, tall powerful drifter silhouette, bone helmet skull face, black punk crest, tattered dark coat, bone spikes, worn boots, fire-resistant body, huge jump ability, destructive landing force, no fire emission.
-C3 civilians: tiny edge silhouettes only, already fleeing through background gaps.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[KARAKTER TEMİZLİĞİ]
+C1 ASH: yetişkin erkek kodlu dövüşçü, uzun ince keskin silüet, siyah dikenli saç, koyu yüz, yırtık siyah takım elbise, lav-taş çatlakları, turuncu gözler, tek göz alev, pençeli eller, sakin duruş, ani gölge kaybolması, agresif el-silah vuruşları.
+C2 BORG: yetişkin erkek kodlu dövüşçü, uzun güçlü serseri silüeti, kemik kask kafatası yüzü, siyah punk ibiği, yırtık koyu palto, kemik dikenleri, yıpranmış botlar, ateşe dayanıklı vücut, devasa zıplama yeteneği, yıkıcı iniş gücü, ateş yaymaz.
+C3 siviller: sadece küçük kenar silüetleri, arka plan boşluklarından kaçıyorlar.
+Çelişkili özellikleri, görünmez psikolojiyi, aşırı kostüm detayını ve bir panelde görünemeyecek geçmiş hikayeyi kaldırın.
 
-[IDENTITY CONSISTENCY]
-image1 controls Ash identity; image2 controls Borg identity. Keep Ash lean lava-shadow silhouette and Borg bone-helmet punk-spiked silhouette distinct in every panel. Do not merge characters, redesign outfits, turn either into generic monsters, or frame either as the sole antagonist.
+[KİMLİK TUTARLILIĞI]
+image1 Ash kimliğini kontrol eder; image2 Borg kimliğini kontrol eder. Ash'in ince lav-gölge silüetini ve Borg'un kemik-kask punk-dikenli silüetini her panelde belirgin tutun. Karakterleri birleştirmeyin, kıyafetleri yeniden tasarlamayın, ikisini de genel canavarlara dönüştürmeyin veya ikisini de tek antagonist olarak çerçevelemeyin.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, speech bubbles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[STORYBOARD SAFLIĞI]
+Panel görselleri sadece görsel, düşük detaylı monokrom açık gri kaba eskizlerdir. Panel numaralarını, vuruş isimlerini ve lens etiketlerini her panel görselinin dışındaki başlık şeridine koyun. Panellerin içinde renk, etiket, ok, başlık, altyazı, konuşma balonu, logo, filigran, zamanlama işareti, diyagram, arayüz, hayalet poz, kopya vücut veya teknik katman olmasın.
 
-[MASTER SHOT RULE]
-P01 begins close, but P02 widens enough to establish the usable combat lane: crosswalk foreground, taxi screen right, bus stop screen left, glass storefront and building facade rear, hard ground shadows for Ash's teleport.
+[ANA ÇEKİM KURALI]
+P01 yakın başlar, ancak P02 kullanılabilir dövüş şeridini oluşturacak kadar genişler: yaya geçidi ön plan, taksi ekran sağı, otobüs durağı ekran solu, cam vitrin ve bina cephesi arka, Ash'in ışınlanması için sert yer gölgeleri.
 
-[EMOTIONAL ARC]
-calm threat -> sudden rush -> shadow reversal -> airborne brutality -> molten counter -> fireproof confidence -> failed escape -> close-quarters pressure -> hard wall impact -> unresolved counterattack.
+[DUYGUSAL YAY]
+sakin tehdit -> ani atılma -> gölge tersine çevirme -> havada vahşet -> erimiş karşılık -> ateşe dayanıklı güven -> başarısız kaçış -> yakın mesafe baskısı -> sert duvar darbesi -> çözülmemiş karşı saldırı.
 
-[STYLE LOCKS]
-STYLE LOCK: clean monochrome rough-sketch storyboard panels; final video intent is bright colorful daytime stylized mixed-media 3D action, crisp silhouettes, saturated city accents, warm sun, readable molten weapon VFX, hidden-cut long-take illusion, heavy punch choreography, hard impacts, and readable combat geography.
-EFFECT LOCK: Ash lava weapons are hand-born: dripping palms, whip lashes, blade fans, hook curves, binding bands, molten droplets, heat shimmer, sticky contact, steam bursts. They never carry Ash for movement. Borg resists flame and never emits fire, flame, embers, smoke, or heat glow of his own.
-ENVIRONMENT LOCK: yellow taxi, blue bus stop, red awnings, bright glass, white crosswalk, hard shadows, building facade, sunlit concrete; colorful daylight, not noir.
+[STİL KİLİTLERİ]
+STİL KİLİDİ: temiz monokrom kaba eskiz storyboard panelleri; nihai video amacı parlak renkli gündüz stilize edilmiş karma medya 3D aksiyon, net silüetler, doygun şehir vurguları, sıcak güneş, okunabilir erimiş silah VFX, gizli kesimli uzun çekim illüzyonu, ağır yumruk koreografisi, sert darbeler ve okunabilir dövüş coğrafyası.
+ETKİ KİLİDİ: Ash lav silahları el yapımıdır: damlayan avuç içleri, kırbaç darbeleri, bıçak yelpazeleri, kanca kıvrımları, bağlayıcı bantlar, erimiş damlacıklar, ısı parıltısı, yapışkan temas, buhar patlamaları. Ash'i hareket için asla taşımazlar. Borg aleve direnir ve asla kendi başına ateş, alev, köz, duman veya ısı parıltısı yaymaz.
+ÇEVRE KİLİDİ: sarı taksi, mavi otobüs durağı, kırmızı tenteler, parlak cam, beyaz yaya geçidi, sert gölgeler, bina cephesi, güneşli beton; renkli gün ışığı, kara film değil.
 
-[SPATIAL CONTINUITY LOCK]
-Seamless hidden-cut route across one city lane. Preserve screen direction: Borg pressures from screen left toward screen right; Ash uses ground shadows to reposition behind or aside without reversing the axis. Reuse anchors: crosswalk, taxi, bus stop, storefront glass, building facade, hard ground shadows. Allowed changes: camera height/distance/orbit, lens feel, foreground occlusion, lava weapon shape, Borg jump height, wall damage, ground damage, steam, debris.
+[MEKANSAL SÜREKLİLİK KİLİDİ]
+Bir şehir şeridi boyunca kesintisiz gizli kesim rotası. Ekran yönünü koruyun: Borg ekran solundan ekran sağına baskı yapar; Ash, ekseni tersine çevirmeden arkaya veya yana yeniden konumlanmak için yer gölgelerini kullanır. Çapaları yeniden kullanın: yaya geçidi, taksi, otobüs durağı, vitrin camı, bina cephesi, sert yer gölgeleri. İzin verilen değişiklikler: kamera yüksekliği/mesafesi/yörüngesi, lens hissi, ön plan tıkanıklığı, lav silahı şekli, Borg zıplama yüksekliği, duvar hasarı, zemin hasarı, buhar, enkaz.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps. Each panel is a consecutive shot beat connected by a hidden transition, preserving one flowing fight.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / macro insert / molten hand calm -> P02 / 24mm wide / Borg rush shadow vanish -> P03 / 35mm low / rear leg catch -> P04 / 24mm vertical / leverage jump punch -> P05 / 50mm / suspended cross-block -> P06 / 24mm follow / shadow point break -> P07 / 35mm side / one-arm block -> P08 / 50mm orbit / rapid punch exchange -> P09 / 35mm impact / building slam recovery -> P10 / anamorphic wide / final lava counter.
-CAMERA + LENS PLAN: P01 macro hand close-up, lava drips; hidden cut by lava crossing lens -> P02 wide as Borg rushes and Ash drops into ground shadow; hidden cut by Borg body occlusion -> P03 low rear reveal as Ash appears behind Borg on the same attack line and catches both legs; hidden cut by upward motion blur -> P04 vertical follow as Borg uses Ash's leg grip as leverage, jumps anyway, drags Ash upward, and punches him; hidden cut by Ash passing close to lens -> P05 medium as Ash recovers mid-flight and fires lava, Borg cross-blocks, then both hold a brief suspended dialogue beat; hidden cut by steam burst -> P06 follow Borg's high leap toward Ash's last shadow point, then ground impact after Ash teleports aside; hidden cut by debris wipe -> P07 side track as Ash attacks with lava again and Borg blocks one-handed; hidden cut by forearm occlusion -> P08 close orbit during rapid punches and dialogue; hidden cut by Borg fist crossing lens -> P09 impact shot as Borg punches Ash into building; hidden cut by wall dust and Ash's recovery movement -> P10 wide as Ash catches himself against the cracked facade, plants both feet, and fires both lava hands as Borg charges.
-ACTION PATH: P01 Ash stands still; close on one hand as lava leaks between fingers -> P02 Borg rushes straight at Ash; Ash sinks into the ground shadow before contact -> P03 Ash appears behind Borg on the same left-to-right attack line, grabs both legs with lava hooks and hand grip -> P04 Borg uses the leg catch as leverage, jumps anyway, drags Ash upward, and punches him midair -> P05 Ash is thrown back, twists in the air, and fires lava whips; Borg crosses both arms to block, steam rises from Ash's lava only, then the block creates a brief dialogue pause -> P06 Borg launches again toward Ash's last shadow escape point; camera follows his leap, Ash shadow-teleports aside, and Borg breaks that ground shadow to deny reuse -> P07 Ash reappears from a new shadow and attacks with lava blades; Borg blocks one-handed and keeps advancing -> P08 Borg closes the distance; Ash and Borg trade fast punches, parries, shoulder checks, and lava-blade counters while speaking -> P09 Borg lands a heavy punch that sends Ash backward into a building facade; Ash hits hard but braces one hand on the cracked wall -> P10 Borg charges toward the damaged wall; Ash drops from the wall to a planted stance, raises both hands, and fires twin lava streams toward Borg as the scene ends.
-RHYTHM TRACK: P01 RHY P01: slow reveal / short block / held beat -> P02 RHY P02: burst / short block / smash beat -> P03 RHY P03: impact / short block / match beat -> P04 RHY P04: impact / medium block / smash beat -> P05 RHY P05: pause / medium block / held beat -> P06 RHY P06: impact / medium block / whip beat -> P07 RHY P07: burst / short block / clean beat -> P08 RHY P08: build / long block / held beat -> P09 RHY P09: impact / short block / smash beat -> P10 RHY P10: final hit / long block / unresolved.
-ESCALATION MAP: P01 ESC P01: L2 tension / rise -> P02 ESC P02: L4 surge / spike -> P03 ESC P03: L4 surge / rise -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L4 surge / drop -> P06 ESC P06: L5 peak / spike -> P07 ESC P07: L4 surge / rise -> P08 ESC P08: L5 peak / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L5 peak / unresolved.
-STATE TRACK: P01 lava hand ready -> P02 Ash vanishes -> P03 Borg legs caught same axis -> P04 leverage jump punch -> P05 cross-block dialogue pause -> P06 shadow point broken -> P07 one-arm block -> P08 punch exchange dialogue -> P09 Ash wall impact recovery -> P10 final lava fired.
-STYLE TRACK: P01 molten close-up -> P02 rush shadow drop -> P03 rear reversal -> P04 vertical brutality -> P05 steam block -> P06 leap impact -> P07 hard block -> P08 close fists -> P09 wall hit -> P10 lava counter.
+[YÖNETMEN ŞERİDİ]
+Panel sütunlarına hizalanmış alt animatik iz panosu. İzler: VURUŞ HATTI, KAMERA YOLU, AKSİYON YOLU, RİTİM İZİ, TIRMANIŞ HARİTASI, DURUM İZİ, STİL İZİ. Çekim çipleri, ince çizgiler, ritim blokları, küçük yoğunluk çubukları, bir-üç kelimelik etiketler kullanın. Saniye veya zaman damgası yok. Her panel, tek bir akan kavgayı koruyan, gizli bir geçişle birbirine bağlanan ardışık bir çekim vuruşudur.
+RİTİM İZİ formatı: `RHY P##: [tut|yavaş ortaya çıkarma|inşa et|patlama|darbe|duraklat|toparlan|son vuruş] / [kısa blok|orta blok|uzun blok] / [temiz vuruş|eşleşen vuruş|şut vuruşu|tutulan vuruş|kırbaç vuruşu]`.
+TIRMANIŞ HARİTASI formatı: `ESC P##: [L1 sakin|L2 gerilim|L3 yükseliş|L4 dalgalanma|L5 zirve] / [düz|yükseliş|sivri|düşüş|serbest bırakma|çözülmemiş]`.
+PANEL BAŞLIKLARI: P01 / makro ekleme / erimiş el sakin -> P02 / 24mm geniş / Borg atılım gölge kayboluşu -> P03 / 35mm düşük / arka bacak yakalama -> P04 / 24mm dikey / kaldıraç zıplama yumruğu -> P05 / 50mm / askıda çapraz blok -> P06 / 24mm takip / gölge noktası kırılması -> P07 / 35mm yan / tek kol blok -> P08 / 50mm yörünge / hızlı yumruk değişimi -> P09 / 35mm darbe / bina çarpma toparlanması -> P10 / anamorfik geniş / son lav karşılığı.
+KAMERA + LENS PLANI: P01 makro el yakın çekimi, lav damlaları; lensi geçen lav ile gizli kesim -> P02 Borg atılırken ve Ash yer gölgesine düşerken geniş; Borg vücut tıkanıklığı ile gizli kesim -> P03 Ash aynı saldırı hattında Borg'un arkasında belirip her iki bacağını yakalarken düşük arka ortaya çıkarma; yukarı doğru hareket bulanıklığı ile gizli kesim -> P04 Borg Ash'in bacak tutuşunu kaldıraç olarak kullanıp yine de zıplayarak Ash'i yukarı sürükleyip yumruklarken dikey takip; Ash lensin yakınından geçerken gizli kesim -> P05 Ash uçuş ortasında toparlanıp lav ateşlerken, Borg çapraz blok yaparken ve her ikisi de kısa bir askıda diyalog anı tutarken orta; buhar patlaması ile gizli kesim -> P06 Borg'un Ash'in son gölge noktasına doğru yüksek sıçrayışını takip et, ardından Ash yana ışınlandıktan sonra yere çarpma; enkaz silme ile gizli kesim -> P07 Ash tekrar lavla saldırırken ve Borg tek elle bloklarken yan iz; ön kol tıkanıklığı ile gizli kesim -> P08 hızlı yumruklar ve diyalog sırasında yakın yörünge; Borg yumruğu lensi geçerken gizli kesim -> P09 Borg Ash'i binaya yumruklarken darbe çekimi; duvar tozu ve Ash'in toparlanma hareketi ile gizli kesim -> P10 Ash çatlak cepheye karşı kendini yakalayıp her iki ayağını yere basarken ve Borg atılırken her iki lav elini ateşlerken geniş.
+AKSİYON YOLU: P01 Ash hareketsiz durur; parmakları arasından lav sızarken bir eline yakın çekim -> P02 Borg doğrudan Ash'e atılır; Ash temastan hemen önce yer gölgesine batar -> P03 Ash aynı soldan sağa saldırı hattında Borg'un arkasında belirir, lav kancaları ve el tutuşuyla her iki bacağını yakalar -> P04 Borg bacak yakalamayı kaldıraç olarak kullanır, yine de zıplar, Ash'i yukarı sürükler ve havada yumruklar -> P05 Ash geriye fırlatılır, havada döner ve lav kırbaçları ateşler; Borg bloklamak için her iki kolunu çaprazlar, sadece Ash'in lavından buhar yükselir, ardından blok kısa bir diyalog duraklaması yaratır -> P06 Borg tekrar Ash'in son gölge kaçış noktasına doğru fırlar; kamera sıçrayışını takip eder, Ash gölge-ışınlanır, Borg tekrar kullanımı engellemek için o yer gölgesini kırar -> P07 Ash yeni bir gölgeden tekrar belirir ve lav bıçaklarıyla saldırır; Borg tek elle bloklar ve ilerlemeye devam eder -> P08 Borg mesafeyi kapatır; Ash ve Borg konuşurken hızlı yumruklar, savuşturmalar, omuz çarpmaları ve lav-bıçak karşılıkları değiş tokuş eder -> P09 Borg, Ash'i bir bina cephesine doğru geriye gönderen ağır bir yumruk indirir; Ash sert çarpar ancak bir elini çatlak duvara dayar -> P10 Borg hasarlı duvara doğru atılır; Ash duvardan yere basılı bir duruşa düşer, her iki elini kaldırır ve sahne biterken Borg'a doğru ikiz lav akışları ateşler.
+RİTİM İZİ: P01 RHY P01: yavaş ortaya çıkarma / kısa blok / tutulan vuruş -> P02 RHY P02: patlama / kısa blok / şut vuruşu -> P03 RHY P03: darbe / kısa blok / eşleşen vuruş -> P04 RHY P04: darbe / orta blok / şut vuruşu -> P05 RHY P05: duraklat / orta blok / tutulan vuruş -> P06 RHY P06: darbe / orta blok / kırbaç vuruşu -> P07 RHY P07: patlama / kısa blok / temiz vuruş -> P08 RHY P08: inşa et / uzun blok / tutulan vuruş -> P09 RHY P09: darbe / kısa blok / şut vuruşu -> P10 RHY P10: son vuruş / uzun blok / çözülmemiş.
+TIRMANIŞ HARİTASI: P01 ESC P01: L2 gerilim / yükseliş -> P02 ESC P02: L4 dalgalanma / sivri -> P03 ESC P03: L4 dalgalanma / yükseliş -> P04 ESC P04: L5 zirve / sivri -> P05 ESC P05: L4 dalgalanma / düşüş -> P06 ESC P06: L5 zirve / sivri -> P07 ESC P07: L4 dalgalanma / yükseliş -> P08 ESC P08: L5 zirve / yükseliş -> P09 ESC P09: L5 zirve / sivri -> P10 ESC P10: L5 zirve / çözülmemiş.
+DURUM İZİ: P01 lav eli hazır -> P02 Ash kaybolur -> P03 Borg bacakları aynı eksende yakalandı -> P04 kaldıraç zıplama yumruğu -> P05 çapraz blok diyalog duraklaması -> P06 gölge noktası kırıldı -> P07 tek kol blok -> P08 yumruk değişimi diyaloğu -> P09 Ash duvar darbesi toparlanması -> P10 son lav ateşlendi.
+STİL İZİ: P01 erimiş yakın çekim -> P02 atılım gölge düşüşü -> P03 arka tersine çevirme -> P04 dikey vahşet -> P05 buhar bloğu -> P06 sıçrama darbesi -> P07 sert blok -> P08 yakın yumruklar -> P09 duvar vuruşu -> P10 lav karşılığı.
 
-[SEQUENCE]
-Grid: 10 panels in a clean 5x2 storyboard sheet; seamless hidden-cut long-take illusion using lava lens pass, body occlusion, upward motion blur, steam burst, debris wipe, forearm occlusion, fist wipe, and wall dust; Ash's hand-leaking lava is a weapon system, Borg is fire-resistant and never emits flame, and the action preserves a clear left-to-right tactical route.
+[SEKANS]
+Izgara: Temiz 5x2 storyboard sayfasında 10 panel; lav lens geçişi, vücut tıkanıklığı, yukarı doğru hareket bulanıklığı, buhar patlaması, enkaz silme, ön kol tıkanıklığı, yumruk silme ve duvar tozu kullanarak kesintisiz gizli kesim uzun çekim illüzyonu; Ash'in elinden sızan lav bir silah sistemidir, Borg ateşe dayanıklıdır ve asla alev yaymaz ve aksiyon net bir soldan sağa taktiksel rotayı korur.
 ```
 
 **🎬 Video istemi**
 
 ```
-Use @[storyboard ref] as the director-approved storyboard blueprint. Treat each panel as a consecutive shot beat in one seamless hidden-cut long-take illusion. Follow panel order exactly. Do not render the storyboard sheet. Preserve framing, staging, screen direction, city geography, props, choreography, continuity, and escalation.
-Do not make a strict one-shot. Use motivated hidden transitions: lava lens pass, body occlusion, upward motion blur, steam burst, debris wipe, forearm occlusion, fist wipe, and wall dust.
-Characters never slide or glide; movement is footwork, pivots, steps, jumps, grabs, impacts, shadow-steps, and recoveries.
-Preserve screen direction: Borg pressures from screen left toward screen right; Ash uses ground shadows to reposition without reversing the axis.
-Use @[char ref] as ASH and @[char 2 ref] as BORG references.
+Yönetmen onaylı storyboard taslağı olarak @[storyboard ref] kullanın. Her paneli kesintisiz bir gizli kesim uzun çekim illüzyonunda ardışık bir çekim vuruşu olarak ele alın. Panel sırasını tam olarak takip edin. Storyboard sayfasını oluşturmayın. Çerçevelemeyi, sahnelemeyi, ekran yönünü, şehir coğrafyasını, donanımları, koreografiyi, sürekliliği ve tırmanışı koruyun.
+Katı bir tek çekim yapmayın. Motive edilmiş gizli geçişler kullanın: lav lens geçişi, vücut tıkanıklığı, yukarı doğru hareket bulanıklığı, buhar patlaması, enkaz silme, ön kol tıkanıklığı, yumruk silme ve duvar tozu.
+Karakterler asla kaymaz veya süzülmez; hareket ayak çalışması, pivotlar, adımlar, zıplamalar, yakalamalar, darbeler, gölge-adımlar ve toparlanmalardır.
+Ekran yönünü koruyun: Borg ekran solundan ekran sağına baskı yapar; Ash, ekseni tersine çevirmeden yeniden konumlanmak için yer gölgelerini kullanır.
+ASH olarak @[char ref] ve BORG referansları olarak @[char 2 ref] kullanın.
 
-ENVIRONMENT: Bright colorful daytime city lane: yellow taxi, blue bus stop, glass storefront, red awnings, white crosswalk, hard ground shadows, building facade.
-EMOTIONAL GUIDANCE: Valence: intense rivalry. Arousal: calm lava threat -> sudden rush -> shadow reversal -> airborne punch -> lava counter -> missed ground impact -> close fistfight -> wall slam -> unresolved lava counter.
-AUDIO: No music. Use city ambience, lava hiss, steam, concrete hits, heavy landings, wall impact, breath, debris, and witty fight banter; no subtitles.
+ÇEVRE: Parlak renkli gündüz şehir şeridi: sarı taksi, mavi otobüs durağı, cam vitrin, kırmızı tenteler, beyaz yaya geçidi, sert yer gölgeleri, bina cephesi.
+DUYGUSAL REHBERLİK: Değer: yoğun rekabet. Uyarılma: sakin lav tehdidi -> ani atılma -> gölge tersine çevirme -> havada yumruk -> lav karşılığı -> kaçırılan yer darbesi -> yakın yumruk kavgası -> duvar çarpması -> çözülmemiş lav karşılığı.
+SES: Müzik yok. Şehir ortamı, lav tıslaması, buhar, beton vuruşları, ağır inişler, duvar darbesi, nefes, enkaz ve esprili dövüş şakaları kullanın; altyazı yok.
 
-PANEL BEATS:
-P01: Macro close-up on Ash standing still; lava leaks from his fingers and gathers into short blades.
-P02: Wide: Borg rushes straight at Ash; Ash sinks into the ground shadow just before contact.
-P03: Rear low reveal: Ash appears behind Borg on the same attack line and catches both legs with lava hooks and a hard grip.
-P04: Vertical follow: Borg uses Ash's leg grip as leverage, jumps anyway, drags Ash upward, and punches him midair.
-P05: Ash twists through the throw and fires lava whips; Borg cross-blocks with both arms, steam rising only from Ash's lava, then the block creates a brief suspended pause. Borg: "Cute. Your hands come with a warning label?" Ash: "Only for people who can read."
-P06: Camera follows Borg's high leap toward Ash's last shadow escape point; Ash shadow-teleports aside, and Borg breaks that ground shadow to deny reuse.
-P07: Ash reappears and attacks with lava blades; Borg blocks with one arm and keeps advancing.
-P08: Close orbit: they trade fast punches, parries, shoulder checks, and lava-blade counters. Borg: "You done showing off?" Ash: "I was warming up. You ruined the metaphor."
-P09: Borg lands a heavy punch, sending Ash backward into a building facade; Ash hits hard but braces one hand on the cracked wall.
-P10: Wide: Borg charges the damaged wall; Ash drops from the wall into a planted stance and fires twin lava streams from both hands toward him, ending mid-counter.
+PANEL VURUŞLARI:
+P01: Hareketsiz duran Ash'e makro yakın çekim; lav parmaklarından sızar ve kısa bıçaklar halinde toplanır.
+P02: Geniş: Borg doğrudan Ash'e atılır; Ash temastan hemen önce yer gölgesine batar.
+P03: Arka düşük ortaya çıkarma: Ash aynı saldırı hattında Borg'un arkasında belirir ve her iki bacağını lav kancaları ve sert bir tutuşla yakalar.
+P04: Dikey takip: Borg bacak yakalamayı kaldıraç olarak kullanır, yine de zıplar, Ash'i yukarı sürükler ve havada yumruklar.
+P05: Ash fırlatılış sırasında döner ve lav kırbaçları ateşler; Borg her iki koluyla çapraz blok yapar, sadece Ash'in lavından buhar yükselir, ardından blok kısa bir askıda duraklama yaratır. Borg: "Tatlı. Ellerinde uyarı etiketi mi var?"
+Ash: "Sadece okuyabilenler için."
+P06: Kamera Borg'un Ash'in son gölge kaçış noktasına doğru yüksek sıçrayışını takip eder; Ash gölge-ışınlanır ve Borg tekrar kullanımı engellemek için o yer gölgesini kırar.
+P07: Ash tekrar belirir ve lav bıçaklarıyla saldırır; Borg tek koluyla bloklar ve ilerlemeye devam eder.
+P08: Yakın yörünge: hızlı yumruklar, savuşturmalar, omuz çarpmaları ve lav-bıçak karşılıkları değiş tokuş ederler. Borg: "Gösteriş yapmayı bitirdin mi?" Ash: "Isınıyordum. Metaforu mahvettin."
+P09: Borg, Ash'i bir bina cephesine doğru geriye gönderen ağır bir yumruk indirir; Ash sert çarpar ancak bir elini çatlak duvara dayar.
+P10: Geniş: Borg hasarlı duvara doğru atılır; Ash duvardan yere basılı bir duruşa düşer ve sahne karşı saldırı ortasında biterken her iki elinden ona doğru ikiz lav akışları ateşler.
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
@@ -2176,27 +2176,27 @@ P18: Yeşil gün ışığı geri döner; yapraklar canlanır, kuşlar geri döne
 
 ---
 
-### 22. Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech…
+### 22. Fütüristik Oyuncu Laptopu Ürün Tanıtımı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063217440704868664_0_poster.jpg" width="480" alt="Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063217440704868664_0_poster.jpg" width="480" alt="Fütüristik Oyuncu Laptopu Ürün Tanıtımı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech Commercial | Cinematic Lighting
+Format: 9:16 Dikey | 4K Ultra HD | Hiper-Gerçekçi | Premium Teknoloji Reklamı | Sinematik Aydınlatma
 
 Prompt:
 
-A futuristic black void illuminated by glowing blue energy. Sleek liquid-metal fragments float in the air and rapidly assemble themselves into a next-generation gaming laptop. Precision-engineered components snap perfectly into place as the laptop unfolds dramatically with mechanical elegance. Extreme close-ups showcase premium metal textures, RGB lighting, and ultra-thin design.
+Parlayan mavi enerjiyle aydınlatılmış fütüristik siyah bir boşluk. Şık sıvı metal parçaları havada süzülüyor ve hızla bir araya gelerek yeni nesil bir oyuncu laptopuna dönüşüyor. Hassas mühendislik ürünü bileşenler mükemmel bir şekilde yerine otururken, laptop mekanik bir zarafetle dramatik bir şekilde açılıyor. Aşırı yakın çekimler, premium metal dokuları, RGB aydınlatmayı ve ultra ince tasarımı sergiliyor.
 
-As the screen powers on, a burst of energy erupts outward. Epic gaming worlds explode from the display into reality: a futuristic cyberpunk city with neon lights, a medieval dragon soaring through the air, and a high-speed racing car drifting through glowing streets. The camera flies seamlessly through these worlds as particles, explosions, and visual effects surround the laptop.
+Ekran açıldığında, bir enerji patlaması dışarıya doğru yayılıyor. Epik oyun dünyaları ekrandan gerçekliğe patlıyor: neon ışıklı fütüristik bir siberpunk şehri, havada süzülen orta çağ ejderhası ve parlayan sokaklarda drift yapan yüksek hızlı bir yarış arabası. Kamera, parçacıklar, patlamalar ve görsel efektler laptopu çevrelerken bu dünyaların içinden kusursuzca uçuyor.
 
-In the final seconds, the gaming worlds collapse back into the screen. The laptop rotates slowly in a premium hero shot against a dark reflective environment. RGB keyboard glows intensely, cooling vents emit subtle energy effects, and cinematic light sweeps across the chassis. Product centered, ultra-premium presentation, dramatic reflections, sharp details, luxury technology aesthetic, powerful performance showcase, commercial-quality visuals, masterpiece product cinematography.
+Son saniyelerde, oyun dünyaları tekrar ekranın içine çöküyor. Laptop, karanlık ve yansıtıcı bir ortamda premium bir kahraman çekimiyle yavaşça dönüyor. RGB klavye yoğun bir şekilde parlıyor, soğutma kanalları hafif enerji efektleri yayıyor ve sinematik ışık şasi boyunca süpürüyor. Ürün ortalanmış, ultra premium sunum, dramatik yansımalar, keskin detaylar, lüks teknoloji estetiği, güçlü performans gösterimi, ticari kalitede görseller, başyapıt ürün sinematografisi.
 ```
 
 **Gönderen** [Jasmine Ai ✓](https://x.com/jasminekhan90_) (@jasminekhan90_) · 14.7K takipçi
@@ -2209,19 +2209,19 @@ In the final seconds, the gaming worlds collapse back into the screen. The lapto
 
 ---
 
-### 23. First-person POV flying on a broomstick in a fast cinematic one-take…
+### 23. Bernabéu Stadyumu'nda Birinci Şahıs Süpürge Kovalamacası
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063110836500181285_0_poster.jpg" width="480" alt="First-person POV flying on a broomstick in a fast cinematic one-take…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063110836500181285_0_poster.jpg" width="480" alt="Bernabéu Stadyumu'nda Birinci Şahıs Süpürge Kovalamacası"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-First-person POV flying on a broomstick in a fast cinematic one-take chase through the Santiago Bernabéu Stadium during a live FIFA World Cup match. Follow a continuous flight path as the camera route. A small golden glowing football stays ahead as the object being chased, moving naturally across the frame instead of staying locked in the centre — let it shift left, right, higher, and lower during the sequence so the pursuit feels dynamic and real. Only show the front of the broom, both gloved hands, and team jersey sleeves from the rider. Do not show the rider's face at any point. The chase should travel in one unbroken continuous motion: launch from pitch level weaving low between the two competing teams mid-match, banking hard left as the crowd roars on both sides, accelerate upward through the open retractable roof gap with the steel canopy frame rushing past overhead, spiral around the outer rim of the upper tier with the full Madrid skyline visible beyond the stadium bowl, dive back down through the floodlight towers with blinding broadcast light streaking across the lens, skim low across the emerald pitch surface inches above the turf with players scattering, bank through the tunnel arch beneath the lower stand, burst out the other side into the open air above the Paseo de la Castellana with Madrid skyscrapers flanking both sides, curve back toward the stadium in a wide banking turn with the full Bernabéu exterior in view, re-enter through the roof opening in a steep dive, and end with a final acceleration toward the golden football for the catch above the centre circle as 85,000 fans erupt below. Keep the motion smooth and continuous with no cuts. Do not show guide lines, arrows, extra characters, broken broom parts, duplicate body parts, or any face reflections. Cinematic motion blur on fast turns, volumetric light shafts from the floodlights, photorealistic crowd density, ultra-realistic stadium architecture, FIFA World Cup atmosphere, first-person immersive sports fantasy, Unreal Engine 5, 8K.
+Canlı bir FIFA Dünya Kupası maçı sırasında Santiago Bernabéu Stadyumu'nda hızlı, tek çekimlik sinematik bir kovalamaca ile süpürge üzerinde birinci şahıs bakış açısı (POV) uçuşu. Kamera rotası olarak kesintisiz bir uçuş yolunu takip edin. Küçük, altın rengi parlayan bir futbol topu, kovalanan nesne olarak önde kalsın ve merkezde kilitli kalmak yerine kadraj içinde doğal bir şekilde hareket etsin; kovalamacanın dinamik ve gerçek hissettirmesi için sekans boyunca sola, sağa, yukarı ve aşağı kaymasına izin verin. Sadece süpürgenin ön kısmını, eldivenli iki eli ve sürücünün takım forması kollarını gösterin. Sürücünün yüzünü hiçbir noktada göstermeyin. Kovalamaca kesintisiz, tek bir hareketle ilerlemelidir: maçın ortasında iki rakip takımın arasında alçaktan süzülerek saha seviyesinden kalkış yapın, kalabalık her iki tarafta kükrerken sert bir şekilde sola yatın, çelik kanopi çerçevesi tepede hızla geçerken açılır kapanır çatı boşluğundan yukarı doğru hızlanın, stadyum çanağının ötesinde tüm Madrid silüeti görünürken üst katın dış kenarı etrafında spiral çizin, lensin üzerinden geçen kör edici yayın ışığıyla projektör kulelerinin arasından tekrar aşağı dalın, oyuncular dağılırken çimlerin birkaç santim üzerinde zümrüt saha yüzeyinde alçaktan süzülün, alt tribünün altındaki tünel kemerinden geçin, diğer taraftan Paseo de la Castellana'nın üzerindeki açık havaya, her iki tarafı Madrid gökdelenleriyle çevrili bir şekilde çıkın, tüm Bernabéu dış cephesi görünürken geniş bir yatışlı dönüşle stadyuma doğru geri kıvrılın, dik bir dalışla çatı açıklığından tekrar girin ve 85.000 taraftar aşağıda coşkuyla bağırırken merkez dairenin üzerinde yakalamak için altın futbol topuna doğru son bir hızlanma ile bitirin. Hareketi kesintisiz ve pürüzsüz tutun. Kılavuz çizgileri, oklar, fazladan karakterler, kırık süpürge parçaları, kopya vücut parçaları veya herhangi bir yüz yansıması göstermeyin. Hızlı dönüşlerde sinematik hareket bulanıklığı, projektörlerden gelen hacimsel ışık huzmeleri, fotogerçekçi kalabalık yoğunluğu, ultra gerçekçi stadyum mimarisi, FIFA Dünya Kupası atmosferi, birinci şahıs sürükleyici spor fantezisi, Unreal Engine 5, 8K.
 ```
 
 **Gönderen** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K takipçi
@@ -2550,40 +2550,40 @@ SON KARE: Zarif logo açılışı. Yumuşak ışıltı. Orkestral sesin yavaşç
 
 ---
 
-### 28. 0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swo…
+### 28. Buz Kraliçesi ve Ejderha Fantastik Destanı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061850748007375010_0_poster.jpg" width="480" alt="0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swo…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061850748007375010_0_poster.jpg" width="480" alt="Buz Kraliçesi ve Ejderha Fantastik Destanı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swoops down, featuring an atmosphere inspired by Game of Thrones. A woman falls from the sky, tightly clutching her dog—a black dog with white fur on its chest and paws, pointed ears, and a sharp, intense gaze. She screams loudly as she plummets through the storm: "Ahhhh!" She is dressed in a black leather northern warrior outfit: a fitted leather vest, a belt, long gloves, tall boots, and a heavy fur cloak draped over her shoulders.
-3–6 seconds: They plunge into a snowy valley. The woman lands on one knee and grabs a glowing, ancient blue amulet. She looks at her dog and says, "Let's go." The black dog with white markings lets out a low growl and stares straight ahead. In the distance, Frost Walkers emerge through the blizzard.
-6–9 seconds: The amulet erupts with a bright blue light. Frost spreads across the woman's hands and face. Her leather outfit transforms into majestic black steel and ice crystal armor, engraved with intricate, sharp patterns.
-9–12 seconds: The woman completely transforms into the Ice Queen of the Walkers—pale blue skin, glowing blue eyes, a frozen crown, and powerful black armor. The dog begins to transform into a massive ice dragon, retaining its black fur and the white markings on its chest.
-12–15 seconds: A gigantic black ice dragon, bearing white markings and glowing blue eyes, spreads its wings. The Ice Queen climbs onto the dragon's back, and they fly into the storm while the army of Walkers kneels before them.
+0–3 saniye: Karanlık, donmuş bir gökyüzü ve şiddetli bir kar fırtınası. Kamera, Game of Thrones'tan ilham alan bir atmosferle aşağı doğru süzülüyor. Bir kadın, göğsünde ve patilerinde beyaz tüyleri, sivri kulakları ve keskin, yoğun bakışları olan siyah bir köpeği sıkıca tutarak gökyüzünden düşüyor. Fırtınanın içinde düşerken yüksek sesle çığlık atıyor: "Ahhhh!" Üzerinde siyah deri bir kuzeyli savaşçı kıyafeti var: vücuda oturan deri bir yelek, kemer, uzun eldivenler, uzun çizmeler ve omuzlarına dökülen ağır bir kürk pelerin.
+3–6 saniye: Karlı bir vadiye dalıyorlar. Kadın tek dizinin üzerine iniş yapıyor ve parlayan, antik mavi bir muskayı kapıyor. Köpeğine bakıp "Hadi gidelim" diyor. Beyaz işaretli siyah köpek alçak bir hırıltı çıkarıyor ve dümdüz ileriye bakıyor. Uzakta, Buz Yürüyenleri kar fırtınasının içinden ortaya çıkıyor.
+6–9 saniye: Muska parlak mavi bir ışıkla patlıyor. Kadının ellerine ve yüzüne buz yayılıyor. Deri kıyafeti, karmaşık, keskin desenlerle işlenmiş görkemli siyah çelik ve buz kristali zırhına dönüşüyor.
+9–12 saniye: Kadın tamamen Yürüyenlerin Buz Kraliçesi'ne dönüşüyor—soluk mavi bir cilt, parlayan mavi gözler, donmuş bir taç ve güçlü siyah bir zırh. Köpek, siyah tüylerini ve göğsündeki beyaz işaretleri koruyarak devasa bir buz ejderhasına dönüşmeye başlıyor.
+12–15 saniye: Beyaz işaretleri ve parlayan mavi gözleri olan devasa siyah bir buz ejderhası kanatlarını açıyor. Buz Kraliçesi ejderhanın sırtına tırmanıyor ve Yürüyenler ordusu önlerinde diz çökerken fırtınanın içine uçuyorlar.
 
-Video Extension
-15–20 seconds: High-Altitude Top-Down View and Dragon Fire Baptism
-Scene Content: The dragon's massive black shadow blots out the light within the storm. It unleashes a low, vibrating roar, and blazing, ghostly blue fire (or bright orange fire, depending on the visual style) erupts from its maw.
-Visual Focus: Top-down view. The dragon fire sweeps across the army in a wide, fan-like arc. The snowpack melts instantly, billowing steam, as the Walker army struggles and scatters in the sea of flames.
-Audio: The rushing, deafening roar of the dragon fire, the agonized screams of the army, and the loud "hissing" of ice and snow instantly vaporizing.
-20–25 seconds: High-Speed Dive and POV Shift
-Scene Content: The giant dragon tucks its wings and enters a near-vertical, high-speed dive. The camera rapidly cuts to the Ice Queen’s POV (First-Person Point of View).
-Visual Focus: The edges of the frame blur from the extreme speed, with blizzard snow rushing violently past. The Queen's hands tightly grip the dragon's black scales, where the white markings glint in the frigid light. The ground target—the Walker army—zooms in rapidly in her line of sight.
-Physical Sensation: The audience can feel a suffocating sense of weightlessness and the immense power of the dragon's muscles flexing beneath her.
-25–30 seconds: Low-Altitude Strafe and Ice Magic Eruption
-Scene Content: Just before crashing into the ground, the dragon abruptly snaps its wings open, kicking up a massive, ring-shaped wave of snow. The POV remains with the Queen. She raises her right hand, and a blinding blue-white light gathers at her fingertips.
-Visual Focus: As the dragon skims just above the heads of the enemy army, the Queen unleashes a radial blast of frost magic. Countless giant ice spikes erupt from the ground, impaling and freezing the surrounding soldiers.
-Storyboard Details:
-Right side of POV: A row of soldiers is instantly frozen into ice sculptures, then shatters into pieces from the wake of the passing dragon wings.
-Left side of POV: The Queen waves her hand, and a fierce frost storm violently blasts a squad of Walkers into the air.
-Ending: The final frame freezes on the Queen's cold, ruthless eyes (seen through a sideways backward glance), alongside the silhouette of the massive dragon soaring back up into the clouds.
+Video Uzantısı
+15–20 saniye: Yüksek İrtifa Kuş Bakışı Görünüm ve Ejderha Ateşi Vaftizi
+Sahne İçeriği: Ejderhanın devasa siyah gölgesi fırtınadaki ışığı kapatıyor. Alçak, titreşimli bir kükreme salıyor ve ağzından alevli, hayaletimsi mavi bir ateş (veya görsel tarza bağlı olarak parlak turuncu bir ateş) fışkırıyor.
+Görsel Odak: Kuş bakışı görünüm. Ejderha ateşi orduyu geniş, yelpaze şeklinde bir yayla süpürüyor. Kar kütlesi anında eriyerek buhar çıkarıyor, Yürüyen ordusu alev denizinde mücadele edip dağılıyor.
+Ses: Ejderha ateşinin uğultulu, sağır edici kükremesi, ordunun acı dolu çığlıkları ve buz ile karın anında buharlaşırken çıkardığı yüksek "tıslama" sesi.
+20–25 saniye: Yüksek Hızlı Dalış ve POV Değişimi
+Sahne İçeriği: Dev ejderha kanatlarını içeri çekiyor ve neredeyse dikey, yüksek hızlı bir dalışa geçiyor. Kamera hızla Buz Kraliçesi'nin POV'sine (Birinci Şahıs Bakış Açısı) geçiyor.
+Görsel Odak: Aşırı hızdan dolayı çerçevenin kenarları bulanıklaşıyor, kar fırtınası şiddetle yanlarından geçiyor. Kraliçe'nin elleri, beyaz işaretlerin soğuk ışıkta parladığı ejderhanın siyah pullarını sıkıca kavrıyor. Yer hedefi—Yürüyen ordusu—görüş alanında hızla yakınlaşıyor.
+Fiziksel His: İzleyici, boğucu bir ağırlıksızlık hissini ve altında kasılan ejderha kaslarının muazzam gücünü hissedebiliyor.
+25–30 saniye: Alçak İrtifa Tarama ve Buz Büyüsü Patlaması
+Sahne İçeriği: Yere çarpmadan hemen önce, ejderha kanatlarını aniden açarak devasa, halka şeklinde bir kar dalgası kaldırıyor. POV Kraliçe'de kalıyor. Sağ elini kaldırıyor ve parmak uçlarında kör edici mavi-beyaz bir ışık toplanıyor.
+Görsel Odak: Ejderha düşman ordusunun tam tepesinden süzülürken, Kraliçe radyal bir buz büyüsü patlaması salıyor. Sayısız dev buz dikeni yerden fışkırarak çevredeki askerleri saplıyor ve donduruyor.
+Storyboard Detayları:
+POV'nin sağ tarafı: Bir sıra asker anında buz heykellerine dönüşüyor, ardından ejderha kanatlarının geçişinin yarattığı etkiyle parçalara ayrılıyor.
+POV'nin sol tarafı: Kraliçe elini sallıyor ve şiddetli bir buz fırtınası bir Yürüyen birliğini şiddetle havaya savuruyor.
+Bitiş: Son kare, Kraliçe'nin soğuk, acımasız gözlerinde (yana doğru geriye bakışla görülüyor) ve devasa ejderhanın bulutlara doğru geri süzülen silüetiyle donuyor.
 ```
 
 **Gönderen** [Good FortuneX ✓](https://x.com/pound75423) (@pound75423) · 681 takipçi
@@ -3201,53 +3201,53 @@ Tam istem için DM atın
 
 ---
 
-### 37. Mech: industrial mecha with screws, vibrant colors, anime style --ar…
+### 37. Koda vs AIMI-X: Endüstriyel Sabotaj Aksiyonu
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Mech: industrial mecha with screws, vibrant colors, anime style --ar…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: Endüstriyel Sabotaj Aksiyonu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-Mech: industrial mecha with screws, vibrant colors, anime style --ar 2:3 --raw --profile 989pqwr --stylize 1000
+Mech: vidalı endüstriyel mecha, canlı renkler, anime tarzı --ar 2:3 --raw --profile 989pqwr --stylize 1000
 
-Kid: kid with screwdriver, vibrant colors, anime style --ar 2:3 --raw --profile 989pqwr --stylize 1000
+Kid: tornavidalı çocuk, canlı renkler, anime tarzı --ar 2:3 --raw --profile 989pqwr --stylize 1000
 
-Then turned them stylized 3d with my gpt image 2 character sheet prompt.
+Ardından gpt image 2 karakter sayfası istemimle stilize 3d'ye dönüştürüldü.
 ```
 
 **🎬 Video istemi**
 
 ```
-FORMAT: 15s / 12 shots / rapid staccato sabotage action
+FORMAT: 15sn / 12 çekim / hızlı staccato sabotaj aksiyonu
 
-SUBJECTS: Koda from @[image1] , tiny fast child fixer with goggles, boots, and a red screwdriver-like tool; AIMI-X from @[image2] , giant square-headed scout protector robot with worn blue-gray and yellow armor, exposed wires, long limbs, and heavy visible screw-and-bolt joints.
+ÖZNELER: @[image1]'den Koda, koruyucu gözlüklü, botlu ve kırmızı tornavida benzeri aleti olan küçük hızlı çocuk tamirci; @[image2]'den AIMI-X, yıpranmış mavi-gri ve sarı zırhlı, açıkta kabloları, uzun kolları ve belirgin vida-cıvata eklemleri olan kare kafalı dev gözcü koruyucu robot.
 
-SCENE: In a dusty industrial yard, Koda is discovered by AIMI-X and survives by dismantling it faster than the giant robot can react. Keep the route readable: crate cover, robot right ankle, forearm, shoulder, back of head, fallen head. Every disassembly beat is caused by Koda physically using the red screwdriver on visible screws or bolts: tool engages, Koda twists, screw or bolt loosens, then the connected robot part fails. Use rapid inserts for sabotage details, with staccato insert triplets where the screw action must read clearly. No part breaks by itself.
+SAHNE: Tozlu bir endüstriyel alanda, Koda, AIMI-X tarafından keşfedilir ve dev robot tepki veremeden onu parçalara ayırarak hayatta kalır. Rotayı okunabilir tutun: kasa kapağı, robot sağ ayak bileği, ön kol, omuz, kafa arkası, düşen kafa. Her sökme hamlesi, Koda'nın kırmızı tornavidayı görünür vida veya cıvatalar üzerinde fiziksel olarak kullanmasıyla gerçekleşir: alet devreye girer, Koda çevirir, vida veya cıvata gevşer, ardından bağlı robot parçası işlevini yitirir. Sabotaj detayları için hızlı eklemeler kullanın, vida aksiyonunun net bir şekilde okunması gereken staccato üçlü eklemeler yapın. Hiçbir parça kendiliğinden kırılmaz.
 
-SHOT SEQUENCE:
-SHOT 1: Extreme wide low crate frame, 28mm feel / Koda hides screen left while AIMI-X patrols center-right / SFX: low servo hum.
-SHOT 2: Robot over-shoulder push / AIMI-X head turns toward Koda’s crate / SFX: sharp head motor tick.
-SHOT 3: Worm’s-eye backward dolly / AIMI-X advances, one long arm lowering as Koda breaks from cover / SFX: heavy foot hits.
-SHOT 4: Ground-height side track / Koda slides under the reaching hand toward AIMI-X’s right ankle, red screwdriver now visible in his hand / SFX: dust scrape.
-SHOT 5: STACCATO INSERT TRIPLET, rapid macro locked shots / red screwdriver bites into the right ankle screw, Koda twists it loose, the screw drops and bounces on concrete / SFX: metal clicks.
-SHOT 6: Low wide tilt-down / because the right ankle screw is loosened, AIMI-X’s weight fails on that side; the giant robot buckles down onto its right knee and right ankle side while Koda rolls clear to the robot’s left / SFX: concrete impact, dust puff.
-SHOT 7: Medium wide push / AIMI-X sweeps one hand across the ground despite kneeling, and Koda springs onto the forearm toward the shoulder / SFX: servo strain.
-SHOT 8: STACCATO INSERT TRIPLET, rapid tight shoulder cuts / Koda plants one boot on the upper arm, drives the red screwdriver into the shoulder bolt, twists until the bolt pops loose and the joint plate separates / SFX: ratchet snap.
-SHOT 9: Low three-quarter jolt / only after the shoulder bolt releases, the robot arm breaks free and drops while Koda jumps away / SFX: metal slam.
-SHOT 10: Overhead fast track / the remaining hand sweeps after Koda as he darts along the robot’s back toward the rear head service panel / SFX: pan whip.
-SHOT 11: RAPID INSERTS, rear head detail sequence / Koda uses the red screwdriver on two rear head service-panel screws, both screws fly free, the panel opens, wires slacken / SFX: crackle, screw bounce.
-SHOT 12: Wide pullback / after the final screws release, AIMI-X falls apart into head, torso, loose arm, knee plates, wires, and bouncing screws while Koda lands clear beside the fallen head, screwdriver still in hand / SFX: final collapse, dust settling.
+ÇEKİM SIRALAMASI:
+ÇEKİM 1: Aşırı geniş düşük kasa kadrajı, 28mm hissi / Koda ekranın solunda saklanırken AIMI-X merkez-sağda devriye geziyor / SFX: düşük servo uğultusu.
+ÇEKİM 2: Robot omuz üstü itiş / AIMI-X'in kafası Koda'nın kasasına doğru dönüyor / SFX: keskin kafa motoru tıkırtısı.
+ÇEKİM 3: Solucan bakış açısı geri dolly / AIMI-X ilerliyor, Koda siperden çıkarken uzun bir kolu aşağı iniyor / SFX: ağır ayak vuruşları.
+ÇEKİM 4: Yer seviyesi yan takip / Koda uzanan elin altından AIMI-X'in sağ ayak bileğine doğru kayıyor, elinde kırmızı tornavida artık görünür / SFX: toz sürtünmesi.
+ÇEKİM 5: STACCATO ÜÇLÜ EKLEME, hızlı makro kilitli çekimler / kırmızı tornavida sağ ayak bileği vidasına saplanır, Koda gevşetir, vida düşer ve betonda seker / SFX: metal tıkırtıları.
+ÇEKİM 6: Düşük geniş aşağı eğim / sağ ayak bileği vidası gevşediği için AIMI-X'in ağırlığı o tarafta çöker; dev robot sağ dizinin ve sağ ayak bileğinin üzerine çökerken Koda robotun soluna doğru yuvarlanır / SFX: beton darbesi, toz bulutu.
+ÇEKİM 7: Orta geniş itiş / AIMI-X diz çökmüş olmasına rağmen bir elini zeminde süpürür ve Koda ön koldan omuza doğru sıçrar / SFX: servo zorlanması.
+ÇEKİM 8: STACCATO ÜÇLÜ EKLEME, hızlı sıkı omuz kesmeleri / Koda bir botunu üst kola basar, kırmızı tornavidayı omuz cıvatasına saplar, cıvata yerinden çıkıp eklem plakası ayrılana kadar çevirir / SFX: cırcır sesi.
+ÇEKİM 9: Düşük üç çeyrek sarsıntı / ancak omuz cıvatası serbest kaldıktan sonra robot kolu kopar ve düşer, Koda ise uzağa atlar / SFX: metal çarpma sesi.
+ÇEKİM 10: Havadan hızlı takip / Koda robotun sırtı boyunca arka kafa servis paneline doğru hızla ilerlerken kalan el onu süpürmeye çalışır / SFX: pan hareketi.
+ÇEKİM 11: HIZLI EKLEMELER, arka kafa detay sekansı / Koda kırmızı tornavidayı iki arka kafa servis paneli vidasında kullanır, her iki vida da fırlar, panel açılır, kablolar gevşer / SFX: çatırtı, vida sekmesi.
+ÇEKİM 12: Geniş geri çekilme / son vidalar serbest kaldıktan sonra, AIMI-X kafa, gövde, gevşek kol, diz plakaları, kablolar ve seken vidalar halinde parçalara ayrılırken Koda elinde tornavidayla düşen kafanın yanında yere iner / SFX: nihai çöküş, tozun yatışması.
 
-MOOD: Stealth tension snaps into fast precision sabotage, then lands on a clean mechanical payoff.
-COLOR LOGIC: Muted Amber and Blue
-STYLE: Stylized cinematic painterly 3D-anime hybrid, warm dusty daylight, worn metal texture, soft cel-shadow shapes, clean silhouettes, crisp screw and joint detail, thin dust haze, physically motivated impacts, no identity redesign, no magical effects, no cluttered environment.you feel comfortable when creating your videos. Sometimes not every method works for every situation. There isn't just one correct way.
+MOD: Gizlilik gerilimi, hızlı hassas sabotaja dönüşür ve ardından temiz bir mekanik sonuçla biter.
+RENK MANTIĞI: Muted Amber ve Mavi
+STİL: Stilize sinematik resimsel 3D-anime hibrit, sıcak tozlu gün ışığı, yıpranmış metal dokusu, yumuşak cel-shadow şekilleri, temiz silüetler, net vida ve eklem detayı, ince toz pus, fiziksel olarak motive edilmiş darbeler, kimlik yeniden tasarımı yok, sihirli efektler yok, karmaşık çevre yok. Videolarınızı oluştururken kendinizi rahat hissetmeniz önemlidir. Bazen her yöntem her durum için işe yaramaz. Tek bir doğru yol yoktur.
 
-Leaving the prompt and character generation progress below.
+İstem ve karakter oluşturma ilerlemesini aşağıda bırakıyorum.
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
@@ -3342,115 +3342,115 @@ Modern Çin 3D animasyon tarzı. Sahne 1: Büyük bir Mısır kütüphanesinde, 
 
 ---
 
-### 40. A realistic close-up shot of a small digital camera screen glowing br…
+### 40. 2010'ların Nostaljik Dijital Kamera Kampüs Vlog'u
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="A realistic close-up shot of a small digital camera screen glowing br…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010'ların Nostaljik Dijital Kamera Kampüs Vlog'u"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+Karanlık bir iç mekanda parlak bir şekilde parlayan küçük bir dijital kamera ekranının gerçekçi yakın çekimi. LCD ekranda, uzun koyu dalgalı saçlı, renkli çizgi romanlar ve dergilerle dolu ahşap bir rafın yanında duran genç bir Doğu Asyalı kadının 2010'ların başı tarzında doğal bir fotoğrafı görüntüleniyor.
 
-She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+Üzerinde siyah ince askılı bir bluz, omuzlarından gevşekçe sarkan beyaz bir hırka ve soluk mavi kot pantolon var. Hafifçe yana dönerken gülümserken yakalanmış, ifadesi spontane ve doğal; saçları yanağının bir kısmına yumuşak bir şekilde düşüyor.
 
-The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+Kompakt kameranın sert doğrudan flaşı, yüzünde ve hırkasında güçlü vurgular oluştururken arka plandaki gölgeleri düzleştirerek otantik bir nostaljik dijital kamera estetiği yaratıyor. Hafif hareket bulanıklığı ve dijital gren, doğal gerçekçiliği artırıyor.
 
-Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+LCD ekranın üzerinde "8. 1. 2012 3:15 AM" zaman damgası, "1/30 F3.4 ISO 100" pozlama verileri, odak göstergeleri ve köşede küçük bir yeşil pil simgesi dahil olmak üzere kamera arayüzü katmanları görünüyor.
 
-The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+Görüntü, görünür ekran piksel yapısını, hafif parlama yansımalarını, kromatik yumuşaklığı ve sıkıştırılmış dijital dokuyu koruyor. LCD'nin dışındaki çevredeki karanlık, parlayan nostaljik ekrana vurgu yaparak yumuşak bir şekilde bulanıklığa karışıyor.
 
-Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+CCD sensör, nostaljik dijital işleme ve kusurlu flaş pozlaması kullanılarak 2010'ların başındaki otantik bir Sony Cyber-shot fotoğraf makinesine benzeyecek şekilde çekilmiştir.
 ```
 
 **🎬 Video istemi**
 
 ```
-Use uploaded image @[character_ref] as the permanent character identity reference and uploaded image @[storyboard_ref] as the exact visual timeline and sequencing guide. Follow storyboard timing, shot transitions, framing rhythm, emotional flow, and scene continuity precisely. Expand every storyboard panel into smooth connected motion while preserving natural pacing and visual readability.
+Kalıcı karakter kimliği referansı olarak yüklenen @[character_ref] görselini ve tam görsel zaman çizelgesi ve sıralama kılavuzu olarak yüklenen @[storyboard_ref] görselini kullanın. Storyboard zamanlamasını, çekim geçişlerini, çerçeveleme ritmini, duygusal akışı ve sahne sürekliliğini tam olarak takip edin. Her storyboard panelini, doğal tempoyu ve görsel okunabilirliği koruyarak pürüzsüz, bağlantılı bir harekete dönüştürün.
 
-MAIN CHARACTER:
+ANA KARAKTER:
 
-Same exact young East Asian woman throughout all scenes. Female college student around age 20. Long dark soft wavy layered hair with natural movement and strands occasionally falling across face. Warm light skin tone, dark brown eyes, slim proportions, youthful face, small mole under left eye, natural lips, minimal makeup, friendly expression. Maintain exact identity consistency throughout entire video. No face morphing, hairstyle changes, age changes, outfit changes, or body proportion shifts.
+Tüm sahneler boyunca aynı genç Doğu Asyalı kadın. Yaklaşık 20 yaşlarında üniversite öğrencisi. Doğal hareketli, uzun, koyu, yumuşak dalgalı katlı saçlar; saç telleri ara sıra yüzüne düşüyor. Sıcak açık ten rengi, koyu kahverengi gözler, ince yapılı, genç bir yüz, sol göz altında küçük bir ben, doğal dudaklar, hafif makyaj, arkadaş canlısı bir ifade. Video boyunca tam kimlik tutarlılığını koruyun. Yüz değişimi, saç stili değişikliği, yaş değişikliği, kıyafet değişikliği veya vücut oranı kayması olmamalıdır.
 
-OUTFIT:
+KIYAFET:
 
-Black spaghetti strap top. Loose white cardigan hanging casually from shoulders. Faded blue jeans. Casual aesthetic campus fashion. Preserve exact clothing proportions and textures through all scenes.
+Siyah ince askılı bluz. Omuzlardan gevşekçe sarkan beyaz hırka. Soluk mavi kot pantolon. Günlük kampüs modası estetiği. Tüm sahneler boyunca kıyafet oranlarını ve dokularını koruyun.
 
-PERSONALITY:
+KİŞİLİK:
 
-Playful, cheerful, naturally expressive, spontaneous, comfortable talking to camera, campus-girl energy, charismatic but effortless. Frequently smiles, small laughs, subtle eye expressions, natural head tilts, realistic blinking and soft reactions.
+Oyuncu, neşeli, doğal ifadeli, spontane, kameraya konuşurken rahat, kampüs kızı enerjisi, karizmatik ama çabasız. Sık sık gülümser, hafifçe güler, ince göz ifadeleri, doğal kafa eğmeleri, gerçekçi göz kırpmalar ve yumuşak tepkiler.
 
-VIDEO STYLE:
+VIDEO STİLİ:
 
-Authentic early-2010s Sony Cyber-shot digicam aesthetic using CCD sensor rendering. Entire footage must feel like old memory-card footage discovered years later. Harsh direct flash, slight overexposure on skin, soft grain, digital compression artifacts, LCD pixel texture, slight chromatic softness, imperfect white balance, tiny autofocus hunting, nostalgic camera defects and realistic point-and-shoot rendering.
+CCD sensör işleme kullanan otantik 2010'ların başı Sony Cyber-shot dijital kamera estetiği. Tüm görüntüler yıllar sonra bulunmuş eski bir hafıza kartı görüntüsü gibi hissettirmeli. Sert doğrudan flaş, ciltte hafif aşırı pozlama, yumuşak gren, dijital sıkıştırma hataları, LCD piksel dokusu, hafif kromatik yumuşaklık, kusurlu beyaz dengesi, küçük otomatik odaklama arayışları, nostaljik kamera kusurları ve gerçekçi fotoğraf makinesi işleme.
 
-POV RULE:
+POV KURALI:
 
-Entire video remains from digital camera LCD POV exactly like storyboard. Viewer constantly sees glowing LCD screen in dark surroundings. Outside LCD screen fades softly into darkness and blur.
+Tüm video, tıpkı storyboard'daki gibi dijital kamera LCD POV'sundan kalır. İzleyici karanlık bir ortamda sürekli parlayan LCD ekranı görür. LCD ekranın dışı yumuşak bir şekilde karanlığa ve bulanıklığa karışır.
 
-Camera UI overlays visible entire video:
+Video boyunca görünür kamera arayüzü katmanları:
 
-REC icon
-focus brackets
-battery icon
-timestamp "8.1.2012 3:15 AM"
+REC simgesi
+odak parantezleri
+pil simgesi
+zaman damgası "8.1.2012 3:15 AM"
 1/30 F3.4 ISO100
 
-Visible LCD glare reflections and realistic screen texture.
+Görünür LCD parlama yansımaları ve gerçekçi ekran dokusu.
 
-Duration exactly 15 seconds.
+Süre tam olarak 15 saniye.
 
-SCENE 1 (0:00–0:02)
+SAHNE 1 (0:00–0:02)
 
-Library interior. Walking slowly between bookshelves while holding camera facing herself. Handheld movement slightly shaky. Small laugh.
+Kütüphane içi. Kamerayı kendine doğru tutarak kitap rafları arasında yavaşça yürüyor. El kamerası hareketi hafif titrek. Küçük bir gülüş.
 
-Character says softly in Indonesian:
+Karakter Endonezce yumuşak bir şekilde şöyle der:
 
 "Lagi di perpustakaan jam segini, sepi banget tapi nyaman."
 
-Camera autofocus briefly searches face. Bookshelves tightly packed with colorful books.
+Kamera otomatik odağı yüzünü kısaca arar. Kitap rafları renkli kitaplarla dolu.
 
-SCENE 2 (0:02–0:04)
+SAHNE 2 (0:02–0:04)
 
-Stops near manga shelf. Looks sideways and laughs naturally. Hair falls over cheek. Slight Cyber-shot zoom movement.
+Manga rafının yanında durur. Yana bakar ve doğal bir şekilde güler. Saçları yanağına düşer. Hafif Cyber-shot yakınlaştırma hareketi.
 
-SCENE 3 (0:04–0:06)
+SAHNE 3 (0:04–0:06)
 
-Campus staircase. Walking downstairs while filming herself. Camera shakes naturally with footsteps. Students moving behind.
+Kampüs merdivenleri. Kendini çekerken aşağı iner. Kamera adımlarla doğal bir şekilde titrer. Arkada hareket eden öğrenciler.
 
-SCENE 4 (0:06–0:08)
+SAHNE 4 (0:06–0:08)
 
-Glass campus corridor. Walking backward facing camera. Afternoon sunlight entering windows. Soft lens flare.
+Cam kampüs koridoru. Kameraya dönük şekilde geriye doğru yürüyor. Pencerelerden giren öğleden sonra güneş ışığı. Yumuşak lens parlaması.
 
-Character smiles and says:
+Karakter gülümser ve şöyle der:
 
 "Jadi bagus banget vibes nya hari ini."
 
-SCENE 5 (0:08–0:10)
+SAHNE 5 (0:08–0:10)
 
-Outdoor campus area. Rotates camera briefly toward scenery before returning to face. Trees and students visible.
+Açık kampüs alanı. Kamerayı yüze dönmeden önce kısaca manzaraya doğru çevirir. Ağaçlar ve öğrenciler görünür.
 
-SCENE 6 (0:10–0:12)
+SAHNE 6 (0:10–0:12)
 
-Mall bookstore. Walking while holding drink. Direct flash creates bright skin highlights and darker background.
+AVM kitapçısı. İçeceğini tutarak yürüyor. Doğrudan flaş parlak cilt vurguları ve daha karanlık bir arka plan oluşturur.
 
-SCENE 7 (0:12–0:13.5)
+SAHNE 7 (0:12–0:13.5)
 
-Standing in front of store glass. Camera reflection visible. Adjusts hair and laughs softly.
+Mağaza camının önünde duruyor. Kamera yansıması görünür. Saçını düzeltir ve hafifçe güler.
 
-SCENE 8 (0:13.5–0:15)
+SAHNE 8 (0:13.5–0:15)
 
-Close-up shot. Waves toward camera. Freeze frame briefly.
+Yakın çekim. Kameraya el sallar. Kısa bir süre donmuş kare.
 
-REC icon flashes.
+REC simgesi yanıp söner.
 
-Cut to black.
+Siyah ekrana geçiş.
 
-Keywords: nostalgic digicam, cyber-shot LCD vlog, college life memory footage, authentic CCD rendering, handheld documentary aesthetic, candid moments, realistic camera flaws, early-2010s aesthetic nostalgia.
+Anahtar kelimeler: nostaljik dijital kamera, cyber-shot LCD vlog, üniversite hayatı anı görüntüleri, otantik CCD işleme, el kamerası belgesel estetiği, doğal anlar, gerçekçi kamera kusurları, 2010'ların başı estetik nostaljisi.
 ```
 
 **Gönderen** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K takipçi
@@ -3549,89 +3549,89 @@ Kore aksiyon sineması, ultra gerçekçi sinematografi, sinematik el kamerası a
 
 ---
 
-### 43. follow the storyboard @image_2in sequence 15-second ultra-realistic c…
+### 43. Sinematik Futbolcu Reklamı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058061828031385739_0_poster.jpg" width="480" alt="follow the storyboard @image_2in sequence 15-second ultra-realistic c…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058061828031385739_0_poster.jpg" width="480" alt="Sinematik Futbolcu Reklamı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-follow the storyboard @image_2in sequence 15-second ultra-realistic cinematic vertical football commercial video, strict sequential storytelling, every storyboard panel must be followed exactly in order with the SAME consistent reference character throughout all shots.
+Storyboard'u takip edin @image_2in sekansı 15 saniyelik ultra gerçekçi sinematik dikey futbol reklam videosu, katı sıralı hikaye anlatımı, her storyboard paneli tüm çekimler boyunca AYNI tutarlı referans karakter ile tam olarak sırayla takip edilmelidir.
 
-REFERENCE CHARACTER (LOCKED CONSISTENCY):
-A stunning young athletic blonde woman in her early 20s with a high ponytail, sharp facial features, glowing skin, wearing a professional white football uniform with subtle blue accents, fitted jersey, matching shorts, long white socks, white cleats, and carrying a black backpack over one shoulder. She must remain visually identical in every scene.
+REFERANS KARAKTER (KİLİTLİ TUTARLILIK):
+20'li yaşlarının başında, at kuyruklu, keskin yüz hatlarına, ışıldayan bir cilde sahip, ince mavi detaylı profesyonel beyaz futbol forması, uyumlu şort, uzun beyaz çoraplar, beyaz kramponlar giyen ve omzunda siyah bir sırt çantası taşıyan çarpıcı genç atletik sarışın kadın. Her sahnede görsel olarak aynı kalmalıdır.
 
-VIDEO STYLE:
-Premium Nike/Adidas-style football campaign mixed with authentic live-match energy. Dynamic handheld cinematography, cinematic sports-commercial lighting, roaring football crowd ambience, realistic stadium atmosphere, high-energy pacing, dramatic floodlights, warm sunset tones mixed with cool stadium LEDs, authentic smartphone-meets-cinema aesthetic. Vertical 9:16 aspect ratio.
+VİDEO STİLİ:
+Otantik maç günü enerjisiyle harmanlanmış birinci sınıf Nike/Adidas tarzı futbol kampanyası. Dinamik el kamerası sinematografisi, sinematik spor reklamı aydınlatması, gürleyen futbol taraftarı ortamı, gerçekçi stadyum atmosferi, yüksek enerjili tempo, dramatik projektörler, soğuk stadyum LED'leri ile karışık sıcak gün batımı tonları, otantik akıllı telefon-sinema estetiği. Dikey 9:16 en boy oranı.
 
-SCENE 1 — STADIUM ARRIVAL (0–3s)
-Massive packed football stadium during a live professional match at sunset. Thousands of screaming fans chant loudly while football players continue playing in the background. Stadium tunnel doors open dramatically and the blonde athlete walks out carrying her black backpack. Crowd instantly erupts cheering and filming her with phones. She smiles confidently while stepping onto the pitch under powerful floodlights.
+SAHNE 1 — STADYUMA VARIŞ (0–3 sn)
+Gün batımında profesyonel bir maç sırasında tıklım tıklım dolu devasa futbol stadyumu. Binlerce çığlık atan taraftar yüksek sesle tezahürat yaparken futbolcular arka planda oynamaya devam ediyor. Stadyum tünel kapıları dramatik bir şekilde açılıyor ve sarışın sporcu siyah sırt çantasını taşıyarak dışarı yürüyor. Kalabalık anında patlayarak tezahürat yapıyor ve onu telefonlarıyla çekiyor. Güçlü projektörlerin altında sahaya adım atarken kendinden emin bir şekilde gülümsüyor.
 
-Camera:
-Low-angle cinematic tracking shot moving backward as she walks forward. Slight handheld shake for realism.
+Kamera:
+O ileri yürürken geriye doğru hareket eden düşük açılı sinematik takip çekimi. Gerçekçilik için hafif el kamerası sarsıntısı.
 
-Audio:
-Roaring crowd, whistles, chants, announcer echoes, bass-heavy stadium atmosphere.
+Ses:
+Gürleyen kalabalık, düdükler, tezahüratlar, yankılanan anonslar, bas ağırlıklı stadyum atmosferi.
 
-SCENE 2 — CROWD HYPE (3–6s)
-She reaches the sideline while front-row fans stand up screaming and waving scarves. Camera flashes explode around her. She casually drops a black-and-white soccer ball to the ground and starts juggling effortlessly with her knees and feet while smiling slightly.
+SAHNE 2 — KALABALIK HEYECANI (3–6 sn)
+Yan çizgiye ulaştığında ön sıradaki taraftarlar ayağa kalkıp çığlık atarak atkılarını sallıyor. Etrafında kamera flaşları patlıyor. Siyah beyaz bir futbol topunu yere bırakıyor ve hafifçe gülümseyerek dizleri ve ayaklarıyla zahmetsizce sektirmeye başlıyor.
 
-Camera:
-Fast sports-commercial cuts between:
-• close-up footwork
-• crowd reactions
-• handheld sideline perspective
-• slow-motion ball spins
+Kamera:
+Şunlar arasında hızlı spor reklamı kesmeleri:
+• yakın plan ayak hareketleri
+• kalabalık tepkileri
+• el kamerası yan çizgi perspektifi
+• ağır çekim top dönüşleri
 
-Visuals:
-Ponytail swinging naturally, realistic motion blur, dramatic LED stadium lighting.
+Görseller:
+Doğal bir şekilde sallanan at kuyruğu, gerçekçi hareket bulanıklığı, dramatik LED stadyum aydınlatması.
 
-SCENE 3 — MATCH-DAY SHOWTIME (6–10s)
-The football match continues intensely behind her while she confidently walks along the sideline juggling the ball continuously. Fans chant louder with every touch. Giant LED boards flash around the stadium. Confetti and camera flashes fill the air.
+SAHNE 3 — MAÇ GÜNÜ ŞOV ZAMANI (6–10 sn)
+O, topu sürekli sektirerek yan çizgi boyunca kendinden emin bir şekilde yürürken futbol maçı arkasında yoğun bir şekilde devam ediyor. Taraftarlar her dokunuşta daha yüksek sesle tezahürat yapıyor. Dev LED panolar stadyumun etrafında yanıp sönüyor. Konfetiler ve kamera flaşları havayı dolduruyor.
 
-Camera:
-Dynamic tracking shots mixed with cinematic slow-motion moments. Occasional whip pans following the ball.
+Kamera:
+Sinematik ağır çekim anlarıyla karışık dinamik takip çekimleri. Topu takip eden ara sıra hızlı panlar.
 
-Atmosphere:
-Authentic match-day chaos, energetic sports-commercial vibe, emotional crowd excitement.
+Atmosfer:
+Otantik maç günü kaosu, enerjik spor reklamı havası, duygusal kalabalık heyecanı.
 
-SCENE 4 — HERO MOMENT (10–13s)
-She stops near center pitch, catches the ball perfectly with one foot, and looks toward the roaring crowd with a confident smile. Stadium lights create dramatic highlights on her face and football uniform. The crowd begins chanting rhythmically.
+SAHNE 4 — KAHRAMANLIK ANI (10–13 sn)
+Orta sahaya yakın bir yerde duruyor, topu tek ayağıyla mükemmel bir şekilde yakalıyor ve kendinden emin bir gülümsemeyle gürleyen kalabalığa bakıyor. Stadyum ışıkları yüzünde ve futbol formasında dramatik vurgular yaratıyor. Kalabalık ritmik bir şekilde tezahürat yapmaya başlıyor.
 
-Camera:
-Dramatic low-angle rotating hero shot around her with shallow depth of field and glowing stadium bokeh.
+Kamera:
+Sığ alan derinliği ve parlayan stadyum bokeh efekti ile etrafında dönen dramatik düşük açılı kahraman çekimi.
 
-Visuals:
-Epic sports-brand campaign energy, ultra-polished cinematic grading.
+Görseller:
+Epik spor markası kampanya enerjisi, ultra parlak sinematik derecelendirme.
 
-SCENE 5 — ICONIC FINALE (13–15s)
-She jogs toward the center field while the football match resumes around her. Giant stadium screens display her live image as fans continue cheering wildly. She turns briefly toward the camera with a playful confident smile before the video ends on a cinematic freeze-frame.
+SAHNE 5 — İKONİK FİNAL (13–15 sn)
+Futbol maçı etrafında devam ederken orta sahaya doğru koşuyor. Taraftarlar çılgınca tezahürat yapmaya devam ederken dev stadyum ekranları onun canlı görüntüsünü gösteriyor. Video sinematik bir donmuş kare ile bitmeden önce hafifçe kameraya dönüp oyuncu ve kendinden emin bir şekilde gülümsüyor.
 
-Camera:
-Rear follow shot transitioning into a smooth cinematic zoom-out revealing the full stadium scale.
+Kamera:
+Stadyumun tam ölçeğini ortaya çıkaran pürüzsüz bir sinematik uzaklaştırmaya geçiş yapan arkadan takip çekimi.
 
-FINAL VISUAL STYLE:
-• Ultra-realistic live-action football commercial
-• High-energy stadium crowd reactions
-• Warm cinematic sports color grading
-• Realistic grass textures and floodlights
-• Premium sportswear advertisement aesthetic
-• Smooth handheld movement mixed with cinematic slow motion
-• Authentic football atmosphere with crowd chanting and camera flashes
-• Vibrant colors, crisp contrast, detailed textures
-• Viral TikTok/Reels sports-fashion energy combined with blockbuster sports-commercial quality
-Try here  
+FİNAL GÖRSEL STİLİ:
+• Ultra gerçekçi canlı aksiyon futbol reklamı
+• Yüksek enerjili stadyum kalabalığı tepkileri
+• Sıcak sinematik spor renk derecelendirmesi
+• Gerçekçi çim dokuları ve projektörler
+• Birinci sınıf spor giyim reklamı estetiği
+• Sinematik ağır çekimle karışık pürüzsüz el kamerası hareketi
+• Tezahürat yapan kalabalık ve kamera flaşlarıyla otantik futbol atmosferi
+• Canlı renkler, net kontrast, detaylı dokular
+• Blokbuster spor reklamı kalitesiyle birleştirilmiş viral TikTok/Reels spor-moda enerjisi
+Burayı deneyin  
 
-From tunnel entrance to the final hero shot, every frame was designed to feel like a real campaign mixed with viral match-day energy. 
+Tünel girişinden son kahramanlık çekimine kadar her kare, gerçek bir kampanya ile viral maç günü enerjisinin karışımı gibi hissettirecek şekilde tasarlandı. 
 
  
 
-Prompt and Tutorial👇
+İstem ve Eğitim👇
 ```
 
 **Gönderen** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44K takipçi
@@ -3644,19 +3644,19 @@ Prompt and Tutorial👇
 
 ---
 
-### 44. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+### 44. Olimpik dalgıç platformdan kalkış ve dalış
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Female Olympic diver from platform takeoff to mid-air perfect dive in…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Olimpik dalgıç platformdan kalkış ve dalış"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+Kadın Olimpik dalgıç, platformdan kalkıştan havada mükemmel dalışa ve mavi havuza girişe kadar, tam sekans aksiyon, renkli mayo, dinamik çekim.
 ```
 
 **Gönderen** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 takipçi
@@ -4005,29 +4005,29 @@ SFX: Raket vuruş sesi, top iniş sesi, nefes alma sesi
 
 ---
 
-### 47. I created ultra-realistic live-action sports documentary using GPT ul…
+### 47. Dünya Kupası Brezilya Taraftar Kutlaması Belgeseli
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056242156244005191_0_poster.jpg" width="480" alt="I created ultra-realistic live-action sports documentary using GPT ul…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056242156244005191_0_poster.jpg" width="480" alt="Dünya Kupası Brezilya Taraftar Kutlaması Belgeseli"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-I created ultra-realistic live-action sports documentary using GPT 
-ultra-realistic live-action sports documentary style, packed FIFA World Cup 2022 Qatar stadium at night. Energetic blonde Brazilian female fan wearing green-and-yellow Brazil headband, Brazil scarf, and stylish yellow top filming herself in selfie mode, huge excited smile, jumping and screaming with emotional crowd energy, subtle handheld iPhone camera shake for realism. Fast dynamic cuts between selfie shots, roaring fans waving flags, Neymar and Brazil players celebrating dramatically on the lush green pitch after a goal, stadium lights glowing intensely, cinematic motion blur, confetti flying, vibrant saturated greens and yellows, immersive World Cup atmosphere, high-energy samba percussion beat synced with edits, authentic sports-broadcast aesthetic, realistic skin textures, 4K cinematic depth of field.
-0–3s: Selfie close-up, woman shouting excitedly:
-“Brazil! Let’s gooo!”
-Crowd chanting loudly in background.
-3–7s: Quick cuts to Neymar and Brazil players celebrating, fans jumping, flags waving.
-Excited stadium commentator voice:
-“GOOOAAAL for Brazil! The stadium is absolutely exploding tonight in Qatar!”
-7–11s: Woman laughing and cheering toward camera while fireworks and crowd erupt behind her.
-Commentator shouting with crowd noise swelling:
-“What a magical World Cup moment for Brazil!”
+GPT kullanarak oluşturduğum ultra gerçekçi canlı aksiyon spor belgeseli
+Ultra gerçekçi canlı aksiyon spor belgeseli tarzı, gece vakti tıklım tıklım dolu 2022 Katar FIFA Dünya Kupası stadyumu. Yeşil-sarı Brezilya saç bandı, Brezilya atkısı ve şık sarı bir üst giymiş, enerjik sarışın Brezilyalı kadın taraftar, selfie modunda kendini çekiyor, kocaman heyecanlı bir gülümseme, duygusal kalabalık enerjisiyle zıplıyor ve bağırıyor, gerçekçilik için hafif iPhone el kamerası titremesi. Selfie çekimleri, bayrak sallayan coşkulu taraftarlar, bir golden sonra yemyeşil sahada dramatik bir şekilde kutlama yapan Neymar ve Brezilya oyuncuları arasında hızlı dinamik kesmeler, yoğun bir şekilde parlayan stadyum ışıkları, sinematik hareket bulanıklığı, uçuşan konfetiler, canlı doygun yeşiller ve sarılar, sürükleyici Dünya Kupası atmosferi, kurguyla senkronize yüksek enerjili samba perküsyon ritmi, otantik spor yayını estetiği, gerçekçi cilt dokuları, 4K sinematik alan derinliği.
+0–3sn: Selfie yakın çekim, kadın heyecanla bağırıyor:
+“Brezilya! Hadi gidelim!”
+Arka planda yüksek sesle tezahürat yapan kalabalık.
+3–7sn: Neymar ve Brezilya oyuncularının kutlama yaptığı, taraftarların zıpladığı, bayrakların sallandığı hızlı kesmeler.
+Heyecanlı stadyum spikerinin sesi:
+“Brezilya için GOOOAAAL! Stadyum bu gece Katar'da resmen patlıyor!”
+7–11sn: Arkasında havai fişekler patlarken ve kalabalık coşarken kameraya doğru gülen ve tezahürat yapan kadın.
+Kalabalık gürültüsü yükselirken spiker bağırıyor:
+“Brezilya için ne büyülü bir Dünya Kupası anı!”
 ```
 
 **Gönderen** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K takipçi
@@ -4124,19 +4124,19 @@ Bitiş sahnesi. Orta yakın çekim, 50mm, yavaş içeri itme ve ardından sabit 
 
 ---
 
-### 50. Use the provided character reference for the facial features and body…
+### 50. Kırmızı Halı Tasarımcı Modası Yürüyüşü
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Use the provided character reference for the facial features and body…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Kırmızı Halı Tasarımcı Modası Yürüyüşü"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+Yüz hatları ve vücut yapısı için sağlanan karakter referansını kullanın. Zarif tasarımcı kıyafetleriyle 15 saniyelik kırmızı halı çoklu çekim yürüyüşü oluşturun
 ```
 
 **Gönderen** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K takipçi
@@ -4421,19 +4421,19 @@ Sinematik görünüm yok, poz verme yok, güzellik filtreleri yok, dramatik ayd�
 
 ---
 
-### 55. A professor writes out a mathematical proof for trigonometric identit…
+### 55. Kara tahtada matematiksel ispat yazan profesör
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2053857256509243497_0_poster.jpg" width="480" alt="A professor writes out a mathematical proof for trigonometric identit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2053857256509243497_0_poster.jpg" width="480" alt="Kara tahtada matematiksel ispat yazan profesör"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.
+Bir profesör, geleneksel bir kara tahtaya trigonometrik özdeşlikler için matematiksel bir ispat yazıyor ve denklemde o an bulunduğu adımı açıklıyor.
 ```
 
 **Gönderen** [Miko ✓](https://x.com/Mho_23) (@Mho_23) · 26.3K takipçi
@@ -4535,73 +4535,73 @@ temiz sinematik aydınlatma
 
 ---
 
-### 58. STYLE Cinematic realism, warm sunrise tones, soft film grain, natural…
+### 58. Sinematik Sabah İşe Gidiş Sekansı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052058355321967069_0_poster.jpg" width="480" alt="STYLE Cinematic realism, warm sunrise tones, soft film grain, natural…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052058355321967069_0_poster.jpg" width="480" alt="Sinematik Sabah İşe Gidiş Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-STYLE
-Cinematic realism, warm sunrise tones, soft film grain, natural light, shallow depth of field, subtle handheld stability. Continuous scene logic, no resets between shots.
+STİL
+Sinematik gerçekçilik, sıcak gün doğumu tonları, yumuşak film greni, doğal ışık, sığ alan derinliği, hafif el kamerası dengesi. Kesintisiz sahne mantığı, çekimler arasında sıfırlama yok.
 
-CHARACTER (LOCK)
-Young woman, mid-20s, warm brown skin, voluminous natural curly afro, minimal makeup. Loose neutral t-shirt, layered necklaces, ripped jeans, sneakers, leather shoulder bag.
-Maintain identical appearance across all shots.
+KARAKTER (SABİT)
+Genç kadın, 20'li yaşların ortası, sıcak esmer ten, hacimli doğal kıvırcık afro saç, hafif makyaj. Bol kesim nötr tişört, katmanlı kolyeler, yırtık kot pantolon, spor ayakkabı, deri omuz çantası.
+Tüm çekimlerde aynı görünümü koruyun.
 
-CRITICAL SPATIAL RULES (HIGH PRIORITY)
-There are ONLY TWO DOORS in the sequence:
-Apartment door (interior → hallway)
-Building exit door (hallway → outside street)
-Each door is used ONCE ONLY
-Movement is strictly forward progression: apartment → hallway → building exit → street
-Character is never outside before opening the building exit door
-Do not generate extra doors, alternate exits, or resets
-Maintain continuous geography and direction of travel
+KRİTİK MEKANSAL KURALLAR (YÜKSEK ÖNCELİK)
+Sekansta SADECE İKİ KAPI vardır:
+Daire kapısı (iç mekan → koridor)
+Bina çıkış kapısı (koridor → dış sokak)
+Her kapı SADECE BİR KEZ kullanılır
+Hareket kesinlikle ileriye doğrudur: daire → koridor → bina çıkışı → sokak
+Karakter, bina çıkış kapısını açmadan önce asla dışarıda değildir
+Ekstra kapılar, alternatif çıkışlar veya sıfırlamalar oluşturmayın
+Sürekli coğrafyayı ve hareket yönünü koruyun
 
-SEQUENCE (SINGLE CONTINUOUS PATH)
-Shot 1 — Interior prep (medium)
-Inside apartment. She stands at the apartment door, adjusts bag, picks up keys. Camera static or slight push-in.
-Shot 2 — Apartment door unlock (close)
-Close-up: keys in lock. She unlocks apartment door from inside. Clear, single action.
-Shot 3 — Apartment door exit (medium)
-She opens apartment door inward and steps into hallway. Camera stays inside as she exits.
-Shot 4 — Hallway continuity (tracking)
-Now fully in hallway. Camera follows as she walks forward toward building exit. No additional doors.
-Shot 5 — Building exit approach (wide)
-She reaches the final building exit door at end of hallway. Exterior light visible through glass.
-Shot 6 — Building exit open (medium)
-She pushes building exit door open outward. Bright sunlight floods in. This is the only transition to outside.
-Shot 7 — Exterior step-out (wide)
-She steps outside onto sidewalk. First time fully outdoors. Camera follows naturally.
-Shot 8 — Walk profile (tracking)
-Side tracking as she walks down the street. Natural stride, bag movement consistent.
-Shot 9 — Street inserts (cutaways)
-Storefronts, plants, reflections. Clean, legible signage.
-Shot 10 — Crosswalk (wide)
-She crosses the street. Background motion minimal and realistic.
-Shot 11 — Follow + finish (tracking/close)
-Camera follows behind, then slight close as she looks ahead and continues walking.
+SEKANS (TEK KESİNTİSİZ YOL)
+Çekim 1 — İç mekan hazırlığı (orta)
+Daire içi. Daire kapısında durur, çantasını düzeltir, anahtarları alır. Kamera sabit veya hafif yakınlaşma.
+Çekim 2 — Daire kapısı kilidini açma (yakın)
+Yakın çekim: kilitteki anahtarlar. Daire kapısının kilidini içeriden açar. Net, tek bir eylem.
+Çekim 3 — Daire kapısından çıkış (orta)
+Daire kapısını içeriye doğru açar ve koridora adım atar. O çıkarken kamera içeride kalır.
+Çekim 4 — Koridor sürekliliği (takip)
+Artık tamamen koridorda. Kamera, bina çıkışına doğru yürürken onu takip eder. Ek kapı yok.
+Çekim 5 — Bina çıkışına yaklaşım (geniş)
+Koridorun sonundaki son bina çıkış kapısına ulaşır. Camdan dış ışık görünür.
+Çekim 6 — Bina çıkışını açma (orta)
+Bina çıkış kapısını dışarıya doğru iter. Parlak güneş ışığı içeri dolar. Bu, dışarıya yapılan tek geçiştir.
+Çekim 7 — Dışarı adım atma (geniş)
+Kaldırıma adım atar. Tamamen dışarıda olduğu ilk an. Kamera doğal bir şekilde takip eder.
+Çekim 8 — Yürüyüş profili (takip)
+Sokakta yürürken yan takip. Doğal adım, çanta hareketi tutarlı.
+Çekim 9 — Sokak detayları (kesmeler)
+Dükkan vitrinleri, bitkiler, yansımalar. Temiz, okunabilir tabelalar.
+Çekim 10 — Yaya geçidi (geniş)
+Caddeden karşıya geçer. Arka plan hareketi minimum ve gerçekçi.
+Çekim 11 — Takip + bitiş (takip/yakın)
+Kamera arkadan takip eder, ardından ileriye bakıp yürümeye devam ederken hafif yakınlaşır.
 
-TEXT RENDERING (REFINED)
-All signage must be sharp, readable, and stable across frames
-Use simple real-world words only: “Cafe”, “Market”, “Books”
-No warped, flickering, or nonsensical text
-Maintain consistent typography style per location
+METİN OLUŞTURMA (İNCELTİLMİŞ)
+Tüm tabelalar keskin, okunabilir ve kareler boyunca sabit olmalıdır
+Sadece basit gerçek dünya kelimeleri kullanın: “Cafe”, “Market”, “Books”
+Çarpık, titreyen veya anlamsız metin yok
+Konuma göre tutarlı tipografi stilini koruyun
 
-CAMERA + EDITING RULES
-Maintain continuous motion between shots (match cuts, no resets)
-No teleporting, no angle discontinuity
-Preserve left-to-right or forward directional movement
-Keep geography consistent (hallway layout does not change)
+KAMERA + DÜZENLEME KURALLARI
+Çekimler arasında sürekli hareketi koruyun (eşleşen kesmeler, sıfırlama yok)
+Işınlanma yok, açı süreksizliği yok
+Soldan sağa veya ileri yönlü hareketi koruyun
+Coğrafyayı tutarlı tutun (koridor düzeni değişmez)
 
-NEGATIVE PROMPT
-No extra doors, no duplicate exits, no reversing direction, no entering from outside, no prop inconsistencies, no text distortion, no identity drift, no broken hand mechanics.
+NEGATİF PROMPT
+Ekstra kapı yok, mükerrer çıkış yok, yönü tersine çevirme yok, dışarıdan giriş yok, aksesuar tutarsızlığı yok, metin bozulması yok, kimlik kayması yok, bozuk el mekaniği yok.
 ```
 
 **Gönderen** [Heather Cooper ✓](https://x.com/HBCoop_) (@HBCoop_) · 54.6K takipçi
@@ -4747,63 +4747,65 @@ Görsel hareketi huzursuz değil, sakin ve kasıtlı tutun.
 
 ---
 
-### 61. story = a beautiful woman in a white dress enjoying a amazing sunset…
+### 61. LuxLife Retreats Sinematik Reklam Konsepti
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="story = a beautiful woman in a white dress enjoying a amazing sunset…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="LuxLife Retreats Sinematik Reklam Konsepti"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+hikaye = uçuruma inşa edilmiş lüks bir malikanede muhteşem bir gün batımı akşamının tadını çıkaran beyaz elbiseli güzel bir kadın, 
 
-Scenes:
-1) wide angle drone shot
-2) wide angle walk at pool
-3) medium wide over shoulder walk at pool
-4) medium wide lean on railing
-5) close-up hand in water
-6) look over bay
-7) close-up smile
-8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+Sahneler:
+1) Geniş açılı drone çekimi
+2) Havuz kenarında geniş açılı yürüyüş
+3) Havuz kenarında omuz üstü orta geniş çekim
+4) Korkuluklara yaslanmış orta geniş çekim
+5) Elin suda olduğu yakın çekim
+6) Koya bakış
+7) Gülümseme yakın çekimi
+8) Şampanya tutarken gülümseyen geniş açı ve zarif yazı tipiyle "LuxLife Retreats" metni
 
-Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+Kısa film veya reklam için eksiksiz bir konsept sunan sinematik bir prodüksiyon panosu / görsel planlama sayfası oluşturun. Düzen temiz, ızgara tabanlı ve net bir şekilde etiketlenmiş bölümlere ayrılmış olmalıdır.    
 
-Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+İçerik: Paylaşılan yaratıcı yön (üst çubuk): çekim sayısı, birleşik renk paleti ve genel çevresel bağlam gibi genel kısıtlamalar.      
 
-Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+Karakter + stil referans bölümü: Birden fazla açıdan (ön, arka, yan, yakın çekimler, rahat poz) gösterilen bir model, gardırop ve aksesuar referanslarıyla birlikte. Belirli sahneler için küçük değişikliklere izin verirken kimliğin tutarlılığını vurgulayın.      
 
-Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+Çevre ve set tasarımı bölümü: Dramatik doğal özelliklere sahip manzaralı bir dış mekan konumu ve alan içindeki hareketi gösteren yukarıdan aşağıya bir diyagram. Rota boyunca kamera konumlarını ve etiketli çekim türlerini dahil edin.      
 
-Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+Storyboard bölümü: Sahnenin ilerleyişini gösteren numaralandırılmış karelerden (yaklaşık 8 çekim) oluşan bir dizi. Her kare şunları içerir: Kamera türü / lens hissi, Çekim boyutu (geniş, orta, yakın çekim, makro), Hareket (statik, takip, el kamerası vb.), Eylem ve duygusal ilerlemenin kısa açıklaması.      
 
-Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+Işıklandırma / ruh hali / stil notları: Işık koşulları, atmosfer ve doku ile ilgili kısa açıklamalarla eşleştirilmiş görsel örnekler. Gün içindeki geçişleri ve ışık kalitesindeki değişimleri dahil edin. Ruh hali ve anahtar kelimeler bloğu: Parçaya rehberlik eden duygusal tonların ve tematik tanımlayıcıların kısa bir listesi.      
 
-Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+Ses / ton bölümü: Ortam sesi, müzik tarzı ve genel sonik atmosferin göstergeleri.      
+
+Sinematografi notları: Lens özellikleri, hareket tarzı ve post-prodüksiyon hissi dahil olmak üzere genel görsel felsefe.     
  
-The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+Tüm pano, tonu, tempoyu ve görsel hikaye anlatımını bir bakışta ileten bir yönetmenin prodüksiyon öncesi kılavuzu gibi tutarlı, sinematik ve profesyonelce tasarlanmış hissettirmelidir.
 ```
 
 **🎬 Video istemi**
 
 ```
-follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+Bir reklam oluşturmak için bu Storyboard'u takip edin. Dinamik kamera hareketi, çekimlerde kamera ekipmanı yok, sadece o, son sahnede sadece metin
 
-story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+hikaye = uçuruma inşa edilmiş lüks bir malikanede muhteşem bir gün batımı akşamının tadını çıkaran beyaz elbiseli güzel bir kadın,
 
-Scenes:
-1) wide angle drone shot
-2) wide angle walk at pool
-3) medium wide over shoulder walk at pool
-4) medium wide lean on railing
-5) close-up hand in water
-6) look over bay
-7) close-up smile
-8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+Sahneler:
+1) Geniş açılı drone çekimi
+2) Havuz kenarında geniş açılı yürüyüş
+3) Havuz kenarında omuz üstü orta geniş çekim
+4) Korkuluklara yaslanmış orta geniş çekim
+5) Elin suda olduğu yakın çekim
+6) Koya bakış
+7) Gülümseme yakın çekimi
+8) Şampanya tutarken gülümseyen geniş açı ve zarif yazı tipiyle "LuxLife Retreats" metni
 ```
 
 **Gönderen** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K takipçi
@@ -4870,49 +4872,49 @@ SFX: sessizlik → yıkım çığlığı
 
 ---
 
-### 63. Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…
+### 63. Yoga Vinyasa Akış Eğitim Videosu
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Yoga Vinyasa Akış Eğitim Videosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **🖼️ Görsel istemi**
 
 ```
-Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+4 sütun ve 3 satırdan oluşan temiz bir ızgara düzeninde 12 panelli bir yoga eğitim diyagramı oluşturun. Stil: siyah-beyaz / yumuşak gri tonlamalı eğitim posteri, kırık beyaz arka plan, ince siyah panel kenarlıkları, kalın büyük harf başlıklar, siyah yuvarlak numara rozetleri, basit noktalı veya kavisli hareket okları ve kısa koçluk açıklamaları.
 
-Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+Tüm panellerde tutarlı bir kadın yoga modeli kullanın: atletik yapı, uzun dalgalı saçlar, vücuda oturan spor sütyeni ve tayt, çıplak ayak, gerçekçi fotoğraf-illüstrasyon stili, nötr stüdyo arka planı. Dağ Duruşu'ndan (Mountain Pose) Aşağı Bakan Köpek Duruşu'na (Downward-Facing Dog) kadar klasik bir vinyasa akışını gösterin. Aşırı teknik duruş detaylarından ziyade, akıcı bir sekansın hissine, net harekete, nefese ve bir adımdan diğerine geçişlere odaklanın.
 
-Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+Her panel, hareket adımını ve bir sonraki duruşa nasıl geçildiğini net bir şekilde göstermelidir. Hareket yönünü göstermek için oklar kullanın. Açıklamaları kısa ve basit tutun; eylemi, nefesi veya akış ipucunu doğal bir şekilde tanımlayın.
 
-Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+12 panelin tamamını tam olarak aynı boyutta, eşit hizalanmış, yüksek okunabilirliğe sahip ve görsel olarak tutarlı yapın. Renk kullanmayın. Ekstra metin eklemeyin.
 ```
 
 **🎬 Video istemi**
 
 ```
-Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+Sahne: Tek kesintisiz çekim - Bir kadının eksiksiz bir yoga vinyasa akışı gerçekleştirdiğini gösteren el kamerası tarzında YouTube videosu.
 
-Character: Use IMG1 as the character we're following in the scene.
+Karakter: Sahnede takip ettiğimiz karakter olarak IMG1'i kullanın.
 
-Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+Karakter Hareketi: Akışı tamamlamak için hareketleri ve talimatları tam olarak takip etmek üzere IMG2'yi kullanın.
 
-The scene starts at IMG1.
+Sahne IMG1 ile başlar.
 
-Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+Yön: Kadın huzurlu, turuncu bir yoga stüdyosunda duruyor. El kamerası, akışına başladığında ona hafifçe yaklaşır. Dağ duruşundan yukarı selamlama duruşuna geçerken anı yakın bir kompozisyonla yakalar.
 
-The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+Yukarı selamlamadan kuğu dalışına (swan dive) geçerken kamera geri çekilmeye başlar ve kuğu dalışından öne katlanma (forward fold) duruşuna geçerken vücuduna odaklanmaya devam eder.
 
-The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+Avuç içlerini yere koyup yüksek plank pozisyonuna geri adım attığında kamera sağ tarafa, yan profile doğru hareket etmeye başlar. Chaturanga'dan yukarı bakan köpek duruşuna (upward-facing dog) geçerken kamera daha aşağı iner ve odaklanmış bir yakın çekim için yüzüne doğru yaklaşır.
 
-The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+Kamera tekrar geri çekilerek aşağı bakan köpek duruşuna (downward-facing dog) geçtiği an tüm vücudunu gösterir. Son olarak, bu pozisyonda derin bir nefes alıp vererek durur.
 
-Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+Genel Ton: Hareketlerinin tümü doğal ve akıcı, kontrollü ve yönlendirilmiş; doğal vücut hareketleri ve dengesini sağlarken yaptığı ince düzeltmelerle güçlü bir duruş sergiliyor.
 
-SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+Ses Efektleri: Huzurlu bir ortam sesi eşliğinde, her duruşta ritmik bir şekilde nefes alıp verdiğini duyuyoruz. Müzik yok.
 ```
 
 **Gönderen** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K takipçi
@@ -4957,53 +4959,53 @@ Sahne 7: Anubis sonrasında birkaç kez kıkırdamaktan kendini alamıyor, ardı
 
 ---
 
-### 65. Stylized 3D animation with exaggerated proportions, sharp culinary-in…
+### 65. Mutfak Hassasiyeti: Stilize Bir 3D Animasyon
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Stylized 3D animation with exaggerated proportions, sharp culinary-in…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Mutfak Hassasiyeti: Stilize Bir 3D Animasyon"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Stylized 3D animation with exaggerated proportions, sharp culinary-inspired choreography, and controlled, rhythmic energy.
+Abartılı oranlara, keskin mutfak temalı koreografiye ve kontrollü, ritmik enerjiye sahip stilize 3D animasyon.
 
-CHARACTERS
+KARAKTERLER
 
-Chef: Lean build, sharp eyes, defined jawline. Wears a crisp white chef jacket with sleeves rolled up. A leather knife roll strapped at the waist like a weapon holster. Movements follow a precise rhythm: pause → burst → lock. Calm, dominant, fully in control.
+Şef: İnce yapılı, keskin bakışlı, belirgin çene hattı. Kolları sıvanmış, bembeyaz, tertemiz bir şef ceketi giyiyor. Belinde silah kılıfı gibi duran deri bir bıçak rulosu var. Hareketleri kesin bir ritmi takip ediyor: duraklama → patlama → kilitlenme. Sakin, baskın, tamamen kontrol sahibi.
 
-Customer: Large, tired build. Slouched posture. Messy clothes with stains. Greasy, unkempt appearance. Sits stiff at the counter, hands gripping the edge—only his eyes move, tracking the chef with growing tension.
+Müşteri: İri, yorgun yapılı. Kambur duruş. Lekeli, dağınık kıyafetler. Yağlı, bakımsız bir görünüm. Tezgahta sert bir şekilde oturuyor, elleri kenarı sıkıca kavrıyor; sadece gözleri hareket ediyor, artan bir gerilimle şefi takip ediyor.
 
-ENVIRONMENT
-Open kitchen. Counter centered. Stainless steel surfaces reflecting every movement. Warm overhead spotlights. Steam rising from pans. Flames flicker from the stove. Ingredients neatly arranged. Food scraps scatter with each step.
+ORTAM
+Açık mutfak. Merkezde tezgah. Her hareketi yansıtan paslanmaz çelik yüzeyler. Yukarıdan gelen sıcak spot ışıkları. Tavalardan yükselen buhar. Ocakta titreyen alevler. Düzenli bir şekilde dizilmiş malzemeler. Her adımda etrafa saçılan yemek artıkları.
 
-MOOD
-Aggressive precision. Chef = total control. Customer = nervous, overwhelmed.
+RUH HALİ
+Agresif hassasiyet. Şef = tam kontrol. Müşteri = gergin, bunalmış.
 
-TIMELINE
-0:00–0:02 (Close-up)
-Customer sits with a messy plate of raw ingredients in front of him. Chef pulls a knife from the roll, spins it in hand, snaps it toward camera. Apron flicks through the air and ties itself perfectly. Customer’s eyes widen.
+ZAMAN ÇİZELGESİ
+0:00–0:02 (Yakın çekim)
+Müşteri önünde dağınık çiğ malzemelerle dolu bir tabakla oturuyor. Şef rulodan bir bıçak çıkarıyor, elinde çeviriyor, kameraya doğru şaklatıyor. Önlük havada uçuşuyor ve kendi kendine mükemmel bir şekilde bağlanıyor. Müşterinin gözleri fal taşı gibi açılıyor.
 
-0:02–0:05 (Medium shot)
-Knife moves fast and sharp—cutting only ingredients. Vegetables slice into perfect cubes mid-air. Meat trimmed with surgical precision. Ingredients fall in slow motion, perfectly portioned. Pan ignites instantly. Customer grips the counter tighter.
+0:02–0:05 (Orta çekim)
+Bıçak hızlı ve keskin hareket ediyor; sadece malzemeleri kesiyor. Sebzeler havada mükemmel küpler halinde dilimleniyor. Et cerrahi bir hassasiyetle ayıklanıyor. Malzemeler ağır çekimde, mükemmel porsiyonlanmış şekilde düşüyor. Tava anında alev alıyor. Müşteri tezgahı daha sıkı kavrıyor.
 
-0:05–0:08 (Tracking shot)
-Knife returns to roll. Tongs snap into hand. Cooking begins—controlled flips, rapid stirring, bursts of flame. Sauce spreads evenly across the pan. Raw chaos transforms into structured composition. Customer leans back slightly, eyes locked.
+0:05–0:08 (Takip çekimi)
+Bıçak ruloya dönüyor. Maşa ele geliyor. Pişirme başlıyor; kontrollü çevirmeler, hızlı karıştırmalar, alev patlamaları. Sos tavaya eşit şekilde yayılıyor. Çiğ kaos, yapılandırılmış bir kompozisyona dönüşüyor. Müşteri hafifçe arkasına yaslanıyor, gözleri kilitli.
 
 0:08–0:11
-Plate tossed into the air, spins mid-air, lands perfectly in the chef’s hand. Brief pause. Chef assembles dish in one fluid motion—each element placed with precision. Steam rises dramatically. Customer blinks, frozen.
+Tabak havaya fırlatılıyor, havada dönüyor ve şefin eline mükemmel bir şekilde konuyor. Kısa bir duraklama. Şef, her bir parçayı hassasiyetle yerleştirerek yemeği tek bir akıcı hareketle birleştiriyor. Buhar dramatik bir şekilde yükseliyor. Müşteri gözlerini kırpıyor, donup kalmış.
 
 0:11–0:13
-Final garnish. Herbs sprinkled with controlled flick. Sauce brushed in a clean arc. Plate wiped instantly. Counter cleared in one sharp motion.
+Son dokunuş. Otlar kontrollü bir fiskeyle serpiliyor. Sos temiz bir yay şeklinde sürülüyor. Tabak anında siliniyor. Tezgah tek bir keskin hareketle temizleniyor.
 
 0:13–0:15
-Plate slides across the counter and stops in front of the customer.
+Tabak tezgah boyunca kayıyor ve müşterinin önünde duruyor.
 
-FINAL REVEAL
-Perfectly plated gourmet dish—clean, elegant, balanced. Customer slowly lifts a bite, hesitates, then tastes. Expression shifts instantly to shock and disbelief. Chef stands behind, arms crossed. Spins knife once, snaps it shut into the roll. One confident nod.
+FİNAL
+Mükemmel sunumlu gurme yemek; temiz, zarif, dengeli. Müşteri yavaşça bir lokma alıyor, tereddüt ediyor, sonra tadına bakıyor. İfadesi anında şok ve inançsızlığa dönüşüyor. Şef arkada duruyor, kolları kavuşturulmuş. Bıçağı bir kez çeviriyor, ruloya şaklatarak kapatıyor. Kendinden emin bir baş selamı.
 ```
 
 **Gönderen** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K takipçi
@@ -5242,19 +5244,19 @@ Aşağıdaki Seedance 2.0 istemi 👇
 
 ---
 
-### 69. The child walks left to right along the playground path, holding a ha…
+### 69. Oyun parkında çocuk ve tavuk kovalamacası
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="The child walks left to right along the playground path, holding a ha…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="Oyun parkında çocuk ve tavuk kovalamacası"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+Çocuk, sağ elinde yarısı yenmiş bir sandviç tutarak oyun parkı yolunda soldan sağa doğru yürüyor. Bir tavuk sandviçi fark ediyor, vücudunu alçaltıyor ve aniden peşinden koşmaya başlıyor. Çocuk sonunda sandviçi atana kadar sandviç tüm süre boyunca net bir şekilde görünür kalıyor. Rota, yoldan kaydırağa ve ardından kum havuzunun kenarına doğru ilerleyerek engelsiz kalıyor. Her dönüş, yakalama girişimi, tökezleme ve son fırlatma dahil olmak üzere her an ekranda gösteriliyor. + STYLE BLOCK
 ```
 
 **Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
@@ -5304,35 +5306,35 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 
 ---
 
-### 71. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+### 71. NBA on TNT At Üstünde Basketbol Yayını
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Film Style: Authentic 2010s-era NBA TV broadcast, TNT &quot;NBA on TNT&quot; gr…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT At Üstünde Basketbol Yayını"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+Film Tarzı: Otantik 2010'lar dönemi NBA TV yayını, TNT "NBA on TNT" grafikleri ve renk düzenlemesi. Kamera: Kesintisiz tek saha kenarı takip çekimi, kesme yok, doğal hareket bulanıklığına sahip standart yayın zoom lensi. Aydınlatma: Sert tepe stadyum aydınlatması, yansıtıcı cilalı parke zemin. Ses: Sürükleyici mekansal ses, ahşap üzerinde ritmik toynak sesleri, gıcırdayan spor ayakkabılar, boğuk arena kalabalığı uğultusu, uzaktan gelen düdük sesi.
 
-[IMAGE REFERENCES / LEGEND]
+[GÖRSEL REFERANSLAR / AÇIKLAMA]
 
-[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+[ref_image] : Sahada at üzerinde Lakers ve Rockets oyuncularını gösteren başlangıç karesi; oyuncu formalarını, at renklerini ve arena arka planını tam olarak koruyun.
 
-[TIMELINE SECOND BY SECOND]
+[SANİYE SANİYE ZAMAN ÇİZELGESİ]
 
-0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+0-3sn: [ref_image] karesinden devam eden kesintisiz çekim; ön plandaki Lakers oyuncusu atı dörtnala kaldırarak boyalı alana doğru sürer.
 
-3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+3-7sn: Atın hareketini takip eden pürüzsüz takip çekimi; toynaklar parkeye çarptığında gerçekçi fizik kuralları uygulanır ve hafif titreşimler oluşur.
 
-7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+7-11sn: At üzerindeki savunmacı Rockets oyuncusu yolu kesmek için manevra yapar; her iki at da deformasyon olmadan stabil bir anatomiye sahip olmalıdır.
 
-11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+11-15sn: Öndeki oyuncu atın üzerindeyken orta mesafe şut için durur; kamera sabit kalır ve top elinden çıkarken atların yavaşlamasının sürekli hareketini yakalar.
 
-[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+[STİL & KALİTE ARTIRICILAR] Standart 720p TV yayın çözünürlüğü, otantik hareket bulanıklığı, canlı spor dijital gürültüsü, tutarlı çoklu nesne fiziği, stabil at ve binici anatomisi.
 ```
 
 **Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K takipçi
@@ -5345,21 +5347,21 @@ Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and 
 
 ---
 
-### 72. Prompt for Character Description: A super cute chibi-style Phoebe fro…
+### 72. Wuthering Waves'ten Chibi Phoebe
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044958230359462113_0_poster.jpg" width="480" alt="Prompt for Character Description: A super cute chibi-style Phoebe fro…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044958230359462113_0_poster.jpg" width="480" alt="Wuthering Waves'ten Chibi Phoebe"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Prompt for Character Description:
+Karakter Tanımı için İstem:
 
-A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi Chupi', exaggerated big head, tiny body, adorable round face, big sparkling eyes with heart-shaped highlights, blonde hair with blue ribbons, wearing her signature oversized white and blue wide-brimmed hat with antler-like decorations, blue and white elegant dress with gold accents.
+'Phoebe Chupi' veya 'Fibi Chupi' olarak Wuthering Waves'ten süper sevimli chibi tarzı Phoebe, abartılı büyük kafa, minik vücut, sevimli yuvarlak yüz, kalp şeklinde parıltılara sahip büyük parıldayan gözler, mavi kurdeleli sarı saçlar, geyik boynuzu benzeri süslemelere sahip imza niteliğindeki büyük beyaz ve mavi geniş kenarlı şapkası, altın detaylı mavi ve beyaz zarif elbise.
 ```
 
 **Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K takipçi
@@ -5372,41 +5374,41 @@ A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi 
 
 ---
 
-### 73. FORMAT: 15s / 145 BPM / 14 SHOTS SUBJECT: WARDROBE: Clean modern outf…
+### 73. Zaman Manipülasyonu Sinematik Sekansı
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044684180139978788_0_poster.jpg" width="480" alt="FORMAT: 15s / 145 BPM / 14 SHOTS SUBJECT: WARDROBE: Clean modern outf…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044684180139978788_0_poster.jpg" width="480" alt="Zaman Manipülasyonu Sinematik Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-FORMAT: 15s / 145 BPM / 14 SHOTS
-SUBJECT:
-WARDROBE: Clean modern outfit
-ENVIRONMENT: Street / indoor transitions
-MOOD: Discovery → control → confidence
-MUSIC: Rhythmic cinematic beat
-COLOR LOGIC: Natural with motion blur effects
-STYLE: Sleek cinematic
-SHOT FLOW:
-She gestures hand → time slows
-People freeze mid-walk
-She moves freely
-Reverses hand → time rewinds
-Objects moving backward
-Shocked reaction
-Tests control again
-Walks through frozen moment
-Adjusts small detail (object/person)
-Releases time
-Everything resumes differently
-Subtle smile
-Walk away
-Final glance — power hinted
+FORMAT: 15sn / 145 BPM / 14 ÇEKİM
+ÖZNE:
+KIYAFET: Temiz modern kıyafet
+ORTAM: Sokak / iç mekan geçişleri
+MOD: Keşif → kontrol → özgüven
+MÜZİK: Ritmik sinematik ritim
+RENK MANTIĞI: Hareket bulanıklığı efektleriyle doğal
+STİL: Şık sinematik
+ÇEKİM AKIŞI:
+Elini sallar → zaman yavaşlar
+İnsanlar yürürken donar
+O özgürce hareket eder
+Elini ters yöne çevirir → zaman geri sarar
+Nesneler geriye doğru hareket eder
+Şaşkın tepki
+Kontrolü tekrar dener
+Donmuş anın içinden yürür
+Küçük bir detayı (nesne/kişi) ayarlar
+Zamanı serbest bırakır
+Her şey farklı şekilde devam eder
+Hafif bir gülümseme
+Uzaklaşır
+Son bakış — güç iması
 ```
 
 **Gönderen** [K ✓](https://x.com/ChillaiKalan__) (@ChillaiKalan__) · 11.9K takipçi
@@ -5419,19 +5421,19 @@ Final glance — power hinted
 
 ---
 
-### 74. Generate a short video for product promotion. A woman (@ Image1), sit…
+### 74. Gündelik Mala Tang Ürün İncelemesi
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044254373698527252_0_poster.jpg" width="480" alt="Generate a short video for product promotion. A woman (@ Image1), sit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044254373698527252_0_poster.jpg" width="480" alt="Gündelik Mala Tang Ürün İncelemesi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Generate a short video for product promotion. A woman (@ Image1), sitting at a restaurant table, eating Mala Tang (@ Image2), explaining the taste of the product. Use colloquial language and a casual, conversational tone to share her experience. Simultaneously, she uses chopsticks to pick up and showcase special ingredients from the Mala Tang (such as bursting cheese balls/tender beef). Her expression is friendly and natural, her movements are relaxed. The product is shown in medium close-up, combined with medium-long shots of the person. The camera is stable, 4K high definition, and the movements are continuous.
+Ürün tanıtımı için kısa bir video oluşturun. Bir restoranda masada oturan bir kadın (@ Image1), Mala Tang yiyor (@ Image2) ve ürünün tadını anlatıyor. Deneyimini paylaşmak için günlük bir dil ve samimi, sohbet havasında bir ton kullanın. Aynı zamanda, çubuklarla Mala Tang'deki özel malzemeleri (patlayan peynir topları/yumuşak dana eti gibi) alıp gösteriyor. İfadesi samimi ve doğal, hareketleri rahat. Ürün, kişinin orta-uzun çekimleriyle birleştirilerek orta yakın çekimde gösteriliyor. Kamera sabit, 4K yüksek çözünürlüklü ve hareketler kesintisiz.
 ```
 
 **Gönderen** [Min Choi ✓](https://x.com/minchoi) (@minchoi) · 376.8K takipçi
@@ -5444,19 +5446,19 @@ Generate a short video for product promotion. A woman (@ Image1), sitting at a r
 
 ---
 
-### 75. Cute chibi style Firefly from Honkai: Star Rail playing hide and seek…
+### 75. Saklambaç Oynayan Chibi Firefly
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044228493597417791_0_poster.jpg" width="480" alt="Cute chibi style Firefly from Honkai: Star Rail playing hide and seek…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044228493597417791_0_poster.jpg" width="480" alt="Saklambaç Oynayan Chibi Firefly"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Cute chibi style Firefly from Honkai: Star Rail playing hide and seek, big sparkling emerald eyes full of mischief, short silver-white hair with pink streaks, wearing her red and black mechanical SAM suit, tiny adorable proportions, big head small body. She is hiding behind a large object or wall, peeking out cutely with a playful shy expression, one hand covering her mouth, soft giggles implied. In the foreground, a mysterious person's arm is reaching out from the side, trying to find her, hand open as if searching or about to tag her. Playful hide and seek scene, bright colorful background with soft pastel lighting, sparkles, floating hearts and question marks, kawaii aesthetic, highly detailed, vibrant colors, adorable 3D chibi render, masterpiece, best quality, ultra-detailed
+Honkai: Star Rail'den sevimli chibi tarzı Firefly saklambaç oynuyor, yaramazlıkla dolu büyük parıldayan zümrüt gözler, pembe çizgili kısa gümüş-beyaz saçlar, kırmızı ve siyah mekanik SAM kıyafetini giyiyor, minik sevimli oranlar, büyük kafa küçük vücut. Büyük bir nesnenin veya duvarın arkasına saklanıyor, şakacı ve utangaç bir ifadeyle sevimli bir şekilde dışarı bakıyor, bir eli ağzını kapatıyor, hafif kıkırdamalar ima ediliyor. Ön planda, gizemli bir kişinin kolu yandan uzanıyor, onu bulmaya çalışıyor, eli sanki arıyormuş veya onu ebeleyecekmiş gibi açık. Şakacı saklambaç sahnesi, yumuşak pastel aydınlatmalı parlak renkli arka plan, parıltılar, yüzen kalpler ve soru işaretleri, kawaii estetiği, yüksek detaylı, canlı renkler, sevimli 3D chibi render, başyapıt, en iyi kalite, ultra detaylı
 ```
 
 **Gönderen** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K takipçi
@@ -6101,19 +6103,19 @@ Sürekli elde tutulan kamera hissi, hızlı hareketlerde yoğun hareket bulanık
 
 ---
 
-### 93. Larry David gets in trouble for using Seedance 2 - make sure it’s ret…
+### 93. Larry David'in Seedance 2 talihsizliği
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Larry David gets in trouble for using Seedance 2 - make sure it’s ret…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Larry David'in Seedance 2 talihsizliği"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
 **📝 İstem**
 
 ```
-Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
+Larry David, Seedance 2 kullandığı için başını belaya sokuyor - saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
 **Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi

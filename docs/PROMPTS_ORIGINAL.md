@@ -134,6 +134,8 @@ Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.
 
 ### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -224,6 +226,8 @@ Punch the Monkey punches back. Make the girls proud.
 
 ### 6. Act as a senior game developer. Build a technically impressive Backro…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -285,6 +289,8 @@ Return only the complete HTML source code. No explanations.
 <a id="prompt-d35ddfcf-b35f-4040-93b9-bf6b7ed6ccc0"></a>
 
 ### 7. video prompt: image1 is the strict character reference. Preserve her…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -669,6 +675,8 @@ no watermark.
 
 ### 8. Create a cinematic 3x3 storyboard grid in 16:9 aspect ratio, featurin…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -716,6 +724,8 @@ Aspect ratio: 16:9
 <a id="prompt-48081343-ac53-4380-8db8-ee65aca5ce0e"></a>
 
 ### 9. Photoreal cinematic night sequence on Easter Island, mysterious eerie…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -775,6 +785,8 @@ Camera: ground-level handheld tracking, slight natural shake, slow weave between
 <a id="prompt-dad721e0-2e0d-418f-abb5-3e9863bd8a36"></a>
 
 ### 10. Create a single vertical anime animation development board for an ori…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -848,6 +860,8 @@ FINAL GOAL: Make this feel like a beautiful anime film development board with em
 <a id="prompt-40728108-5ced-465e-bf19-11f17c7d99eb"></a>
 
 ### 11. First Part: Use @[storyboard ref] as the authoritative director-appro…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -1044,6 +1058,8 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ### 12. 精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们…
 
+![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1064,6 +1080,8 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 <a id="prompt-557405d1-87cf-41e1-975a-520639cba3ff"></a>
 
 ### 13. 【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Mat…
+
+![Source locale](https://img.shields.io/badge/zh-CN-source-555555)
 
 **📝 Prompt (source)**
 
@@ -1159,6 +1177,8 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 <a id="prompt-795a1f2f-02e5-45c4-b41e-1a4c4ee8f42f"></a>
 
 ### 14. FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -1414,6 +1434,8 @@ FADE OUT.
 
 ### 15. “SUBJECTS Painter: adult painter wearing a paint-stained apron, posit…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1626,6 +1648,8 @@ P06: C2 retches and ejects C1 forward; she lands sprawled at center foreground s
 
 ### 17. Use @[Storyboard Ref] as the storyboard for the sequence. Treat every…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -1737,6 +1761,8 @@ BEATS:
 
 ### 18. SUBJECT: < <<<image_1>>>> WARDROBE: Stylish artist outfit consisting…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1833,6 +1859,8 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 
 ### 19. @ Img use attached photo as the main character, preserve exact face a…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -1853,6 +1881,8 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 <a id="prompt-ec1777d5-e4bd-44f0-af36-49e819975b3f"></a>
 
 ### 20. Use @[storyboard ref] as the director-approved storyboard blueprint.…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -2087,6 +2117,8 @@ P18: Green daylight returns; leaves revive, birds return, no creatures remain, C
 
 ### 22. Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -2115,6 +2147,8 @@ In the final seconds, the gaming worlds collapse back into the screen. The lapto
 <a id="prompt-cdf55b1c-dcbd-4060-bed3-8b6cae043d6e"></a>
 
 ### 23. First-person POV flying on a broomstick in a fast cinematic one-take…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -2446,6 +2480,8 @@ END FRAME: Elegant logo reveal. Soft sparkle. Orchestral fade-out.
 <a id="prompt-bd52d42d-8e90-4f64-aeeb-36e17b5596d8"></a>
 
 ### 28. 0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swo…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -3081,6 +3117,8 @@ DM for full Prompt
 
 ### 37. FORMAT: 15s / 12 shots / rapid staccato sabotage action SUBJECTS: Kod…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -3214,6 +3252,8 @@ Style: Ultra-realistic National Geographic ocean documentary combined with premi
 <a id="prompt-1246b713-147a-4321-be91-20776ca40adb"></a>
 
 ### 40. Use uploaded image @[character_ref] as the permanent character identi…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **🖼️ Image prompt (source)**
 
@@ -3417,6 +3457,8 @@ Cartoon, anime, CGI-looking textures, fake skin, extra limbs, distorted faces, e
 
 ### 43. follow the storyboard @image_2in sequence 15-second ultra-realistic c…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3507,6 +3549,8 @@ Prompt and Tutorial👇
 <a id="prompt-9efd897b-e33d-4baa-958a-9c319fc350b3"></a>
 
 ### 44. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -3861,6 +3905,8 @@ SFX: Racket hit sound, ball landing sound, breathing sound
 
 ### 47. I created ultra-realistic live-action sports documentary using GPT ul…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -3971,6 +4017,8 @@ Ending shot. Medium close shot, 50mm, slow push-in then stable hold / After comp
 <a id="prompt-60355ee7-f4bf-400d-ac7f-2131f894fde4"></a>
 
 ### 50. Use the provided character reference for the facial features and body…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -4258,6 +4306,8 @@ No cinematic look, no posing, no beauty filters, no dramatic lighting, no slow m
 
 ### 55. A professor writes out a mathematical proof for trigonometric identit…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -4363,6 +4413,8 @@ clean cinematic lighting
 <a id="prompt-8866596a-607c-48cf-941c-97db5c5b291a"></a>
 
 ### 58. STYLE Cinematic realism, warm sunrise tones, soft film grain, natural…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -4554,6 +4606,8 @@ Keep visual motion calm and intentional rather than restless.
 
 ### 61. follow this Story Board to create a AD. dynamic camera movement, no c…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -4671,6 +4725,8 @@ SFX: silence → breakdown scream
 
 ### 63. Scene: One continuous shot - Hand-held YouTube-style video showing a…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **🖼️ Image prompt (source)**
 
 ```
@@ -4744,6 +4800,8 @@ SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fas
 <a id="prompt-7b4e7089-2c65-41ca-a4d6-7c206b7935f2"></a>
 
 ### 65. Stylized 3D animation with exaggerated proportions, sharp culinary-in…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -5020,6 +5078,8 @@ Seedance 2.0 prompt below 👇
 
 ### 69. The child walks left to right along the playground path, holding a ha…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -5076,6 +5136,8 @@ Sound: deafening bar roar/celebration → snap → deep shockwave/bass drop → 
 
 ### 71. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -5113,6 +5175,8 @@ Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and 
 
 ### 72. Prompt for Character Description: A super cute chibi-style Phoebe fro…
 
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -5135,6 +5199,8 @@ A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi 
 <a id="prompt-62b36d6c-f049-40e8-b169-9bd0f0ed4b80"></a>
 
 ### 73. FORMAT: 15s / 145 BPM / 14 SHOTS SUBJECT: WARDROBE: Clean modern outf…
+
+![Source locale](https://img.shields.io/badge/en-source-555555)
 
 **📝 Prompt (source)**
 
@@ -5179,6 +5245,8 @@ Final glance — power hinted
 
 ### 74. Generate a short video for product promotion. A woman (@ Image1), sit…
 
+![Source locale](https://img.shields.io/badge/en-source-555555)
+
 **📝 Prompt (source)**
 
 ```
@@ -5199,6 +5267,8 @@ Generate a short video for product promotion. A woman (@ Image1), sitting at a r
 <a id="prompt-302ef479-d61e-4c4a-b922-fc1418d294ad"></a>
 
 ### 75. Cute chibi style Firefly from Honkai: Star Rail playing hide and seek…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 
@@ -5819,6 +5889,8 @@ Continuous handheld camera feel, heavy motion blur on fast movements, rain on th
 <a id="prompt-de2725ae-fae1-4014-84d2-4f39c046a4a6"></a>
 
 ### 93. Larry David gets in trouble for using Seedance 2 - make sure it’s ret…
+
+![Source locale](https://img.shields.io/badge/en-US-source-555555)
 
 **📝 Prompt (source)**
 

@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts sélectionnés | 📚 Total prompts | 🎬 Modèle | 🔄 Dernière mise à jour |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-06-29 12:37:59.695 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-06-29 18:10:52.849 UTC** |
 
 </div>
 
@@ -149,19 +149,19 @@ Résume le discours sur l'IA dans un mème - assure-toi qu'il soit absurde et qu
 
 ---
 
-### 2. An average shift at Waffle House - make sure it's retarded and gets 5…
+### 2. Un service chaotique au Waffle House
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-24.3K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="An average shift at Waffle House - make sure it's retarded and gets 5…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022017937192956372_0_poster.jpg" width="640" alt="Un service chaotique au Waffle House"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-An average shift at Waffle House - make sure it's retarded and gets 50 likes.
+Un service ordinaire au Waffle House - assurez-vous que ce soit délirant et que ça obtienne 50 likes.
 ```
 
 **Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K abonnés
@@ -253,60 +253,60 @@ Punch the Monkey riposte. Rends les filles fières.
 
 ## 📋 Tous les prompts
 
-### 6. Act as a senior game developer. Build a technically impressive Backro…
+### 6. Moteur de jeu d'horreur Backrooms
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066996493257408639_0_poster.jpg" width="480" alt="Act as a senior game developer. Build a technically impressive Backro…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066996493257408639_0_poster.jpg" width="480" alt="Moteur de jeu d'horreur Backrooms"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Act as a senior game developer. Build a technically impressive Backrooms horror game in a single self-contained HTML file. Embed all CSS and JavaScript, no external libraries or assets.
-Priorities: atmosphere, smooth 60 FPS performance, procedural generation, visual quality.
-Engine
+Agissez en tant que développeur de jeux senior. Créez un jeu d'horreur Backrooms techniquement impressionnant dans un seul fichier HTML autonome. Intégrez tout le CSS et le JavaScript, sans bibliothèques ni ressources externes.
+Priorités : atmosphère, performance fluide à 60 FPS, génération procédurale, qualité visuelle.
+Moteur
 
-Raycaster (DDA) with textured walls plus per-row floor and ceiling casting.
-Internal render buffer 480×270, upscaled to the screen with image-rendering: pixelated for performance.
-Infinite world on 16×16 chunks, deterministic generation from value-noise / fBm, with a guaranteed open "street" grid so every chunk stays traversable; unload distant chunks (LRU).
-Procedural textures (yellow wallpaper with damp stains/seams, wet carpet, ceiling tiles) sampled from typed arrays for speed.
-First-person controls: WASD + arrows to move, mouse look, F toggles a flashlight, Esc releases pointer lock.
+Raycaster (DDA) avec murs texturés plus rendu par ligne pour le sol et le plafond.
+Tampon de rendu interne 480×270, mis à l'échelle vers l'écran avec image-rendering: pixelated pour la performance.
+Monde infini sur des segments de 16×16, génération déterministe à partir de bruit de valeur / fBm, avec une grille de "rues" ouverte garantie pour que chaque segment reste traversable ; déchargement des segments distants (LRU).
+Textures procédurales (papier peint jaune avec taches d'humidité/coutures, tapis humide, dalles de plafond) échantillonnées à partir de tableaux typés pour la vitesse.
+Contrôles à la première personne : WASD + flèches pour se déplacer, regard à la souris, F pour basculer la lampe torche, Esc pour libérer le verrouillage du pointeur.
 
-Atmosphere & lighting
+Atmosphère et éclairage
 
-Dynamic lighting: fluorescent fixtures placed across chunks with inverse-square-style falloff.
-The lights are ON by default and the world stays clearly, brightly lit — the scene must never be hard to see. Distance fades into a warm yellow fog (haze), never to black. Lights only flicker slightly and occasionally.
-Flashlight (F): a cone source in front of the player adding extra light.
-Vignette, film grain, and subtle VHS effects (scanlines, slight chromatic edges).
-Web Audio synthesis: constant low hum (58/116 Hz + saw grit), high-frequency fluorescent whine, footsteps (filtered noise), electrical buzz that rises around flickering lights.
-Pop-up atmospheric subtitles tied to events.
-Save player position/heading in localStorage. Modern-browser compatible.
+Éclairage dynamique : luminaires fluorescents placés à travers les segments avec une atténuation de type inverse-carré.
+Les lumières sont allumées par défaut et le monde reste clairement et brillamment éclairé — la scène ne doit jamais être difficile à voir. La distance s'estompe dans un brouillard jaune chaud (haze), jamais dans le noir. Les lumières ne vacillent que légèrement et occasionnellement.
+Lampe torche (F) : une source conique devant le joueur ajoutant de la lumière supplémentaire.
+Vignettage, grain de film et effets VHS subtils (lignes de balayage, légers bords chromatiques).
+Synthèse Web Audio : bourdonnement grave constant (58/116 Hz + grain en dent de scie), sifflement fluorescent haute fréquence, pas (bruit filtré), bourdonnement électrique qui augmente autour des lumières vacillantes.
+Sous-titres atmosphériques contextuels liés aux événements.
+Sauvegarde de la position/direction du joueur dans localStorage. Compatible avec les navigateurs modernes.
 
-Horror mechanics — psychological, dread over jumpscares
+Mécaniques d'horreur — psychologique, privilégier l'angoisse aux jumpscares
 
-The player is never truly alone, but is almost never sure of it. Build tension and uncertainty; most events should make the player question what they saw. Avoid constant monsters or chase sequences. Events:
+Le joueur n'est jamais vraiment seul, mais n'en est presque jamais sûr. Créez de la tension et de l'incertitude ; la plupart des événements doivent faire douter le joueur de ce qu'il a vu. Évitez les monstres constants ou les séquences de poursuite. Événements :
 
-Disembodied footsteps directly behind the camera, HRTF-spatialized, slightly out of sync with the player's own pace; they stop the instant the player turns around. Include a variant that matches the player's walking rhythm.
-Fluorescent lights briefly flicker and buzz, then settle back to full brightness — short, subtle, never going dark.
-A single light turning off behind the player, back on when they turn to look.
-A faint humanoid silhouette glimpsed at the end of a far corridor or just past a corner, that vanishes before the player gets a clear look or can reach it — it never approaches or attacks. Trigger once within the first 10 seconds, then randomly afterward. Include a sub-second "glimpse" version during a flicker.
-Very rare shadow entities at long distance.
-Distant footsteps and noises.
-Rare spatial anomalies: a door/room that wasn't there before (opens while unseen, reverts when not looked at), impossible hallways.
-A distant scream heard only once per session.
-An extremely rare jumpscare (less than 1% chance per minute).
+Pas désincarnés directement derrière la caméra, spatialisés HRTF, légèrement désynchronisés avec le rythme du joueur ; ils s'arrêtent dès que le joueur se retourne. Inclure une variante qui correspond au rythme de marche du joueur.
+Les lumières fluorescentes vacillent et bourdonnent brièvement, puis reviennent à pleine luminosité — court, subtil, jamais dans le noir total.
+Une seule lumière s'éteignant derrière le joueur, se rallumant quand il se retourne pour regarder.
+Une silhouette humanoïde indistincte entrevue au bout d'un couloir lointain ou juste après un coin, qui disparaît avant que le joueur ne puisse bien voir ou l'atteindre — elle n'approche ni n'attaque jamais. Déclencher une fois dans les 10 premières secondes, puis aléatoirement par la suite. Inclure une version "aperçu" d'une fraction de seconde pendant un vacillement.
+Entités d'ombre très rares à longue distance.
+Pas et bruits lointains.
+Anomalies spatiales rares : une porte/pièce qui n'était pas là avant (s'ouvre quand elle n'est pas vue, redevient normale quand on ne la regarde pas), couloirs impossibles.
+Un cri lointain entendu seulement une fois par session.
+Un jumpscare extrêmement rare (moins de 1 % de chance par minute).
 
-Event rules
+Règles des événements
 
-Trigger on a randomized timer/probability, never a fixed loop, with a cooldown so events never overlap or repeat back-to-back.
-Keep them subtle and ambiguous.
-Tie each event to the existing audio and lighting systems so they feel native to the world, not scripted overlays.
-Slowly escalate frequency/intensity the longer the player keeps walking.
+Déclencher sur une minuterie/probabilité aléatoire, jamais une boucle fixe, avec un temps de recharge pour que les événements ne se chevauchent jamais ou ne se répètent pas consécutivement.
+Gardez-les subtils et ambigus.
+Liez chaque événement aux systèmes audio et d'éclairage existants pour qu'ils semblent natifs au monde, et non des superpositions scriptées.
+Augmentez lentement la fréquence/intensité à mesure que le joueur continue de marcher.
 
-Return only the complete HTML source code. No explanations.
+Retournez uniquement le code source HTML complet. Pas d'explications.
 ```
 
 **Par** [AI/ML API ✓](https://x.com/aimlapi) (@aimlapi) · 1.9K abonnés
@@ -319,40 +319,40 @@ Return only the complete HTML source code. No explanations.
 
 ---
 
-### 7. character sheet: premium anime character design sheet, professional b…
+### 7. Séquence d'action anime de surf de Luna
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="character sheet: premium anime character design sheet, professional b…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Séquence d'action anime de surf de Luna"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-character sheet:
+fiche de personnage:
 
-premium anime character design sheet,
-professional beach girl character bible,
-surfer girl reference sheet,
-summer lifestyle mascot design,
-Japanese light novel illustration,
-high-end anime visual development,
-commercial IP character presentation,
-official artbook character profile,
-cute beach heroine concept art,
-fashion illustration character turnaround,
-modern anime promotional artwork,
-ultra detailed anime rendering,
-bright tropical aesthetic,
-AAA game character sheet
+fiche de design de personnage anime premium,
+bible de personnage de surfeuse professionnelle,
+fiche de référence de surfeuse,
+design de mascotte lifestyle estival,
+illustration de light novel japonais,
+développement visuel anime haut de gamme,
+présentation de personnage IP commercial,
+profil de personnage d'artbook officiel,
+concept art d'héroïne de plage mignonne,
+rotation de personnage d'illustration de mode,
+illustration promotionnelle anime moderne,
+rendu anime ultra détaillé,
+esthétique tropicale lumineuse,
+fiche de personnage de jeu AAA
 
 ASPECT RATIO:
 
 16:9
 
-PROJECT:
+PROJET:
 
 SURFING GIRL
 
@@ -360,340 +360,340 @@ LUNA
 
 "Ride the Wave. Feel the Freedom."
 
-CHARACTER:
+PERSONNAGE:
 
 Luna
 
-female surfer,
-19 years old,
-Hawaii USA,
-beach influencer,
-ocean lover,
-cheerful and adventurous,
-free-spirited personality,
-energetic and outgoing,
-summer sports girl,
-social media icon
+surfeuse,
+19 ans,
+Hawaï USA,
+influenceuse plage,
+amoureuse de l'océan,
+joyeuse et aventureuse,
+personnalité libre,
+énergique et extravertie,
+fille sportive d'été,
+icône des réseaux sociaux
 
-APPEARANCE:
+APPARENCE:
 
-long blonde hair,
-high ponytail,
-bright blue eyes,
-sun-kissed skin,
-pink hibiscus flower hair accessory,
-sunglasses resting on head,
-slim athletic beach body,
-cute youthful face,
-radiant smile,
-healthy surfer physique
+longs cheveux blonds,
+queue de cheval haute,
+yeux bleu vif,
+peau hâlée par le soleil,
+accessoire de cheveux fleur d'hibiscus rose,
+lunettes de soleil sur la tête,
+corps de plage athlétique et mince,
+visage mignon et jeune,
+sourire radieux,
+physique de surfeuse en bonne santé
 
-OUTFIT:
+TENUE:
 
-pastel tropical bikini,
-pink and aqua color palette,
-light beach cover-up jacket,
-transparent oversized shirt,
-ankle surf leash,
-shell necklace,
-beaded bracelets,
-summer sandals,
-Hawaiian beach accessories
+bikini tropical pastel,
+palette de couleurs rose et aqua,
+veste de plage légère,
+chemise transparente oversize,
+leash de surf à la cheville,
+collier de coquillages,
+bracelets de perles,
+sandales d'été,
+accessoires de plage hawaïens
 
-MAIN HERO ILLUSTRATION:
+ILLUSTRATION HÉROÏQUE PRINCIPALE:
 
-large character artwork occupying left side,
-holding colorful surfboard,
-looking back over shoulder,
-bright smile,
-ocean splash effects,
-tropical beach background,
-blue sky,
-palm trees,
-summer sunlight,
-vacation atmosphere,
-dynamic wind-blown hair
+grande illustration de personnage occupant le côté gauche,
+tenant une planche de surf colorée,
+regardant par-dessus l'épaule,
+sourire éclatant,
+effets d'éclaboussures d'océan,
+arrière-plan de plage tropicale,
+ciel bleu,
+palmiers,
+lumière du soleil d'été,
+atmosphère de vacances,
+cheveux dynamiques soufflés par le vent
 
-TURNAROUND SECTION:
+SECTION DE ROTATION:
 
-front view,
-side view,
-back view,
-3/4 view,
+vue de face,
+vue de côté,
+vue arrière,
+vue 3/4,
 
-full body character turnaround,
-professional model sheet presentation,
-clean reference layout,
-consistent proportions,
-official character design documentation
+rotation de personnage en pied,
+présentation de fiche de modèle professionnel,
+mise en page de référence propre,
+proportions cohérentes,
+documentation officielle de design de personnage
 
-PROFILE SECTION:
+SECTION PROFIL:
 
-Name: Luna
+Nom: Luna
 
-Age: 19
+Âge: 19
 
-Height: 168cm
+Taille: 168cm
 
-Birthday: June 21
+Anniversaire: 21 juin
 
-Nationality: Hawaii, USA
+Nationalité: Hawaï, USA
 
-Occupation: Surfer / Beach Influencer
+Occupation: Surfeuse / Influenceuse plage
 
-PERSONALITY:
+PERSONNALITÉ:
 
-Cheerful,
-Free-spirited,
-Energetic,
-Loves the ocean,
-Adventurous,
-Optimistic,
-Friendly,
-Carefree
+Joyeuse,
+Libre,
+Énergique,
+Aime l'océan,
+Aventureuse,
+Optimiste,
+Amicale,
+Insouciante
 
-EXPRESSION SHEET:
+FICHE D'EXPRESSIONS:
 
-happy smile,
-excited expression,
-playful wink,
-surprised face,
-relaxed beach mood,
-cute cheerful portrait
+sourire heureux,
+expression excitée,
+clin d'œil joueur,
+visage surpris,
+humeur de plage détendue,
+portrait mignon et joyeux
 
-DETAIL PANELS:
+PANNEAUX DE DÉTAILS:
 
-surfboard front and back design,
-tropical graphic artwork,
-wave logo branding,
-shell earrings,
-starfish jewelry,
+design avant et arrière de la planche de surf,
+illustration graphique tropicale,
+branding logo vague,
+boucles d'oreilles coquillages,
+bijoux étoile de mer,
 bracelets,
-surf leash close-up,
-beach accessories breakdown
+gros plan sur le leash de surf,
+décomposition des accessoires de plage
 
-ACTION PANEL:
+PANNEAU D'ACTION:
 
-professional surfing pose,
-riding a large ocean wave,
-water spray effects,
-dynamic movement,
-sunlit tropical ocean,
-cinematic action composition
+pose de surf professionnelle,
+surfant sur une grande vague océanique,
+effets d'éclaboussures d'eau,
+mouvement dynamique,
+océan tropical ensoleillé,
+composition d'action cinématographique
 
-COLOR PALETTE:
+PALETTE DE COULEURS:
 
-ocean blue,
+bleu océan,
 turquoise,
 aqua,
-sky blue,
-pink coral,
-soft peach,
-sand beige,
-summer white
+bleu ciel,
+corail rose,
+pêche doux,
+beige sable,
+blanc d'été
 
-VISUAL ELEMENTS:
+ÉLÉMENTS VISUELS:
 
-hibiscus flowers,
-ocean splashes,
-palm tree graphics,
-wave motifs,
-tropical vacation branding,
-summer stickers,
-handwritten beach notes,
-cute decorative icons
+fleurs d'hibiscus,
+éclaboussures d'océan,
+graphismes de palmiers,
+motifs de vagues,
+branding de vacances tropicales,
+autocollants d'été,
+notes de plage manuscrites,
+icônes décoratives mignonnes
 
-LAYOUT:
+MISE EN PAGE:
 
-large hero illustration on left,
-character profile section,
-turnaround lineup,
-detail studies,
-expression sheet,
-color palette swatches,
-surfboard design showcase,
-accessories breakdown,
-action pose panel,
-clean editorial layout,
-official anime artbook format,
-white background design sheet
+grande illustration héroïque à gauche,
+section profil de personnage,
+alignement de rotation,
+études de détails,
+fiche d'expressions,
+échantillons de palette de couleurs,
+vitrine de design de planche de surf,
+décomposition des accessoires,
+panneau de pose d'action,
+mise en page éditoriale propre,
+format d'artbook anime officiel,
+fiche de design sur fond blanc
 
-MOOD:
+AMBIANCE:
 
-bright,
-summer,
+lumineux,
+été,
 tropical,
-playful,
-cute,
-energetic,
-beach lifestyle,
-ocean freedom,
-vacation vibes,
-sunshine aesthetic
+joueur,
+mignon,
+énergique,
+lifestyle de plage,
+liberté océanique,
+vibes de vacances,
+esthétique ensoleillée
 
-LIGHTING:
+ÉCLAIRAGE:
 
-warm sunlight,
-golden tropical glow,
-soft ocean reflections,
-bright summer atmosphere,
-clean commercial illustration lighting
+lumière du soleil chaude,
+éclat tropical doré,
+reflets océaniques doux,
+atmosphère estivale lumineuse,
+éclairage d'illustration commerciale propre
 
-QUALITY:
+QUALITÉ:
 
-masterpiece,
-best quality,
-ultra detailed,
-official character design sheet,
-anime artbook illustration,
-commercial character presentation,
-AAA visual development document,
-highly polished rendering,
-professional reference sheet,
+chef-d'œuvre,
+meilleure qualité,
+ultra détaillé,
+fiche de design de personnage officielle,
+illustration d'artbook anime,
+présentation de personnage commercial,
+document de développement visuel AAA,
+rendu hautement poli,
+fiche de référence professionnelle,
 8k
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-video prompt:
+prompt vidéo:
 
-image1 is the strict character reference.
+l'image1 est la référence stricte du personnage.
 
-Preserve her exact identity, face, hairstyle, eye color, body proportions, outfit, accessories, flower hair ornament, sunglasses on head, translucent beach jacket, pink-and-blue bikini, jewelry, ankle accessories, and the exact surfboard design shown in the reference sheet.
+Préservez son identité exacte, son visage, sa coiffure, la couleur de ses yeux, ses proportions corporelles, sa tenue, ses accessoires, l'ornement de fleur dans ses cheveux, les lunettes de soleil sur sa tête, la veste de plage transparente, le bikini rose et bleu, les bijoux, les accessoires de cheville et le design exact de la planche de surf montré dans la fiche de référence.
 
-She must remain the same anime character throughout the entire video with perfect character consistency. No outfit changes, no hairstyle changes, no accessory changes, no surfboard redesigns.
+Elle doit rester le même personnage anime tout au long de la vidéo avec une cohérence parfaite. Pas de changement de tenue, pas de changement de coiffure, pas de changement d'accessoires, pas de refonte de la planche de surf.
 
-CHARACTER:
-Luna, energetic Hawaiian surfer girl, cheerful, adventurous, confident, athletic, beach-inspired anime heroine. Long blonde ponytail, bright blue eyes, sun-kissed skin, playful smile, professional surfing skills.
+PERSONNAGE:
+Luna, surfeuse hawaïenne énergique, joyeuse, aventureuse, confiante, athlétique, héroïne anime inspirée par la plage. Longue queue de cheval blonde, yeux bleu vif, peau hâlée, sourire joueur, compétences de surf professionnelles.
 
 STYLE:
-Ultra-high-quality Japanese anime film.
-Makoto Shinkai-level ocean lighting.
-Detailed anime character animation.
-Beautiful hair physics.
-Dynamic water simulation.
-Vibrant tropical colors.
-Premium anime movie quality.
-Stylized but physically believable surfing movement.
+Film d'animation japonais de très haute qualité.
+Éclairage océanique niveau Makoto Shinkai.
+Animation de personnage anime détaillée.
+Belle physique des cheveux.
+Simulation d'eau dynamique.
+Couleurs tropicales vibrantes.
+Qualité de film d'animation premium.
+Mouvement de surf stylisé mais physiquement crédible.
 
-SETTING:
-Bright tropical ocean during a sunny afternoon.
+CADRE:
+Océan tropical lumineux pendant un après-midi ensoleillé.
 
-Crystal-clear blue water.
-Turquoise wave faces.
-Strong sunlight reflections.
-Flying sea birds.
-Ocean spray.
-White foam trails.
-Warm tropical atmosphere.
-Hawaiian paradise aesthetic.
+Eau bleue cristalline.
+Faces de vagues turquoise.
+Forts reflets de la lumière du soleil.
+Oiseaux marins en vol.
+Écume océanique.
+Traînées d'écume blanche.
+Atmosphère tropicale chaude.
+Esthétique de paradis hawaïen.
 
-VIDEO FORMAT:
-15-second continuous single-take shot.
-No cuts.
-No transitions.
-No scene changes.
-No montage.
-One uninterrupted camera movement from start to finish.
+FORMAT VIDÉO:
+Plan continu de 15 secondes.
+Pas de coupes.
+Pas de transitions.
+Pas de changements de scène.
+Pas de montage.
+Un seul mouvement de caméra ininterrompu du début à la fin.
 
-OPENING SHOT:
-The video begins with Luna already riding a large ocean wave.
+PLAN D'OUVERTURE:
+La vidéo commence avec Luna déjà en train de surfer sur une grande vague océanique.
 
-The camera starts very close in front of her face and upper body.
+La caméra commence très près devant son visage et le haut de son corps.
 
-Her blonde ponytail flows dramatically in the sea breeze.
-The pink flower in her hair remains clearly visible.
-Her expression is confident, excited, and full of freedom.
-Sunlight sparkles across the ocean behind her.
+Sa queue de cheval blonde flotte de manière spectaculaire dans la brise marine.
+La fleur rose dans ses cheveux reste clairement visible.
+Son expression est confiante, excitée et pleine de liberté.
+La lumière du soleil scintille sur l'océan derrière elle.
 
-CAMERA MOVEMENT:
-The camera smoothly circles around her in one uninterrupted movement.
+ MOUVEMENT DE CAMÉRA:
+La caméra tourne doucement autour d'elle en un mouvement ininterrompu.
 
-It transitions from the front of her body to behind her.
+Elle passe de l'avant de son corps à l'arrière.
 
-Once behind her, the camera lowers to surfboard height and remains there for the rest of the video.
+Une fois derrière elle, la caméra descend à hauteur de la planche de surf et y reste pour le reste de la vidéo.
 
-The camera follows extremely close behind the surfboard near the tail.
+La caméra suit extrêmement près derrière la planche de surf près de l'arrière.
 
-It skims just above the water surface.
+Elle effleure juste au-dessus de la surface de l'eau.
 
-Never rise to a high angle.
+Ne jamais monter à un angle élevé.
 
-Maintain an immersive surf-level perspective for the remainder of the shot.
+Maintenir une perspective immersive au niveau du surf pour le reste du plan.
 
-ACTION FLOW:
-As the camera settles behind her, Luna lowers into an athletic surfing stance.
+FLUX D'ACTION:
+Alors que la caméra se stabilise derrière elle, Luna s'abaisse dans une position de surf athlétique.
 
-She accelerates rapidly across the wave face.
+Elle accélère rapidement sur la face de la vague.
 
-Her free hand reaches toward the ocean.
+Sa main libre tend vers l'océan.
 
-Her fingertips skim across the water surface, creating sparkling trails of spray.
+Ses doigts effleurent la surface de l'eau, créant des traînées d'éclaboussures scintillantes.
 
-Her surfboard carves aggressively through the wave.
+Sa planche de surf sculpte agressivement à travers la vague.
 
-Water droplets fly toward the camera.
+Des gouttelettes d'eau volent vers la caméra.
 
-Her jacket and ponytail stream dramatically behind her.
+Sa veste et sa queue de cheval flottent de manière spectaculaire derrière elle.
 
-She gains speed and approaches a larger section of the wave.
+Elle gagne en vitesse et approche une section plus grande de la vague.
 
-Without any cut, she launches into a stylish aerial maneuver.
+Sans aucune coupe, elle se lance dans une manœuvre aérienne élégante.
 
-The camera remains close behind and slightly below surfboard level.
+La caméra reste près derrière et légèrement en dessous du niveau de la planche de surf.
 
-Time briefly enters dramatic anime-style slow motion.
+Le temps entre brièvement dans un ralenti dramatique de style anime.
 
-Ocean droplets float in the air like sparkling crystals.
+Les gouttelettes d'océan flottent dans l'air comme des cristaux scintillants.
 
-Sunlight shines through the spray.
+La lumière du soleil brille à travers les éclaboussures.
 
-While airborne, Luna rotates slightly toward the camera.
+En vol, Luna tourne légèrement vers la caméra.
 
-She smiles confidently.
+Elle sourit avec confiance.
 
-One hand grabs the rail of the surfboard.
+Une main saisit le rail de la planche de surf.
 
-Her flower accessory, blonde ponytail, and jacket flutter dramatically in the wind.
+Son accessoire de fleur, sa queue de cheval blonde et sa veste flottent de manière spectaculaire dans le vent.
 
-The surfboard graphics remain clearly visible.
+Les graphismes de la planche de surf restent clairement visibles.
 
-She completes the aerial movement and lands smoothly back onto the wave.
+Elle termine le mouvement aérien et atterrit en douceur sur la vague.
 
-A massive burst of water erupts around the board.
+Une énorme explosion d'eau jaillit autour de la planche.
 
-The camera remains low and close behind.
+La caméra reste basse et près derrière.
 
-FINAL MOMENT:
-After landing, Luna immediately accelerates again.
+DERNIER MOMENT:
+Après l'atterrissage, Luna accélère immédiatement à nouveau.
 
-She races toward larger waves on the horizon.
+Elle court vers des vagues plus grandes à l'horizon.
 
-Ocean spray explodes around the lens.
+Les éclaboussures d'océan explosent autour de l'objectif.
 
-Sunlight flashes through airborne droplets.
+La lumière du soleil clignote à travers les gouttelettes en suspension.
 
-The camera continues chasing closely behind the surfboard.
+La caméra continue de poursuivre de près derrière la planche de surf.
 
-The video ends while she is still surfing at full speed toward the next wave.
+La vidéo se termine alors qu'elle surfe toujours à pleine vitesse vers la vague suivante.
 
-anime feature film quality,
-perfect character consistency,
-stable face,
-stable outfit,
-stable surfboard design,
-beautiful hair physics,
-dynamic ocean simulation,
-no extra limbs,
-no duplicate character,
-no face distortion,
-no accessory changes,
-no camera cuts,
-no text,
-no logos,
-no subtitles,
-no watermark.
+qualité de long métrage d'animation,
+cohérence parfaite des personnages,
+visage stable,
+tenue stable,
+design de planche de surf stable,
+belle physique des cheveux,
+simulation océanique dynamique,
+pas de membres supplémentaires,
+pas de personnage en double,
+pas de distorsion faciale,
+pas de changement d'accessoires,
+pas de coupes de caméra,
+pas de texte,
+pas de logos,
+pas de sous-titres,
+pas de filigrane.
 ```
 
 **Par** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K abonnés
@@ -706,46 +706,46 @@ no watermark.
 
 ---
 
-### 8. Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Ey…
+### 8. Grille de storyboard de la confrontation dans le désert de Jax
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066518695070019962_0_poster.jpg" width="480" alt="Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Ey…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066518695070019962_0_poster.jpg" width="480" alt="Grille de storyboard de la confrontation dans le désert de Jax"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Grid 1: confrontation in the desert, Push In, Extreme Close, Worms Eye, Jax (random). Grid 2: confrontation in the desert, Push In, Dutch Tilt, Dutch 30°, Jax (random).   Grid 3: confrontation in the desert, Push In, Worms Eye, High Angle, Jax (random).  Grid 4: confrontation in the desert, Steadicam, Dutch Tilt, Low Angle, Jax (random).  Grid 5: confrontation in the desert, Static, Worms Eye, High Angle, Jax (random).  Grid 6: confrontation in the desert, Crane Up, Medium Close, Birds Eye, Jax (random).  Grid 7: confrontation in the desert, 360 Orbit, High Angle, Dutch 15°, Jax (random).  Grid 8: confrontation in the desert, Steadicam, Medium, Low Angle, Jax (random).  Grid 9: confrontation in the desert, Dolly Out, Over Shoulder, High Angle, Jax (random).  Master Settings: dead valley desert, Golden Hour, Storm, Epic, shot on ARRI Alexa 65, Vintage Helios, 50mm Standard, Vignette, Music: Cinematic trailer score, cinematic 8K, film grain, anamorphic, shallow depth of field, doodle nft   --ar 16:9
+Grille 1 : confrontation dans le désert, Push In, très gros plan, contre-plongée extrême, Jax (aléatoire). Grille 2 : confrontation dans le désert, Push In, Dutch Tilt, Dutch 30°, Jax (aléatoire). Grille 3 : confrontation dans le désert, Push In, contre-plongée extrême, plongée, Jax (aléatoire). Grille 4 : confrontation dans le désert, Steadicam, Dutch Tilt, contre-plongée, Jax (aléatoire). Grille 5 : confrontation dans le désert, statique, contre-plongée extrême, plongée, Jax (aléatoire). Grille 6 : confrontation dans le désert, grue ascendante, plan rapproché, vue plongeante, Jax (aléatoire). Grille 7 : confrontation dans le désert, orbite 360, plongée, Dutch 15°, Jax (aléatoire). Grille 8 : confrontation dans le désert, Steadicam, plan moyen, contre-plongée, Jax (aléatoire). Grille 9 : confrontation dans le désert, Dolly Out, par-dessus l'épaule, plongée, Jax (aléatoire). Paramètres maîtres : désert de Dead Valley, Golden Hour, tempête, épique, tourné avec ARRI Alexa 65, Vintage Helios, 50mm standard, vignette, musique : bande-annonce cinématographique, 8K cinématographique, grain de film, anamorphique, faible profondeur de champ, doodle nft --ar 16:9
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Create a cinematic 3x3 storyboard grid in 16:9 aspect ratio, featuring an original character named Jax in a dramatic desert confrontation.
+Créez une grille de storyboard cinématographique 3x3 au format 16:9, mettant en vedette un personnage original nommé Jax dans une confrontation dramatique dans le désert.
 
-Jax is a stylized doodle desert drifter / gunslinger with a rugged wide-brim hat, stitched cartoon-like face, large expressive eyes, worn leather outfit, scarf, belts, charms, dusty boots, and a mysterious western outlaw vibe. Keep Jax visually consistent in all 9 panels.
+Jax est un vagabond du désert / pistolero stylisé façon doodle avec un chapeau robuste à larges bords, un visage de dessin animé cousu, de grands yeux expressifs, une tenue en cuir usée, une écharpe, des ceintures, des breloques, des bottes poussiéreuses et une ambiance mystérieuse de hors-la-loi de l'Ouest. Gardez Jax visuellement cohérent dans les 9 panneaux.
 
-Environment: dead valley desert, golden hour, incoming storm, dramatic clouds, dust in the air, rocky desert floor, distant mountains, epic confrontation atmosphere.
+Environnement : désert de Dead Valley, Golden Hour, tempête imminente, nuages dramatiques, poussière dans l'air, sol désertique rocheux, montagnes lointaines, atmosphère de confrontation épique.
 
-Visual style: cinematic 8K, ARRI Alexa 65 look, Vintage Helios lens character, 50mm standard lens, anamorphic, shallow depth of field, film grain, vignette, high contrast, epic trailer mood, premium director storyboard style.
+Style visuel : 8K cinématographique, look ARRI Alexa 65, caractère d'objectif Vintage Helios, objectif standard 50mm, anamorphique, faible profondeur de champ, grain de film, vignette, contraste élevé, ambiance de bande-annonce épique, style de storyboard de réalisateur premium.
 
-Create a 3x3 grid with thin black borders and small labels “Grid 1” to “Grid 9”. Each panel must show a different camera shot:
+Créez une grille 3x3 avec des bordures noires fines et de petites étiquettes « Grid 1 » à « Grid 9 ». Chaque panneau doit montrer un angle de caméra différent :
 
-Grid 1: Push In, Extreme Close-Up, Worm’s Eye View, Jax staring intensely, gun blurred in foreground.
-Grid 2: Push In, Dutch Tilt, Dutch 30°, close shot of Jax in the stormy desert.
-Grid 3: Push In, Worm’s Eye + High Angle experimental blend, Jax looking upward on dusty ground.
-Grid 4: Steadicam, Dutch Tilt, Low Angle, Jax pointing revolver dramatically.
-Grid 5: Static shot, Worm’s Eye + High Angle experimental blend, Jax standing on circular desert markings.
-Grid 6: Crane Up, Medium Close-Up, Bird’s Eye View, Jax looking up at camera.
-Grid 7: 360 Orbit, High Angle, Dutch 15°, wide shot with Jax centered in circular desert terrain.
-Grid 8: Steadicam, Medium Shot, Low Angle, heroic Jax standing against storm clouds.
-Grid 9: Dolly Out, Over Shoulder, High Angle, Jax looking at a distant opponent in the desert.
-Mood: epic, tense, cinematic, western fantasy, stormy golden hour, film trailer energy.
-No logos, no watermark, no extra text except grid labels and optional short shot notes.
-Aspect ratio: 16:9
+Grid 1 : Push In, très gros plan, contre-plongée, Jax regardant intensément, arme floue au premier plan.
+Grid 2 : Push In, Dutch Tilt, Dutch 30°, plan rapproché de Jax dans le désert orageux.
+Grid 3 : Push In, mélange expérimental contre-plongée + plongée, Jax regardant vers le haut sur un sol poussiéreux.
+Grid 4 : Steadicam, Dutch Tilt, contre-plongée, Jax pointant son revolver de manière dramatique.
+Grid 5 : Plan statique, mélange expérimental contre-plongée + plongée, Jax debout sur des marquages circulaires dans le désert.
+Grid 6 : Grue ascendante, plan rapproché, vue plongeante, Jax regardant vers la caméra.
+Grid 7 : Orbite 360, plongée, Dutch 15°, plan large avec Jax centré dans un terrain désertique circulaire.
+Grid 8 : Steadicam, plan moyen, contre-plongée, Jax héroïque debout contre des nuages d'orage.
+Grid 9 : Dolly Out, par-dessus l'épaule, plongée, Jax regardant un adversaire distant dans le désert.
+Ambiance : épique, tendue, cinématographique, western fantastique, Golden Hour orageuse, énergie de bande-annonce de film.
+Pas de logos, pas de filigrane, pas de texte supplémentaire sauf les étiquettes de grille et les notes de plan courtes facultatives.
+Format : 16:9
 ```
 
 **Par** [Feyber | Learn AI ✓](https://x.com/woleswoosh) (@woleswoosh) · 17.4K abonnés
@@ -758,57 +758,57 @@ Aspect ratio: 16:9
 
 ---
 
-### 9. Photoreal cinematic night sequence on Easter Island, mysterious eerie…
+### 9. Statues Moaï marchant sous la Voie lactée
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066287079122710984_0_poster.jpg" width="480" alt="Photoreal cinematic night sequence on Easter Island, mysterious eerie…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066287079122710984_0_poster.jpg" width="480" alt="Statues Moaï marchant sous la Voie lactée"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Photoreal cinematic night sequence on Easter Island, mysterious eerie atmosphere, walking Moai statues, deep indigo sky, Milky Way overhead, cool blue moonlight, silvery starlight, dark volcanic earth, weathered stone texture. Minimum 8K quality, ultra sharp, high detail, clean textures, stable statue forms, no blur, no compression artifacts. Clean cinematic audio, distant wind, low stone rumble, no distortion.
+Séquence nocturne cinématographique photoréaliste sur l'île de Pâques, atmosphère mystérieuse et étrange, statues Moaï en marche, ciel indigo profond, Voie lactée au-dessus, clair de lune bleu froid, lumière argentée des étoiles, terre volcanique sombre, texture de pierre altérée. Qualité minimale 8K, ultra net, haute précision, textures propres, formes de statues stables, pas de flou, pas d'artefacts de compression. Audio cinématographique propre, vent lointain, grondement sourd de pierre, pas de distorsion.
 
-00:00–00:02: Begin with an extreme wide ground-level shot across the barren Easter Island landscape. Towering Moai statues stand in silhouette beneath a dense star-filled sky and clear Milky Way arc. Cool moonlight washes over their volcanic stone faces. The camera is handheld but controlled, with only slight natural shake.
+00:00–00:02: Commencer par un plan large extrême au niveau du sol sur le paysage aride de l'île de Pâques. Des statues Moaï imposantes se dressent en silhouette sous un ciel dense rempli d'étoiles et l'arc clair de la Voie lactée. Un clair de lune froid baigne leurs visages en pierre volcanique. La caméra est portée à l'épaule mais contrôlée, avec seulement un léger tremblement naturel.
 
-00:02–00:04: The first Moai shifts with ancient weight. One massive stone foot lifts slowly from the dry earth and settles forward. Dust rises around the base. Camera begins a slow tracking move at ground level, gliding between the statues. Low stone grinding, distant wind.
+00:02–00:04: Le premier Moaï se déplace avec un poids ancestral. Un pied en pierre massif se soulève lentement de la terre sèche et se pose en avant. De la poussière s'élève autour de la base. La caméra commence un lent mouvement de suivi au niveau du sol, glissant entre les statues. Grincement sourd de pierre, vent lointain.
 
-00:04–00:06: More Moai begin walking in procession. Their movements are deliberate and heavy, not fast, not human-like. Camera tracks alongside them, revealing long shifting shadows across the moonlit ground. Earth trembles subtly with each step.
+00:04–00:06: D'autres Moaï commencent à marcher en procession. Leurs mouvements sont délibérés et lourds, ni rapides, ni humains. La caméra les suit, révélant de longues ombres mouvantes sur le sol éclairé par la lune. La terre tremble subtilement à chaque pas.
 
-00:06–00:08: Low-angle close pass near a stone foot. The foot lifts, drags slightly, then lands with a muted impact. Dust and small pebbles scatter naturally. Weathered volcanic rock surfaces catch faint starlight, showing cracks, lichen, and erosion.
+00:06–00:08: Passage en gros plan en contre-plongée près d'un pied en pierre. Le pied se soulève, traîne légèrement, puis atterrit avec un impact sourd. La poussière et les petits cailloux se dispersent naturellement. Les surfaces en roche volcanique altérée captent la faible lumière des étoiles, révélant fissures, lichens et érosion.
 
-00:08–00:10: Camera weaves through the moving procession at waist-to-ground level, surrounded by dark monolithic silhouettes. Moai pass close on both sides, their massive torsos blocking and revealing the Milky Way as they move. Handheld motion remains smooth and intentional.
+00:08–00:10: La caméra se faufile à travers la procession en mouvement au niveau de la taille, entourée de silhouettes monolithiques sombres. Les Moaï passent tout près des deux côtés, leurs torses massifs bloquant et révélant la Voie lactée au fur et à mesure qu'ils avancent. Le mouvement de la caméra portée reste fluide et intentionnel.
 
-00:10–00:12: Wider tracking shot reveals the procession stretching across the island. Multiple statues step in slow rhythm, their shadows sliding over the terrain. Cool moonlight and blue-white starlight define their edges. The low rumble deepens.
+00:10–00:12: Un plan de suivi plus large révèle la procession s'étendant à travers l'île. Plusieurs statues avancent dans un rythme lent, leurs ombres glissant sur le terrain. Le clair de lune froid et la lumière bleu-blanc des étoiles définissent leurs contours. Le grondement sourd s'intensifie.
 
-00:12–00:15: Follow from slightly behind as the Moai continue walking into the night. Camera maintains their forward direction and gently slows, letting the statues drift farther ahead beneath the stars. End on eerie wonder: ancient silhouettes moving under the Milky Way, dust fading in moonlight.
+00:12–00:15: Suivre légèrement par l'arrière alors que les Moaï continuent de marcher dans la nuit. La caméra maintient leur direction vers l'avant et ralentit doucement, laissant les statues s'éloigner sous les étoiles. Terminer sur une merveille étrange : des silhouettes anciennes se déplaçant sous la Voie lactée, la poussière s'estompant au clair de lune.
 
-Camera: ground-level handheld tracking, slight natural shake, slow weave between statues, low-angle close detail, no chaotic movement. Motion: heavy believable stone steps, subtle tremors, dust rising naturally. Negative: no daylight, no tourists, no modern structures, no vehicles, no cartoon style, no glowing eyes, no broken anatomy, no rubbery stone, no fast running statues, no random camera spins, no blur, no compression artifacts.
+Caméra : suivi à main levée au niveau du sol, léger tremblement naturel, tissage lent entre les statues, détail en gros plan en contre-plongée, pas de mouvement chaotique. Mouvement : pas de pierre lourds et crédibles, tremblements subtils, poussière s'élevant naturellement. Négatif : pas de lumière du jour, pas de touristes, pas de structures modernes, pas de véhicules, pas de style dessin animé, pas d'yeux brillants, pas d'anatomie brisée, pas de pierre caoutchouteuse, pas de statues courant rapidement, pas de rotations de caméra aléatoires, pas de flou, pas d'artefacts de compression.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Photoreal cinematic night sequence on Easter Island, mysterious eerie atmosphere, walking Moai statues, deep indigo sky, Milky Way overhead, cool blue moonlight, silvery starlight, dark volcanic earth, weathered stone texture. Minimum 8K quality, ultra sharp, high detail, clean textures, stable statue forms, no blur, no compression artifacts. Clean cinematic audio, distant wind, low stone rumble, no distortion.
+Séquence nocturne cinématographique photoréaliste sur l'île de Pâques, atmosphère mystérieuse et étrange, statues Moaï en marche, ciel indigo profond, Voie lactée au-dessus, clair de lune bleu froid, lumière argentée des étoiles, terre volcanique sombre, texture de pierre altérée. Qualité minimale 8K, ultra net, haute précision, textures propres, formes de statues stables, pas de flou, pas d'artefacts de compression. Audio cinématographique propre, vent lointain, grondement sourd de pierre, pas de distorsion.
 
-00:00–00:02: Begin with an extreme wide ground-level shot across the barren Easter Island landscape. Towering Moai statues stand in silhouette beneath a dense star-filled sky and clear Milky Way arc. Cool moonlight washes over their volcanic stone faces. The camera is handheld but controlled, with only slight natural shake.
+00:00–00:02: Commencer par un plan large extrême au niveau du sol sur le paysage aride de l'île de Pâques. Des statues Moaï imposantes se dressent en silhouette sous un ciel dense rempli d'étoiles et l'arc clair de la Voie lactée. Un clair de lune froid baigne leurs visages en pierre volcanique. La caméra est portée à l'épaule mais contrôlée, avec seulement un léger tremblement naturel.
 
-00:02–00:04: The first Moai shifts with ancient weight. One massive stone foot lifts slowly from the dry earth and settles forward. Dust rises around the base. Camera begins a slow tracking move at ground level, gliding between the statues. Low stone grinding, distant wind.
+00:02–00:04: Le premier Moaï se déplace avec un poids ancestral. Un pied en pierre massif se soulève lentement de la terre sèche et se pose en avant. De la poussière s'élève autour de la base. La caméra commence un lent mouvement de suivi au niveau du sol, glissant entre les statues. Grincement sourd de pierre, vent lointain.
 
-00:04–00:06: More Moai begin walking in procession. Their movements are deliberate and heavy, not fast, not human-like. Camera tracks alongside them, revealing long shifting shadows across the moonlit ground. Earth trembles subtly with each step.
+00:04–00:06: D'autres Moaï commencent à marcher en procession. Leurs mouvements sont délibérés et lourds, ni rapides, ni humains. La caméra les suit, révélant de longues ombres mouvantes sur le sol éclairé par la lune. La terre tremble subtilement à chaque pas.
 
-00:06–00:08: Low-angle close pass near a stone foot. The foot lifts, drags slightly, then lands with a muted impact. Dust and small pebbles scatter naturally. Weathered volcanic rock surfaces catch faint starlight, showing cracks, lichen, and erosion.
+00:06–00:08: Passage en gros plan en contre-plongée près d'un pied en pierre. Le pied se soulève, traîne légèrement, puis atterrit avec un impact sourd. La poussière et les petits cailloux se dispersent naturellement. Les surfaces en roche volcanique altérée captent la faible lumière des étoiles, révélant fissures, lichens et érosion.
 
-00:08–00:10: Camera weaves through the moving procession at waist-to-ground level, surrounded by dark monolithic silhouettes. Moai pass close on both sides, their massive torsos blocking and revealing the Milky Way as they move. Handheld motion remains smooth and intentional.
+00:08–00:10: La caméra se faufile à travers la procession en mouvement au niveau de la taille, entourée de silhouettes monolithiques sombres. Les Moaï passent tout près des deux côtés, leurs torses massifs bloquant et révélant la Voie lactée au fur et à mesure qu'ils avancent. Le mouvement de la caméra portée reste fluide et intentionnel.
 
-00:10–00:12: Wider tracking shot reveals the procession stretching across the island. Multiple statues step in slow rhythm, their shadows sliding over the terrain. Cool moonlight and blue-white starlight define their edges. The low rumble deepens.
+00:10–00:12: Un plan de suivi plus large révèle la procession s'étendant à travers l'île. Plusieurs statues avancent dans un rythme lent, leurs ombres glissant sur le terrain. Le clair de lune froid et la lumière bleu-blanc des étoiles définissent leurs contours. Le grondement sourd s'intensifie.
 
-00:12–00:15: Follow from slightly behind as the Moai continue walking into the night. Camera maintains their forward direction and gently slows, letting the statues drift farther ahead beneath the stars. End on eerie wonder: ancient silhouettes moving under the Milky Way, dust fading in moonlight.
+00:12–00:15: Suivre légèrement par l'arrière alors que les Moaï continuent de marcher dans la nuit. La caméra maintient leur direction vers l'avant et ralentit doucement, laissant les statues s'éloigner sous les étoiles. Terminer sur une merveille étrange : des silhouettes anciennes se déplaçant sous la Voie lactée, la poussière s'estompant au clair de lune.
 
-Camera: ground-level handheld tracking, slight natural shake, slow weave between statues, low-angle close detail, no chaotic movement. Motion: heavy believable stone steps, subtle tremors, dust rising naturally. Negative: no daylight, no tourists, no modern structures, no vehicles, no cartoon style, no glowing eyes, no broken anatomy, no rubbery stone, no fast running statues, no random camera spins, no blur, no compression artifacts.
+Caméra : suivi à main levée au niveau du sol, léger tremblement naturel, tissage lent entre les statues, détail en gros plan en contre-plongée, pas de mouvement chaotique. Mouvement : pas de pierre lourds et crédibles, tremblements subtils, poussière s'élevant naturellement. Négatif : pas de lumière du jour, pas de touristes, pas de structures modernes, pas de véhicules, pas de style dessin animé, pas d'yeux brillants, pas d'anatomie brisée, pas de pierre caoutchouteuse, pas de statues courant rapidement, pas de rotations de caméra aléatoires, pas de flou, pas d'artefacts de compression.
 ```
 
 **Par** [Kaan Alper ✓](https://x.com/kaan_alper) (@kaan_alper) · 23.7K abonnés
@@ -821,71 +821,71 @@ Camera: ground-level handheld tracking, slight natural shake, slow weave between
 
 ---
 
-### 10. Create a single vertical anime animation development board for an ori…
+### 10. Tableau de développement de pré-production de film d'animation
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Create a single vertical anime animation development board for an ori…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Tableau de développement de pré-production de film d'animation"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Create a single vertical anime animation development board for an original emotional summer short film titled “The Lost Wind Chime.”
-The output must be ONE combined image with two sections: an anime character design sheet and a cinematic storyboard page.
-IMPORTANT: Create fully original anime characters. Do not imitate Studio Ghibli characters directly. Avoid any copyrighted anime character resemblance. Keep the designs unique, but inspired by soft nostalgic anime films.
-STYLE: Premium anime pre-production board mixing hand-drawn pencil storyboard sketches with beautiful semi-rendered anime keyframes. Use watercolor-style lighting, soft summer colors, blue sky tones, warm sunlight, soft shadows, handwritten production notes, red storyboard borders, blue camera arrows, and timing notes. The board should feel like a real anime studio planning sheet.
-LAYOUT: Clean vertical composition with 2 sections.
-SECTION A — CHARACTER DESIGN SHEET
-Girl: A cheerful but slightly lonely anime girl with soft black hair tied into a short ponytail, large expressive brown eyes, and soft round facial features. She wears an oversized light yellow summer dress, small crossbody satchel, white socks, and brown shoes. Her mood should feel gentle, curious, nostalgic, peaceful, and emotionally warm.
-Show the girl in front view, side profile, 3/4 angle, expressions of curiosity, happiness, emotion, and thoughtfulness, plus poses holding a wind chime and reaching toward sunlight.
-Kitten: A tiny fluffy gray-and-white kitten with large anime-style eyes, soft fur, tiny paws, and playful expressions. The kitten should feel curious, innocent, playful, and comforting.
-Show the kitten in front view, side profile, 3/4 view, expressions of curiosity, happiness, sleepiness, and trust, plus sitting, playful, and sleeping poses.
-Add tiny handwritten notes and soft pastel color swatches.
+Créez un tableau de développement d'animation verticale unique pour un court-métrage d'animation original et émouvant intitulé « The Lost Wind Chime ».
+Le résultat doit être UNE image combinée avec deux sections : une feuille de design de personnage d'anime et une page de storyboard cinématographique.
+IMPORTANT : Créez des personnages d'anime entièrement originaux. N'imitez pas directement les personnages du Studio Ghibli. Évitez toute ressemblance avec des personnages d'anime protégés par le droit d'auteur. Gardez les designs uniques, mais inspirés par les films d'animation doux et nostalgiques.
+STYLE : Tableau de pré-production d'anime haut de gamme mélangeant des croquis de storyboard au crayon dessinés à la main et de magnifiques images clés d'anime semi-rendues. Utilisez un éclairage de style aquarelle, des couleurs estivales douces, des tons de ciel bleu, une lumière du soleil chaude, des ombres douces, des notes de production manuscrites, des bordures de storyboard rouges, des flèches de caméra bleues et des notes de timing. Le tableau doit ressembler à une véritable feuille de planification de studio d'animation.
+MISE EN PAGE : Composition verticale propre avec 2 sections.
+SECTION A — FEUILLE DE DESIGN DE PERSONNAGE
+Fille : Une fille anime joyeuse mais légèrement solitaire avec des cheveux noirs doux attachés en une courte queue de cheval, de grands yeux bruns expressifs et des traits de visage doux et ronds. Elle porte une robe d'été jaune clair surdimensionnée, une petite sacoche en bandoulière, des chaussettes blanches et des chaussures marron. Son humeur doit être douce, curieuse, nostalgique, paisible et émotionnellement chaleureuse.
+Montrez la fille de face, de profil, sous un angle de 3/4, avec des expressions de curiosité, de bonheur, d'émotion et de réflexion, ainsi que des poses tenant un carillon éolien et tendant la main vers la lumière du soleil.
+Chaton : Un minuscule chaton gris et blanc duveteux avec de grands yeux de style anime, une fourrure douce, de minuscules pattes et des expressions ludiques. Le chaton doit sembler curieux, innocent, joueur et réconfortant.
+Montrez le chaton de face, de profil, sous un angle de 3/4, avec des expressions de curiosité, de bonheur, de somnolence et de confiance, ainsi que des poses assises, joueuses et endormies.
+Ajoutez de minuscules notes manuscrites et des échantillons de couleurs pastel douces.
 SECTION B — STORYBOARD
-Create 8 cinematic anime storyboard frames arranged in a clean grid. Keep character designs consistent across all panels. Every panel should include handwritten camera notes, blue movement arrows, timing notes, and lens notes.
-STORY BEATS:
-1. The girl discovers a beautiful glass wind chime hanging on an old countryside porch.
-2. A tiny kitten watches her from nearby flowers.
-3. Wind softly blows through the chime under bright summer sunlight.
-4. The girl gently lowers the wind chime toward the kitten.
-5. The kitten begins playing with the paper strip attached to the chime.
-6. The girl laughs softly while holding the kitten.
-7. Both sit together peacefully listening to the wind chime sounds.
-8. Wide emotional sunset shot with golden sky, countryside hills, and the wind chime moving in the breeze.
-ENVIRONMENT: Bright Japanese countryside during summer with blue skies, soft clouds, green grass, sunflowers, wooden porch, warm sunset glow, and a peaceful nostalgic anime atmosphere.
-FINAL GOAL: Make this feel like a beautiful anime film development board with emotional summer nostalgia and cinematic storytelling.
+Créez 8 cadres de storyboard d'anime cinématographiques disposés dans une grille propre. Gardez les designs des personnages cohérents dans tous les panneaux. Chaque panneau doit inclure des notes de caméra manuscrites, des flèches de mouvement bleues, des notes de timing et des notes d'objectif.
+ÉTAPES DE L'HISTOIRE :
+1. La fille découvre un magnifique carillon éolien en verre suspendu sur un vieux porche à la campagne.
+2. Un minuscule chaton l'observe depuis des fleurs à proximité.
+3. Le vent souffle doucement à travers le carillon sous la lumière vive du soleil d'été.
+4. La fille abaisse doucement le carillon éolien vers le chaton.
+5. Le chaton commence à jouer avec la bande de papier attachée au carillon.
+6. La fille rit doucement en tenant le chaton.
+7. Tous deux s'assoient ensemble paisiblement en écoutant les sons du carillon éolien.
+8. Plan large et émouvant au coucher du soleil avec un ciel doré, des collines de campagne et le carillon éolien se déplaçant dans la brise.
+ENVIRONNEMENT : Campagne japonaise lumineuse en été avec un ciel bleu, des nuages doux, de l'herbe verte, des tournesols, un porche en bois, une lueur chaude de coucher de soleil et une atmosphère d'anime nostalgique et paisible.
+OBJECTIF FINAL : Faites en sorte que cela ressemble à un magnifique tableau de développement de film d'animation avec une nostalgie estivale émotionnelle et une narration cinématographique.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Create a single vertical anime animation development board for an original emotional summer short film titled “The Lost Wind Chime.”
-The output must be ONE combined image with two sections: an anime character design sheet and a cinematic storyboard page.
-IMPORTANT: Create fully original anime characters. Do not imitate Studio Ghibli characters directly. Avoid any copyrighted anime character resemblance. Keep the designs unique, but inspired by soft nostalgic anime films.
-STYLE: Premium anime pre-production board mixing hand-drawn pencil storyboard sketches with beautiful semi-rendered anime keyframes. Use watercolor-style lighting, soft summer colors, blue sky tones, warm sunlight, soft shadows, handwritten production notes, red storyboard borders, blue camera arrows, and timing notes. The board should feel like a real anime studio planning sheet.
-LAYOUT: Clean vertical composition with 2 sections.
-SECTION A — CHARACTER DESIGN SHEET
-Girl: A cheerful but slightly lonely anime girl with soft black hair tied into a short ponytail, large expressive brown eyes, and soft round facial features. She wears an oversized light yellow summer dress, small crossbody satchel, white socks, and brown shoes. Her mood should feel gentle, curious, nostalgic, peaceful, and emotionally warm.
-Show the girl in front view, side profile, 3/4 angle, expressions of curiosity, happiness, emotion, and thoughtfulness, plus poses holding a wind chime and reaching toward sunlight.
-Kitten: A tiny fluffy gray-and-white kitten with large anime-style eyes, soft fur, tiny paws, and playful expressions. The kitten should feel curious, innocent, playful, and comforting.
-Show the kitten in front view, side profile, 3/4 view, expressions of curiosity, happiness, sleepiness, and trust, plus sitting, playful, and sleeping poses.
-Add tiny handwritten notes and soft pastel color swatches.
+Créez un tableau de développement d'animation verticale unique pour un court-métrage d'animation original et émouvant intitulé « The Lost Wind Chime ».
+Le résultat doit être UNE image combinée avec deux sections : une feuille de design de personnage d'anime et une page de storyboard cinématographique.
+IMPORTANT : Créez des personnages d'anime entièrement originaux. N'imitez pas directement les personnages du Studio Ghibli. Évitez toute ressemblance avec des personnages d'anime protégés par le droit d'auteur. Gardez les designs uniques, mais inspirés par les films d'animation doux et nostalgiques.
+STYLE : Tableau de pré-production d'anime haut de gamme mélangeant des croquis de storyboard au crayon dessinés à la main et de magnifiques images clés d'anime semi-rendues. Utilisez un éclairage de style aquarelle, des couleurs estivales douces, des tons de ciel bleu, une lumière du soleil chaude, des ombres douces, des notes de production manuscrites, des bordures de storyboard rouges, des flèches de caméra bleues et des notes de timing. Le tableau doit ressembler à une véritable feuille de planification de studio d'animation.
+MISE EN PAGE : Composition verticale propre avec 2 sections.
+SECTION A — FEUILLE DE DESIGN DE PERSONNAGE
+Fille : Une fille anime joyeuse mais légèrement solitaire avec des cheveux noirs doux attachés en une courte queue de cheval, de grands yeux bruns expressifs et des traits de visage doux et ronds. Elle porte une robe d'été jaune clair surdimensionnée, une petite sacoche en bandoulière, des chaussettes blanches et des chaussures marron. Son humeur doit être douce, curieuse, nostalgique, paisible et émotionnellement chaleureuse.
+Montrez la fille de face, de profil, sous un angle de 3/4, avec des expressions de curiosité, de bonheur, d'émotion et de réflexion, ainsi que des poses tenant un carillon éolien et tendant la main vers la lumière du soleil.
+Chaton : Un minuscule chaton gris et blanc duveteux avec de grands yeux de style anime, une fourrure douce, de minuscules pattes et des expressions ludiques. Le chaton doit sembler curieux, innocent, joueur et réconfortant.
+Montrez le chaton de face, de profil, sous un angle de 3/4, avec des expressions de curiosité, de bonheur, de somnolence et de confiance, ainsi que des poses assises, joueuses et endormies.
+Ajoutez de minuscules notes manuscrites et des échantillons de couleurs pastel douces.
 SECTION B — STORYBOARD
-Create 8 cinematic anime storyboard frames arranged in a clean grid. Keep character designs consistent across all panels. Every panel should include handwritten camera notes, blue movement arrows, timing notes, and lens notes.
-STORY BEATS:
-1. The girl discovers a beautiful glass wind chime hanging on an old countryside porch.
-2. A tiny kitten watches her from nearby flowers.
-3. Wind softly blows through the chime under bright summer sunlight.
-4. The girl gently lowers the wind chime toward the kitten.
-5. The kitten begins playing with the paper strip attached to the chime.
-6. The girl laughs softly while holding the kitten.
-7. Both sit together peacefully listening to the wind chime sounds.
-8. Wide emotional sunset shot with golden sky, countryside hills, and the wind chime moving in the breeze.
-ENVIRONMENT: Bright Japanese countryside during summer with blue skies, soft clouds, green grass, sunflowers, wooden porch, warm sunset glow, and a peaceful nostalgic anime atmosphere.
-FINAL GOAL: Make this feel like a beautiful anime film development board with emotional summer nostalgia and cinematic storytelling.
+Créez 8 cadres de storyboard d'anime cinématographiques disposés dans une grille propre. Gardez les designs des personnages cohérents dans tous les panneaux. Chaque panneau doit inclure des notes de caméra manuscrites, des flèches de mouvement bleues, des notes de timing et des notes d'objectif.
+ÉTAPES DE L'HISTOIRE :
+1. La fille découvre un magnifique carillon éolien en verre suspendu sur un vieux porche à la campagne.
+2. Un minuscule chaton l'observe depuis des fleurs à proximité.
+3. Le vent souffle doucement à travers le carillon sous la lumière vive du soleil d'été.
+4. La fille abaisse doucement le carillon éolien vers le chaton.
+5. Le chaton commence à jouer avec la bande de papier attachée au carillon.
+6. La fille rit doucement en tenant le chaton.
+7. Tous deux s'assoient ensemble paisiblement en écoutant les sons du carillon éolien.
+8. Plan large et émouvant au coucher du soleil avec un ciel doré, des collines de campagne et le carillon éolien se déplaçant dans la brise.
+ENVIRONNEMENT : Campagne japonaise lumineuse en été avec un ciel bleu, des nuages doux, de l'herbe verte, des tournesols, un porche en bois, une lueur chaude de coucher de soleil et une atmosphère d'anime nostalgique et paisible.
+OBJECTIF FINAL : Faites en sorte que cela ressemble à un magnifique tableau de développement de film d'animation avec une nostalgie estivale émotionnelle et une narration cinématographique.
 ```
 
 **Par** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K abonnés
@@ -898,193 +898,193 @@ FINAL GOAL: Make this feel like a beautiful anime film development board with em
 
 ---
 
-### 11. 1. Midjourney prompts: two characters in a post apoc city with guns a…
+### 11. Manqué de bazooka post-apocalyptique et évasion de la ruche
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="1. Midjourney prompts: two characters in a post apoc city with guns a…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Manqué de bazooka post-apocalyptique et évasion de la ruche"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-1. Midjourney prompts:
-two characters in a post apoc city with guns and a cat --ar 3:4 --raw --sref 1984477158 --profile q9waadp --stylize 1000 --niji 7
-zombie with bee wings --ar 3:4 --raw --sref 316595908 --profile q9waadp --stylize 1000 --niji 7
+1. Prompts Midjourney :
+deux personnages dans une ville post-apo avec des armes et un chat --ar 3:4 --raw --sref 1984477158 --profile q9waadp --stylize 1000 --niji 7
+zombie avec des ailes d'abeille --ar 3:4 --raw --sref 316595908 --profile q9waadp --stylize 1000 --niji 7
 
-2. This time I didn't create a character sheet. I went straight from the generated images to the storyboards. First storyboard generated with v2 of my skill, I'm still testing it. Second part is generated with the version I shared with subscribers.
+2. Cette fois, je n'ai pas créé de fiche de personnage. Je suis passé directement des images générées aux storyboards. Premier storyboard généré avec la v2 de ma compétence, je suis encore en train de le tester. La deuxième partie est générée avec la version que j'ai partagée avec les abonnés.
 
-3. After that, I generated the scenes using the Seedance 2.0 prompts produced by the same skills. At first I tried extending the footage, but it generated a completely different scene, so I ended up creating it as two separate clips instead.
+3. Après cela, j'ai généré les scènes en utilisant les prompts Seedance 2.0 produits par les mêmes compétences. Au début, j'ai essayé d'étendre les séquences, mais cela a généré une scène complètement différente, donc j'ai fini par la créer sous forme de deux clips séparés.
 
-GPT Image 2 Prompts For Storyboards:
+Prompts GPT Image 2 pour les storyboards :
 
-Create a 16:9 image.
+Créez une image 16:9.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: CLOSE ENOUGH
-META LINE: deadpan / post-apocalyptic action comedy / restrained
-PRIORITY: Make the leftward shot, intact target building, near-ground miss, and dry final reaction instantly readable.
-MICRO BRIEF: Two seated friends test a bazooka against a distant ruined building; the rocket lands beside it and neither overreacts.
+[FICHE PROJET]
+Créez un en-tête compact, pas un tableau.
+TITRE : ASSEZ PROCHE
+LIGNE MÉTADONNÉE : impassible / comédie d'action post-apocalyptique / retenu
+PRIORITÉ : Rendez le tir vers la gauche, le bâtiment cible intact, le tir manqué près du sol et la réaction finale sèche instantanément lisibles.
+BRÈVE MICRO : Deux amis assis testent un bazooka contre un bâtiment en ruine distant ; la roquette atterrit à côté et aucun des deux ne réagit de manière excessive.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: BUILDING_BAZOOKA_MISS_01
-REFERENCE PRIORITY: @[characters] controls both characters' identity, faces, bodies, wardrobe, and proportions; this storyboard controls staging, motion, geography, bazooka state, and continuity.
+[EN-TÊTE DE CONTINUITÉ]
+ID DE SÉQUENCE : BUILDING_BAZOOKA_MISS_01
+PRIORITÉ DE RÉFÉRENCE : @[characters] contrôle l'identité, les visages, les corps, la garde-robe et les proportions des deux personnages ; ce storyboard contrôle la mise en scène, le mouvement, la géographie, l'état du bazooka et la continuité.
 
-[SCENE PACKET]
-PREMISE: C1 asks, "Can I hit it?" C2 replies, "I think you can." C1 shoulders one bazooka, fires toward a distant building at screen-left, misses into the ground beside it, then says, "I think I missed." C2 answers, "Yeah."
-LOCATION: Daylight on a broken concrete rooftop ledge above a ruined city; the seated pair occupy the right half, while one clearly readable target building and its adjacent open ground sit far screen-left.
-START -> END: C1 and C2 sit shoulder-to-shoulder facing left with the loaded bazooka resting between C1's knees -> the target building remains intact behind a compact dust plume beside it, then both remain seated in dry silence.
-ACTION CHAIN: casual question and reply -> bazooka lift and aim -> one leftward launch -> rocket drops short beside the building -> dust clears enough to prove the miss -> understated exchange.
-PROP / EFFECT STATE: Exactly one bazooka and one rocket; loaded at start, empty after firing; straight leftward exhaust trail; compact ground impact immediately screen-right of the target building; no building strike or collapse.
-MUST READ: Both characters always look screen-left. The rocket visibly misses the intact building and hits only the open ground beside it. Dialogue is audio context only; never draw speech bubbles, subtitles, captions, or dialogue inside panels.
+[PAQUET DE SCÈNE]
+PRÉMISSE : C1 demande : "Je peux l'atteindre ?" C2 répond : "Je pense que tu peux." C1 épaule un bazooka, tire vers un bâtiment distant à gauche de l'écran, manque sa cible et touche le sol à côté, puis dit : "Je crois que j'ai raté." C2 répond : "Ouais."
+LIEU : Lumière du jour sur une corniche en béton brisé au-dessus d'une ville en ruine ; la paire assise occupe la moitié droite, tandis qu'un bâtiment cible clairement lisible et son terrain ouvert adjacent se trouvent loin à gauche de l'écran.
+DÉBUT -> FIN : C1 et C2 sont assis épaule contre épaule face à gauche avec le bazooka chargé reposant entre les genoux de C1 -> le bâtiment cible reste intact derrière un panache de poussière compact à côté, puis les deux restent assis dans un silence sec.
+CHAÎNE D'ACTION : question et réponse décontractées -> levée et visée du bazooka -> un lancement vers la gauche -> la roquette tombe court à côté du bâtiment -> la poussière se dissipe assez pour prouver le raté -> échange sous-entendu.
+ÉTAT DE L'ACCESSOIRE / EFFET : Exactement un bazooka et une roquette ; chargé au début, vide après le tir ; traînée d'échappement droite vers la gauche ; impact au sol compact immédiatement à droite du bâtiment cible ; pas de frappe ou d'effondrement du bâtiment.
+À LIRE : Les deux personnages regardent toujours vers la gauche de l'écran. La roquette manque visiblement le bâtiment intact et ne frappe que le terrain ouvert à côté. Le dialogue est uniquement contextuel ; ne dessinez jamais de bulles de dialogue, sous-titres, légendes ou dialogues à l'intérieur des panneaux.
 
-[CHARACTER SANITIZATION]
-C1: Blonde young woman from @[characters], seated screen-left of the pair, compact silhouette, same face and wardrobe, handling the single bazooka with controlled movements.
-C2: Skull-helmeted dark-haired young woman from @[characters], seated screen-right of the pair, same face and wardrobe, relaxed posture and minimal reaction.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[ASSAINISSEMENT DES PERSONNAGES]
+C1 : Jeune femme blonde de @[characters], assise à gauche de la paire, silhouette compacte, même visage et garde-robe, manipulant le bazooka unique avec des mouvements contrôlés.
+C2 : Jeune femme aux cheveux noirs portant un casque en forme de crâne de @[characters], assise à droite de la paire, même visage et garde-robe, posture détendue et réaction minimale.
+Supprimez les traits contradictoires, la psychologie invisible, les détails de costume excessifs et les antécédents qui ne peuvent pas apparaître dans un panneau.
 
-[IDENTITY CONSISTENCY]
-@[characters] controls face, body, hair, helmet, wardrobe, footwear, materials, and proportions; storyboard controls staging only. Keep C1 left of C2, preserve silhouettes and clothing, and do not redesign, merge, age-shift, or copy extra firearms from the reference. Show only the single story bazooka.
+[COHÉRENCE DE L'IDENTITÉ]
+@[characters] contrôle le visage, le corps, les cheveux, le casque, la garde-robe, les chaussures, les matériaux et les proportions ; le storyboard contrôle uniquement la mise en scène. Gardez C1 à gauche de C2, préservez les silhouettes et les vêtements, et ne redessinez pas, ne fusionnez pas, ne vieillissez pas et ne copiez pas d'armes à feu supplémentaires à partir de la référence. Ne montrez que le bazooka de l'histoire.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[PURETÉ DU STORYBOARD]
+Les images des panneaux sont des croquis visuels monochromes gris clair à faible détail. Mettez les numéros de panneau, les noms des temps forts et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, d'étiquettes, de flèches, de légendes, de sous-titres, de logos, de filigranes, de marques de temps, de diagrammes, d'interface utilisateur, de poses fantômes, de corps en double ou de superpositions techniques à l'intérieur des panneaux.
 
-[MASTER SHOT RULE]
-P01 is a 24mm side-wide master showing C1 left of C2 on the rooftop, both facing left, the bazooka between C1's knees, the distant target building at far screen-left, and the open miss zone immediately screen-right of that building.
+[RÈGLE DU PLAN MAÎTRE]
+P01 est un plan large latéral de 24 mm montrant C1 à gauche de C2 sur le toit, tous deux face à gauche, le bazooka entre les genoux de C1, le bâtiment cible distant tout à gauche de l'écran et la zone de raté ouverte immédiatement à droite de ce bâtiment.
 
-[EMOTIONAL ARC]
-Loose stillness -> casual confidence -> controlled commitment -> brief explosive focus -> dry disappointment, shown through small head turns, steady shoulders, restrained recoil, and minimal final movement.
+[ARC ÉMOTIONNEL]
+Immobilité lâche -> confiance décontractée -> engagement contrôlé -> bref focus explosif -> déception sèche, montrée par de petits mouvements de tête, des épaules stables, un recul retenu et un mouvement final minimal.
 
-[STYLE LOCKS]
-STYLE LOCK: Clean monochrome editorial storyboard, thin graphite-gray lines, simplified readable anatomy, mostly white paper, sparse light-gray depth, restrained accent color only outside panel art.
-EFFECT LOCK: One narrow straight exhaust trail, small launch flash, compact pale dust plume at ground impact, minimal debris, no oversized fireball.
-ENVIRONMENT LOCK: Broken rooftop ledge, distant ruined skyline, fixed target-building silhouette, open ground beside it, stable horizon, clear daylight, sparse architectural contours.
+[VERROUILLAGES DE STYLE]
+VERROUILLAGE DE STYLE : Storyboard éditorial monochrome propre, lignes fines gris graphite, anatomie simplifiée lisible, papier principalement blanc, profondeur gris clair clairsemée, couleur d'accent retenue uniquement à l'extérieur de l'art du panneau.
+VERROUILLAGE D'EFFET : Une traînée d'échappement droite et étroite, petit flash de lancement, panache de poussière pâle compact à l'impact au sol, débris minimaux, pas de boule de feu surdimensionnée.
+VERROUILLAGE D'ENVIRONNEMENT : Corniche de toit brisée, horizon urbain en ruine distant, silhouette de bâtiment cible fixe, terrain ouvert à côté, horizon stable, lumière du jour claire, contours architecturaux clairsemés.
 
-[SPATIAL CONTINUITY LOCK]
-P01, P02, P03, and P05 preserve the same side-view axis and seating order: C1 left of C2, both facing screen-left. The target building remains far screen-left with the miss zone immediately to its screen-right. P04 is a telephoto view of those same distant anchors, not a redesigned location. Only pose, bazooka state, rocket position, dust, and camera distance may change; the building stays intact.
+[VERROUILLAGE DE CONTINUITÉ SPATIALE]
+P01, P02, P03 et P05 préservent le même axe de vue latérale et le même ordre d'assise : C1 à gauche de C2, tous deux face à gauche de l'écran. Le bâtiment cible reste loin à gauche de l'écran avec la zone de raté immédiatement à sa droite. P04 est une vue au téléobjectif de ces mêmes ancres distantes, pas un lieu redessiné. Seuls la pose, l'état du bazooka, la position de la roquette, la poussière et la distance de la caméra peuvent changer ; le bâtiment reste intact.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 24mm wide / Rooftop master -> P02 / 50mm / Lift and aim -> P03 / 35mm side / Fire left -> P04 / telephoto / Miss beside building -> P05 / 50mm two-shot / Dry verdict
-CAMERA + LENS PLAN: P01 locked side-wide geography -> P02 closer side medium -> P03 side profile cut on action -> P04 telephoto target view -> P05 return to same-axis seated two-shot
-ACTION PATH: P01 ask and reply -> P02 C1 shoulders bazooka -> P03 one rocket exits left -> P04 rocket hits ground beside intact building -> P05 C1 lowers empty launcher, C2 barely turns
-RHYTHM TRACK: P01 RHY P01: hold / long block / held beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: impact / short block / clean beat -> P05 RHY P05: pause / long block / held beat
-ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L4 surge / spike -> P04 ESC P04: L3 rise / drop -> P05 ESC P05: L1 calm / release
-STATE TRACK: P01 loaded / seated / face left -> P02 loaded / shoulder aim -> P03 fired once / launcher empty -> P04 building intact / dust beside -> P05 empty launcher / seated / face left
-STYLE TRACK: P01 sparse graphite -> P02 clean contours -> P03 sharp motion line -> P04 pale dust shape -> P05 quiet white space
+[BANDE DU RÉALISATEUR]
+Tableau de piste animatique inférieur aligné sur les colonnes de panneaux. Pistes : LIGNE DE TEMPS, CHEMIN DE CAMÉRA, CHEMIN D'ACTION, PISTE DE RYTHME, CARTE D'ESCALADE, PISTE D'ÉTAT, PISTE DE STYLE. Utilisez des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ou d'horodatages.
+Format PISTE DE RYTHME : `RHY P## : [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+Format CARTE D'ESCALADE : `ESC P## : [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+EN-TÊTES DE PANNEAU : P01 / 24mm large / Maître toit -> P02 / 50mm / Lever et viser -> P03 / 35mm côté / Tirer à gauche -> P04 / téléobjectif / Raté à côté du bâtiment -> P05 / 50mm deux plans / Verdict sec
+PLAN CAMÉRA + OBJECTIF : P01 géographie latérale large verrouillée -> P02 plan moyen latéral plus proche -> P03 profil latéral coupé sur l'action -> P04 vue cible téléobjectif -> P05 retour au plan à deux assis sur le même axe
+CHEMIN D'ACTION : P01 question et réponse -> P02 C1 épaule le bazooka -> P03 une roquette sort à gauche -> P04 la roquette frappe le sol à côté du bâtiment intact -> P05 C1 abaisse le lanceur vide, C2 tourne à peine
+PISTE DE RYTHME : P01 RHY P01 : hold / long block / held beat -> P02 RHY P02 : build / medium block / clean beat -> P03 RHY P03 : burst / short block / smash beat -> P04 RHY P04 : impact / short block / clean beat -> P05 RHY P05 : pause / long block / held beat
+CARTE D'ESCALADE : P01 ESC P01 : L1 calm / flat -> P02 ESC P02 : L2 tension / rise -> P03 ESC P03 : L4 surge / spike -> P04 ESC P04 : L3 rise / drop -> P05 ESC P05 : L1 calm / release
+PISTE D'ÉTAT : P01 chargé / assis / face gauche -> P02 chargé / visée épaule -> P03 tiré une fois / lanceur vide -> P04 bâtiment intact / poussière à côté -> P05 lanceur vide / assis / face gauche
+PISTE DE STYLE : P01 graphite clairsemé -> P02 contours propres -> P03 ligne de mouvement nette -> P04 forme de poussière pâle -> P05 espace blanc calme
 
-[SEQUENCE]
-Grid: 5 panels in a clean 3-over-2 layout with generous gutters and outside header strips, moving from shared geography through launch and miss to the same seated axis for the final deadpan hold.
+[SÉQUENCE]
+Grille : 5 panneaux dans une disposition propre 3 sur 2 avec des gouttières généreuses et des bandes d'en-tête extérieures, passant de la géographie partagée au lancement et au raté jusqu'au même axe assis pour la tenue impassible finale.
 
-Create a 16:9 image.
+Créez une image 16:9.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: THE HIVE WAKES
-META LINE: creature chase / post-apocalyptic comedy horror / accelerating
-PRIORITY: Hide the target building completely in P01, reveal its eruption in P02, then make the unified swarm pursuit, rightward escape, and storm-drain hiding place readable.
-MICRO BRIEF: The missed shot wakes hundreds of zombie bees, forcing two friends and their cat off the rooftop and into a dark drainage tunnel.
+[FICHE PROJET]
+Créez un en-tête compact, pas un tableau.
+TITRE : LA RUCHE S'ÉVEILLE
+LIGNE MÉTADONNÉE : poursuite de créature / horreur comique post-apocalyptique / accélération
+PRIORITÉ : Cachez complètement le bâtiment cible dans P01, révélez son éruption dans P02, puis rendez la poursuite unifiée de l'essaim, l'évasion vers la droite et la cachette dans l'égout pluvial lisibles.
+BRÈVE MICRO : Le tir manqué réveille des centaines d'abeilles zombies à taille humaine, forçant deux amies et leur chat à quitter le toit et à entrer dans un tunnel de drainage sombre.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: BUILDING_BAZOOKA_MISS_02
-REFERENCE PRIORITY: Image A controls C1, C2, and their cat C3; Image B controls zombie bees C4; this storyboard controls staging, scale, swarm motion, pursuit geography, and continuity. This begins immediately after BUILDING_BAZOOKA_MISS_01.
+[EN-TÊTE DE CONTINUITÉ]
+ID DE SÉQUENCE : BUILDING_BAZOOKA_MISS_02
+PRIORITÉ DE RÉFÉRENCE : L'image A contrôle C1, C2 et leur chat C3 ; l'image B contrôle les abeilles zombies C4 ; ce storyboard contrôle la mise en scène, l'échelle, le mouvement de l'essaim, la géographie de la poursuite et la continuité. Cela commence immédiatement après BUILDING_BAZOOKA_MISS_01.
 
-[SCENE PACKET]
-PREMISE: As C1, C2, and their cat C3 rest on the rooftop, hundreds of human-sized zombie bees fly from the hidden target building, merge into an airborne swarm, chase them to street level, and force all three into a storm-drain tunnel.
-LOCATION: Clear daylight across one ruined-city route: starting rooftop at screen-left, connected service roof and metal stairs toward screen-right, debris alley below, then a large round storm-drain opening in a cracked retaining wall at far right.
-START -> END: C1 and C2 sit with C3 beside them and the empty bazooka after the miss -> both crouch inside the dark drain with C3 held safely between them while the swarm searches outside.
-ACTION CHAIN: offscreen wing noise turns both heads and C3's ears left -> building reveal and swarm eruption -> close undead anatomy -> C1 drops the bazooka as C2 scoops up C3 -> both sprint right -> descend stairs -> cross alley -> enter drain -> pull grate and freeze.
-PROP / EFFECT STATE: Empty bazooka begins with C1 and is abandoned in P04; C3 is carried by C2 from P04 through P08 and ends unharmed; every bee is human-sized and continuously airborne from P02 onward; the flying swarm becomes one directional crowd-cloud; grate begins open and ends partly closed.
-MUST READ: P01 must not show any part of the target building; it first appears in P02. C3 is the single small black cat from Image A and must never disappear, duplicate, transform, or join the swarm. Hundreds of human-sized bees emerge and chase from left to right; C1, C2, and C3 enter the drain unseen.
+[PAQUET DE SCÈNE]
+PRÉMISSE : Alors que C1, C2 et leur chat C3 se reposent sur le toit, des centaines d'abeilles zombies à taille humaine volent depuis le bâtiment cible caché, fusionnent en un essaim aérien, les poursuivent jusqu'au niveau de la rue et forcent les trois à entrer dans un tunnel d'égout pluvial.
+LIEU : Lumière du jour claire sur un itinéraire de ville en ruine : toit de départ à gauche de l'écran, toit de service connecté et escaliers métalliques vers la droite de l'écran, ruelle de débris en dessous, puis une grande ouverture d'égout pluvial ronde dans un mur de soutènement fissuré tout à droite.
+DÉBUT -> FIN : C1 et C2 sont assis avec C3 à côté d'eux et le bazooka vide après le raté -> les deux s'accroupissent à l'intérieur de l'égout sombre avec C3 tenu en sécurité entre eux pendant que l'essaim cherche à l'extérieur.
+CHAÎNE D'ACTION : le bruit des ailes hors champ fait tourner les deux têtes et les oreilles de C3 vers la gauche -> révélation du bâtiment et éruption de l'essaim -> anatomie mort-vivante proche -> C1 lâche le bazooka alors que C2 ramasse C3 -> les deux sprintent vers la droite -> descendent les escaliers -> traversent la ruelle -> entrent dans l'égout -> tirent la grille et se figent.
+ÉTAT DE L'ACCESSOIRE / EFFET : Le bazooka vide commence avec C1 et est abandonné dans P04 ; C3 est porté par C2 de P04 à P08 et finit indemne ; chaque abeille est à taille humaine et continuellement en vol à partir de P02 ; l'essaim volant devient une foule-nuage directionnelle ; la grille commence ouverte et finit partiellement fermée.
+À LIRE : P01 ne doit montrer aucune partie du bâtiment cible ; il apparaît pour la première fois dans P02. C3 est le seul petit chat noir de l'image A et ne doit jamais disparaître, se dupliquer, se transformer ou rejoindre l'essaim. Des centaines d'abeilles à taille humaine émergent et poursuivent de gauche à droite ; C1, C2 et C3 entrent dans l'égout sans être vus.
 
-[CHARACTER SANITIZATION]
-C1: Blonde young woman from Image A, same compact silhouette, face, wardrobe, and footwear; quick forward lean, drops the empty bazooka, then runs screen-right.
-C2: Skull-helmeted dark-haired young woman from Image A, same face, wardrobe, and proportions; reacts first, scoops C3 under one arm, and leads toward the drain.
-C3: The single small black cat from Image A; pointed ears, yellow eyes, simple dark silhouette; sits beside the pair, then remains securely carried by C2 until safe inside the drain.
-C4: Human-sized flying zombie bee species from Image B, each roughly as tall as C1 and C2; corpse-pale round head, huge tired eyes, dark ragged thorax cloth, thin bandaged limbs, torn translucent wings, antennae; render hundreds continuously flying with legs hanging below.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[ASSAINISSEMENT DES PERSONNAGES]
+C1 : Jeune femme blonde de l'image A, même silhouette compacte, visage, garde-robe et chaussures ; penche rapidement vers l'avant, lâche le bazooka vide, puis court vers la droite de l'écran.
+C2 : Jeune femme aux cheveux noirs portant un casque en forme de crâne de l'image A, même visage, garde-robe et proportions ; réagit en premier, ramasse C3 sous un bras et mène vers l'égout.
+C3 : Le seul petit chat noir de l'image A ; oreilles pointues, yeux jaunes, silhouette sombre simple ; s'assoit à côté de la paire, puis reste porté en toute sécurité par C2 jusqu'à ce qu'il soit en sécurité à l'intérieur de l'égout.
+C4 : Espèce d'abeille zombie volante à taille humaine de l'image B, chacune à peu près aussi grande que C1 et C2 ; tête ronde pâle de cadavre, énormes yeux fatigués, tissu thoracique sombre et en lambeaux, membres fins bandés, ailes translucides déchirées, antennes ; rendez des centaines d'abeilles volant continuellement avec les jambes pendantes en dessous.
+Supprimez les traits contradictoires, la psychologie invisible, les détails de costume excessifs et les antécédents qui ne peuvent pas apparaître dans un panneau.
 
-[IDENTITY CONSISTENCY]
-Image A controls C1, C2, and C3 identity and appearance. Image B controls every C4 bee's anatomy. All C4 bees fly by beating their wings; never show them running, walking, crawling, standing, or pursuing on the ground. Keep exactly one cat near or carried by C2. Do not retain the bazooka after P04.
+[COHÉRENCE DE L'IDENTITÉ]
+L'image A contrôle l'identité et l'apparence de C1, C2 et C3. L'image B contrôle l'anatomie de chaque abeille C4. Toutes les abeilles C4 volent en battant des ailes ; ne les montrez jamais en train de courir, marcher, ramper, se tenir debout ou poursuivre au sol. Gardez exactement un chat près ou porté par C2. Ne conservez pas le bazooka après P04.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate character bodies, or technical overlays inside panels.
+[PURETÉ DU STORYBOARD]
+Les images des panneaux sont des croquis visuels monochromes gris clair à faible détail. Mettez les numéros de panneau, les noms des temps forts et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, d'étiquettes, de flèches, de légendes, de sous-titres, de logos, de filigranes, de marques de temps, de diagrammes, d'interface utilisateur, de poses fantômes, de corps de personnages en double ou de superpositions techniques à l'intérieur des panneaux.
 
-[MASTER SHOT RULE]
-P01 is a 35mm rooftop group shot framing seated C1, C2, C3 beside them, and the escape route on screen-right. The target building lies beyond the left frame edge and is invisible. P02 first reveals the building, broken windows, swarm origin, and rooftop gap.
+[RÈGLE DU PLAN MAÎTRE]
+P01 est un plan de groupe sur le toit de 35 mm cadrant C1, C2 et C3 assis à côté d'eux, et l'itinéraire d'évasion sur la droite de l'écran. Le bâtiment cible se trouve au-delà du bord gauche du cadre et est invisible. P02 révèle pour la première fois le bâtiment, les fenêtres brisées, l'origine de l'essaim et l'espace sur le toit.
 
-[EMOTIONAL ARC]
-Dry stillness -> uneasy attention -> instant recognition -> full sprint -> compressed panic -> desperate entry -> breath-held concealment, shown through eye-lines, forward lean, widening spacing, fast foot placement, lowered heads, and final rigid crouches.
+[ARC ÉMOTIONNEL]
+Immobilité sèche -> attention inquiète -> reconnaissance instantanée -> sprint complet -> panique comprimée -> entrée désespérée -> dissimulation en retenant son souffle, montrée par les lignes de regard, le penchant vers l'avant, l'espacement qui s'élargit, le placement rapide des pieds, les têtes baissées et les accroupissements rigides finaux.
 
-[STYLE LOCKS]
-STYLE LOCK: Clean monochrome editorial storyboard, thin graphite-gray contours, simplified readable anatomy, mostly white paper, sparse light-gray depth, restrained accent color only outside panel art.
-EFFECT LOCK: Swarm reads as hundreds of overlapping human-sized airborne figures, wings visibly beating, legs suspended, with a soft graphite crowd edge and clear leading front. P03 shows three sharp flying bees with many airborne figures behind. No grounded pursuit, smoke transformation, or solid black mass.
-ENVIRONMENT LOCK: Preserve the starting rooftop. Keep the target building fully offscreen in P01; reveal and preserve its silhouette only from P02 onward. Maintain the rightward route through service roof, metal stairs, debris alley, retaining wall, circular drain, grate, and dark tunnel.
+[VERROUILLAGES DE STYLE]
+VERROUILLAGE DE STYLE : Storyboard éditorial monochrome propre, contours fins gris graphite, anatomie simplifiée lisible, papier principalement blanc, profondeur gris clair clairsemée, couleur d'accent retenue uniquement à l'extérieur de l'art du panneau.
+VERROUILLAGE D'EFFET : L'essaim se lit comme des centaines de figures aéroportées à taille humaine se chevauchant, ailes battant visiblement, jambes suspendues, avec un bord de foule en graphite doux et un front de tête clair. P03 montre trois abeilles volantes nettes avec de nombreuses figures aéroportées derrière. Pas de poursuite au sol, de transformation en fumée ou de masse noire solide.
+VERROUILLAGE D'ENVIRONNEMENT : Préservez le toit de départ. Gardez le bâtiment cible complètement hors champ dans P01 ; révélez et préservez sa silhouette uniquement à partir de P02. Maintenez l'itinéraire vers la droite à travers le toit de service, les escaliers métalliques, la ruelle de débris, le mur de soutènement, l'égout circulaire, la grille et le tunnel sombre.
 
-[SPATIAL CONTINUITY LOCK]
-P01 faces C1, C2, C3, and the rightward escape route, cropping the building beyond the left edge. P02-P03 reverse to the threat. P04 returns as C2 lifts C3; C3 stays under C2's arm through P05-P08. P06 continues down the same stairs. P07-P09 preserve the alley wall and drain; P09 shows C3 safely between both girls inside.
+[VERROUILLAGE DE CONTINUITÉ SPATIALE]
+P01 fait face à C1, C2, C3 et à l'itinéraire d'évasion vers la droite, recadrant le bâtiment au-delà du bord gauche. P02-P03 inversent vers la menace. P04 revient alors que C2 soulève C3 ; C3 reste sous le bras de C2 à travers P05-P08. P06 continue dans les mêmes escaliers. P07-P09 préservent le mur de la ruelle et l'égout ; P09 montre C3 en sécurité entre les deux filles à l'intérieur.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 35mm two-shot / Offscreen buzz -> P02 / telephoto reverse / Hive eruption -> P03 / 85mm close / Undead faces -> P04 / 35mm / Drop and run -> P05 / 24mm side / Rooftop pursuit -> P06 / 28mm high angle / Stair descent -> P07 / 35mm track / Alley sprint -> P08 / 24mm low wide / Drain dive -> P09 / 50mm interior / Hold breath
-CAMERA + LENS PLAN: P01 locked two-shot facing away from hidden building -> P02 reverse telephoto reveal -> P03 threat close-up -> P04 reaction medium -> P05 fast side track -> P06 high-angle continuation -> P07 low side track -> P08 low wide crash-in -> P09 locked interior hold
-ACTION PATH: P01 buzz turns heads and C3's ears -> P02 bees fly from windows -> P03 flying leaders fill frame -> P04 swarm crosses gap in air as C2 scoops C3 -> P05 airborne chase over roof -> P06 swarm flies down stairwell -> P07 swarm dives through alley -> P08 all enter, pull grate -> P09 bees hover outside
-RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / held beat -> P02 RHY P02: burst / short block / smash beat -> P03 RHY P03: impact / short block / held beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: build / medium block / match beat -> P06 RHY P06: burst / short block / whip beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / long block / held beat
-ESCALATION MAP: P01 ESC P01: L2 tension / rise -> P02 ESC P02: L4 surge / spike -> P03 ESC P03: L5 peak / rise -> P04 ESC P04: L5 peak / unresolved -> P05 ESC P05: L5 peak / unresolved -> P06 ESC P06: L5 peak / unresolved -> P07 ESC P07: L5 peak / unresolved -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L3 rise / drop
-STATE TRACK: P01 seated / C3 beside pair / threat offscreen -> P02-P09 C4 swarm continuously airborne -> P04 launcher abandoned / C3 carried -> P05-P08 C3 under C2's arm -> P09 all three hidden / C3 safe / flying swarm outside
-STYLE TRACK: P01 sparse unease -> P02 broken silhouettes -> P03 sharp undead detail -> P04 sharp gesture -> P05 streaked graphite -> P06 angular descent -> P07 debris motion -> P08 dark threshold -> P09 quiet gray shadow
+[BANDE DU RÉALISATEUR]
+Tableau de piste animatique inférieur aligné sur les colonnes de panneaux. Pistes : LIGNE DE TEMPS, CHEMIN DE CAMÉRA, CHEMIN D'ACTION, PISTE DE RYTHME, CARTE D'ESCALADE, PISTE D'ÉTAT, PISTE DE STYLE. Utilisez des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ou d'horodatages.
+Format PISTE DE RYTHME : `RHY P## : [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+Format CARTE D'ESCALADE : `ESC P## : [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+EN-TÊTES DE PANNEAU : P01 / 35mm deux plans / Bourdonnement hors champ -> P02 / téléobjectif inverse / Éruption de la ruche -> P03 / 85mm gros plan / Visages morts-vivants -> P04 / 35mm / Lâcher et courir -> P05 / 24mm côté / Poursuite sur le toit -> P06 / 28mm angle élevé / Descente d'escalier -> P07 / 35mm piste / Sprint dans la ruelle -> P08 / 24mm large bas / Plongée dans l'égout -> P09 / 50mm intérieur / Retenir son souffle
+PLAN CAMÉRA + OBJECTIF : P01 deux plans verrouillés face à l'opposé du bâtiment caché -> P02 révélation téléobjectif inverse -> P03 gros plan sur la menace -> P04 plan moyen de réaction -> P05 piste latérale rapide -> P06 continuation en angle élevé -> P07 piste latérale basse -> P08 plan large bas crash-in -> P09 maintien intérieur verrouillé
+CHEMIN D'ACTION : P01 le bourdonnement fait tourner les têtes et les oreilles de C3 -> P02 les abeilles volent depuis les fenêtres -> P03 les leaders volants remplissent le cadre -> P04 l'essaim traverse l'espace dans les airs alors que C2 ramasse C3 -> P05 poursuite aérienne au-dessus du toit -> P06 l'essaim vole dans la cage d'escalier -> P07 l'essaim plonge dans l'air de la ruelle -> P08 tous entrent, tirent la grille -> P09 les abeilles planent à l'extérieur
+PISTE DE RYTHME : P01 RHY P01 : slow reveal / medium block / held beat -> P02 RHY P02 : burst / short block / smash beat -> P03 RHY P03 : impact / short block / held beat -> P04 RHY P04 : burst / short block / whip beat -> P05 RHY P05 : build / medium block / match beat -> P06 RHY P06 : burst / short block / whip beat -> P07 RHY P07 : build / medium block / match beat -> P08 RHY P08 : impact / short block / smash beat -> P09 RHY P09 : pause / long block / held beat
+CARTE D'ESCALADE : P01 ESC P01 : L2 tension / rise -> P02 ESC P02 : L4 surge / spike -> P03 ESC P03 : L5 peak / rise -> P04 ESC P04 : L5 peak / unresolved -> P05 ESC P05 : L5 peak / unresolved -> P06 ESC P06 : L5 peak / unresolved -> P07 ESC P07 : L5 peak / unresolved -> P08 ESC P08 : L5 peak / spike -> P09 ESC P09 : L3 rise / drop
+PISTE D'ÉTAT : P01 assis / C3 à côté de la paire / menace hors champ -> P02-P09 essaim C4 continuellement en vol -> P04 lanceur abandonné / C3 porté -> P05-P08 C3 sous le bras de C2 -> P09 tous les trois cachés / C3 en sécurité / essaim volant à l'extérieur
+PISTE DE STYLE : P01 malaise clairsemé -> P02 silhouettes brisées -> P03 détail mort-vivant net -> P04 geste net -> P05 graphite strié -> P06 descente angulaire -> P07 mouvement de débris -> P08 seuil sombre -> P09 ombre grise calme
 
-[SEQUENCE]
-Grid: 9 panels in a clean 3x3 layout with outside header strips; P01 hides the target building, P02 reveals it, P03 gives the zombie-bee close-up, then the board follows the rightward chase to concealment.
+[SÉQUENCE]
+Grille : 9 panneaux dans une disposition propre 3x3 avec des bandes d'en-tête extérieures ; P01 cache le bâtiment cible, P02 le révèle, P03 donne le gros plan sur l'abeille zombie, puis le tableau suit la poursuite vers la droite jusqu'à la dissimulation.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-First Part:
-Use @[storyboard ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[characters ref] as the authoritative character reference for C1 and C2; preserve their faces, bodies, hair, skull helmet, wardrobe, proportions, materials, and likeness, while using only the single story bazooka.
+Première partie :
+Utilisez @[storyboard ref] comme plan de storyboard faisant autorité approuvé par le réalisateur pour la séquence. Traitez chaque panneau de storyboard comme un plan consécutif au sein d'une seule séquence cinématographique. Suivez exactement l'ordre des panneaux et n'inventez pas de couverture alternative. Ne rendez pas la feuille de storyboard elle-même. Préservez le placement de la caméra, le cadrage, l'intention de l'objectif, l'échelle du plan, la mise en scène des personnages, la direction de l'écran, la géographie environnementale, le placement des accessoires, la chorégraphie de l'action, la continuité et l'escalade émotionnelle montrées par le storyboard. Le storyboard est la principale source de vérité pour la narration visuelle. Recréez la séquence filmée impliquée par les panneaux plutôt que l'œuvre physique du storyboard.
+Utilisez @[characters ref] comme référence de personnage faisant autorité pour C1 et C2 ; préservez leurs visages, corps, cheveux, casque en forme de crâne, garde-robe, proportions, matériaux et ressemblance, tout en utilisant uniquement le bazooka de l'histoire.
 
-ENVIRONMENT: Daylight on a broken rooftop above a ruined city. C1 sits left of C2, both facing screen-left. A damaged but standing target building sits far left; open ground immediately screen-right of it is the fixed miss zone. Preserve ledge, skyline, building silhouette, horizon, light, and side-view axis.
-EMOTIONAL GUIDANCE: Valence: relaxed confidence -> mild disappointment -> dry acceptance. Arousal: stillness -> controlled lift -> sharp launch -> brief impact -> quiet release. Use small head turns, restrained recoil, steady seated posture, and a long understated final hold.
-VISUAL STYLE: Polished cinematic anime matching @[characters], crisp linework, bright cel shading, tactile concrete, restrained depth, stable character detail, coherent rocket motion, compact dust, and deadpan timing.
-AUDIO: No background music or score. Use only rooftop wind, distant city ambience, cloth and metal handling, a mechanical click, launch blast, fading rocket hiss, remote ground impact, falling grit, and silence. Dialogue exactly: C1: "Can I hit it?" C2: "I think you can." Later C1: "I think I missed." C2, dry: "Yeah." No subtitles or on-screen text.
+ENVIRONNEMENT : Lumière du jour sur un toit brisé au-dessus d'une ville en ruine. C1 est assise à gauche de C2, toutes deux face à gauche de l'écran. Un bâtiment cible endommagé mais debout se trouve tout à gauche ; le terrain ouvert immédiatement à droite de celui-ci est la zone de raté fixe. Préservez la corniche, l'horizon, la silhouette du bâtiment, l'horizon, la lumière et l'axe de vue latérale.
+CONSEILS ÉMOTIONNELS : Valence : confiance détendue -> légère déception -> acceptation sèche. Éveil : immobilité -> levée contrôlée -> lancement net -> bref impact -> libération calme. Utilisez de petits mouvements de tête, un recul retenu, une posture assise stable et une longue tenue finale sous-entendue.
+STYLE VISUEL : Anime cinématographique poli correspondant à @[characters], lignes nettes, ombrage cel lumineux, béton tactile, profondeur retenue, détail de personnage stable, mouvement de roquette cohérent, poussière compacte et timing impassible.
+AUDIO : Pas de musique de fond ou de partition. Utilisez uniquement le vent sur le toit, l'ambiance de la ville lointaine, la manipulation du tissu et du métal, un clic mécanique, une explosion de lancement, un sifflement de roquette qui s'estompe, un impact au sol à distance, des graviers qui tombent et le silence. Dialogue exact : C1 : "Je peux l'atteindre ?" C2 : "Je pense que tu peux." Plus tard C1 : "Je crois que j'ai raté." C2, sèchement : "Ouais." Pas de sous-titres ou de texte à l'écran.
 
-PANEL BEATS:
-P01: Locked 24mm side-wide master. C1 sits left of C2, shoulder-to-shoulder facing screen-left, with one loaded bazooka between C1's knees. The distant target building and adjacent open miss zone are readable at far left. C1 asks, "Can I hit it?" C2 replies, "I think you can," without changing her relaxed pose. SFX: wind, distant city.
-P02: 50mm side medium. C1 lifts the single bazooka onto her shoulder and aims at the target building; C2 remains seated, eyes left. No duplicate weapon or rocket. SFX: metal handling, cloth shift, click.
-P03: 35mm side profile. C1 fires exactly one rocket straight screen-left. A short straight exhaust trail follows it; recoil moves C1's shoulder back and C2 gives one small flinch. The launcher is now empty. SFX: hard launch, hiss traveling left.
-P04: Telephoto view of the fixed target geography. The same rocket drops short and strikes only the open ground immediately screen-right of the building. A compact dust plume rises while the building remains fully standing and visibly untouched. SFX: distant impact, grit.
-P05: Return to the same seated side axis in a 50mm two-shot. C1 lowers the empty launcher slightly, watches the dust beside the intact building, and says, "Close enough." C2 barely turns her eyes and answers, "Yeah." Hold on their still posture. SFX: wind, settling debris, silence.
+TEMPS FORTS DES PANNEAUX :
+P01 : Maître latéral large verrouillé de 24 mm. C1 est assise à gauche de C2, épaule contre épaule face à gauche de l'écran, avec un bazooka chargé entre les genoux de C1. Le bâtiment cible distant et la zone de raté ouverte adjacente sont lisibles tout à gauche. C1 demande : "Je peux l'atteindre ?" C2 répond : "Je pense que tu peux," sans changer sa pose détendue. SFX : vent, ville lointaine.
+P02 : Plan moyen latéral de 50 mm. C1 soulève le bazooka unique sur son épaule et vise le bâtiment cible ; C2 reste assise, les yeux à gauche. Pas d'arme ou de roquette en double. SFX : manipulation de métal, changement de tissu, clic.
+P03 : Profil latéral de 35 mm. C1 tire exactement une roquette droit vers la gauche de l'écran. Une courte traînée d'échappement droite la suit ; le recul déplace l'épaule de C1 vers l'arrière et C2 donne un petit tressaillement. Le lanceur est maintenant vide. SFX : lancement dur, sifflement voyageant vers la gauche.
+P04 : Vue au téléobjectif de la géographie cible fixe. La même roquette tombe court et frappe uniquement le terrain ouvert immédiatement à droite du bâtiment. Un panache de poussière compact s'élève tandis que le bâtiment reste entièrement debout et visiblement intact. SFX : impact lointain, gravier.
+P05 : Retour au même axe latéral assis dans un plan à deux de 50 mm. C1 abaisse légèrement le lanceur vide, regarde la poussière à côté du bâtiment intact et dit : "Assez proche." C2 tourne à peine les yeux et répond : "Ouais." Maintenez leur posture immobile. SFX : vent, débris qui se déposent, silence.
 
 ----
 
-Second Part:
-Use @[storyboard2 ref] as the authoritative director-approved storyboard blueprint for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Do not render the storyboard sheet itself. Preserve camera placement, framing, lens intent, shot scale, character staging, screen direction, environmental geography, prop placement, action choreography, continuity and emotional escalation shown by the storyboard. The storyboard is the primary source of truth for visual storytelling. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[characters ref] as the authoritative C1, C2, and single black cat C3 reference, and @[zombee ref] as the human-sized zombie-bee C4 reference.
+Deuxième partie :
+Utilisez @[storyboard2 ref] comme plan de storyboard faisant autorité approuvé par le réalisateur pour la séquence. Traitez chaque panneau de storyboard comme un plan consécutif au sein d'une seule séquence cinématographique. Suivez exactement l'ordre des panneaux et n'inventez pas de couverture alternative. Ne rendez pas la feuille de storyboard elle-même. Préservez le placement de la caméra, le cadrage, l'intention de l'objectif, l'échelle du plan, la mise en scène des personnages, la direction de l'écran, la géographie environnementale, le placement des accessoires, la chorégraphie de l'action, la continuité et l'escalade émotionnelle montrées par le storyboard. Le storyboard est la principale source de vérité pour la narration visuelle. Recréez la séquence filmée impliquée par les panneaux plutôt que l'œuvre physique du storyboard.
+Utilisez @[characters ref] comme référence faisant autorité pour C1, C2 et le chat noir unique C3, et @[zombee ref] comme référence pour l'abeille zombie C4 à taille humaine.
 
-ENVIRONMENT: Continue after the daylight bazooka miss. In P01 the target building is completely outside the left frame and invisible; P02 reveals it for the first time. A rooftop route, stairs, alley, and round storm drain extend right. The swarm pursues left to right. The drain is dark with daylight at its grate.
-EMOTIONAL GUIDANCE: Valence: dry calm -> alarm -> relief. Arousal: stillness -> eruption -> sustained peak -> held breath. Keep C3 close to C2 throughout the escape.
-VISUAL STYLE: Polished cinematic anime matching @[characters], crisp cel shading, tactile ruins, and hundreds of human-sized undead bees matching @[zombee] flying continuously with beating wings and suspended legs. Never show bees running, walking, crawling, or grounded in pursuit.
-AUDIO: No background music or score. Use wind, distant city, first wing scratches, a rapidly multiplying diseased buzz, window debris, dropped metal, running feet, rattling stairs, swarm rush, grate scrape, tunnel drips, muffled buzzing, and silence. No dialogue, subtitles, or on-screen text.
+ENVIRONNEMENT : Continuez après le raté de bazooka en plein jour. Dans P01, le bâtiment cible est complètement en dehors du cadre gauche et invisible ; P02 le révèle pour la première fois. Un itinéraire sur le toit, des escaliers, une ruelle et un égout pluvial rond s'étendent vers la droite. L'essaim poursuit de gauche à droite. L'égout est sombre avec la lumière du jour à sa grille.
+CONSEILS ÉMOTIONNELS : Valence : calme sec -> alarme -> soulagement. Éveil : immobilité -> éruption -> pic soutenu -> souffle retenu. Gardez C3 près de C2 tout au long de l'évasion.
+STYLE VISUEL : Anime cinématographique poli correspondant à @[characters], ombrage cel net, ruines tactiles et des centaines d'abeilles mortes-vivantes à taille humaine correspondant à @[zombee] volant continuellement avec des ailes battantes et des jambes suspendues. Ne montrez jamais les abeilles en train de courir, marcher, ramper ou être au sol en poursuite.
+AUDIO : Pas de musique de fond ou de partition. Utilisez le vent, la ville lointaine, les premiers grattements d'ailes, un bourdonnement maladif qui se multiplie rapidement, des débris de fenêtre, du métal tombé, des pieds qui courent, des escaliers qui cliquettent, la ruée de l'essaim, le grattement de la grille, les gouttes du tunnel, le bourdonnement étouffé et le silence. Pas de dialogue, de sous-titres ou de texte à l'écran.
 
-PANEL BEATS:
-P01: Locked 35mm rooftop group shot. C3, the single black cat from @[characters], sits beside C1 and C2. The target building is fully beyond the left edge and invisible. Offscreen wings turn both heads and C3's ears left. SFX: scratching wings.
-P02: Reverse telephoto reveal. The building first appears as hundreds of human-sized zombie bees fly from its windows on beating wings and surge right. SFX: explosive buzz, glass.
-P03: 85mm threat close-up. Three flying leaders fill frame: corpse-pale faces, huge dead eyes, antennae, ragged cloth, bandaged limbs, and torn wings match @[zombee]; hundreds remain behind. Each is human-sized, not insect-sized or kaiju-sized. SFX: diseased wing buzz.
-P04: 35mm medium. C1 drops the bazooka as C2 scoops C3; both run while the airborne swarm flies across the rooftop gap. SFX: clatter, wing roar.
-P05: Fast 24mm side track. They sprint right with C3 secure; the swarm flies above the roof behind them. SFX: boots, buzz.
-P06: High-angle 28mm. They race down metal stairs as the swarm flies downward through the open stairwell. SFX: stair rattle, wings.
-P07: Low 35mm alley track. All three race toward the drain while the flying swarm dives through the alley air behind. SFX: footfalls, rubble.
-P08: Low 24mm wide. C2 enters carrying C3, C1 follows, and they pull the grate partly shut. SFX: scrape, rushing buzz.
-P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hover and search outside without seeing them. SFX: drips, muffled buzz, silence.
+TEMPS FORTS DES PANNEAUX :
+P01 : Plan de groupe sur le toit verrouillé de 35 mm. C3, le seul chat noir de @[characters], est assis à côté de C1 et C2. Le bâtiment cible est entièrement au-delà du bord gauche et invisible. Les ailes hors champ font tourner les deux têtes et les oreilles de C3 vers la gauche. SFX : ailes qui grattent.
+P02 : Révélation au téléobjectif inverse. Le bâtiment apparaît pour la première fois alors que des centaines d'abeilles zombies à taille humaine volent depuis ses fenêtres sur des ailes battantes et surgissent vers la droite. SFX : bourdonnement explosif, verre.
+P03 : Gros plan sur la menace de 85 mm. Trois leaders volants remplissent le cadre : visages pâles de cadavre, énormes yeux morts, antennes, tissu en lambeaux, membres bandés et ailes déchirées correspondent à @[zombee] ; des centaines restent derrière. Chacune est à taille humaine, pas à taille d'insecte ou de kaiju. SFX : bourdonnement d'ailes maladif.
+P04 : Plan moyen de 35 mm. C1 lâche le bazooka alors que C2 ramasse C3 ; les deux courent tandis que l'essaim aérien vole à travers l'espace sur le toit. SFX : fracas, rugissement d'ailes.
+P05 : Piste latérale rapide de 24 mm. Elles sprintent vers la droite avec C3 en sécurité ; l'essaim vole au-dessus du toit derrière elles. SFX : bottes, bourdonnement.
+P06 : Angle élevé de 28 mm. Elles courent dans les escaliers métalliques alors que l'essaim vole vers le bas à travers la cage d'escalier ouverte. SFX : cliquetis d'escalier, ailes.
+P07 : Piste de ruelle de 35 mm basse. Tous les trois courent vers l'égout tandis que l'essaim volant plonge à travers l'air de la ruelle derrière. SFX : pas, décombres.
+P08 : Plan large bas de 24 mm. C2 entre en portant C3, C1 suit, et elles tirent la grille partiellement fermée. SFX : grattement, bourdonnement précipité.
+P09 : Maintien intérieur de 50 mm verrouillé. C1 et C2 s'accroupissent avec C3 en sécurité entre elles ; les abeilles planent et cherchent à l'extérieur sans les voir. SFX : gouttes, bourdonnement étouffé, silence.
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K abonnés
@@ -1097,19 +1097,24 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 12. 精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们…
+### 12. Le défi athlétique d'Anubis et Sobek
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065932892753326503_0_poster.jpg" width="480" alt="精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065932892753326503_0_poster.jpg" width="480" alt="Le défi athlétique d'Anubis et Sobek"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-精细的手绘动画，80年代复古OVA风格。场景一：在埃及皇家宫殿内，强大的胡狼神阿努比斯和强大的鳄鱼神索贝克并肩而立，共同举起一块巨石，他们神情紧绷，全神贯注地努力保持巨石在头顶上方。一位人类法老缓缓走在他们面前，双手背在身后，注视着他们，观察着谁能将巨石举得更久。法老说道：“你们之中只有一人能陪我执行下一个任务，只有最强者。”阿努比斯和索贝克相距一米，法老站在他们面前。场景二：索贝克突然灵光一闪，脸上浮现出一丝狡黠的笑容。他微微侧头看向阿努比斯，脸上带着一丝狡黠的微笑，尾巴尖伸向阿努比斯的腋窝。阿努比斯依然目视前方，全然不顾周围的一切，一心只想举起头顶的巨石。场景3：特写镜头展现索贝克的尾巴尖轻柔地、流畅地拂过阿努比斯的腋窝，背景中传来阿努比斯压抑的笑声，表明他非常怕痒。场景4：特写镜头展现阿努比斯的上半身，索贝克的尾巴尖持续轻柔地拂过阿努比斯的腋窝，阿努比斯闭着眼睛，咧嘴大笑，发出压抑的笑声，竭尽全力地举起头顶的巨石。场景5：索贝克的尾巴尖继续挠着阿努比斯的腋窝，阿努比斯闭着眼睛，发出响亮的笑声。腋下挠痒痒的戏码还在继续，阿努比斯哈哈大笑，然后扔掉身后的巨石，抱紧自己，挠痒痒的感觉就此消失。阿努比斯跌倒在地，仍然因为刚才的笑声而捧腹大笑，抱紧自己。索贝克头顶还举着巨石，满意地看着这一切。场景6：人类法老向索贝克点点头，说道：“看来你就是那个人。”此时阿努比斯还躺在地上，因为刚才的笑声而咯咯地笑着。索贝克和阿努比斯都肌肉发达。他们都戴着臂环。阿努比斯还戴着颈环。他们的声音都浑厚有力。语音为英文。
+Animation dessinée à la main détaillée, style OVA rétro des années 80. Scène 1 : Dans un palais royal égyptien, le puissant dieu chacal Anubis et le puissant dieu crocodile Sobek se tiennent côte à côte, soulevant ensemble un énorme rocher. Ils ont l'air tendus, concentrés sur l'effort de maintenir le rocher au-dessus de leurs têtes. Un Pharaon humain marche lentement devant eux, les mains derrière le dos, les observant pour voir qui pourra tenir le rocher le plus longtemps. Le Pharaon dit : « Un seul d'entre vous pourra m'accompagner pour la prochaine mission, seul le plus fort. » Anubis et Sobek sont séparés d'un mètre, le Pharaon se tient devant eux.
+Scène 2 : Sobek a soudain une idée, un sourire malicieux apparaît sur son visage. Il tourne légèrement la tête vers Anubis avec un sourire rusé, et le bout de sa queue s'étire vers l'aisselle d'Anubis. Anubis regarde toujours droit devant lui, totalement indifférent à ce qui l'entoure, concentré uniquement sur le rocher au-dessus de sa tête.
+Scène 3 : Un gros plan montre le bout de la queue de Sobek effleurant doucement et fluidement l'aisselle d'Anubis, tandis qu'un rire étouffé d'Anubis se fait entendre en arrière-plan, révélant qu'il est très chatouilleux.
+Scène 4 : Un gros plan montre le haut du corps d'Anubis, le bout de la queue de Sobek continue de chatouiller doucement son aisselle, Anubis a les yeux fermés, il rit aux éclats, émettant des rires étouffés tout en faisant de son mieux pour maintenir le rocher au-dessus de sa tête.
+Scène 5 : Le bout de la queue de Sobek continue de chatouiller l'aisselle d'Anubis, Anubis a les yeux fermés et rit bruyamment. La scène de chatouilles sous les aisselles continue, Anubis éclate de rire, puis lâche le rocher derrière lui, se serre contre lui-même, et la sensation de chatouille disparaît. Anubis tombe au sol, toujours en train de rire aux éclats à cause de la sensation précédente, se tenant les côtes. Sobek tient toujours le rocher au-dessus de sa tête, regardant la scène avec satisfaction.
+Scène 6 : Le Pharaon humain fait un signe de tête à Sobek et dit : « Il semble que ce soit toi l'élu. » À ce moment, Anubis est toujours allongé au sol, gloussant encore à cause du rire précédent. Sobek et Anubis sont tous deux très musclés. Ils portent tous deux des brassards. Anubis porte également un collier. Leurs voix sont profondes et puissantes. Audio en anglais.
 ```
 
 **Par** [migrok ✓](https://x.com/migrok293703) (@migrok293703) · 4.2K abonnés
@@ -1122,93 +1127,93 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 13. 【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Mat…
+### 13. Montage flash promotionnel intense pour la Coupe du Monde
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065808507912229305_0_poster.jpg" width="480" alt="【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Mat…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065808507912229305_0_poster.jpg" width="480" alt="Montage flash promotionnel intense pour la Coupe du Monde"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-【风格】世界杯热血宣传片（FIFA Hype Reel），动感快闪卡点（Kinetic Typography + Whip-Pan Match Cut），电视演播室级画质，8K超清，高帧率
+[Style] Bande-annonce intense pour la Coupe du Monde (FIFA Hype Reel), montage dynamique et rythmé (Kinetic Typography + Whip-Pan Match Cut), qualité studio TV, 8K ultra-HD, fréquence d'images élevée
 
-【时长】15秒
+[Durée] 15 secondes
 
-【场景】新闻演播室开场，随后依次切入六张国家主题海报场景，每个场景严格还原参考图对应分格的人物、服装、配色与背景版式，全程满幅单画面输出，禁止出现分屏、网格、白色边框
+[Scènes] Ouverture en studio d'information, suivie de six scènes d'affiches thématiques nationales. Chaque scène doit respecter strictement les personnages, costumes, couleurs et mises en page de l'image de référence. Sortie plein écran uniquement, pas d'écran divisé, de grille ou de bordures blanches.
 
-【角色】@ 为七格拼图参考：第一行左=主持人、第一行右=巴西；第二行左=美国、中=阿根廷、右=法国；第三行左=加拿大、右=墨西哥。每个镜头只取对应一格
+[Personnages] @ Référence de la grille 7 cases : 1ère ligne gauche=Présentateur, 1ère ligne droite=Brésil ; 2ème ligne gauche=États-Unis, centre=Argentine, droite=France ; 3ème ligne gauche=Canada, droite=Mexique. Chaque plan ne prend qu'une seule case.
 
-[00:00-00:03] 镜头1：演播室开场
+[00:00-00:03] Plan 1 : Ouverture en studio
 
-中景：主持人格。她抬头看向镜头，手持平板抬手一挥，笑容展开，身后大屏体育场画面缓缓推近。
+Plan moyen : Case du présentateur. Elle regarde vers la caméra, tient une tablette, fait un geste de la main, sourit, tandis que l'image du stade sur l'écran géant derrière elle s'approche lentement.
 
-【台词/对白口型指导】英文播报，口型清晰："The World Cup has begun — choose your hero team!"
+[Directives de synchronisation labiale] Annonce en anglais, lèvres claires : "The World Cup has begun — choose your hero team!"
 
-特效：金色粒子从大屏中喷涌而出汇聚成"FIFA WORLD CUP"立体字悬浮在她身前，镜头猛然向右甩动（Whip Pan），粒子拉成光轨带入下一场景。
+Effets : Des particules dorées jaillissent de l'écran pour former le texte 3D "FIFA WORLD CUP" flottant devant elle, la caméra effectue un mouvement brusque vers la droite (Whip Pan), les particules forment une traînée lumineuse menant à la scène suivante.
 
-[00:03-00:05] 镜头2：巴西
+[00:03-00:05] Plan 2 : Brésil
 
-中景：巴西格。人物双手合十后猛然展开，肩膀随桑巴节奏摆动，辫子甩动，碎金亮片从她指尖炸开。
+Plan moyen : Case du Brésil. Le personnage joint les mains puis les écarte brusquement, ses épaules bougent au rythme de la samba, ses tresses volent, des paillettes dorées explosent du bout de ses doigts.
 
-特效：背景"BRAZIL"立体大字带运动模糊从纵深处冲向镜头（3D Text Fly-through），黄绿颜料在空中泼洒成流体拖尾。
+Effets : Le texte 3D "BRAZIL" en arrière-plan fonce vers la caméra avec un flou de mouvement (3D Text Fly-through), de la peinture jaune et verte éclabousse l'air en traînées fluides.
 
-【旁白】"Brazil!"
+[Voix off] "Brazil!"
 
-转场：她向镜头抛出一道黄绿光带，光带缠绕镜头旋转一周（Lens Roll）甩入下一格。
+Transition : Elle lance une traînée de lumière jaune et verte vers la caméra, la traînée tourne autour de l'objectif (Lens Roll) et bascule dans la case suivante.
 
-[00:05-00:07] 镜头3：美国
+[00:05-00:07] Plan 3 : États-Unis
 
-中景：美国格。光带落下化作足球进入她手中，她将球向上抛起又稳稳接住，抬手敬礼眨眼。
+Plan moyen : Case des États-Unis. La traînée lumineuse tombe et se transforme en ballon de football dans ses mains, elle lance le ballon en l'air, le rattrape, salue et fait un clin d'œil.
 
-特效：背景"USA"与"SOCCER"红白立体字分别从左右两侧呼啸交错而过（Crossing Kinetic Text），尾部拖出星条火花流。
+Effets : Les textes 3D rouges et blancs "USA" et "SOCCER" passent en trombe de gauche à droite (Crossing Kinetic Text), laissant derrière eux des étincelles étoilées.
 
-【旁白】"USA!"
+[Voix off] "USA!"
 
-转场：足球被她轻轻一拨飞向镜头，球面占满画面瞬间切换（Match Cut on Ball）。
+Transition : Le ballon est légèrement poussé vers la caméra, la surface du ballon remplit l'écran pour une transition instantanée (Match Cut on Ball).
 
-[00:07-00:09] 镜头4：阿根廷
+[00:07-00:09] Plan 4 : Argentine
 
-中景：阿根廷格。镜头从球面拉开，球已在她怀中，她低头亲吻足球再抬头举球，王冠折射出星芒。
+Plan moyen : Case de l'Argentine. La caméra s'éloigne de la surface du ballon, le ballon est dans ses bras, elle l'embrasse, relève la tête, la couronne reflète des étoiles.
 
-特效：背景"ARGENTINA"蓝白立体字逐字母弹跳落位（Letter-by-Letter Bounce），每个字母落地激起蓝白光尘，金色彩带螺旋飘落。
+Effets : Le texte 3D bleu et blanc "ARGENTINA" rebondit lettre par lettre (Letter-by-Letter Bounce), chaque lettre soulevant de la poussière lumineuse bleue et blanche, des rubans dorés tombent en spirale.
 
-【旁白】"Argentina!"
+[Voix off] "Argentina!"
 
-转场：彩带在镜头前汇成漩涡，漩涡转白化作漫天飞雪（Particle Morph）。
+Transition : Les rubans forment un tourbillon devant la caméra, le tourbillon devient blanc et se transforme en neige (Particle Morph).
 
-[00:09-00:11] 镜头5：加拿大
+[00:09-00:11] Plan 5 : Canada
 
-中景：加拿大格。雪花飘落，人物抱球转身，抬手拍掉帽檐积雪，呼出白气，雪粒在逆光中闪烁。
+Plan moyen : Case du Canada. La neige tombe, le personnage tourne avec le ballon, époussette la neige de son bonnet, souffle de la buée, les flocons scintillent en contre-jour.
 
-特效：背景"CANADA"红色立体字破雪而出向前推进，巨型枫叶旋转着掠过前景带起雪雾。
+Effets : Le texte 3D rouge "CANADA" émerge de la neige vers l'avant, une feuille d'érable géante passe au premier plan en tournoyant, soulevant un nuage de neige.
 
-【旁白】"Canada!"
+[Voix off] "Canada!"
 
-转场：枫叶旋转放大占满画面，红色化为烈焰火星（Color Morph）。
+Transition : La feuille d'érable tourne et remplit l'écran, le rouge se transforme en étincelles de feu (Color Morph).
 
-[00:11-00:13] 镜头6：墨西哥
+[00:11-00:13] Plan 6 : Mexique
 
-中景：墨西哥格。火星散开，人物单手托球，另一只手潇洒压草帽帽檐致意，咧嘴大笑。
+Plan moyen : Case du Mexique. Les étincelles se dispersent, le personnage porte le ballon d'une main, ajuste son sombrero de l'autre, rit aux éclats.
 
-特效：背景"MEXICO"绿白红立体字带故障抖动逐层撞入（Glitch Slam），每次撞击伴随画面轻微震屏，红色火星粒子四溅。
+Effets : Le texte 3D vert, blanc et rouge "MEXICO" percute l'écran avec un effet de glitch (Glitch Slam), chaque impact secoue légèrement l'écran, des particules de feu rouge s'éparpillent.
 
-【旁白】"Mexico!"
+[Voix off] "Mexico!"
 
-转场：草帽边缘扬起的金色尘粒在镜头前散开化作香槟色光斑（Bokeh Bloom）。
+Transition : La poussière dorée soulevée par le bord du sombrero se disperse devant la caméra en taches de lumière champagne (Bokeh Bloom).
 
-[00:13-00:15] 镜头7：法国收尾
+[00:13-00:15] Plan 7 : Conclusion France
 
-中景：法国格。光斑落定，人物优雅举起红酒杯向镜头轻轻致意微笑，埃菲尔铁塔灯光闪烁。
+Plan moyen : Case de la France. Les taches lumineuses se stabilisent, le personnage lève élégamment son verre de vin, sourit, les lumières de la Tour Eiffel scintillent.
 
-特效：背景"FRANCE"立体字缓滑入定，金色大力神杯从画面右下升起绽放光芒，六国国名化作环形光带绕杯旋转一周后定格。
+Effets : Le texte 3D "FRANCE" glisse doucement, le trophée doré de la Coupe du Monde monte en bas à droite et brille, les noms des six pays forment une ceinture lumineuse tournant autour du trophée avant de se figer.
 
-【旁白】"France! ...Who's your hero?"
+[Voix off] "France! ...Who's your hero?"
 
-结尾：画面定格，金色字幕"2026 FIFA WORLD CUP"浮现，配观众欢呼声浪。
+Fin : L'image se fige, le texte doré "2026 FIFA WORLD CUP" apparaît, accompagné des acclamations de la foule.
 ```
 
 **Par** [John ✓](https://x.com/johnAGI168) (@johnAGI168) · 9.1K abonnés
@@ -1221,252 +1226,252 @@ P09: Locked 50mm inside. C1 and C2 crouch with C3 safely between them; bees hove
 
 ---
 
-### 14. FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT…
+### 14. Diffusion cinématographique de la Coupe du Monde de la FIFA 2026
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065367937616339052_0_poster.jpg" width="480" alt="FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065367937616339052_0_poster.jpg" width="480" alt="Diffusion cinématographique de la Coupe du Monde de la FIFA 2026"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-FIFA WORLD CUP 2026, FULL 60-SECOND CINEMATIC BROADCAST VIDEO PROMPT
-"ONE WORLD. ONE GAME."
+COUPE DU MONDE DE LA FIFA 2026, PROMPT VIDÉO DE DIFFUSION CINÉMATOGRAPHIQUE COMPLÈTE DE 60 SECONDES
+"UN MONDE. UN JEU."
 
-Aspect Ratio: 16:9 | Ultra-realistic FIFA broadcast style | Camp Nou packed stadium | Live TV sports cinematography
-GLOBAL STYLE RULES (APPLY THROUGHOUT)
-Ultra-realistic FIFA World Cup 2026 live broadcast
-Camp Nou stadium fully packed (90,000+ crowd)
+Format d'image : 16:9 | Style de diffusion FIFA ultra-réaliste | Stade Camp Nou comble | Cinématographie sportive télévisée en direct
+RÈGLES DE STYLE MONDIALES (À APPLIQUER PARTOUT)
+Diffusion en direct ultra-réaliste de la Coupe du Monde de la FIFA 2026
+Stade Camp Nou entièrement rempli (plus de 90 000 spectateurs)
 
-Authentic national teams on pitch during anthem ceremony
-Real stadium acoustics: chants, roars, drums, whistles
-FIFA/UEFA-level broadcast camera movement (drone, crane, telephoto, handheld broadcast cams)
-Natural skin texture, realistic lighting, sweat, fabric detail
-No CGI look — must feel like real TV broadcast
-SCENE 1 (0:00–0:05)
-Drone Dive Into Camp Nou
-Ultra-wide aerial drone shot over Barcelona at sunset.
+Équipes nationales authentiques sur le terrain pendant la cérémonie de l'hymne
+Acoustique réelle du stade : chants, rugissements, tambours, sifflets
+Mouvement de caméra de diffusion de niveau FIFA/UEFA (drone, grue, téléobjectif, caméras de diffusion portatives)
+Texture de peau naturelle, éclairage réaliste, sueur, détails du tissu
+Pas d'aspect CGI — doit ressembler à une vraie diffusion télévisée
+SCÈNE 1 (0:00–0:05)
+Plongée de drone dans le Camp Nou
+Prise de vue aérienne ultra grand angle au-dessus de Barcelone au coucher du soleil.
 
-Action:
-Drone dives rapidly toward Camp Nou glowing under stadium lights
+Action :
+Le drone plonge rapidement vers le Camp Nou brillant sous les projecteurs du stade
 
-Enters stadium roof opening into roaring crowd
+Entre par l'ouverture du toit du stade dans la foule en délire
 
-Massive energy eruption from fans
+Éruption massive d'énergie des supporters
 
-Camera:
-FPV drone descent
-Fast cinematic motion
+Caméra :
+Descente de drone FPV
+Mouvement cinématographique rapide
 
-Broadcast stabilization
+Stabilisation de diffusion
 
-Sound:
-Thunderous crowd roar
-Wind rush
+Son :
+Rugissement tonitruant de la foule
+Souffle du vent
 
-Stadium anthem beginning
+Début de l'hymne du stade
 
-SCENE 2 (0:05–0:10)
-World Teams on Pitch
-Wide cinematic stadium shot.
-Action:
-ALL World Cup 2026 national teams lined up on pitch
+SCÈNE 2 (0:05–0:10)
+Équipes mondiales sur le terrain
+Prise de vue cinématographique large du stade.
+Action :
+TOUTES les équipes nationales de la Coupe du Monde 2026 alignées sur le terrain
 
-Players standing for national anthem
+Joueurs debout pour l'hymne national
 
-Flags held by children walking across field
+Drapeaux tenus par des enfants marchant sur le terrain
 
-Confetti cannons ready
-Camera:
-Slow crane pan
-Broadcast zoom-in
+Canons à confettis prêts
+Caméra :
+Panoramique lent à la grue
+Zoom de diffusion
 
-Sound:
+Son :
 
-National anthem
-Crowd singing emotionally
+Hymne national
+Foule chantant avec émotion
 
-SCENE 3 (0:10–0:15)
+SCÈNE 3 (0:10–0:15)
 
-Argentina Fan Introduction
-Medium close-up.
-Appearance:
-Argentinian woman
+Introduction d'une supportrice argentine
+Plan moyen rapproché.
+Apparence :
+Femme argentine
 
-Argentina jersey
+Maillot de l'Argentine
 
-Flag face paint (cheeks)
+Peinture faciale aux couleurs du drapeau (joues)
 
-Lanyard accreditation card
-Sitting cross-legged
-Action:
-Looking upward, slightly right
-Subtle hair touch
+Carte d'accréditation avec cordon
+Assise en tailleur
+Action :
+Regardant vers le haut, légèrement à droite
+Toucher subtil des cheveux
 
-Emotional gaze tracking match
+Regard émotionnel suivant le match
 
-Camera:
-Slow push-in
-Shallow depth of field
+Caméra :
+Zoom avant lent
+Faible profondeur de champ
 
-Sound:
+Son :
 
-Anthem + crowd hum
-SCENE 4 (0:15–0:20)
+Hymne + bourdonnement de la foule
+SCÈNE 4 (0:15–0:20)
 
-Germany Fan Reaction
+Réaction d'un supporter allemand
 
-Action:
-Blonde German fan takes sip of beer
-Watches match calmly
+Action :
+Supporter allemand blond prend une gorgée de bière
+Regarde le match calmement
 
-Lowers cup reacting slightly
+Baisse sa tasse en réagissant légèrement
 
-Camera:
-Broadcast telephoto shot
-Dialogue:
+Caméra :
+Prise de vue au téléobjectif de diffusion
+Dialogue :
 
-"That was a close one…"
+"C'était moins une…"
 
-SCENE 5 (0:20–0:25)
+SCÈNE 5 (0:20–0:25)
 
-Mexico Fan + Boyfriend
-Action:
+Supportrice mexicaine + petit ami
+Action :
 
-Eating sandwich
-Reacts while watching field
+Mange un sandwich
+Réagit en regardant le terrain
 
-Turns to boyfriend
+Se tourne vers son petit ami
 
-Dialogue:
-"Mexico is playing so well today."
-Boyfriend: "We’ve got this!"
+Dialogue :
+"Le Mexique joue si bien aujourd'hui."
+Petit ami : "On va y arriver !"
 
-SCENE 6 (0:25–0:30)
-Netherlands Fan
-Action:
+SCÈNE 6 (0:25–0:30)
+Supportrice néerlandaise
+Action :
 
-Eating waffle
-Fully focused on match
+Mange une gaufre
+Entièrement concentrée sur le match
 
-Subtle anticipation
+Anticipation subtile
 
-No camera awareness
-SCENE 7 (0:30–0:35)
-South Africa Fan
+Pas de conscience de la caméra
+SCÈNE 7 (0:30–0:35)
+Supportrice sud-africaine
 
-Action:
+Action :
 
-Holding drink cup
-Adjusts hair near ear
+Tient un gobelet
+Ajuste ses cheveux près de l'oreille
 
-Thoughtful expression
+Expression pensive
 
-SCENE 8 (0:35–0:40)
-England Fan
-Action:
-Eating crispy chicken nugget
-Reacts to near chance
+SCÈNE 8 (0:35–0:40)
+Supporter anglais
+Action :
+Mange un nugget de poulet croustillant
+Réagit à une occasion manquée
 
-Slight lean forward
+Légère inclinaison vers l'avant
 
-SCENE 9 (0:40–0:45)
-Brazil Fan Explosion
-Action:
-Sudden emotional reaction
-Mouth open cheering
+SCÈNE 9 (0:40–0:45)
+Explosion d'un supporter brésilien
+Action :
+Réaction émotionnelle soudaine
+Bouche ouverte en train de crier
 
-Dialogue:
+Dialogue :
 
-"BRAZIL!! BRAZIL IS WINNING!"
-Camera:
+"BRÉSIL !! LE BRÉSIL GAGNE !"
+Caméra :
 
-Fast push-in
-High energy shake
+Zoom avant rapide
+Secousse haute énergie
 
-SCENE 10 (0:45–0:49)
+SCÈNE 10 (0:45–0:49)
 
-USA Fan Reaction
-Action:
-Points toward field
-Excited reaction
+Réaction d'un supporter américain
+Action :
+Montre le terrain du doigt
+Réaction excitée
 
-Dialogue:
+Dialogue :
 
-"Did you see that?"
-Friend: "That was incredible!"
+"Tu as vu ça ?"
+Ami : "C'était incroyable !"
 
-SCENE 11 (0:49–0:52)
-Belgium Fan (NEW CUT)
-Action:
+SCÈNE 11 (0:49–0:52)
+Supportrice belge (NOUVEAU COUPURE)
+Action :
 
-Shock reaction to near goal
-Hand over mouth
+Réaction de choc face à un but manqué de peu
+Main sur la bouche
 
-Then stunned smile
+Puis sourire stupéfait
 
-Whispers:
-"No way… that was so close!"
-Camera:
+Chuchote :
+"Pas possible… c'était si proche !"
+Caméra :
 
-Tight emotional close-up
-SCENE 12 (0:52–0:56)
+Gros plan émotionnel serré
+SCÈNE 12 (0:52–0:56)
 
-Global Montage Burst
+Montage mondial explosif
 
-Rapid cuts:
-Argentina cheering
-Germany raising cup
+Coupes rapides :
+Argentine en liesse
+Allemagne soulevant la coupe
 
-Mexico flags waving
+Drapeaux du Mexique agités
 
-Netherlands applause
-South Africa smiling
-England reacting
-Brazil chanting
-USA celebrating
-Stadium-wide crowd wave
-Camera:
-Fast broadcast cuts
-Slow-motion flashes
+Applaudissements des Pays-Bas
+Afrique du Sud souriante
+Angleterre réagissant
+Brésil chantant
+États-Unis célébrant
+La ola dans tout le stade
+Caméra :
+Coupes de diffusion rapides
+Flashs au ralenti
 
-Aerial stadium sweep
+Balayage aérien du stade
 
-Sound:
-Crowd reaches peak roar
-SCENE 13 (0:56–1:00)
+Son :
+La foule atteint son rugissement maximal
+SCÈNE 13 (0:56–1:00)
 
-Portugal Fan Finale
+Finale d'une supportrice portugaise
 
-Ultra-cinematic close-up.
-Action:
-Sitting cross-legged
+Gros plan ultra-cinématographique.
+Action :
+Assise en tailleur
 
-Ties hair into ponytail
+Attache ses cheveux en queue de cheval
 
-Refocuses intensely on match
+Se reconcentre intensément sur le match
 
-Calm, determined expression
-Camera:
-Slow push-in
-Golden stadium glow
+Expression calme et déterminée
+Caméra :
+Zoom avant lent
+Lueur dorée du stade
 
-Lens flare
+Reflet d'objectif
 
-Final Text:
-FOOTBALL SPEAKS EVERY LANGUAGE
-FIFA WORLD CUP 2026
+Texte final :
+LE FOOTBALL PARLE TOUTES LES LANGUES
+COUPE DU MONDE DE LA FIFA 2026
 
-ONE WORLD. ONE GAME.
+UN MONDE. UN JEU.
 
-Sound:
-Orchestral crescendo
-Stadium roar unity
+Son :
+Crescendo orchestral
+Unité du rugissement du stade
 
-FADE OUT.
+FONDU AU NOIR.
 ```
 
 **Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K abonnés
@@ -1479,103 +1484,103 @@ FADE OUT.
 
 ---
 
-### 15. “SUBJECTS Painter: adult painter wearing a paint-stained apron, posit…
+### 15. Le peintre et la goutte de peinture vivante
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065303182432170349_0_poster.jpg" width="480" alt="“SUBJECTS Painter: adult painter wearing a paint-stained apron, posit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065303182432170349_0_poster.jpg" width="480" alt="Le peintre et la goutte de peinture vivante"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-“SUBJECTS
-Painter: adult painter wearing a paint-stained apron, positioned beside a long wooden art table, using a large flat paint brush and palette knife to trap a living paint blob. Starts calm and controlled, then becomes increasingly panicked and messy.
+“SUJETS
+Peintre : peintre adulte portant un tablier taché de peinture, positionné à côté d'une longue table d'art en bois, utilisant un large pinceau plat et un couteau à palette pour piéger une goutte de peinture vivante. Commence calmement et de manière contrôlée, puis devient de plus en plus paniqué et désordonné.
 
-Paint Blob: palm-sized living blob made of glossy blue and orange paint, always moving low across the art table, sliding and hopping forward to the right while performing stretch-and-squash dodges, sudden stops, quick direction changes, and smug gestures. Leaves realistic wet paint trails.
+Goutte de peinture : goutte vivante de la taille d'une paume faite de peinture bleue et orange brillante, se déplaçant toujours bas sur la table d'art, glissant et sautant vers la droite tout en effectuant des esquives par étirement et écrasement, des arrêts soudains, des changements de direction rapides et des gestes suffisants. Laisse des traînées de peinture humide réalistes.
 
-ENVIRONMENT
-Messy art studio with one long wooden worktable showing clear depth.
-Objects on the table: paint tubes, glass jars, brushes, water cup, sketchbooks, color palette, small canvas frames, cloth rags.
-Large blank canvas standing at the far end of the table.
-Window is closed.
-All mess and damage should accumulate naturally through the scene.
+ENVIRONNEMENT
+Atelier d'art désordonné avec une longue table de travail en bois montrant une profondeur claire.
+Objets sur la table : tubes de peinture, bocaux en verre, pinceaux, pot d'eau, carnets de croquis, palette de couleurs, petits cadres de toile, chiffons.
+Grande toile vierge debout à l'extrémité de la table.
+La fenêtre est fermée.
+Tout le désordre et les dommages doivent s'accumuler naturellement tout au long de la scène.
 
 STYLE
-Realistic 3D animated short film.
-Playful physical comedy.
-Strong object physics.
-Glossy wet paint material.
-Fast but readable action.
-Cinematic lighting with colorful paint splashes.
+Court-métrage d'animation 3D réaliste.
+Comédie physique ludique.
+Forte physique des objets.
+Matériau de peinture humide brillante.
+Action rapide mais lisible.
+Éclairage cinématographique avec des éclaboussures de peinture colorées.
 
-CAMERA DETAILS
-Main POV is a low close-following rear perspective behind the paint blob, moving forward across the table.
-The painter’s brush attacks mostly enter from above and from the sides.
-Only one brief frontal confrontation near the end.
-Use wide-angle lens feeling during the chase for speed and chaos.
+DÉTAILS DE LA CAMÉRA
+Le POV principal est une perspective arrière rapprochée suivant de près la goutte de peinture, se déplaçant vers l'avant sur la table.
+Les attaques au pinceau du peintre viennent principalement d'en haut et des côtés.
+Une seule brève confrontation frontale vers la fin.
+Utilisez une sensation d'objectif grand angle pendant la poursuite pour la vitesse et le chaos.
 
-TIMELINE
+CHRONOLOGIE
 
 0:00-0:02
-Medium shot, 35mm, slow push-in.
-The painter calmly paints on a canvas while softly humming.
-A small paint blob quietly forms inside an open paint cup on the table.
-The blob blinks, looks around, then slides out.
-The painter notices the movement and slowly stops humming.
+Plan moyen, 35mm, zoom avant lent.
+Le peintre peint calmement sur une toile en fredonnant doucement.
+Une petite goutte de peinture se forme tranquillement à l'intérieur d'un pot de peinture ouvert sur la table.
+La goutte cligne des yeux, regarde autour d'elle, puis glisse vers l'extérieur.
+Le peintre remarque le mouvement et arrête lentement de fredonner.
 
-SFX: soft humming, tiny wet paint movement, quiet studio ambience.
+SFX : fredonnement doux, mouvement de peinture humide minuscule, ambiance d'atelier calme.
 
 0:02-0:04
-Low-angle tracking shot, 28mm.
-The paint blob suddenly accelerates to the right across the table.
-The painter lunges forward and makes the first controlled brush swipe.
-The brush misses and smacks a paint tube, making it squeeze paint across the table.
-The blob dodges by stretching flat and sliding under the brush.
+Plan de suivi en contre-plongée, 28mm.
+La goutte de peinture accélère soudainement vers la droite sur la table.
+Le peintre se précipite vers l'avant et effectue le premier coup de pinceau contrôlé.
+Le pinceau manque sa cible et frappe un tube de peinture, le faisant gicler sur la table.
+La goutte esquive en s'étirant à plat et en glissant sous le pinceau.
 
-SFX: wet slide, brush slap, paint tube squeeze, quick gasp.
+SFX : glissement humide, coup de pinceau, pression du tube de peinture, halètement rapide.
 
 0:04-0:10
-POV shot, 20mm, close-follow high-speed movement behind the paint blob.
-The camera continuously advances forward without looking back.
-The blob performs serpentine dodges, sudden stops, hops over brushes, slides around jars, and leaves colorful trails.
-The painter’s brush and palette knife keep attacking from above and the sides.
-Every missed hit realistically strikes table objects:
-paint jars roll,
-brushes scatter,
-water cup spills,
-paint tubes burst,
-sketchbook pages flip open,
-canvas frames shake.
-The chaos should keep building and stay visible.
+Plan POV, 20mm, mouvement à grande vitesse suivant de près la goutte de peinture.
+La caméra avance continuellement sans regarder en arrière.
+La goutte effectue des esquives serpentines, des arrêts soudains, saute par-dessus des pinceaux, glisse autour des bocaux et laisse des traînées colorées.
+Le pinceau et le couteau à palette du peintre continuent d'attaquer d'en haut et des côtés.
+Chaque coup manqué frappe de manière réaliste les objets de la table :
+les bocaux de peinture roulent,
+les pinceaux s'éparpillent,
+le pot d'eau se renverse,
+les tubes de peinture éclatent,
+les pages du carnet de croquis se tournent,
+les cadres de toile tremblent.
+Le chaos doit continuer à se construire et rester visible.
 
-SFX: rapid wet sliding, brush impacts, glass rolling, paint splats, water spill, object collisions.
+SFX : glissement humide rapide, impacts de pinceau, verre qui roule, éclaboussures de peinture, déversement d'eau, collisions d'objets.
 
 0:10-0:12
-POV slows down.
-The large blank canvas appears ahead.
-The paint blob stops at the edge of the table, turns to face the painter directly, forms a tiny smug face, and waves with a little paint arm.
-The painter freezes for half a second, furious and breathless.
+Le POV ralentit.
+La grande toile vierge apparaît devant.
+La goutte de peinture s'arrête au bord de la table, se tourne pour faire face directement au peintre, forme un minuscule visage suffisant et fait signe avec un petit bras de peinture.
+Le peintre se fige pendant une demi-seconde, furieux et à bout de souffle.
 
-SFX: sudden silence, tiny sticky blob sound, breath pause.
+SFX : silence soudain, petit son de goutte collante, pause respiratoire.
 
 0:12-0:14
-Medium push-in shot.
-The painter throws the large brush toward the blob.
-After release, the painter’s hand is clearly empty.
-The brush misses the blob and hits the canvas frame.
-A paint bucket tips over, creating a huge colorful splash.
-The blob dives into the blank canvas and becomes a tiny painted character inside the artwork.
+Plan moyen en zoom avant.
+Le peintre lance le grand pinceau vers la goutte.
+Après le lancer, la main du peintre est clairement vide.
+Le pinceau manque la goutte et frappe le cadre de la toile.
+Un seau de peinture se renverse, créant une énorme éclaboussure colorée.
+La goutte plonge dans la toile vierge et devient un minuscule personnage peint à l'intérieur de l'œuvre.
 
-SFX: air whoosh, brush impact, bucket tip, huge paint splash.
+SFX : sifflement d'air, impact de pinceau, basculement de seau, énorme éclaboussure de peinture.
 
 0:14-0:15
-Wide static shot.
-The painter stands with empty hands, staring at the entire studio table now covered in spilled paint, scattered brushes, overturned jars, and ruined sketches.
-On the canvas, the little paint blob smiles from inside the painting.
-The painter pauses, then lets out a frustrated breakdown scream.”
+Plan large statique.
+Le peintre se tient les mains vides, fixant toute la table de l'atelier maintenant couverte de peinture renversée, de pinceaux éparpillés, de bocaux renversés et de croquis ruinés.
+Sur la toile, la petite goutte de peinture sourit depuis l'intérieur du tableau.
+Le peintre fait une pause, puis laisse échapper un cri de frustration.”
 ```
 
 **Par** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K abonnés
@@ -1588,75 +1593,75 @@ The painter pauses, then lets out a frustrated breakdown scream.”
 
 ---
 
-### 16. Créer une image 16:9. [FICHE PROJET] Créer un en-tête compact, pas un…
+### 16. Bad Taste : Séquence d'ingestion par un monstre
 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Créer une image 16:9. [FICHE PROJET] Créer un en-tête compact, pas un…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2065183900255543733_0_poster.jpg" width="480" alt="Bad Taste : Séquence d'ingestion par un monstre"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Créer une image 16:9.
+Créez une image au format 16:9.
 
 [FICHE PROJET]
-Créer un en-tête compact, pas un tableau.
+Créez un en-tête compact, pas un tableau.
 TITRE : BAD TASTE
-LIGNE MÉTA : terreur absurde -> horreur-comédie burlesque / plan-séquence fixe
-PRIORITÉ : cadrage fixe identique sur tous les panneaux ; le gag se lit à travers les changements dans un cadre immobile
-BRÈVE : une fille est seule dans un cadre fixe ; un monstre en peluche géant surgit derrière elle, l'avale tout rond, échoue à la digérer et la recrache couverte de bave.
+LIGNE MÉTADONNÉE : terreur absurde -> horreur comique burlesque / plan fixe unique
+PRIORITÉ : cadrage fixe identique sur tous les panneaux ; le gag se lit par le changement à l'intérieur d'un cadre immobile
+BRÈVE DESCRIPTION : une jeune fille est seule dans un cadre fixe ; un monstre en peluche géant s'élève derrière elle, l'avale tout entière, ne parvient pas à la digérer et la recrache couverte de bave.
 
 [EN-TÊTE DE CONTINUITÉ]
 ID SÉQUENCE : GULP-01
 PRIORITÉ DE RÉFÉRENCE : la référence d'identité contrôle l'identité des personnages ; ce storyboard contrôle la mise en scène, le mouvement, la géographie, la continuité.
 
-[PACKET DE SCÈNE]
-PRÉMISSE : une caméra fixe observe une fille se faire avaler tout rond par un monstre en peluche géant en patchwork et recracher quand son estomac se rebelle.
-LIEU : sol en pierre plate fissurée, arrière-plan plat vide, pas de murs, pas d'accessoires ; les surfaces utilisables sont uniquement le plan du sol ; le monstre occupe tout l'arrière-plan quand il est présent.
-DÉBUT -> FIN : C1 est seule au centre du cadre, posture ennuyée, monstre absent -> C2 s'affaisse nauséeux en arrière-plan, C1 étalée au centre au premier plan trempée de longs fils de bave, le cadre reste inchangé.
-CHAÎNE D'ACTION : calme vide -> C2 s'élève derrière la ligne de sol remplissant l'arrière-plan -> les mâchoires plongent et engloutissent C1 en une bouchée -> bouche fermée, la gorge et le ventre gonflent pendant que C2 travaille à avaler -> le visage de C2 s'aigrit, les joues se gonflent, le corps se soulève de nausée -> C2 a des haut-le-cœur et éjecte C1 vers l'avant ; C1 atterrit dégoulinante, des fils de bave la reliant à la bouche ouverte.
-ÉTAT ACCESSOIRE / EFFET : la bave/salive est l'effet clé : absente P01-P02, fils à l'intérieur des mâchoires P03, filet coulant des lèvres scellées P04, fuite importante P05, projection massive plus fils et flaque autour de C1 en P06 ; vêtements de C1 secs P01-P03, trempés et collés P06.
-À LIRE : la caméra ne bouge jamais ; seuls le monstre et la fille changent dans un cadre fixe identique.
+[PAQUET DE SCÈNE]
+PRÉMISSE : une caméra fixe observe une jeune fille se faire avaler tout entière par un monstre en peluche patchwork géant et être recrachée lorsque son estomac se rebelle.
+LIEU : sol en pierre plate fissurée, arrière-plan plat et vide, pas de murs, pas d'accessoires ; les surfaces utilisables sont uniquement le plancher ; le monstre occupe tout l'arrière-plan lorsqu'il est présent.
+DÉBUT -> FIN : C1 est seule au centre du cadre, posture ennuyée, monstre absent -> C2 s'affaisse, nauséeux en arrière-plan, C1 étalée au centre au premier plan, trempée de filets de bave épais, le cadre reste inchangé.
+CHAÎNE D'ACTION : calme vide -> C2 s'élève derrière la ligne du sol remplissant l'arrière-plan -> les mâchoires plongent et engloutissent C1 en une bouchée -> bouche fermée, la gorge et le ventre se gonflent tandis que C2 essaie d'avaler -> le visage de C2 se crispe, les joues se gonflent, le corps se soulève de nausée -> C2 a des haut-le-cœur et éjecte C1 vers l'avant ; C1 atterrit dégoulinante, des filets de bave la reliant à la bouche ouverte.
+ÉTAT ACCESSOIRE / EFFET : la bave/salive est l'effet clé : absente P01-P02, filets à l'intérieur des mâchoires P03, goutte à goutte des lèvres scellées P04, fuite importante P05, projection massive plus filets et flaque autour de C1 en P06 ; vêtements de C1 secs P01-P03, trempés et collés P06.
+À LIRE : la caméra ne bouge jamais ; seuls le monstre et la jeune fille changent à l'intérieur d'un cadre fixe identique.
 
-[DÉSINFECTION DES PERSONNAGES]
-C1 : jeune femme, silhouette mince et petite, très longs cheveux en couettes, t-shirt graphique large sur short, chaussettes hautes dépareillées, baskets à plateforme épaisses, pansements adhésifs sur le visage et les jambes, posture avachie et impassible, mouvement léger et lâche.
-C2 : monstre en peluche patchwork rond colossal, corps plus large que le cadre, pièces de tissu cousues dépareillées, deux cornes rayées trapues, un œil bouton plat à gauche, un œil droit à pupille fendue large, énorme bouche aux grandes dents émoussées et dentelées, pattes griffues trapues, mouvement lourd et pataud.
-Supprimer les traits contradictoires, la psychologie invisible, les détails de costume excessifs et l'historique qui ne peut pas apparaître dans un panneau.
+[ASSAINISSEMENT DES PERSONNAGES]
+C1 : jeune femme, silhouette mince et petite, très longs cheveux en couettes, t-shirt graphique large sur short, chaussettes hautes dépareillées, baskets à plateforme épaisses, pansements sur le visage et les jambes, posture avachie et impassible, mouvement léger et lâche.
+C2 : monstre en peluche patchwork rond et colossal, corps plus large que le cadre, patchs de tissu cousus dépareillés, deux cornes rayées trapues, un œil bouton plat à gauche, un œil droit à pupille fendue large, énorme bouche aux dents émoussées et dentelées, pattes griffues trapues, mouvement lourd et lent.
+Supprimez les traits contradictoires, la psychologie invisible, les détails de costume excessifs et les antécédents qui ne peuvent pas apparaître dans un panneau.
 
 [COHÉRENCE D'IDENTITÉ]
-La référence d'identité contrôle le visage, le corps, la garde-robe et les proportions des deux personnages ; garder les ID de C1 et C2, les silhouettes, la garde-robe, les accessoires clés et les positions à l'écran cohérents sur tous les panneaux ; C1 reste au centre du cadre, C2 remplit l'arrière-plan ; ne pas redessiner ou fusionner les personnages.
+La référence d'identité contrôle le visage, le corps, la garde-robe et les proportions des deux personnages ; gardez les ID, silhouettes, garde-robes, accessoires clés et positions à l'écran de C1 et C2 cohérents sur tous les panneaux ; C1 reste au centre du cadre, C2 remplit l'arrière-plan ; ne redessinez pas et ne fusionnez pas les personnages.
 
 [PURETÉ DU STORYBOARD]
-Les images des panneaux sont des croquis bruts monochromes gris clair, visuels uniquement, peu détaillés. Mettre les numéros de panneau, les noms des temps forts et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, étiquettes, flèches, légendes, sous-titres, logos, filigranes, marques de temps, diagrammes, interface utilisateur, poses fantômes, corps en double ou superpositions techniques à l'intérieur des panneaux.
+Les images des panneaux sont des croquis bruts monochromes gris clair, sans détails. Mettez les numéros de panneau, les noms des temps forts et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, d'étiquettes, de flèches, de légendes, de sous-titres, de logos, de filigranes, de marques de temps, de diagrammes, d'interface utilisateur, de poses fantômes, de corps en double ou de superpositions techniques à l'intérieur des panneaux.
 
 [RÈGLE DU PLAN MAÎTRE]
-Le panneau 01 est le maître : géographie complète du cadre fixe, C1 petite au centre sur la ligne de sol, arrière-plan vide, hauteur sous plafond généreuse où C2 s'élèvera plus tard. Chaque panneau suivant conserve cette géographie exacte.
+Le panneau 01 est le maître : géographie complète du cadre fixe, C1 petite au centre sur la ligne du sol, arrière-plan vide, espace généreux au-dessus de la tête où C2 s'élèvera plus tard. Chaque panneau suivant conserve cette géographie exacte.
 
 [ARC ÉMOTIONNEL]
-immobilité ennuyée -> terreur imminente -> engloutissement violent -> déglutition tendue et inconfortable -> dégoût et nausée croissants -> rejet comique désordonné ; lire à travers la posture relâchée de C1 s'effaçant dans le contraste d'échelle, les changements d'yeux et de joues de C2, et l'état de bave croissant dans un cadre inchangé.
+immobilité ennuyée -> terreur imminente -> engloutissement violent -> déglutition tendue et difficile -> dégoût et nausée croissants -> rejet comique désordonné ; lecture à travers la posture relâchée de C1 s'évanouissant dans le contraste d'échelle, les changements d'yeux et de joues de C2, et l'état de bave croissant dans un cadre inchangé.
 
 [VERROUILLAGE DE STYLE]
-STYLE : le style vidéo final est une illustration anime patchwork vibrante : traits sombres audacieux, palette saturée cyan-magenta-violet-jaune, texture de tissu cousu sur le monstre, détail grunge vieilli, arrière-plan cyan solide plat, éclairage graphique plat avec un ombrage minimal.
-EFFET : la bave se lit comme des fils et des cordes visqueux, épais et brillants avec des reflets doux, extensibles et lourds, jamais de brume ou de particules de pulvérisation ; épaisseur et comportement filandreux cohérents sur tous les panneaux.
-ENVIRONNEMENT : sol en pierre plate fissurée et arrière-plan plat simple uniquement ; pas de refonte de décor, pas d'accessoires ajoutés, pas de changement d'horizon ; mêmes fissures au sol dans chaque panneau.
+VERROUILLAGE DE STYLE : le style vidéo final est une illustration anime patchwork vibrante : traits sombres audacieux, palette saturée cyan-magenta-violet-jaune, texture de tissu cousu sur le monstre, détails grunge usés, arrière-plan cyan solide plat, éclairage graphique plat avec ombrage minimal.
+VERROUILLAGE D'EFFET : la bave se lit comme des filets visqueux épais et brillants avec des reflets doux, extensibles et lourds, jamais de brume ou de particules de pulvérisation ; épaisseur et comportement filandreux cohérents sur tous les panneaux.
+VERROUILLAGE D'ENVIRONNEMENT : sol en pierre plate fissurée et arrière-plan plat uniquement ; pas de refonte du décor, pas d'accessoires ajoutés, pas de changement d'horizon ; mêmes fissures au sol dans chaque panneau.
 
 [VERROUILLAGE DE CONTINUITÉ SPATIALE]
 P01 à P06 partagent une configuration de caméra fixe identique : même angle frontal large et bas, même objectif, même cadrage, même ligne de sol, même motif de fissures, zéro mouvement de caméra, zéro coupe. Aucun panneau n'est un nouveau plan d'établissement. Ancres verrouillées : marque au sol centrale de C1, fissures au sol, arrière-plan plat, bords du cadre. Seuls changements autorisés : C2 entrant/remplissant l'arrière-plan, poses des personnages, état bouche ouverte/fermée, état de la bave, C1 visible/à l'intérieur/éjectée, dommages et humidité sur C1.
 
 [BANDE DU RÉALISATEUR]
-Tableau de piste animatique inférieur aligné sur les colonnes des panneaux. Pistes : LIGNE DE TEMPS, TRAJECTOIRE CAMÉRA, TRAJECTOIRE ACTION, PISTE RYTHME, CARTE ESCALADE, PISTE ÉTAT, PISTE STYLE. Utiliser des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ou d'horodatages.
-FORMAT PISTE RYTHME : `RHY P## : [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-FORMAT CARTE ESCALADE : `ESC P## : [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-EN-TÊTES PANNEAU : P01 / 24mm large / Maître vide -> P02 / 24mm large / Le monstre s'élève -> P03 / 24mm large / Avalé en une bouchée -> P04 / 24mm large / Effort pour digérer -> P05 / 24mm large / Nausée -> P06 / 24mm large / Finale recrachée
+Tableau de suivi animatique inférieur aligné sur les colonnes des panneaux. Pistes : LIGNE DE TEMPS, TRAJECTOIRE CAMÉRA, TRAJECTOIRE ACTION, PISTE RYTHME, CARTE ESCALADE, PISTE ÉTAT, PISTE STYLE. Utilisez des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ou d'horodatages.
+Format PISTE RYTHME : `RHY P## : [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+Format CARTE ESCALADE : `ESC P## : [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+EN-TÊTES DE PANNEAU : P01 / 24mm large / Maître vide -> P02 / 24mm large / Le monstre s'élève -> P03 / 24mm large / Engloutissement en une bouchée -> P04 / 24mm large / Effort pour digérer -> P05 / 24mm large / Nausée -> P06 / 24mm large / Finale du rejet
 PLAN CAMÉRA + OBJECTIF : P01 fixe large bas, même objectif -> P02 même cadre fixe, maintien -> P03 même cadre fixe, maintien -> P04 même cadre fixe, maintien -> P05 même cadre fixe, maintien -> P06 même cadre fixe, maintien final
-TRAJECTOIRE ACTION : P01 C1 se tient relâchée au centre, seule -> P02 C2 surgit derrière la ligne de sol, remplissant l'arrière-plan au-dessus de C1, mâchoires s'ouvrant -> P03 les mâchoires ouvertes de C2 s'abattent sur C1, l'avalant en une bouchée, fils de bave claquant -> P04 bouche scellée, C2 debout, gorge et ventre gonflés pendant qu'il avale et broie -> P05 les joues de C2 se gonflent, les yeux se crispent et pleurent, le corps se courbe vers l'avant de nausée, la bave coule à travers les dents -> P06 C2 a des haut-le-cœur et éjecte C1 vers l'avant ; C1 atterrit étalée au centre au premier plan couverte de bave, des fils épais s'étirant vers la bouche ouverte de C2
+TRAJECTOIRE ACTION : P01 C1 debout relâchée au centre, seule -> P02 C2 émerge de derrière la ligne du sol, remplissant l'arrière-plan au-dessus de C1, mâchoires s'ouvrant -> P03 les mâchoires ouvertes de C2 s'abattent sur C1, l'avalant en une bouchée, filets de bave se rompant -> P04 bouche scellée, C2 debout, gorge et ventre se gonflant pendant qu'il avale et broie -> P05 les joues de C2 se gonflent, les yeux se crispent et larmoient, le corps se courbe vers l'avant de nausée, bave s'écoulant à travers les dents -> P06 C2 a des haut-le-cœur et éjecte C1 vers l'avant ; C1 atterrit étalée au centre au premier plan couverte de bave, filets épais s'étirant vers la bouche grande ouverte de C2 alors qu'il s'affaisse, malade
 PISTE RYTHME : P01 RHY : hold / medium block / held beat -> P02 RHY : slow reveal / medium block / held beat -> P03 RHY : burst / short block / smash beat -> P04 RHY : pause / long block / held beat -> P05 RHY : build / medium block / match beat -> P06 RHY : final hit / short block / smash beat
 CARTE ESCALADE : P01 ESC : L1 calm / flat -> P02 ESC : L2 tension / rise -> P03 ESC : L4 surge / spike -> P04 ESC : L3 rise / flat -> P05 ESC : L4 surge / rise -> P06 ESC : L5 peak / release
-PISTE ÉTAT : P01 C1 sèche, cadre vide derrière -> P02 C2 entre en arrière-plan, C1 inconsciente -> P03 C1 dans les mâchoires, fils de bave actifs -> P04 C1 cachée, état gonflé, filet aux lèvres -> P05 gonflement élevé, fuite importante, visage nauséeux -> P06 C1 éjectée trempée, flaque de bave, C2 affaissé malade
-PISTE STYLE : P01 calme cyan plat -> P02 masse patchwork menaçante -> P03 pic de mâchoire -> P04 gonflement tendu -> P05 signal teinte verte nauséeuse -> P06 finale bave brillante
+PISTE ÉTAT : P01 C1 sèche, cadre vide derrière -> P02 C2 entre en arrière-plan, C1 inconsciente -> P03 C1 dans les mâchoires, filets de bave actifs -> P04 C1 cachée, état gonflé, goutte à goutte des lèvres -> P05 gonflement élevé, fuite importante, visage nauséeux -> P06 C1 éjectée trempée, flaque de bave, C2 affaissé malade
+PISTE STYLE : P01 cyan plat calme -> P02 masse patchwork menaçante -> P03 pic de mâchoire -> P04 gonflement tendu -> P05 signal de teinte verte nauséeuse -> P06 finale bave brillante
 
 [SÉQUENCE]
 Grille : 6 panneaux dans une grille 3x2 ; un seul plan continu fixe échantillonné en six phases, cadrage identique dans chaque panneau, aucune coupe.
@@ -1666,25 +1671,25 @@ Grille : 6 panneaux dans une grille 3x2 ; un seul plan continu fixe échantillon
 
 ```
 Utilisez @[storyboard ref] comme plan directeur approuvé par le réalisateur pour la séquence. Traitez chaque panneau de storyboard comme un plan consécutif au sein d'une séquence cinématographique unique. Suivez l'ordre des panneaux exactement et n'inventez pas de couverture alternative. Ne rendez pas la feuille de storyboard elle-même. Préservez le placement de la caméra, le cadrage, l'intention de l'objectif, l'échelle du plan, la mise en scène des personnages, la direction à l'écran, la géographie environnementale, le placement des accessoires, la chorégraphie de l'action, la continuité et l'escalade émotionnelle montrées par le storyboard. Le storyboard est la source principale de vérité pour la narration visuelle. Recréez la séquence filmée impliquée par les panneaux plutôt que l'œuvre physique du storyboard.
-La vidéo entière est un plan fixe continu sans coupes visibles ; la caméra ne bouge jamais, ne panote pas, ne zoome pas et ne tremble pas ; chaque panneau est une phase échantillonnée du même cadre immobile.
+La vidéo entière est un plan continu fixe sans coupes visibles ; la caméra ne bouge jamais, ne panote pas, ne zoome pas et ne tremble pas ; chaque panneau est une phase échantillonnée du même cadre immobile.
 Utilisez un objectif virtuel / caméra fixe avec le même objectif.
 Utilisez @[ref image] comme référence de personnage faisant autorité pour C1, la fille aux couettes cyan, et C2, le monstre en peluche patchwork géant.
 
-ENVIRONNEMENT : sol en pierre plate fissurée, arrière-plan cyan solide simple, pas d'accessoires ; la marque au sol de C1 reste au centre du cadre, mêmes fissures au sol tout au long ; C2 remplit l'arrière-plan quand il est présent.
+ENVIRONNEMENT : sol en pierre plate fissurée, arrière-plan cyan uni, pas d'accessoires ; la marque au sol de C1 reste au centre du cadre, mêmes fissures au sol tout au long ; C2 remplit l'arrière-plan lorsqu'il est présent.
 
-GUIDANCE ÉMOTIONNELLE : Valence : de neutre ennuyé à menaçant puis soulagement comique dégoûté. Éveil : faible et immobile, culminant lors de l'avalement, mijotant pendant la digestion, montant lors de la nausée, se relâchant dans un calme impassible ; montré par la posture, les changements d'yeux et de joues de C2, le mouvement de gonflement et l'état de la bave pendant que le cadre reste immobile.
+GUIDANCE ÉMOTIONNELLE : Valence : neutre ennuyé vers menaçant vers soulagement comique dégoûté. Éveil : bas et immobile, augmentant lors de l'ingestion, mijotant pendant la digestion, montant en flèche lors de la nausée, se relâchant dans un calme impassible ; montré par la posture, les changements d'yeux et de joues de C2, le mouvement de gonflement et l'état de la bave pendant que le cadre reste immobile.
 
-STYLE VISUEL : illustration anime patchwork vibrante correspondant à @[ref image] : traits sombres audacieux, palette saturée cyan-magenta-violet-jaune, texture de tissu cousu sur le monstre, détail grunge vieilli, éclairage graphique plat, ombrage minimal ; la bave est constituée de fils visqueux épais et brillants avec des reflets doux.
+STYLE VISUEL : illustration anime patchwork vibrante correspondant à @[ref image] : traits sombres audacieux, palette saturée cyan-magenta-violet-jaune, texture de tissu cousu sur le monstre, détails grunge usés, éclairage graphique plat, ombrage minimal ; la bave est constituée de filets visqueux épais et brillants avec des reflets doux.
 
-AUDIO : Pas de musique de fond ou de partition. Uniquement ambiance diégétique, bruitages, impacts, texture et silence : vent léger, bruits de tissu, déglutitions humides, gargouillis, un énorme haut-le-cœur, bave qui éclabousse.
+AUDIO : Pas de musique de fond ou de partition. Uniquement de l'ambiance diégétique, bruitages, impacts, texture et silence : vent léger, bruits de tissu, déglutitions humides, gargouillis, un énorme haut-le-cœur, bave qui éclabousse.
 
 TEMPS FORTS DES PANNEAUX :
-P01 : Cadre large bas fixe ; C1 se tient seule au centre, avachie et oisive, le poids se déplaçant légèrement ; arrière-plan vide ; vent léger.
-P02 : Même cadre ; C2 s'élève silencieusement derrière la ligne de sol, sa masse patchwork remplissant l'arrière-plan au-dessus de C1 ; les mâchoires commencent à s'ouvrir ; C1 ne réagit pas ; craquement de tissu léger.
-P03 : Les mâchoires ouvertes de C2 s'abattent sur C1 et il l'avale tout rond en une bouchée rapide ; les fils de bave claquent ; la bouche se referme violemment ; impact humide lourd.
-P04 : C2 est assis droit, bouche scellée, gorge et ventre gonflés et se déplaçant pendant qu'il avale et broie ; gargouillis étouffés ; la bave coule de ses lèvres.
-P05 : Ses joues se gonflent, les yeux se crispent et pleurent, le corps se courbe vers l'avant en proie à la nausée ; la bave fuit à travers ses dents ; gémissement montant.
-P06 : C2 a des haut-le-cœur et éjecte C1 vers l'avant ; elle atterrit étalée au centre au premier plan trempée de bave, des fils épais s'étirant vers sa bouche grande ouverte pendant qu'il s'affaisse nauséeux derrière elle ; éclaboussure, puis silence immobile.
+P01 : Cadre large bas fixe ; C1 est seule au centre, avachie et oisive, le poids se déplaçant légèrement ; arrière-plan vide ; vent léger.
+P02 : Même cadre ; C2 s'élève silencieusement de derrière la ligne du sol, sa masse patchwork remplissant l'arrière-plan au-dessus de C1 ; les mâchoires commencent à s'ouvrir ; C1 ne réagit pas ; léger craquement de tissu.
+P03 : Les mâchoires ouvertes de C2 s'abattent sur C1 et il l'avale tout entière en une bouchée rapide ; les filets de bave se rompent ; la bouche se referme brutalement ; impact humide lourd.
+P04 : C2 est assis droit, bouche scellée, gorge et ventre se gonflant et bougeant pendant qu'il avale et broie ; gargouillis étouffés ; la bave coule de ses lèvres.
+P05 : Ses joues se gonflent, ses yeux se crispent et larmoient, son corps se courbe vers l'avant, soulevé par la nausée ; la bave s'écoule à travers ses dents ; gémissement montant.
+P06 : C2 a des haut-le-cœur et éjecte C1 vers l'avant ; elle atterrit étalée au centre au premier plan trempée de bave, des filets épais s'étirant vers sa bouche grande ouverte alors qu'il s'affaisse, nauséeux derrière elle ; éclaboussure, puis silence immobile.
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K abonnés
@@ -1697,109 +1702,107 @@ P06 : C2 a des haut-le-cœur et éjecte C1 vers l'avant ; elle atterrit étalée
 
 ---
 
-### 17. GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…
+### 17. Storyboard du duel sur le rivage au sabre blanc
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="GPT Image 2 Prompt for storyboard: Create a 16:9 image. [PROJECT CARD…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Storyboard du duel sur le rivage au sabre blanc"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-GPT Image 2 Prompt for storyboard:
-Create a 16:9 image.
+GPT Image 2 Prompt pour le storyboard :
+Créez une image 16:9.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: WHITE SABER SHORELINE DUEL
-META LINE: night forest / sci-fi saber action / misty shoreline combat escalation
-PRIORITY: preserve C1 identity, grounded craft geography, C2 droid silhouette, white saber defense, red blaster trajectories, wet shoreline reflections, repeated saber deflections, and final chassis collapse.
-MICRO BRIEF: Begin with C1 igniting her white saber, then show her advancing through a Droideka-type droid's blaster storm, deflecting many incoming bolts, and cutting through the droid beneath its chassis.
+[FICHE PROJET]
+Créez un en-tête compact, pas un tableau.
+TITRE : WHITE SABER SHORELINE DUEL
+LIGNE MÉTADONNÉE : forêt nocturne / action de sabre sci-fi / escalade du combat sur rivage brumeux
+PRIORITÉ : préserver l'identité de C1, la géographie du terrain, la silhouette du droïde C2, la défense au sabre blanc, les trajectoires des tirs de blaster rouges, les reflets sur le rivage humide, les déviations répétées du sabre et l'effondrement final du châssis.
+BRÈVE MICRO : Commencez par C1 allumant son sabre blanc, puis montrez-la avançant à travers la tempête de tirs d'un droïde de type Droideka, déviant de nombreux tirs entrants et tranchant le droïde sous son châssis.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
-REFERENCE PRIORITY: First provided image controls C1 face, body, wardrobe, proportions, silhouette, hair, attitude, and white saber role. Second provided image controls night forest shoreline, grounded white craft, trunks, water edge, practical lights, wet reflections, and playable geography. Third provided image controls C2 Droideka-type combat droid shape, red shell, black optic cluster, tripod legs, twin blasters, exposed lower mechanisms, and aggressive mechanical posture. This storyboard controls staging, motion, camera, continuity, combat rhythm, and effect logic.
+[EN-TÊTE DE CONTINUITÉ]
+ID DE SÉQUENCE : JEDDICA_DROIDEKA_SHORELINE_DUEL_15P
+PRIORITÉ DE RÉFÉRENCE : La première image fournie contrôle le visage, le corps, la garde-robe, les proportions, la silhouette, les cheveux, l'attitude et le rôle du sabre blanc de C1. La deuxième image fournie contrôle le rivage de la forêt nocturne, le vaisseau blanc au sol, les troncs, le bord de l'eau, les lumières pratiques, les reflets humides et la géographie jouable. La troisième image fournie contrôle la forme du droïde de combat de type Droideka C2, la coque rouge, le groupe optique noir, les jambes tripodes, les blasters jumeaux, les mécanismes inférieurs exposés et la posture mécanique agressive. Ce storyboard contrôle la mise en scène, le mouvement, la caméra, la continuité, le rythme du combat et la logique des effets.
 
-[SCENE PACKET]
-PREMISE: On a misty forest shoreline beside a grounded craft, C1 turns a droid ambush into a precise white-saber advance through red blaster fire.
-LOCATION: Dark forest lake edge, tall trunks behind, grounded white craft screen right, shallow water foreground, wet sand center, shoreline mist, low practical craft lights, forest edge as C2 entry line, open combat lane between C1 and C2.
-START -> END: C1 ignites her white saber near the waterline -> C2 unfolds, fires, advances, absorbs reflected hits, and collapses into the shoreline after C1 cuts its exposed underside.
-ACTION CHAIN: white saber ignition -> droid unfolds and opens fire -> first volley closes -> C1 pivots into shallow water -> white saber deflects bolts -> C2 changes angle and intensifies barrage -> C1 advances while repeatedly redirecting fire -> overhead bolt storm -> C2 lunges forward -> reflected plasma staggers armor -> saber reflections mark water -> portrait pause -> one-direction barrage from C2 meets C1's defensive saber cage -> flank burst -> final underside cut and collapse.
-PROP / EFFECT STATE: One white energy saber in C1 hand; red blaster bolts originate from C2 twin cannons; C1 repeatedly deflects the bolts with her white saber; reflected bolts travel back across the battlefield; sparks, shoreline spray, mist trails, water hiss, and final shattered droid components remain visually readable.
-MUST READ: A calm white-saber fighter stays centered inside a red blaster storm, using repeated defensive arcs to close distance and end the droid at point blank range.
+[PAQUET DE SCÈNE]
+PRÉMISSE : Sur un rivage forestier brumeux à côté d'un vaisseau au sol, C1 transforme une embuscade de droïdes en une avancée précise au sabre blanc à travers un tir de blaster rouge.
+LIEU : Bord de lac forestier sombre, grands troncs derrière, vaisseau blanc au sol à droite de l'écran, eau peu profonde au premier plan, sable humide au centre, brume de rivage, lumières pratiques basses du vaisseau, lisière de forêt comme ligne d'entrée de C2, voie de combat ouverte entre C1 et C2.
+DÉBUT -> FIN : C1 allume son sabre blanc près de la ligne d'eau -> C2 se déploie, tire, avance, absorbe les tirs réfléchis et s'effondre sur le rivage après que C1 a coupé sa partie inférieure exposée.
+CHAÎNE D'ACTION : allumage du sabre blanc -> le droïde se déploie et ouvre le feu -> la première salve se rapproche -> C1 pivote dans l'eau peu profonde -> le sabre blanc dévie les tirs -> C2 change d'angle et intensifie le barrage -> C1 avance tout en redirigeant le feu à plusieurs reprises -> tempête de tirs aériens -> C2 se précipite vers l'avant -> le plasma réfléchi fait vaciller l'armure -> les reflets du sabre marquent l'eau -> pause portrait -> barrage unidirectionnel de C2 rencontrant la cage défensive du sabre de C1 -> rafale de flanc -> coupe finale sous le châssis et effondrement.
+ÉTAT DES ACCESSOIRES / EFFETS : Un sabre d'énergie blanc dans la main de C1 ; les tirs de blaster rouges proviennent des canons jumeaux de C2 ; C1 dévie à plusieurs reprises les tirs avec son sabre blanc ; les tirs réfléchis retournent sur le champ de bataille ; étincelles, embruns du rivage, traînées de brume, sifflement de l'eau et composants de droïde brisés finaux restent visuellement lisibles.
+À LIRE ABSOLUMENT : Une combattante au sabre blanc calme reste centrée dans une tempête de tirs de blaster rouges, utilisant des arcs défensifs répétés pour réduire la distance et mettre fin au droïde à bout portant.
 
-[CHARACTER SANITIZATION]
-C1: young adult woman, short tousled blonde hair, compact athletic silhouette, cropped white poncho-like mantle over wrapped top, beige hanging sash, dark loose cropped trousers, boots, fingerless gloves, belt gear, single white energy saber, fierce stillness shifting into fast footwork and tight blade control.
-C2: Droideka-type combat droid, round red-and-cream armored upper body, glossy black optic cluster with red eyes, tripod legs, twin side blasters, exposed central underside mechanisms, mechanical lunging posture, no face change or humanoid redesign.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[ASSAINISSEMENT DES PERSONNAGES]
+C1 : jeune femme adulte, cheveux blonds courts ébouriffés, silhouette athlétique compacte, manteau court type poncho blanc sur haut enveloppé, écharpe beige suspendue, pantalon sombre ample et court, bottes, gants sans doigts, équipement de ceinture, sabre d'énergie blanc unique, calme féroce se transformant en jeu de jambes rapide et contrôle serré de la lame.
+C2 : droïde de combat de type Droideka, haut du corps blindé rouge et crème, groupe optique noir brillant avec yeux rouges, jambes tripodes, blasters latéraux jumeaux, mécanismes centraux inférieurs exposés, posture de fente mécanique, pas de changement de visage ni de refonte humanoïde.
+Supprimez les traits contradictoires, la psychologie invisible, les détails de costume excessifs et l'histoire qui ne peuvent pas apparaître dans un panneau.
 
-[IDENTITY CONSISTENCY]
-Provided C1 reference controls face, body, wardrobe, proportions, hair, and silhouette; provided environment reference controls setting anchors; provided droid reference controls C2 silhouette and mechanical design. Keep C1's white mantle, beige sash, dark pants, boots, gloves, belt, and single white saber consistent. Keep C2's round upper shell, black optic cluster, tripod stance, twin cannons, and exposed underside consistent. Do not redesign, age-shift, beautify, merge, duplicate, or add extra sabers or extra droids.
+[COHÉRENCE DE L'IDENTITÉ]
+La référence C1 fournie contrôle le visage, le corps, la garde-robe, les proportions, les cheveux et la silhouette ; la référence d'environnement fournie contrôle les ancres de réglage ; la référence de droïde fournie contrôle la silhouette et la conception mécanique de C2. Gardez le manteau blanc, l'écharpe beige, le pantalon sombre, les bottes, les gants, la ceinture et le sabre blanc unique de C1 cohérents. Gardez la coque supérieure ronde, le groupe optique noir, la position tripode, les canons jumeaux et le dessous exposé de C2 cohérents. Ne pas redessiner, changer l'âge, embellir, fusionner, dupliquer ou ajouter des sabres ou des droïdes supplémentaires.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[PURETÉ DU STORYBOARD]
+Les images des panneaux sont des croquis monochromes gris clair, visuels et peu détaillés. Mettez les numéros de panneau, les noms de temps et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, d'étiquettes, de flèches, de légendes, de sous-titres, de logos, de filigranes, de marques de temps, de diagrammes, d'interface utilisateur, de poses fantômes, de corps dupliqués ou de superpositions techniques à l'intérieur des panneaux.
 
-[MASTER SHOT RULE]
-P02 shows full playable geography: C1 near wet shoreline foreground/center-left, grounded craft screen right, lake foreground, forest edge background, C2 unfolding beyond shoreline, and a clear combat lane between them.
+[RÈGLE DU PLAN MAÎTRE]
+P02 montre la géographie jouable complète : C1 près du rivage humide au premier plan/centre-gauche, vaisseau au sol à droite de l'écran, premier plan du lac, arrière-plan de la lisière de la forêt, C2 se déployant au-delà du rivage, et une voie de combat claire entre eux.
 
-[EMOTIONAL ARC]
-Ignition decision -> mechanical threat reveal -> first danger spike -> controlled defense -> repeated saber deflections -> escalating pressure -> close-range resolve -> final impact, shown through C1 eye-line, blade height, footwork, cloak snap, droid posture, closing distance, and collapse.
+[ARC ÉMOTIONNEL]
+Décision d'allumage -> révélation de la menace mécanique -> premier pic de danger -> défense contrôlée -> déviations répétées du sabre -> pression croissante -> résolution à courte portée -> impact final, montré à travers la ligne de vue de C1, la hauteur de la lame, le jeu de jambes, le claquement de la cape, la posture du droïde, la fermeture de la distance et l'effondrement.
 
-[STYLE LOCKS]
-STYLE LOCK: clean monochrome rough-sketch storyboard panels on off-white paper, light-gray gesture lines, simplified forest/craft/water/droid forms, crisp panel hierarchy, restrained white-saber and red-blaster accent only outside panel artwork.
-EFFECT LOCK: inside panels, white saber arcs, red blaster bolts, deflection sparks, spray, mist, reflections, and shattered parts are simple monochrome bright shapes only; final video effect uses white saber bloom against saturated red bolts, wet reflections, plasma sparks, shoreline spray, and smoke wisps.
-ENVIRONMENT LOCK: tall vertical trunks, grounded white craft screen right, shallow lake foreground, wet sand and waterline center, dark foliage pockets, mist layer, practical craft lights, and forest edge entry path remain stable across wide and overhead views.
+[VERROUILLAGES DE STYLE]
+VERROUILLAGE DE STYLE : panneaux de storyboard de croquis monochromes propres sur papier blanc cassé, lignes de geste gris clair, formes simplifiées de forêt/vaisseau/eau/droïde, hiérarchie de panneaux nette, accents de sabre blanc et de blaster rouge restreints uniquement à l'extérieur de l'illustration du panneau.
+VERROUILLAGE D'EFFET : à l'intérieur des panneaux, les arcs de sabre blanc, les tirs de blaster rouges, les étincelles de déviation, les embruns, la brume, les reflets et les pièces brisées sont uniquement des formes lumineuses monochromes simples ; l'effet vidéo final utilise une floraison de sabre blanc contre des tirs rouges saturés, des reflets humides, des étincelles de plasma, des embruns de rivage et des traînées de fumée.
+VERROUILLAGE D'ENVIRONNEMENT : grands troncs verticaux, vaisseau blanc au sol à droite de l'écran, premier plan de lac peu profond, sable humide et ligne d'eau au centre, poches de feuillage sombre, couche de brume, lumières pratiques du vaisseau et chemin d'entrée de la lisière de la forêt restent stables à travers les vues larges et aériennes.
 
-[SPATIAL CONTINUITY LOCK]
-P01, P02, P04, P07, P08, P09, P13, P14, and P15 share the same shoreline combat layout. C1 begins center-left by shallow water and advances toward C2 at the forest-edge side of the lane. C2 starts background/forest edge, unfolds, fires toward C1, then lunges closer while staying opposite C1 until the flank finish. P13 must show all incoming red bolts coming from one direction only, from C2's side of the lane toward C1's white saber. Craft stays screen right, lake/wet sand foreground, trunks background, forest edge behind C2. Allowed changes are camera distance, camera angle, C1 pose, C2 leg/cannon position, saber trail density, bolt direction, reflection state, armor damage, spray, sparks, and final collapse.
+[VERROUILLAGE DE CONTINUITÉ SPATIALE]
+P01, P02, P04, P07, P08, P09, P13, P14 et P15 partagent la même disposition de combat sur le rivage. C1 commence au centre-gauche près de l'eau peu profonde et avance vers C2 du côté de la lisière de la forêt de la voie. C2 commence en arrière-plan/lisière de forêt, se déploie, tire vers C1, puis se précipite plus près tout en restant opposé à C1 jusqu'à la finition de flanc. P13 doit montrer tous les tirs rouges entrants venant d'une seule direction, du côté de la voie de C2 vers le sabre blanc de C1. Le vaisseau reste à droite de l'écran, lac/sable humide au premier plan, troncs en arrière-plan, lisière de forêt derrière C2. Les changements autorisés sont la distance de la caméra, l'angle de la caméra, la pose de C1, la position de la jambe/canon de C2, la densité de la traînée du sabre, la direction du tir, l'état de réflexion, les dommages à l'armure, les embruns, les étincelles et l'effondrement final.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / 50mm profile / White ignite -> P02 / low 24mm / Droid unfolds -> P03 / macro insert / Twin burst -> P04 / low 35mm / Water pivot -> P05 / 35mm clash / First deflect -> P06 / 85mm tight / Angle shift -> P07 / 35mm flow / Redirect advance -> P08 / overhead 24mm / Deflect storm -> P09 / side 35mm / Droid lunge -> P10 / 50mm impact / Armor stagger -> P11 / macro water / Reflection hiss -> P12 / 85mm portrait / Servo pause -> P13 / 35mm orbit / One-way cage -> P14 / 35mm burst / Flank pass -> P15 / low 24mm / Chassis cut
-CAMERA + LENS PLAN: P01 profile push -> P02 low wide reveal -> P03 macro cannon burst -> P04 low burst track -> P05 crash-in clash -> P06 tight reaction -> P07 wide flow track -> P08 overhead tactical hold -> P09 side track -> P10 impact punch-in -> P11 water insert -> P12 portrait pause -> P13 orbit hold on one-direction barrage -> P14 burst close track -> P15 low hero finish
-ACTION PATH: P01 white saber ignites over wet sand -> P02 C2 unfolds cannons -> P03 twin bolts erupt -> P04 C1 pivots through water -> P05 white saber deflects first volley -> P06 eye tracks new angle -> P07 C1 advances, white saber redirects fire -> P08 overhead storm deflected back toward C2 -> P09 C2 lunges while firing -> P10 reflected plasma staggers armor -> P11 white saber trail and red bolts hiss in water -> P12 C1 and C2 hold before final engagement -> P13 one-direction barrage from C2 meets C1's white saber cage -> P14 C1 bursts past volley to flank -> P15 white saber cuts underside, C2 collapses
-RHYTHM TRACK: P01 RHY P01: slow reveal / medium block / clean beat -> P02 RHY P02: build / medium block / clean beat -> P03 RHY P03: burst / short block / smash beat -> P04 RHY P04: burst / short block / whip beat -> P05 RHY P05: impact / short block / smash beat -> P06 RHY P06: burst / short block / clean beat -> P07 RHY P07: build / medium block / match beat -> P08 RHY P08: impact / medium block / held beat -> P09 RHY P09: build / medium block / match beat -> P10 RHY P10: impact / short block / smash beat -> P11 RHY P11: pause / short block / held beat -> P12 RHY P12: pause / medium block / held beat -> P13 RHY P13: impact / medium block / match beat -> P14 RHY P14: burst / short block / whip beat -> P15 RHY P15: final hit / long block / smash beat
-ESCALATION MAP: P01 ESC P01: L3 rise / rise -> P02 ESC P02: L4 surge / rise -> P03 ESC P03: L5 peak / spike -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L5 peak / spike -> P06 ESC P06: L4 surge / rise -> P07 ESC P07: L5 peak / rise -> P08 ESC P08: L5 peak / spike -> P09 ESC P09: L5 peak / rise -> P10 ESC P10: L5 peak / drop -> P11 ESC P11: L4 surge / drop -> P12 ESC P12: L3 rise / drop -> P13 ESC P13: L5 peak / spike -> P14 ESC P14: L5 peak / spike -> P15 ESC P15: L5 peak / release
-STATE TRACK: P01 white blade on, craft reflection -> P02 tripod open, geography clear -> P03 twin cannon fire -> P04 first volley closing -> P05 deflect sparks -> P06 barrage angle changes -> P07 repeated saber redirects -> P08 overhead deflection storm -> P09 C2 forward, fire sustained -> P10 armor hit, not stopped -> P11 water hiss/reflection -> P12 stillness before clash -> P13 one-direction bolt wall from C2, white saber cage -> P14 C1 flank entry -> P15 underside cut, C2 collapse
-STYLE TRACK: P01 white glow chip -> P02 mechanical silhouette -> P03 red burst chip -> P04 wet spray -> P05 spark clash -> P06 tight glare -> P07 arc flow -> P08 bolt web -> P09 tripod drive -> P10 armor sparks -> P11 water mirror -> P12 quiet portrait -> P13 one-way luminous cage -> P14 cloak snap -> P15 debris burst
+[BANDE DU RÉALISATEUR]
+Tableau de piste animatique inférieur aligné sur les colonnes de panneaux. Pistes : LIGNE DE TEMPS, CHEMIN DE CAMÉRA, CHEMIN D'ACTION, PISTE DE RYTHME, CARTE D'ESCALADE, PISTE D'ÉTAT, PISTE DE STYLE. Utilisez des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ni d'horodatages.
+Format PISTE DE RYTHME : `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+Format CARTE D'ESCALADE : `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+EN-TÊTES DE PANNEAU : P01 / 50mm profil / Allumage blanc -> P02 / bas 24mm / Déploiement droïde -> P03 / macro insert / Rafale jumelle -> P04 / bas 35mm / Pivot eau -> P05 / 35mm choc / Première déviation -> P06 / 85mm serré / Changement d'angle -> P07 / 35mm flux / Avancée redirection -> P08 / aérien 24mm / Tempête déviation -> P09 / côté 35mm / Fente droïde -> P10 / 50mm impact / Armure vacille -> P11 / macro eau / Sifflement reflet -> P12 / 85mm portrait / Pause servo -> P13 / 35mm orbite / Cage unidirectionnelle -> P14 / 35mm rafale / Passage flanc -> P15 / bas 24mm / Coupe châssis
+PLAN CAMÉRA + OBJECTIF : P01 poussée profil -> P02 révélation large basse -> P03 rafale canon macro -> P04 suivi rafale bas -> P05 choc crash-in -> P06 réaction serrée -> P07 suivi flux large -> P08 maintien tactique aérien -> P09 suivi latéral -> P10 punch-in impact -> P11 insert eau -> P12 pause portrait -> P13 maintien orbite sur barrage unidirectionnel -> P14 suivi rafale proche -> P15 finition héros basse
+CHEMIN D'ACTION : P01 sabre blanc s'allume sur sable humide -> P02 C2 déploie canons -> P03 tirs jumeaux éclatent -> P04 C1 pivote dans l'eau -> P05 sabre blanc dévie première salve -> P06 œil suit nouvel angle -> P07 C1 avance, sabre blanc redirige feu -> P08 tempête aérienne déviée vers C2 -> P09 C2 se précipite en tirant -> P10 plasma réfléchi fait vaciller armure -> P11 traînée sabre blanc et tirs rouges sifflent dans l'eau -> P12 C1 et C2 attendent avant engagement final -> P13 barrage unidirectionnel de C2 rencontre cage sabre blanc C1 -> P14 C1 passe salve pour flanc -> P15 sabre blanc coupe dessous, C2 s'effondre
+PISTE DE RYTHME : P01 RHY P01 : révélation lente / bloc moyen / temps propre -> P02 RHY P02 : construction / bloc moyen / temps propre -> P03 RHY P03 : rafale / bloc court / temps choc -> P04 RHY P04 : rafale / bloc court / temps fouet -> P05 RHY P05 : impact / bloc court / temps choc -> P06 RHY P06 : rafale / bloc court / temps propre -> P07 RHY P07 : construction / bloc moyen / temps match -> P08 RHY P08 : impact / bloc moyen / temps tenu -> P09 RHY P09 : construction / bloc moyen / temps match -> P10 RHY P10 : impact / bloc court / temps choc -> P11 RHY P11 : pause / bloc court / temps tenu -> P12 RHY P12 : pause / bloc moyen / temps tenu -> P13 RHY P13 : impact / bloc moyen / temps match -> P14 RHY P14 : rafale / bloc court / temps fouet -> P15 RHY P15 : coup final / bloc long / temps choc
+CARTE D'ESCALADE : P01 ESC P01 : L3 montée / montée -> P02 ESC P02 : L4 poussée / montée -> P03 ESC P03 : L5 pic / pic -> P04 ESC P04 : L5 pic / pic -> P05 ESC P05 : L5 pic / pic -> P06 ESC P06 : L4 poussée / montée -> P07 ESC P07 : L5 pic / montée -> P08 ESC P08 : L5 pic / pic -> P09 ESC P09 : L5 pic / montée -> P10 ESC P10 : L5 pic / chute -> P11 ESC P11 : L4 poussée / chute -> P12 ESC P12 : L3 montée / chute -> P13 ESC P13 : L5 pic / pic -> P14 ESC P14 : L5 pic / pic -> P15 ESC P15 : L5 pic / libération
+PISTE D'ÉTAT : P01 lame blanche allumée, reflet vaisseau -> P02 trépied ouvert, géographie claire -> P03 tir canon jumeau -> P04 première salve se ferme -> P05 étincelles déviation -> P06 angle barrage change -> P07 redirections sabre répétées -> P08 tempête déviation aérienne -> P09 C2 avant, feu soutenu -> P10 coup armure, pas arrêté -> P11 sifflement eau/reflet -> P12 calme avant choc -> P13 mur tirs unidirectionnel de C2, cage sabre blanc -> P14 entrée flanc C1 -> P15 coupe dessous, effondrement C2
+PISTE DE STYLE : P01 jeton lueur blanche -> P02 silhouette mécanique -> P03 jeton rafale rouge -> P04 embrun humide -> P05 choc étincelles -> P06 éclat serré -> P07 flux arc -> P08 toile tir -> P09 entraînement trépied -> P10 étincelles armure -> P11 miroir eau -> P12 portrait calme -> P13 cage lumineuse unidirectionnelle -> P14 claquement cape -> P15 explosion débris
 
-[SEQUENCE]
-Grid: 15 panels in a compact 5x3 cinematic storyboard sheet; panel artwork stays monochrome rough sketch while the director strip carries the full action escalation from white-saber ignition through repeated blaster deflections, one-direction P13 barrage, flank pass, and final droid collapse.
-
-You can find the prompts below.
+[SÉQUENCE]
+Grille : 15 panneaux dans une feuille de storyboard cinématographique compacte 5x3 ; l'illustration du panneau reste un croquis monochrome tandis que la bande du réalisateur porte toute l'escalade de l'action, de l'allumage du sabre blanc aux déviations répétées de blaster, barrage unidirectionnel P13, passage de flanc et effondrement final du droïde.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Use @[Storyboard Ref] as the storyboard for the sequence. Treat every storyboard panel as a consecutive shot within a single cinematic sequence. Follow panel order exactly and do not invent alternative coverage. Recreate the filmed sequence implied by the panels rather than the physical storyboard artwork.
-Use @[Char ref]  as C1 reference.
-Use @[Droideka ref] as C2 combat droid reference.
+Utilisez @[Storyboard Ref] comme storyboard pour la séquence. Traitez chaque panneau de storyboard comme un plan consécutif au sein d'une seule séquence cinématographique. Suivez exactement l'ordre des panneaux et n'inventez pas de couverture alternative. Recréez la séquence filmée impliquée par les panneaux plutôt que l'illustration physique du storyboard.
+Utilisez @[Char ref] comme référence C1.
+Utilisez @[Droideka ref] comme référence de droïde de combat C2.
 
-EMOTIONAL GUIDANCE: Valence: focused calm into controlled danger into decisive release. Arousal: ignition -> reveal -> blaster spike -> repeated deflections -> storm pressure -> pause -> one-way barrage -> flank burst -> impact, shown through eye-line, footwork, white blade height, cloak snap, droid drive, sparks, spray, collapse.
-AUDIO: No background music or score. Use only diegetic ambience, foley, impacts, texture, and silence: lake laps, servos, white saber hum, blasters, deflections, water hiss, boots, cloak snap, metal collapse.
+GUIDANCE ÉMOTIONNELLE : Valence : calme concentré vers danger contrôlé vers libération décisive. Éveil : allumage -> révélation -> pic blaster -> déviations répétées -> pression tempête -> pause -> barrage unidirectionnel -> rafale de flanc -> impact, montré à travers la ligne de vue, le jeu de jambes, la hauteur de la lame blanche, le claquement de la cape, l'entraînement du droïde, les étincelles, les embruns, l'effondrement.
+AUDIO : Pas de musique de fond ni de partition. Utilisez uniquement l'ambiance diégétique, le bruitage, les impacts, la texture et le silence : clapotis du lac, servos, bourdonnement du sabre blanc, blasters, déviations, sifflement de l'eau, bottes, claquement de cape, effondrement métallique.
 
-BEATS:
-1: Profile push. C1 ignites the white saber; light reflects on wet sand, water, and the grounded craft.
-2: Low wide. C2 unfolds into tripod combat stance at the forest edge, twin blasters rotating toward C1.
-3: Macro burst. Red bolts erupt from both cannons through mist and shoreline spray.
-4: Low burst. C1 pivots, boots slicing shallow water as the first volley closes.
-5: Clash. The white saber catches bolts; sparks and reflected plasma scatter across shore.
-6: Tight. C1's eye-line shifts as C2 changes angle and intensifies fire.
-7: Wide flow. C1 advances, repeatedly deflecting red bolts back with white saber arcs.
-8: Overhead. Red bolts converge while C1 stays centered, deflecting the storm back toward C2.
-9: Side track. C2 lunges on tripod legs, closing distance under suppressive fire.
-10: Impact. Reflected plasma hits C2 armor, forcing a brief stagger without stopping it.
-11: Water insert. White saber trail curves across the lake reflection as bolts skip and hiss.
-12: Portrait pause. C1 and C2 hang still; saber hum, water drip, and servos fill the air.
-13: Orbit. All incoming red bolts come from one direction only, from C2's side; C1's white saber wraps a luminous cage that deflects the wall of fire.
-14: Burst close. C1 slips past the final volley, cloak snapping as she reaches C2's flank.
-15: Hero finish. The white saber cuts exposed mechanisms beneath C2; sparks and parts explode outward as the droid collapses into the shoreline.
+TEMPS FORTS :
+1 : Poussée profil. C1 allume le sabre blanc ; la lumière se reflète sur le sable humide, l'eau et le vaisseau au sol.
+2 : Large bas. C2 se déploie en position de combat tripode à la lisière de la forêt, les blasters jumeaux tournant vers C1.
+3 : Rafale macro. Des tirs rouges éclatent des deux canons à travers la brume et les embruns du rivage.
+4 : Rafale basse. C1 pivote, ses bottes tranchant l'eau peu profonde alors que la première salve se rapproche.
+5 : Choc. Le sabre blanc attrape les tirs ; des étincelles et du plasma réfléchi se dispersent sur le rivage.
+6 : Serré. La ligne de vue de C1 se déplace alors que C2 change d'angle et intensifie le feu.
+7 : Flux large. C1 avance, déviant à plusieurs reprises les tirs rouges avec des arcs de sabre blanc.
+8 : Aérien. Les tirs rouges convergent alors que C1 reste centrée, déviant la tempête vers C2.
+9 : Suivi latéral. C2 se précipite sur ses jambes tripodes, réduisant la distance sous un tir de suppression.
+10 : Impact. Le plasma réfléchi frappe l'armure de C2, forçant un bref vacillement sans l'arrêter.
+11 : Insert eau. La traînée du sabre blanc se courbe à travers le reflet du lac alors que les tirs sautent et sifflent.
+12 : Pause portrait. C1 et C2 restent immobiles ; le bourdonnement du sabre, le goutte-à-goutte de l'eau et les servos remplissent l'air.
+13 : Orbite. Tous les tirs rouges entrants viennent d'une seule direction, du côté de C2 ; le sabre blanc de C1 enveloppe une cage lumineuse qui dévie le mur de feu.
+14 : Rafale proche. C1 glisse au-delà de la salve finale, sa cape claquant alors qu'elle atteint le flanc de C2.
+15 : Finition héros. Le sabre blanc coupe les mécanismes exposés sous C2 ; des étincelles et des pièces explosent vers l'extérieur alors que le droïde s'effondre sur le rivage.
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K abonnés
@@ -1812,94 +1815,94 @@ BEATS:
 
 ---
 
-### 18. SUBJECT: < <<<image_1>>>> WARDROBE: Stylish artist outfit consisting…
+### 18. Artiste peignant un portrait de Lionel Messi
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064545143693382061_0_poster.jpg" width="480" alt="SUBJECT: < <<<image_1>>>> WARDROBE: Stylish artist outfit consisting…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064545143693382061_0_poster.jpg" width="480" alt="Artiste peignant un portrait de Lionel Messi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-SUBJECT: < <<<image_1>>>>
-WARDROBE: Stylish artist outfit consisting of paint-splattered denim overalls over a fitted white tank top. Colorful paint marks scattered naturally across the fabric. Hair tied into a messy creative bun with loose face-framing strands. The front bib of the overalls features a clearly visible embroidered "Zara" patch throughout the video.
+SUJET : < <<<image_1>>>>
+TENUE : Tenue d'artiste élégante composée d'une salopette en jean tachée de peinture sur un débardeur blanc ajusté. Des traces de peinture colorée sont dispersées naturellement sur le tissu. Cheveux attachés en un chignon créatif décoiffé avec des mèches encadrant le visage. La bavette avant de la salopette présente un écusson "Zara" brodé clairement visible tout au long de la vidéo.
 
-ENVIRONMENT: Bright contemporary art studio with large floor-to-ceiling windows. Wooden easel centered with a blank white canvas. Worktable covered with acrylic paints, brushes, palettes, palette knives, paint jars, sketchbooks, and colorful paint splatters. Sports magazines and football posters subtly decorate the background. Natural daylight fills the room.
+ENVIRONNEMENT : Studio d'art contemporain lumineux avec de grandes baies vitrées du sol au plafond. Chevalet en bois centré avec une toile blanche vierge. Table de travail couverte de peintures acryliques, pinceaux, palettes, couteaux à palette, pots de peinture, carnets de croquis et éclaboussures de peinture colorée. Des magazines de sport et des affiches de football décorent subtilement l'arrière-plan. La lumière naturelle du jour remplit la pièce.
 
-MOOD: Creative obsession, intense focus, artistic flow state, passionate admiration for a football legend, energetic craftsmanship.
+AMBIANCE : Obsession créative, concentration intense, état de flux artistique, admiration passionnée pour une légende du football, artisanat énergique.
 
-MUSIC: Fast-paced orchestral percussion mixed with rhythmic drums, building momentum throughout the creation process.
+MUSIQUE : Percussions orchestrales rythmées mélangées à des tambours, créant une dynamique tout au long du processus de création.
 
-COLOR LOGIC: Blank white canvas evolves into a vibrant, highly detailed portrait of Lionel Messi. Bright studio neutrals contrasted against rich blues, whites, golds, skin tones, and colorful paint pigments.
+LOGIQUE DES COULEURS : La toile blanche vierge évolue en un portrait vibrant et très détaillé de Lionel Messi. Neutres de studio lumineux contrastés avec des bleus riches, des blancs, des ors, des tons chair et des pigments de peinture colorés.
 
-STYLE: Ultra-realistic cinematic art documentary, high-speed kinetic editing, satisfying creative process visuals, dynamic camera movement, Edgar Wright-inspired pacing.
+STYLE : Documentaire artistique cinématographique ultra-réaliste, montage cinétique rapide, visuels de processus créatif satisfaisants, mouvement de caméra dynamique, rythme inspiré d'Edgar Wright.
 
-LOGIC RULE: Blank canvas progressively transforms into a realistic painted portrait of Lionel Messi. Every stroke contributes logically to the final artwork. The "Zara" patch remains visible whenever the artist is shown.
+RÈGLE LOGIQUE : La toile vierge se transforme progressivement en un portrait peint réaliste de Lionel Messi. Chaque coup de pinceau contribue logiquement à l'œuvre finale. L'écusson "Zara" reste visible chaque fois que l'artiste est à l'écran.
 
 ---
 
-SHOT 1:
+PLAN 1 :
 
-MCU, 35mm handheld / Girl stands before a blank canvas. A Messi reference photo is clipped beside the easel. She studies both intensely and cracks her knuckles. / SFX: room ambience, knuckle crack.
+MCU, 35mm à la main / La jeune fille se tient devant une toile vierge. Une photo de référence de Messi est clipsée à côté du chevalet. Elle étudie les deux intensément et se fait craquer les articulations. / SFX : ambiance de pièce, craquement d'articulations.
 
-SHOT 2:
+PLAN 2 :
 
-Insert, 85mm macro / Paint tubes slam onto the table in rapid succession. Blue, white, black, gold, and skin-tone colors scatter across the workspace. / SFX: quick thumps.
+Insert, 85mm macro / Des tubes de peinture tombent sur la table en succession rapide. Des couleurs bleu, blanc, noir, or et ton chair s'éparpillent sur l'espace de travail. / SFX : coups rapides.
 
-SHOT 3:
+PLAN 3 :
 
-ECU, 100mm macro / Thick ribbons of paint are squeezed dramatically onto a palette. / SFX: paint squish.
+ECU, 100mm macro / Des rubans épais de peinture sont pressés de manière spectaculaire sur une palette. / SFX : écrasement de peinture.
 
-SHOT 4:
+PLAN 4 :
 
-Insert, 50mm / Brushes are grabbed rapidly from a jar like selecting tools before battle. / SFX: brush clatter.
+Insert, 50mm / Des pinceaux sont saisis rapidement dans un pot comme si elle choisissait des armes avant une bataille. / SFX : cliquetis de pinceaux.
 
-SHOT 5:
+PLAN 5 :
 
-MS, 24mm push-in / First sketch lines appear on the blank canvas, outlining Messi's face and shoulders. The Zara patch is clearly visible. / SFX: pencil scratch.
+MS, 24mm push-in / Les premières lignes de croquis apparaissent sur la toile vierge, esquissant le visage et les épaules de Messi. L'écusson Zara est clairement visible. / SFX : grattement de crayon.
 
-SHOT 6:
+PLAN 6 :
 
-ECU, 85mm tracking / Rapid brush strokes establish facial structure, hair, and beard contours. / SFX: paint swishes.
+ECU, 85mm tracking / Des coups de pinceau rapides établissent la structure faciale, les contours des cheveux et de la barbe. / SFX : bruissement de peinture.
 
-SHOT 7:
+PLAN 7 :
 
-Insert, 100mm macro / Palette knife spreads textured paint across key areas of the portrait. / SFX: scrape.
+Insert, 100mm macro / Un couteau à palette étale de la peinture texturée sur les zones clés du portrait. / SFX : raclement.
 
-SHOT 8:
+PLAN 8 :
 
-Overhead WS, 24mm / Timelapse burst as the portrait rapidly takes shape. Messi's recognizable features emerge. / SFX: layered artistic sounds.
+WS en plongée, 24mm / Accéléré (timelapse) montrant le portrait prendre forme rapidement. Les traits reconnaissables de Messi émergent. / SFX : sons artistiques superposés.
 
-SHOT 9:
+PLAN 9 :
 
-MCU, 35mm handheld / Girl steps back, compares the painting to the reference photo, nods, then jumps back into action. Zara patch visible. / SFX: footsteps.
+MCU, 35mm à la main / La jeune fille recule, compare la peinture à la photo de référence, hoche la tête, puis se remet au travail. Écusson Zara visible. / SFX : pas.
 
-SHOT 10:
+PLAN 10 :
 
-Insert, 85mm macro / Detailed brushwork refines Messi's eyes, beard, and facial expression. / SFX: brush flicks.
+Insert, 85mm macro / Un travail au pinceau détaillé affine les yeux, la barbe et l'expression faciale de Messi. / SFX : coups de pinceau.
 
-SHOT 11:
+PLAN 11 :
 
-MS, 35mm tracking / Rapid layering of highlights and shadows adds realism and depth. / SFX: rhythmic brush strokes.
+MS, 35mm tracking / Superposition rapide de reflets et d'ombres ajoutant réalisme et profondeur. / SFX : coups de pinceau rythmés.
 
-SHOT 12:
+PLAN 12 :
 
-ECU, 100mm macro / Tiny highlights are added to the eyes, bringing the portrait to life. / SFX: delicate strokes.
+ECU, 100mm macro / De minuscules reflets sont ajoutés aux yeux, donnant vie au portrait. / SFX : coups délicats.
 
-SHOT 13:
+PLAN 13 :
 
-Overhead Timelapse / The artwork evolves into a polished, gallery-worthy portrait of Messi. / SFX: artistic montage.
+Timelapse en plongée / L'œuvre évolue en un portrait de Messi poli et digne d'une galerie. / SFX : montage artistique.
 
-SHOT 14:
+PLAN 14 :
 
-MCU, 50mm / Girl signs the bottom corner of the painting with one confident brush stroke. / SFX: signature brush.
+MCU, 50mm / La jeune fille signe le coin inférieur de la peinture d'un coup de pinceau confiant. / SFX : pinceau de signature.
 
-SHOT 15:
+PLAN 15 :
 
-MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fills the frame. Bright colors glow in the daylight. She folds her arms, smiles proudly, and nods toward the artwork. The Zara patch is clearly visible. / SFX: triumphant musical climax, music end.
+MS, 35mm révélation / Elle s'écarte alors que le portrait terminé de Lionel Messi remplit le cadre. Des couleurs vives brillent à la lumière du jour. Elle croise les bras, sourit fièrement et hoche la tête vers l'œuvre. L'écusson Zara est clairement visible. / SFX : apogée musical triomphant, fin de la musique.
 ```
 
 **Par** [Zara ✓](https://x.com/ZaraIrahh) (@ZaraIrahh) · 14.3K abonnés
@@ -1912,19 +1915,19 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 
 ---
 
-### 19. @ Img use attached photo as the main character, preserve exact face a…
+### 19. Vidéo virale de cascade extrême sur un toit
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064221412420948212_0_poster.jpg" width="480" alt="@ Img use attached photo as the main character, preserve exact face a…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064221412420948212_0_poster.jpg" width="480" alt="Vidéo virale de cascade extrême sur un toit"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-@ Img use attached photo as the main character, preserve exact face and identity throughout. Vertical 9:16 raw smartphone UGC footage, handheld, no stabilization, nighttime in São Paulo, Brazil, dense high-rise skyline with hundreds of lit apartment windows, blinking red tower lights, deep navy-black sky. Rooftop helipad 25 floors high with olive-green surface, white H and yellow circle. Main character stands near the edge while 3–4 male friends cheer and film on phones. He suddenly jumps from the rooftop and enters a fast freefall, camera tracking from above as building facades blur past and the street rushes closer. Aerial view looking straight down reveals a giant rectangular elastic stunt pad on the street surrounded by bright blue and rainbow LED lights; he falls directly toward its center. Massive impact: the elastic surface stretches dramatically downward, LEDs flare, camera shakes, then launches him explosively back upward. Tracking shot follows him soaring alongside the building past floor after floor of lit windows, face visible, exhilarated expression, arms spread, clothes and hair whipping in the wind. He reaches rooftop height and silhouettes briefly against the night sky before landing back on the helipad. Friends rush toward him celebrating, jumping, shouting, filming on phones, ending in a chaotic group hug full of genuine excitement and laughter. Style: authentic viral thrill-seeking UGC, realistic physics, low-light sensor grain, handheld shake in every shot, natural motion blur, dangerous spontaneous energy, no color grading, no filters, no cinematic look, no VFX, no slow motion, no AI faces, no unrealistic physics.
+@ Img utilisez la photo jointe comme personnage principal, préservez exactement le visage et l'identité tout au long de la vidéo. Vidéo UGC verticale 9:16 façon smartphone, brute, filmée à la main, sans stabilisation, nuit à São Paulo, Brésil, horizon urbain dense avec des centaines de fenêtres d'appartements éclairées, lumières rouges clignotantes sur les tours, ciel bleu marine profond. Héliport sur le toit à 25 étages de hauteur avec une surface vert olive, un H blanc et un cercle jaune. Le personnage principal se tient près du bord tandis que 3 ou 4 amis hommes l'encouragent et filment avec leurs téléphones. Il saute soudainement du toit et entame une chute libre rapide, la caméra suit depuis le haut alors que les façades des bâtiments deviennent floues et que la rue se rapproche. La vue aérienne plongeante révèle un tapis de cascade élastique rectangulaire géant dans la rue, entouré de lumières LED bleues et arc-en-ciel ; il tombe directement vers son centre. Impact massif : la surface élastique s'étire dramatiquement vers le bas, les LED s'illuminent, la caméra tremble, puis le propulse de manière explosive vers le haut. Le plan de suivi le suit alors qu'il s'élève le long du bâtiment, passant devant étage après étage de fenêtres éclairées, visage visible, expression exaltée, bras écartés, vêtements et cheveux fouettés par le vent. Il atteint la hauteur du toit et se silhouette brièvement contre le ciel nocturne avant d'atterrir sur l'héliport. Ses amis se précipitent vers lui pour célébrer, sautant, criant, filmant avec leurs téléphones, se terminant par un câlin de groupe chaotique plein d'excitation et de rires authentiques. Style : UGC viral authentique de sensations fortes, physique réaliste, grain de capteur basse lumière, tremblement de main dans chaque plan, flou de mouvement naturel, énergie spontanée dangereuse, pas d'étalonnage des couleurs, pas de filtres, pas de look cinématographique, pas de VFX, pas de ralenti, pas de visages IA, pas de physique irréaliste.
 ```
 
 **Par** [WasifAI ✓](https://x.com/doctorwasif) (@doctorwasif) · 7.9K abonnés
@@ -1937,12 +1940,12 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 
 ---
 
-### 20. monster --ar 16:9 --profile 71b4wk5 --stylize 1000 Then used my chara…
+### 20. Ash vs Borg : Duel cinématographique en ville
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063565204848324825_0_poster.jpg" width="480" alt="monster --ar 16:9 --profile 71b4wk5 --stylize 1000 Then used my chara…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063565204848324825_0_poster.jpg" width="480" alt="Ash vs Borg : Duel cinématographique en ville"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
@@ -1951,103 +1954,103 @@ MS, 35mm reveal / She steps aside as the completed portrait of Lionel Messi fill
 ```
 monster --ar 16:9 --profile 71b4wk5 --stylize 1000
 
-Then used my character identity board prompt to create sheets for them. You can find it in my posts. 
+Ensuite, j'ai utilisé mon prompt d'identité de personnage pour créer leurs fiches. Vous pouvez le trouver dans mes publications.
 
-Then I created character sheets and a storyboard. I shared the storyboard skill file with my subscribers recently.
+J'ai ensuite créé des fiches de personnages et un storyboard. J'ai partagé le fichier de compétence du storyboard avec mes abonnés récemment.
 
-This wasn't a single generation of the storyboard. I experimented with a few different approaches, including fast cuts, speed ramps and continuous one-shot ideas. Eventually, I hand wrote every panel and used the skill to generate the storyboard and video prompts.
+Ce n'était pas une génération unique du storyboard. J'ai expérimenté plusieurs approches, notamment des coupes rapides, des accélérations et des idées de plan-séquence continu. Finalement, j'ai écrit chaque panneau à la main et utilisé la compétence pour générer le storyboard et les prompts vidéo.
 
-This version isn't a one-shot generation. It's actually the second generation. The first one had some problems, and this one still doesn't follow the prompt perfectly but I was happy enough with the final result. If you try to fit too much into 15 seconds, the model sometimes cuts corners and skips parts of the sequence.
+Cette version n'est pas une génération en un seul plan. C'est en fait la deuxième génération. La première avait quelques problèmes, et celle-ci ne suit pas parfaitement le prompt, mais j'étais assez satisfait du résultat final. Si vous essayez de trop en mettre en 15 secondes, le modèle raccourcit parfois les choses et saute des parties de la séquence.
 
-GPT Image 2 Storyboard Prompt:
+Prompt de Storyboard GPT Image 2 :
 
-Create a 16:9 image.
+Créez une image 16:9.
 
-[PROJECT CARD]
-Create a compact designed masthead, not a table.
-TITLE: ASH VS BORG / SHADOW FEINT, MOLTEN COUNTER
-META LINE: hidden-cut cinematic action / sunlit city duel / lava-hand weapon choreography
-PRIORITY: 10-shot hidden-cut long-take illusion; Ash uses hand-born lava weapons and shadow disappearance, Borg uses fire-resistant brute force, high jumps, grabs, and close-range punches.
-MICRO BRIEF: Ash stands calm as lava leaks from his hands; Borg rushes him, pulls the fight upward, tanks molten attacks, and drives Ash into a building before Ash fires one last lava counter.
+[FICHE PROJET]
+Créez un en-tête compact, pas un tableau.
+TITRE : ASH VS BORG / FEINTE D'OMBRE, CONTRE DE LAVE
+LIGNE MÉTADONNÉE : action cinématographique avec coupes invisibles / duel en ville ensoleillée / chorégraphie d'armes en lave
+PRIORITÉ : illusion de plan-séquence de 10 plans avec coupes invisibles ; Ash utilise des armes en lave nées de ses mains et la disparition dans l'ombre, Borg utilise une force brute résistante au feu, des sauts en hauteur, des saisies et des coups de poing à courte portée.
+BRÈVE DESCRIPTION : Ash reste calme tandis que de la lave s'écoule de ses mains ; Borg se précipite sur lui, déplace le combat vers le haut, encaisse les attaques de lave et projette Ash contre un bâtiment avant qu'Ash ne tire une dernière contre-attaque de lave.
 
-[CONTINUITY HEADER]
-SEQUENCE ID: ASH_BORG_HIDDENCUT_LAVA_COUNTER_V04
-REFERENCE PRIORITY: Use image1 as ASH identity reference and image2 as BORG identity reference; references control face, body, wardrobe, proportions, silhouettes, head shapes, surface details; storyboard controls staging, motion, geography, continuity.
+[EN-TÊTE DE CONTINUITÉ]
+ID SÉQUENCE : ASH_BORG_HIDDENCUT_LAVA_COUNTER_V04
+PRIORITÉ DE RÉFÉRENCE : Utilisez image1 comme référence d'identité pour ASH et image2 pour BORG ; les références contrôlent le visage, le corps, la garde-robe, les proportions, les silhouettes, la forme de la tête, les détails de surface ; le storyboard contrôle la mise en scène, le mouvement, la géographie, la continuité.
 
-[SCENE PACKET]
-PREMISE: Ash and Borg fight across a bright city block in a seamless hidden-cut flow, not a strict one-shot; every transition is motivated by shadow, body occlusion, lava passing the lens, impact dust, or wall debris.
-LOCATION: sunlit city street; yellow taxi, blue bus stop, glass storefront, red awnings, white crosswalk, hard shadows under vehicles, building facade at rear, scattered barriers and street debris.
-START -> END: close on Ash's hand as lava drips while he stands still -> Borg charges again after punching Ash into a building, and Ash fires lava from both hands as the scene ends mid-counter.
-ACTION CHAIN: lava-hand close-up -> Borg rushes -> Ash vanishes into ground shadow and appears behind Borg on the same attack line -> Ash catches Borg's legs -> Borg uses the grip as leverage, jumps anyway, and drags Ash upward -> Borg punches Ash in air -> Ash passes lens in motion blur, recovers enough to fire lava back -> Borg cross-blocks, brief suspended dialogue beat -> Ash answers -> Borg jumps after Ash and targets the shadow escape point -> Ash teleports away -> Borg breaks the ground shadow Ash used -> Ash attacks with lava again -> Borg blocks one-handed -> close fist exchange with banter -> Borg lands heavy punch -> Ash crashes into building, catches himself, plants feet -> Borg charges -> Ash fires final lava counter.
-PROP / EFFECT STATE: Ash's lava leaks only from his palms and fingers as liquid weapon matter: whips, blades, hooks, bands, molten droplets, cutting arcs. Lava never carries Ash for movement. Ash moves by footwork and shadow disappearance/reappearance. Borg is fire-resistant and never emits fire, flame, embers, smoke, or heat glow of his own; lava steams on his armor only because Ash's lava touches him.
-MUST READ: Ash's lava is a hand-born weapon system; Borg resists heat and answers with physical force; hidden cuts keep the flow cinematic without forcing impossible camera physics.
+[PAQUET DE SCÈNE]
+PRÉMISSE : Ash et Borg se battent dans un pâté de maisons ensoleillé avec un flux fluide de coupes invisibles, pas un plan-séquence strict ; chaque transition est motivée par l'ombre, l'occlusion corporelle, la lave passant devant l'objectif, la poussière d'impact ou les débris de mur.
+LIEU : rue de ville ensoleillée ; taxi jaune, arrêt de bus bleu, vitrine en verre, auvents rouges, passage piéton blanc, ombres marquées sous les véhicules, façade de bâtiment à l'arrière, barrières et débris de rue dispersés.
+DÉBUT -> FIN : gros plan sur la main d'Ash alors que la lave goutte pendant qu'il reste immobile -> Borg charge à nouveau après avoir projeté Ash dans un bâtiment, et Ash tire de la lave des deux mains alors que la scène se termine au milieu de la contre-attaque.
+CHAÎNE D'ACTION : gros plan sur la main de lave -> Borg fonce -> Ash disparaît dans l'ombre au sol et apparaît derrière Borg sur la même ligne d'attaque -> Ash attrape les jambes de Borg -> Borg utilise la prise comme levier, saute quand même et entraîne Ash vers le haut -> Borg frappe Ash en l'air -> Ash passe devant l'objectif en flou de mouvement, récupère assez pour tirer de la lave en retour -> Borg bloque en croix, bref moment de dialogue suspendu -> Ash répond -> Borg saute après Ash et vise le point d'évasion dans l'ombre -> Ash se téléporte au loin -> Borg brise l'ombre au sol utilisée par Ash -> Ash attaque à nouveau avec de la lave -> Borg bloque d'une main -> échange de poings serrés avec des répliques -> Borg porte un coup de poing lourd -> Ash s'écrase contre un bâtiment, se rattrape, plante ses pieds -> Borg charge -> Ash tire la contre-attaque de lave finale.
+ÉTAT DES ACCESSOIRES / EFFETS : La lave d'Ash ne s'écoule que de ses paumes et de ses doigts sous forme de matière d'arme liquide : fouets, lames, crochets, bandes, gouttelettes en fusion, arcs tranchants. La lave ne porte jamais Ash pour le déplacement. Ash se déplace par le jeu de jambes et la disparition/réapparition dans l'ombre. Borg est résistant au feu et n'émet jamais de feu, de flammes, de braises, de fumée ou de lueur de chaleur ; la lave ne dégage de la vapeur sur son armure que parce que la lave d'Ash le touche.
+À LIRE : La lave d'Ash est un système d'arme né de ses mains ; Borg résiste à la chaleur et répond par la force physique ; les coupes invisibles maintiennent le flux cinématographique sans forcer une physique de caméra impossible.
 
-[CHARACTER SANITIZATION]
-C1 ASH: adult male-coded fighter, tall lean jagged silhouette, black spiked hair, dark face, torn fitted black suit, lava-stone cracks, orange eyes, one eye flame, clawed hands, calm stance, sudden shadow disappearance, aggressive hand-weapon strikes.
-C2 BORG: adult male-coded fighter, tall powerful drifter silhouette, bone helmet skull face, black punk crest, tattered dark coat, bone spikes, worn boots, fire-resistant body, huge jump ability, destructive landing force, no fire emission.
-C3 civilians: tiny edge silhouettes only, already fleeing through background gaps.
-Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+[ASSAINISSEMENT DES PERSONNAGES]
+C1 ASH : combattant à code masculin adulte, silhouette élancée et déchiquetée, cheveux noirs en pointe, visage sombre, costume noir ajusté déchiré, fissures de pierre de lave, yeux orange, un œil en flamme, mains griffues, posture calme, disparition soudaine dans l'ombre, frappes agressives avec des armes à la main.
+C2 BORG : combattant à code masculin adulte, silhouette de vagabond grand et puissant, visage de crâne avec casque en os, crête punk noire, manteau sombre en lambeaux, pointes en os, bottes usées, corps résistant au feu, capacité de saut énorme, force d'atterrissage destructrice, aucune émission de feu.
+C3 civils : minuscules silhouettes en arrière-plan uniquement, fuyant déjà à travers les espaces.
+Supprimez les traits contradictoires, la psychologie invisible, les détails de costume excessifs et l'histoire qui ne peut pas apparaître dans un panneau.
 
-[IDENTITY CONSISTENCY]
-image1 controls Ash identity; image2 controls Borg identity. Keep Ash lean lava-shadow silhouette and Borg bone-helmet punk-spiked silhouette distinct in every panel. Do not merge characters, redesign outfits, turn either into generic monsters, or frame either as the sole antagonist.
+[COHÉRENCE DE L'IDENTITÉ]
+image1 contrôle l'identité d'Ash ; image2 contrôle l'identité de Borg. Gardez la silhouette élancée lave-ombre d'Ash et la silhouette à crête punk et casque en os de Borg distinctes dans chaque panneau. Ne fusionnez pas les personnages, ne redessinez pas les tenues, ne transformez aucun des deux en monstres génériques et ne présentez aucun des deux comme l'unique antagoniste.
 
-[STORYBOARD PURITY]
-Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, speech bubbles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+[PURETÉ DU STORYBOARD]
+Les images des panneaux sont des croquis rugueux monochromes gris clair, sans détails. Mettez les numéros de panneau, les noms des temps forts et les balises d'objectif dans la bande d'en-tête à l'extérieur de chaque image de panneau. Pas de couleur, d'étiquettes, de flèches, de légendes, de sous-titres, de bulles de dialogue, de logos, de filigranes, de marques de temps, de diagrammes, d'interface utilisateur, de poses fantômes, de corps en double ou de superpositions techniques à l'intérieur des panneaux.
 
-[MASTER SHOT RULE]
-P01 begins close, but P02 widens enough to establish the usable combat lane: crosswalk foreground, taxi screen right, bus stop screen left, glass storefront and building facade rear, hard ground shadows for Ash's teleport.
+[RÈGLE DU PLAN MAÎTRE]
+P01 commence en gros plan, mais P02 s'élargit suffisamment pour établir la voie de combat utilisable : passage piéton au premier plan, taxi à droite, arrêt de bus à gauche, vitrine en verre et façade de bâtiment à l'arrière, ombres au sol marquées pour la téléportation d'Ash.
 
-[EMOTIONAL ARC]
-calm threat -> sudden rush -> shadow reversal -> airborne brutality -> molten counter -> fireproof confidence -> failed escape -> close-quarters pressure -> hard wall impact -> unresolved counterattack.
+[ARC ÉMOTIONNEL]
+menace calme -> ruée soudaine -> inversion d'ombre -> brutalité aérienne -> contre-attaque en fusion -> confiance ignifugée -> évasion ratée -> pression au corps à corps -> impact violent contre un mur -> contre-attaque non résolue.
 
-[STYLE LOCKS]
-STYLE LOCK: clean monochrome rough-sketch storyboard panels; final video intent is bright colorful daytime stylized mixed-media 3D action, crisp silhouettes, saturated city accents, warm sun, readable molten weapon VFX, hidden-cut long-take illusion, heavy punch choreography, hard impacts, and readable combat geography.
-EFFECT LOCK: Ash lava weapons are hand-born: dripping palms, whip lashes, blade fans, hook curves, binding bands, molten droplets, heat shimmer, sticky contact, steam bursts. They never carry Ash for movement. Borg resists flame and never emits fire, flame, embers, smoke, or heat glow of his own.
-ENVIRONMENT LOCK: yellow taxi, blue bus stop, red awnings, bright glass, white crosswalk, hard shadows, building facade, sunlit concrete; colorful daylight, not noir.
+[VERROUILLAGE DE STYLE]
+VERROUILLAGE DE STYLE : panneaux de storyboard en croquis rugueux monochromes propres ; l'intention vidéo finale est une action 3D en techniques mixtes stylisée, lumineuse et colorée en plein jour, silhouettes nettes, accents urbains saturés, soleil chaud, effets visuels d'armes en fusion lisibles, illusion de plan-séquence avec coupes invisibles, chorégraphie de coups de poing lourds, impacts violents et géographie de combat lisible.
+VERROUILLAGE D'EFFET : Les armes en lave d'Ash sont nées de ses mains : paumes dégoulinantes, coups de fouet, éventails de lames, courbes de crochets, bandes de liaison, gouttelettes en fusion, miroitement de chaleur, contact collant, bouffées de vapeur. Elles ne portent jamais Ash pour le déplacement. Borg résiste aux flammes et n'émet jamais de feu, de flammes, de braises, de fumée ou de lueur de chaleur de lui-même.
+VERROUILLAGE D'ENVIRONNEMENT : taxi jaune, arrêt de bus bleu, auvents rouges, verre brillant, passage piéton blanc, ombres marquées, façade de bâtiment, béton ensoleillé ; lumière du jour colorée, pas de film noir.
 
-[SPATIAL CONTINUITY LOCK]
-Seamless hidden-cut route across one city lane. Preserve screen direction: Borg pressures from screen left toward screen right; Ash uses ground shadows to reposition behind or aside without reversing the axis. Reuse anchors: crosswalk, taxi, bus stop, storefront glass, building facade, hard ground shadows. Allowed changes: camera height/distance/orbit, lens feel, foreground occlusion, lava weapon shape, Borg jump height, wall damage, ground damage, steam, debris.
+[VERROUILLAGE DE CONTINUITÉ SPATIALE]
+Route de coupe invisible fluide à travers une voie de ville. Préservez la direction de l'écran : Borg fait pression de la gauche vers la droite de l'écran ; Ash utilise les ombres au sol pour se repositionner derrière ou sur le côté sans inverser l'axe. Réutilisez les ancres : passage piéton, taxi, arrêt de bus, vitrine, façade de bâtiment, ombres au sol marquées. Changements autorisés : hauteur/distance/orbite de la caméra, sensation de l'objectif, occlusion au premier plan, forme de l'arme en lave, hauteur de saut de Borg, dommages aux murs, dommages au sol, vapeur, débris.
 
-[DIRECTOR STRIP]
-Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps. Each panel is a consecutive shot beat connected by a hidden transition, preserving one flowing fight.
-RHYTHM TRACK format: `RHY P##: [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
-ESCALATION MAP format: `ESC P##: [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
-PANEL HEADERS: P01 / macro insert / molten hand calm -> P02 / 24mm wide / Borg rush shadow vanish -> P03 / 35mm low / rear leg catch -> P04 / 24mm vertical / leverage jump punch -> P05 / 50mm / suspended cross-block -> P06 / 24mm follow / shadow point break -> P07 / 35mm side / one-arm block -> P08 / 50mm orbit / rapid punch exchange -> P09 / 35mm impact / building slam recovery -> P10 / anamorphic wide / final lava counter.
-CAMERA + LENS PLAN: P01 macro hand close-up, lava drips; hidden cut by lava crossing lens -> P02 wide as Borg rushes and Ash drops into ground shadow; hidden cut by Borg body occlusion -> P03 low rear reveal as Ash appears behind Borg on the same attack line and catches both legs; hidden cut by upward motion blur -> P04 vertical follow as Borg uses Ash's leg grip as leverage, jumps anyway, drags Ash upward, and punches him; hidden cut by Ash passing close to lens -> P05 medium as Ash recovers mid-flight and fires lava, Borg cross-blocks, then both hold a brief suspended dialogue beat; hidden cut by steam burst -> P06 follow Borg's high leap toward Ash's last shadow point, then ground impact after Ash teleports aside; hidden cut by debris wipe -> P07 side track as Ash attacks with lava again and Borg blocks one-handed; hidden cut by forearm occlusion -> P08 close orbit during rapid punches and dialogue; hidden cut by Borg fist crossing lens -> P09 impact shot as Borg punches Ash into building; hidden cut by wall dust and Ash's recovery movement -> P10 wide as Ash catches himself against the cracked facade, plants both feet, and fires both lava hands as Borg charges.
-ACTION PATH: P01 Ash stands still; close on one hand as lava leaks between fingers -> P02 Borg rushes straight at Ash; Ash sinks into the ground shadow before contact -> P03 Ash appears behind Borg on the same left-to-right attack line, grabs both legs with lava hooks and hand grip -> P04 Borg uses the leg catch as leverage, jumps anyway, drags Ash upward, and punches him midair -> P05 Ash is thrown back, twists in the air, and fires lava whips; Borg crosses both arms to block, steam rises from Ash's lava only, then the block creates a brief dialogue pause -> P06 Borg launches again toward Ash's last shadow escape point; camera follows his leap, Ash shadow-teleports aside, and Borg breaks that ground shadow to deny reuse -> P07 Ash reappears from a new shadow and attacks with lava blades; Borg blocks one-handed and keeps advancing -> P08 Borg closes the distance; Ash and Borg trade fast punches, parries, shoulder checks, and lava-blade counters while speaking -> P09 Borg lands a heavy punch that sends Ash backward into a building facade; Ash hits hard but braces one hand on the cracked wall -> P10 Borg charges toward the damaged wall; Ash drops from the wall to a planted stance, raises both hands, and fires twin lava streams toward Borg as the scene ends.
-RHYTHM TRACK: P01 RHY P01: slow reveal / short block / held beat -> P02 RHY P02: burst / short block / smash beat -> P03 RHY P03: impact / short block / match beat -> P04 RHY P04: impact / medium block / smash beat -> P05 RHY P05: pause / medium block / held beat -> P06 RHY P06: impact / medium block / whip beat -> P07 RHY P07: burst / short block / clean beat -> P08 RHY P08: build / long block / held beat -> P09 RHY P09: impact / short block / smash beat -> P10 RHY P10: final hit / long block / unresolved.
-ESCALATION MAP: P01 ESC P01: L2 tension / rise -> P02 ESC P02: L4 surge / spike -> P03 ESC P03: L4 surge / rise -> P04 ESC P04: L5 peak / spike -> P05 ESC P05: L4 surge / drop -> P06 ESC P06: L5 peak / spike -> P07 ESC P07: L4 surge / rise -> P08 ESC P08: L5 peak / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L5 peak / unresolved.
-STATE TRACK: P01 lava hand ready -> P02 Ash vanishes -> P03 Borg legs caught same axis -> P04 leverage jump punch -> P05 cross-block dialogue pause -> P06 shadow point broken -> P07 one-arm block -> P08 punch exchange dialogue -> P09 Ash wall impact recovery -> P10 final lava fired.
-STYLE TRACK: P01 molten close-up -> P02 rush shadow drop -> P03 rear reversal -> P04 vertical brutality -> P05 steam block -> P06 leap impact -> P07 hard block -> P08 close fists -> P09 wall hit -> P10 lava counter.
+[BANDE DU RÉALISATEUR]
+Tableau de piste animatique inférieur aligné sur les colonnes des panneaux. Pistes : LIGNE DE TEMPS, TRAJECTOIRE CAMÉRA, TRAJECTOIRE ACTION, PISTE RYTHME, CARTE ESCALADE, PISTE ÉTAT, PISTE STYLE. Utilisez des jetons de plan, des lignes fines, des blocs de rythme, de petites barres d'intensité, des étiquettes d'un à trois mots. Pas de secondes ni d'horodatages. Chaque panneau est un temps fort de plan consécutif relié par une transition invisible, préservant un combat fluide.
+Format PISTE RYTHME : `RHY P## : [maintien|révélation lente|construction|éclatement|impact|pause|récupération|coup final] / [bloc court|bloc moyen|bloc long] / [temps propre|temps assorti|temps fracassant|temps maintenu|temps fouetté]`.
+Format CARTE ESCALADE : `ESC P## : [L1 calme|L2 tension|L3 montée|L4 poussée|L5 pic] / [plat|montée|pointe|chute|relâchement|non résolu]`.
+EN-TÊTES DE PANNEAU : P01 / macro insert / main en fusion calme -> P02 / 24mm large / Borg fonce disparition ombre -> P03 / 35mm bas / saisie jambe arrière -> P04 / 24mm vertical / saut avec levier coup de poing -> P05 / 50mm / blocage en croix suspendu -> P06 / 24mm suivi / rupture point d'ombre -> P07 / 35mm côté / blocage un bras -> P08 / 50mm orbite / échange coups rapides -> P09 / 35mm impact / récupération slam bâtiment -> P10 / anamorphique large / contre-attaque lave finale.
+PLAN CAMÉRA + OBJECTIF : P01 gros plan macro main, gouttes de lave ; coupe invisible par passage de lave devant l'objectif -> P02 large alors que Borg fonce et qu'Ash plonge dans l'ombre au sol ; coupe invisible par occlusion du corps de Borg -> P03 révélation basse arrière alors qu'Ash apparaît derrière Borg sur la même ligne d'attaque et attrape les deux jambes ; coupe invisible par flou de mouvement vers le haut -> P04 suivi vertical alors que Borg utilise la prise de jambe d'Ash comme levier, saute quand même, entraîne Ash vers le haut et le frappe ; coupe invisible par passage d'Ash près de l'objectif -> P05 moyen alors qu'Ash récupère en plein vol et tire de la lave, Borg bloque en croix, puis les deux tiennent un bref moment de dialogue suspendu ; coupe invisible par bouffée de vapeur -> P06 suit le haut saut de Borg vers le dernier point d'ombre d'Ash, puis impact au sol après qu'Ash se soit téléporté sur le côté ; coupe invisible par balayage de débris -> P07 suivi latéral alors qu'Ash attaque à nouveau avec de la lave et que Borg bloque d'une main ; coupe invisible par occlusion de l'avant-bras -> P08 orbite proche pendant les coups de poing rapides et le dialogue ; coupe invisible par passage du poing de Borg devant l'objectif -> P09 plan d'impact alors que Borg projette Ash dans le bâtiment ; coupe invisible par poussière de mur et mouvement de récupération d'Ash -> P10 large alors qu'Ash se rattrape contre la façade fissurée, plante les deux pieds et tire des deux mains de lave alors que Borg charge.
+TRAJECTOIRE ACTION : P01 Ash reste immobile ; gros plan sur une main alors que la lave s'écoule entre les doigts -> P02 Borg fonce droit sur Ash ; Ash s'enfonce dans l'ombre au sol avant le contact -> P03 Ash apparaît derrière Borg sur la même ligne d'attaque de gauche à droite, attrape les deux jambes avec des crochets de lave et une prise de main -> P04 Borg utilise la prise de jambe comme levier, saute quand même, entraîne Ash vers le haut et le frappe en plein air -> P05 Ash est projeté en arrière, se tord dans les airs et tire des fouets de lave ; Borg croise les deux bras pour bloquer, la vapeur ne monte que de la lave d'Ash, puis le blocage crée une brève pause de dialogue -> P06 Borg se lance à nouveau vers le dernier point d'évasion d'ombre d'Ash ; la caméra suit son saut, Ash se téléporte dans l'ombre sur le côté, et Borg brise cette ombre au sol pour empêcher toute réutilisation -> P07 Ash réapparaît d'une nouvelle ombre et attaque avec des lames de lave ; Borg bloque d'une main et continue d'avancer -> P08 Borg réduit la distance ; Ash et Borg échangent des coups de poing rapides, des parades, des coups d'épaule et des contre-attaques à la lame de lave tout en parlant -> P09 Borg porte un coup de poing lourd qui envoie Ash en arrière contre une façade de bâtiment ; Ash frappe fort mais cale une main sur le mur fissuré -> P10 Borg charge vers le mur endommagé ; Ash descend du mur dans une posture plantée, lève les deux mains et tire des doubles flux de lave vers Borg alors que la scène se termine.
+PISTE RYTHME : P01 RHY P01 : révélation lente / bloc court / temps maintenu -> P02 RHY P02 : éclatement / bloc court / temps fracassant -> P03 RHY P03 : impact / bloc court / temps assorti -> P04 RHY P04 : impact / bloc moyen / temps fracassant -> P05 RHY P05 : pause / bloc moyen / temps maintenu -> P06 RHY P06 : impact / bloc moyen / temps fouetté -> P07 RHY P07 : éclatement / bloc court / temps propre -> P08 RHY P08 : construction / bloc long / temps maintenu -> P09 RHY P09 : impact / bloc court / temps fracassant -> P10 RHY P10 : coup final / bloc long / non résolu.
+CARTE ESCALADE : P01 ESC P01 : L2 tension / montée -> P02 ESC P02 : L4 poussée / pointe -> P03 ESC P03 : L4 poussée / montée -> P04 ESC P04 : L5 pic / pointe -> P05 ESC P05 : L4 poussée / chute -> P06 ESC P06 : L5 pic / pointe -> P07 ESC P07 : L4 poussée / montée -> P08 ESC P08 : L5 pic / montée -> P09 ESC P09 : L5 pic / pointe -> P10 ESC P10 : L5 pic / non résolu.
+PISTE ÉTAT : P01 main de lave prête -> P02 Ash disparaît -> P03 jambes de Borg attrapées même axe -> P04 saut avec levier coup de poing -> P05 pause dialogue blocage en croix -> P06 point d'ombre brisé -> P07 blocage un bras -> P08 échange coups de poing dialogue -> P09 récupération impact mur Ash -> P10 lave finale tirée.
+PISTE STYLE : P01 gros plan en fusion -> P02 ruée chute ombre -> P03 inversion arrière -> P04 brutalité verticale -> P05 blocage vapeur -> P06 impact saut -> P07 blocage dur -> P08 poings serrés -> P09 coup mur -> P10 contre-attaque lave.
 
-[SEQUENCE]
-Grid: 10 panels in a clean 5x2 storyboard sheet; seamless hidden-cut long-take illusion using lava lens pass, body occlusion, upward motion blur, steam burst, debris wipe, forearm occlusion, fist wipe, and wall dust; Ash's hand-leaking lava is a weapon system, Borg is fire-resistant and never emits flame, and the action preserves a clear left-to-right tactical route.
+[SÉQUENCE]
+Grille : 10 panneaux dans une feuille de storyboard propre 5x2 ; illusion de plan-séquence avec coupes invisibles utilisant le passage de lave devant l'objectif, l'occlusion corporelle, le flou de mouvement vers le haut, la bouffée de vapeur, le balayage de débris, l'occlusion de l'avant-bras, le balayage du poing et la poussière de mur ; la lave s'écoulant de la main d'Ash est un système d'arme, Borg est résistant au feu et n'émet jamais de flammes, et l'action préserve une route tactique claire de gauche à droite.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Use @[storyboard ref] as the director-approved storyboard blueprint. Treat each panel as a consecutive shot beat in one seamless hidden-cut long-take illusion. Follow panel order exactly. Do not render the storyboard sheet. Preserve framing, staging, screen direction, city geography, props, choreography, continuity, and escalation.
-Do not make a strict one-shot. Use motivated hidden transitions: lava lens pass, body occlusion, upward motion blur, steam burst, debris wipe, forearm occlusion, fist wipe, and wall dust.
-Characters never slide or glide; movement is footwork, pivots, steps, jumps, grabs, impacts, shadow-steps, and recoveries.
-Preserve screen direction: Borg pressures from screen left toward screen right; Ash uses ground shadows to reposition without reversing the axis.
-Use @[char ref] as ASH and @[char 2 ref] as BORG references.
+Utilisez @[storyboard ref] comme plan de storyboard approuvé par le réalisateur. Traitez chaque panneau comme un temps fort de plan consécutif dans une illusion de plan-séquence avec coupes invisibles. Suivez exactement l'ordre des panneaux. Ne rendez pas la feuille de storyboard. Préservez le cadrage, la mise en scène, la direction de l'écran, la géographie de la ville, les accessoires, la chorégraphie, la continuité et l'escalade.
+Ne faites pas un plan-séquence strict. Utilisez des transitions invisibles motivées : passage de lave devant l'objectif, occlusion corporelle, flou de mouvement vers le haut, bouffée de vapeur, balayage de débris, occlusion de l'avant-bras, balayage du poing et poussière de mur.
+Les personnages ne glissent jamais ; le mouvement se fait par le jeu de jambes, les pivots, les pas, les sauts, les saisies, les impacts, les pas d'ombre et les récupérations.
+Préservez la direction de l'écran : Borg fait pression de la gauche vers la droite de l'écran ; Ash utilise les ombres au sol pour se repositionner sans inverser l'axe.
+Utilisez @[char ref] comme ASH et @[char 2 ref] comme références BORG.
 
-ENVIRONMENT: Bright colorful daytime city lane: yellow taxi, blue bus stop, glass storefront, red awnings, white crosswalk, hard ground shadows, building facade.
-EMOTIONAL GUIDANCE: Valence: intense rivalry. Arousal: calm lava threat -> sudden rush -> shadow reversal -> airborne punch -> lava counter -> missed ground impact -> close fistfight -> wall slam -> unresolved lava counter.
-AUDIO: No music. Use city ambience, lava hiss, steam, concrete hits, heavy landings, wall impact, breath, debris, and witty fight banter; no subtitles.
+ENVIRONNEMENT : Voie de ville lumineuse et colorée en plein jour : taxi jaune, arrêt de bus bleu, vitrine en verre, auvents rouges, passage piéton blanc, ombres au sol marquées, façade de bâtiment.
+GUIDANCE ÉMOTIONNELLE : Valence : rivalité intense. Éveil : menace de lave calme -> ruée soudaine -> inversion d'ombre -> coup de poing aérien -> contre-attaque de lave -> impact au sol manqué -> combat au corps à corps -> slam contre un mur -> contre-attaque de lave non résolue.
+AUDIO : Pas de musique. Utilisez l'ambiance de la ville, le sifflement de la lave, la vapeur, les coups sur le béton, les atterrissages lourds, l'impact contre le mur, le souffle, les débris et les répliques de combat pleines d'esprit ; pas de sous-titres.
 
-PANEL BEATS:
-P01: Macro close-up on Ash standing still; lava leaks from his fingers and gathers into short blades.
-P02: Wide: Borg rushes straight at Ash; Ash sinks into the ground shadow just before contact.
-P03: Rear low reveal: Ash appears behind Borg on the same attack line and catches both legs with lava hooks and a hard grip.
-P04: Vertical follow: Borg uses Ash's leg grip as leverage, jumps anyway, drags Ash upward, and punches him midair.
-P05: Ash twists through the throw and fires lava whips; Borg cross-blocks with both arms, steam rising only from Ash's lava, then the block creates a brief suspended pause. Borg: "Cute. Your hands come with a warning label?" Ash: "Only for people who can read."
-P06: Camera follows Borg's high leap toward Ash's last shadow escape point; Ash shadow-teleports aside, and Borg breaks that ground shadow to deny reuse.
-P07: Ash reappears and attacks with lava blades; Borg blocks with one arm and keeps advancing.
-P08: Close orbit: they trade fast punches, parries, shoulder checks, and lava-blade counters. Borg: "You done showing off?" Ash: "I was warming up. You ruined the metaphor."
-P09: Borg lands a heavy punch, sending Ash backward into a building facade; Ash hits hard but braces one hand on the cracked wall.
-P10: Wide: Borg charges the damaged wall; Ash drops from the wall into a planted stance and fires twin lava streams from both hands toward him, ending mid-counter.
+TEMPS FORTS DES PANNEAUX :
+P01 : Gros plan macro sur Ash immobile ; la lave s'écoule de ses doigts et se rassemble en lames courtes.
+P02 : Large : Borg fonce droit sur Ash ; Ash s'enfonce dans l'ombre au sol juste avant le contact.
+P03 : Révélation basse arrière : Ash apparaît derrière Borg sur la même ligne d'attaque et attrape les deux jambes avec des crochets de lave et une prise ferme.
+P04 : Suivi vertical : Borg utilise la prise de jambe d'Ash comme levier, saute quand même, entraîne Ash vers le haut et le frappe en plein air.
+P05 : Ash se tord à travers la projection et tire des fouets de lave ; Borg bloque en croix avec les deux bras, la vapeur ne montant que de la lave d'Ash, puis le blocage crée une brève pause suspendue. Borg : "Mignon. Tes mains sont livrées avec une étiquette d'avertissement ?" Ash : "Seulement pour ceux qui savent lire."
+P06 : La caméra suit le haut saut de Borg vers le dernier point d'évasion d'ombre d'Ash ; Ash se téléporte dans l'ombre sur le côté, et Borg brise cette ombre au sol pour empêcher toute réutilisation.
+P07 : Ash réapparaît et attaque avec des lames de lave ; Borg bloque avec un bras et continue d'avancer.
+P08 : Orbite proche : ils échangent des coups de poing rapides, des parades, des coups d'épaule et des contre-attaques à la lame de lave. Borg : "Tu as fini de faire ton intéressant ?" Ash : "Je m'échauffais. Tu as gâché la métaphore."
+P09 : Borg porte un coup de poing lourd, envoyant Ash en arrière contre une façade de bâtiment ; Ash frappe fort mais cale une main sur le mur fissuré.
+P10 : Large : Borg charge vers le mur endommagé ; Ash descend du mur dans une posture plantée et tire des doubles flux de lave des deux mains vers lui, terminant au milieu de la contre-attaque.
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K abonnés
@@ -2176,27 +2179,27 @@ P18 : La lumière du jour verte revient ; les feuilles revivent, les oiseaux rev
 
 ---
 
-### 22. Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech…
+### 22. Présentation d'un ordinateur portable de jeu futuriste
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063217440704868664_0_poster.jpg" width="480" alt="Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063217440704868664_0_poster.jpg" width="480" alt="Présentation d'un ordinateur portable de jeu futuriste"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Format: 9:16 Vertical | 4K Ultra HD | Hyper-Realistic | Premium Tech Commercial | Cinematic Lighting
+Format : 9:16 Vertical | 4K Ultra HD | Hyper-réaliste | Publicité technologique premium | Éclairage cinématographique
 
-Prompt:
+Prompt :
 
-A futuristic black void illuminated by glowing blue energy. Sleek liquid-metal fragments float in the air and rapidly assemble themselves into a next-generation gaming laptop. Precision-engineered components snap perfectly into place as the laptop unfolds dramatically with mechanical elegance. Extreme close-ups showcase premium metal textures, RGB lighting, and ultra-thin design.
+Un vide noir futuriste illuminé par une énergie bleue brillante. Des fragments de métal liquide élégants flottent dans l'air et s'assemblent rapidement pour former un ordinateur portable de jeu de nouvelle génération. Des composants conçus avec précision s'emboîtent parfaitement tandis que l'ordinateur portable se déplie de manière spectaculaire avec une élégance mécanique. Des gros plans extrêmes mettent en valeur les textures métalliques premium, l'éclairage RVB et le design ultra-fin.
 
-As the screen powers on, a burst of energy erupts outward. Epic gaming worlds explode from the display into reality: a futuristic cyberpunk city with neon lights, a medieval dragon soaring through the air, and a high-speed racing car drifting through glowing streets. The camera flies seamlessly through these worlds as particles, explosions, and visual effects surround the laptop.
+Lorsque l'écran s'allume, une explosion d'énergie se déploie vers l'extérieur. Des mondes de jeu épiques jaillissent de l'écran vers la réalité : une ville cyberpunk futuriste avec des néons, un dragon médiéval planant dans les airs et une voiture de course à grande vitesse dérivant dans des rues lumineuses. La caméra survole ces mondes de manière fluide tandis que des particules, des explosions et des effets visuels entourent l'ordinateur portable.
 
-In the final seconds, the gaming worlds collapse back into the screen. The laptop rotates slowly in a premium hero shot against a dark reflective environment. RGB keyboard glows intensely, cooling vents emit subtle energy effects, and cinematic light sweeps across the chassis. Product centered, ultra-premium presentation, dramatic reflections, sharp details, luxury technology aesthetic, powerful performance showcase, commercial-quality visuals, masterpiece product cinematography.
+Dans les dernières secondes, les mondes de jeu se replient dans l'écran. L'ordinateur portable tourne lentement dans un plan héroïque premium sur un environnement sombre et réfléchissant. Le clavier RVB brille intensément, les évents de refroidissement émettent des effets d'énergie subtils et une lumière cinématographique balaie le châssis. Produit centré, présentation ultra-premium, reflets spectaculaires, détails nets, esthétique technologique de luxe, vitrine de performances puissantes, visuels de qualité commerciale, chef-d'œuvre de cinématographie produit.
 ```
 
 **Par** [Jasmine Ai ✓](https://x.com/jasminekhan90_) (@jasminekhan90_) · 14.7K abonnés
@@ -2209,19 +2212,19 @@ In the final seconds, the gaming worlds collapse back into the screen. The lapto
 
 ---
 
-### 23. First-person POV flying on a broomstick in a fast cinematic one-take…
+### 23. Poursuite en balai à la première personne au stade Santiago Bernabéu
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063110836500181285_0_poster.jpg" width="480" alt="First-person POV flying on a broomstick in a fast cinematic one-take…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2063110836500181285_0_poster.jpg" width="480" alt="Poursuite en balai à la première personne au stade Santiago Bernabéu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-First-person POV flying on a broomstick in a fast cinematic one-take chase through the Santiago Bernabéu Stadium during a live FIFA World Cup match. Follow a continuous flight path as the camera route. A small golden glowing football stays ahead as the object being chased, moving naturally across the frame instead of staying locked in the centre — let it shift left, right, higher, and lower during the sequence so the pursuit feels dynamic and real. Only show the front of the broom, both gloved hands, and team jersey sleeves from the rider. Do not show the rider's face at any point. The chase should travel in one unbroken continuous motion: launch from pitch level weaving low between the two competing teams mid-match, banking hard left as the crowd roars on both sides, accelerate upward through the open retractable roof gap with the steel canopy frame rushing past overhead, spiral around the outer rim of the upper tier with the full Madrid skyline visible beyond the stadium bowl, dive back down through the floodlight towers with blinding broadcast light streaking across the lens, skim low across the emerald pitch surface inches above the turf with players scattering, bank through the tunnel arch beneath the lower stand, burst out the other side into the open air above the Paseo de la Castellana with Madrid skyscrapers flanking both sides, curve back toward the stadium in a wide banking turn with the full Bernabéu exterior in view, re-enter through the roof opening in a steep dive, and end with a final acceleration toward the golden football for the catch above the centre circle as 85,000 fans erupt below. Keep the motion smooth and continuous with no cuts. Do not show guide lines, arrows, extra characters, broken broom parts, duplicate body parts, or any face reflections. Cinematic motion blur on fast turns, volumetric light shafts from the floodlights, photorealistic crowd density, ultra-realistic stadium architecture, FIFA World Cup atmosphere, first-person immersive sports fantasy, Unreal Engine 5, 8K.
+Vue à la première personne (POV) en volant sur un balai dans une poursuite cinématographique rapide en un seul plan à travers le stade Santiago Bernabéu pendant un match de la Coupe du Monde de la FIFA. Suivez une trajectoire de vol continue comme itinéraire de caméra. Un petit ballon de football doré brillant reste devant comme objet poursuivi, se déplaçant naturellement dans le cadre au lieu de rester verrouillé au centre — laissez-le se déplacer à gauche, à droite, plus haut et plus bas pendant la séquence pour que la poursuite semble dynamique et réelle. Ne montrez que l'avant du balai, les deux mains gantées et les manches du maillot d'équipe du cavalier. Ne montrez jamais le visage du cavalier. La poursuite doit se dérouler en un mouvement continu ininterrompu : décollage au niveau du terrain en se faufilant bas entre les deux équipes en compétition au milieu du match, virage serré à gauche alors que la foule rugit des deux côtés, accélération vers le haut à travers l'ouverture du toit rétractable avec la structure en acier de la verrière défilant au-dessus, spirale autour du bord extérieur du niveau supérieur avec tout l'horizon de Madrid visible au-delà de la cuvette du stade, plongée vers le bas à travers les tours d'éclairage avec une lumière de diffusion aveuglante traversant l'objectif, survol bas de la surface du terrain émeraude à quelques centimètres du gazon avec les joueurs qui s'éparpillent, virage à travers l'arche du tunnel sous la tribune inférieure, sortie de l'autre côté en plein air au-dessus du Paseo de la Castellana avec les gratte-ciel de Madrid flanquant les deux côtés, courbe vers le stade dans un large virage incliné avec l'extérieur complet du Bernabéu en vue, rentrée par l'ouverture du toit dans une plongée abrupte, et fin avec une accélération finale vers le ballon de football doré pour la capture au-dessus du cercle central alors que 85 000 fans éclatent en dessous. Gardez le mouvement fluide et continu sans coupures. Ne montrez pas de lignes de guidage, de flèches, de personnages supplémentaires, de pièces de balai cassées, de parties du corps en double ou de reflets de visage. Flou de mouvement cinématographique sur les virages rapides, faisceaux lumineux volumétriques des projecteurs, densité de foule photoréaliste, architecture de stade ultra-réaliste, atmosphère de la Coupe du Monde de la FIFA, sport fantastique immersif à la première personne, Unreal Engine 5, 8K.
 ```
 
 **Par** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17K abonnés
@@ -2552,40 +2555,40 @@ IMAGE FINALE : Révélation élégante du logo. Scintillement doux. Fondu orches
 
 ---
 
-### 28. 0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swo…
+### 28. Épopée fantastique de la Reine des Glaces et du Dragon
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061850748007375010_0_poster.jpg" width="480" alt="0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swo…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061850748007375010_0_poster.jpg" width="480" alt="Épopée fantastique de la Reine des Glaces et du Dragon"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-0–3 seconds: A dark, frozen sky and a fierce blizzard. The camera swoops down, featuring an atmosphere inspired by Game of Thrones. A woman falls from the sky, tightly clutching her dog—a black dog with white fur on its chest and paws, pointed ears, and a sharp, intense gaze. She screams loudly as she plummets through the storm: "Ahhhh!" She is dressed in a black leather northern warrior outfit: a fitted leather vest, a belt, long gloves, tall boots, and a heavy fur cloak draped over her shoulders.
-3–6 seconds: They plunge into a snowy valley. The woman lands on one knee and grabs a glowing, ancient blue amulet. She looks at her dog and says, "Let's go." The black dog with white markings lets out a low growl and stares straight ahead. In the distance, Frost Walkers emerge through the blizzard.
-6–9 seconds: The amulet erupts with a bright blue light. Frost spreads across the woman's hands and face. Her leather outfit transforms into majestic black steel and ice crystal armor, engraved with intricate, sharp patterns.
-9–12 seconds: The woman completely transforms into the Ice Queen of the Walkers—pale blue skin, glowing blue eyes, a frozen crown, and powerful black armor. The dog begins to transform into a massive ice dragon, retaining its black fur and the white markings on its chest.
-12–15 seconds: A gigantic black ice dragon, bearing white markings and glowing blue eyes, spreads its wings. The Ice Queen climbs onto the dragon's back, and they fly into the storm while the army of Walkers kneels before them.
+0–3 secondes : Un ciel sombre et gelé et un blizzard féroce. La caméra plonge vers le bas, avec une atmosphère inspirée de Game of Thrones. Une femme tombe du ciel, serrant étroitement son chien – un chien noir avec de la fourrure blanche sur la poitrine et les pattes, des oreilles pointues et un regard vif et intense. Elle crie fort alors qu'elle chute à travers la tempête : "Ahhhh !" Elle est vêtue d'une tenue de guerrière nordique en cuir noir : un gilet en cuir ajusté, une ceinture, de longs gants, des bottes hautes et une lourde cape en fourrure drapée sur ses épaules.
+3–6 secondes : Ils plongent dans une vallée enneigée. La femme atterrit sur un genou et saisit une amulette bleue ancienne et brillante. Elle regarde son chien et dit : "Allons-y." Le chien noir aux marques blanches laisse échapper un grognement sourd et fixe droit devant lui. Au loin, des Marcheurs de Givre émergent à travers le blizzard.
+6–9 secondes : L'amulette éclate d'une lumière bleue vive. Le givre se propage sur les mains et le visage de la femme. Sa tenue en cuir se transforme en une majestueuse armure d'acier noir et de cristal de glace, gravée de motifs complexes et tranchants.
+9–12 secondes : La femme se transforme complètement en la Reine des Glaces des Marcheurs – peau bleu pâle, yeux bleu brillant, couronne gelée et puissante armure noire. Le chien commence à se transformer en un énorme dragon de glace, conservant sa fourrure noire et les marques blanches sur sa poitrine.
+12–15 secondes : Un gigantesque dragon de glace noir, portant des marques blanches et des yeux bleu brillant, déploie ses ailes. La Reine des Glaces grimpe sur le dos du dragon, et ils s'envolent dans la tempête tandis que l'armée des Marcheurs s'agenouille devant eux.
 
-Video Extension
-15–20 seconds: High-Altitude Top-Down View and Dragon Fire Baptism
-Scene Content: The dragon's massive black shadow blots out the light within the storm. It unleashes a low, vibrating roar, and blazing, ghostly blue fire (or bright orange fire, depending on the visual style) erupts from its maw.
-Visual Focus: Top-down view. The dragon fire sweeps across the army in a wide, fan-like arc. The snowpack melts instantly, billowing steam, as the Walker army struggles and scatters in the sea of flames.
-Audio: The rushing, deafening roar of the dragon fire, the agonized screams of the army, and the loud "hissing" of ice and snow instantly vaporizing.
-20–25 seconds: High-Speed Dive and POV Shift
-Scene Content: The giant dragon tucks its wings and enters a near-vertical, high-speed dive. The camera rapidly cuts to the Ice Queen’s POV (First-Person Point of View).
-Visual Focus: The edges of the frame blur from the extreme speed, with blizzard snow rushing violently past. The Queen's hands tightly grip the dragon's black scales, where the white markings glint in the frigid light. The ground target—the Walker army—zooms in rapidly in her line of sight.
-Physical Sensation: The audience can feel a suffocating sense of weightlessness and the immense power of the dragon's muscles flexing beneath her.
-25–30 seconds: Low-Altitude Strafe and Ice Magic Eruption
-Scene Content: Just before crashing into the ground, the dragon abruptly snaps its wings open, kicking up a massive, ring-shaped wave of snow. The POV remains with the Queen. She raises her right hand, and a blinding blue-white light gathers at her fingertips.
-Visual Focus: As the dragon skims just above the heads of the enemy army, the Queen unleashes a radial blast of frost magic. Countless giant ice spikes erupt from the ground, impaling and freezing the surrounding soldiers.
-Storyboard Details:
-Right side of POV: A row of soldiers is instantly frozen into ice sculptures, then shatters into pieces from the wake of the passing dragon wings.
-Left side of POV: The Queen waves her hand, and a fierce frost storm violently blasts a squad of Walkers into the air.
-Ending: The final frame freezes on the Queen's cold, ruthless eyes (seen through a sideways backward glance), alongside the silhouette of the massive dragon soaring back up into the clouds.
+Extension vidéo
+15–20 secondes : Vue plongeante à haute altitude et baptême du feu du dragon
+Contenu de la scène : L'ombre noire massive du dragon occulte la lumière dans la tempête. Il pousse un rugissement sourd et vibrant, et un feu bleu fantomatique et flamboyant (ou un feu orange vif, selon le style visuel) jaillit de sa gueule.
+Focus visuel : Vue plongeante. Le feu du dragon balaie l'armée dans un large arc en éventail. La couche de neige fond instantanément, dégageant de la vapeur, alors que l'armée des Marcheurs lutte et se disperse dans la mer de flammes.
+Audio : Le rugissement assourdissant du feu du dragon, les cris agonisants de l'armée et le "sifflement" fort de la glace et de la neige qui se vaporisent instantanément.
+20–25 secondes : Plongée à grande vitesse et changement de POV
+Contenu de la scène : Le dragon géant replie ses ailes et entame une plongée à grande vitesse presque verticale. La caméra coupe rapidement sur la POV (point de vue à la première personne) de la Reine des Glaces.
+Focus visuel : Les bords du cadre se floutent à cause de la vitesse extrême, avec la neige du blizzard qui passe violemment. Les mains de la Reine agrippent fermement les écailles noires du dragon, où les marques blanches scintillent dans la lumière glaciale. La cible au sol – l'armée des Marcheurs – zoome rapidement dans son champ de vision.
+Sensation physique : Le public peut ressentir une sensation étouffante d'apesanteur et l'immense puissance des muscles du dragon qui se contractent sous elle.
+25–30 secondes : Strafing à basse altitude et éruption de magie de glace
+Contenu de la scène : Juste avant de s'écraser au sol, le dragon déploie brusquement ses ailes, soulevant une onde de neige massive en forme d'anneau. La POV reste avec la Reine. Elle lève sa main droite, et une lumière bleu-blanc aveuglante se rassemble au bout de ses doigts.
+Focus visuel : Alors que le dragon rase le sommet des têtes de l'armée ennemie, la Reine déclenche une explosion radiale de magie de givre. D'innombrables pointes de glace géantes jaillissent du sol, empalant et gelant les soldats environnants.
+Détails du storyboard :
+Côté droit de la POV : Une rangée de soldats est instantanément gelée en sculptures de glace, puis vole en éclats sous l'effet du sillage des ailes du dragon qui passe.
+Côté gauche de la POV : La Reine agite la main, et une violente tempête de givre projette violemment une escouade de Marcheurs dans les airs.
+Fin : La dernière image se fige sur les yeux froids et impitoyables de la Reine (vus à travers un regard latéral en arrière), aux côtés de la silhouette du dragon massif s'envolant à nouveau vers les nuages.
 ```
 
 **Par** [Good FortuneX ✓](https://x.com/pound75423) (@pound75423) · 681 abonnés
@@ -3206,53 +3209,51 @@ Envoyez un DM pour le prompt complet
 
 ---
 
-### 37. Mech: industrial mecha with screws, vibrant colors, anime style --ar…
+### 37. Koda contre AIMI-X : Sabotage industriel
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Mech: industrial mecha with screws, vibrant colors, anime style --ar…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda contre AIMI-X : Sabotage industriel"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Mech: industrial mecha with screws, vibrant colors, anime style --ar 2:3 --raw --profile 989pqwr --stylize 1000
+Mech : mecha industriel avec vis, couleurs vives, style anime --ar 2:3 --raw --profile 989pqwr --stylize 1000
 
-Kid: kid with screwdriver, vibrant colors, anime style --ar 2:3 --raw --profile 989pqwr --stylize 1000
+Kid : enfant avec un tournevis, couleurs vives, style anime --ar 2:3 --raw --profile 989pqwr --stylize 1000
 
-Then turned them stylized 3d with my gpt image 2 character sheet prompt.
+Ensuite, transformés en 3D stylisée avec mon prompt de feuille de personnage gpt image 2.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-FORMAT: 15s / 12 shots / rapid staccato sabotage action
+FORMAT : 15s / 12 plans / action de sabotage rapide et saccadée
 
-SUBJECTS: Koda from @[image1] , tiny fast child fixer with goggles, boots, and a red screwdriver-like tool; AIMI-X from @[image2] , giant square-headed scout protector robot with worn blue-gray and yellow armor, exposed wires, long limbs, and heavy visible screw-and-bolt joints.
+SUJETS : Koda de @[image1], petit réparateur rapide avec lunettes, bottes et un outil rouge ressemblant à un tournevis ; AIMI-X de @[image2], robot éclaireur protecteur géant à tête carrée avec une armure bleu-gris et jaune usée, des fils exposés, de longs membres et des joints visibles à vis et boulons.
 
-SCENE: In a dusty industrial yard, Koda is discovered by AIMI-X and survives by dismantling it faster than the giant robot can react. Keep the route readable: crate cover, robot right ankle, forearm, shoulder, back of head, fallen head. Every disassembly beat is caused by Koda physically using the red screwdriver on visible screws or bolts: tool engages, Koda twists, screw or bolt loosens, then the connected robot part fails. Use rapid inserts for sabotage details, with staccato insert triplets where the screw action must read clearly. No part breaks by itself.
+SCÈNE : Dans une cour industrielle poussiéreuse, Koda est découvert par AIMI-X et survit en le démontant plus vite que le robot géant ne peut réagir. Gardez le parcours lisible : couverture de caisse, cheville droite du robot, avant-bras, épaule, arrière de la tête, tête tombée. Chaque étape du démontage est causée par Koda utilisant physiquement le tournevis rouge sur des vis ou boulons visibles : l'outil s'engage, Koda tourne, la vis ou le boulon se desserre, puis la partie connectée du robot lâche. Utilisez des inserts rapides pour les détails du sabotage, avec des triplets d'inserts saccadés où l'action de la vis doit être clairement lisible. Aucune pièce ne se casse toute seule.
 
-SHOT SEQUENCE:
-SHOT 1: Extreme wide low crate frame, 28mm feel / Koda hides screen left while AIMI-X patrols center-right / SFX: low servo hum.
-SHOT 2: Robot over-shoulder push / AIMI-X head turns toward Koda’s crate / SFX: sharp head motor tick.
-SHOT 3: Worm’s-eye backward dolly / AIMI-X advances, one long arm lowering as Koda breaks from cover / SFX: heavy foot hits.
-SHOT 4: Ground-height side track / Koda slides under the reaching hand toward AIMI-X’s right ankle, red screwdriver now visible in his hand / SFX: dust scrape.
-SHOT 5: STACCATO INSERT TRIPLET, rapid macro locked shots / red screwdriver bites into the right ankle screw, Koda twists it loose, the screw drops and bounces on concrete / SFX: metal clicks.
-SHOT 6: Low wide tilt-down / because the right ankle screw is loosened, AIMI-X’s weight fails on that side; the giant robot buckles down onto its right knee and right ankle side while Koda rolls clear to the robot’s left / SFX: concrete impact, dust puff.
-SHOT 7: Medium wide push / AIMI-X sweeps one hand across the ground despite kneeling, and Koda springs onto the forearm toward the shoulder / SFX: servo strain.
-SHOT 8: STACCATO INSERT TRIPLET, rapid tight shoulder cuts / Koda plants one boot on the upper arm, drives the red screwdriver into the shoulder bolt, twists until the bolt pops loose and the joint plate separates / SFX: ratchet snap.
-SHOT 9: Low three-quarter jolt / only after the shoulder bolt releases, the robot arm breaks free and drops while Koda jumps away / SFX: metal slam.
-SHOT 10: Overhead fast track / the remaining hand sweeps after Koda as he darts along the robot’s back toward the rear head service panel / SFX: pan whip.
-SHOT 11: RAPID INSERTS, rear head detail sequence / Koda uses the red screwdriver on two rear head service-panel screws, both screws fly free, the panel opens, wires slacken / SFX: crackle, screw bounce.
-SHOT 12: Wide pullback / after the final screws release, AIMI-X falls apart into head, torso, loose arm, knee plates, wires, and bouncing screws while Koda lands clear beside the fallen head, screwdriver still in hand / SFX: final collapse, dust settling.
+SÉQUENCE DE PLANS :
+PLAN 1 : Plan large extrême bas, cadre de caisse, sensation 28mm / Koda se cache à gauche pendant qu'AIMI-X patrouille au centre-droit / SFX : bourdonnement de servo grave.
+PLAN 2 : Plan par-dessus l'épaule du robot / La tête d'AIMI-X se tourne vers la caisse de Koda / SFX : tic aigu du moteur de tête.
+PLAN 3 : Travelling arrière en contre-plongée / AIMI-X avance, un long bras s'abaissant alors que Koda sort de sa cachette / SFX : bruits de pas lourds.
+PLAN 4 : Travelling latéral au niveau du sol / Koda glisse sous la main qui tend vers la cheville droite d'AIMI-X, tournevis rouge maintenant visible dans sa main / SFX : frottement de poussière.
+PLAN 5 : TRIPLET D'INSERTS SACCADÉS, plans macro fixes rapides / le tournevis rouge mord dans la vis de la cheville droite, Koda la dévisse, la vis tombe et rebondit sur le béton / SFX : clics métalliques.
+PLAN 6 : Inclinaison basse large / à cause de la vis de cheville droite desserrée, le poids d'AIMI-X lâche de ce côté ; le robot géant s'effondre sur son genou droit et le côté de sa cheville droite pendant que Koda roule pour se dégager vers la gauche du robot / SFX : impact sur béton, nuage de poussière.
+PLAN 7 : Plan moyen large / AIMI-X balaie le sol d'une main malgré sa position agenouillée, et Koda saute sur l'avant-bras vers l'épaule / SFX : tension de servo.
+PLAN 8 : TRIPLET D'INSERTS SACCADÉS, coupes serrées rapides sur l'épaule / Koda pose une botte sur le bras supérieur, enfonce le tournevis rouge dans le boulon d'épaule, tourne jusqu'à ce que le boulon saute et que la plaque de joint se sépare / SFX : claquement de cliquet.
+PLAN 9 : Plan bas trois-quarts / seulement après que le boulon d'épaule soit libéré, le bras du robot se détache et tombe pendant que Koda saute au loin / SFX : choc métallique.
+PLAN 10 : Travelling rapide en plongée / la main restante balaie après Koda alors qu'il court le long du dos du robot vers le panneau de service arrière de la tête / SFX : coup de fouet panoramique.
+PLAN 11 : INSERTS RAPIDES, séquence de détails de l'arrière de la tête / Koda utilise le tournevis rouge sur deux vis du panneau de service arrière de la tête, les deux vis s'envolent, le panneau s'ouvre, les fils se détendent / SFX : crépitement, rebond de vis.
+PLAN 12 : Plan large en recul / après le desserrage des dernières vis, AIMI-X se désagrège en tête, torse, bras détaché, plaques de genou, fils et vis rebondissantes tandis que Koda atterrit à côté de la tête tombée, tournevis toujours en main / SFX : effondrement final, poussière qui retombe.
 
-MOOD: Stealth tension snaps into fast precision sabotage, then lands on a clean mechanical payoff.
-COLOR LOGIC: Muted Amber and Blue
-STYLE: Stylized cinematic painterly 3D-anime hybrid, warm dusty daylight, worn metal texture, soft cel-shadow shapes, clean silhouettes, crisp screw and joint detail, thin dust haze, physically motivated impacts, no identity redesign, no magical effects, no cluttered environment.you feel comfortable when creating your videos. Sometimes not every method works for every situation. There isn't just one correct way.
-
-Leaving the prompt and character generation progress below.
+AMBIANCE : La tension furtive bascule dans un sabotage rapide et précis, puis se termine sur une satisfaction mécanique propre.
+LOGIQUE DE COULEUR : Ambre et Bleu atténués
+STYLE : Hybride 3D-anime cinématographique stylisé, lumière du jour chaude et poussiéreuse, texture de métal usé, formes en cel-shading doux, silhouettes nettes, détails de vis et de joints nets, fine brume de poussière, impacts physiquement motivés, pas de refonte d'identité, pas d'effets magiques, pas d'environnement encombré.
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K abonnés
@@ -3347,115 +3348,115 @@ Style d'animation 3D chinoise moderne. Scène 1 : Dans une grande bibliothèque 
 
 ---
 
-### 40. A realistic close-up shot of a small digital camera screen glowing br…
+### 40. Vlog de campus nostalgique au digicam des années 2010
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="A realistic close-up shot of a small digital camera screen glowing br…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="Vlog de campus nostalgique au digicam des années 2010"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+Un plan rapproché réaliste d'un petit écran d'appareil photo numérique brillant intensément dans un environnement intérieur sombre. Sur l'écran LCD s'affiche une photo spontanée style début des années 2010 d'une jeune femme est-asiatique aux longs cheveux bruns ondulés, debout à côté d'une étagère en bois remplie de bandes dessinées et de magazines colorés.
 
-She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+Elle porte un haut noir à fines bretelles avec un gilet blanc ample tombant négligemment sur ses épaules et un jean bleu délavé. Capturée en plein rire alors qu'elle tourne légèrement le visage, son expression semble spontanée et naturelle, avec des mèches de cheveux tombant doucement sur une partie de sa joue.
 
-The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+Le flash direct et brutal de l'appareil compact crée des reflets marqués sur son visage et son gilet tout en aplatissant les ombres en arrière-plan, produisant une esthétique digicam nostalgique authentique. Un léger flou de mouvement et un grain numérique renforcent le réalisme spontané.
 
-Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+Les superpositions de l'interface de l'appareil sont visibles sur l'écran LCD, incluant l'horodatage « 8. 1. 2012 3:15 AM », les données d'exposition « 1/30 F3.4 ISO 100 », les indicateurs de mise au point et un petit symbole de batterie vert dans le coin.
 
-The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+L'image préserve la structure visible des pixels de l'écran, de légers reflets, une douceur chromatique et une texture numérique compressée. En dehors de l'écran LCD, l'obscurité environnante s'estompe doucement dans le flou, soulignant l'écran nostalgique lumineux.
 
-Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+Prise de vue ressemblant à un authentique appareil photo compact Sony Cyber-shot du début des années 2010 utilisant un capteur CCD avec un rendu numérique vintage et une exposition au flash imparfaite.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Use uploaded image @[character_ref] as the permanent character identity reference and uploaded image @[storyboard_ref] as the exact visual timeline and sequencing guide. Follow storyboard timing, shot transitions, framing rhythm, emotional flow, and scene continuity precisely. Expand every storyboard panel into smooth connected motion while preserving natural pacing and visual readability.
+Utilisez l'image téléchargée @[character_ref] comme référence d'identité permanente du personnage et l'image téléchargée @[storyboard_ref] comme guide exact de la chronologie visuelle et du séquençage. Suivez précisément le timing du storyboard, les transitions de plans, le rythme du cadrage, le flux émotionnel et la continuité des scènes. Développez chaque panneau du storyboard en un mouvement fluide et connecté tout en préservant un rythme naturel et une lisibilité visuelle.
 
-MAIN CHARACTER:
+PERSONNAGE PRINCIPAL :
 
-Same exact young East Asian woman throughout all scenes. Female college student around age 20. Long dark soft wavy layered hair with natural movement and strands occasionally falling across face. Warm light skin tone, dark brown eyes, slim proportions, youthful face, small mole under left eye, natural lips, minimal makeup, friendly expression. Maintain exact identity consistency throughout entire video. No face morphing, hairstyle changes, age changes, outfit changes, or body proportion shifts.
+La même jeune femme est-asiatique tout au long des scènes. Étudiante d'environ 20 ans. Longs cheveux bruns ondulés et dégradés avec un mouvement naturel et des mèches tombant parfois sur le visage. Teint chaud, yeux marron foncé, silhouette mince, visage juvénile, petit grain de beauté sous l'œil gauche, lèvres naturelles, maquillage minimal, expression amicale. Maintenez une cohérence d'identité exacte tout au long de la vidéo. Pas de morphing facial, de changement de coiffure, de changement d'âge, de changement de tenue ou de changement de proportions corporelles.
 
-OUTFIT:
+TENUE :
 
-Black spaghetti strap top. Loose white cardigan hanging casually from shoulders. Faded blue jeans. Casual aesthetic campus fashion. Preserve exact clothing proportions and textures through all scenes.
+Haut noir à fines bretelles. Gilet blanc ample tombant négligemment des épaules. Jean bleu délavé. Mode campus décontractée. Préservez les proportions et les textures exactes des vêtements dans toutes les scènes.
 
-PERSONALITY:
+PERSONNALITÉ :
 
-Playful, cheerful, naturally expressive, spontaneous, comfortable talking to camera, campus-girl energy, charismatic but effortless. Frequently smiles, small laughs, subtle eye expressions, natural head tilts, realistic blinking and soft reactions.
+Enjouée, joyeuse, naturellement expressive, spontanée, à l'aise pour parler à la caméra, énergie étudiante, charismatique mais sans effort. Sourit fréquemment, petits rires, expressions subtiles des yeux, inclinaisons naturelles de la tête, clignements d'yeux réalistes et réactions douces.
 
-VIDEO STYLE:
+STYLE VIDÉO :
 
-Authentic early-2010s Sony Cyber-shot digicam aesthetic using CCD sensor rendering. Entire footage must feel like old memory-card footage discovered years later. Harsh direct flash, slight overexposure on skin, soft grain, digital compression artifacts, LCD pixel texture, slight chromatic softness, imperfect white balance, tiny autofocus hunting, nostalgic camera defects and realistic point-and-shoot rendering.
+Esthétique authentique de digicam Sony Cyber-shot du début des années 2010 utilisant le rendu d'un capteur CCD. Toute la séquence doit donner l'impression d'une vieille vidéo de carte mémoire découverte des années plus tard. Flash direct brutal, légère surexposition sur la peau, grain doux, artefacts de compression numérique, texture de pixels LCD, légère douceur chromatique, balance des blancs imparfaite, minuscule recherche d'autofocus, défauts d'appareil photo nostalgiques et rendu réaliste d'appareil compact.
 
-POV RULE:
+RÈGLE POV :
 
-Entire video remains from digital camera LCD POV exactly like storyboard. Viewer constantly sees glowing LCD screen in dark surroundings. Outside LCD screen fades softly into darkness and blur.
+Toute la vidéo reste du point de vue de l'écran LCD de l'appareil photo numérique, exactement comme le storyboard. Le spectateur voit constamment l'écran LCD brillant dans un environnement sombre. En dehors de l'écran LCD, l'image s'estompe doucement dans l'obscurité et le flou.
 
-Camera UI overlays visible entire video:
+Superpositions de l'interface de l'appareil visibles tout au long de la vidéo :
 
-REC icon
-focus brackets
-battery icon
-timestamp "8.1.2012 3:15 AM"
+Icône REC
+crochets de mise au point
+icône de batterie
+horodatage "8.1.2012 3:15 AM"
 1/30 F3.4 ISO100
 
-Visible LCD glare reflections and realistic screen texture.
+Reflets visibles sur l'écran LCD et texture d'écran réaliste.
 
-Duration exactly 15 seconds.
+Durée exactement 15 secondes.
 
-SCENE 1 (0:00–0:02)
+SCÈNE 1 (0:00–0:02)
 
-Library interior. Walking slowly between bookshelves while holding camera facing herself. Handheld movement slightly shaky. Small laugh.
+Intérieur de bibliothèque. Marche lentement entre les étagères tout en tenant la caméra face à elle. Mouvement à la main légèrement tremblant. Petit rire.
 
-Character says softly in Indonesian:
+Le personnage dit doucement en indonésien :
 
 "Lagi di perpustakaan jam segini, sepi banget tapi nyaman."
 
-Camera autofocus briefly searches face. Bookshelves tightly packed with colorful books.
+L'autofocus de la caméra cherche brièvement le visage. Étagères remplies de livres colorés.
 
-SCENE 2 (0:02–0:04)
+SCÈNE 2 (0:02–0:04)
 
-Stops near manga shelf. Looks sideways and laughs naturally. Hair falls over cheek. Slight Cyber-shot zoom movement.
+S'arrête près d'une étagère de mangas. Regarde sur le côté et rit naturellement. Les cheveux tombent sur la joue. Léger mouvement de zoom Cyber-shot.
 
-SCENE 3 (0:04–0:06)
+SCÈNE 3 (0:04–0:06)
 
-Campus staircase. Walking downstairs while filming herself. Camera shakes naturally with footsteps. Students moving behind.
+Escalier du campus. Descend les escaliers en se filmant. La caméra tremble naturellement avec les pas. Étudiants qui bougent derrière.
 
-SCENE 4 (0:06–0:08)
+SCÈNE 4 (0:06–0:08)
 
-Glass campus corridor. Walking backward facing camera. Afternoon sunlight entering windows. Soft lens flare.
+Couloir vitré du campus. Marche à reculons face à la caméra. La lumière du soleil de l'après-midi entre par les fenêtres. Léger reflet d'objectif.
 
-Character smiles and says:
+Le personnage sourit et dit :
 
 "Jadi bagus banget vibes nya hari ini."
 
-SCENE 5 (0:08–0:10)
+SCÈNE 5 (0:08–0:10)
 
-Outdoor campus area. Rotates camera briefly toward scenery before returning to face. Trees and students visible.
+Zone extérieure du campus. Fait pivoter brièvement la caméra vers le paysage avant de revenir sur son visage. Arbres et étudiants visibles.
 
-SCENE 6 (0:10–0:12)
+SCÈNE 6 (0:10–0:12)
 
-Mall bookstore. Walking while holding drink. Direct flash creates bright skin highlights and darker background.
+Librairie du centre commercial. Marche en tenant une boisson. Le flash direct crée des reflets brillants sur la peau et un arrière-plan plus sombre.
 
-SCENE 7 (0:12–0:13.5)
+SCÈNE 7 (0:12–0:13.5)
 
-Standing in front of store glass. Camera reflection visible. Adjusts hair and laughs softly.
+Debout devant la vitre du magasin. Reflet de la caméra visible. Ajuste ses cheveux et rit doucement.
 
-SCENE 8 (0:13.5–0:15)
+SCÈNE 8 (0:13.5–0:15)
 
-Close-up shot. Waves toward camera. Freeze frame briefly.
+Plan rapproché. Fait un signe de la main vers la caméra. Image figée brièvement.
 
-REC icon flashes.
+L'icône REC clignote.
 
-Cut to black.
+Coupe au noir.
 
-Keywords: nostalgic digicam, cyber-shot LCD vlog, college life memory footage, authentic CCD rendering, handheld documentary aesthetic, candid moments, realistic camera flaws, early-2010s aesthetic nostalgia.
+Mots-clés : digicam nostalgique, vlog LCD cyber-shot, images souvenirs de vie étudiante, rendu CCD authentique, esthétique documentaire à la main, moments spontanés, défauts d'appareil photo réalistes, nostalgie esthétique début 2010.
 ```
 
 **Par** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K abonnés
@@ -3554,89 +3555,89 @@ Cinéma d'action coréen, cinématographie ultra-réaliste, action cinématograp
 
 ---
 
-### 43. follow the storyboard @image_2in sequence 15-second ultra-realistic c…
+### 43. Publicité cinématographique pour athlète de football
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058061828031385739_0_poster.jpg" width="480" alt="follow the storyboard @image_2in sequence 15-second ultra-realistic c…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058061828031385739_0_poster.jpg" width="480" alt="Publicité cinématographique pour athlète de football"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-follow the storyboard @image_2in sequence 15-second ultra-realistic cinematic vertical football commercial video, strict sequential storytelling, every storyboard panel must be followed exactly in order with the SAME consistent reference character throughout all shots.
+suivre le storyboard @image_2in séquence de vidéo publicitaire de football verticale cinématographique ultra-réaliste de 15 secondes, narration séquentielle stricte, chaque panneau du storyboard doit être suivi exactement dans l'ordre avec le MÊME personnage de référence cohérent tout au long des plans.
 
-REFERENCE CHARACTER (LOCKED CONSISTENCY):
-A stunning young athletic blonde woman in her early 20s with a high ponytail, sharp facial features, glowing skin, wearing a professional white football uniform with subtle blue accents, fitted jersey, matching shorts, long white socks, white cleats, and carrying a black backpack over one shoulder. She must remain visually identical in every scene.
+PERSONNAGE DE RÉFÉRENCE (COHÉRENCE VERROUILLÉE) :
+Une superbe jeune athlète blonde d'une vingtaine d'années avec une queue de cheval haute, des traits du visage marqués, une peau éclatante, portant un uniforme de football blanc professionnel avec de subtils accents bleus, un maillot ajusté, un short assorti, de longues chaussettes blanches, des crampons blancs et portant un sac à dos noir sur une épaule. Elle doit rester visuellement identique dans chaque scène.
 
-VIDEO STYLE:
-Premium Nike/Adidas-style football campaign mixed with authentic live-match energy. Dynamic handheld cinematography, cinematic sports-commercial lighting, roaring football crowd ambience, realistic stadium atmosphere, high-energy pacing, dramatic floodlights, warm sunset tones mixed with cool stadium LEDs, authentic smartphone-meets-cinema aesthetic. Vertical 9:16 aspect ratio.
+STYLE VIDÉO :
+Campagne de football de style premium Nike/Adidas mélangée à l'énergie authentique d'un match en direct. Cinématographie dynamique à la main, éclairage cinématographique de publicité sportive, ambiance de foule de football rugissante, atmosphère de stade réaliste, rythme énergique, projecteurs dramatiques, tons chauds de coucher de soleil mélangés à des LED de stade froides, esthétique authentique smartphone-meets-cinema. Format vertical 9:16.
 
-SCENE 1 — STADIUM ARRIVAL (0–3s)
-Massive packed football stadium during a live professional match at sunset. Thousands of screaming fans chant loudly while football players continue playing in the background. Stadium tunnel doors open dramatically and the blonde athlete walks out carrying her black backpack. Crowd instantly erupts cheering and filming her with phones. She smiles confidently while stepping onto the pitch under powerful floodlights.
+SCÈNE 1 — ARRIVÉE AU STADE (0–3s)
+Stade de football massif et bondé pendant un match professionnel en direct au coucher du soleil. Des milliers de fans hurlants scandent bruyamment tandis que les joueurs de football continuent de jouer en arrière-plan. Les portes du tunnel du stade s'ouvrent de manière spectaculaire et l'athlète blonde sort en portant son sac à dos noir. La foule explose instantanément en acclamations et la filme avec des téléphones. Elle sourit avec confiance en entrant sur le terrain sous des projecteurs puissants.
 
-Camera:
-Low-angle cinematic tracking shot moving backward as she walks forward. Slight handheld shake for realism.
+Caméra :
+Plan de suivi cinématographique en contre-plongée se déplaçant vers l'arrière pendant qu'elle avance. Léger tremblement de caméra à la main pour le réalisme.
 
-Audio:
-Roaring crowd, whistles, chants, announcer echoes, bass-heavy stadium atmosphere.
+Audio :
+Foule rugissante, sifflets, chants, échos de l'annonceur, atmosphère de stade riche en basses.
 
-SCENE 2 — CROWD HYPE (3–6s)
-She reaches the sideline while front-row fans stand up screaming and waving scarves. Camera flashes explode around her. She casually drops a black-and-white soccer ball to the ground and starts juggling effortlessly with her knees and feet while smiling slightly.
+SCÈNE 2 — HYPE DE LA FOULE (3–6s)
+Elle atteint la ligne de touche tandis que les fans du premier rang se lèvent en criant et en agitant des écharpes. Les flashs des appareils photo explosent autour d'elle. Elle laisse tomber nonchalamment un ballon de football noir et blanc au sol et commence à jongler sans effort avec ses genoux et ses pieds tout en souriant légèrement.
 
-Camera:
-Fast sports-commercial cuts between:
-• close-up footwork
-• crowd reactions
-• handheld sideline perspective
-• slow-motion ball spins
+Caméra :
+Coupes rapides de publicité sportive entre :
+• gros plan sur le jeu de jambes
+• réactions de la foule
+• perspective de ligne de touche à la main
+• ralentis sur les rotations du ballon
 
-Visuals:
-Ponytail swinging naturally, realistic motion blur, dramatic LED stadium lighting.
+Visuels :
+Queue de cheval se balançant naturellement, flou de mouvement réaliste, éclairage LED dramatique du stade.
 
-SCENE 3 — MATCH-DAY SHOWTIME (6–10s)
-The football match continues intensely behind her while she confidently walks along the sideline juggling the ball continuously. Fans chant louder with every touch. Giant LED boards flash around the stadium. Confetti and camera flashes fill the air.
+SCÈNE 3 — SHOWTIME DU JOUR DU MATCH (6–10s)
+Le match de football se poursuit intensément derrière elle tandis qu'elle marche avec confiance le long de la ligne de touche en jonglant continuellement avec le ballon. Les fans scandent plus fort à chaque touche. Des panneaux LED géants clignotent autour du stade. Des confettis et des flashs d'appareils photo remplissent l'air.
 
-Camera:
-Dynamic tracking shots mixed with cinematic slow-motion moments. Occasional whip pans following the ball.
+Caméra :
+Plans de suivi dynamiques mélangés à des moments cinématographiques au ralenti. Panoramiques rapides occasionnels suivant le ballon.
 
-Atmosphere:
-Authentic match-day chaos, energetic sports-commercial vibe, emotional crowd excitement.
+Atmosphère :
+Chaos authentique du jour du match, ambiance de publicité sportive énergique, excitation émotionnelle de la foule.
 
-SCENE 4 — HERO MOMENT (10–13s)
-She stops near center pitch, catches the ball perfectly with one foot, and looks toward the roaring crowd with a confident smile. Stadium lights create dramatic highlights on her face and football uniform. The crowd begins chanting rhythmically.
+SCÈNE 4 — MOMENT HÉROÏQUE (10–13s)
+Elle s'arrête près du centre du terrain, attrape le ballon parfaitement avec un pied et regarde vers la foule rugissante avec un sourire confiant. Les lumières du stade créent des reflets dramatiques sur son visage et son uniforme de football. La foule commence à scander rythmiquement.
 
-Camera:
-Dramatic low-angle rotating hero shot around her with shallow depth of field and glowing stadium bokeh.
+Caméra :
+Plan héroïque dramatique en contre-plongée tournant autour d'elle avec une faible profondeur de champ et un bokeh de stade brillant.
 
-Visuals:
-Epic sports-brand campaign energy, ultra-polished cinematic grading.
+Visuels :
+Énergie épique de campagne de marque sportive, étalonnage cinématographique ultra-poli.
 
-SCENE 5 — ICONIC FINALE (13–15s)
-She jogs toward the center field while the football match resumes around her. Giant stadium screens display her live image as fans continue cheering wildly. She turns briefly toward the camera with a playful confident smile before the video ends on a cinematic freeze-frame.
+SCÈNE 5 — FINAL ICONIQUE (13–15s)
+Elle trottine vers le centre du terrain tandis que le match de football reprend autour d'elle. Les écrans géants du stade affichent son image en direct tandis que les fans continuent de crier sauvagement. Elle se tourne brièvement vers la caméra avec un sourire confiant et joueur avant que la vidéo ne se termine sur un arrêt sur image cinématographique.
 
-Camera:
-Rear follow shot transitioning into a smooth cinematic zoom-out revealing the full stadium scale.
+Caméra :
+Plan de suivi arrière passant à un zoom arrière cinématographique fluide révélant l'échelle complète du stade.
 
-FINAL VISUAL STYLE:
-• Ultra-realistic live-action football commercial
-• High-energy stadium crowd reactions
-• Warm cinematic sports color grading
-• Realistic grass textures and floodlights
-• Premium sportswear advertisement aesthetic
-• Smooth handheld movement mixed with cinematic slow motion
-• Authentic football atmosphere with crowd chanting and camera flashes
-• Vibrant colors, crisp contrast, detailed textures
-• Viral TikTok/Reels sports-fashion energy combined with blockbuster sports-commercial quality
-Try here  
+STYLE VISUEL FINAL :
+• Publicité de football en direct ultra-réaliste
+• Réactions de la foule du stade à haute énergie
+• Étalonnage de couleur sportif cinématographique chaud
+• Textures d'herbe et projecteurs réalistes
+• Esthétique de publicité de vêtements de sport premium
+• Mouvement à la main fluide mélangé à un ralenti cinématographique
+• Atmosphère de football authentique avec chants de foule et flashs d'appareils photo
+• Couleurs vibrantes, contraste net, textures détaillées
+• Énergie mode sportive virale TikTok/Reels combinée à une qualité de publicité sportive à gros budget
+Essayez ici  
 
-From tunnel entrance to the final hero shot, every frame was designed to feel like a real campaign mixed with viral match-day energy. 
+De l'entrée du tunnel au plan final héroïque, chaque image a été conçue pour ressembler à une vraie campagne mélangée à l'énergie virale du jour du match. 
 
  
 
-Prompt and Tutorial👇
+Prompt et tutoriel👇
 ```
 
 **Par** [Sharon Riley ✓](https://x.com/Just_sharon7) (@Just_sharon7) · 44K abonnés
@@ -3649,19 +3650,19 @@ Prompt and Tutorial👇
 
 ---
 
-### 44. Female Olympic diver from platform takeoff to mid-air perfect dive in…
+### 44. Décollage et plongeon de plongeuse olympique depuis une plateforme
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Female Olympic diver from platform takeoff to mid-air perfect dive in…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056969972556222690_0_poster.jpg" width="480" alt="Décollage et plongeon de plongeuse olympique depuis une plateforme"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Female Olympic diver from platform takeoff to mid-air perfect dive into blue pool, full sequence action, colorful swimsuit, dynamic shot.
+Plongeuse olympique féminine du décollage sur la plateforme jusqu'au plongeon parfait en plein air dans une piscine bleue, action en séquence complète, maillot de bain coloré, plan dynamique.
 ```
 
 **Par** [Ratul Ali ✓](https://x.com/Ratul_AI) (@Ratul_AI) · 250 abonnés
@@ -4010,29 +4011,29 @@ SFX : Bruit de coup de raquette, bruit d'atterrissage de balle, bruit de respira
 
 ---
 
-### 47. I created ultra-realistic live-action sports documentary using GPT ul…
+### 47. Documentaire sur la célébration des fans à la Coupe du Monde au Brésil
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056242156244005191_0_poster.jpg" width="480" alt="I created ultra-realistic live-action sports documentary using GPT ul…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056242156244005191_0_poster.jpg" width="480" alt="Documentaire sur la célébration des fans à la Coupe du Monde au Brésil"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-I created ultra-realistic live-action sports documentary using GPT 
-ultra-realistic live-action sports documentary style, packed FIFA World Cup 2022 Qatar stadium at night. Energetic blonde Brazilian female fan wearing green-and-yellow Brazil headband, Brazil scarf, and stylish yellow top filming herself in selfie mode, huge excited smile, jumping and screaming with emotional crowd energy, subtle handheld iPhone camera shake for realism. Fast dynamic cuts between selfie shots, roaring fans waving flags, Neymar and Brazil players celebrating dramatically on the lush green pitch after a goal, stadium lights glowing intensely, cinematic motion blur, confetti flying, vibrant saturated greens and yellows, immersive World Cup atmosphere, high-energy samba percussion beat synced with edits, authentic sports-broadcast aesthetic, realistic skin textures, 4K cinematic depth of field.
-0–3s: Selfie close-up, woman shouting excitedly:
-“Brazil! Let’s gooo!”
-Crowd chanting loudly in background.
-3–7s: Quick cuts to Neymar and Brazil players celebrating, fans jumping, flags waving.
-Excited stadium commentator voice:
-“GOOOAAAL for Brazil! The stadium is absolutely exploding tonight in Qatar!”
-7–11s: Woman laughing and cheering toward camera while fireworks and crowd erupt behind her.
-Commentator shouting with crowd noise swelling:
-“What a magical World Cup moment for Brazil!”
+J'ai créé un documentaire sportif en prises de vues réelles ultra-réaliste en utilisant GPT 
+Style documentaire sportif en prises de vues réelles ultra-réaliste, stade de la Coupe du Monde de la FIFA 2022 au Qatar bondé la nuit. Une fan brésilienne blonde énergique portant un bandeau vert et jaune, une écharpe du Brésil et un haut jaune élégant se filme en mode selfie, immense sourire enthousiaste, sautant et criant avec l'énergie émotionnelle de la foule, léger tremblement de caméra iPhone à la main pour le réalisme. Coupes dynamiques rapides entre les selfies, fans rugissants agitant des drapeaux, Neymar et les joueurs brésiliens célébrant de manière spectaculaire sur le terrain vert luxuriant après un but, lumières du stade brillant intensément, flou de mouvement cinématographique, confettis volant, verts et jaunes saturés vibrants, atmosphère immersive de la Coupe du Monde, rythme de percussion samba à haute énergie synchronisé avec les montages, esthétique authentique de diffusion sportive, textures de peau réalistes, profondeur de champ cinématographique 4K.
+0–3s : Gros plan selfie, femme criant avec enthousiasme :
+« Brazil! Let’s gooo! »
+Foule scandant bruyamment en arrière-plan.
+3–7s : Coupes rapides sur Neymar et les joueurs brésiliens célébrant, fans sautant, drapeaux agitant.
+Voix enthousiaste du commentateur du stade :
+« GOOOAAAL pour le Brésil ! Le stade explose littéralement ce soir au Qatar ! »
+7–11s : Femme riant et acclamant vers la caméra tandis que des feux d'artifice et la foule éclatent derrière elle.
+Commentateur criant avec le bruit de la foule qui enfle :
+« Quel moment magique de Coupe du Monde pour le Brésil ! »
 ```
 
 **Par** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K abonnés
@@ -4129,19 +4130,19 @@ Plan de fin. Plan moyen serré, 50mm, zoom avant lent puis maintien stable / Apr
 
 ---
 
-### 50. Use the provided character reference for the facial features and body…
+### 50. Défilé de mode sur tapis rouge
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Use the provided character reference for the facial features and body…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055364085126963584_0_poster.jpg" width="480" alt="Défilé de mode sur tapis rouge"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Use the provided character reference for the facial features and body structure. create a 15 second red carpet multi shot walk with elegant designer wear
+Utilisez la référence de personnage fournie pour les traits du visage et la structure corporelle. Créez une séquence de 15 secondes de marche sur tapis rouge en multi-plans avec une tenue de créateur élégante
 ```
 
 **Par** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K abonnés
@@ -4426,19 +4427,19 @@ Pas de look cinématographique, pas de pose, pas de filtres de beauté, pas d'é
 
 ---
 
-### 55. A professor writes out a mathematical proof for trigonometric identit…
+### 55. Professeur écrivant une preuve mathématique sur un tableau noir
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2053857256509243497_0_poster.jpg" width="480" alt="A professor writes out a mathematical proof for trigonometric identit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2053857256509243497_0_poster.jpg" width="480" alt="Professeur écrivant une preuve mathématique sur un tableau noir"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation.
+Un professeur écrit une preuve mathématique pour des identités trigonométriques sur un tableau noir traditionnel, expliquant l'étape à laquelle il se trouve actuellement dans l'équation.
 ```
 
 **Par** [Miko ✓](https://x.com/Mho_23) (@Mho_23) · 26.3K abonnés
@@ -4540,12 +4541,12 @@ anatomie semi-réaliste
 
 ---
 
-### 58. STYLE Cinematic realism, warm sunrise tones, soft film grain, natural…
+### 58. Séquence cinématographique de trajet matinal
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052058355321967069_0_poster.jpg" width="480" alt="STYLE Cinematic realism, warm sunrise tones, soft film grain, natural…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052058355321967069_0_poster.jpg" width="480" alt="Séquence cinématographique de trajet matinal"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
@@ -4553,60 +4554,60 @@ anatomie semi-réaliste
 
 ```
 STYLE
-Cinematic realism, warm sunrise tones, soft film grain, natural light, shallow depth of field, subtle handheld stability. Continuous scene logic, no resets between shots.
+Réalisme cinématographique, tons chauds de lever de soleil, grain de film léger, lumière naturelle, faible profondeur de champ, stabilité subtile de caméra portée. Logique de scène continue, pas de réinitialisation entre les plans.
 
-CHARACTER (LOCK)
-Young woman, mid-20s, warm brown skin, voluminous natural curly afro, minimal makeup. Loose neutral t-shirt, layered necklaces, ripped jeans, sneakers, leather shoulder bag.
-Maintain identical appearance across all shots.
+PERSONNAGE (VERROUILLAGE)
+Jeune femme, milieu de la vingtaine, peau brune chaude, afro naturel volumineux, maquillage minimal. T-shirt neutre ample, colliers superposés, jean déchiré, baskets, sac à bandoulière en cuir.
+Maintenir une apparence identique sur tous les plans.
 
-CRITICAL SPATIAL RULES (HIGH PRIORITY)
-There are ONLY TWO DOORS in the sequence:
-Apartment door (interior → hallway)
-Building exit door (hallway → outside street)
-Each door is used ONCE ONLY
-Movement is strictly forward progression: apartment → hallway → building exit → street
-Character is never outside before opening the building exit door
-Do not generate extra doors, alternate exits, or resets
-Maintain continuous geography and direction of travel
+RÈGLES SPATIALES CRITIQUES (HAUTE PRIORITÉ)
+Il n'y a que DEUX PORTES dans la séquence :
+Porte d'appartement (intérieur → couloir)
+Porte de sortie de l'immeuble (couloir → rue extérieure)
+Chaque porte est utilisée UNE SEULE FOIS
+Le mouvement est strictement une progression vers l'avant : appartement → couloir → sortie d'immeuble → rue
+Le personnage n'est jamais à l'extérieur avant d'ouvrir la porte de sortie de l'immeuble
+Ne pas générer de portes supplémentaires, de sorties alternatives ou de réinitialisations
+Maintenir une géographie et une direction de déplacement continues
 
-SEQUENCE (SINGLE CONTINUOUS PATH)
-Shot 1 — Interior prep (medium)
-Inside apartment. She stands at the apartment door, adjusts bag, picks up keys. Camera static or slight push-in.
-Shot 2 — Apartment door unlock (close)
-Close-up: keys in lock. She unlocks apartment door from inside. Clear, single action.
-Shot 3 — Apartment door exit (medium)
-She opens apartment door inward and steps into hallway. Camera stays inside as she exits.
-Shot 4 — Hallway continuity (tracking)
-Now fully in hallway. Camera follows as she walks forward toward building exit. No additional doors.
-Shot 5 — Building exit approach (wide)
-She reaches the final building exit door at end of hallway. Exterior light visible through glass.
-Shot 6 — Building exit open (medium)
-She pushes building exit door open outward. Bright sunlight floods in. This is the only transition to outside.
-Shot 7 — Exterior step-out (wide)
-She steps outside onto sidewalk. First time fully outdoors. Camera follows naturally.
-Shot 8 — Walk profile (tracking)
-Side tracking as she walks down the street. Natural stride, bag movement consistent.
-Shot 9 — Street inserts (cutaways)
-Storefronts, plants, reflections. Clean, legible signage.
-Shot 10 — Crosswalk (wide)
-She crosses the street. Background motion minimal and realistic.
-Shot 11 — Follow + finish (tracking/close)
-Camera follows behind, then slight close as she looks ahead and continues walking.
+SÉQUENCE (CHEMIN CONTINU UNIQUE)
+Plan 1 — Préparation intérieure (moyen)
+À l'intérieur de l'appartement. Elle se tient devant la porte, ajuste son sac, prend ses clés. Caméra statique ou léger zoom avant.
+Plan 2 — Déverrouillage de la porte (gros plan)
+Gros plan : clés dans la serrure. Elle déverrouille la porte de l'intérieur. Action claire et unique.
+Plan 3 — Sortie de l'appartement (moyen)
+Elle ouvre la porte vers l'intérieur et entre dans le couloir. La caméra reste à l'intérieur pendant qu'elle sort.
+Plan 4 — Continuité du couloir (suivi)
+Maintenant entièrement dans le couloir. La caméra la suit alors qu'elle avance vers la sortie. Pas de portes supplémentaires.
+Plan 5 — Approche de la sortie (large)
+Elle atteint la porte de sortie finale au bout du couloir. Lumière extérieure visible à travers la vitre.
+Plan 6 — Ouverture de la sortie (moyen)
+Elle pousse la porte de sortie vers l'extérieur. La lumière du soleil inonde la scène. C'est la seule transition vers l'extérieur.
+Plan 7 — Sortie sur le trottoir (large)
+Elle sort sur le trottoir. Première fois entièrement à l'extérieur. La caméra suit naturellement.
+Plan 8 — Profil de marche (suivi)
+Suivi latéral pendant qu'elle marche dans la rue. Foulée naturelle, mouvement du sac cohérent.
+Plan 9 — Inserts de rue (coupes)
+Devantures de magasins, plantes, reflets. Signalétique propre et lisible.
+Plan 10 — Passage piéton (large)
+Elle traverse la rue. Mouvement d'arrière-plan minimal et réaliste.
+Plan 11 — Suivi + fin (suivi/gros plan)
+La caméra suit derrière, puis léger gros plan alors qu'elle regarde devant elle et continue de marcher.
 
-TEXT RENDERING (REFINED)
-All signage must be sharp, readable, and stable across frames
-Use simple real-world words only: “Cafe”, “Market”, “Books”
-No warped, flickering, or nonsensical text
-Maintain consistent typography style per location
+RENDU DE TEXTE (RAFFINÉ)
+Toute la signalétique doit être nette, lisible et stable sur toutes les images
+Utiliser uniquement des mots simples du monde réel : « Cafe », « Market », « Books »
+Pas de texte déformé, scintillant ou absurde
+Maintenir un style typographique cohérent par emplacement
 
-CAMERA + EDITING RULES
-Maintain continuous motion between shots (match cuts, no resets)
-No teleporting, no angle discontinuity
-Preserve left-to-right or forward directional movement
-Keep geography consistent (hallway layout does not change)
+RÈGLES DE CAMÉRA + MONTAGE
+Maintenir un mouvement continu entre les plans (raccords dans l'axe, pas de réinitialisations)
+Pas de téléportation, pas de discontinuité d'angle
+Préserver le mouvement directionnel de gauche à droite ou vers l'avant
+Maintenir la géographie cohérente (la disposition du couloir ne change pas)
 
-NEGATIVE PROMPT
-No extra doors, no duplicate exits, no reversing direction, no entering from outside, no prop inconsistencies, no text distortion, no identity drift, no broken hand mechanics.
+PROMPT NÉGATIF
+Pas de portes supplémentaires, pas de sorties en double, pas d'inversion de direction, pas d'entrée depuis l'extérieur, pas d'incohérences d'accessoires, pas de distorsion de texte, pas de dérive d'identité, pas de mécanique de main cassée.
 ```
 
 **Par** [Heather Cooper ✓](https://x.com/HBCoop_) (@HBCoop_) · 54.6K abonnés
@@ -4752,63 +4753,65 @@ Gardez le mouvement visuel calme et intentionnel plutôt qu'agité.
 
 ---
 
-### 61. story = a beautiful woman in a white dress enjoying a amazing sunset…
+### 61. Concept de publicité cinématographique LuxLife Retreats
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="story = a beautiful woman in a white dress enjoying a amazing sunset…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2050553319194857534_0_poster.jpg" width="480" alt="Concept de publicité cinématographique LuxLife Retreats"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff, 
+histoire = une belle femme en robe blanche profitant d'une incroyable soirée au coucher du soleil dans un manoir de luxe construit dans une falaise, 
 
-Scenes:
-1) wide angle drone shot
-2) wide angle walk at pool
-3) medium wide over shoulder walk at pool
-4) medium wide lean on railing
-5) close-up hand in water
-6) look over bay
-7) close-up smile
-8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+Scènes :
+1) plan drone grand angle
+2) marche grand angle au bord de la piscine
+3) plan moyen large par-dessus l'épaule en marchant au bord de la piscine
+4) plan moyen large appuyée sur la rambarde
+5) gros plan de la main dans l'eau
+6) regard sur la baie
+7) gros plan sur le sourire
+8) sourire grand angle tenant une coupe de champagne avec texte en police élégante "LuxLife Retreats"
 
-Create a cinematic production board / visual planning sheet that presents a complete concept for a short film or commercial. The layout should be clean, grid-based, and divided into clearly labeled sections.    
+Créez une planche de production cinématographique / feuille de planification visuelle qui présente un concept complet pour un court métrage ou une publicité. La mise en page doit être propre, basée sur une grille et divisée en sections clairement étiquetées.    
 
-Include:  Shared creative direction (top bar): overall constraints such as number of shots, unified color palette, and general environmental context.      
+Inclure : Direction créative partagée (barre supérieure) : contraintes globales telles que le nombre de plans, une palette de couleurs unifiée et le contexte environnemental général.      
 
-Character + styling reference section:  A model shown from multiple angles (front, back, side, close-ups, relaxed pose), accompanied by wardrobe and accessory references. Emphasize consistency of identity while allowing minor variations for specific scenes.      
+Section de référence personnage + style : Un modèle montré sous plusieurs angles (face, dos, profil, gros plans, pose détendue), accompagné de références de garde-robe et d'accessoires. Mettez l'accent sur la cohérence de l'identité tout en permettant des variations mineures pour des scènes spécifiques.      
 
-Environment and set design section:  A scenic outdoor location with dramatic natural features, plus a top-down diagram illustrating movement through the space. Include camera positions and labeled shot types mapped along a route.      
+Section environnement et conception de décor : Un lieu extérieur pittoresque avec des caractéristiques naturelles spectaculaires, ainsi qu'un diagramme vu de dessus illustrant le mouvement dans l'espace. Incluez les positions de caméra et les types de plans étiquetés le long d'un itinéraire.      
 
-Storyboard section: A sequence of numbered frames (about 8 shots) showing progression of the scene. Each frame includes:  Camera type / lens feel  Shot size (wide, medium, close-up, macro)  Movement (static, tracking, handheld, etc.)  Brief description of action and emotional progression      Lighting / mood / style notes:  Visual examples paired with short descriptions of lighting conditions, atmosphere, and texture. Include transitions across time of day and variations in light quality.    Mood and keywords block: A concise list of emotional tones and thematic descriptors guiding the piece.      
+Section storyboard : Une séquence de cadres numérotés (environ 8 plans) montrant la progression de la scène. Chaque cadre comprend : Type de caméra / rendu d'objectif, Taille de plan (large, moyen, gros plan, macro), Mouvement (statique, suivi, caméra à l'épaule, etc.), Brève description de l'action et de la progression émotionnelle.      
 
-Audio / tone section:  Indications of ambient sound, music style, and overall sonic atmosphere.      
+Notes sur l'éclairage / l'ambiance / le style : Exemples visuels associés à de courtes descriptions des conditions d'éclairage, de l'atmosphère et de la texture. Incluez les transitions au cours de la journée et les variations de la qualité de la lumière. Bloc d'ambiance et mots-clés : Une liste concise de tons émotionnels et de descripteurs thématiques guidant la pièce.      
 
-Cinematography notes:  General visual philosophy including lens characteristics, movement style, and post-processing feel.     
+Section audio / ton : Indications sur le son ambiant, le style musical et l'atmosphère sonore globale.      
+
+Notes de cinématographie : Philosophie visuelle générale incluant les caractéristiques des objectifs, le style de mouvement et le rendu de post-traitement.     
  
-The entire board should feel cohesive, cinematic, and professionally designed—like a director’s pre-production guide that communicates tone, pacing, and visual storytelling at a glance.
+L'ensemble de la planche doit sembler cohérent, cinématographique et conçu de manière professionnelle — comme un guide de pré-production de réalisateur qui communique le ton, le rythme et la narration visuelle en un coup d'œil.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+suivez ce storyboard pour créer une publicité. mouvement de caméra dynamique, aucun équipement de caméra dans les plans, seulement elle, seulement du texte dans la dernière scène
 
-story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+histoire = une belle femme en robe blanche profitant d'une incroyable soirée au coucher du soleil dans un manoir de luxe construit dans une falaise,
 
-Scenes:
-1) wide angle drone shot
-2) wide angle walk at pool
-3) medium wide over shoulder walk at pool
-4) medium wide lean on railing
-5) close-up hand in water
-6) look over bay
-7) close-up smile
-8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+Scènes :
+1) plan drone grand angle
+2) marche grand angle au bord de la piscine
+3) plan moyen large par-dessus l'épaule en marchant au bord de la piscine
+4) plan moyen large appuyée sur la rambarde
+5) gros plan de la main dans l'eau
+6) regard sur la baie
+7) gros plan sur le sourire
+8) sourire grand angle tenant une coupe de champagne avec texte en police élégante "LuxLife Retreats"
 ```
 
 **Par** [Olivio Sarikas ✓](https://x.com/OlivioSarikas) (@OlivioSarikas) · 13.4K abonnés
@@ -4875,49 +4878,49 @@ SFX : silence → cri de détresse
 
 ---
 
-### 63. Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…
+### 63. Vidéo pédagogique de Yoga Vinyasa Flow
 
-![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Create a 12-panel yoga instruction diagram in a clean 4-column by 3-r…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2049282601769210261_0_poster.jpg" width="480" alt="Vidéo pédagogique de Yoga Vinyasa Flow"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **🖼️ Prompt d'image**
 
 ```
-Create a 12-panel yoga instruction diagram in a clean 4-column by 3-row grid. Style: black-and-white / soft grayscale instructional poster, off-white background, thin black panel borders, bold uppercase titles, black rounded number badges, simple dotted or curved motion arrows, and short coaching captions. 
+Créez un diagramme d'instruction de yoga en 12 panneaux dans une grille propre de 4 colonnes sur 3 lignes. Style : affiche pédagogique en noir et blanc / niveaux de gris doux, fond blanc cassé, bordures de panneaux noires fines, titres en majuscules gras, badges numérotés arrondis noirs, flèches de mouvement simples en pointillés ou courbes, et courtes légendes de coaching. 
 
-Use one consistent female yoga model across all panels: athletic build, long wavy hair, fitted sports bra and leggings, barefoot, realistic photo-illustration style, neutral studio background. Show a classic vinyasa flow from Mountain Pose to Downward-Facing Dog. Focus less on overly technical pose detail and more on the feeling of a smooth flowing sequence, with clear movement, breath, and transitions from one step to the next.
+Utilisez un modèle de yoga féminin cohérent sur tous les panneaux : corpulence athlétique, longs cheveux ondulés, brassière de sport et leggings ajustés, pieds nus, style photo-illustration réaliste, fond de studio neutre. Montrez un vinyasa flow classique de la posture de la Montagne au Chien tête en bas. Mettez moins l'accent sur les détails techniques excessifs des poses et plus sur la sensation d'une séquence fluide, avec un mouvement clair, une respiration et des transitions d'une étape à l'autre.
 
-Each panel should clearly show the motion step and how it transitions into the next pose. Use arrows to show direction of movement. Keep the captions short and simple, describing the action, breath, or flow cue in a natural way.
+Chaque panneau doit clairement montrer l'étape du mouvement et comment il se transforme en la pose suivante. Utilisez des flèches pour indiquer la direction du mouvement. Gardez les légendes courtes et simples, décrivant l'action, la respiration ou l'indice de flux de manière naturelle.
 
-Make all 12 panels exactly the same size, evenly aligned, highly readable, and visually consistent. No color. No extra text.
+Faites en sorte que les 12 panneaux soient exactement de la même taille, alignés uniformément, très lisibles et visuellement cohérents. Pas de couleur. Pas de texte supplémentaire.
 ```
 
 **🎬 Prompt de vidéo**
 
 ```
-Scene: One continuous shot - Hand-held YouTube-style video showing a woman performing a complete yoga vinyasa flow.
+Scène : Un plan continu - Vidéo de style YouTube filmée caméra à l'épaule montrant une femme effectuant un vinyasa flow de yoga complet.
 
-Character: Use IMG1 as the character we're following in the scene.
+Personnage : Utilisez IMG1 comme personnage que nous suivons dans la scène.
 
-Character Motion: Use IMG2 to follow the motion and instructions exactly to complete her flow.
+Mouvement du personnage : Utilisez IMG2 pour suivre le mouvement et les instructions exactement afin de compléter son flux.
 
-The scene starts at IMG1.
+La scène commence à IMG1.
 
-Direction: The woman stands in a peaceful orange yoga studio. The hand-held camera subtly pushes in on her as she begins her flow. It captures the moment in tight composition as she moves from mountain pose to upward salute.
+Direction : La femme se tient dans un studio de yoga orange paisible. La caméra tenue à la main effectue un léger zoom avant sur elle alors qu'elle commence son flux. Elle capture le moment dans une composition serrée alors qu'elle passe de la posture de la montagne au salut vers le haut.
 
-The camera begins to pull back out as she transitions from upward salute to swan dive and stays focused on her body as she transitions from swan dive into a forward fold.
+La caméra commence à reculer alors qu'elle passe du salut vers le haut à la plongée du cygne et reste concentrée sur son corps alors qu'elle passe de la plongée du cygne à une flexion avant.
 
-The camera begins to move right to a side profile as she plants her palms and steps back into the high plank position. The camera drops lower and pushes in towards her face for a focused close-up as she moves from chaturanga lower to upward-facing dog.
+La caméra commence à se déplacer vers la droite pour un profil latéral alors qu'elle pose ses paumes et recule dans la position de la planche haute. La caméra descend plus bas et effectue un zoom avant vers son visage pour un gros plan concentré alors qu'elle passe du chaturanga vers le chien tête en haut.
 
-The camera again pulls out, showing her full body as she transitions to the downward-facing dog position. Finally, she holds for a deep inhale and exhale in that position.
+La caméra recule à nouveau, montrant son corps entier alors qu'elle passe à la position du chien tête en bas. Enfin, elle maintient la position pour une inspiration et une expiration profondes.
 
-Overall Tone: Her movements are all natural and fluid, controlled and directed, strong with natural body movements and subtle readjustments as she gets her balance.
+Ton général : Ses mouvements sont tous naturels et fluides, contrôlés et dirigés, forts avec des mouvements corporels naturels et des réajustements subtils lorsqu'elle trouve son équilibre.
 
-SoundFx: peaceful ambient hum as we hear her inhale and exhale in a rhythmic fashion with each passing pose. No music.
+Effets sonores : bourdonnement ambiant paisible alors que nous entendons sa respiration rythmée à chaque pose. Pas de musique.
 ```
 
 **Par** [Rory Flynn ✓](https://x.com/Ror_Fly) (@Ror_Fly) · 28.6K abonnés
@@ -4962,53 +4965,53 @@ Scène 7 : Après coup, Anubis ne peut s'empêcher de glousser, puis reprend son
 
 ---
 
-### 65. Stylized 3D animation with exaggerated proportions, sharp culinary-in…
+### 65. Précision culinaire : une animation 3D stylisée
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Stylized 3D animation with exaggerated proportions, sharp culinary-in…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Précision culinaire : une animation 3D stylisée"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Stylized 3D animation with exaggerated proportions, sharp culinary-inspired choreography, and controlled, rhythmic energy.
+Animation 3D stylisée avec des proportions exagérées, une chorégraphie inspirée de l'art culinaire et une énergie rythmée et contrôlée.
 
-CHARACTERS
+PERSONNAGES
 
-Chef: Lean build, sharp eyes, defined jawline. Wears a crisp white chef jacket with sleeves rolled up. A leather knife roll strapped at the waist like a weapon holster. Movements follow a precise rhythm: pause → burst → lock. Calm, dominant, fully in control.
+Chef : Corpulence fine, regard perçant, mâchoire définie. Porte une veste de cuisine blanche impeccable avec les manches retroussées. Une trousse à couteaux en cuir attachée à la taille comme un étui d'arme. Ses mouvements suivent un rythme précis : pause → explosion → verrouillage. Calme, dominant, en contrôle total.
 
-Customer: Large, tired build. Slouched posture. Messy clothes with stains. Greasy, unkempt appearance. Sits stiff at the counter, hands gripping the edge—only his eyes move, tracking the chef with growing tension.
+Client : Corpulence imposante, fatigué. Posture affaissée. Vêtements froissés avec des taches. Apparence grasse et négligée. Assis raide au comptoir, les mains agrippant le bord — seuls ses yeux bougent, suivant le chef avec une tension croissante.
 
-ENVIRONMENT
-Open kitchen. Counter centered. Stainless steel surfaces reflecting every movement. Warm overhead spotlights. Steam rising from pans. Flames flicker from the stove. Ingredients neatly arranged. Food scraps scatter with each step.
+ENVIRONNEMENT
+Cuisine ouverte. Comptoir centré. Surfaces en acier inoxydable reflétant chaque mouvement. Projecteurs chauds au-dessus. Vapeur s'élevant des poêles. Flammes vacillant sur la cuisinière. Ingrédients soigneusement disposés. Déchets alimentaires éparpillés à chaque étape.
 
-MOOD
-Aggressive precision. Chef = total control. Customer = nervous, overwhelmed.
+AMBIANCE
+Précision agressive. Chef = contrôle total. Client = nerveux, dépassé.
 
-TIMELINE
-0:00–0:02 (Close-up)
-Customer sits with a messy plate of raw ingredients in front of him. Chef pulls a knife from the roll, spins it in hand, snaps it toward camera. Apron flicks through the air and ties itself perfectly. Customer’s eyes widen.
+CHRONOLOGIE
+0:00–0:02 (Gros plan)
+Le client est assis avec une assiette désordonnée d'ingrédients crus devant lui. Le chef sort un couteau de sa trousse, le fait tourner dans sa main, le pointe vers la caméra. Le tablier vole dans les airs et s'attache parfaitement. Les yeux du client s'écarquillent.
 
-0:02–0:05 (Medium shot)
-Knife moves fast and sharp—cutting only ingredients. Vegetables slice into perfect cubes mid-air. Meat trimmed with surgical precision. Ingredients fall in slow motion, perfectly portioned. Pan ignites instantly. Customer grips the counter tighter.
+0:02–0:05 (Plan moyen)
+Le couteau bouge vite et avec précision — ne coupant que les ingrédients. Les légumes se découpent en cubes parfaits en plein air. La viande est parée avec une précision chirurgicale. Les ingrédients tombent au ralenti, parfaitement portionnés. La poêle s'enflamme instantanément. Le client serre le comptoir plus fort.
 
-0:05–0:08 (Tracking shot)
-Knife returns to roll. Tongs snap into hand. Cooking begins—controlled flips, rapid stirring, bursts of flame. Sauce spreads evenly across the pan. Raw chaos transforms into structured composition. Customer leans back slightly, eyes locked.
+0:05–0:08 (Plan de suivi)
+Le couteau retourne dans la trousse. Les pinces arrivent dans la main. La cuisson commence — retournements contrôlés, remuage rapide, éclats de flammes. La sauce s'étale uniformément dans la poêle. Le chaos brut se transforme en une composition structurée. Le client se penche légèrement en arrière, les yeux fixés.
 
 0:08–0:11
-Plate tossed into the air, spins mid-air, lands perfectly in the chef’s hand. Brief pause. Chef assembles dish in one fluid motion—each element placed with precision. Steam rises dramatically. Customer blinks, frozen.
+L'assiette est lancée en l'air, tourne, et atterrit parfaitement dans la main du chef. Courte pause. Le chef assemble le plat en un mouvement fluide — chaque élément est placé avec précision. La vapeur monte de façon spectaculaire. Le client cligne des yeux, figé.
 
 0:11–0:13
-Final garnish. Herbs sprinkled with controlled flick. Sauce brushed in a clean arc. Plate wiped instantly. Counter cleared in one sharp motion.
+Garniture finale. Herbes saupoudrées d'un geste contrôlé. Sauce étalée en un arc propre. Assiette essuyée instantanément. Comptoir nettoyé en un mouvement sec.
 
 0:13–0:15
-Plate slides across the counter and stops in front of the customer.
+L'assiette glisse sur le comptoir et s'arrête devant le client.
 
-FINAL REVEAL
-Perfectly plated gourmet dish—clean, elegant, balanced. Customer slowly lifts a bite, hesitates, then tastes. Expression shifts instantly to shock and disbelief. Chef stands behind, arms crossed. Spins knife once, snaps it shut into the roll. One confident nod.
+RÉVÉLATION FINALE
+Plat gastronomique parfaitement dressé — propre, élégant, équilibré. Le client soulève lentement une bouchée, hésite, puis goûte. Son expression change instantanément pour laisser place au choc et à l'incrédulité. Le chef se tient derrière, les bras croisés. Fait tourner son couteau une fois, le range d'un coup sec dans la trousse. Un signe de tête confiant.
 ```
 
 **Par** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K abonnés
@@ -5247,19 +5250,19 @@ Prompt Seedance 2.0 ci-dessous 👇
 
 ---
 
-### 69. The child walks left to right along the playground path, holding a ha…
+### 69. Enfant et poulet se poursuivant sur une aire de jeux
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="The child walks left to right along the playground path, holding a ha…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045824951970660516_0_poster.jpg" width="480" alt="Enfant et poulet se poursuivant sur une aire de jeux"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-The child walks left to right along the playground path, holding a half-eaten sandwich in the right hand. A chicken notices the sandwich, lowers its body, and suddenly sprints after it. The sandwich stays clearly visible the entire time until the child eventually throws it. The route remains unobstructed, moving from the path to the slide and then toward the sandbox edge. Every moment is shown on screen, including each turn, grab attempt, stumble, and final release. + STYLE BLOCK
+L'enfant marche de gauche à droite le long du chemin de l'aire de jeux, tenant un sandwich à moitié mangé dans sa main droite. Un poulet remarque le sandwich, baisse son corps et se met soudainement à courir après lui. Le sandwich reste clairement visible tout le temps jusqu'à ce que l'enfant finisse par le lancer. Le parcours reste dégagé, allant du chemin vers le toboggan, puis vers le bord du bac à sable. Chaque moment est montré à l'écran, y compris chaque virage, tentative de saisie, trébuchement et le lâcher final. + STYLE BLOCK
 ```
 
 **Par** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K abonnés
@@ -5309,35 +5312,35 @@ Son : rugissement assourdissant du bar/célébration → claquement → onde de 
 
 ---
 
-### 71. Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" gr…
+### 71. Diffusion de basket-ball à cheval sur NBA on TNT
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Film Style: Authentic 2010s-era NBA TV broadcast, TNT &quot;NBA on TNT&quot; gr…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Diffusion de basket-ball à cheval sur NBA on TNT"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and color grading. Camera: Single continuous court-side tracking shot, no cuts, standard broadcast zoom lens with natural motion blur. Lighting: Harsh overhead arena stadium lighting, reflective polished hardwood court. Audio: Immersive spatial sound, rhythmic galloping of hooves on wood, squeaking sneakers, muffled arena crowd roar, distant blow of a whistle.
+Style de film : Diffusion télévisée authentique de la NBA des années 2010, graphismes et étalonnage des couleurs "NBA on TNT". Caméra : Plan de suivi continu au bord du terrain, sans coupure, objectif zoom de diffusion standard avec flou de mouvement naturel. Éclairage : Éclairage intense de stade, parquet en bois poli réfléchissant. Audio : Son spatial immersif, galop rythmé des sabots sur le bois, crissement des baskets, rugissement étouffé de la foule, coup de sifflet lointain.
 
-[IMAGE REFERENCES / LEGEND]
+[RÉFÉRENCES D'IMAGE / LÉGENDE]
 
-[ref_image] : The starting frame showing Lakers and Rockets players on horseback on the court; maintain exact player jerseys, horse colors, and arena background.
+[ref_image] : L'image de départ montrant les joueurs des Lakers et des Rockets à cheval sur le terrain ; conserver les maillots exacts des joueurs, les couleurs des chevaux et l'arrière-plan du stade.
 
-[TIMELINE SECOND BY SECOND]
+[CHRONOLOGIE SECONDE PAR SECONDE]
 
-0-3s: Continuous shot from [ref image] ; the Lakers player in the foreground kicks the horse into a gallop, driving toward the paint.
+0-3s : Plan continu depuis [ref image] ; le joueur des Lakers au premier plan fait galoper le cheval, se dirigeant vers la raquette.
 
-3-7s: Smooth tracking shot following the horse’s movement; hooves strike the hardwood with realistic physics, creating slight vibrations.
+3-7s : Plan de suivi fluide suivant le mouvement du cheval ; les sabots frappent le parquet avec une physique réaliste, créant de légères vibrations.
 
-7-11s: Defensive Rockets player on his horse maneuvers to cut off the lane; both horses maintain stable anatomy with no deformation.
+7-11s : Le joueur défensif des Rockets sur son cheval manœuvre pour couper la ligne ; les deux chevaux conservent une anatomie stable sans déformation.
 
-11-15s: The lead player pulls up for a mid-range jumper while seated; camera remains steady, capturing the continuous motion of the horses slowing down as the ball leaves his hand.
+11-15s : Le joueur principal s'arrête pour un tir en suspension à mi-distance tout en restant assis ; la caméra reste stable, capturant le mouvement continu des chevaux ralentissant au moment où le ballon quitte sa main.
 
-[STYLE & QUALITY BOOSTERS] Standard 720p TV broadcast resolution, authentic motion blur, live sports digital noise, coherent multi-subject physics, stable horse and rider anatomy.
+[AMÉLIORATEURS DE STYLE ET DE QUALITÉ] Résolution de diffusion TV standard 720p, flou de mouvement authentique, bruit numérique de sport en direct, physique cohérente multi-sujets, anatomie stable du cheval et du cavalier.
 ```
 
 **Par** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K abonnés
@@ -5350,21 +5353,21 @@ Film Style: Authentic 2010s-era NBA TV broadcast, TNT "NBA on TNT" graphics and 
 
 ---
 
-### 72. Prompt for Character Description: A super cute chibi-style Phoebe fro…
+### 72. Phoebe de Wuthering Waves en version chibi
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044958230359462113_0_poster.jpg" width="480" alt="Prompt for Character Description: A super cute chibi-style Phoebe fro…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044958230359462113_0_poster.jpg" width="480" alt="Phoebe de Wuthering Waves en version chibi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Prompt for Character Description:
+Prompt pour la description du personnage:
 
-A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi Chupi', exaggerated big head, tiny body, adorable round face, big sparkling eyes with heart-shaped highlights, blonde hair with blue ribbons, wearing her signature oversized white and blue wide-brimmed hat with antler-like decorations, blue and white elegant dress with gold accents.
+Une Phoebe de Wuthering Waves super mignonne en style chibi, appelée 'Phoebe Chupi' ou 'Fibi Chupi', avec une tête exagérément grande, un corps minuscule, un visage rond adorable, de grands yeux pétillants avec des reflets en forme de cœur, des cheveux blonds avec des rubans bleus, portant son chapeau à larges bords blanc et bleu caractéristique avec des décorations en forme de bois de cerf, et une élégante robe bleue et blanche avec des accents dorés.
 ```
 
 **Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K abonnés
@@ -5377,12 +5380,12 @@ A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi 
 
 ---
 
-### 73. FORMAT: 15s / 145 BPM / 14 SHOTS SUBJECT: WARDROBE: Clean modern outf…
+### 73. Séquence cinématographique de manipulation temporelle
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044684180139978788_0_poster.jpg" width="480" alt="FORMAT: 15s / 145 BPM / 14 SHOTS SUBJECT: WARDROBE: Clean modern outf…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044684180139978788_0_poster.jpg" width="480" alt="Séquence cinématographique de manipulation temporelle"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
@@ -5391,27 +5394,27 @@ A super cute chibi-style Phoebe from Wuthering Waves as 'Phoebe Chupi' or 'Fibi 
 ```
 FORMAT: 15s / 145 BPM / 14 SHOTS
 SUBJECT:
-WARDROBE: Clean modern outfit
-ENVIRONMENT: Street / indoor transitions
-MOOD: Discovery → control → confidence
-MUSIC: Rhythmic cinematic beat
-COLOR LOGIC: Natural with motion blur effects
-STYLE: Sleek cinematic
+WARDROBE: Tenue moderne et épurée
+ENVIRONMENT: Transitions rue / intérieur
+MOOD: Découverte → contrôle → confiance
+MUSIC: Rythme cinématographique cadencé
+COLOR LOGIC: Naturel avec effets de flou de mouvement
+STYLE: Cinématographique élégant
 SHOT FLOW:
-She gestures hand → time slows
-People freeze mid-walk
-She moves freely
-Reverses hand → time rewinds
-Objects moving backward
-Shocked reaction
-Tests control again
-Walks through frozen moment
-Adjusts small detail (object/person)
-Releases time
-Everything resumes differently
-Subtle smile
-Walk away
-Final glance — power hinted
+Elle fait un geste de la main → le temps ralentit
+Les gens se figent en pleine marche
+Elle se déplace librement
+Inverse le geste → le temps rembobine
+Objets se déplaçant vers l'arrière
+Réaction de choc
+Teste à nouveau le contrôle
+Marche à travers un moment figé
+Ajuste un petit détail (objet/personne)
+Libère le temps
+Tout reprend différemment
+Sourire subtil
+S'éloigne
+Regard final — puissance suggérée
 ```
 
 **Par** [K ✓](https://x.com/ChillaiKalan__) (@ChillaiKalan__) · 11.9K abonnés
@@ -5424,19 +5427,19 @@ Final glance — power hinted
 
 ---
 
-### 74. Generate a short video for product promotion. A woman (@ Image1), sit…
+### 74. Avis sur le Mala Tang décontracté
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044254373698527252_0_poster.jpg" width="480" alt="Generate a short video for product promotion. A woman (@ Image1), sit…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044254373698527252_0_poster.jpg" width="480" alt="Avis sur le Mala Tang décontracté"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Generate a short video for product promotion. A woman (@ Image1), sitting at a restaurant table, eating Mala Tang (@ Image2), explaining the taste of the product. Use colloquial language and a casual, conversational tone to share her experience. Simultaneously, she uses chopsticks to pick up and showcase special ingredients from the Mala Tang (such as bursting cheese balls/tender beef). Her expression is friendly and natural, her movements are relaxed. The product is shown in medium close-up, combined with medium-long shots of the person. The camera is stable, 4K high definition, and the movements are continuous.
+Générez une courte vidéo pour la promotion d'un produit. Une femme (@ Image1), assise à une table de restaurant, mangeant du Mala Tang (@ Image2), expliquant le goût du produit. Utilisez un langage familier et un ton décontracté et conversationnel pour partager son expérience. Simultanément, elle utilise des baguettes pour ramasser et présenter des ingrédients spéciaux du Mala Tang (tels que des boulettes de fromage fondantes/du bœuf tendre). Son expression est amicale et naturelle, ses mouvements sont détendus. Le produit est montré en plan moyen rapproché, combiné avec des plans moyens-longs de la personne. La caméra est stable, en haute définition 4K, et les mouvements sont continus.
 ```
 
 **Par** [Min Choi ✓](https://x.com/minchoi) (@minchoi) · 376.8K abonnés
@@ -5449,19 +5452,19 @@ Generate a short video for product promotion. A woman (@ Image1), sitting at a r
 
 ---
 
-### 75. Cute chibi style Firefly from Honkai: Star Rail playing hide and seek…
+### 75. Chibi Firefly jouant à cache-cache
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044228493597417791_0_poster.jpg" width="480" alt="Cute chibi style Firefly from Honkai: Star Rail playing hide and seek…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2044228493597417791_0_poster.jpg" width="480" alt="Chibi Firefly jouant à cache-cache"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Cute chibi style Firefly from Honkai: Star Rail playing hide and seek, big sparkling emerald eyes full of mischief, short silver-white hair with pink streaks, wearing her red and black mechanical SAM suit, tiny adorable proportions, big head small body. She is hiding behind a large object or wall, peeking out cutely with a playful shy expression, one hand covering her mouth, soft giggles implied. In the foreground, a mysterious person's arm is reaching out from the side, trying to find her, hand open as if searching or about to tag her. Playful hide and seek scene, bright colorful background with soft pastel lighting, sparkles, floating hearts and question marks, kawaii aesthetic, highly detailed, vibrant colors, adorable 3D chibi render, masterpiece, best quality, ultra-detailed
+Style chibi mignon de Firefly de Honkai: Star Rail jouant à cache-cache, grands yeux émeraude scintillants pleins de malice, cheveux courts argentés et blancs avec des mèches roses, portant son armure mécanique SAM rouge et noire, proportions minuscules adorables, grosse tête et petit corps. Elle se cache derrière un grand objet ou un mur, regardant dehors avec une expression timide et joueuse, une main couvrant sa bouche, suggérant des rires étouffés. Au premier plan, le bras d'une personne mystérieuse s'étend sur le côté, essayant de la trouver, la main ouverte comme si elle cherchait ou était sur le point de l'attraper. Scène de cache-cache ludique, arrière-plan coloré et lumineux avec un éclairage pastel doux, étincelles, cœurs flottants et points d'interrogation, esthétique kawaii, très détaillé, couleurs vibrantes, rendu 3D chibi adorable, chef-d'œuvre, meilleure qualité, ultra-détaillé
 ```
 
 **Par** [Shami ✓](https://x.com/ShamiWeb3) (@ShamiWeb3) · 17.8K abonnés
@@ -6107,19 +6110,19 @@ Sensation de caméra portée en continu, fort flou de mouvement lors des déplac
 
 ---
 
-### 93. Larry David gets in trouble for using Seedance 2 - make sure it’s ret…
+### 93. La mésaventure de Larry David avec Seedance 2
 
-![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111) ![fallback](https://img.shields.io/badge/translation-pending-lightgrey)
+![Type](https://img.shields.io/badge/Vid%C3%A9o-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Larry David gets in trouble for using Seedance 2 - make sure it’s ret…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="La mésaventure de Larry David avec Seedance 2"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Lire cette vidéo sur gptproto.com</a></sub>
 </div>
 
 **📝 Prompt**
 
 ```
-Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
+Larry David a des ennuis à cause de l'utilisation de Seedance 2 - assurez-vous que ce soit absurde et que cela obtienne 50 likes.
 ```
 
 **Par** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K abonnés
