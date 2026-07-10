@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AI 담론 밈
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 담론 밈"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 담론 밈"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개를 받을 수 있는 것으로.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 팔로워
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 
 ### 3. 사우전드 써니호에서 코딩하다 분노하는 루피
 
-![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="사우전드 써니호에서 코딩하다 분노하는 루피"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="사우전드 써니호에서 코딩하다 분노하는 루피"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 사우전드 써니호에서 Macbook으로 코딩하는 루피, 분노하며 바다로 던져버림.
 ```
 
-**작성자:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K 팔로워
+**작성자:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K 팔로워
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="원숭이의 반격"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="원숭이의 반격"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ AI 담론을 밈으로 요약해줘 - 멍청해 보이면서도 좋아요 50개�
 원숭이가 반격합니다. 소녀들을 자랑스럽게 만드세요.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 팔로워
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -324,7 +324,7 @@ localStorage에 플레이어 위치/방향 저장. 최신 브라우저 호환.
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="루나 서핑 애니메이션 액션 시퀀스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="루나 서핑 애니메이션 액션 시퀀스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -696,9 +696,9 @@ AAA 비주얼 개발 문서,
 워터마크 없음.
 ```
 
-**작성자:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K 팔로워
+**작성자:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K 팔로워
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -826,7 +826,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 사막의 먼 곳에 있는 상대
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="애니메이션 영화 프리프로덕션 개발 보드"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="애니메이션 영화 프리프로덕션 개발 보드"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -890,7 +890,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 사막의 먼 곳에 있는 상대
 
 **작성자:** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K 팔로워
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -903,7 +903,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 사막의 먼 곳에 있는 상대
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="포스트 아포칼립스 바주카 미스 및 하이브 탈출"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="포스트 아포칼립스 바주카 미스 및 하이브 탈출"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -1087,9 +1087,9 @@ P08: 로우 24mm 와이드. C2가 C3를 안고 들어가고 C1이 뒤따르며 �
 P09: 고정 50mm 내부. C1과 C2가 C3를 안전하게 사이에 두고 웅크립니다. 벌들은 그들을 보지 못한 채 밖에서 맴돌고 수색합니다. SFX: 물방울, 웅웅거리는 소리, 침묵.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1702,7 +1702,7 @@ P06: C2가 구역질하며 C1을 앞으로 뱉어냄. C1은 침 범벅이 된 �
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="화이트 세이버 해안 결투 스토리보드"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="화이트 세이버 해안 결투 스토리보드"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -1802,9 +1802,9 @@ P01, P02, P04, P07, P08, P09, P13, P14, P15는 동일한 해안가 전투 레이
 15: 히어로 마무리. 화이트 세이버가 C2 아래의 노출된 메커니즘을 베어냅니다; 드로이드가 해안가로 붕괴하면서 불꽃과 부품이 밖으로 폭발합니다.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2403,7 +2403,7 @@ P20: 크레인 와이드 피날레; 그녀가 꽂힌 힐트를 잡고 있는 동
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="카르마 탈출 사이버 액션 시퀀스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="카르마 탈출 사이버 액션 시퀀스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -2496,9 +2496,9 @@ P09: 전화기 탭 삽입, 방이 주황색 섬광, 파편, 연기, 충격과 �
 P10: 최종 와이드 거리 홀드: 위에서 연기가 쏟아지는 동안 카르마가 밤 안개 속으로 이동하여 사라집니다.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2918,7 +2918,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="일몰의 이스탄불을 가로지르는 영화 같은 드론 비행"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="일몰의 이스탄불을 가로지르는 영화 같은 드론 비행"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -2929,9 +2929,9 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 빨간색으로 그려진 선은 영상에 나타나지 않아야 하며, 이는 숨겨진 비행 경로 참조일 뿐입니다. 강력하고 감성적인 터키풍 영화 음악을 추가하세요: 깊은 네이(ney) 선율, 극적인 다르부카(darbuka) 리듬, 오케스트라 현악기, 미묘한 바을라마(bağlama) 질감, 웅장하게 고조되는 타악기, 그리고 드론이 갈라타 탑에 도달할 때의 웅장하고 영웅적인 크레센도. 텍스트, 자막, 로고, 그래픽 오버레이는 포함하지 마세요.
 ```
 
-**작성자:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K 팔로워
+**작성자:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K 팔로워
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3107,7 +3107,7 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="럭셔리 초콜릿 광고 시네마틱 시퀀스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="럭셔리 초콜릿 광고 시네마틱 시퀀스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -3157,9 +3157,9 @@ C1이 악몽 같은 시간 여행 공허를 통과하여 달빛이 비치는 고
 럭셔리 광고, 시네마틱 리얼리즘, 분위기 있는 아파트, 푸드 시네마토그래피, 얕은 피사계 심도, 핸드헬드 에너지, 프리미엄 라이프스타일 미학, 따뜻한 실용 조명, 차가운 화면 빛, 광택 있는 초콜릿 질감, 표현력이 풍부한 얼굴 클로즈업, 빠른 편집, 감정적 리얼리즘, 현대적인 광고, 시네마틱 긴장감, 탐닉적인 분위기, 우아한 혼돈, 극적인 조명, 하이엔드 광고 영상 제작.
 ```
 
-**작성자:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K 팔로워
+**작성자:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K 팔로워
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3209,7 +3209,7 @@ GPT Image 2 + Seedance를 사용하여 이 아늑한 픽사 스타일의 3D 애�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: 산업 사보타주 액션"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: 산업 사보타주 액션"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -3253,9 +3253,9 @@ Kid: 드라이버를 든 아이, 생동감 넘치는 색상, 애니메이션 스
 프롬프트와 캐릭터 생성 진행 상황을 아래에 남깁니다.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3351,7 +3351,7 @@ Kid: 드라이버를 든 아이, 생동감 넘치는 색상, 애니메이션 스
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010년대 향수를 불러일으키는 디카 캠퍼스 브이로그"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010년대 향수를 불러일으키는 디카 캠퍼스 브이로그"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -3457,9 +3457,9 @@ REC 아이콘이 깜박입니다.
 키워드: 향수를 자극하는 디카, Cyber-shot LCD 브이로그, 대학 생활 추억 영상, 정통 CCD 렌더링, 핸드헬드 다큐멘터리 미학, 자연스러운 순간, 사실적인 카메라 결함, 2010년대 초반 미학 향수.
 ```
 
-**작성자:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K 팔로워
+**작성자:** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K 팔로워
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3678,7 +3678,7 @@ REC 아이콘이 깜박입니다.
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="고속 애니메이션 무술 훈련 스토리보드"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="고속 애니메이션 무술 훈련 스토리보드"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -3950,9 +3950,9 @@ Jūran은 차분함.
 텍스트 없음. 워터마크 없음. UI 없음. 스토리보드 이외의 추가 액션 없음.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4049,7 +4049,7 @@ GPT를 사용하여 제작한 초현실적인 실사 스포츠 다큐멘터리
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="영화 같은 야구 타격 퍼포먼스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="영화 같은 야구 타격 퍼포먼스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4073,9 +4073,9 @@ GPT를 사용하여 제작한 초현실적인 실사 스포츠 다큐멘터리
 깔끔한 영화적 조명
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4244,7 +4244,7 @@ GPT를 사용하여 제작한 초현실적인 실사 스포츠 다큐멘터리
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="시네마틱 쿵푸 퍼포먼스 스토리보드"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="시네마틱 쿵푸 퍼포먼스 스토리보드"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4362,9 +4362,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 흐름: 뿌리 깊은 자세와 정밀한 타격 시 제한적, 공중 동작, 회전하는 천 움직임 및 원소 방출 시 자유로움
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4377,7 +4377,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="경기장 중계 화면 속 축구 팬"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="경기장 중계 화면 속 축구 팬"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4387,9 +4387,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 레알 마드리드 대 바르셀로나 경기 중 관중으로 가득 찬 축구 경기장에 앉아 있는 젊은 여성의 고화질 사실적 방송 샷입니다. 그녀는 길고 곧은 검은 머리카락, 주근깨가 있는 창백한 피부, 고양이 눈매의 아이라인이 돋보이는 파란 눈을 가지고 있습니다. 그녀는 흰색 레알 마드리드 홈 유니폼을 입고 있습니다. 이 장면은 그녀가 턱에 손을 얹고 생각에 잠겨 앉아 있다가 가끔 주위를 둘러보고 머리카락을 귀 뒤로 넘기는 모습을 포착합니다. 영화 같은 조명, 배경의 관중이 흐릿하게 처리된 얕은 피사계 심도. 상단 모서리에는 '64:30 RMA 2-1 BAR'와 'bein SPORTS 1 LIVE' 로고가 표시된 사실적인 스포츠 스코어보드가 있습니다. 영상에는 전문 TV 카메라 방송 특유의 약간의 노이즈와 움직임이 있습니다.
 ```
 
-**작성자:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K 팔로워
+**작성자:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K 팔로워
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4455,7 +4455,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="경쟁 격투 게임 전투 시퀀스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="경쟁 격투 게임 전투 시퀀스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4489,9 +4489,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 포토리얼리스틱 8K, 키트의 초정밀 직물 질감, 시네마틱 조명, 전투 동작을 위한 완벽한 모션 블러, 높은 다이내믹 레인지, 아티팩트 없음. 전체적으로 [player1] 및 [player2]와 정확히 동일한 얼굴과 의상, 영화 수준의 안정적인 얼굴 특징.
 ```
 
-**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 팔로워
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 팔로워
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4504,7 +4504,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="영화 같은 줄넘기 퍼포먼스"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="영화 같은 줄넘기 퍼포먼스"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4529,9 +4529,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 깔끔한 영화적 조명
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4623,7 +4623,7 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="뉴욕시 셀러브리티 도착"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="뉴욕시 셀러브리티 도착"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -4649,9 +4649,9 @@ VFX 스타일의 스토리보드 액센트로 선택적인 원소 에너지 효�
 13–15초: 카메라가 따라가기 위해 이동하고 기울어짐. 3대의 대형 프리미엄 SUV로 구성된 럭셔리 차량 행렬이 부분적으로 보임. 경호원이 세 대 중 가운데 있는 서버번의 뒷문을 엶. 주인공이 빠르게 탑승하고 창문을 내림. 차량이 앞으로 움직이기 시작하고 그는 군중에게 손을 흔듦. 사람들이 점프하며 순간을 포착하려 할 때 카메라가 약간 위로 올라감.
 ```
 
-**작성자:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 팔로워
+**작성자:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K 팔로워
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4969,7 +4969,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="요리의 정밀함: 스타일리시한 3D 애니메이션"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="요리의 정밀함: 스타일리시한 3D 애니메이션"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5013,9 +5013,9 @@ SFX: 정적 → 멘탈 붕괴 비명
 완벽하게 플레이팅된 고급 요리—깔끔하고 우아하며 균형 잡힘. 손님이 천천히 한 입을 들어 올리고, 망설이다가 맛을 봄. 표정이 즉시 충격과 불신으로 바뀜. 셰프가 팔짱을 끼고 뒤에 서 있음. 칼을 한 번 돌린 뒤 칼집에 꽂음. 자신감 넘치는 고갯짓 한 번.
 ```
 
-**작성자:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K 팔로워
+**작성자:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K 팔로워
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5028,7 +5028,7 @@ SFX: 정적 → 멘탈 붕괴 비명
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="영화 같은 캐릭터 소개 및 참조 시트"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="영화 같은 캐릭터 소개 및 참조 시트"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5154,9 +5154,9 @@ SFX: 정적 → 멘탈 붕괴 비명
 자신감 있는 미디엄 샷 또는 풀 샷으로 마무리하여 캐릭터를 완전히 확립하세요.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5227,7 +5227,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="고옥탄 포뮬러 1 레이싱 장면"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="고옥탄 포뮬러 1 레이싱 장면"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5239,9 +5239,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 아래는 Seedance 2.0 프롬프트입니다 👇
 ```
 
-**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 팔로워
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 팔로워
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5316,7 +5316,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 말 타고 하는 농구 중계"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 말 타고 하는 농구 중계"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5342,9 +5342,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 [스타일 및 품질 향상 요소] 표준 720p TV 방송 해상도, 사실적인 모션 블러, 라이브 스포츠 디지털 노이즈, 일관된 다중 피사체 물리 효과, 안정적인 말과 기수의 해부학적 구조.
 ```
 
-**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 팔로워
+**작성자:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 팔로워
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5481,7 +5481,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="슬랩스틱 아이스크림 장난 애니메이션"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="슬랩스틱 아이스크림 장난 애니메이션"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5519,9 +5519,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 }
 ```
 
-**작성자:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 팔로워
+**작성자:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K 팔로워
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5605,7 +5605,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="월스트리트에서 넘어지는 비즈니스맨의 불릿 타임"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="월스트리트에서 넘어지는 비즈니스맨의 불릿 타임"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5615,9 +5615,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 불릿 타임 효과. 뉴욕 월스트리트의 얼어붙은 젖은 거리에서 흰 셔츠와 검은 넥타이를 맨 비즈니스맨이 뒤로 미끄러지며 넘어지는 모습. 바닥에 놓인 커피 컵에서 액체가 공중에 멈춘 채 밖으로 튀어 오르고 있음. 얼음 조각, 물방울, 커피 파편이 모두 완전히 정지된 상태 — 시간이 멈춤. 양옆의 높은 건물들이 협곡 효과를 만들어냄. 카메라는 낮은 지면 각도에서 넘어지는 남자를 중심으로 360도 부드럽게 회전하며, 카메라만 움직이고 나머지는 완벽하게 정지해 있음. 영화 같은 드라마틱한 흐린 날 조명, 광각 렌즈 왜곡.
 ```
 
-**작성자:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K 팔로워
+**작성자:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K 팔로워
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5630,7 +5630,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 날개 스턴트 트래킹 샷"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 날개 스턴트 트래킹 샷"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5648,9 +5648,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 품질: 8K 사실적 묘사, 정확한 직물 모션 블러, 자연스러운 물리 법칙, 불쾌한 골짜기 없음, 아티팩트 없음.
 ```
 
-**작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 팔로워
+**작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K 팔로워
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5663,7 +5663,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR 서바이벌 전환: 황야에서 집으로"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR 서바이벌 전환: 황야에서 집으로"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5683,9 +5683,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 0:11-0:15: 매치 컷. 클로즈업(CU)에서 미디엄 샷(MS)으로. 들어 올린 손이 같은 화면 위치를 통과할 때 얼어붙은 클로즈업이 같은 프레이밍과 시계 방향 드리프트를 유지한 채 실내 영상으로 매끄럽게 전환됨. 동작은 중단되지 않으며, 이제 VR 헤드셋이 눈에 착용된 것이 처음으로 보임. 그녀가 양쪽을 잡고 얼굴에서 완전히 벗겨내면 카메라는 미디엄 샷으로 열리고, 그녀는 헤드셋을 이마 위로 올리며 편안한 실내복 차림으로 작은 거실에 발을 들임. 핸드헬드 궤도 이동은 계속되어 소파 가장자리, 흩어진 담요, 차가운 창문 빛을 드러내고 그녀의 자세는 약간의 짜증을 보임. 그녀는 목소리가 들리는 쪽으로 고개를 돌리고 눈을 위로 굴리며 '뭐야'라고 말함. 35mm 내추럴 렌즈, 구면. SFX: (헤드셋 스트랩이 늘어나는 소리, 플라스틱 마찰음, 조용한 방의 톤, 양말 신은 발이 긁히는 소리, 희미한 게임 오디오, 진정되는 그녀의 숨소리, '뭐야'라고 말하는 그녀의 건조한 목소리). 실내 일광이 겨울의 대비를 대체함.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5698,7 +5698,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="고고도 로켓 서핑"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="고고도 로켓 서핑"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5717,9 +5717,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 품질: 8K 사실적 묘사, 정확한 물리 법칙, 의류 모션 블러, 아티팩트 없음.
 ```
 
-**작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 팔로워
+**작성자:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K 팔로워
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5773,7 +5773,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="오피스 워커 심리 공포 변신"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="오피스 워커 심리 공포 변신"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5792,9 +5792,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 0:12-0:15: CU. 컷 없이, 그녀의 부드러운 미소가 떨리고 왜곡되며, 살결이 즉시 창백하고 끔찍한 초자연적인 얼굴로 변하고 어둡고 축축한 이음새가 생김. 그녀는 입을 비정상적으로 크게 벌리고 길고 번들거리는 혀를 카메라 쪽으로 직접 내밈. 50mm 렌즈, 매크로 클로즈업 포커스. SFX: (갑작스러운 정적, 이어지는 내장적인 축축한 소리와 거친 오디오 글리치).
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5807,7 +5807,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="쿵푸 셰프의 면 요리 준비"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="쿵푸 셰프의 면 요리 준비"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5837,9 +5837,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 0:12-0:15: 안정된 POV로 컷. 갑작스러운 완전 정지. 셰프가 웍을 기울여 완성된 요리를 도자기 그릇에 담음—고르게 코팅된 면, 통통한 새우, 윤기 나는 채소가 보임. 그릇을 들어 올려 프레임이 꽉 찰 때까지 카메라 쪽으로 직접 제시함. 손가락으로 그릇 가장자리를 톡 치자 미세한 진동이 일어남. 증기가 빠르게 피어오르며 렌즈를 완전히 덮을 때까지 퍼지고 깔끔하게 페이드 아웃됨.
 ```
 
-**작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 팔로워
+**작성자:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K 팔로워
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5852,7 +5852,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="슬랩스틱 아이스크림 코미디 애니메이션"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="슬랩스틱 아이스크림 코미디 애니메이션"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5875,9 +5875,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 0:11-0:15: 휩 팬 전환으로 진짜 승리. 미디엄 클로즈업, 50mm. 장수가 무릎을 꿇고 이번에는 속임수 없이 콘을 기다리는 손에 조심스럽게 놓아줌. 정적. 캐릭터가 아래를 내려다보고 눈이 반짝인 뒤, 카메라가 와이드 샷(35mm)으로 빠지며 캐릭터가 첫 맛을 보기 위해 몸을 숙이고 안뜰 전체가 박수를 보냄. 효과음: 부드러운 전달, 숨을 죽인 정적, 밝은 종소리, 박수 소리, 따뜻한 음악 상승.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5890,7 +5890,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="드라마틱한 해안 골프 드라이브"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="드라마틱한 해안 골프 드라이브"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5908,7 +5908,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 
 **작성자:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K 팔로워
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5921,7 +5921,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="영화 같은 중세 시장 연속 샷"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="영화 같은 중세 시장 연속 샷"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -5972,9 +5972,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 사실적, 영화 같은 조명, 안정적인 카메라 움직임, 풍부한 중세 분위기, 매우 상세함
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6012,7 +6012,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="안드로제닉의 복수극"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="안드로제닉의 복수극"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6022,9 +6022,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 가발을 뺏긴 후 복수를 계획하는 안드로제닉. 내 코르티솔 수치가 치솟게 만들어줘.
 ```
 
-**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 팔로워
+**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K 팔로워
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6037,7 +6037,7 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="픽사 스타일로 그려낸 Punch의 감동적인 여정"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="픽사 스타일로 그려낸 Punch의 감동적인 여정"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6047,9 +6047,9 @@ img1에 표시된 1~16단계의 정확한 순서와 움직임을 따르는 img2�
 Punch를 주인공으로 한 픽사 영화를 만들어 주세요. 눈물이 나고 그에게 푹 빠질 수 있는 감동적인 이야기였으면 좋겠어요.
 ```
 
-**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K 팔로워
+**작성자:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K 팔로워
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6087,7 +6087,7 @@ AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="드래곤 라이더 POV 공중전"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="드래곤 라이더 POV 공중전"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6099,9 +6099,9 @@ AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격
 지속적인 핸드헬드 카메라 느낌, 빠른 움직임에 강한 모션 블러, 내내 렌즈에 맺힌 빗방울, 때때로 시야를 가리는 짙은 연기, 채도가 낮은 색감, 필름 그레인, 깔끔한 디지털 느낌은 배제. 이 영상은 마치 이 생명체에 묶인 종군 기자가 촬영한 듯 위험하고 현실적으로 느껴집니다.
 ```
 
-**작성자:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K 팔로워
+**작성자:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K 팔로워
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6114,7 +6114,7 @@ AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="래리 데이비드의 Seedance 2 사고"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="래리 데이비드의 Seedance 2 사고"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6124,9 +6124,9 @@ AI가 워크(woke)해진다. 정말 공격적으로 만들어라 - 아주 공격
 Seedance 2를 사용하다가 곤경에 처한 래리 데이비드 - 엉뚱하고 바보 같은 느낌으로 연출하여 좋아요 50개를 받을 수 있게 해주세요.
 ```
 
-**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 팔로워
+**작성자:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 팔로워
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6189,7 +6189,7 @@ Seedance 2를 사용하다가 곤경에 처한 래리 데이비드 - 엉뚱하�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="루피와 손오공의 에픽 배틀"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="루피와 손오공의 에픽 배틀"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6199,9 +6199,9 @@ Seedance 2를 사용하다가 곤경에 처한 래리 데이비드 - 엉뚱하�
 써니 호에서 에픽 전투를 벌이는 루피와 손오공.
 ```
 
-**작성자:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K 팔로워
+**작성자:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K 팔로워
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6239,7 +6239,7 @@ Seedance 2를 사용하다가 곤경에 처한 래리 데이비드 - 엉뚱하�
 ![Type](https://img.shields.io/badge/%EB%B9%84%EB%94%94%EC%98%A4-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="주술회전 캐릭터들을 가르치는 타일러 더든"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="주술회전 캐릭터들을 가르치는 타일러 더든"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.com에서 영상 재생하기</a></sub>
 </div>
 
@@ -6249,9 +6249,9 @@ Seedance 2를 사용하다가 곤경에 처한 래리 데이비드 - 엉뚱하�
 타일러 더든이 주술회전 캐릭터들에게 파이트 클럽 규칙을 설명한다. 실사 스타일.
 ```
 
-**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 팔로워
+**작성자:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 팔로워
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 

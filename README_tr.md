@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AI Söylem Memi
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI Söylem Memi"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI Söylem Memi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Yapay zeka söylemini bir mem ile özetle - saçma sapan olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K takipçi
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ Waffle House'ta sıradan bir vardiya - saçma olduğundan ve 50 beğeni aldığ�
 
 ### 3. Luffy Thousand Sunny'de Kod Yazarken Öfkeleniyor
 
-![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy Thousand Sunny'de Kod Yazarken Öfkeleniyor"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy Thousand Sunny'de Kod Yazarken Öfkeleniyor"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ Waffle House'ta sıradan bir vardiya - saçma olduğundan ve 50 beğeni aldığ�
 Luffy, Thousand Sunny'de Macbook üzerinde kod yazıyor, ÖFKELENİYOR ve ardından onu denize fırlatıyor.
 ```
 
-**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K takipçi
+**Gönderen** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K takipçi
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Maymunun Misillemesi"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Maymunun Misillemesi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ Gece maçı sırasında dolu bir futbol stadyumunda oturan çekici bir kadının
 Maymun karşılık veriyor. Kızları gururlandır.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K takipçi
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -323,7 +323,7 @@ Sadece eksiksiz HTML kaynak kodunu döndür. Açıklama yapma.
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Luna Sörf Anime Aksiyon Sekansı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Luna Sörf Anime Aksiyon Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -695,9 +695,9 @@ altyazı yok,
 filigran yok.
 ```
 
-**Gönderen** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K takipçi
+**Gönderen** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K takipçi
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -825,7 +825,7 @@ Kamera: yerden elde takip, hafif doğal titreme, heykeller arasında yavaş doku
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Anime Film Yapım Öncesi Geliştirme Panosu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Anime Film Yapım Öncesi Geliştirme Panosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -889,7 +889,7 @@ NİHAİ HEDEF: Bunun duygusal bir yaz nostaljisi ve sinematik hikaye anlatımı 
 
 **Gönderen** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K takipçi
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -902,7 +902,7 @@ NİHAİ HEDEF: Bunun duygusal bir yaz nostaljisi ve sinematik hikaye anlatımı 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Kıyamet Sonrası Bazuka Iskalama ve Kovan Kaçışı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Kıyamet Sonrası Bazuka Iskalama ve Kovan Kaçışı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -1086,9 +1086,9 @@ P08: Düşük 24mm geniş. C2 C3'ü taşıyarak girer, C1 takip eder ve ızgaray
 P09: Kilitli 50mm iç. C1 ve C2 C3'ü aralarında güvenli bir şekilde tutarak çömelirler; arılar onları görmeden dışarıda süzülür ve arar. SFX: damlalar, boğuk vızıltı, sessizlik.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1701,7 +1701,7 @@ P06: C2 öğürür ve C1'i ileri fırlatır; o, salyaya bulanmış şekilde ön 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Beyaz Işın Kılıcı Kıyı Düellosu Taslak Panosu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Beyaz Işın Kılıcı Kıyı Düellosu Taslak Panosu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -1801,9 +1801,9 @@ BEATS:
 15: Kahraman bitişi. Beyaz kılıç C2'nin altındaki açık mekanizmaları keser; droid kıyıya çökerken kıvılcımlar ve parçalar dışarı doğru patlar.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2403,7 +2403,7 @@ Stil: Gerçekçi dikey canlı yayın / mukbang vlog, hafif doğal kamera sarsın
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -2496,9 +2496,9 @@ P09: Telefon dokunuşu ekle, sonra oda turuncu flaş, enkaz, duman ve darbeyle p
 P10: Sokakta final geniş tutuş: Karma gece pusuna doğru hareket edip kaybolurken yukarıdan dumanlar yükselir.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2915,7 +2915,7 @@ Anubis kaslıdır, kollarında, boynunda ve kulaklarında halkalar ve küpeler v
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Gün Batımında İstanbul Üzerinde Sinematik Drone Uçuşu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -2926,9 +2926,9 @@ Referans görseli tam konum ve uçuş yolu rehberi olarak kullanarak, altın saa
 Çizilen kırmızı çizgi videoda görünmemelidir; bu sadece gizli bir uçuş yolu referansıdır. Güçlü ve duygusal bir Türk sinematik müziği ekleyin: derin ney melodisi, dramatik darbuka ritmi, orkestral yaylılar, ince bağlama dokusu, epik yükselen perküsyon ve drone Galata Kulesi'ne ulaştığında görkemli bir kahramanca kreşendo. Metin, altyazı, logo veya grafik bindirmesi olmasın.
 ```
 
-**Gönderen** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K takipçi
+**Gönderen** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K takipçi
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3104,7 +3104,7 @@ Kesintisiz arkadan takip kamerası, kesinti yok. Kamera, el tipi FPV momentumu i
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Lüks Çikolata Reklamı Sinematik Sekansı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Lüks Çikolata Reklamı Sinematik Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -3154,9 +3154,9 @@ Sinematik Anahtar Kelimeler
 Lüks reklam, sinematik gerçekçilik, karamsar apartman, yemek sinematografisi, sığ alan derinliği, elde çekim enerjisi, premium yaşam tarzı estetiği, sıcak pratik aydınlatma, soğuk ekran parıltısı, parlak çikolata dokuları, etkileyici yüz yakın çekimleri, hızlı tempolu kurgu, duygusal gerçekçilik, modern reklam, sinematik gerilim, şımartıcı atmosfer, zarif kaos, dramatik aydınlatma, üst düzey reklam film yapımı.
 ```
 
-**Gönderen** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K takipçi
+**Gönderen** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K takipçi
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3206,7 +3206,7 @@ Tam istem için DM atın
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: Endüstriyel Sabotaj Aksiyonu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: Endüstriyel Sabotaj Aksiyonu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -3250,9 +3250,9 @@ STİL: Stilize sinematik resimsel 3D-anime hibrit, sıcak tozlu gün ışığı,
 İstem ve karakter oluşturma ilerlemesini aşağıda bırakıyorum.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3347,7 +3347,7 @@ Modern Çin 3D animasyon tarzı. Sahne 1: Büyük bir Mısır kütüphanesinde, 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010'ların Nostaljik Dijital Kamera Kampüs Vlog'u"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010'ların Nostaljik Dijital Kamera Kampüs Vlog'u"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -3453,9 +3453,9 @@ Siyah ekrana geçiş.
 Anahtar kelimeler: nostaljik dijital kamera, cyber-shot LCD vlog, üniversite hayatı anı görüntüleri, otantik CCD işleme, el kamerası belgesel estetiği, doğal anlar, gerçekçi kamera kusurları, 2010'ların başı estetik nostaljisi.
 ```
 
-**Gönderen** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K takipçi
+**Gönderen** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K takipçi
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3674,7 +3674,7 @@ Kadın Olimpik dalgıç, platformdan kalkıştan havada mükemmel dalışa ve ma
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Yüksek Hızlı Anime Dövüş Sanatları Eğitim Storyboard'u"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -3946,9 +3946,9 @@ Kaba sinematik sakuga enerjisi ve nostaljik 80'ler macera anime hissi ile 15 san
 Metin yok. Filigran yok. Arayüz yok. Storyboard'un ötesinde ekstra aksiyon yok.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4045,7 +4045,7 @@ Kalabalık gürültüsü yükselirken spiker bağırıyor:
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Sinematik Beyzbol Vuruş Performansı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Sinematik Beyzbol Vuruş Performansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4069,9 +4069,9 @@ yarı gerçekçi anatomi
 temiz sinematik aydınlatma
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4240,7 +4240,7 @@ Müziğin son ritmik vuruşu, hafif deklanşör donma sesi, devam eden seyirci a
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Sinematik Kung Fu Performansı Storyboard'u"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Sinematik Kung Fu Performansı Storyboard'u"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4358,9 +4358,9 @@ alan: saldırılar, bloklar ve hamleler sırasında doğrudan, dönüşler ve el
 akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, hava hareketi, dönen kumaş hareketi ve elementel serbest bırakma sırasında özgür
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4373,7 +4373,7 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, hava hareketi
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Stadyum yayın çekiminde futbol taraftarı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Stadyum yayın çekiminde futbol taraftarı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4383,9 +4383,9 @@ akış: köklü duruşlar ve hassas vuruşlar sırasında bağlı, hava hareketi
 Real Madrid ile Barcelona arasındaki maç sırasında kalabalık bir futbol stadyumunda oturan genç bir kadının yüksek çözünürlüklü, gerçekçi yayın çekimi. Uzun, düz siyah saçları, hafif çilli soluk bir teni ve kedi gözü eyeliner ile dikkat çekici mavi gözleri var. Beyaz bir Real Madrid iç saha forması giyiyor. Sahne, onun elini çenesine koymuş düşünceli bir şekilde oturduğunu, ara sıra etrafına baktığını ve saçını kulağının arkasına ittiğini yakalıyor. Sinematik aydınlatma, arka planda kalabalığın bulanık olduğu sığ alan derinliği. Üst köşede, '64:30 RMA 2-1 BAR' yazan gerçekçi bir spor skorbordu ve 'bein SPORTS 1 LIVE' logosu bulunuyor. Video, profesyonel bir TV kamerası yayınının hafif grenine ve hareketine sahip.
 ```
 
-**Gönderen** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K takipçi
+**Gönderen** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K takipçi
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4451,7 +4451,7 @@ Bir profesör, geleneksel bir kara tahtaya trigonometrik özdeşlikler için mat
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Rekabetçi Dövüş Oyunu Savaş Sekansı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Rekabetçi Dövüş Oyunu Savaş Sekansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4485,9 +4485,9 @@ STİL VE KALİTE ARTIRICILAR
 Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlatma, dövüş hareketleri için mükemmel hareket bulanıklığı, yüksek dinamik aralık, artefakt yok. [player1] ve [player2] için baştan sona aynı yüzler ve kıyafetler, film seviyesinde stabil yüz hatları.
 ```
 
-**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K takipçi
+**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K takipçi
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4500,7 +4500,7 @@ Fotogerçekçi 8K, kitlerde ultra detaylı kumaş dokuları, sinematik aydınlat
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Sinematik İp Atlama Performansı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Sinematik İp Atlama Performansı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4525,9 +4525,9 @@ yarı gerçekçi anatomi
 temiz sinematik aydınlatma
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4619,7 +4619,7 @@ Ekstra kapı yok, mükerrer çıkış yok, yönü tersine çevirme yok, dışar�
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="New York City'de Ünlülerin Gelişi"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="New York City'de Ünlülerin Gelişi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -4645,9 +4645,9 @@ Bir hayranına yaklaşır ve elinde tuttuğu (Konu Referans Görseli) baskılı 
 13–15sn: Kamera takip etmeye çalışırken kayar ve eğilir. Üç büyük premium SUV'den oluşan lüks bir konvoy kısmen görünür hale gelir. Bir güvenlik görevlisi, üç araçtan ortadakinin arka kapısını açar. Ana karakter hızla içeri girer ve camı indirir. Araçlar ilerlemeye başlarken kalabalığa el sallar. İnsanlar zıplayıp anı yakalamaya çalışırken kamera hafifçe yukarı kalkar.
 ```
 
-**Gönderen** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K takipçi
+**Gönderen** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K takipçi
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4964,7 +4964,7 @@ Sahne 7: Anubis sonrasında birkaç kez kıkırdamaktan kendini alamıyor, ardı
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Mutfak Hassasiyeti: Stilize Bir 3D Animasyon"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Mutfak Hassasiyeti: Stilize Bir 3D Animasyon"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5008,9 +5008,9 @@ FİNAL
 Mükemmel sunumlu gurme yemek; temiz, zarif, dengeli. Müşteri yavaşça bir lokma alıyor, tereddüt ediyor, sonra tadına bakıyor. İfadesi anında şok ve inançsızlığa dönüşüyor. Şef arkada duruyor, kolları kavuşturulmuş. Bıçağı bir kez çeviriyor, ruloya şaklatarak kapatıyor. Kendinden emin bir baş selamı.
 ```
 
-**Gönderen** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K takipçi
+**Gönderen** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K takipçi
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5023,7 +5023,7 @@ Mükemmel sunumlu gurme yemek; temiz, zarif, dengeli. Müşteri yavaşça bir lo
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Sinematik Karakter Tanıtımı ve Referans Sayfası"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Sinematik Karakter Tanıtımı ve Referans Sayfası"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5149,9 +5149,9 @@ sinematik ve tutarlı
 Kendinden emin bir orta veya tam çekimle, karakter tamamen oluşturulmuş şekilde bitirin.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5222,7 +5222,7 @@ Diyalog, metin veya anlatım olmamalıdır.
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Yüksek oktanlı Formula 1 yarış sahnesi"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Yüksek oktanlı Formula 1 yarış sahnesi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5234,9 +5234,9 @@ Hak ettiğimiz F1 bu, yönetmeliklerin dönüştürdüğü Mario Kart saçmalı�
 Aşağıdaki Seedance 2.0 istemi 👇
 ```
 
-**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K takipçi
+**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K takipçi
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5311,7 +5311,7 @@ Ses: sağır edici bar kükremesi/kutlama → şıklatma → derin şok dalgası
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT At Üstünde Basketbol Yayını"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT At Üstünde Basketbol Yayını"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5337,9 +5337,9 @@ Film Tarzı: Otantik 2010'lar dönemi NBA TV yayını, TNT "NBA on TNT" grafikle
 [STİL & KALİTE ARTIRICILAR] Standart 720p TV yayın çözünürlüğü, otantik hareket bulanıklığı, canlı spor dijital gürültüsü, tutarlı çoklu nesne fiziği, stabil at ve binici anatomisi.
 ```
 
-**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K takipçi
+**Gönderen** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K takipçi
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5476,7 +5476,7 @@ Honkai: Star Rail'den sevimli chibi tarzı Firefly saklambaç oynuyor, yaramazl�
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Slapstick Dondurma Şakası Animasyonu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Slapstick Dondurma Şakası Animasyonu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5514,9 +5514,9 @@ Honkai: Star Rail'den sevimli chibi tarzı Firefly saklambaç oynuyor, yaramazl�
 }
 ```
 
-**Gönderen** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K takipçi
+**Gönderen** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K takipçi
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5600,7 +5600,7 @@ SHOT 15: WS, 50mm pull-out / Laptopun kapanışından daireye geri dönüşe eş
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Wall Street'te bullet time etkisinde düşen iş adamı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Wall Street'te bullet time etkisinde düşen iş adamı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5610,9 +5610,9 @@ SHOT 15: WS, 50mm pull-out / Laptopun kapanışından daireye geri dönüşe eş
 Bullet time efekti. Beyaz gömlekli ve siyah kravatlı bir iş adamı, New York, Wall Street'teki buzlu ve ıslak bir caddede kayıp geriye doğru düşüyor. Yerde duran kahve fincanı, havada donmuş şekilde dışarı doğru patlayan sıvı. Buz parçaları, su damlacıkları ve kahve sıçramaları tamamen askıda kalmış; zaman donmuş durumda. Her iki taraftaki yüksek binalar kanyon etkisi yaratıyor. Kamera, düşük zemin seviyesinden düşen adamın etrafında 360 derece pürüzsüzce dönüyor, sadece kamera hareket ediyor ve diğer her şey mükemmel bir şekilde hareketsiz kalıyor. Sinematik, dramatik kapalı hava aydınlatması, geniş açılı lens bozulması.
 ```
 
-**Gönderen** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K takipçi
+**Gönderen** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K takipçi
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5625,7 +5625,7 @@ Bullet time efekti. Beyaz gömlekli ve siyah kravatlı bir iş adamı, New York,
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 Kanat Akrobasi Takip Çekimi"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16 Kanat Akrobasi Takip Çekimi"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5643,9 +5643,9 @@ zaman çizelgesi:
 kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik, tekinsiz vadi yok, yapaylık yok.
 ```
 
-**Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K takipçi
+**Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K takipçi
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5658,7 +5658,7 @@ kalite: 8K fotogerçekçi, doğru kumaş hareket bulanıklığı, doğal fizik, 
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR Hayatta Kalma Geçişi: Vahşi Doğadan Eve"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5678,9 +5678,9 @@ ZAMAN ÇİZELGESİ:
 0:11-0:15: MATCH CUT. CU'dan MS'ye (orta çekim). Kaldırılan elleri aynı ekran konumunu geçerken ve donmuş yakın çekim, aynı çerçeveleme ve saat yönündeki sürüklenme ile ev iç mekanına dönüşürken kesintisiz hareket geçişi. Hareket kesintisiz devam ediyor ve şimdi bir VR başlığı ilk kez gözlerinin üzerinde görünür şekilde takılı. Her iki yanından tutuyor, yüzünden tamamen çıkarıyor ve o, başlığı alnının üzerine bırakıp rahat ev kıyafetleriyle küçük bir oturma odasına adım atarken kamera orta çekime açılıyor. El kamerası yörüngesi devam ediyor; koltuk kenarlarını, dağınık battaniyeleri ve soğuk pencere ışığını ortaya çıkarırken duruşu hafif bir can sıkıntısına bürünüyor. Sese doğru dönüyor, gözlerini yukarı deviriyor ve "Ne var?" diyor. 35mm doğal lens, küresel. SFX: (başlık kayışı esnemesi, plastik sürtünmesi, sessiz oda tonu, çoraplı ayak kazıma sesi, hafif oyun sesi, sakinleşen nefesi, "Ne var?" diyen kuru sesi). İç mekan gün ışığı kış kontrastının yerini alıyor.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5693,7 +5693,7 @@ ZAMAN ÇİZELGESİ:
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Yüksek İrtifada Roket Sörfü"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Yüksek İrtifada Roket Sörfü"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5712,9 +5712,9 @@ ZAMAN ÇİZELGESİ: 0-3sn: Kot pantolonlu ve siyah tişörtlü bir adam, 12.000 
 KALİTE: 8K fotogerçekçi, doğru fizik kuralları, kumaş hareket bulanıklığı, yapaylık yok.
 ```
 
-**Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K takipçi
+**Gönderen** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K takipçi
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5768,7 +5768,7 @@ Fotogerçekçi 8K, ultra detaylı dokular, sinematik aydınlatma, mükemmel hare
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Ofis Çalışanı Psikolojik Korku Dönüşümü"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Ofis Çalışanı Psikolojik Korku Dönüşümü"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5787,9 +5787,9 @@ ZAMAN ÇİZELGESİ:
 0:12-0:15: Yakın Çekim (CU). Kesinti olmadan, yumuşak gülümsemesi titriyor ve bozuluyor, eti pürüzsüz ve anında ıslak koyu dikişlere sahip solgun, korkunç bir doğaüstü yüze dönüşüyor. Ağzını imkansız derecede geniş açıyor ve uzun, parlayan dilini doğrudan kameraya doğru uzatıyor. 50mm lens, makro yakın odak. Ses Efektleri: (ani mutlak sessizlik, ardından içsel ıslak bir ses ve sert bir ses hatası).
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5802,7 +5802,7 @@ ZAMAN ÇİZELGESİ:
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Kung Fu Şefi Noodle Hazırlığı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Kung Fu Şefi Noodle Hazırlığı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5832,9 +5832,9 @@ ZAMAN ÇİZELGESİ:
 0:12-0:15: Sabitlenmiş POV'ye kesme. Ani tam duruş. Şef wok tavayı eğer ve bitmiş yemeği porselen kaseye kaydırır—görünür: eşit şekilde kaplanmış noodle'lar, dolgun karidesler, parlak yeşillikler. Kaseyi doğrudan kameraya doğru, çerçeveyi doldurana kadar kaldırır ve sunar. Bir parmak kenara vurur—hafif titreşim. Buhar hızla yükselir, lensi tamamen kaplayana kadar genişler ve temiz bir kararma ile sona erer.
 ```
 
-**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K takipçi
+**Gönderen** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K takipçi
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5847,7 +5847,7 @@ ZAMAN ÇİZELGESİ:
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Slapstick Dondurma Komedisi Animasyonu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Slapstick Dondurma Komedisi Animasyonu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5870,9 +5870,9 @@ ZAMAN ÇİZELGESİ:
 0:11-0:15: 'Gerçek Zafer'e kırbaç geçişi. Orta yakın çekim, 50mm. Dondurmacı diz çöker ve külahı bu sefer numarasız bir şekilde nazikçe bekleyen ele yerleştirir. Bir anlık sessizlik. Figür aşağı bakar, gözleri parlar, ardından kamera geniş açıya (35mm) çekilir; figür ilk tadım için öne eğilir ve avlu alkışlara boğulur. SFX: yumuşak teslimat, nefes tutma molası, parlak çan sesi, alkış patlaması, sıcak müzik yükselişi.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5885,7 +5885,7 @@ ZAMAN ÇİZELGESİ:
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Dramatik Kıyı Golf Vuruşu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Dramatik Kıyı Golf Vuruşu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5903,7 +5903,7 @@ Uğuldayan rüzgar kükrerken mermi gibi giden top düz ve isabetli bir şekilde
 
 **Gönderen** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K takipçi
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5916,7 +5916,7 @@ Uğuldayan rüzgar kükrerken mermi gibi giden top düz ve isabetli bir şekilde
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Sinematik Orta Çağ Pazarı Kesintisiz Çekim"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Sinematik Orta Çağ Pazarı Kesintisiz Çekim"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -5966,9 +5966,9 @@ KALİTE
 fotogerçekçi, sinematik aydınlatma, yere sağlam basan kamera hareketi, zengin orta çağ atmosferi, yüksek detaylı
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6006,7 +6006,7 @@ Arkadan çekilen hızlı tempolu FPV drone takip çekimi; beyaz saçlı, 3D anim
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic'in İntikam Planı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic'in İntikam Planı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6016,9 +6016,9 @@ Arkadan çekilen hızlı tempolu FPV drone takip çekimi; beyaz saçlı, 3D anim
 Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyemi zirveye taşı.
 ```
 
-**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K takipçi
+**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K takipçi
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6031,7 +6031,7 @@ Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyem
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punch'ın Pixar tarzı duygusal yolculuğu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punch'ın Pixar tarzı duygusal yolculuğu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6041,9 +6041,9 @@ Androgenic peruğu kapıldıktan sonra intikamını planlıyor. Kortizol seviyem
 Punch hakkında bir Pixar filmi yap. Ağlamak ve ona aşık olmak istiyorum.
 ```
 
-**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K takipçi
+**Gönderen** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K takipçi
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6081,7 +6081,7 @@ Yapay zeka woke oluyor. Bunu gerçekten saldırgan yap, yani gerçekten çok sal
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Ejderha Binicisi POV Hava Savaşı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Ejderha Binicisi POV Hava Savaşı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6093,9 +6093,9 @@ Ejderha öne doğru atılır ve yanan filoya doğru dalışa geçer, binicinin e
 Sürekli elde tutulan kamera hissi, hızlı hareketlerde yoğun hareket bulanıklığı, baştan sona lenste yağmur, zaman zaman görüşü engelleyen yoğun duman, soluk ve doygunluğu azaltılmış renk paleti, film greni, temiz dijital görünüm yok. Görüntü, bu yaratığa bağlanmış bir savaş muhabiri gibi tehlikeli ve gerçek hissettiriyor.
 ```
 
-**Gönderen** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K takipçi
+**Gönderen** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K takipçi
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6108,7 +6108,7 @@ Sürekli elde tutulan kamera hissi, hızlı hareketlerde yoğun hareket bulanık
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Larry David'in Seedance 2 talihsizliği"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Larry David'in Seedance 2 talihsizliği"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6118,9 +6118,9 @@ Sürekli elde tutulan kamera hissi, hızlı hareketlerde yoğun hareket bulanık
 Larry David, Seedance 2 kullandığı için başını belaya sokuyor - saçma olduğundan ve 50 beğeni aldığından emin ol.
 ```
 
-**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K takipçi
+**Gönderen** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K takipçi
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6183,7 +6183,7 @@ Bir uçurum şehrinde speeder takibi (tek kesintisiz çekim) Taşa oyulmuş anı
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy ve Goku Destansı Savaşı"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Luffy ve Goku Destansı Savaşı"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6193,9 +6193,9 @@ Bir uçurum şehrinde speeder takibi (tek kesintisiz çekim) Taşa oyulmuş anı
 Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 ```
 
-**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K takipçi
+**Gönderen** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K takipçi
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6235,7 +6235,7 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 ![Type](https://img.shields.io/badge/Video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden, Jujutsu Kaisen karakterlerine eğitim veriyor"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden, Jujutsu Kaisen karakterlerine eğitim veriyor"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Bu videoyu gptproto.com'da oynat</a></sub>
 </div>
 
@@ -6245,9 +6245,9 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 tyler durden, jujutsu kaisen karakterlerine dövüş kulübü kurallarını açıklıyor. canlı aksiyon tarzı.
 ```
 
-**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K takipçi
+**Gönderen** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K takipçi
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 

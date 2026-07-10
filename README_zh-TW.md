@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 精選提示詞 | 📚 Total prompts | 🎬 模型 | 🔄 最後更新 |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AI 討論迷因
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 討論迷因"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI 討論迷因"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 用一個迷因來總結 AI 討論——確保它夠白癡且能獲得 50 個讚。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 追蹤者
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ Waffle House 的普通輪班 - 確保它看起來很荒謬並獲得 50 個讚。
 
 ### 3. 魯夫在千陽號上寫程式時暴怒
 
-![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="魯夫在千陽號上寫程式時暴怒"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="魯夫在千陽號上寫程式時暴怒"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ Waffle House 的普通輪班 - 確保它看起來很荒謬並獲得 50 個讚。
 魯夫在千陽號上用 Macbook 寫程式，暴怒，然後把它扔到船外。
 ```
 
-**作者** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K 追蹤者
+**作者** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K 追蹤者
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ Waffle House 的普通輪班 - 確保它看起來很荒謬並獲得 50 個讚。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 的反擊"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Punch the Monkey 的反擊"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ Waffle House 的普通輪班 - 確保它看起來很荒謬並獲得 50 個讚。
 Punch the Monkey 進行反擊。讓女孩們感到驕傲。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 追蹤者
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -324,7 +324,7 @@ Web Audio 合成：持續的低嗡嗡聲（58/116 Hz + 鋸齒波雜訊）、高�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="露娜衝浪動漫動作序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="露娜衝浪動漫動作序列"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -696,9 +696,9 @@ image1是嚴格的角色參考。
 沒有浮水印。
 ```
 
-**作者** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K 追蹤者
+**作者** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K 追蹤者
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -826,7 +826,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, Jax 看著沙漠中遠處的對手
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="動畫電影前期開發板"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="動畫電影前期開發板"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -890,7 +890,7 @@ B 部分 — 分鏡腳本
 
 **作者** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K 追蹤者
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -903,7 +903,7 @@ B 部分 — 分鏡腳本
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="末日後的火箭筒失誤與蜂巢逃脫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="末日後的火箭筒失誤與蜂巢逃脫"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -1087,9 +1087,9 @@ P08：低 24mm 寬鏡頭。C2 抱著 C3 進入，C1 跟隨，她們將格柵拉�
 P09：鎖定的 50mm 內部。C1 和 C2 蹲下，C3 安全地在中間；蜜蜂在外面盤旋搜索而沒有看到她們。SFX：滴水聲，悶響的嗡嗡聲，沉默。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1714,7 +1714,7 @@ P06：C2 作嘔並將 C1 向前噴出；她趴在前景中央，渾身沾滿口�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="白光劍岸邊決鬥分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="白光劍岸邊決鬥分鏡腳本"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -1812,9 +1812,9 @@ P01、P02、P04、P07、P08、P09、P13、P14 和 P15 共享相同的岸邊戰�
 15：英雄終結。白光劍切開 C2 下方的暴露機制；火花和零件向外爆炸，機器人崩潰在岸邊。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2413,7 +2413,7 @@ P20：搖臂廣角最終；當她握住插入的光劍柄時，蒼白的環在�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃脫網路動作序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma 逃脫網路動作序列"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -2506,9 +2506,9 @@ P09：插入手機點擊，然後傾斜至窗戶，當房間引爆時，伴隨�
 P10：最終街道廣角保持：煙霧從上方湧出，當 Karma 進入夜間陰霾並消失時。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2928,7 +2928,7 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="伊斯坦堡日落時分的電影級無人機飛行"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="伊斯坦堡日落時分的電影級無人機飛行"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -2939,9 +2939,9 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 繪製的紅線不得出現在影片中；它僅作為隱藏的飛行路徑參考。加入強烈且富有情感的土耳其電影配樂：深沉的奈伊笛旋律、戲劇性的達布卡鼓節奏、管弦樂弦樂、細膩的巴拉馬琴質感、史詩般的漸強打擊樂，並在無人機抵達加拉塔塔時達到宏大的英雄式高潮。無文字、無字幕、無標誌、無圖形疊加。
 ```
 
-**作者** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K 追蹤者
+**作者** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K 追蹤者
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3117,7 +3117,7 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="奢華巧克力廣告電影級序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="奢華巧克力廣告電影級序列"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -3167,9 +3167,9 @@ P06、P07、P08、P09和P10共享相同的目的地佈局。床保持在墜落�
 奢華商業廣告、電影級寫實感、情緒化公寓、美食攝影、淺景深、手持攝影動感、高級生活風格美學、溫暖實用燈光、冷色調螢幕光、光澤巧克力質感、富有表現力的臉部特寫、快節奏剪輯、情感真實感、現代廣告、電影級張力、放縱氛圍、優雅的混亂、戲劇性燈光、高端商業電影製作。
 ```
 
-**作者** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K 追蹤者
+**作者** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K 追蹤者
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3219,7 +3219,7 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda 對決 AIMI-X：工業破壞行動"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda 對決 AIMI-X：工業破壞行動"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -3263,9 +3263,9 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 將提示詞和角色生成進度留在下方。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3361,7 +3361,7 @@ Gugugaga只有一個餃子……但她還是在雨中把它分給了飢餓的小
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010年代懷舊數位相機校園Vlog"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010年代懷舊數位相機校園Vlog"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -3467,9 +3467,9 @@ REC圖示閃爍。
 關鍵字：懷舊數位相機、Cyber-shot LCD Vlog、校園生活記憶素材、道地CCD渲染、手持紀錄片美學、隨性瞬間、真實相機缺陷、2010年代初期美學懷舊。
 ```
 
-**作者** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K 追蹤者
+**作者** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K 追蹤者
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3688,7 +3688,7 @@ REC圖示閃爍。
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速度動漫武術訓練分鏡腳本"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速度動漫武術訓練分鏡腳本"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -3960,9 +3960,9 @@ Jūran 冷靜。
 無文字。無浮水印。無 UI。無分鏡腳本以外的額外動作。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4059,7 +4059,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="電影級棒球打擊表演"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="電影級棒球打擊表演"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4083,9 +4083,9 @@ Jūran 冷靜。
 乾淨的電影級燈光
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4254,7 +4254,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4372,9 +4372,9 @@ Jūran 冷靜。
 流動：紮根站姿與精準打擊時受限，空中動作、旋轉布料與元素釋放時自由
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4387,7 +4387,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="體育場轉播鏡頭下的足球迷"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="體育場轉播鏡頭下的足球迷"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4397,9 +4397,9 @@ Jūran 冷靜。
 高畫質、寫實的轉播鏡頭，拍攝一名年輕女子在 Real Madrid 對陣 Barcelona 的比賽期間坐在擁擠的足球場內。她留著一頭長直黑髮，皮膚白皙帶有淡淡雀斑，擁有一雙迷人的藍色眼睛和貓眼眼線。她身穿白色 Real Madrid 主場球衣。場景捕捉到她若有所思地坐著，手托著下巴，不時環顧四周並將頭髮撥到耳後。電影級燈光，淺景深效果，背景中的人群模糊處理。在右上角，一個寫實的體育記分牌顯示「64:30 RMA 2-1 BAR」，並帶有「bein SPORTS 1 LIVE」標誌。影片具有專業電視攝影機轉播的輕微顆粒感和動態感。
 ```
 
-**作者** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K 追蹤者
+**作者** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K 追蹤者
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4465,7 +4465,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="競技格鬥遊戲戰鬥序列"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="競技格鬥遊戲戰鬥序列"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4499,9 +4499,9 @@ Jūran 冷靜。
 8K 照片級真實感，套裝上超細緻的布料紋理，電影級光影，格鬥動作完美的動態模糊，高動態範圍，無偽影。全程保持與 [player1] 和 [player2] 完全相同的面部與服裝，電影級穩定的面部特徵。
 ```
 
-**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 追蹤者
+**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 追蹤者
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4514,7 +4514,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="電影感跳繩表演"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="電影感跳繩表演"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4539,9 +4539,9 @@ Jūran 冷靜。
 乾淨的電影燈光
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4633,7 +4633,7 @@ Jūran 冷靜。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="名人抵達紐約市"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="名人抵達紐約市"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -4659,9 +4659,9 @@ Jūran 冷靜。
 13–15秒：攝影機移動並傾斜試圖跟隨。一個豪華車隊部分可見，包含三輛大型高級 SUV。一名保全人員打開中間那輛 Suburban 的後門。主角迅速進入並搖下車窗。車輛開始向前行駛，他向群眾揮手。隨著人們跳起來試圖捕捉這一刻，攝影機稍微向上抬起。
 ```
 
-**作者** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K 追蹤者
+**作者** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K 追蹤者
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4978,7 +4978,7 @@ SFX：寂靜 → 崩潰尖叫
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="烹飪精度：風格化 3D 動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="烹飪精度：風格化 3D 動畫"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5022,9 +5022,9 @@ SFX：寂靜 → 崩潰尖叫
 完美擺盤的美食——乾淨、優雅、平衡。顧客慢慢拿起一口，猶豫了一下，然後品嚐。表情瞬間轉變為震驚和難以置信。廚師站在後面，雙臂交叉。旋轉一次刀，將其猛地合入刀具卷。自信地點了點頭。
 ```
 
-**作者** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K 追蹤者
+**作者** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K 追蹤者
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5037,7 +5037,7 @@ SFX：寂靜 → 崩潰尖叫
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="電影級角色介紹與參考表"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="電影級角色介紹與參考表"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5163,9 +5163,9 @@ SFX：寂靜 → 崩潰尖叫
 以自信的中景或全景結束，角色形象完全確立。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5236,7 +5236,7 @@ SFX：寂靜 → 崩潰尖叫
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="高辛烷值的一級方程式賽車場景"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="高辛烷值的一級方程式賽車場景"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5248,9 +5248,9 @@ SFX：寂靜 → 崩潰尖叫
 下方為 Seedance 2.0 提示詞 👇
 ```
 
-**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 追蹤者
+**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 追蹤者
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5325,7 +5325,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 馬背籃球轉播"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 馬背籃球轉播"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5351,9 +5351,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 [風格與品質增強] 標準 720p 電視轉播解析度、真實動態模糊、現場體育數位雜訊、多主體物理一致性、穩定的馬匹與騎手解剖結構。
 ```
 
-**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K 追蹤者
+**作者** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K 追蹤者
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5490,7 +5490,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="滑稽冰淇淋戲弄動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="滑稽冰淇淋戲弄動畫"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5528,9 +5528,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 }
 ```
 
-**作者** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K 追蹤者
+**作者** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K 追蹤者
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5614,7 +5614,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="華爾街商務人士的子彈時間跌倒"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="華爾街商務人士的子彈時間跌倒"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5624,9 +5624,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 子彈時間效果。一位穿著白襯衫和黑領帶的商務人士在紐約華爾街結冰潮濕的街道上滑倒並向後跌落。地上的咖啡杯中，液體向外噴濺並凍結在半空中。冰塊、水滴和咖啡飛濺物完全懸浮——時間彷彿靜止。兩側的高樓大廈營造出峽谷效應。攝影機以低角度平滑地繞著跌倒的男子進行 360 度環繞拍攝，只有攝影機在移動，而其他一切都保持完全靜止。電影般的戲劇性陰天光影，廣角鏡頭畸變。
 ```
 
-**作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K 追蹤者
+**作者** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K 追蹤者
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5639,7 +5639,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16機翼特技追蹤鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16機翼特技追蹤鏡頭"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5657,9 +5657,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 品質：8K寫實，正確的織物運動模糊，自然物理效果，無恐怖谷效應，無偽影。
 ```
 
-**作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
+**作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K 追蹤者
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5672,7 +5672,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR生存轉場：荒野到家"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR生存轉場：荒野到家"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5692,9 +5692,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 0:11-0:15：匹配剪輯。從特寫（CU）切換至中景（MS）。動作進行中的無縫轉場，當她抬起的手穿過相同的螢幕位置時，冰封的特寫變成了室內場景，保持相同的構圖和順時針漂移。動作持續不中斷，此時VR頭顯第一次清晰地戴在她的眼睛上。她抓住兩側，將其完全從臉上摘下，攝影機拉開至中景，她將頭顯放下到額頭上方，穿著寬鬆的居家服走進一個小客廳。手持旋轉繼續，揭示了沙發邊緣、散亂的毯子和冷冽的窗光，她的姿態流露出輕微的煩躁。她轉向聲音來源，向上翻了個白眼，說道：What is it。35mm自然鏡頭，球面鏡頭。音效：（頭顯帶拉伸聲、塑膠摩擦聲、安靜的房間氛圍音、襪底摩擦聲、微弱的遊戲音訊、她平復的呼吸聲、她乾脆地說What is it的聲音）。室內日光取代了冬日的對比度。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5707,7 +5707,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="高空火箭衝浪"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="高空火箭衝浪"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5726,9 +5726,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 品質：8K 照片級真實感，物理效果準確，織物運動模糊，無偽影。
 ```
 
-**作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K 追蹤者
+**作者** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K 追蹤者
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5782,7 +5782,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="辦公室職員的心理恐怖變身"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="辦公室職員的心理恐怖變身"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5801,9 +5801,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 0:12-0:15: 特寫。無需剪輯，她柔和的微笑開始顫抖並扭曲，皮膚順滑且瞬間轉變為一張蒼白、恐怖的超自然面孔，帶有濕潤的深色縫隙。她將嘴張開到不可思議的程度，並向鏡頭伸出一條長而閃亮的舌頭。50mm鏡頭，微距近焦。音效: (突然的死寂，隨後是內臟般的濕潤聲和刺耳的音訊故障聲)。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5816,7 +5816,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="功夫廚師製麵"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="功夫廚師製麵"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5846,9 +5846,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 0:12-0:15：切換至穩定 POV。突然完全靜止。廚師傾斜鍋子，將成品滑入瓷碗中——可見：均勻裹上醬汁的麵條、飽滿的蝦仁、油亮的青菜。他將碗舉起並直接呈現在攝影機前，直到填滿畫面。手指輕敲碗緣——產生細微震動。蒸氣迅速升起並擴散，直到完全覆蓋鏡頭，隨後乾淨地淡出。
 ```
 
-**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K 追蹤者
+**作者** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K 追蹤者
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5861,7 +5861,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="鬧劇冰淇淋喜劇動畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="鬧劇冰淇淋喜劇動畫"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5884,9 +5884,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 0:11-0:15：快速平移轉場進入真正的勝利。中特寫，50mm。小販跪下，這次沒有任何花招，輕輕地將甜筒放入等待的手中。靜止一拍。角色低頭，眼睛閃閃發光，隨後攝影機拉遠至廣角，35mm，角色湊近準備品嚐第一口，庭院爆發出掌聲。音效：輕柔的交接、屏息的停頓、明亮的鐘聲、掌聲爆發、溫暖的音樂升起。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5899,7 +5899,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="戲劇性的海岸高爾夫揮桿"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="戲劇性的海岸高爾夫揮桿"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5917,7 +5917,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 
 **作者** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K 追蹤者
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5930,7 +5930,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="電影感中世紀市集長鏡頭"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="電影感中世紀市集長鏡頭"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -5981,9 +5981,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 寫實、電影感燈光、穩定的攝影機運動、濃厚的中世紀氛圍、高度細節化
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6021,7 +6021,7 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic 的復仇計畫"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Androgenic 的復仇計畫"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6031,9 +6031,9 @@ Prompt: 使用 @ Reference Image 作為主角，保持面部特徵與身體比�
 Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升。
 ```
 
-**作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K 追蹤者
+**作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K 追蹤者
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6046,7 +6046,7 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punch 的皮克斯風格情感之旅"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punch 的皮克斯風格情感之旅"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6056,9 +6056,9 @@ Androgenic 在假髮被扯掉後策劃著他的復仇。讓我的皮質醇飆升
 製作一部關於 Punch 的皮克斯電影。我希望能被感動落淚，並深深愛上這個角色。
 ```
 
-**作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K 追蹤者
+**作者** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K 追蹤者
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6096,7 +6096,7 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="龍騎士視角空中戰"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="龍騎士視角空中戰"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6108,9 +6108,9 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 持續的手持攝影機感，快速移動時帶有強烈的動態模糊，全程鏡頭上有雨水，濃煙不時遮蔽視線，色調柔和且飽和度低，帶有膠卷顆粒感，沒有乾淨的數位影像感。畫面感覺危險且真實，就像是一名戰地記者被綁在這隻生物身上拍攝一樣。
 ```
 
-**作者** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K 追蹤者
+**作者** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K 追蹤者
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6123,7 +6123,7 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="賴瑞·大衛的 Seedance 2 意外"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="賴瑞·大衛的 Seedance 2 意外"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6133,9 +6133,9 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 賴瑞·大衛因為使用 Seedance 2 而惹上麻煩——確保內容荒謬滑稽，並能獲得 50 個讚。
 ```
 
-**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K 追蹤者
+**作者** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K 追蹤者
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6199,7 +6199,7 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="魯夫與悟空的史詩對決"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="魯夫與悟空的史詩對決"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6209,9 +6209,9 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 魯夫與悟空在千陽號上進行史詩般的戰鬥場景。
 ```
 
-**作者** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K 追蹤者
+**作者** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K 追蹤者
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6249,7 +6249,7 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 ![Type](https://img.shields.io/badge/%E5%BD%B1%E7%89%87-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="泰勒·德頓教導《咒術迴戰》角色"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="泰勒·德頓教導《咒術迴戰》角色"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">在 gptproto.com 播放此影片</a></sub>
 </div>
 
@@ -6259,9 +6259,9 @@ AI 變得覺醒（woke）。讓它變得非常冒犯——真的很冒犯。
 泰勒·德頓向《咒術迴戰》角色解釋鬥陣俱樂部規則。真人電影風格。
 ```
 
-**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K 追蹤者
+**作者** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K 追蹤者
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 

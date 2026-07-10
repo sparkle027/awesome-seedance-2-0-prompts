@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 厳選プロンプト数 | 📚 Total prompts | 🎬 モデル | 🔄 最終更新日 |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. AI議論のミーム
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI議論のミーム"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="AI議論のミーム"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 AIをめぐる議論をミームで要約して。バカバカしくて50いいねがつくようなやつにして。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K フォロワー
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 
 ### 3. サウザンド・サニー号でコーディング中に激怒するルフィ
 
-![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="サウザンド・サニー号でコーディング中に激怒するルフィ"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="サウザンド・サニー号でコーディング中に激怒するルフィ"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 サウザンド・サニー号でMacbookを使ってコーディングをするルフィ、激怒して海に投げ捨てる。
 ```
 
-**作成者:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K フォロワー
+**作成者:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K フォロワー
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="パンチ・ザ・モンキーの反撃"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="パンチ・ザ・モンキーの反撃"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ Waffle Houseでの平均的なシフト - ぶっ飛んだ内容にして、50い
 パンチ・ザ・モンキーが反撃する。女の子たちを誇らしい気持ちにさせよう。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K フォロワー
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -324,7 +324,7 @@ Web Audio合成：一定の低いハム音（58/116 Hz + ノコギリ波のグ�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="ルナ サーフィンアニメ アクションシーケンス"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="ルナ サーフィンアニメ アクションシーケンス"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -696,9 +696,9 @@ image1は厳密なキャラクターリファレンスです。
 透かしなし。
 ```
 
-**作成者:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K フォロワー
+**作成者:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K フォロワー
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -826,7 +826,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 砂漠の遠くにいる敵を見�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="アニメ映画プリプロダクション開発ボード"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="アニメ映画プリプロダクション開発ボード"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -890,7 +890,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 砂漠の遠くにいる敵を見�
 
 **作成者:** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K フォロワー
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -903,7 +903,7 @@ Grid 9: Dolly Out, Over Shoulder, High Angle, 砂漠の遠くにいる敵を見�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="終末世界のバズーカの空振り、そして蜂の巣からの脱出"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="終末世界のバズーカの空振り、そして蜂の巣からの脱出"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -1087,9 +1087,9 @@ P08: 低い24mmのワイド。C2がC3を抱えて入り、C1が続き、格子�
 P09: ロックされた50mmの内部。C1とC2がC3を安全に抱えてしゃがむ。蜂は彼らを見つけられず、外でホバリングして捜索する。SFX: 滴る音、くぐもった羽音、沈黙。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1714,7 +1714,7 @@ P06: C2が吐き戻してC1を前方に排出。彼女は涎まみれで前景�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="白いライトセーバーの岸辺の決闘ストーリーボード"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="白いライトセーバーの岸辺の決闘ストーリーボード"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -1812,9 +1812,9 @@ C2戦闘ドロイドの参照として@[Droideka ref]を使用してください
 15: ヒーローフィニッシュ。白いセーバーがC2の下の露出したメカニズムをカット。ドロイドが岸辺に崩れ落ちる中、火花と部品が外側に爆発する。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2413,7 +2413,7 @@ P20：クレーンワイドファイナル。彼女が突き刺したヒルト�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Karma Escape Cyber-Action Sequence"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -2506,9 +2506,9 @@ P09: 電話タップのインサート、その後窓へチルト: 部屋がオ�
 P10: 通りでの最終ワイドホールド: 上から煙が立ち上り、Karmaが夜の霞の中に移動して姿を消す。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2928,7 +2928,7 @@ C1が、目覚めて「FATHER」と言う月明かりのゴシック調の城の
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="夕暮れのイスタンブールを飛ぶシネマティックなドローン映像"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="夕暮れのイスタンブールを飛ぶシネマティックなドローン映像"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -2939,9 +2939,9 @@ C1が、目覚めて「FATHER」と言う月明かりのゴシック調の城の
 描かれた赤い線はビデオには表示させないでください。これは隠された飛行経路の参照用です。感情的で力強いトルコのシネマティックな音楽を追加してください：深いネイのメロディ、ドラマチックなダルブッカのリズム、オーケストラのストリングス、繊細なバグラマの質感、壮大な盛り上がりを見せるパーカッション、そしてドローンがガラタ塔に到達する際の壮大で英雄的なクレッシェンド。テキスト、字幕、ロゴ、グラフィックオーバーレイは一切なし。
 ```
 
-**作成者:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K フォロワー
+**作成者:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K フォロワー
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3117,7 +3117,7 @@ AUTHORITATIVEショットの設計図として@[storyboard ref]を使用して�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="高級チョコレートCMのシネマティックシーケンス"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="高級チョコレートCMのシネマティックシーケンス"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -3167,9 +3167,9 @@ AUTHORITATIVEショットの設計図として@[storyboard ref]を使用して�
 高級CM、シネマティックリアリズム、ムードのあるアパート、フードシネマトグラフィー、浅い被写界深度、手持ちカメラの躍動感、プレミアムライフスタイル美学、温かい実用的な照明、冷たい画面の光、光沢のあるチョコレートの質感、表情豊かな顔のクローズアップ、テンポの良い編集、感情的なリアリズム、現代的な広告、シネマティックな緊張感、耽溺的な雰囲気、エレガントな混沌、劇的な照明、ハイエンドなCM制作。
 ```
 
-**作成者:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K フォロワー
+**作成者:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K フォロワー
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3219,7 +3219,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: 産業サボタージュ・アクション"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: 産業サボタージュ・アクション"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -3263,9 +3263,9 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 プロンプトとキャラクター生成の進捗を以下に残します。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3361,7 +3361,7 @@ GPT Image 2 + Seedanceを使って、この心地よいピクサー風の3Dア�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010年代のノスタルジックなデジカメキャンパスVlog"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="2010年代のノスタルジックなデジカメキャンパスVlog"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -3467,9 +3467,9 @@ RECアイコンが点滅。
 キーワード：ノスタルジックなデジカメ、Cyber-shot液晶Vlog、大学生活の思い出映像、本格的なCCDレンダリング、手持ちドキュメンタリーの美学、自然な瞬間、リアルなカメラの欠陥、2010年代初頭のノスタルジー。
 ```
 
-**作成者:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K フォロワー
+**作成者:** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K フォロワー
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3688,7 +3688,7 @@ RECアイコンが点滅。
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速アニメ格闘技トレーニングの絵コンテ"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="高速アニメ格闘技トレーニングの絵コンテ"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -3960,9 +3960,9 @@ Taroが後ろに吹き飛ばされる。
 テキストなし。透かしなし。UIなし。絵コンテ以外の余分なアクションなし。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4059,7 +4059,7 @@ GPTを使用して作成した超リアルな実写スポーツドキュメン�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="映画のような野球バッティングパフォーマンス"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="映画のような野球バッティングパフォーマンス"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4083,9 +4083,9 @@ GPTを使用して作成した超リアルな実写スポーツドキュメン�
 クリーンなシネマティックライティング
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4254,7 +4254,7 @@ SFX:
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="シネマティック・カンフー・パフォーマンス・ストーリーボード"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="シネマティック・カンフー・パフォーマンス・ストーリーボード"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4372,9 +4372,9 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 流れ：根ざしたスタンスや正確な攻撃中は拘束され、空中の動き、回転する布の動き、エレメンタル解放中は自由
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4387,7 +4387,7 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="スタジアムで中継されるサッカーファン"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="スタジアムで中継されるサッカーファン"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4397,9 +4397,9 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 レアル・マドリード対バルセロナの試合中、満員のサッカー場に座る若い女性を捉えた高精細でリアルな放送ショット。彼女は長くストレートな黒髪で、色白の肌に薄いそばかすがあり、キャットアイラインを引いた印象的な青い目をしています。白いレアル・マドリードのホームユニフォームを着用。彼女が顎に手を当てて物思いにふけり、時折周囲を見渡して髪を耳にかける様子を捉えています。映画のような照明、背景の観客がぼやけた浅い被写界深度。上隅には「64:30 RMA 2-1 BAR」と表示されたリアルなスポーツスコアボードと「bein SPORTS 1 LIVE」のロゴがあります。映像には、プロのテレビカメラ放送特有のわずかな粒子感と動きがあります。
 ```
 
-**作成者:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K フォロワー
+**作成者:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K フォロワー
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4465,7 +4465,7 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="対戦格闘ゲームの戦闘シーケンス"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="対戦格闘ゲームの戦闘シーケンス"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4499,9 +4499,9 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 フォトリアルな8K、キットの超詳細な布地テクスチャ、映画のようなライティング、戦闘動作の完璧なモーションブラー、ハイダイナミックレンジ、アーティファクトなし。全編を通して[player1]と[player2]の顔と服装を完全に維持し、映画レベルの安定した顔立ち。
 ```
 
-**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K フォロワー
+**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K フォロワー
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4514,7 +4514,7 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="映画のような縄跳びパフォーマンス"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="映画のような縄跳びパフォーマンス"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4539,9 +4539,9 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 クリーンな映画のような照明
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4633,7 +4633,7 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="ニューヨーク市でのセレブリティの到着"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="ニューヨーク市でのセレブリティの到着"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -4660,9 +4660,9 @@ VFXスタイルのストーリーボードのアクセントとして、選択�
 13～15秒：カメラが追従しようとシフトし、傾く。3台の大型高級SUVからなる豪華な車列が部分的に見える。警備員が中央のSUVの後部ドアを開ける。メインキャラクターが素早く乗り込み、窓を下ろす。車両が前進し始め、彼は群衆に手を振る。人々が飛び跳ねてその瞬間を捉えようとする中、カメラが少し持ち上がる。
 ```
 
-**作成者:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K フォロワー
+**作成者:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K フォロワー
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4990,7 +4990,7 @@ SFX: 静寂 → 絶叫
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="料理の精密さ：スタイライズド3Dアニメーション"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="料理の精密さ：スタイライズド3Dアニメーション"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5034,9 +5034,9 @@ SFX: 静寂 → 絶叫
 完璧に盛り付けられたグルメ料理—清潔でエレガント、バランスが取れている。客はゆっくりと一口持ち上げ、ためらいながら味わう。表情が瞬時に驚きと信じられないという感情に変わる。シェフは腕を組んで背後に立っている。ナイフを一度回転させ、ロールにカチッと収める。自信に満ちた一度の頷き。
 ```
 
-**作成者:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K フォロワー
+**作成者:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K フォロワー
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5049,7 +5049,7 @@ SFX: 静寂 → 絶叫
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="シネマティックなキャラクター紹介およびリファレンスシート"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="シネマティックなキャラクター紹介およびリファレンスシート"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5174,9 +5174,9 @@ SFX: 静寂 → 絶叫
 最後は自信に満ちたミディアムショットまたはフルショットで、キャラクターが完全に確立された状態で終了してください。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5247,7 +5247,7 @@ img1に示されたステップ1～16の正確なシーケンスと動きに従�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="ハイオクタンなF1レースシーン"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="ハイオクタンなF1レースシーン"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5259,9 +5259,9 @@ img1に示されたステップ1～16の正確なシーケンスと動きに従�
 Seedance 2.0プロンプトは以下👇
 ```
 
-**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K フォロワー
+**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K フォロワー
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5336,7 +5336,7 @@ Seedance 2.0プロンプトは以下👇
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 馬上バスケットボール中継"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="NBA on TNT 馬上バスケットボール中継"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5362,9 +5362,9 @@ Seedance 2.0プロンプトは以下👇
 [スタイル＆品質向上] 標準的な720pテレビ放送解像度、リアルなモーションブラー、ライブスポーツ特有のデジタルノイズ、複数の被写体間での一貫した物理挙動、馬と騎手の安定した解剖学的構造。
 ```
 
-**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K フォロワー
+**作成者:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K フォロワー
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5501,7 +5501,7 @@ Seedance 2.0プロンプトは以下👇
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="ドタバタアイスクリームトリックアニメーション"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="ドタバタアイスクリームトリックアニメーション"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5539,9 +5539,9 @@ Seedance 2.0プロンプトは以下👇
 }
 ```
 
-**作成者:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K フォロワー
+**作成者:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K フォロワー
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5625,7 +5625,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="ウォール街で転倒するビジネスマンのバレットタイム"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="ウォール街で転倒するビジネスマンのバレットタイム"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5635,9 +5635,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 バレットタイム効果。ウォール街の氷で濡れた路上で、白シャツに黒いネクタイ姿のビジネスマンが後ろ向きに滑って転倒している。地面にはコーヒーカップがあり、液体が空中で凍りついたように外側へ飛び散っている。氷の塊、水滴、コーヒーの飛沫がすべて完全に静止しており、時間が凍りついている。両側にそびえ立つビル群が峡谷のような効果を生み出している。カメラは地面に近いローアングルから、転倒する男性の周りを滑らかに360度旋回し、カメラだけが動き、他のすべては完全に静止している。映画のようなドラマチックな曇天のライティング、広角レンズの歪み。
 ```
 
-**作成者:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K フォロワー
+**作成者:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K フォロワー
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5650,7 +5650,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16の翼でのスタント追跡ショット"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="F16の翼でのスタント追跡ショット"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5668,9 +5668,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 品質: 8Kフォトリアル、正しい布のモーションブラー、自然な物理演算、不気味の谷現象なし、アーティファクトなし。
 ```
 
-**作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K フォロワー
+**作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K フォロワー
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5683,7 +5683,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VRサバイバル・トランジション：荒野から自宅へ"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VRサバイバル・トランジション：荒野から自宅へ"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5703,9 +5703,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 0:11-0:15: マッチカット。CUからMS（ミディアムショット）へ。持ち上げた手が同じ画面位置を通過する際、凍てつくクローズアップが同じフレーミングと時計回りのドリフトを保ったまま、室内の映像へとシームレスに切り替わる。動きは中断されず、ここで初めてVRヘッドセットが目に装着されているのが見える。彼女は両側を掴んで顔から完全に外し、カメラがミディアムショットに開くと、ヘッドセットを額の上に上げ、ゆったりとした部屋着姿で小さなリビングルームに足を踏み入れる。手持ちカメラの周回は続き、ソファの端、散らかった毛布、冷たい窓からの光を映し出し、彼女の姿勢はわずかな苛立ちを見せる。彼女は声の方を向き、目を上に転がして「何よ」と言う。35mmナチュラルレンズ、球面。SFX: (ヘッドセットのストラップが伸びる音、プラスチックの擦れる音、静かな部屋の音、靴下で床を擦る音、かすかなゲームのオーディオ、落ち着く呼吸音、彼女の乾いた「何よ」という声)。室内の日光が冬のコントラストに取って代わる。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5718,7 +5718,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="高高度でのロケットサーフィン"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="高高度でのロケットサーフィン"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5737,9 +5737,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 クオリティ：8Kフォトリアル、正確な物理演算、布地のモーションブラー、アーティファクトなし。
 ```
 
-**作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K フォロワー
+**作成者:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K フォロワー
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5793,7 +5793,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="オフィスワーカーの心理的ホラー変身"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="オフィスワーカーの心理的ホラー変身"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5812,9 +5812,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 0:12-0:15: CU. カットなしで、彼女の柔らかな笑顔が震えて歪み、肌は滑らかかつ瞬時に、濡れた暗い継ぎ目を持つ青白く恐ろしい超自然的な顔へと変貌する。彼女はありえないほど大きく口を開け、長く光る舌を直接カメラに向かって突き出す。50mmレンズ、マクロ接写。SFX: (突然の静寂、続いて内臓的な濡れた音と激しいオーディオグリッチ)。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5827,7 +5827,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="カンフーシェフの麺作り"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="カンフーシェフの麺作り"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5857,9 +5857,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 0:12-0:15: 安定したPOVにカット。突然の完全停止。シェフは中華鍋を傾け、完成した料理を磁器のボウルに滑り込ませる。均一にソースが絡んだ麺、ぷりぷりのエビ、艶やかな野菜が見える。ボウルを持ち上げ、フレームがいっぱいになるまでカメラに向かって直接差し出す。指が縁を叩き、かすかな振動が伝わる。蒸気が急速に立ち上り、レンズを完全に覆うまで広がり、きれいにフェードアウトする。
 ```
 
-**作成者:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K フォロワー
+**作成者:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K フォロワー
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5872,7 +5872,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="ドタバタアイスクリームコメディ・アニメーション"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="ドタバタアイスクリームコメディ・アニメーション"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5895,9 +5895,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 0:11-0:15: ウィップパンで「真の勝利」へ。ミディアムクローズアップ、50mm。アイス屋が膝をつき、今度はトリックなしで優しくコーンをキャラクターの手に渡す。一瞬の静寂。キャラクターが下を見ると目が輝き、カメラがワイドショット（35mm）に引くと、キャラクターが最初の一口を食べようと身を乗り出し、中庭が拍手に包まれる。SFX: 優しい手渡し、息をのむような静寂、明るいチャイムの響き、拍手の爆発、温かい音楽の盛り上がり。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5910,7 +5910,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="ドラマチックな海岸沿いのゴルフショット"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="ドラマチックな海岸沿いのゴルフショット"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5928,7 +5928,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 
 **作成者:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K フォロワー
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5941,7 +5941,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="映画のような中世市場の連続ショット"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="映画のような中世市場の連続ショット"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -5992,9 +5992,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 フォトリアル、映画のような照明、安定したカメラモーション、豊かな中世の雰囲気、高精細
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6032,7 +6032,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="アンドロジェニックの復讐劇"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="アンドロジェニックの復讐劇"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6042,9 +6042,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 かつらを奪われたアンドロジェニックが復讐を企てる様子。コルチゾールが急上昇するような緊張感のある映像。
 ```
 
-**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K フォロワー
+**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K フォロワー
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6057,7 +6057,7 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punchのピクサー風エモーショナルな旅"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Punchのピクサー風エモーショナルな旅"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6067,9 +6067,9 @@ SHOT 15: WS、50mmプルアウト / ラップトップを閉じる動作から�
 Punchを主人公にしたピクサー映画を作ってください。泣けて、彼を大好きになれるような作品にしたいです。
 ```
 
-**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K フォロワー
+**作成者:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K フォロワー
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6107,7 +6107,7 @@ AIがウォーク（woke）化する。本当に攻撃的で、非常に不快�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="ドラゴンライダーのPOV空中戦"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="ドラゴンライダーのPOV空中戦"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6119,9 +6119,9 @@ AIがウォーク（woke）化する。本当に攻撃的で、非常に不快�
 手持ちカメラのような連続的な感覚、速い動きでの激しいモーションブラー、終始レンズにかかる雨、視界を遮る濃い煙、彩度を抑えた落ち着いたカラーパレット、フィルムグレイン、デジタル特有のきれいな映像ではない。この映像は危険でリアルであり、まるで戦場カメラマンがこの生き物に縛り付けられているかのような感覚を与える。
 ```
 
-**作成者:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K フォロワー
+**作成者:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K フォロワー
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6134,7 +6134,7 @@ AIがウォーク（woke）化する。本当に攻撃的で、非常に不快�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="ラリー・デヴィッドのSeedance 2での失敗"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="ラリー・デヴィッドのSeedance 2での失敗"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6144,9 +6144,9 @@ AIがウォーク（woke）化する。本当に攻撃的で、非常に不快�
 Seedance 2を使用したことでトラブルに巻き込まれるラリー・デヴィッド。馬鹿げた内容にして、50いいねを獲得できるようにしてください。
 ```
 
-**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K フォロワー
+**作成者:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K フォロワー
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6209,7 +6209,7 @@ Seedance 2を使用したことでトラブルに巻き込まれるラリー・�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="ルフィと悟空の壮大なバトル"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="ルフィと悟空の壮大なバトル"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6219,9 +6219,9 @@ Seedance 2を使用したことでトラブルに巻き込まれるラリー・�
 サウザンド・サニー号で壮大な戦闘シーンを繰り広げるルフィと悟空。
 ```
 
-**作成者:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K フォロワー
+**作成者:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K フォロワー
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6261,7 +6261,7 @@ Seedance 2を使用したことでトラブルに巻き込まれるラリー・�
 ![Type](https://img.shields.io/badge/%E5%8B%95%E7%94%BB-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durdenが呪術廻戦のキャラクターに教える"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durdenが呪術廻戦のキャラクターに教える"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">gptproto.comでこの動画を再生する</a></sub>
 </div>
 
@@ -6271,9 +6271,9 @@ Seedance 2を使用したことでトラブルに巻き込まれるラリー・�
 Tyler Durdenが『呪術廻戦』のキャラクターたちにファイト・クラブのルールを説明している。実写スタイル。
 ```
 
-**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K フォロワー
+**作成者:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K フォロワー
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 

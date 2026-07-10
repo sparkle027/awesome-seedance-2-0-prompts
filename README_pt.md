@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Prompts curados | 📚 Total prompts | 🎬 Modelo | 🔄 Última atualização |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. Meme sobre o Discurso de IA
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Meme sobre o Discurso de IA"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Meme sobre o Discurso de IA"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Resuma o discurso sobre IA em um meme - certifique-se de que seja idiota e ganhe 50 curtidas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K seguidores
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ Um turno comum no Waffle House - certifique-se de que seja absurdo e ganhe 50 cu
 
 ### 3. Luffy furioso programando no Thousand Sunny
 
-![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy furioso programando no Thousand Sunny"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Luffy furioso programando no Thousand Sunny"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ Um turno comum no Waffle House - certifique-se de que seja absurdo e ganhe 50 cu
 Luffy programando em um Macbook no Thousand Sunny, FURISO, e então jogando-o ao mar.
 ```
 
-**Por** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K seguidores
+**Por** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K seguidores
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ Foto de transmissão esportiva ultrarrealista de uma mulher glamorosa sentada na
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="A Retaliação do Macaco"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="A Retaliação do Macaco"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ Foto de transmissão esportiva ultrarrealista de uma mulher glamorosa sentada na
 O macaco dá um soco de volta. Deixe as garotas orgulhosas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K seguidores
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -324,7 +324,7 @@ Retorne apenas o código-fonte HTML completo. Sem explicações.
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Sequência de Ação de Anime de Surf da Luna"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Sequência de Ação de Anime de Surf da Luna"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -696,9 +696,9 @@ sem legendas,
 sem marca d'água.
 ```
 
-**Por** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K seguidores
+**Por** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K seguidores
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -826,7 +826,7 @@ Câmera: rastreamento portátil ao nível do solo, leve oscilação natural, tec
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Painel de Desenvolvimento de Pré-produção de Filme de Anime"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Painel de Desenvolvimento de Pré-produção de Filme de Anime"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -890,7 +890,7 @@ OBJETIVO FINAL: Faça com que pareça um belo painel de desenvolvimento de filme
 
 **Por** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K seguidores
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -903,7 +903,7 @@ OBJETIVO FINAL: Faça com que pareça um belo painel de desenvolvimento de filme
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Erro de Bazuca Pós-Apocalíptico e Fuga da Colmeia"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Erro de Bazuca Pós-Apocalíptico e Fuga da Colmeia"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -1087,9 +1087,9 @@ P08: Largo baixo de 24mm. C2 entra carregando C3, C1 segue, e eles puxam a grade
 P09: Interno de 50mm bloqueado. C1 e C2 se agacham com C3 em segurança entre eles; as abelhas pairam e procuram do lado de fora sem vê-los. SFX: gotas, zumbido abafado, silêncio.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1702,7 +1702,7 @@ P06: C2 vomita e ejeta C1 para frente; ela aterra estirada no centro do primeiro
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Storyboard de Duelo na Costa com Sabre Branco"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Storyboard de Duelo na Costa com Sabre Branco"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -1802,9 +1802,9 @@ BATIDAS:
 15: Finalização de herói. O sabre branco corta mecanismos expostos sob C2; faíscas e peças explodem para fora enquanto o droide colapsa na costa.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2403,7 +2403,7 @@ Estilo: Transmissão ao vivo vertical realista / vlog de mukbang, leve tremor na
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Sequência de Cyber-Ação: Fuga de Karma"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Sequência de Cyber-Ação: Fuga de Karma"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -2496,9 +2496,9 @@ P09: Inserir toque no telefone, depois inclinar para a janela enquanto o quarto 
 P10: Plano amplo final na rua: fumaça sai de cima enquanto Karma se move para a névoa noturna e desaparece.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2918,7 +2918,7 @@ Anúbis é musculoso, usa anéis e brincos nos braços e no pescoço. Ele está 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Voo de drone cinematográfico sobre Istambul ao pôr do sol"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Voo de drone cinematográfico sobre Istambul ao pôr do sol"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -2929,9 +2929,9 @@ Crie um vídeo de drone cinematográfico realista e de alta velocidade sobre Ist
 A linha vermelha desenhada não deve aparecer no vídeo; é apenas uma referência oculta de trajetória de voo. Adicione uma música cinematográfica turca emocional e poderosa: melodia profunda de ney, ritmo dramático de darbuka, cordas orquestrais, textura sutil de bağlama, percussão épica crescente e um grande crescendo heroico à medida que o drone alcança a Torre de Gálata. Sem texto, sem legendas, sem logotipos, sem sobreposições gráficas.
 ```
 
-**Por** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K seguidores
+**Por** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K seguidores
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3107,7 +3107,7 @@ Uma câmera de perseguição traseira contínua, sem cortes. A câmera a persegu
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Sequência Cinematográfica de Comercial de Chocolate de Luxo"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Sequência Cinematográfica de Comercial de Chocolate de Luxo"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -3157,9 +3157,9 @@ Palavras-chave Cinematográficas
 Comercial de luxo, realismo cinematográfico, apartamento intimista, cinematografia de alimentos, profundidade de campo rasa, energia de câmera na mão, estética de estilo de vida premium, iluminação prática quente, brilho de tela frio, texturas de chocolate brilhantes, closes faciais expressivos, edição em ritmo acelerado, realismo emocional, anúncio moderno, tensão cinematográfica, atmosfera indulgente, caos elegante, iluminação dramática, produção cinematográfica comercial de alto nível.
 ```
 
-**Por** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K seguidores
+**Por** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K seguidores
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3209,7 +3209,7 @@ Envie DM para o prompt completo
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: Sabotagem Industrial"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda vs AIMI-X: Sabotagem Industrial"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -3251,9 +3251,9 @@ LÓGICA DE COR: Âmbar e Azul suaves
 ESTILO: Híbrido 3D-anime pictórico cinematográfico estilizado, luz do dia quente e empoeirada, textura de metal gasto, formas suaves de cel-shadow, silhuetas limpas, detalhes nítidos de parafusos e juntas, névoa fina de poeira, impactos fisicamente motivados, sem redesenho de identidade, sem efeitos mágicos, sem ambiente desordenado.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3349,7 +3349,7 @@ Estilo de animação 3D chinesa moderna. Cena 1: Em uma grande biblioteca egípc
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="Vlog de Campus Nostálgico com Digicam dos Anos 2010"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="Vlog de Campus Nostálgico com Digicam dos Anos 2010"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -3455,9 +3455,9 @@ Corte para preto.
 Palavras-chave: digicam nostálgica, vlog LCD cyber-shot, filmagem de memórias de vida universitária, renderização CCD autêntica, estética documental de mão, momentos espontâneos, falhas de câmera realistas, nostalgia estética do início dos anos 2010.
 ```
 
-**Por** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K seguidores
+**Por** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K seguidores
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3676,7 +3676,7 @@ Saltadora olímpica desde a decolagem na plataforma até o mergulho perfeito no 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Storyboard de Treino de Artes Marciais em Anime de Alta Velocidade"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Storyboard de Treino de Artes Marciais em Anime de Alta Velocidade"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -3948,9 +3948,9 @@ Crie uma cena de treino de artes marciais em anime de alta velocidade de 15 segu
 Sem texto. Sem marca d'água. Sem interface. Sem ação extra além do storyboard.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4047,7 +4047,7 @@ Comentarista gritando com o barulho da multidão aumentando:
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Performance Cinematográfica de Rebatida de Beisebol"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Performance Cinematográfica de Rebatida de Beisebol"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4071,9 +4071,9 @@ anatomia semirrealista
 iluminação cinematográfica limpa
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4242,7 +4242,7 @@ Batida rítmica final da música, som sutil de obturador congelado, aplausos con
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Storyboard de Performance Cinematográfica de Kung Fu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Storyboard de Performance Cinematográfica de Kung Fu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4360,9 +4360,9 @@ espaço: direto durante ataques, bloqueios e estocadas, indireto durante giros e
 fluxo: contido durante posturas enraizadas e golpes precisos, livre durante movimento aéreo, movimento de tecido giratório e liberação elemental
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4375,7 +4375,7 @@ fluxo: contido durante posturas enraizadas e golpes precisos, livre durante movi
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Fã de futebol em transmissão de estádio"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Fã de futebol em transmissão de estádio"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4385,9 +4385,9 @@ fluxo: contido durante posturas enraizadas e golpes precisos, livre durante movi
 Um plano de transmissão realista e de alta definição de uma jovem sentada em um estádio de futebol lotado durante uma partida entre Real Madrid e Barcelona. Ela tem cabelos pretos longos e lisos, pele clara com sardas leves e olhos azuis marcantes com delineador gatinho. Ela está vestindo a camisa branca do Real Madrid. A cena a captura sentada pensativa com a mão no queixo, ocasionalmente olhando em volta e colocando o cabelo atrás da orelha. Iluminação cinematográfica, profundidade de campo rasa com a multidão desfocada ao fundo. No canto superior, um placar esportivo realista exibe '64:30 RMA 2-1 BAR' com um logotipo 'bein SPORTS 1 LIVE'. O vídeo tem o leve granulado e o movimento de uma transmissão profissional de câmera de TV.
 ```
 
-**Por** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K seguidores
+**Por** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K seguidores
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4453,7 +4453,7 @@ Um professor escreve uma prova matemática para identidades trigonométricas em 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Sequência de Combate de Jogo de Luta Competitivo"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Sequência de Combate de Jogo de Luta Competitivo"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4487,9 +4487,9 @@ ESTILO E MELHORIAS DE QUALIDADE
 Fotorrealista 8K, texturas de tecido ultra detalhadas nos kits, iluminação cinematográfica, desfoque de movimento perfeito para os movimentos de luta, alta faixa dinâmica, sem artefatos. Exatamente os mesmos rostos e roupas de [player1] e [player2] durante todo o tempo, características faciais estáveis de nível cinematográfico.
 ```
 
-**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K seguidores
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K seguidores
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4502,7 +4502,7 @@ Fotorrealista 8K, texturas de tecido ultra detalhadas nos kits, iluminação cin
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Performance Cinematográfica de Pular Corda"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Performance Cinematográfica de Pular Corda"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4527,9 +4527,9 @@ anatomia semirrealista
 iluminação cinematográfica limpa
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4621,7 +4621,7 @@ Sem portas extras, sem saídas duplicadas, sem inversão de direção, sem entra
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Chegada de Celebridade na Cidade de Nova York"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Chegada de Celebridade na Cidade de Nova York"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -4647,9 +4647,9 @@ Ele caminha até um fã e assina uma foto impressa que ela está segurando de (I
 13–15s: A câmera muda e inclina tentando seguir. Um comboio de luxo torna-se parcialmente visível, apresentando três grandes SUVs premium. Um membro da segurança abre a porta traseira do Suburban no meio dos três. O personagem principal entra rapidamente e abaixa a janela. Os veículos começam a avançar enquanto ele acena para a multidão. A câmera levanta ligeiramente enquanto as pessoas pulam e tentam capturar o momento.
 ```
 
-**Por** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K seguidores
+**Por** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K seguidores
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4969,7 +4969,7 @@ Anúbis é musculoso e usa anéis nos braços e no pescoço. Sua voz é grave e 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Precisão Culinária: Uma Animação 3D Estilizada"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Precisão Culinária: Uma Animação 3D Estilizada"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5013,9 +5013,9 @@ REVELAÇÃO FINAL
 Prato gourmet perfeitamente montado—limpo, elegante, equilibrado. Cliente levanta lentamente uma garfada, hesita, então prova. A expressão muda instantaneamente para choque e descrença. Chef parado atrás, braços cruzados. Gira a faca uma vez, encaixa-a no rolo. Um aceno confiante.
 ```
 
-**Por** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K seguidores
+**Por** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K seguidores
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5028,7 +5028,7 @@ Prato gourmet perfeitamente montado—limpo, elegante, equilibrado. Cliente leva
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Introdução Cinematográfica de Personagem e Folha de Referência"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Introdução Cinematográfica de Personagem e Folha de Referência"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5154,9 +5154,9 @@ cinematográfica e consistente
 Termine com um plano médio ou geral confiante, com o personagem totalmente estabelecido.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5227,7 +5227,7 @@ Não deve haver diálogo, texto ou narração.
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Cena de corrida de Fórmula 1 de alta octanagem"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Cena de corrida de Fórmula 1 de alta octanagem"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5239,9 +5239,9 @@ Esta é a F1 que merecemos, não a porcaria de Mario Kart em que os regulamentos
 Prompt do Seedance 2.0 abaixo 👇
 ```
 
-**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K seguidores
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K seguidores
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5316,7 +5316,7 @@ Som: rugido ensurdecedor do bar/celebração → estalo → onda de choque profu
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Transmissão de Basquete a Cavalo da NBA na TNT"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Transmissão de Basquete a Cavalo da NBA na TNT"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5342,9 +5342,9 @@ Estilo de Filme: Transmissão de TV da NBA autêntica da era dos anos 2010, grá
 [ESTILO E MELHORIAS DE QUALIDADE] Resolução de transmissão de TV padrão de 720p, desfoque de movimento autêntico, ruído digital de esportes ao vivo, física coerente para múltiplos sujeitos, anatomia estável do cavalo e do cavaleiro.
 ```
 
-**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K seguidores
+**Por** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K seguidores
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5481,7 +5481,7 @@ Estilo chibi fofo da Firefly de Honkai: Star Rail brincando de esconde-esconde, 
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Animação de Truque de Sorvete Slapstick"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Animação de Truque de Sorvete Slapstick"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5519,9 +5519,9 @@ Estilo chibi fofo da Firefly de Honkai: Star Rail brincando de esconde-esconde, 
 }
 ```
 
-**Por** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K seguidores
+**Por** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K seguidores
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5605,7 +5605,7 @@ SHOT 15: WS, 50mm pull-out / L-cut com um match do fechamento do laptop para o r
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Homem de negócios em queda estilo bullet time em Wall Street"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Homem de negócios em queda estilo bullet time em Wall Street"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5615,9 +5615,9 @@ SHOT 15: WS, 50mm pull-out / L-cut com um match do fechamento do laptop para o r
 Efeito bullet time. Um homem de negócios de camisa branca e gravata preta escorregando e caindo para trás em uma rua gelada e molhada em Wall Street, Nova York. Xícara de café no chão, líquido explodindo para fora congelado no ar. Pedaços de gelo, gotas de água e respingos de café totalmente suspensos — o tempo está congelado. Prédios altos em ambos os lados criando um efeito de cânion. A câmera orbita suavemente 360 graus ao redor do homem em queda em um ângulo baixo próximo ao solo, apenas a câmera se move enquanto todo o resto permanece perfeitamente imóvel. Iluminação cinematográfica dramática de dia nublado, distorção de lente grande angular.
 ```
 
-**Por** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K seguidores
+**Por** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K seguidores
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5630,7 +5630,7 @@ Efeito bullet time. Um homem de negócios de camisa branca e gravata preta escor
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Tomada de acompanhamento de acrobacia na asa do F16"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Tomada de acompanhamento de acrobacia na asa do F16"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5648,9 +5648,9 @@ linha do tempo:
 qualidade: 8K fotorrealista, desfoque de movimento de tecido correto, física natural, sem vale da estranheza, sem artefatos.
 ```
 
-**Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K seguidores
+**Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K seguidores
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5663,7 +5663,7 @@ qualidade: 8K fotorrealista, desfoque de movimento de tecido correto, física na
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="Transição de Sobrevivência em RV: Da Natureza ao Lar"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="Transição de Sobrevivência em RV: Da Natureza ao Lar"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5683,9 +5683,9 @@ LINHA DO TEMPO:
 0:11-0:15: CORTE POR CORRESPONDÊNCIA. Close-up para plano médio. Transição fluida no meio do movimento enquanto suas mãos levantadas cruzam a mesma posição na tela e o close-up congelado se torna o interior da casa com o mesmo enquadramento e deriva no sentido horário. O movimento continua ininterrupto, e agora um headset de RV está visivelmente preso sobre seus olhos pela primeira vez. Ela agarra ambos os lados, retira-o completamente do rosto, e a câmera abre para um plano médio enquanto ela o deixa cair sobre a testa e entra em uma pequena sala de estar com roupas confortáveis. A órbita na mão continua, revelando bordas de sofá, cobertores espalhados e luz fria da janela enquanto sua postura cai em leve aborrecimento. Ela se vira para a voz, revira os olhos e diz, O que foi?. Lente natural de 35mm, esférica. SFX: (estiramento da alça do headset, atrito de plástico, tom de sala silencioso, raspagem de meia, áudio de jogo tênue, sua respiração acalmando, sua voz seca dizendo O que foi?). A luz do dia interna substitui o contraste de inverno.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5698,7 +5698,7 @@ LINHA DO TEMPO:
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Surfe de Foguete em Alta Altitude"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Surfe de Foguete em Alta Altitude"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5717,9 +5717,9 @@ LINHA DO TEMPO: 0-3s: Um cara de jeans e camiseta preta mal consegue se segurar 
 QUALIDADE: 8K fotorrealista, física correta, desfoque de movimento do tecido, sem artefatos.
 ```
 
-**Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K seguidores
+**Por** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K seguidores
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5773,7 +5773,7 @@ Fotorrealista 8K, texturas ultra detalhadas, iluminação cinematográfica, desf
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Transformação de horror psicológico de funcionária de escritório"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Transformação de horror psicológico de funcionária de escritório"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5792,9 +5792,9 @@ LINHA DO TEMPO:
 0:12-0:15: Close-up (CU). Sem cortes, seu sorriso suave treme e se distorce, sua carne se contorce instantaneamente e suavemente em um rosto sobrenatural pálido e horrível com costuras escuras e úmidas. Ela abre a boca de forma impossível e estende uma língua longa e brilhante diretamente para a câmera. Lente 50mm, foco macro próximo. Efeitos sonoros: (silêncio súbito, seguido por um som visceral úmido e uma falha de áudio severa).
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5807,7 +5807,7 @@ LINHA DO TEMPO:
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Preparação de Macarrão do Chef Kung Fu"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Preparação de Macarrão do Chef Kung Fu"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5837,9 +5837,9 @@ LINHA DO TEMPO:
 0:12-0:15: Corte para POV estabilizado. Parada total repentina. O chef inclina o wok e desliza o prato finalizado para a tigela de porcelana—visível: macarrão uniformemente coberto, camarões suculentos, vegetais brilhantes. Ele levanta e apresenta a tigela diretamente para a câmera até que ela preencha o quadro. Um dedo toca a borda—vibração sutil. O vapor sobe rapidamente, expandindo-se até cobrir totalmente a lente para um desvanecimento limpo.
 ```
 
-**Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K seguidores
+**Por** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K seguidores
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5852,7 +5852,7 @@ LINHA DO TEMPO:
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Animação de Comédia Slapstick com Sorvete"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Animação de Comédia Slapstick com Sorvete"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5875,9 +5875,9 @@ LINHA DO TEMPO:
 0:11-0:15: Transição de chicote (whip pan) para A Vitória Real. Plano médio fechado, 50mm. O vendedor se ajoelha e coloca a casquinha gentilmente na mão à espera, sem truques desta vez. Uma batida de silêncio. A figura olha para baixo, os olhos brilham, então a câmera se afasta para um plano aberto, 35mm, enquanto a figura se inclina para a primeira mordida e o pátio explode em aplausos. SFX: entrega suave, pausa de respiração contida, brilho de sino, explosão de aplausos, música quente subindo.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5890,7 +5890,7 @@ LINHA DO TEMPO:
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Tacada de Golfe Dramática na Costa"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Tacada de Golfe Dramática na Costa"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5908,7 +5908,7 @@ O vento uivante ruge enquanto o projétil viaja de forma reta e precisa. O green
 
 **Por** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K seguidores
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5921,7 +5921,7 @@ O vento uivante ruge enquanto o projétil viaja de forma reta e precisa. O green
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Tomada Contínua Cinematográfica de Mercado Medieval"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Tomada Contínua Cinematográfica de Mercado Medieval"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -5972,9 +5972,9 @@ QUALIDADE
 fotorrealista, iluminação cinematográfica, movimento de câmera fundamentado, atmosfera medieval rica, altamente detalhado
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6012,7 +6012,7 @@ Tomada de rastreamento de drone FPV em ritmo acelerado por trás, seguindo de pe
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="O Plano Vingativo de Androgenic"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="O Plano Vingativo de Androgenic"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6022,9 +6022,9 @@ Tomada de rastreamento de drone FPV em ritmo acelerado por trás, seguindo de pe
 Androgenic planeja sua vingança depois de ter sua peruca arrancada. Faça meu cortisol disparar.
 ```
 
-**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K seguidores
+**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K seguidores
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6037,7 +6037,7 @@ Androgenic planeja sua vingança depois de ter sua peruca arrancada. Faça meu c
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Uma jornada emocional ao estilo Pixar de Punch"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Uma jornada emocional ao estilo Pixar de Punch"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6047,9 +6047,9 @@ Androgenic planeja sua vingança depois de ter sua peruca arrancada. Faça meu c
 Faça um filme da Pixar sobre Punch. Eu quero chorar e me apaixonar por ele.
 ```
 
-**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K seguidores
+**Por** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K seguidores
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6087,7 +6087,7 @@ IA torna-se woke. Torne isso realmente ofensivo - tipo, muito ofensivo mesmo.
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Combate Aéreo na Visão de um Cavaleiro de Dragão"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Combate Aéreo na Visão de um Cavaleiro de Dragão"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6099,9 +6099,9 @@ O dragão inclina-se para frente e mergulha em direção à frota em chamas, as 
 Sensação de câmera na mão contínua, forte desfoque de movimento em movimentos rápidos, chuva na lente durante todo o tempo, fumaça espessa obscurecendo a visibilidade às vezes, paleta de cores suaves e dessaturadas, granulação de filme, sem aparência digital limpa. A filmagem parece perigosa e real, como um correspondente de guerra amarrado a esta criatura.
 ```
 
-**Por** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K seguidores
+**Por** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K seguidores
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6114,7 +6114,7 @@ Sensação de câmera na mão contínua, forte desfoque de movimento em moviment
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="O contratempo de Larry David com o Seedance 2"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="O contratempo de Larry David com o Seedance 2"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6124,9 +6124,9 @@ Sensação de câmera na mão contínua, forte desfoque de movimento em moviment
 Larry David se mete em encrenca por usar o Seedance 2 - certifique-se de que seja absurdo e ganhe 50 curtidas.
 ```
 
-**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K seguidores
+**Por** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K seguidores
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6189,7 +6189,7 @@ Perseguição de speeder através de uma cidade no penhasco (tomada única cont�
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Batalha Épica de Luffy e Goku"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Batalha Épica de Luffy e Goku"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6199,9 +6199,9 @@ Perseguição de speeder através de uma cidade no penhasco (tomada única cont�
 Luffy e Goku tendo uma cena de luta épica no Sunny.
 ```
 
-**Por** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K seguidores
+**Por** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K seguidores
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6241,7 +6241,7 @@ Luffy e Goku tendo uma cena de luta épica no Sunny.
 ![Type](https://img.shields.io/badge/V%C3%ADdeo-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden ensinando personagens de Jujutsu Kaisen"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Tyler Durden ensinando personagens de Jujutsu Kaisen"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Reproduzir este vídeo no gptproto.com</a></sub>
 </div>
 
@@ -6251,9 +6251,9 @@ Luffy e Goku tendo uma cena de luta épica no Sunny.
 tyler durden explica as regras do clube da luta para personagens de jujutsu kaisen. estilo live action.
 ```
 
-**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K seguidores
+**Por** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K seguidores
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 

@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Курируемых промптов | 📚 Total prompts | 🎬 Модель | 🔄 Последнее обновление |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-10 03:36:29.524 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-10 07:39:03.858 UTC** |
 
 </div>
 
@@ -126,10 +126,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 1. Мем о дискуссиях вокруг ИИ
 
-![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-69K-e0245e)
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-68.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Мем о дискуссиях вокруг ИИ"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2022463429823598999_0_poster.jpg" width="640" alt="Мем о дискуссиях вокруг ИИ"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -139,9 +139,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обобщи дискуссии об ИИ в виде мема — сделай его максимально абсурдным, чтобы он набрал 50 лайков.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K подписчиков
 
-❤️ 69K · 🔁 6.3K · 🔖 20.6K · 👁 14.8M
+❤️ 68.8K · 🔁 6.3K · 🔖 20.5K · 👁 15.1M
 
 <sub>📅 Feb 14, 2026</sub>
 
@@ -176,10 +176,10 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 ### 3. Луффи в ярости программирует на «Таузенд Санни»
 
-![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-19K-e0245e)
+![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-18.9K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Луффи в ярости программирует на «Таузенд Санни»"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021349878232907790_0_poster.jpg" width="640" alt="Луффи в ярости программирует на «Таузенд Санни»"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -189,9 +189,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Луффи программирует на Macbook на «Таузенд Санни», В ЯРОСТИ, а затем выбрасывает его за борт.
 ```
 
-**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.3K подписчиков
+**Автор:** [BOOTOSHI 👑 ✓](https://x.com/KingBootoshi) (@KingBootoshi) · 51.9K подписчиков
 
-❤️ 19K · 🔁 1.2K · 🔖 6.8K · 👁 7.2M
+❤️ 18.9K · 🔁 1.2K · 🔖 6.7K · 👁 7.2M
 
 <sub>📅 Feb 10, 2026</sub>
 
@@ -229,7 +229,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111) ![Likes](https://img.shields.io/badge/❤️-13.8K-e0245e)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Ответный удар обезьяны"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025000532646265184_0_poster.jpg" width="640" alt="Ответный удар обезьяны"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -239,9 +239,9 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 Обезьяна наносит ответный удар. Заставь девушек гордиться.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K подписчиков
 
-❤️ 13.8K · 🔁 1.8K · 🔖 3.6K · 👁 1.4M
+❤️ 13.8K · 🔁 1.8K · 🔖 3.5K · 👁 1.4M
 
 <sub>📅 Feb 21, 2026</sub>
 
@@ -324,7 +324,7 @@ Raycaster (DDA) с текстурированными стенами, а так�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Аниме-экшен с серфингом Луны"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066815269453123690_0_poster.jpg" width="480" alt="Аниме-экшен с серфингом Луны"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -696,9 +696,9 @@ image1 — это строгий референс персонажа.
 без водяных знаков.
 ```
 
-**Автор:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 4.9K подписчиков
+**Автор:** [Kiki ✓](https://x.com/Mayz1169) (@Mayz1169) · 5.5K подписчиков
 
-❤️ 742 · 🔁 56 · 🔖 418 · 👁 39.2K
+❤️ 740 · 🔁 54 · 🔖 415 · 👁 41K
 
 <sub>📅 Jun 16, 2026</sub>
 
@@ -826,7 +826,7 @@ Grid 9: отъезд (Dolly Out), через плечо, верхний раку
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Доска разработки предпродакшна аниме-фильма"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066129327750877653_0_poster.jpg" width="480" alt="Доска разработки предпродакшна аниме-фильма"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -890,7 +890,7 @@ Grid 9: отъезд (Dolly Out), через плечо, верхний раку
 
 **Автор:** [Abhishek ✓](https://x.com/HeyAbhishek) (@HeyAbhishek) · 109.8K подписчиков
 
-❤️ 1.2K · 🔁 167 · 🔖 1.2K · 👁 75.8K
+❤️ 1.2K · 🔁 166 · 🔖 1.3K · 👁 80.2K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -903,7 +903,7 @@ Grid 9: отъезд (Dolly Out), через плечо, верхний раку
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Постапокалиптический промах из базуки и побег из улья"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2066117063970595106_0_poster.jpg" width="480" alt="Постапокалиптический промах из базуки и побег из улья"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -1087,9 +1087,9 @@ P08: Низкий широкий кадр 24 мм. C2 входит, неся C3,
 P09: Заблокированный внутренний кадр 50 мм. C1 и C2 приседают с C3 безопасно между ними; пчелы зависают и ищут снаружи, не видя их. SFX: капли, приглушенное жужжание, тишина.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 575 · 🔁 51 · 🔖 366 · 👁 21.4K
+❤️ 580 · 🔁 52 · 🔖 366 · 👁 23.4K
 
 <sub>📅 Jun 14, 2026</sub>
 
@@ -1707,7 +1707,7 @@ P06: C2 рвет и выплевывает C1 вперед; она призем�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Раскадровка дуэли на берегу с белым световым мечом"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2064671294134657329_0_poster.jpg" width="480" alt="Раскадровка дуэли на берегу с белым световым мечом"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -1805,9 +1805,9 @@ BEATS:
 15: Героический финиш. Белый меч разрезает открытые механизмы под C2; искры и детали разлетаются наружу, когда дроид рушится на берег.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 2.1K · 🔁 244 · 🔖 1.6K · 👁 99.8K
+❤️ 2.1K · 🔁 245 · 🔖 1.6K · 👁 102.8K
 
 <sub>📅 Jun 10, 2026</sub>
 
@@ -2406,7 +2406,7 @@ P20: Общий план с крана, финал; бледные кольца 
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Кибер-экшен сцена: Побег Кармы"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2062097934468919483_0_poster.jpg" width="480" alt="Кибер-экшен сцена: Побег Кармы"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -2499,9 +2499,9 @@ P09: Вставка нажатия на телефон, затем наклон 
 P10: Финальное широкое удержание на улице: дым валит сверху, пока Карма движется в ночную дымку и исчезает.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 795 · 🔁 82 · 🔖 742 · 👁 35.9K
+❤️ 799 · 🔁 85 · 🔖 747 · 👁 38.6K
 
 <sub>📅 Jun 3, 2026</sub>
 
@@ -2921,7 +2921,7 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Кинематографичный полет дрона над Стамбулом на закате"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2061022068330672379_0_poster.jpg" width="480" alt="Кинематографичный полет дрона над Стамбулом на закате"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -2932,9 +2932,9 @@ P06, P07, P08, P09 и P10 разделяют один и тот же целев�
 Красная нарисованная линия не должна появляться на видео; это только скрытый ориентир траектории полета. Добавьте мощную эмоциональную турецкую кинематографическую музыку: глубокая мелодия нея, драматический ритм дарбуки, оркестровые струнные, тонкая текстура багламы, эпическая нарастающая перкуссия и грандиозное героическое крещендо, когда дрон достигает Галатской башни. Без текста, без субтитров, без логотипов, без графических наложений.
 ```
 
-**Автор:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 4.9K подписчиков
+**Автор:** [ai.gezgini ✓](https://x.com/ai_gezgini) (@ai_gezgini) · 5.1K подписчиков
 
-❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 179.5K
+❤️ 1.6K · 🔁 262 · 🔖 1.7K · 👁 181.3K
 
 <sub>📅 May 31, 2026</sub>
 
@@ -3110,7 +3110,7 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Кинематографичный рекламный ролик элитного шоколада"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2060659793791226153_0_poster.jpg" width="480" alt="Кинематографичный рекламный ролик элитного шоколада"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -3160,9 +3160,9 @@ Strip cell: P10 glare / tilt rush / grin launch / final spike / release / sun ex
 Роскошная реклама, кинематографичный реализм, атмосферная квартира, фуд-съемка, малая глубина резкости, энергия ручной съемки, эстетика премиального образа жизни, теплое интерьерное освещение, холодное свечение экрана, глянцевые текстуры шоколада, выразительные крупные планы лиц, динамичный монтаж, эмоциональный реализм, современная реклама, кинематографичное напряжение, атмосфера наслаждения, элегантный хаос, драматичное освещение, высококлассное рекламное кинопроизводство.
 ```
 
-**Автор:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.4K подписчиков
+**Автор:** [Aaliya ✓](https://x.com/AIwithAliya) (@AIwithAliya) · 14.5K подписчиков
 
-❤️ 526 · 🔁 85 · 🔖 86 · 👁 34.3K
+❤️ 359 · 🔁 78 · 🔖 87 · 👁 34.4K
 
 <sub>📅 May 30, 2026</sub>
 
@@ -3212,7 +3212,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda против AIMI-X: Саботаж на производстве"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2059200035904978974_0_poster.jpg" width="480" alt="Koda против AIMI-X: Саботаж на производстве"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -3256,9 +3256,9 @@ POV: Один маленький акт доброты изменил ВСЁ
 Оставляю прогресс промпта и генерации персонажей ниже.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 710 · 🔁 73 · 🔖 461 · 👁 34.9K
+❤️ 708 · 🔁 72 · 🔖 460 · 👁 35.7K
 
 <sub>📅 May 26, 2026</sub>
 
@@ -3354,7 +3354,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="Ностальгический влог на цифровую камеру 2010-х"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2058715926451896397_0_poster.jpg" width="480" alt="Ностальгический влог на цифровую камеру 2010-х"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -3460,9 +3460,9 @@ POV: Один маленький акт доброты изменил ВСЁ
 Ключевые слова: ностальгическая цифровая камера, влог на ЖК-экран Cyber-shot, кадры воспоминаний о студенческой жизни, аутентичный рендеринг ПЗС, эстетика ручного документального кино, искренние моменты, реалистичные дефекты камеры, ностальгия по эстетике начала 2010-х.
 ```
 
-**Автор:** [Ari.prtma ✓](https://x.com/aripratama293) (@aripratama293) · 2.4K подписчиков
+**Автор:** [ARPRTMA ✓](https://x.com/aripratama293) (@aripratama293) · 2.6K подписчиков
 
-❤️ 3.1K · 🔁 298 · 🔖 2.8K · 👁 2M
+❤️ 3.1K · 🔁 297 · 🔖 2.8K · 👁 2M
 
 <sub>📅 May 25, 2026</sub>
 
@@ -3681,7 +3681,7 @@ POV: Один маленький акт доброты изменил ВСЁ
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2056692151879102768_0_poster.jpg" width="480" alt="Раскадровка высокоскоростной тренировки по боевым искусствам в стиле…"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -3953,9 +3953,9 @@ Jūran спокоен.
 Без текста. Без водяного знака. Без интерфейса. Никаких дополнительных действий, кроме раскадровки.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 660 · 🔁 92 · 🔖 612 · 👁 30.3K
+❤️ 659 · 🔁 93 · 🔖 611 · 👁 31K
 
 <sub>📅 May 19, 2026</sub>
 
@@ -4052,7 +4052,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Кинематографичное исполнение бейсбольного отбивания"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2055885174160625952_0_poster.jpg" width="480" alt="Кинематографичное исполнение бейсбольного отбивания"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4076,9 +4076,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 чистое кинематографичное освещение
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 679 · 🔁 79 · 🔖 541 · 👁 28.7K
+❤️ 673 · 🔁 77 · 🔖 541 · 👁 29.7K
 
 <sub>📅 May 17, 2026</sub>
 
@@ -4247,7 +4247,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054460932068200517_0_poster.jpg" width="480" alt="Cinematic Kung Fu Performance Storyboard"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4365,9 +4365,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 поток: связанный во время укорененных стоек и точных ударов, свободный во время воздушного движения, вращающегося движения ткани и элементального освобождения
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 1.2K · 🔁 145 · 🔖 1.1K · 👁 83.1K
+❤️ 1.3K · 🔁 148 · 🔖 1.1K · 👁 84.9K
 
 <sub>📅 May 13, 2026</sub>
 
@@ -4380,7 +4380,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Футбольный болельщик в трансляции со стадиона"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2054177744419000812_0_poster.jpg" width="480" alt="Футбольный болельщик в трансляции со стадиона"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4390,9 +4390,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 Высококачественный реалистичный кадр телетрансляции: молодая женщина сидит на переполненном футбольном стадионе во время матча Real Madrid против Barcelona. У нее длинные прямые черные волосы, бледная кожа с легкими веснушками и выразительные голубые глаза с подводкой «кошачий глаз». На ней белая домашняя футболка Real Madrid. Сцена показывает, как она задумчиво сидит, подперев подбородок рукой, периодически оглядываясь и поправляя волосы за ухом. Кинематографичное освещение, малая глубина резкости с размытой толпой на заднем плане. В верхнем углу реалистичное спортивное табло с надписью «64:30 RMA 2-1 BAR» и логотипом «bein SPORTS 1 LIVE». Видео имеет легкое зерно и динамику профессиональной телевизионной камеры.
 ```
 
-**Автор:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 5.7K подписчиков
+**Автор:** [Sairah ✓](https://x.com/Sairah_0) (@Sairah_0) · 6.4K подписчиков
 
-❤️ 4.6K · 🔁 392 · 🔖 4.2K · 👁 722.8K
+❤️ 4.6K · 🔁 393 · 🔖 4.1K · 👁 731.3K
 
 <sub>📅 May 12, 2026</sub>
 
@@ -4458,7 +4458,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Соревновательная боевая последовательность в стиле файтинг"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052783860228735260_0_poster.jpg" width="480" alt="Соревновательная боевая последовательность в стиле файтинг"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4492,9 +4492,9 @@ SFX: Звук удара ракетки, звук приземления мяч�
 Фотореализм 8K, ультрадетализированные текстуры ткани на форме, кинематографичное освещение, идеальное размытие в движении для боевых приемов, высокий динамический диапазон, отсутствие артефактов. Точно такие же лица и одежда, как у [player1] и [player2] на протяжении всего видео, стабильные черты лица уровня кино.
 ```
 
-**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K подписчиков
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
 
-❤️ 668 · 🔁 88 · 🔖 409 · 👁 121.8K
+❤️ 668 · 🔁 89 · 🔖 407 · 👁 122.1K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4507,7 +4507,7 @@ SFX: Звук удара ракетки, звук приземления мяч�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Кинематографичное выступление со скакалкой"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2052670303285739933_0_poster.jpg" width="480" alt="Кинематографичное выступление со скакалкой"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4532,9 +4532,9 @@ Style:
 чистое кинематографичное освещение
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 731 · 🔁 91 · 🔖 622 · 👁 66.7K
+❤️ 731 · 🔁 90 · 🔖 622 · 👁 67.8K
 
 <sub>📅 May 8, 2026</sub>
 
@@ -4626,7 +4626,7 @@ Style:
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Прибытие знаменитости в Нью-Йорк"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2051356500849795319_0_poster.jpg" width="480" alt="Прибытие знаменитости в Нью-Йорк"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -4653,9 +4653,9 @@ Style:
 13–15 сек: Камера смещается и наклоняется, пытаясь следовать за объектом. Частично виден роскошный кортеж из трех больших премиальных внедорожников. Сотрудник охраны открывает заднюю дверь среднего внедорожника. Главный герой быстро садится внутрь и опускает окно. Автомобили начинают движение, пока он машет толпе. Камера слегка приподнимается, когда люди подпрыгивают, пытаясь запечатлеть этот момент.
 ```
 
-**Автор:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 18.9K подписчиков
+**Автор:** [CHRIS FIRST ✓](https://x.com/chrisfirst) (@chrisfirst) · 19.1K подписчиков
 
-❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.6K
+❤️ 1.1K · 🔁 98 · 🔖 1.2K · 👁 108.9K
 
 <sub>📅 May 4, 2026</sub>
 
@@ -4981,7 +4981,7 @@ SFX: тишина → крик отчаяния
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Кулинарная точность: стилизованная 3D-анимация"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048806503478690293_0_poster.jpg" width="480" alt="Кулинарная точность: стилизованная 3D-анимация"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5025,9 +5025,9 @@ SFX: тишина → крик отчаяния
 Идеально оформленное изысканное блюдо — чистое, элегантное, сбалансированное. Клиент медленно берет кусочек, колеблется, затем пробует. Выражение лица мгновенно меняется на шок и недоверие. Шеф-повар стоит позади, скрестив руки. Один раз вращает нож, щелчком убирает его в чехол. Один уверенный кивок.
 ```
 
-**Автор:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.4K подписчиков
+**Автор:** [Amira Zairi ✓](https://x.com/azed_ai) (@azed_ai) · 58.8K подписчиков
 
-❤️ 871 · 🔁 79 · 🔖 511 · 👁 76.6K
+❤️ 871 · 🔁 76 · 🔖 506 · 👁 76.8K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5040,7 +5040,7 @@ SFX: тишина → крик отчаяния
 ![Type](https://img.shields.io/badge/image-video-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Кинематографическое представление персонажа и справочный лист"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2048654096794538316_0_poster.jpg" width="480" alt="Кинематографическое представление персонажа и справочный лист"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5166,9 +5166,9 @@ SFX: тишина → крик отчаяния
 Закончите уверенным средним или общим планом, персонаж полностью представлен.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 20K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 2.2K · 🔁 274 · 🔖 3K · 👁 156.5K
+❤️ 2.2K · 🔁 272 · 🔖 3.1K · 👁 158.9K
 
 <sub>📅 Apr 27, 2026</sub>
 
@@ -5239,7 +5239,7 @@ SFX: тишина → крик отчаяния
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Высокооктановая сцена гонок Формулы-1"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2046730453139276011_0_poster.jpg" width="480" alt="Высокооктановая сцена гонок Формулы-1"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5251,9 +5251,9 @@ SFX: тишина → крик отчаяния
 Промпт для Seedance 2.0 ниже 👇
 ```
 
-**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K подписчиков
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
 
-❤️ 8.8K · 🔁 757 · 🔖 1.7K · 👁 1.9M
+❤️ 8.8K · 🔁 759 · 🔖 1.7K · 👁 1.9M
 
 <sub>📅 Apr 21, 2026</sub>
 
@@ -5328,7 +5328,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Трансляция баскетбола на лошадях NBA on TNT"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2045604988735406429_0_poster.jpg" width="480" alt="Трансляция баскетбола на лошадях NBA on TNT"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5354,9 +5354,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 [УЛУЧШАТЕЛИ СТИЛЯ И КАЧЕСТВА] Стандартное разрешение ТВ-трансляции 720p, аутентичное размытие движения, цифровой шум прямого эфира, согласованная физика нескольких объектов, стабильная анатомия лошади и всадника.
 ```
 
-**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.7K подписчиков
+**Автор:** [TechHalla ✓](https://x.com/techhalla) (@techhalla) · 90.5K подписчиков
 
-❤️ 996 · 🔁 87 · 🔖 379 · 👁 154.4K
+❤️ 992 · 🔁 84 · 🔖 380 · 👁 154.9K
 
 <sub>📅 Apr 18, 2026</sub>
 
@@ -5493,7 +5493,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Анимация с трюком с мороженым в стиле слэпстик"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2043411176181125604_0_poster.jpg" width="480" alt="Анимация с трюком с мороженым в стиле слэпстик"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5531,9 +5531,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 }
 ```
 
-**Автор:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 239.1K подписчиков
+**Автор:** [Linus ✦ Ekenstam ✓](https://x.com/LinusEkenstam) (@LinusEkenstam) · 238.7K подписчиков
 
-❤️ 785 · 🔁 78 · 🔖 914 · 👁 80.7K
+❤️ 782 · 🔁 76 · 🔖 909 · 👁 81.1K
 
 <sub>📅 Apr 12, 2026</sub>
 
@@ -5617,7 +5617,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Эффект Bullet time: бизнесмен падает на Уолл-стрит"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2040302447382728784_0_poster.jpg" width="480" alt="Эффект Bullet time: бизнесмен падает на Уолл-стрит"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5627,9 +5627,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Эффект Bullet time. Бизнесмен в белой рубашке и черном галстуке поскальзывается и падает назад на обледенелой мокрой улице на Уолл-стрит, Нью-Йорк. Кофейная чашка стоит на земле, жидкость разлетается в стороны, застыв в воздухе. Кусочки льда, капли воды и брызги кофе полностью зависли в пространстве — время остановилось. Высокие здания по обе стороны создают эффект каньона. Камера плавно вращается на 360 градусов вокруг падающего человека с низкого ракурса, движется только камера, в то время как все остальное остается абсолютно неподвижным. Кинематографичное, драматичное освещение в пасмурную погоду, искажение широкоугольного объектива.
 ```
 
-**Автор:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 16.8K подписчиков
+**Автор:** [Oogie ✓](https://x.com/oggii_0) (@oggii_0) · 17.3K подписчиков
 
-❤️ 1.1K · 🔁 156 · 🔖 1K · 👁 87.1K
+❤️ 1.1K · 🔁 154 · 🔖 1K · 👁 87.9K
 
 <sub>📅 Apr 4, 2026</sub>
 
@@ -5642,7 +5642,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Съемка трюка на крыле F16"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039639802824347878_0_poster.jpg" width="480" alt="Съемка трюка на крыле F16"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5660,9 +5660,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 качество: 8K фотореализм, правильное размытие ткани в движении, естественная физика, отсутствие эффекта «зловещей долины», отсутствие артефактов.
 ```
 
-**Автор:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K подписчиков
+**Автор:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K подписчиков
 
-❤️ 639 · 🔁 59 · 🔖 444 · 👁 95.7K
+❤️ 639 · 🔁 59 · 🔖 443 · 👁 95.8K
 
 <sub>📅 Apr 2, 2026</sub>
 
@@ -5675,7 +5675,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR-переход: Из дикой природы домой"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039380650109649085_0_poster.jpg" width="480" alt="VR-переход: Из дикой природы домой"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5695,9 +5695,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 0:11-0:15: MATCH CUT. CU переходит в средний план (MS). Бесшовный переход в середине движения, когда ее поднимающиеся руки пересекают ту же позицию на экране, и замерзший крупный план становится интерьером дома с тем же кадрированием и дрейфом по часовой стрелке. Движение продолжается без перерыва, и теперь на ее глазах впервые виден VR-шлем. Она берется за обе стороны, полностью снимает его с лица, и камера открывается в средний план, когда она опускает его на лоб и делает шаг в небольшую гостиную в свободной домашней одежде. Вращение ручной камеры продолжается, открывая края дивана, разбросанные одеяла и холодный свет из окна, пока ее поза выражает легкое раздражение. Она поворачивается к голосу, закатывает глаза вверх и говорит: «Ну что еще?» 35мм натуральный объектив, сферический. SFX: (растяжение ремешка шлема, трение пластика, тихий звук комнаты, скрежет носков по полу, слабый звук игры, ее дыхание успокаивается, ее сухой голос говорит «Ну что еще?»). Дневной свет в помещении заменяет зимний контраст.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 1.5K · 🔁 143 · 🔖 1K · 👁 177K
+❤️ 1.5K · 🔁 143 · 🔖 1.1K · 👁 180.1K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5710,7 +5710,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Серфинг на ракете на большой высоте"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2039308016558784836_0_poster.jpg" width="480" alt="Серфинг на ракете на большой высоте"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5729,9 +5729,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 КАЧЕСТВО: 8K фотореализм, правильная физика, размытие движения ткани, без артефактов.
 ```
 
-**Автор:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.6K подписчиков
+**Автор:** [Alex Patrascu ✓](https://x.com/maxescu) (@maxescu) · 36.8K подписчиков
 
-❤️ 1.3K · 🔁 112 · 🔖 469 · 👁 266.2K
+❤️ 1.3K · 🔁 110 · 🔖 465 · 👁 266.5K
 
 <sub>📅 Apr 1, 2026</sub>
 
@@ -5785,7 +5785,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Психологический хоррор: трансформация офисного работника"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2037046103653126392_0_poster.jpg" width="480" alt="Психологический хоррор: трансформация офисного работника"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5804,9 +5804,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 0:12-0:15: Крупный план (CU). Без склейки ее мягкая улыбка дрожит и искажается, плоть плавно и мгновенно превращается в бледное, ужасающее сверхъестественное лицо с влажными темными швами. Она открывает рот неестественно широко и высовывает длинный блестящий язык прямо в камеру. Объектив 50 мм, макросъемка. Звуковые эффекты: (внезапная тишина, за которой следует висцеральный влажный звук и резкий аудио-глюк).
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 1.4K · 🔁 42 · 🔖 1K · 👁 581.1K
+❤️ 1.4K · 🔁 43 · 🔖 997 · 👁 584.3K
 
 <sub>📅 Mar 26, 2026</sub>
 
@@ -5819,7 +5819,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Приготовление лапши в стиле кунг-фу"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2036407484836094014_0_poster.jpg" width="480" alt="Приготовление лапши в стиле кунг-фу"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5849,9 +5849,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 0:12-0:15: Склейка на стабилизированный POV. Внезапная полная остановка. Шеф-повар наклоняет вок и перекладывает готовое блюдо в фарфоровую чашу — видно: равномерно покрытая соусом лапша, крупные креветки, глянцевая зелень. Он поднимает и подносит чашу прямо к камере, пока она не заполнит кадр. Палец постукивает по краю — легкая вибрация. Пар быстро поднимается, расширяясь, пока полностью не закроет объектив для чистого затухания.
 ```
 
-**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 12.7K подписчиков
+**Автор:** [Latte ✓](https://x.com/0xbisc) (@0xbisc) · 13K подписчиков
 
-❤️ 3.1K · 🔁 240 · 🔖 2.2K · 👁 365.8K
+❤️ 3.1K · 🔁 243 · 🔖 2.2K · 👁 366.7K
 
 <sub>📅 Mar 24, 2026</sub>
 
@@ -5864,7 +5864,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Комедийная анимация в стиле слэпстик про мороженое"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2034360858780819719_0_poster.jpg" width="480" alt="Комедийная анимация в стиле слэпстик про мороженое"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5887,9 +5887,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 0:11-0:15: Переход «Whip pan» к «Настоящей победе». Средний крупный план, 50 мм. Продавец опускается на колени и аккуратно кладет рожок в протянутую руку без всяких фокусов. Секундная пауза. Фигурка смотрит вниз, глаза сияют, затем камера отъезжает на общий план, 35 мм, фигурка тянется за первым кусочком, и дворик взрывается аплодисментами. ЗВУК: мягкая передача, затаенное дыхание, яркий звон, всплеск аплодисментов, теплая музыка.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.1K
+❤️ 1.3K · 🔁 101 · 🔖 1.2K · 👁 123.4K
 
 <sub>📅 Mar 18, 2026</sub>
 
@@ -5902,7 +5902,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Драматичный удар в гольфе на побережье"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032810971140420073_0_poster.jpg" width="480" alt="Драматичный удар в гольфе на побережье"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5920,7 +5920,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 
 **Автор:** [Dheepan Ratnam ✓](https://x.com/Dheepanratnam) (@Dheepanratnam) · 14.8K подписчиков
 
-❤️ 675 · 🔁 45 · 🔖 518 · 👁 128.1K
+❤️ 669 · 🔁 44 · 🔖 516 · 👁 128.2K
 
 <sub>📅 Mar 14, 2026</sub>
 
@@ -5933,7 +5933,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Кинематографичный непрерывный кадр средневекового рынка"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2032566288967499857_0_poster.jpg" width="480" alt="Кинематографичный непрерывный кадр средневекового рынка"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -5984,9 +5984,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 фотореалистичное, кинематографичное освещение, естественное движение камеры, насыщенная средневековая атмосфера, высокая детализация
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.5K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 758 · 🔁 80 · 🔖 842 · 👁 154.1K
+❤️ 756 · 🔁 79 · 🔖 840 · 👁 156K
 
 <sub>📅 Mar 13, 2026</sub>
 
@@ -6024,7 +6024,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Мстительный план Андродженика"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2025581420341809187_0_poster.jpg" width="480" alt="Мстительный план Андродженика"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6034,9 +6034,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Андродженик замышляет месть после того, как у него сорвали парик. Сделай так, чтобы мой уровень кортизола подскочил.
 ```
 
-**Автор:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 33.5K подписчиков
+**Автор:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K подписчиков
 
-❤️ 1.2K · 🔁 112 · 🔖 355 · 👁 108.3K
+❤️ 1.2K · 🔁 111 · 🔖 351 · 👁 108.6K
 
 <sub>📅 Feb 22, 2026</sub>
 
@@ -6049,7 +6049,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Эмоциональное путешествие Панча в стиле Pixar"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2024861467317776754_0_poster.jpg" width="480" alt="Эмоциональное путешествие Панча в стиле Pixar"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6059,9 +6059,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Сними фильм Pixar про Панча. Я хочу плакать и влюбиться в него.
 ```
 
-**Автор:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.1K подписчиков
+**Автор:** [TBC ✓](https://x.com/TBC_on_X) (@TBC_on_X) · 34.3K подписчиков
 
-❤️ 4.6K · 🔁 617 · 🔖 1K · 👁 285.7K
+❤️ 4.6K · 🔁 614 · 🔖 1K · 👁 285.8K
 
 <sub>📅 Feb 20, 2026</sub>
 
@@ -6099,7 +6099,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Вид от первого лица: воздушный бой верхом на драконе"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023279081073377519_0_poster.jpg" width="480" alt="Вид от первого лица: воздушный бой верхом на драконе"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6111,9 +6111,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Ощущение ручной камеры, сильное размытие при быстром движении, дождь на объективе на протяжении всего видео, густой дым, временами перекрывающий видимость, приглушенная ненасыщенная цветовая палитра, зернистость пленки, отсутствие чистого цифрового вида. Кадры выглядят опасными и настоящими, словно военный корреспондент пристегнут к этому существу.
 ```
 
-**Автор:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 6.8K подписчиков
+**Автор:** [Atul Khola 💊 ✓](https://x.com/pixelandpump) (@pixelandpump) · 7.1K подписчиков
 
-❤️ 3.7K · 🔁 269 · 🔖 1.4K · 👁 471.1K
+❤️ 3.7K · 🔁 266 · 🔖 1.4K · 👁 471.2K
 
 <sub>📅 Feb 16, 2026</sub>
 
@@ -6126,7 +6126,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Неприятность Ларри Дэвида с Seedance 2"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2023129113549328497_0_poster.jpg" width="480" alt="Неприятность Ларри Дэвида с Seedance 2"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6136,9 +6136,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Ларри Дэвид попадает в неприятности из-за использования Seedance 2 — сделайте это нелепым, чтобы набрать 50 лайков.
 ```
 
-**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 83.9K подписчиков
+**Автор:** [Charles Curran ✓](https://x.com/charliebcurran) (@charliebcurran) · 85.3K подписчиков
 
-❤️ 8.2K · 🔁 421 · 🔖 2.9K · 👁 1.4M
+❤️ 8.1K · 🔁 419 · 🔖 2.9K · 👁 1.4M
 
 <sub>📅 Feb 15, 2026</sub>
 
@@ -6201,7 +6201,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Эпическая битва Луффи и Гоку"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021611931480609139_0_poster.jpg" width="480" alt="Эпическая битва Луффи и Гоку"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6211,9 +6211,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Луффи и Гоку в эпической сцене боя на корабле Sunny.
 ```
 
-**Автор:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.3K подписчиков
+**Автор:** [Mark Gadala-Maria ✓](https://x.com/markgadala) (@markgadala) · 75.8K подписчиков
 
-❤️ 2.4K · 🔁 141 · 🔖 731 · 👁 210.9K
+❤️ 2.4K · 🔁 141 · 🔖 723 · 👁 210.9K
 
 <sub>📅 Feb 11, 2026</sub>
 
@@ -6251,7 +6251,7 @@ Prompt: Используйте @ Reference Image в качестве главн�
 ![Type](https://img.shields.io/badge/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-Seedance%202.0-111111)
 
 <div align="center">
-<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Тайлер Дёрден обучает персонажей Jujutsu Kaisen"></a>
+<a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts"><img src="https://oss-us.gptproto.com/growth/x/images/2021412326172393760_0_poster.jpg" width="480" alt="Тайлер Дёрден обучает персонажей Jujutsu Kaisen"></a>
 <br><sub><a href="https://gptproto.com?utm_source=github&utm_medium=image&utm_campaign=awesome-seedance-2-0-prompts">Смотреть это видео на gptproto.com</a></sub>
 </div>
 
@@ -6261,9 +6261,9 @@ Prompt: Используйте @ Reference Image в качестве главн�
 Тайлер Дёрден объясняет правила Бойцовского клуба персонажам Jujutsu Kaisen. Стиль игрового кино.
 ```
 
-**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 19.6K подписчиков
+**Автор:** [Kōda ✓](https://x.com/aimikoda) (@aimikoda) · 22.2K подписчиков
 
-❤️ 2.5K · 🔁 187 · 🔖 800 · 👁 189K
+❤️ 2.5K · 🔁 185 · 🔖 796 · 👁 190.1K
 
 <sub>📅 Feb 11, 2026</sub>
 
