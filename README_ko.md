@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 엄선된 프롬프트 | 📚 Total prompts | 🎬 모델 | 🔄 마지막 업데이트 |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-07-22 06:31:39.833 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-07-22 10:28:16.489 UTC** |
 
 </div>
 
