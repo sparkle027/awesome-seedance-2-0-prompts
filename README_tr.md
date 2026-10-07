@@ -112,7 +112,7 @@ curl --request POST "https://gptproto.com/api/v3/doubao/doubao-seedance-2-0-2601
 
 | 📝 Derlenmiş istemler | 📚 Total prompts | 🎬 Model | 🔄 Son güncelleme |
 |:---:|:---:|:---:|:---:|
-| **98** | **98** | **Seedance 2.0** | **2026-10-06 23:39:02.089 UTC** |
+| **98** | **98** | **Seedance 2.0** | **2026-10-07 04:59:55.398 UTC** |
 
 </div>
 
